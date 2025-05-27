@@ -17,7 +17,7 @@ models:
     proxy: null
     cognitive_services_endpoint: null
     deployment_name: null
-    tokens_per_minute: 0
+    tokens_per_minute: auto
     requests_per_minute: 0
     max_retries: 10
     max_retry_wait: 10.0
@@ -33,7 +33,7 @@ models:
     proxy: null
     cognitive_services_endpoint: null
     deployment_name: null
-    tokens_per_minute: 0
+    tokens_per_minute: auto
     requests_per_minute: 0
     max_retries: 10
     max_retry_wait: 10.0
@@ -55,7 +55,7 @@ llm:
   proxy: null
   cognitive_services_endpoint: null
   deployment_name: null
-  tokens_per_minute: 0
+  tokens_per_minute: auto
   requests_per_minute: 0
   max_retries: 10
   max_retry_wait: 10.0
@@ -80,7 +80,7 @@ embeddings:
     proxy: null
     cognitive_services_endpoint: null
     deployment_name: null
-    tokens_per_minute: 0
+    tokens_per_minute: auto
     requests_per_minute: 0
     max_retries: 10
     max_retry_wait: 10.0
@@ -134,7 +134,7 @@ entity_extraction:
     proxy: null
     cognitive_services_endpoint: null
     deployment_name: null
-    tokens_per_minute: 0
+    tokens_per_minute: auto
     requests_per_minute: 0
     max_retries: 10
     max_retry_wait: 10.0
@@ -164,7 +164,7 @@ summarize_descriptions:
     proxy: null
     cognitive_services_endpoint: null
     deployment_name: null
-    tokens_per_minute: 0
+    tokens_per_minute: auto
     requests_per_minute: 0
     max_retries: 10
     max_retry_wait: 10.0
@@ -193,7 +193,7 @@ claim_extraction:
     proxy: null
     cognitive_services_endpoint: null
     deployment_name: null
-    tokens_per_minute: 0
+    tokens_per_minute: auto
     requests_per_minute: 0
     max_retries: 10
     max_retry_wait: 10.0
@@ -223,7 +223,7 @@ community_report:
     proxy: null
     cognitive_services_endpoint: null
     deployment_name: null
-    tokens_per_minute: 0
+    tokens_per_minute: auto
     requests_per_minute: 0
     max_retries: 10
     max_retry_wait: 10.0
