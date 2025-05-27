@@ -15,6 +15,11 @@ OPENAI_API_KEY = load_openai_api_key()
 
 # Model configurations
 OPENAI_MODELS = {
+    "gpt-4o-mini": {
+        "max_tokens": 4096,
+        "temperature": 0.0,
+        "top_p": 1.0,
+    },
     "gpt-4": {
         "max_tokens": 8192,
         "temperature": 0.0,

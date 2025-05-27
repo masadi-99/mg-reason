@@ -161,6 +161,7 @@ Edit `config.py` to modify:
 
 ### Model Selection
 Available models:
+- `gpt-4o-mini` (newest, cost-effective)
 - `gpt-3.5-turbo` (default)
 - `gpt-4`
 - `gpt-4-turbo`
@@ -218,6 +219,7 @@ mg-reason/
 ## Performance Expectations
 
 Based on medical QA benchmarks:
+- **GPT-4o-mini**: ~60-70% accuracy (cost-effective option)
 - **GPT-3.5-turbo**: ~50-60% accuracy
 - **GPT-4**: ~70-80% accuracy
 - **Chain-of-thought**: +5-10% improvement over direct
@@ -231,9 +233,10 @@ The system tracks API usage:
 - Estimated costs (varies by model)
 
 **Cost Estimation** (approximate):
+- GPT-4o-mini: ~$0.0002 per question
 - GPT-3.5-turbo: ~$0.001 per question
 - GPT-4: ~$0.01 per question
-- Full dataset evaluation: $1-10 depending on model
+- Full dataset evaluation: $0.20-10 depending on model
 
 ## Contributing
 
