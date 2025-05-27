@@ -5,6 +5,7 @@ A minimal codebase for exploring the performance of reasoning models on medical 
 ## Features
 
 - 🤖 **OpenAI Model Evaluation**: Test GPT-3.5-turbo, GPT-4, and GPT-4-turbo on medical reasoning tasks
+- 🚀 **Batch Processing**: Concurrent evaluation using OpenAI Batch API with 50% cost savings
 - 📊 **Multiple Reasoning Approaches**: Direct, chain-of-thought, self-consistency, evidence-based, and differential diagnosis prompts
 - 📚 **BMJ Best Practice Integration**: Download cardiology best practice PDFs for reference
 - 📈 **Comprehensive Analysis**: Performance metrics by specialty, prompt type, and detailed error analysis
@@ -31,8 +32,11 @@ python main.py --analyze
 ### Basic Usage
 
 ```bash
-# Quick evaluation (5 samples)
-python main.py --eval --model gpt-4
+# Quick evaluation (5 samples) - synchronous
+python main.py --eval --model gpt-4 --no-batch
+
+# Batch evaluation with cost savings
+python main.py --eval --batch --model gpt-4o-mini --sample-size 100
 
 # Full evaluation on test set
 python main.py --eval --full --model gpt-4 --split test
@@ -43,8 +47,8 @@ python main.py --eval --filtered-6 --model gpt-4o-mini
 # Evaluate cardiology questions only
 python main.py --eval --cardiology --model gpt-3.5-turbo
 
-# Multiple prompt types
-python main.py --eval --prompts direct chain_of_thought --model gpt-4
+# Multiple prompt types with batch processing
+python main.py --eval --prompts direct chain_of_thought --model gpt-4 --batch
 
 # Interactive mode for exploration
 python main.py --interactive
@@ -97,6 +101,64 @@ A specialized subset containing only these 6 high-priority medical specialties:
 - **Pediatrics**: 63 samples
 
 This filtered set represents 51.1% of the original test set (459/899 samples) and focuses on core medical domains for targeted evaluation.
+
+## Batch Processing 🚀
+
+The system now supports OpenAI's Batch API for concurrent processing with significant advantages:
+
+### Benefits
+- **50% Cost Savings**: Batch requests are charged at 50% of standard rates
+- **Higher Rate Limits**: Up to 250M tokens for GPT-4 batches
+- **Parallel Processing**: All requests processed concurrently
+- **Automatic Fallback**: Falls back to synchronous processing for small datasets
+
+### When Batch Processing is Used
+- **Automatically**: For evaluations with ≥10 total requests
+- **Manual Control**: Use `--batch` or `--no-batch` flags
+- **Interactive Mode**: Use `batch-eval` and `batch-full` commands
+- **Demo Mode**: Use `--batch-demo` for instant testing without waiting
+
+### Demo Mode 🎭
+For testing and demonstration purposes, use demo mode to see batch processing in action instantly:
+
+```bash
+# CLI demo mode
+python main.py --eval --batch-demo --sample-size 20
+
+# Interactive demo mode
+python main.py --interactive
+> batch-demo
+```
+
+Demo mode simulates batch processing using synchronous calls but shows you:
+- What the batch workflow looks like
+- Estimated cost savings (50%)
+- How results are formatted
+- Processing time comparisons
+
+### Real Batch Processing ⏰
+**Important**: Real batch processing can take 10 minutes to 24 hours to complete. This is normal and expected behavior from OpenAI's Batch API. The trade-off is significant cost savings (50%) and higher rate limits.
+
+### Batch Processing Flow
+1. **Create Batch File**: Generate JSONL file with all requests
+2. **Upload & Submit**: Upload to OpenAI and submit batch job
+3. **Monitor Progress**: Poll status every 30 seconds
+4. **Download Results**: Retrieve completed responses
+5. **Process & Analyze**: Extract answers and generate metrics
+6. **Cleanup**: Remove temporary files (optional)
+
+### Configuration
+Batch settings can be modified in `config.py`:
+```python
+BATCH_SETTINGS = {
+    "enabled": True,           # Enable batch processing
+    "min_batch_size": 10,      # Minimum requests for batch
+    "max_batch_size": 1000,    # Maximum requests per batch  
+    "poll_interval": 30,       # Status check interval (seconds)
+    "max_wait_time": 86400,    # Maximum wait time (24 hours)
+    "auto_cleanup": True       # Clean up batch files
+}
+```
 
 ## Evaluation Modes
 

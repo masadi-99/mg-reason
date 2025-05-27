@@ -22,6 +22,10 @@ results/
 logs/
 *.log
 
+# Batch processing files
+batch_files/
+*.jsonl
+
 # Python
 __pycache__/
 *.py[cod]

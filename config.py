@@ -56,4 +56,17 @@ EVALUATION_SETTINGS = {
     "reasoning_types": ["direct", "chain_of_thought", "self_consistency"],
     "num_trials": 1,
     "random_seed": 42
+}
+
+# Batch processing settings
+BATCH_SETTINGS = {
+    "enabled": True,  # Enable batch processing by default
+    "min_batch_size": 10,  # Minimum samples to use batch processing
+    "max_batch_size": 1000,  # Maximum samples per batch
+    "poll_interval": 30,  # Seconds between status checks
+    "max_wait_time": 86400,  # Maximum wait time (24 hours)
+    "batch_dir": "batch_files",  # Directory for batch files
+    "auto_cleanup": True,  # Clean up batch files after completion
+    "demo_mode": False,  # Demo mode for testing (simulates batch processing)
+    "fast_poll": False,  # Use faster polling for development (10s intervals)
 } 
