@@ -102,63 +102,116 @@ A specialized subset containing only these 6 high-priority medical specialties:
 
 This filtered set represents 51.1% of the original test set (459/899 samples) and focuses on core medical domains for targeted evaluation.
 
-## Batch Processing 🚀
+## Processing Modes
 
-The system now supports OpenAI's Batch API for concurrent processing with significant advantages:
+The system supports three processing modes for different use cases:
 
-### Benefits
-- **50% Cost Savings**: Batch requests are charged at 50% of standard rates
-- **Higher Rate Limits**: Up to 250M tokens for GPT-4 batches
-- **Parallel Processing**: All requests processed concurrently
-- **Automatic Fallback**: Falls back to synchronous processing for small datasets
+### 1. Sequential Processing
+- **Use case**: Small evaluations (<5 requests)
+- **Speed**: ~1-2 requests/second
+- **Cost**: Standard OpenAI pricing
+- **Reliability**: Highest (simple, well-tested)
 
-### When Batch Processing is Used
-- **Automatically**: For evaluations with ≥10 total requests
-- **Manual Control**: Use `--batch` or `--no-batch` flags
-- **Interactive Mode**: Use `batch-eval` and `batch-full` commands
-- **Demo Mode**: Use `--batch-demo` for instant testing without waiting
+### 2. Concurrent Processing ⚡ NEW!
+- **Use case**: Medium evaluations (5-100 requests)
+- **Speed**: ~5-20 requests/second (5-10x faster than sequential)
+- **Cost**: Same as sequential (standard OpenAI pricing)
+- **Reliability**: High (with built-in rate limiting and retry logic)
+- **Features**:
+  - Respects OpenAI rate limits
+  - Automatic retry on failures
+  - Configurable concurrency levels
+  - Real-time progress tracking
 
-### Demo Mode 🎭
-For testing and demonstration purposes, use demo mode to see batch processing in action instantly:
+### 3. Batch Processing
+- **Use case**: Large evaluations (100+ requests)
+- **Speed**: 10 minutes to 24 hours (delayed processing)
+- **Cost**: 50% cheaper than standard pricing
+- **Reliability**: High (OpenAI's managed service)
+
+## Concurrent Processing Features
+
+### Automatic Mode Selection
+The system automatically selects the optimal processing mode based on request count:
+- **<5 requests**: Sequential processing
+- **5-10 requests**: Concurrent processing  
+- **10+ requests**: Batch processing (can be overridden)
 
 ```bash
-# CLI demo mode
-python main.py --eval --batch-demo --sample-size 20
-
-# Interactive demo mode
-python main.py --interactive
-> batch-demo
+# Auto-selection examples
+python main.py --eval --sample-size 3    # → Sequential
+python main.py --eval --sample-size 8    # → Concurrent  
+python main.py --eval --sample-size 15   # → Batch
 ```
 
-Demo mode simulates batch processing using synchronous calls but shows you:
-- What the batch workflow looks like
-- Estimated cost savings (50%)
-- How results are formatted
-- Processing time comparisons
+### Manual Concurrent Processing
+Force concurrent processing for any evaluation:
 
-### Real Batch Processing ⏰
-**Important**: Real batch processing can take 10 minutes to 24 hours to complete. This is normal and expected behavior from OpenAI's Batch API. The trade-off is significant cost savings (50%) and higher rate limits.
+```bash
+# Basic concurrent processing
+python main.py --eval --concurrent --sample-size 20
 
-### Batch Processing Flow
-1. **Create Batch File**: Generate JSONL file with all requests
-2. **Upload & Submit**: Upload to OpenAI and submit batch job
-3. **Monitor Progress**: Poll status every 30 seconds
-4. **Download Results**: Retrieve completed responses
-5. **Process & Analyze**: Extract answers and generate metrics
-6. **Cleanup**: Remove temporary files (optional)
+# Advanced concurrent configuration
+python main.py --eval --concurrent \
+  --max-concurrent 8 \
+  --requests-per-minute 120 \
+  --model gpt-4o-mini \
+  --prompts direct chain_of_thought
+```
 
-### Configuration
-Batch settings can be modified in `config.py`:
+### Interactive Concurrent Commands
+Use interactive mode for easy concurrent processing:
+
+```bash
+python main.py --interactive
+> concurrent              # Run interactive concurrent evaluation
+> concurrent-config       # Show current concurrent settings
+> processing-modes        # Compare all processing modes
+```
+
+### Configuration Options
+
+#### Concurrent Processing Settings
 ```python
-BATCH_SETTINGS = {
-    "enabled": True,           # Enable batch processing
-    "min_batch_size": 10,      # Minimum requests for batch
-    "max_batch_size": 1000,    # Maximum requests per batch  
-    "poll_interval": 30,       # Status check interval (seconds)
-    "max_wait_time": 86400,    # Maximum wait time (24 hours)
-    "auto_cleanup": True       # Clean up batch files
+# config.py
+CONCURRENT_CONFIG = {
+    'max_concurrent_requests': 10,  # Max simultaneous requests
+    'requests_per_minute': 100,     # Rate limit
+    'enable_concurrent': True,      # Enable concurrent processing
+    'concurrent_threshold': 5       # Min requests to trigger concurrent
 }
 ```
+
+#### Evaluation Settings
+```python
+# config.py  
+EVALUATION_SETTINGS = {
+    'auto_concurrent': True,        # Auto-select processing mode
+    'concurrent_threshold': 5,      # Switch to concurrent at ≥5 requests
+    'batch_threshold': 10          # Switch to batch at ≥10 requests
+}
+```
+
+### Performance Comparison
+
+| Mode | Speed | Cost | Best For |
+|------|-------|------|----------|
+| Sequential | 1-2 req/s | 1x | Small tests, debugging |
+| **Concurrent** | 5-20 req/s | 1x | **Most evaluations** |
+| Batch | Variable | 0.5x | Large production runs |
+
+### Rate Limiting & Best Practices
+
+The concurrent processor includes smart rate limiting:
+- **Respects OpenAI limits**: Automatically throttles requests
+- **Exponential backoff**: Handles rate limit errors gracefully
+- **Conservative defaults**: Safe settings that work for all users
+- **Customizable**: Adjust concurrency based on your rate limits
+
+**Recommended settings by OpenAI tier**:
+- **Free tier**: `max_concurrent=3, requests_per_minute=20`
+- **Pay-as-you-go**: `max_concurrent=5, requests_per_minute=60` 
+- **Usage tier 3+**: `max_concurrent=10, requests_per_minute=100`
 
 ## Evaluation Modes
 

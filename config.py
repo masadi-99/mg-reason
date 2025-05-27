@@ -50,12 +50,22 @@ BMJ_BASE_URL = "https://bestpractice.bmj.com"
 BMJ_CARDIOLOGY_URL = "https://bestpractice.bmj.com/specialties/2/Cardiology"
 PDF_DOWNLOAD_DIR = "cardiology_pdfs"
 
+# Concurrent processing configuration
+CONCURRENT_CONFIG = {
+    'max_concurrent_requests': 10,  # Maximum simultaneous requests
+    'requests_per_minute': 100,     # Rate limit for requests per minute
+    'enable_concurrent': True,      # Whether to enable concurrent processing
+    'concurrent_threshold': 5       # Minimum requests to trigger concurrent processing
+}
+
 # Evaluation settings
 EVALUATION_SETTINGS = {
-    "sample_size": None,  # None for full dataset
-    "reasoning_types": ["direct", "chain_of_thought", "self_consistency"],
-    "num_trials": 1,
-    "random_seed": 42
+    'save_results': True,
+    'show_progress': True,
+    'detailed_logging': False,
+    'auto_concurrent': True,  # Automatically use concurrent for large request counts
+    'concurrent_threshold': 5,  # Switch to concurrent when >= this many requests
+    'batch_threshold': 10       # Switch to batch when >= this many requests
 }
 
 # Batch processing settings
