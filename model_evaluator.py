@@ -71,26 +71,35 @@ class OpenAIEvaluator:
         raise Exception(f"Failed to get response after {max_retries} attempts")
     
     def _extract_answer(self, response: str) -> str:
-        """Extract the answer choice (A, B, C, D, etc.) from model response."""
-        # Look for patterns like "Answer: A", "A)", "(A)", or standalone "A"
-        patterns = [
-            r'(?:Answer|answer):\s*([A-Z])',
-            r'(?:Answer|answer)\s*([A-Z])',
-            r'([A-Z])\)',
-            r'\(([A-Z])\)',
-            r'^([A-Z])$',
-            r'\b([A-Z])\b'
+        """Extract the answer choice from the <answer> tag in model response."""
+        response = response.strip()
+        
+        # Primary method: Look for <answer>X</answer> tag
+        answer_match = re.search(r'<answer>\s*([A-Z])\s*</answer>', response, re.IGNORECASE)
+        if answer_match:
+            return answer_match.group(1).upper()
+        
+        # Fallback: Look for answer tag without closing tag
+        answer_match = re.search(r'<answer>\s*([A-Z])', response, re.IGNORECASE)
+        if answer_match:
+            return answer_match.group(1).upper()
+        
+        # Secondary fallback: Legacy patterns for responses that don't use tags
+        legacy_patterns = [
+            r'(?:Therefore|Thus|Hence),?\s+(?:the\s+)?correct\s+answer\s+is\s+([A-Z])\.',  # "Therefore, the correct answer is A."
+            r'(?:Answer|answer):\s*([A-Z])\b',  # "Answer: A"
+            r'(?:Thus|Therefore|Hence),?\s*(?:the\s+)?(?:answer\s+is\s+)?\*?\*?([A-Z])\b',  # "Thus, the answer is **A**"
         ]
         
-        for pattern in patterns:
-            match = re.search(pattern, response.strip())
+        for pattern in legacy_patterns:
+            match = re.search(pattern, response, re.IGNORECASE)
             if match:
                 return match.group(1).upper()
         
-        # If no clear pattern found, look for the last capital letter
-        letters = re.findall(r'[A-Z]', response)
+        # Last resort: look for the last capital letter in valid range
+        letters = re.findall(r'\b([A-E])\b', response)
         if letters:
-            return letters[-1]
+            return letters[-1].upper()
         
         return "UNKNOWN"
     

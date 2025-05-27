@@ -17,7 +17,11 @@ Question: {question}
 
 Options:
 {formatted_options}
-Answer with only the letter (A, B, C, D, etc.) of the correct option."""
+
+Please provide your answer in the following format:
+<answer>X</answer>
+
+Where X is the letter (A, B, C, D, etc.) of the correct option."""
     
     @staticmethod
     def chain_of_thought_prompt(question: str, options: List[str]) -> str:
@@ -32,14 +36,21 @@ Question: {question}
 
 Options:
 {formatted_options}
+
+Please structure your response as follows:
+
+<think>
 Think through this step-by-step:
 1. First, identify the key medical concepts and clinical scenario
 2. Analyze the patient's presentation, symptoms, and any relevant findings
 3. Consider the differential diagnosis and pathophysiology
 4. Evaluate each option based on medical knowledge and guidelines
 5. Select the most appropriate answer
+</think>
 
-Reasoning:"""
+<answer>X</answer>
+
+Where X is the letter (A, B, C, D, etc.) of the correct option."""
     
     @staticmethod
     def self_consistency_prompt(question: str, options: List[str]) -> str:
@@ -54,14 +65,19 @@ Question: {question}
 
 Options:
 {formatted_options}
+
+Please structure your response as follows:
+
+<think>
 Consider this question from multiple angles:
 - What is the most likely diagnosis or appropriate treatment?
 - What are the key clinical features that point to the answer?
 - Which option best aligns with current medical guidelines and evidence?
+</think>
 
-After your analysis, provide your final answer as a single letter (A, B, C, D, etc.).
+<answer>X</answer>
 
-Analysis:"""
+Where X is the letter (A, B, C, D, etc.) of the correct option."""
     
     @staticmethod
     def evidence_based_prompt(question: str, options: List[str]) -> str:
@@ -76,16 +92,21 @@ Question: {question}
 
 Options:
 {formatted_options}
+
+Please structure your response as follows:
+
+<think>
 Base your answer on:
 1. Current clinical guidelines and recommendations
 2. Evidence from medical literature and studies
 3. Standard of care practices
 4. Risk-benefit analysis
 5. Patient safety considerations
+</think>
 
-Provide your reasoning and then select the best answer (A, B, C, D, etc.).
+<answer>X</answer>
 
-Evidence-based analysis:"""
+Where X is the letter (A, B, C, D, etc.) of the correct option."""
     
     @staticmethod
     def differential_diagnosis_prompt(question: str, options: List[str]) -> str:
@@ -100,14 +121,21 @@ Question: {question}
 
 Options:
 {formatted_options}
+
+Please structure your response as follows:
+
+<think>
 Approach this systematically:
 1. Identify the chief complaint and key clinical features
 2. Generate a differential diagnosis list
 3. Consider which findings support or refute each possibility
 4. Apply clinical reasoning to narrow down to the most likely diagnosis/treatment
 5. Select the option that best fits the clinical picture
+</think>
 
-Diagnostic reasoning:"""
+<answer>X</answer>
+
+Where X is the letter (A, B, C, D, etc.) of the correct option."""
 
 class PromptTemplates:
     """Factory class for getting different prompt types."""
