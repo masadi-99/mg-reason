@@ -1,0 +1,73 @@
+# API Keys and sensitive files
+openai_api_key.txt
+*.key
+*.env
+
+# Dataset files (large files that should be downloaded separately)
+S-MedQA_*.json
+*.zip
+*.tar.gz
+
+# Downloaded PDFs and documents
+cardiology_pdfs/
+*.pdf
+
+# Results and logs
+results/
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Model outputs and evaluations
+evaluations/
+experiments/
+models/
+checkpoints/ 
