@@ -13,11 +13,18 @@ from config import OPENAI_API_KEY, OPENAI_MODELS, BATCH_SETTINGS
 from data_loader import MedQADataLoader
 from reasoning_prompts import PromptTemplates
 
+# For RAG integration
+# from rag_langchain import LangChainRAGEvaluator
+# from rag_graphrag import GraphRAGEvaluator
+
 class OpenAIBatchEvaluator:
     """Batch evaluator for OpenAI models on medical reasoning tasks."""
     
-    def __init__(self, model_name: str = "gpt-3.5-turbo"):
-        """Initialize the batch evaluator with a specific model."""
+    def __init__(self, 
+                 model_name: str = "gpt-3.5-turbo",
+                 langchain_rag_evaluator: Optional[object] = None,
+                 graphrag_evaluator: Optional[object] = None):
+        """Initialize the batch evaluator with a specific model and optional RAG evaluators."""
         if model_name not in OPENAI_MODELS:
             raise ValueError(f"Model {model_name} not supported. Available models: {list(OPENAI_MODELS.keys())}")
         
@@ -29,6 +36,10 @@ class OpenAIBatchEvaluator:
         
         # Initialize data loader
         self.data_loader = MedQADataLoader()
+        
+        # Store RAG evaluators
+        self.langchain_rag_evaluator = langchain_rag_evaluator
+        self.graphrag_evaluator = graphrag_evaluator
         
         # Batch settings
         self.batch_dir = BATCH_SETTINGS["batch_dir"]
@@ -47,13 +58,17 @@ class OpenAIBatchEvaluator:
         self.total_api_calls = 0
         self.total_tokens = 0
     
-    def _create_batch_request(self, sample: Dict, prompt_type: str, custom_id: str) -> Dict:
-        """Create a single batch request for a sample."""
+    def _create_batch_request(self, 
+                              sample: Dict, 
+                              prompt_type: str, 
+                              custom_id: str,
+                              context: Optional[str] = None) -> Dict:
+        """Create a single batch request for a sample, with optional RAG context."""
         question = sample['Question']
         options = sample['Options']
         
-        # Generate prompt
-        prompt = PromptTemplates.get_prompt(prompt_type, question, options)
+        # Generate prompt - use context if provided
+        prompt = PromptTemplates.get_prompt(prompt_type, question, options, context=context)
         
         # Create batch request format
         return {
@@ -71,8 +86,12 @@ class OpenAIBatchEvaluator:
             }
         }
     
-    def _create_batch_file(self, data: List[Dict], prompt_types: List[str]) -> Tuple[str, Dict]:
-        """Create a JSONL batch file for the samples."""
+    def _create_batch_file(self, 
+                           data: List[Dict], 
+                           prompt_types: List[str],
+                           rag_mode: Optional[str] = None,
+                           rag_params: Optional[Dict] = None) -> Tuple[str, Dict]:
+        """Create a JSONL batch file, retrieving RAG context if enabled."""
         batch_id = str(uuid.uuid4())[:8]
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         batch_filename = f"{self.batch_dir}/batch_{self.model_name}_{timestamp}_{batch_id}.jsonl"
@@ -80,22 +99,88 @@ class OpenAIBatchEvaluator:
         requests = []
         request_metadata = {}
         
-        for prompt_type in prompt_types:
+        # Initialize RAG evaluators on demand if not passed in constructor
+        if rag_mode == "langchain" and not self.langchain_rag_evaluator:
+            from rag_langchain import LangChainRAGEvaluator
+            self.langchain_rag_evaluator = LangChainRAGEvaluator()
+            print(f"    Initialized LangChainRAGEvaluator for batch prep.")
+        
+        if rag_mode == "graphrag" and not self.graphrag_evaluator:
+            from rag_graphrag import GraphRAGEvaluator
+            self.graphrag_evaluator = GraphRAGEvaluator()
+            print(f"    Initialized GraphRAGEvaluator for batch prep.")
+
+        for prompt_type_orig in prompt_types:
             for idx, sample in enumerate(data):
-                custom_id = f"{prompt_type}_{idx}_{batch_id}"
-                
+                custom_id = f"{prompt_type_orig}_{idx}_{batch_id}"
+                question = sample['Question'] # Needed for RAG context retrieval
+
+                current_context: Optional[str] = None
+                current_rag_source_info: Optional[Dict] = None
+                actual_prompt_type_for_request = prompt_type_orig
+                current_rag_mode_for_sample = None # Tracks if RAG was successfully used for this sample
+
+                if rag_mode:
+                    effective_rag_params = rag_params or {}
+                    # print(f"  Batch Prep: Enhancing sample {idx} with {rag_mode} RAG...") # Can be verbose
+                    try:
+                        if rag_mode == "langchain":
+                            if not self.langchain_rag_evaluator: raise ValueError("Langchain RAG evaluator not initialized")
+                            current_context = self.langchain_rag_evaluator.retrieve_context(
+                                question,
+                                k=effective_rag_params.get('k_retrieval', self.langchain_rag_evaluator.k_retrieval if hasattr(self.langchain_rag_evaluator, 'k_retrieval') else 5)
+                            )
+                            current_rag_source_info = {"type": "langchain", "retrieved_text": current_context}
+                        
+                        elif rag_mode == "graphrag":
+                            if not self.graphrag_evaluator: raise ValueError("GraphRAG evaluator not initialized")
+                            import asyncio
+                            # GraphRAG is async, run its retrieve_context method
+                            try:
+                                loop = asyncio.get_running_loop()
+                            except RuntimeError:
+                                loop = asyncio.new_event_loop()
+                                asyncio.set_event_loop(loop)
+                            
+                            current_context = loop.run_until_complete(
+                                self.graphrag_evaluator.retrieve_context(
+                                    question,
+                                    search_type=effective_rag_params.get('graphrag_search_type', "global"),
+                                    k=effective_rag_params.get('k_retrieval', 5),
+                                    community_level=effective_rag_params.get('graphrag_community_level', 2)
+                                )
+                            )
+                            current_rag_source_info = {"type": "graphrag", "search_type": effective_rag_params.get('graphrag_search_type', "global"), "retrieved_text": current_context}
+
+                        if current_context and "_rag" not in actual_prompt_type_for_request:
+                            actual_prompt_type_for_request = f"{prompt_type_orig}_rag"
+                            current_rag_mode_for_sample = rag_mode # RAG was successful for this sample
+                        elif not current_context:
+                            # print(f"    Warning: RAG mode '{rag_mode}' but no context for sample {idx}. Using non-RAG prompt.")
+                            actual_prompt_type_for_request = prompt_type_orig
+                            current_rag_mode_for_sample = None # RAG failed for this sample
+
+                    except Exception as e:
+                        print(f"    Error during RAG context retrieval for sample {idx} ({rag_mode}): {e}. Using non-RAG prompt.")
+                        current_context = None
+                        current_rag_source_info = {"type": rag_mode, "error": str(e)}
+                        actual_prompt_type_for_request = prompt_type_orig
+                        current_rag_mode_for_sample = None # RAG failed
+
                 # Store metadata for result processing
                 request_metadata[custom_id] = {
                     'sample_index': idx,
                     'sample': sample,
-                    'prompt_type': prompt_type,
+                    'prompt_type': actual_prompt_type_for_request, # Log the prompt type used (RAG or not)
                     'correct_answer': self.data_loader.get_correct_answer(sample),
                     'correct_choice': self.data_loader.get_answer_choice(sample),
-                    'specialty': self.data_loader.get_sample_specialty(sample)
+                    'specialty': self.data_loader.get_sample_specialty(sample),
+                    'rag_mode': current_rag_mode_for_sample, # Log if RAG was effectively used
+                    'rag_source_info': current_rag_source_info # Log context or error
                 }
                 
-                # Create batch request
-                request = self._create_batch_request(sample, prompt_type, custom_id)
+                # Create batch request, passing the retrieved context (if any)
+                request = self._create_batch_request(sample, actual_prompt_type_for_request, custom_id, context=current_context)
                 requests.append(request)
         
         # Write JSONL file
@@ -248,41 +333,69 @@ class OpenAIBatchEvaluator:
         print(f"🔍 Processing {len(results)} batch results...")
         
         for result in tqdm(results, desc="Processing results"):
-            custom_id = result['custom_id']
-            
-            if custom_id not in request_metadata:
-                print(f"⚠️  Warning: Unknown custom_id {custom_id}")
+            custom_id = result.get('custom_id')
+            response_body = result.get('response', {}).get('body', {})
+            error_body = result.get('error') # OpenAI Batch API error structure
+
+            metadata = request_metadata.get(custom_id)
+            if not metadata:
+                print(f"Warning: No metadata found for custom_id {custom_id}")
+                # Create a minimal error entry
+                error_entry = {
+                    'question': "Unknown (metadata missing)",
+                    'options': {},
+                    'correct_answer': "N/A",
+                    'correct_choice': "N/A",
+                    'prompt_type': "unknown",
+                    'model_response': f"Error: No metadata for custom_id {custom_id}",
+                    'predicted_choice': "ERROR",
+                    'is_correct': False,
+                    'response_time': 0, # Batch API doesn't provide per-item response time
+                    'specialty': "unknown",
+                    'error': {"code": result.get('response', {}).get('status_code'), "message": "Metadata missing"},
+                    'batch_processed': True,
+                    'rag_mode': None,
+                    'rag_source_info': None
+                }
+                processed_results.append(error_entry)
                 continue
-            
-            metadata = request_metadata[custom_id]
-            
-            # Extract response
-            if 'response' in result and 'body' in result['response']:
-                response_content = result['response']['body']['choices'][0]['message']['content']
+
+            response_content = ""
+            predicted_choice = "ERROR"
+            is_correct = False
+            api_error = None
+
+            if error_body:
+                response_content = f"Batch API Error: {error_body.get('message', 'Unknown error')}"
+                api_error = error_body
+            elif response_body and 'choices' in response_body and response_body['choices']:
+                response_content = response_body['choices'][0]['message']['content'].strip()
                 predicted_choice = self._extract_answer(response_content)
                 is_correct = predicted_choice == metadata['correct_choice']
-                
-                # Calculate estimated response time (batch doesn't provide real response times)
-                estimated_response_time = 1.0  # Default estimate
-                
-                processed_result = {
-                    'question': metadata['sample']['Question'],
-                    'options': metadata['sample']['Options'],
-                    'correct_answer': metadata['correct_answer'],
-                    'correct_choice': metadata['correct_choice'],
-                    'prompt_type': metadata['prompt_type'],
-                    'model_response': response_content,
-                    'predicted_choice': predicted_choice,
-                    'is_correct': is_correct,
-                    'response_time': estimated_response_time,
-                    'specialty': metadata['specialty'],
-                    'batch_processed': True
-                }
-                
-                processed_results.append(processed_result)
-                
+                # Token usage for batch API is typically per-batch, not per-item from response
+                # self.total_tokens += response_body.get('usage', {}).get('total_tokens', 0)
             else:
-                print(f"⚠️  Error in result for {custom_id}: {result.get('error', 'Unknown error')}")
+                response_content = "Error: Empty or malformed response from Batch API"
+                api_error = {"message": response_content, "code": result.get('response', {}).get('status_code')}
+
+            processed_results.append({
+                'question': metadata['sample']['Question'],
+                'options': metadata['sample']['Options'],
+                'correct_answer': metadata['correct_answer'],
+                'correct_choice': metadata['correct_choice'],
+                'prompt_type': metadata['prompt_type'], # This now reflects if RAG prompt was used
+                'model_response': response_content,
+                'predicted_choice': predicted_choice,
+                'is_correct': is_correct,
+                'response_time': 0,  # Not available per item in batch
+                'specialty': metadata['specialty'],
+                'error': api_error,
+                'batch_processed': True,
+                'custom_id': custom_id,
+                # Add RAG info from metadata
+                'rag_mode': metadata.get('rag_mode'),
+                'rag_source_info': metadata.get('rag_source_info')
+            })
         
         print(f"✅ Successfully processed {len(processed_results)} results")
         return processed_results
@@ -314,98 +427,98 @@ class OpenAIBatchEvaluator:
                               sample_size: Optional[int] = None,
                               specialty_filter: Optional[str] = None,
                               save_results: bool = True,
-                              use_batch: bool = True) -> Dict:
-        """Evaluate the model on a dataset split using batch processing."""
+                              use_batch: bool = True,
+                              rag_mode: Optional[str] = None,
+                              rag_params: Optional[Dict] = None) -> Dict:
+        """Evaluate the model on a dataset split using the Batch API, with optional RAG."""
         
-        print(f"🚀 Starting Batch Evaluation")
+        print(f"Starting BATCH evaluation on {split} split")
         print("=" * 50)
         print(f"Model: {self.model_name}")
-        print(f"Split: {split}")
         print(f"Prompt types: {prompt_types}")
+        if rag_mode:
+            print(f"RAG Mode: {rag_mode}")
+            if rag_params:
+                print(f"RAG Params: {rag_params}")
+
+        # Potentially initialize RAG evaluators if not done in __init__ and rag_mode is set
+        # This is mainly for the _create_batch_file step
+        if rag_mode == "langchain" and not self.langchain_rag_evaluator:
+            from rag_langchain import LangChainRAGEvaluator
+            self.langchain_rag_evaluator = LangChainRAGEvaluator()
+            print(f"Initialized LangChainRAGEvaluator for batch evaluation.")
         
+        if rag_mode == "graphrag" and not self.graphrag_evaluator:
+            from rag_graphrag import GraphRAGEvaluator
+            self.graphrag_evaluator = GraphRAGEvaluator()
+            print(f"Initialized GraphRAGEvaluator for batch evaluation.")
+
         # Get data
         data = self.data_loader.get_split(split, sample_size, specialty_filter)
-        total_requests = len(data) * len(prompt_types)
-        
-        print(f"📊 Evaluating on {len(data)} samples")
-        print(f"📊 Total requests: {total_requests}")
-        
-        # Check if batch processing should be used
-        min_batch_size = BATCH_SETTINGS["min_batch_size"]
-        if not use_batch or total_requests < min_batch_size:
-            print(f"⚠️  Using synchronous processing (requests: {total_requests} < min batch: {min_batch_size})")
-            # Fall back to regular evaluator
-            from model_evaluator import OpenAIEvaluator
-            sync_evaluator = OpenAIEvaluator(self.model_name)
-            return sync_evaluator.evaluate_dataset(split, prompt_types, sample_size, specialty_filter, save_results)
-        
-        # Demo mode for testing
+        print(f"Evaluating on {len(data)} samples")
+
         if self.demo_mode:
-            print(f"\n🎭 DEMO MODE: Simulating batch processing...")
-            print(f"💡 In real mode, this would submit {total_requests} requests to OpenAI Batch API")
-            print(f"💰 Estimated cost savings: ~50% vs synchronous")
-            print(f"⏱️  Estimated completion time: 10 minutes - 24 hours")
+            print("\n⚠️  DEMO MODE ENABLED FOR BATCH EVALUATOR ⚠️")
+            print("Simulating batch processing with synchronous calls.")
+            # In demo mode, we simulate batch by calling a synchronous evaluator.
+            # We need a synchronous evaluator instance here.
+            # For RAG, this sync evaluator also needs RAG capabilities.
+            from model_evaluator import OpenAIEvaluator # Assuming this is the sync one
             
-            # Simulate batch processing by using sync processing but marking as batch
-            from model_evaluator import OpenAIEvaluator
-            sync_evaluator = OpenAIEvaluator(self.model_name)
-            results = sync_evaluator.evaluate_dataset(split, prompt_types, sample_size, specialty_filter, save_results)
+            sync_evaluator_params = {"model_name": self.model_name}
+            if rag_mode == "langchain": sync_evaluator_params["langchain_rag_evaluator"] = self.langchain_rag_evaluator
+            if rag_mode == "graphrag": sync_evaluator_params["graphrag_evaluator"] = self.graphrag_evaluator
+            sync_evaluator = OpenAIEvaluator(**sync_evaluator_params)
+
+            all_results = []
+            for prompt_type in prompt_types:
+                for sample_item in tqdm(data, desc=f"Demo Batch ({prompt_type})"):
+                    # Pass rag_mode and rag_params to the synchronous evaluator's sample evaluation
+                    result = sync_evaluator.evaluate_sample(sample_item, prompt_type, rag_mode=rag_mode, rag_params=rag_params)
+                    result['batch_processed'] = True # Mark as batch processed for consistency
+                    result['batch_demo_simulated'] = True
+                    all_results.append(result)
             
-            # Mark as batch processed and adjust response
-            results['api_usage']['batch_processing'] = True
-            results['api_usage']['processing_time'] = results['api_usage'].get('total_calls', 0) * 0.1  # Simulate batch time
-            results['summary']['evaluation_info']['batch_processing'] = True
+            # Update API usage from the sync evaluator if possible (it tracks its own)
+            self.total_api_calls = sync_evaluator.api_calls
+            self.total_tokens = sync_evaluator.total_tokens
+
+        else:
+            # Create batch file (this now handles RAG context retrieval)
+            batch_filename, request_metadata = self._create_batch_file(data, prompt_types, rag_mode=rag_mode, rag_params=rag_params)
             
-            # Add batch processing markers to detailed results
-            for result in results['detailed_results']:
-                result['batch_processed'] = True
-            
-            print(f"\n🎭 Demo completed! In real batch mode:")
-            print(f"   • Requests would be processed concurrently")
-            print(f"   • Cost would be ~50% lower")
-            print(f"   • Processing time: varies (10min - 24hrs)")
-            
-            return results
-        
-        try:
-            start_time = time.time()
-            
-            # Step 1: Create batch file
-            print(f"\n📝 Step 1: Creating batch file...")
-            batch_filename, request_metadata = self._create_batch_file(data, prompt_types)
-            
-            # Step 2: Upload file
+            # Upload batch file
             print(f"\n☁️  Step 2: Uploading batch file...")
             file_id = self._upload_batch_file(batch_filename)
             
-            # Step 3: Submit batch job
+            # Submit batch job
             print(f"\n🚀 Step 3: Submitting batch job...")
             batch_id = self._submit_batch_job(file_id)
             
-            # Step 4: Wait for completion
+            # Wait for completion
             print(f"\n⏳ Step 4: Waiting for completion...")
             print(f"💡 TIP: Batch jobs can take 10 minutes to 24 hours")
             print(f"💡 TIP: You can check status later with: python -c \"from batch_evaluator import *; check_batch_status('{batch_id}')\"")
             batch_job = self._poll_batch_status(batch_id)
             
-            # Step 5: Download results
+            # Download results
             print(f"\n📥 Step 5: Downloading results...")
             raw_results = self._download_results(batch_job)
             
-            # Step 6: Process results
+            # Process results
             print(f"\n🔍 Step 6: Processing results...")
             processed_results = self._process_batch_results(raw_results, request_metadata)
             
-            # Step 7: Generate summary
+            # Generate summary
             print(f"\n📊 Step 7: Generating summary...")
             results_summary = self._generate_results_summary(processed_results, split)
             
-            # Step 8: Save results
+            # Save results
             if save_results:
                 print(f"\n💾 Step 8: Saving results...")
                 self._save_results(processed_results, results_summary, split)
             
-            # Step 9: Cleanup
+            # Cleanup
             print(f"\n🧹 Step 9: Cleanup...")
             self._cleanup_files(batch_filename, file_id)
             
@@ -424,22 +537,6 @@ class OpenAIBatchEvaluator:
                     'processing_time': total_time
                 }
             }
-            
-        except Exception as e:
-            print(f"\n❌ Batch evaluation failed: {e}")
-            print(f"💡 Falling back to synchronous processing...")
-            
-            # Cleanup on error
-            try:
-                if 'batch_filename' in locals():
-                    self._cleanup_files(batch_filename, file_id if 'file_id' in locals() else None)
-            except:
-                pass
-            
-            # Fall back to regular evaluator
-            from model_evaluator import OpenAIEvaluator
-            sync_evaluator = OpenAIEvaluator(self.model_name)
-            return sync_evaluator.evaluate_dataset(split, prompt_types, sample_size, specialty_filter, save_results)
     
     def _generate_results_summary(self, results: List[Dict], split: str) -> Dict:
         """Generate comprehensive results summary."""
@@ -456,6 +553,7 @@ class OpenAIBatchEvaluator:
             'overall_performance': {},
             'performance_by_prompt': {},
             'performance_by_specialty': {},
+            'performance_by_rag_mode': {},
             'error_analysis': {}
         }
         
@@ -485,6 +583,18 @@ class OpenAIBatchEvaluator:
                 'total_count': len(specialty_df)
             }
         
+        # Performance by RAG mode
+        if 'rag_mode' in df.columns:
+            summary['performance_by_rag_mode'] = {}
+            for mode_val in df['rag_mode'].fillna('None').unique(): # mode is a built-in, use mode_val
+                mode_df = df[df['rag_mode'].fillna('None') == mode_val]
+                summary['performance_by_rag_mode'][mode_val] = {
+                    'accuracy': float(mode_df['is_correct'].mean() if not mode_df.empty else 0),
+                    'correct_count': int(mode_df['is_correct'].sum()),
+                    'total_count': len(mode_df)
+                    # Avg response time is not meaningful for batch API results per item
+                }
+
         # Error analysis
         incorrect_df = df[~df['is_correct']]
         summary['error_analysis']['total_errors'] = len(incorrect_df)
@@ -496,6 +606,12 @@ class OpenAIBatchEvaluator:
             
             summary['error_analysis']['errors_by_specialty'] = {k: int(v) for k, v in errors_by_specialty.items()}
             summary['error_analysis']['errors_by_prompt'] = {k: int(v) for k, v in errors_by_prompt.items()}
+        
+        # Error analysis by RAG mode
+        if 'rag_mode' in incorrect_df.columns:
+            summary['error_analysis']['errors_by_rag_mode'] = {}
+            errors_by_rag = incorrect_df['rag_mode'].fillna('None').value_counts().to_dict()
+            summary['error_analysis']['errors_by_rag_mode'] = {k: int(v) for k,v in errors_by_rag.items()}
         
         return summary
     

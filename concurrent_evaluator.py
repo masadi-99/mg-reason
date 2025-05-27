@@ -15,16 +15,27 @@ from config import OPENAI_API_KEY, OPENAI_MODELS
 from data_loader import MedQADataLoader
 from reasoning_prompts import PromptTemplates
 
+# For RAG integration
+# from rag_langchain import LangChainRAGEvaluator
+# from rag_graphrag import GraphRAGEvaluator
+
 class ConcurrentOpenAIEvaluator:
     """Concurrent evaluator for OpenAI models with rate limiting."""
     
-    def __init__(self, model_name: str = "gpt-3.5-turbo", max_concurrent: int = 10, requests_per_minute: int = 100):
+    def __init__(self, 
+                 model_name: str = "gpt-3.5-turbo", 
+                 max_concurrent: int = 10, 
+                 requests_per_minute: int = 100,
+                 langchain_rag_evaluator: Optional[object] = None,
+                 graphrag_evaluator: Optional[object] = None):
         """Initialize the concurrent evaluator.
         
         Args:
             model_name: OpenAI model to use
             max_concurrent: Maximum concurrent requests
             requests_per_minute: Rate limit (requests per minute)
+            langchain_rag_evaluator: RAG evaluator for langchain mode
+            graphrag_evaluator: RAG evaluator for graphrag mode
         """
         if model_name not in OPENAI_MODELS:
             raise ValueError(f"Model {model_name} not supported. Available models: {list(OPENAI_MODELS.keys())}")
@@ -40,6 +51,10 @@ class ConcurrentOpenAIEvaluator:
         
         # Initialize data loader
         self.data_loader = MedQADataLoader()
+        
+        # Store RAG evaluators
+        self.langchain_rag_evaluator = langchain_rag_evaluator
+        self.graphrag_evaluator = graphrag_evaluator
         
         # Track API usage
         self.api_calls = 0
@@ -148,16 +163,84 @@ class ConcurrentOpenAIEvaluator:
         
         return "UNKNOWN"
     
-    async def _evaluate_sample_async(self, session: aiohttp.ClientSession, semaphore: asyncio.Semaphore, 
-                                   sample: Dict, prompt_type: str) -> Dict:
-        """Evaluate a single sample asynchronously."""
+    async def _evaluate_sample_async(self, 
+                                   session: aiohttp.ClientSession, 
+                                   semaphore: asyncio.Semaphore, 
+                                   sample: Dict, 
+                                   prompt_type: str,
+                                   rag_mode: Optional[str] = None,
+                                   rag_params: Optional[Dict] = None) -> Dict:
+        """Evaluate a single sample asynchronously, with optional RAG."""
         question = sample['Question']
         options = sample['Options']
         correct_answer = self.data_loader.get_correct_answer(sample)
         correct_choice = self.data_loader.get_answer_choice(sample)
+
+        context: Optional[str] = None
+        rag_source_info: Optional[Dict] = None
+        actual_prompt_type = prompt_type
+        current_rag_mode = rag_mode # To store the mode if RAG succeeded
+
+        if rag_mode:
+            rag_params = rag_params or {}
+            # print(f"  Concurrent: Enhancing with {rag_mode} RAG (params: {rag_params})...") # Too verbose for concurrent
+            retrieved_context_data = None
+            try:
+                if rag_mode == "langchain":
+                    if not self.langchain_rag_evaluator:
+                        from rag_langchain import LangChainRAGEvaluator
+                        self.langchain_rag_evaluator = LangChainRAGEvaluator()
+                    # LangChain's retrieve_context is synchronous. 
+                    # Run it in a thread pool executor to avoid blocking the event loop.
+                    loop = asyncio.get_running_loop()
+                    retrieved_context_data = await loop.run_in_executor(
+                        None, # Uses default ThreadPoolExecutor
+                        self.langchain_rag_evaluator.retrieve_context,
+                        question,
+                        rag_params.get('k_retrieval', self.langchain_rag_evaluator.k_retrieval if hasattr(self.langchain_rag_evaluator, 'k_retrieval') else 5)
+                    )
+                    context = retrieved_context_data
+                    rag_source_info = {"type": "langchain", "retrieved_text": context} 
+
+                elif rag_mode == "graphrag":
+                    if not self.graphrag_evaluator:
+                        from rag_graphrag import GraphRAGEvaluator
+                        self.graphrag_evaluator = GraphRAGEvaluator()
+                    
+                    retrieved_context_data = await self.graphrag_evaluator.retrieve_context(
+                        question,
+                        search_type=rag_params.get('graphrag_search_type', "global"),
+                        k=rag_params.get('k_retrieval', 5),
+                        community_level=rag_params.get('graphrag_community_level', 2)
+                    )
+                    context = retrieved_context_data
+                    rag_source_info = {"type": "graphrag", "search_type": rag_params.get('graphrag_search_type', "global"), "retrieved_text": context}
+                
+                else:
+                    # print(f"    Warning: Unknown RAG mode '{rag_mode}'. Proceeding without RAG.")
+                    current_rag_mode = None 
+
+                if context and "_rag" not in prompt_type:
+                    actual_prompt_type = f"{prompt_type}_rag"
+                elif not context:
+                    # print(f"    Warning: RAG mode '{rag_mode}' was specified but no context was retrieved. Falling back to non-RAG.")
+                    actual_prompt_type = prompt_type 
+                    current_rag_mode = None 
+
+            except Exception as e:
+                # print(f"    Error during RAG context retrieval ({rag_mode}): {e}. Proceeding without RAG.")
+                context = None
+                rag_source_info = {"type": rag_mode, "error": str(e)}
+                actual_prompt_type = prompt_type
+                current_rag_mode = None
         
         # Generate prompt
-        prompt = PromptTemplates.get_prompt(prompt_type, question, options)
+        try:
+            prompt = PromptTemplates.get_prompt(actual_prompt_type, question, options, context=context)
+        except ValueError as e:
+            # print(f"Error getting prompt for type '{actual_prompt_type}': {e}. Falling back to '{prompt_type}'.")
+            actual_prompt_type = prompt_type
+            prompt = PromptTemplates.get_prompt(actual_prompt_type, question, options)
         
         # Get model response
         start_time = time.time()
@@ -173,18 +256,24 @@ class ConcurrentOpenAIEvaluator:
             'options': options,
             'correct_answer': correct_answer,
             'correct_choice': correct_choice,
-            'prompt_type': prompt_type,
+            'prompt_type': actual_prompt_type,
             'model_response': response,
             'predicted_choice': predicted_choice,
             'is_correct': is_correct,
             'response_time': response_time,
             'specialty': self.data_loader.get_sample_specialty(sample),
             'error': error,
-            'concurrent_processed': True
+            'concurrent_processed': True,
+            'rag_mode': current_rag_mode, 
+            'rag_source_info': rag_source_info
         }
     
-    async def _evaluate_batch_async(self, data: List[Dict], prompt_types: List[str]) -> List[Dict]:
-        """Evaluate multiple samples concurrently."""
+    async def _evaluate_batch_async(self, 
+                                  data: List[Dict], 
+                                  prompt_types: List[str],
+                                  rag_mode: Optional[str] = None,
+                                  rag_params: Optional[Dict] = None) -> List[Dict]:
+        """Evaluate multiple samples concurrently, with optional RAG."""
         # Create semaphore to limit concurrent requests
         semaphore = asyncio.Semaphore(self.max_concurrent)
         
@@ -196,7 +285,8 @@ class ConcurrentOpenAIEvaluator:
         async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
             for prompt_type in prompt_types:
                 for sample in data:
-                    task = self._evaluate_sample_async(session, semaphore, sample, prompt_type)
+                    task = self._evaluate_sample_async(session, semaphore, sample, prompt_type, 
+                                                       rag_mode=rag_mode, rag_params=rag_params)
                     tasks.append(task)
             
             # Run all tasks with progress bar
@@ -251,33 +341,42 @@ class ConcurrentOpenAIEvaluator:
                                   prompt_types: List[str] = ["direct"],
                                   sample_size: Optional[int] = None,
                                   specialty_filter: Optional[str] = None,
-                                  save_results: bool = True) -> Dict:
-        """Evaluate the model on a dataset split using concurrent processing."""
+                                  save_results: bool = True,
+                                  rag_mode: Optional[str] = None,
+                                  rag_params: Optional[Dict] = None) -> Dict:
+        """Evaluate the model on a dataset split using concurrent requests, with optional RAG."""
         
-        print(f"🚀 Starting Concurrent Evaluation")
-        print("=" * 50)
+        print(f"Starting CONCURRENT evaluation on {split} split")
         print(f"Model: {self.model_name}")
-        print(f"Split: {split}")
         print(f"Prompt types: {prompt_types}")
-        print(f"Max concurrent requests: {self.max_concurrent}")
-        print(f"Rate limit: {self.requests_per_minute} requests/minute")
+        print(f"Max concurrent: {self.max_concurrent}, RPM: {self.requests_per_minute}")
+        if rag_mode:
+            print(f"RAG Mode: {rag_mode}")
+            if rag_params:
+                print(f"RAG Params: {rag_params}")
+
+        # Initialize RAG evaluators if mode is set and they are not pre-initialized
+        if rag_mode == "langchain" and not self.langchain_rag_evaluator:
+            from rag_langchain import LangChainRAGEvaluator
+            self.langchain_rag_evaluator = LangChainRAGEvaluator()
+            print(f"Initialized LangChainRAGEvaluator for concurrent dataset evaluation.")
         
+        if rag_mode == "graphrag" and not self.graphrag_evaluator:
+            from rag_graphrag import GraphRAGEvaluator
+            self.graphrag_evaluator = GraphRAGEvaluator()
+            print(f"Initialized GraphRAGEvaluator for concurrent dataset evaluation.")
+            # Async GraphRAG setup like prepare_documents, run_indexing might be needed.
+            # For now, assuming retrieve_context handles its own setup if necessary.
+            # Or, these are run externally via CLI before evaluation.
+
         # Get data
         data = self.data_loader.get_split(split, sample_size, specialty_filter)
-        total_requests = len(data) * len(prompt_types)
+        print(f"Evaluating on {len(data)} samples")
         
-        print(f"📊 Evaluating on {len(data)} samples")
-        print(f"📊 Total requests: {total_requests}")
-        
-        # Estimate time
-        estimated_time = total_requests / self.requests_per_minute * 60
-        print(f"⏰ Estimated time: {estimated_time:.1f} seconds")
-        
+        # Run evaluation concurrently
         start_time = time.time()
-        
-        # Run concurrent evaluation
-        results = asyncio.run(self._evaluate_batch_async(data, prompt_types))
-        
+        # Pass rag_mode and rag_params to _evaluate_batch_async
+        all_results = asyncio.run(self._evaluate_batch_async(data, prompt_types, rag_mode=rag_mode, rag_params=rag_params))
         total_time = time.time() - start_time
         
         print(f"\n✅ Concurrent evaluation completed!")
@@ -287,13 +386,13 @@ class ConcurrentOpenAIEvaluator:
         print(f"🔥 Average requests/second: {self.api_calls/total_time:.2f}")
         
         # Generate comprehensive results
-        results_summary = self._generate_results_summary(results, split)
+        results_summary = self._generate_results_summary(all_results, split)
         
         if save_results:
-            self._save_results(results, results_summary, split)
+            self._save_results(all_results, results_summary, split)
         
         return {
-            'detailed_results': results,
+            'detailed_results': all_results,
             'summary': results_summary,
             'api_usage': {
                 'total_calls': self.api_calls,
@@ -322,6 +421,7 @@ class ConcurrentOpenAIEvaluator:
             'overall_performance': {},
             'performance_by_prompt': {},
             'performance_by_specialty': {},
+            'performance_by_rag_mode': {},
             'error_analysis': {}
         }
         
@@ -354,11 +454,31 @@ class ConcurrentOpenAIEvaluator:
                     'correct_count': int(specialty_df['is_correct'].sum()),
                     'total_count': len(specialty_df)
                 }
+            
+            # Performance by RAG mode
+            if 'rag_mode' in successful_df.columns:
+                summary['performance_by_rag_mode'] = {}
+                for mode_val in successful_df['rag_mode'].fillna('None').unique(): # mode is a built-in, use mode_val
+                    mode_df = successful_df[successful_df['rag_mode'].fillna('None') == mode_val]
+                    summary['performance_by_rag_mode'][mode_val] = {
+                        'accuracy': float(mode_df['is_correct'].mean() if not mode_df.empty else 0),
+                        'correct_count': int(mode_df['is_correct'].sum()),
+                        'total_count': len(mode_df),
+                        'avg_response_time': float(mode_df['response_time'].mean() if not mode_df.empty else 0)
+                    }
         
         # Error analysis
         summary['error_analysis']['total_errors'] = int((df['predicted_choice'] == 'ERROR').sum())
         summary['error_analysis']['unknown_answers'] = int((df['predicted_choice'] == 'UNKNOWN').sum())
         summary['error_analysis']['failed_requests'] = self.failed_requests
+        
+        # Error analysis by RAG mode
+        # Ensure incorrect_df is defined earlier if not already
+        incorrect_df = df[~df['is_correct']]
+        if 'rag_mode' in incorrect_df.columns:
+            summary['error_analysis']['errors_by_rag_mode'] = {}
+            errors_by_rag = incorrect_df['rag_mode'].fillna('None').value_counts().to_dict()
+            summary['error_analysis']['errors_by_rag_mode'] = {k: int(v) for k,v in errors_by_rag.items()}
         
         return summary
     

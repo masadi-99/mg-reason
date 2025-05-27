@@ -433,3 +433,82 @@ This project is for research and educational purposes. Please respect OpenAI's u
 
 **Happy Medical AI Research! 🩺🤖**
 
+## Retrieval-Augmented Generation (RAG) 🧠
+
+The system now includes **Retrieval-Augmented Generation (RAG)** capabilities to enhance medical question answering by leveraging a knowledge base of cardiology PDFs.
+
+Two RAG implementations are available for comparison:
+
+1.  **LangChain RAG**: A traditional RAG approach using vector similarity search.
+2.  **Microsoft GraphRAG**: An advanced RAG approach using knowledge graphs for more nuanced retrieval.
+
+### RAG Features:
+
+-   **Cardiology Knowledge Base**: Uses the downloaded cardiology PDFs as a source of truth.
+-   **Cost-Efficient Models**: Utilizes `gpt-4o-mini` for building RAG indexes and answering questions to save costs.
+-   **Persistent Indexes**: Saves and reuses generated indexes for faster subsequent runs.
+-   **Side-by-Side Comparison**: Evaluate both LangChain RAG and GraphRAG on the same questions.
+
+### RAG Commands:
+
+#### 1. LangChain RAG
+
+-   **Build LangChain Index**:
+    ```bash
+    python main.py --rag-langchain-build
+    ```
+    This command processes all PDFs in the `cardiology_pdfs` directory, creates text chunks, generates embeddings, and stores them in a ChromaDB vector store (`./chroma_db`).
+
+-   **Evaluate LangChain RAG**:
+    ```bash
+    python main.py --rag-langchain-eval [N]
+    ```
+    Evaluates the LangChain RAG system on N sample cardiology questions (default: 5). It retrieves relevant context from the indexed PDFs and uses `gpt-4o-mini` to generate answers.
+
+#### 2. Microsoft GraphRAG
+
+-   **Build GraphRAG Index**:
+    ```bash
+    python main.py --rag-graphrag-build
+    ```
+    This command:
+    1.  Converts cardiology PDFs to text files in `./graphrag_workspace/input`.
+    2.  Creates a `settings.yaml` file configured for `gpt-4o-mini`.
+    3.  Runs the GraphRAG indexing pipeline to create a knowledge graph and associated artifacts in `./graphrag_workspace/output`.
+
+-   **Evaluate GraphRAG (Global Search)**:
+    ```bash
+    python main.py --rag-graphrag-eval-global [N]
+    ```
+    Evaluates GraphRAG using **global search** on N sample cardiology questions (default: 5). Global search is good for holistic questions about the entire dataset.
+
+-   **Evaluate GraphRAG (Local Search)**:
+    ```bash
+    python main.py --rag-graphrag-eval-local [N]
+    ```
+    Evaluates GraphRAG using **local search** on N sample cardiology questions (default: 5). Local search is better for specific questions about particular entities or concepts.
+
+### Example RAG Workflow:
+
+1.  **Download PDFs** (if not already done):
+    ```bash
+    python main.py --download
+    ```
+
+2.  **Build Indexes**:
+    ```bash
+    python main.py --rag-langchain-build
+    python main.py --rag-graphrag-build 
+    ```
+
+3.  **Run Evaluations**:
+    ```bash
+    python main.py --rag-langchain-eval 10
+    python main.py --rag-graphrag-eval-global 10
+    python main.py --rag-graphrag-eval-local 10
+    ```
+
+This will allow you to compare the performance and answer quality of traditional RAG (LangChain) versus knowledge graph-based RAG (GraphRAG) on your cardiology dataset.
+
+## Batch Processing
+

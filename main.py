@@ -3,7 +3,7 @@
 import argparse
 import json
 import os
-from typing import List, Optional
+from typing import List, Optional, Dict
 
 from config import OPENAI_MODELS, EVALUATION_SETTINGS, BATCH_SETTINGS, CONCURRENT_CONFIG
 from data_loader import MedQADataLoader
@@ -12,6 +12,8 @@ from batch_evaluator import OpenAIBatchEvaluator, check_batch_status, list_batch
 from reasoning_prompts import PromptTemplates
 from bmj_pdf_downloader import BMJPDFDownloader
 from concurrent_evaluator import ConcurrentOpenAIEvaluator
+from rag_langchain import LangChainRAGEvaluator
+from rag_graphrag import GraphRAGEvaluator
 
 def print_banner():
     """Print a welcome banner."""
@@ -47,8 +49,10 @@ def run_evaluation(model_name: str,
                   use_batch: bool = None,
                   use_concurrent: bool = None,
                   max_concurrent: int = None,
-                  requests_per_minute: int = None):
-    """Run evaluation on specified configuration with auto processing mode selection."""
+                  requests_per_minute: int = None,
+                  rag_mode: Optional[str] = None,
+                  rag_params: Optional[Dict] = None):
+    """Run evaluation on specified configuration with auto processing mode selection and RAG."""
     
     print(f"\n🤖 Starting Evaluation")
     print("-" * 40)
@@ -59,6 +63,10 @@ def run_evaluation(model_name: str,
         print(f"Sample size: {sample_size}")
     if specialty_filter:
         print(f"Specialty filter: {specialty_filter}")
+    if rag_mode:
+        print(f"🧠 RAG Mode: {rag_mode}")
+        if rag_params:
+            print(f"   RAG Params: {rag_params}")
     
     # Calculate total requests to determine processing mode
     data_loader = MedQADataLoader()
@@ -97,46 +105,77 @@ def run_evaluation(model_name: str,
     
     print(f"🔧 Processing mode: {processing_mode}")
     
+    # Initialize RAG evaluators if mode is set
+    # These will be passed to the chosen main evaluator
+    langchain_rag_evaluator_instance = None
+    graphrag_evaluator_instance = None
+
+    if rag_mode == "langchain":
+        # Consider passing pdfs_dir, index_dir from config if not using defaults in LangChainRAGEvaluator
+        langchain_rag_evaluator_instance = LangChainRAGEvaluator()
+        print(f"   Initialized LangChainRAGEvaluator for evaluation pipeline.")
+    elif rag_mode == "graphrag":
+        # Consider passing work_dir from config if not using defaults in GraphRAGEvaluator
+        graphrag_evaluator_instance = GraphRAGEvaluator()
+        print(f"   Initialized GraphRAGEvaluator for evaluation pipeline.")
+        # For GraphRAG, its own setup (prepare_documents, run_indexing) should be managed
+        # either externally (e.g., via CLI commands rag-graphrag-build) or ensure its init/retrieve handles it.
+
     # Run evaluation based on selected mode
     if processing_mode == "batch":
         print(f"🚀 Using Batch Processing")
-        evaluator = OpenAIBatchEvaluator(model_name)
+        evaluator = OpenAIBatchEvaluator(
+            model_name,
+            langchain_rag_evaluator=langchain_rag_evaluator_instance,
+            graphrag_evaluator=graphrag_evaluator_instance
+        )
         results = evaluator.evaluate_dataset_batch(
             split=split,
             prompt_types=prompt_types,
             sample_size=sample_size,
             specialty_filter=specialty_filter,
-            save_results=True
+            save_results=True,
+            rag_mode=rag_mode,
+            rag_params=rag_params
         )
     
     elif processing_mode == "concurrent":
         print(f"⚡ Using Concurrent Processing")
-        # Use provided values or defaults
-        max_concurrent = max_concurrent or CONCURRENT_CONFIG['max_concurrent_requests']
-        requests_per_minute = requests_per_minute or CONCURRENT_CONFIG['requests_per_minute']
+        max_concurrent_val = max_concurrent or CONCURRENT_CONFIG['max_concurrent_requests']
+        requests_per_minute_val = requests_per_minute or CONCURRENT_CONFIG['requests_per_minute']
         
         evaluator = ConcurrentOpenAIEvaluator(
             model_name, 
-            max_concurrent=max_concurrent,
-            requests_per_minute=requests_per_minute
+            max_concurrent=max_concurrent_val,
+            requests_per_minute=requests_per_minute_val,
+            langchain_rag_evaluator=langchain_rag_evaluator_instance,
+            graphrag_evaluator=graphrag_evaluator_instance
         )
         results = evaluator.evaluate_dataset_concurrent(
             split=split,
             prompt_types=prompt_types,
             sample_size=sample_size,
             specialty_filter=specialty_filter,
-            save_results=True
+            save_results=True,
+            rag_mode=rag_mode,
+            rag_params=rag_params
         )
     
     else:  # sequential
         print(f"🔄 Using Sequential Processing")
-        evaluator = OpenAIEvaluator(model_name)
+        evaluator = OpenAIEvaluator(
+            model_name,
+            langchain_rag_evaluator=langchain_rag_evaluator_instance,
+            graphrag_evaluator=graphrag_evaluator_instance
+        )
         results = evaluator.evaluate_dataset(
             split=split,
             prompt_types=prompt_types,
             sample_size=sample_size,
             specialty_filter=specialty_filter,
-            save_results=True
+            save_results=True,
+            rag_mode=rag_mode,
+            rag_params=rag_params
         )
     
     # Display results
@@ -152,10 +191,19 @@ def run_evaluation(model_name: str,
         print(f"Avg Response Time: {overall['avg_response_time']:.2f}s")
     
     # Performance by prompt type
-    if len(prompt_types) > 1:
-        print(f"\n📝 Performance by Prompt Type:")
-        for prompt_type, perf in summary['performance_by_prompt'].items():
-            print(f"  {prompt_type}: {perf['accuracy']:.3f} ({perf['correct_count']}/{perf['total_count']})")
+    if len(prompt_types) > 1 or rag_mode:
+        print(f"\n📝 Performance by Prompt Type (and RAG if applicable):")
+        for prompt_type_key, perf in summary.get('performance_by_prompt', {}).items():
+            # The prompt_type_key might now be e.g. "direct_rag"
+            print(f"  {prompt_type_key}: {perf['accuracy']:.3f} ({perf['correct_count']}/{perf['total_count']})")
+    
+    # Performance by RAG mode
+    if "performance_by_rag_mode" in summary:
+        print(f"\n🧠 Performance by RAG Configuration:")
+        for rag_config, perf in summary['performance_by_rag_mode'].items():
+            if rag_config == "None": # Skip if RAG was not used for this subset
+                continue
+            print(f"  RAG Mode ('{rag_config}'): {perf['accuracy']:.3f} ({perf['correct_count']}/{perf['total_count']})")
     
     # Performance by specialty (top 5)
     if summary['performance_by_specialty']:
@@ -444,6 +492,102 @@ Available commands:
         except Exception as e:
             print(f"Error: {e}")
 
+def run_rag_langchain_build():
+    """Build LangChain RAG index from cardiology PDFs."""
+    print("\n🧱 Building LangChain RAG Index...")
+    print("-" * 40)
+    
+    rag = LangChainRAGEvaluator()
+    chunks_count = rag.load_and_index_documents()
+    
+    print(f"\n✅ LangChain RAG index built successfully!")
+    print(f"   Total chunks indexed: {chunks_count}")
+    stats = rag.get_retrieval_stats()
+    print(f"   Vector store stats: {stats}")
+
+def run_rag_langchain_eval(sample_size: Optional[int] = 5):
+    """Evaluate LangChain RAG on sample cardiology questions."""
+    print("\n🧪 Evaluating LangChain RAG...")
+    print("-" * 40)
+    
+    rag = LangChainRAGEvaluator()
+    if not rag.load_existing_vectorstore():
+        print("❌ No existing vector store found. Please build the index first using 'rag-langchain-build'.")
+        return
+        
+    # Sample questions (can be expanded or loaded from a file)
+    test_questions = [
+        "What are the main symptoms of myocardial infarction?",
+        "How is atrial fibrillation diagnosed and treated?",
+        "What are the risk factors for coronary artery disease?",
+        "Explain the pathophysiology of heart failure with reduced ejection fraction.",
+        "What are the contraindications for beta-blockers in cardiology?"
+    ][:sample_size]
+    
+    results = rag.evaluate_on_dataset(test_questions)
+    
+    # Print summary of results
+    print("\n📈 LangChain RAG Evaluation Summary:")
+    for res in results:
+        print(f"  ❓ Question: {res['question']}")
+        print(f"  💡 Answer: {res['answer'][:150]}...")
+        print(f"  📚 Sources: {len(res['sources'])} documents")
+        print(f"  ⏱️ Time: {res['query_time']:.2f}s\n")
+
+def run_rag_graphrag_build():
+    """Build GraphRAG index from cardiology PDFs."""
+    print("\n🕸️ Building GraphRAG Index...")
+    print("-" * 40)
+    
+    graphrag = GraphRAGEvaluator()
+    
+    # Prepare documents (convert PDFs to text)
+    doc_count = graphrag.prepare_documents()
+    if doc_count == 0:
+        print("❌ No documents prepared for GraphRAG. Check 'cardiology_pdfs' directory.")
+        return
+        
+    # Create settings.yaml
+    graphrag.create_settings_yaml()
+    
+    # Run indexing
+    if not graphrag.run_indexing():
+        print("❌ GraphRAG indexing failed.")
+        return
+        
+    print("\n✅ GraphRAG index built successfully!")
+    stats = graphrag.get_index_stats()
+    print(f"   Index stats: {stats}")
+
+def run_rag_graphrag_eval(method: str = "global", sample_size: Optional[int] = 5):
+    """Evaluate GraphRAG on sample cardiology questions using specified method."""
+    print(f"\n🧪 Evaluating GraphRAG ({method} search)...")
+    print("-" * 40)
+    
+    graphrag = GraphRAGEvaluator()
+    stats = graphrag.get_index_stats()
+    if not stats.get("indexing_complete", False):
+        print("❌ No existing GraphRAG index found. Please build the index first using 'rag-graphrag-build'.")
+        return
+
+    # Sample questions
+    test_questions = [
+        "What are the main symptoms of myocardial infarction?",
+        "How is atrial fibrillation diagnosed and treated?",
+        "What are the risk factors for coronary artery disease?",
+        "Explain the pathophysiology of heart failure with reduced ejection fraction.",
+        "What are the contraindications for beta-blockers in cardiology?"
+    ][:sample_size]
+    
+    results = graphrag.evaluate_on_dataset(test_questions, use_global=(method == "global"))
+    
+    # Print summary of results
+    print(f"\n📈 GraphRAG ({method}) Evaluation Summary:")
+    for res in results:
+        print(f"  ❓ Question: {res['question']}")
+        print(f"  💡 Answer: {res['answer'][:150]}...")
+        print(f"  ⏱️ Time: {res['query_time']:.2f}s\n")
+
 def main():
     """Main function with command-line interface."""
     parser = argparse.ArgumentParser(
@@ -502,6 +646,24 @@ Examples:
     parser.add_argument("--requests-per-minute", type=int, default=CONCURRENT_CONFIG['requests_per_minute'],
                        help="Rate limit for requests per minute (default: 100)")
     
+    # Add RAG arguments
+    parser.add_argument("--rag-langchain-build", action="store_true", help="Build LangChain RAG index")
+    parser.add_argument("--rag-langchain-eval", nargs='?', const=5, type=int, metavar='N', help="Evaluate LangChain RAG (optional N samples)")
+    parser.add_argument("--rag-graphrag-build", action="store_true", help="Build GraphRAG index")
+    parser.add_argument("--rag-graphrag-eval-global", nargs='?', const=5, type=int, metavar='N', help="Evaluate GraphRAG with global search (optional N samples)")
+    parser.add_argument("--rag-graphrag-eval-local", nargs='?', const=5, type=int, metavar='N', help="Evaluate GraphRAG with local search (optional N samples)")
+    
+    # Add RAG related arguments
+    rag_group = parser.add_argument_group('RAG Settings', "Options for Retrieval Augmented Generation")
+    rag_group.add_argument("--rag-mode", type=str, choices=["langchain", "graphrag"], default=None,
+                         help="Enable RAG mode. Choose between 'langchain' or 'graphrag'.")
+    rag_group.add_argument("--rag-k-retrieval", type=int, default=5,
+                         help="Number of documents/context pieces to retrieve for RAG.")
+    rag_group.add_argument("--graphrag-search-type", type=str, choices=["global", "local"], default="global",
+                         help="Search type for GraphRAG ('global' or 'local').")
+    rag_group.add_argument("--graphrag-community-level", type=int, default=2,
+                         help="Community level for GraphRAG local search.")
+    
     args = parser.parse_args()
     
     print_banner()
@@ -535,6 +697,15 @@ Examples:
             original_demo = BATCH_SETTINGS["demo_mode"]
             BATCH_SETTINGS["demo_mode"] = True
         
+        # Collect RAG parameters
+        rag_params_dict = None
+        if args.rag_mode:
+            rag_params_dict = {
+                "k_retrieval": args.rag_k_retrieval,
+                "graphrag_search_type": args.graphrag_search_type,
+                "graphrag_community_level": args.graphrag_community_level
+            }
+        
         try:
             run_evaluation(
                 model_name=args.model,
@@ -545,7 +716,9 @@ Examples:
                 use_batch=use_batch,
                 use_concurrent=use_concurrent,
                 max_concurrent=args.max_concurrent,
-                requests_per_minute=args.requests_per_minute
+                requests_per_minute=args.requests_per_minute,
+                rag_mode=args.rag_mode,
+                rag_params=rag_params_dict
             )
         finally:
             # Restore demo mode if it was changed
@@ -554,6 +727,17 @@ Examples:
     
     elif args.download:
         download_best_practices()
+    
+    elif args.rag_langchain_build:
+        run_rag_langchain_build()
+    elif args.rag_langchain_eval is not None:
+        run_rag_langchain_eval(sample_size=args.rag_langchain_eval)
+    elif args.rag_graphrag_build:
+        run_rag_graphrag_build()
+    elif args.rag_graphrag_eval_global is not None:
+        run_rag_graphrag_eval(method="global", sample_size=args.rag_graphrag_eval_global)
+    elif args.rag_graphrag_eval_local is not None:
+        run_rag_graphrag_eval(method="local", sample_size=args.rag_graphrag_eval_local)
     
     else:
         print("No action specified. Use --help for usage information.")
