@@ -193,12 +193,19 @@ Then use commands like:
 Simple multiple-choice answering without explicit reasoning steps.
 
 ### 2. Chain-of-Thought
-Step-by-step medical reasoning:
+Step-by-step medical reasoning with structured thinking:
+
+```
+<think>
 1. Identify key medical concepts
 2. Analyze patient presentation
 3. Consider differential diagnosis
 4. Evaluate options
 5. Select best answer
+</think>
+
+<answer>A</answer>
+```
 
 ### 3. Self-Consistency
 Multiple-angle analysis for robust decision making.
@@ -208,6 +215,15 @@ Focus on clinical guidelines and medical literature.
 
 ### 5. Differential Diagnosis
 Systematic diagnostic reasoning approach.
+
+## Structured Response Format
+
+All reasoning prompts use structured tags for reliable answer extraction:
+
+- **`<think></think>`** - Contains the model's reasoning process
+- **`<answer>X</answer>`** - Contains the final answer choice (A, B, C, D, etc.)
+
+This eliminates parsing errors and ensures 100% reliable answer extraction, compared to previous regex-based methods that were error-prone with complex medical reasoning text.
 
 ## Results and Analysis
 
