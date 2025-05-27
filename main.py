@@ -149,6 +149,7 @@ Available commands:
   full-eval      - Run full evaluation
   download       - Download BMJ Best Practice PDFs
   cardiology     - Evaluate on cardiology questions only
+  filtered-6     - Evaluate on filtered test set (6 key specialties)
   help           - Show this help
   exit           - Exit interactive mode
                 """)
@@ -198,6 +199,13 @@ Available commands:
             elif command == 'download':
                 download_best_practices()
             
+            elif command == 'filtered-6':
+                run_evaluation(
+                    model_name="gpt-3.5-turbo",
+                    split="test_filtered_6",
+                    prompt_types=["direct", "chain_of_thought"]
+                )
+            
             else:
                 print(f"Unknown command: {command}. Type 'help' for available commands.")
                 
@@ -233,7 +241,7 @@ Examples:
                        choices=list(OPENAI_MODELS.keys()),
                        help='OpenAI model to use')
     parser.add_argument('--split', default='test', 
-                       choices=['train', 'validation', 'test'],
+                       choices=['train', 'validation', 'test', 'test_filtered_6'],
                        help='Dataset split to use')
     parser.add_argument('--prompts', nargs='+', 
                        default=['direct'],
@@ -247,6 +255,8 @@ Examples:
                        help='Run full evaluation (overrides sample-size)')
     parser.add_argument('--cardiology', action='store_true',
                        help='Evaluate cardiology questions only')
+    parser.add_argument('--filtered-6', action='store_true',
+                       help='Use filtered test set with 6 key specialties')
     
     args = parser.parse_args()
     
@@ -262,10 +272,11 @@ Examples:
     elif args.eval:
         sample_size = None if args.full else args.sample_size
         specialty_filter = "Cardiology" if args.cardiology else args.specialty
+        split = "test_filtered_6" if args.filtered_6 else args.split
         
         run_evaluation(
             model_name=args.model,
-            split=args.split,
+            split=split,
             prompt_types=args.prompts,
             sample_size=sample_size,
             specialty_filter=specialty_filter

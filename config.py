@@ -41,7 +41,8 @@ OPENAI_MODELS = {
 DATASET_PATHS = {
     "train": "S-MedQA_train.json",
     "validation": "S-MedQA_validation.json", 
-    "test": "S-MedQA_test.json"
+    "test": "S-MedQA_test.json",
+    "test_filtered_6": "S-MedQA_test_filtered_6specialties.json"
 }
 
 # BMJ Best Practice settings

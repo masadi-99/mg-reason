@@ -36,11 +36,11 @@ class MedQADataLoader:
         Get a specific dataset split with optional sampling and filtering.
         
         Args:
-            split: Dataset split ('train', 'validation', 'test')
+            split: Dataset split ('train', 'validation', 'test', 'test_filtered_6')
             sample_size: Number of samples to return (None for all)
             specialty_filter: Filter by medical specialty
             random_seed: Random seed for sampling
-        
+             
         Returns:
             List of samples
         """
@@ -58,7 +58,7 @@ class MedQADataLoader:
         if sample_size and sample_size < len(data):
             random.seed(random_seed)
             data = random.sample(data, sample_size)
-        
+             
         return data
     
     def get_specialties(self, split: str = 'train') -> Dict[str, int]:
@@ -99,6 +99,22 @@ class MedQADataLoader:
     def get_sample_specialty(self, sample: Dict) -> str:
         """Get the specialty for a sample, handling different field names."""
         return sample.get('Voting_3') or sample.get('Specialty', 'Unknown')
+    
+    def get_filtered_test_info(self) -> Dict:
+        """Get information about the filtered test set with 6 key specialties."""
+        if 'test_filtered_6' not in self.data:
+            return {"error": "Filtered test set not loaded"}
+        
+        filtered_data = self.data['test_filtered_6']
+        specialties = self.get_specialties('test_filtered_6')
+        
+        return {
+            "total_samples": len(filtered_data),
+            "specialties_included": ["Cardiology", "Gastroenterology", "Infectious diseases", 
+                                   "Neurology", "Obstetrics and gynecology", "Pediatrics"],
+            "specialty_distribution": specialties,
+            "description": "Filtered subset of test set containing only 6 key medical specialties"
+        }
     
     def get_dataset_stats(self) -> Dict:
         """Get comprehensive dataset statistics."""

@@ -32,13 +32,19 @@ python main.py --analyze
 
 ```bash
 # Quick evaluation (5 samples)
-python main.py --eval
+python main.py --eval --model gpt-4
 
-# Full evaluation with multiple prompt types
-python main.py --eval --full --prompts direct chain_of_thought
+# Full evaluation on test set
+python main.py --eval --full --model gpt-4 --split test
 
-# Evaluate cardiology questions specifically
-python main.py --eval --cardiology
+# Evaluate on filtered test set (6 key specialties)
+python main.py --eval --filtered-6 --model gpt-4o-mini
+
+# Evaluate cardiology questions only
+python main.py --eval --cardiology --model gpt-3.5-turbo
+
+# Multiple prompt types
+python main.py --eval --prompts direct chain_of_thought --model gpt-4
 
 # Interactive mode for exploration
 python main.py --interactive
@@ -52,7 +58,8 @@ python main.py --download
 The system uses the **S-MedQA** dataset, which contains:
 - **Training Set**: 7,125 samples
 - **Validation Set**: 899 samples  
-- **Test Set**: 893 samples
+- **Test Set**: 899 samples across 15 medical specialties
+- **Test (Filtered 6)**: 459 samples from 6 key specialties
 
 Each sample includes:
 - Medical question with multiple choice options
@@ -70,6 +77,26 @@ The dataset covers 15 medical specialties with 200+ samples each, including:
 - Surgery
 - Emergency Medicine
 - And more...
+
+### Dataset Splits
+
+The S-MedQA dataset contains three main splits:
+- **Training**: 7,125 samples across 15 medical specialties
+- **Validation**: 899 samples across 15 medical specialties  
+- **Test**: 899 samples across 15 medical specialties
+- **Test (Filtered 6)**: 459 samples from 6 key specialties
+
+#### Filtered Test Set
+
+A specialized subset containing only these 6 high-priority medical specialties:
+- **Cardiology**: 74 samples
+- **Gastroenterology**: 86 samples
+- **Infectious diseases**: 76 samples
+- **Neurology**: 71 samples
+- **Obstetrics and gynecology**: 89 samples
+- **Pediatrics**: 63 samples
+
+This filtered set represents 51.1% of the original test set (459/899 samples) and focuses on core medical domains for targeted evaluation.
 
 ## Evaluation Modes
 

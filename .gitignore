@@ -4,9 +4,14 @@ openai_api_key.txt
 *.env
 
 # Dataset files (large files that should be downloaded separately)
-S-MedQA_*.json
+S-MedQA_train.json
+S-MedQA_validation.json
+S-MedQA_test.json
 *.zip
 *.tar.gz
+
+# Keep filtered/derived datasets
+!S-MedQA_test_filtered_*.json
 
 # Downloaded PDFs and documents
 cardiology_pdfs/

@@ -1,0 +1,23 @@
+{
+  "description": "Filtered S-MedQA test set with 6 key medical specialties",
+  "specialties": [
+    "Gastroenterology",
+    "Infectious diseases",
+    "Cardiology",
+    "Obstetrics and gynecology",
+    "Neurology",
+    "Pediatrics"
+  ],
+  "original_size": 899,
+  "filtered_size": 459,
+  "retention_rate": 0.5105672969966629,
+  "specialty_counts": {
+    "Infectious diseases": 76,
+    "Cardiology": 74,
+    "Obstetrics and gynecology": 89,
+    "Neurology": 71,
+    "Gastroenterology": 86,
+    "Pediatrics": 63
+  },
+  "created_from": "S-MedQA_test.json"
+}
