@@ -1,0 +1,268 @@
+encoding_model: cl100k_base
+skip_workflows: []
+
+models:
+  default_chat_model:
+    api_key: ${GRAPHRAG_API_KEY}
+    type: openai_chat
+    model: gpt-4o-mini
+    model_supports_json: true
+    max_tokens: 4000
+    temperature: 0
+    top_p: 1
+    request_timeout: 180.0
+    api_base: null
+    api_version: null
+    organization: null
+    proxy: null
+    cognitive_services_endpoint: null
+    deployment_name: null
+    tokens_per_minute: 0
+    requests_per_minute: 0
+    max_retries: 10
+    max_retry_wait: 10.0
+    sleep_on_rate_limit_recommendation: true
+    concurrent_requests: 5
+  default_embedding_model:
+    api_key: ${GRAPHRAG_API_KEY}
+    type: openai_embedding
+    model: text-embedding-ada-002
+    api_base: null
+    api_version: null
+    organization: null
+    proxy: null
+    cognitive_services_endpoint: null
+    deployment_name: null
+    tokens_per_minute: 0
+    requests_per_minute: 0
+    max_retries: 10
+    max_retry_wait: 10.0
+    sleep_on_rate_limit_recommendation: true
+    concurrent_requests: 5
+
+llm:
+  api_key: ${GRAPHRAG_API_KEY}
+  type: openai_chat
+  model: gpt-4o-mini
+  model_supports_json: true
+  max_tokens: 4000
+  temperature: 0
+  top_p: 1
+  request_timeout: 180.0
+  api_base: null
+  api_version: null
+  organization: null
+  proxy: null
+  cognitive_services_endpoint: null
+  deployment_name: null
+  tokens_per_minute: 0
+  requests_per_minute: 0
+  max_retries: 10
+  max_retry_wait: 10.0
+  sleep_on_rate_limit_recommendation: true
+  concurrent_requests: 5
+
+parallelization:
+  stagger: 0.3
+  num_threads: 20
+
+async_mode: threaded
+
+embeddings:
+  async_mode: threaded
+  llm:
+    api_key: ${GRAPHRAG_API_KEY}
+    type: openai_embedding
+    model: text-embedding-ada-002
+    api_base: null
+    api_version: null
+    organization: null
+    proxy: null
+    cognitive_services_endpoint: null
+    deployment_name: null
+    tokens_per_minute: 0
+    requests_per_minute: 0
+    max_retries: 10
+    max_retry_wait: 10.0
+    sleep_on_rate_limit_recommendation: true
+    concurrent_requests: 5
+  parallelization:
+    stagger: 0.3
+    num_threads: 20
+  batch_size: 16
+  batch_max_tokens: 8191
+  target: required
+  strategy:
+    type: openai
+
+input:
+  type: file
+  file_type: text
+  base_dir: "input"
+  file_encoding: utf-8
+  file_pattern: ".*\\.txt$$"
+
+cache:
+  type: file
+  base_dir: "cache"
+
+storage:
+  type: file
+  base_dir: "output"
+
+update_index_storage:
+  type: file
+  base_dir: "output"
+
+reporting:
+  type: file
+  base_dir: "output"
+
+entity_extraction:
+  llm:
+    api_key: ${GRAPHRAG_API_KEY}
+    type: openai_chat
+    model: gpt-4o-mini
+    model_supports_json: true
+    max_tokens: 4000
+    temperature: 0
+    top_p: 1
+    request_timeout: 180.0
+    api_base: null
+    api_version: null
+    organization: null
+    proxy: null
+    cognitive_services_endpoint: null
+    deployment_name: null
+    tokens_per_minute: 0
+    requests_per_minute: 0
+    max_retries: 10
+    max_retry_wait: 10.0
+    sleep_on_rate_limit_recommendation: true
+    concurrent_requests: 5
+  parallelization:
+    stagger: 0.3
+    num_threads: 20
+  async_mode: threaded
+  prompt: "prompts/entity_extraction.txt"
+  entity_types: [person, organization, geo, event, medication, condition, procedure, symptom]
+  max_gleanings: 1
+
+summarize_descriptions:
+  llm:
+    api_key: ${GRAPHRAG_API_KEY}
+    type: openai_chat
+    model: gpt-4o-mini
+    model_supports_json: true
+    max_tokens: 4000
+    temperature: 0
+    top_p: 1
+    request_timeout: 180.0
+    api_base: null
+    api_version: null
+    organization: null
+    proxy: null
+    cognitive_services_endpoint: null
+    deployment_name: null
+    tokens_per_minute: 0
+    requests_per_minute: 0
+    max_retries: 10
+    max_retry_wait: 10.0
+    sleep_on_rate_limit_recommendation: true
+    concurrent_requests: 5
+  parallelization:
+    stagger: 0.3
+    num_threads: 20
+  async_mode: threaded
+  prompt: "prompts/summarize_descriptions.txt"
+  max_length: 500
+
+claim_extraction:
+  llm:
+    api_key: ${GRAPHRAG_API_KEY}
+    type: openai_chat
+    model: gpt-4o-mini
+    model_supports_json: true
+    max_tokens: 4000
+    temperature: 0
+    top_p: 1
+    request_timeout: 180.0
+    api_base: null
+    api_version: null
+    organization: null
+    proxy: null
+    cognitive_services_endpoint: null
+    deployment_name: null
+    tokens_per_minute: 0
+    requests_per_minute: 0
+    max_retries: 10
+    max_retry_wait: 10.0
+    sleep_on_rate_limit_recommendation: true
+    concurrent_requests: 5
+  parallelization:
+    stagger: 0.3
+    num_threads: 20
+  async_mode: threaded
+  prompt: "prompts/claim_extraction.txt"
+  description: "Any claims or facts that could be relevant to medical decision making."
+  max_gleanings: 1
+
+community_report:
+  llm:
+    api_key: ${GRAPHRAG_API_KEY}
+    type: openai_chat
+    model: gpt-4o-mini
+    model_supports_json: true
+    max_tokens: 4000
+    temperature: 0
+    top_p: 1
+    request_timeout: 180.0
+    api_base: null
+    api_version: null
+    organization: null
+    proxy: null
+    cognitive_services_endpoint: null
+    deployment_name: null
+    tokens_per_minute: 0
+    requests_per_minute: 0
+    max_retries: 10
+    max_retry_wait: 10.0
+    sleep_on_rate_limit_recommendation: true
+    concurrent_requests: 5
+  parallelization:
+    stagger: 0.3
+    num_threads: 20
+  async_mode: threaded
+  prompt: "prompts/community_report.txt"
+  max_length: 2000
+  max_input_length: 8000
+
+text_unit:
+  size: 1500
+  overlap: 150
+
+embed_graph:
+  enabled: false
+
+umap:
+  enabled: false
+
+snapshots:
+  graphml: false
+  raw_entities: false
+  top_level_nodes: false
+
+local_search:
+  text_unit_prop: 0.5
+  community_prop: 0.1
+  conversation_history_max_turns: 5
+  top_k_mapped_entities: 10
+  top_k_relationships: 10
+  max_tokens: 12000
+
+global_search:
+  max_tokens: 12000
+  data_max_tokens: 12000
+  map_max_tokens: 1000
+  reduce_max_tokens: 2000
+  concurrency: 32
