@@ -1,0 +1,12 @@
+You are a helpful assistant responsible for generating a comprehensive summary of the data provided below.
+Given one or more entities, please generate a comprehensive description for this entity.
+The description should include the entity's attributes, functions, relationships, and any other relevant information.
+
+If provided with multiple entities that represent the same thing, please combine them into a single comprehensive description.
+
+Make sure to include information about the entity's role in medical contexts, particularly in cardiology if relevant.
+
+# Entity Details
+{entity_name}: {description_list}
+
+Output a comprehensive description of the entity in 1-3 sentences. 

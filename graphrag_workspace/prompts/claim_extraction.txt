@@ -1,0 +1,37 @@
+-Goal-
+Given a text document that is potentially relevant to medical decision making, extract all claims that could be relevant to information discovery.
+
+-Steps-
+1. Analyze the given text for factual statements, guidelines, recommendations, or assertions that could be useful for medical decision making
+2. For each identified claim, extract the following information:
+- subject_entity: The main entity or concept the claim is about
+- object_entity: The entity or concept being claimed about the subject
+- claim_type: The type of claim (e.g., "treatment", "diagnosis", "risk_factor", "contraindication", "indication", "side_effect", "mechanism")
+- claim_status: Whether the claim is "supported", "refuted", or "conflicted"  
+- claim_description: A clear, concise description of the claim
+- claim_source_text: The exact text that supports this claim
+Format each claim as ("claim"{tuple_delimiter}<subject_entity>{tuple_delimiter}<object_entity>{tuple_delimiter}<claim_type>{tuple_delimiter}<claim_status>{tuple_delimiter}<claim_description>{tuple_delimiter}<claim_source_text>)
+
+3. Return output in English as a single list of all claims identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+
+4. When finished, output {completion_delimiter}
+
+-Examples-
+######################
+Example 1:
+
+Text:
+Patients with acute myocardial infarction should receive aspirin 325mg immediately unless contraindicated. Beta-blockers reduce mortality when started within 24 hours post-MI.
+
+######################
+Output:
+("claim"{tuple_delimiter}ASPIRIN{tuple_delimiter}ACUTE MYOCARDIAL INFARCTION{tuple_delimiter}treatment{tuple_delimiter}supported{tuple_delimiter}Aspirin 325mg should be given immediately to patients with acute myocardial infarction unless contraindicated{tuple_delimiter}Patients with acute myocardial infarction should receive aspirin 325mg immediately unless contraindicated)
+{record_delimiter}
+("claim"{tuple_delimiter}BETA-BLOCKERS{tuple_delimiter}POST-MI MORTALITY{tuple_delimiter}treatment{tuple_delimiter}supported{tuple_delimiter}Beta-blockers reduce mortality when started within 24 hours after myocardial infarction{tuple_delimiter}Beta-blockers reduce mortality when started within 24 hours post-MI)
+{completion_delimiter}
+
+-Real Data-
+######################
+Text: {input_text}
+######################
+Output: 

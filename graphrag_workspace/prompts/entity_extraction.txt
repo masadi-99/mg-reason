@@ -1,0 +1,81 @@
+-Goal-
+Given a text document that is potentially relevant to this activity and a list of entity types, identify all entities of those types from the text and extract all relationships among the identified entities.
+
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: One of the following types: [person, organization, geo, event, medication, condition, procedure, symptom]
+- entity_description: Comprehensive description of the entity's attributes and activities
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- target_entity: name of the target entity, as identified in step 1
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_strength: a numeric score indicating strength of the relationship between the source entity and target entity
+ Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. Return output in English as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+
+4. When finished, output {completion_delimiter}
+
+-Examples-
+######################
+Example 1:
+
+Entity_types: [person, technology, organization, event, location, concept]
+Text:
+The Verdantis's Central Institution is scheduled to meet on Monday and Tuesday, with the institution planning to release a policy decision on Wednesday at 1:30 p.m. PDT. Investors expect the institution to hold its benchmark interest rate steady in a range of 3.5%-3.75%.
+
+######################
+Output:
+("entity"{tuple_delimiter}CENTRAL INSTITUTION{tuple_delimiter}organization{tuple_delimiter}The Central Institution is the Federal Reserve of Verdantis, which is setting interest rates on Monday and Tuesday)
+{record_delimiter}
+("entity"{tuple_delimiter}VERDANTIS{tuple_delimiter}location{tuple_delimiter}Verdantis is a country with a central bank)
+{record_delimiter}
+("entity"{tuple_delimiter}POLICY DECISION{tuple_delimiter}event{tuple_delimiter}The policy decision is an outcome of the two-day meeting)
+{record_delimiter}
+("entity"{tuple_delimiter}INTEREST RATE{tuple_delimiter}concept{tuple_delimiter}The benchmark interest rate will be announced)
+{record_delimiter}
+("relationship"{tuple_delimiter}CENTRAL INSTITUTION{tuple_delimiter}POLICY DECISION{tuple_delimiter}The Central Institution is making a policy decision{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}CENTRAL INSTITUTION{tuple_delimiter}INTEREST RATE{tuple_delimiter}The Central Institution sets the interest rate{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}CENTRAL INSTITUTION{tuple_delimiter}VERDANTIS{tuple_delimiter}The Central Institution is the central bank of Verdantis{tuple_delimiter}8)
+{completion_delimiter}
+
+######################
+Example 2:
+
+Entity_types: [person, technology, organization, event, location, concept]
+Text:
+TechGlobal's (TG) stock skyrocketed in its opening day on the Global Exchange. The company, which provides cloud-based infrastructure solutions, saw its shares climb 192% to $24.32 per share. The opening follows TechGlobal's successful initial public offering (IPO) last week, which raised $1.2 billion. The CEO, Maria Gonzalez, expressed her excitement about the company's prospects.
+
+######################
+Output:
+("entity"{tuple_delimiter}TECHGLOBAL{tuple_delimiter}organization{tuple_delimiter}TechGlobal is a company that provides cloud-based infrastructure solutions and was recently listed on the Global Exchange)
+{record_delimiter}
+("entity"{tuple_delimiter}GLOBAL EXCHANGE{tuple_delimiter}organization{tuple_delimiter}The Global Exchange is the stock exchange where TechGlobal is listed)
+{record_delimiter}
+("entity"{tuple_delimiter}MARIA GONZALEZ{tuple_delimiter}person{tuple_delimiter}Maria Gonzalez is the CEO of TechGlobal)
+{record_delimiter}
+("entity"{tuple_delimiter}IPO{tuple_delimiter}event{tuple_delimiter}The initial public offering (IPO) raised $1.2 billion for TechGlobal)
+{record_delimiter}
+("entity"{tuple_delimiter}CLOUD-BASED INFRASTRUCTURE{tuple_delimiter}technology{tuple_delimiter}Cloud-based infrastructure solutions are the main service provided by TechGlobal)
+{record_delimiter}
+("relationship"{tuple_delimiter}TECHGLOBAL{tuple_delimiter}MARIA GONZALEZ{tuple_delimiter}Maria Gonzalez is the CEO of TechGlobal{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}TECHGLOBAL{tuple_delimiter}GLOBAL EXCHANGE{tuple_delimiter}TechGlobal is listed on the Global Exchange{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}TECHGLOBAL{tuple_delimiter}IPO{tuple_delimiter}TechGlobal conducted an IPO{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}TECHGLOBAL{tuple_delimiter}CLOUD-BASED INFRASTRUCTURE{tuple_delimiter}TechGlobal provides cloud-based infrastructure solutions{tuple_delimiter}9)
+{completion_delimiter}
+
+-Real Data-
+######################
+Entity_types: {entity_types}
+Text: {input_text}
+######################
+Output: 
