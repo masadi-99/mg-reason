@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Adaptive RAG Evaluator - Two-stage RAG approach.
+Adaptive RAG Evaluator - Two-stage RAG approach with concurrent support.
 
 Stage 1: Ask LLM to identify k medical guidelines/knowledge areas needed to answer the question
 Stage 2: Retrieve specific information for each guideline using LangChain RAG
@@ -8,44 +8,60 @@ Stage 3: Answer the question using the targeted retrievals with various reasonin
 """
 
 import openai
+import asyncio
+import aiohttp
 import json
 import time
 import re
+import random
+import numpy as np
+import os
 from typing import Dict, List, Optional, Tuple
+from tqdm.asyncio import tqdm as atqdm
 from tqdm import tqdm
 import pandas as pd
 from datetime import datetime
 from pathlib import Path
 
-from config import OPENAI_API_KEY, OPENAI_MODELS
+from config import OPENAI_API_KEY, OPENAI_MODELS, RANDOM_SEED
 from data_loader import MedQADataLoader
 from reasoning_prompts import PromptTemplates
 from rag_langchain import LangChainRAGEvaluator
 
 class AdaptiveRAGEvaluator:
-    """Two-stage adaptive RAG evaluator for medical reasoning tasks."""
+    """Two-stage adaptive RAG evaluator for medical reasoning tasks with concurrent support."""
     
     def __init__(self, 
                  model_name: str = "gpt-4o-mini",
                  k_guidelines: int = 3,
-                 k_retrieval_per_guideline: int = 2):
+                 k_retrieval_per_guideline: int = 2,
+                 max_concurrent: int = 10,
+                 requests_per_minute: int = 100):
         """Initialize the adaptive RAG evaluator.
         
         Args:
             model_name: OpenAI model to use
             k_guidelines: Number of medical guidelines to identify in stage 1
             k_retrieval_per_guideline: Number of documents to retrieve per guideline
+            max_concurrent: Maximum concurrent requests for async processing
+            requests_per_minute: Rate limit for requests per minute
         """
         if model_name not in OPENAI_MODELS:
             raise ValueError(f"Model {model_name} not supported. Available models: {list(OPENAI_MODELS.keys())}")
+        
+        # Set deterministic seeds for reproducibility
+        self._set_deterministic_seeds()
         
         self.model_name = model_name
         self.model_config = OPENAI_MODELS[model_name]
         self.k_guidelines = k_guidelines
         self.k_retrieval_per_guideline = k_retrieval_per_guideline
+        self.max_concurrent = max_concurrent
+        self.requests_per_minute = requests_per_minute
         
-        # Initialize OpenAI client
+        # Initialize OpenAI clients (both sync and async) with deterministic settings
         self.client = openai.OpenAI(api_key=OPENAI_API_KEY)
+        self.async_client = openai.AsyncOpenAI(api_key=OPENAI_API_KEY)
         
         # Initialize data loader
         self.data_loader = MedQADataLoader()
@@ -56,6 +72,11 @@ class AdaptiveRAGEvaluator:
         # Track API usage
         self.api_calls = 0
         self.total_tokens = 0
+        
+        # Rate limiting
+        self.semaphore = asyncio.Semaphore(max_concurrent)
+        self.last_request_time = 0
+        self.request_interval = 60.0 / requests_per_minute if requests_per_minute > 0 else 0
         
         # Create guideline identification prompt
         self.guideline_prompt_template = """You are a medical expert. Given the following multiple-choice question, identify {k} specific medical guidelines, knowledge areas, or clinical concepts that would be essential to answer this question correctly.
@@ -81,21 +102,90 @@ Options:
 
 Please identify the {k} most important medical guidelines/knowledge areas needed to answer this question."""
     
+    def _set_deterministic_seeds(self):
+        """Set all random seeds for reproducible results."""
+        # Set Python random seed
+        random.seed(RANDOM_SEED)
+        
+        # Set NumPy random seed
+        np.random.seed(RANDOM_SEED)
+        
+        # Set Python hash seed
+        os.environ['PYTHONHASHSEED'] = str(RANDOM_SEED)
+        
+        print(f"🎯 Deterministic mode enabled with seed: {RANDOM_SEED}")
+    
+    def _get_deterministic_api_params(self) -> Dict:
+        """Get deterministic API parameters from model config."""
+        return {
+            "max_tokens": self.model_config["max_tokens"],
+            "temperature": self.model_config["temperature"],  # Should be 0.0 for deterministic
+            "top_p": self.model_config["top_p"],  # Should be 1.0 for deterministic
+            "frequency_penalty": self.model_config["frequency_penalty"],  # Should be 0.0
+            "presence_penalty": self.model_config["presence_penalty"],  # Should be 0.0
+            "seed": self.model_config["seed"]  # Should be 42
+        }
+    
+    async def _make_api_call_async(self, prompt: str, max_retries: int = 3) -> str:
+        """Make an async API call to OpenAI with rate limiting and retries."""
+        async with self.semaphore:
+            # Rate limiting
+            if self.request_interval > 0:
+                current_time = time.time()
+                time_since_last = current_time - self.last_request_time
+                if time_since_last < self.request_interval:
+                    await asyncio.sleep(self.request_interval - time_since_last)
+                self.last_request_time = time.time()
+            
+            for attempt in range(max_retries):
+                try:
+                    # Use deterministic parameters
+                    api_params = self._get_deterministic_api_params()
+                    
+                    response = await self.async_client.chat.completions.create(
+                        model=self.model_name,
+                        messages=[
+                            {"role": "user", "content": prompt}
+                        ],
+                        **api_params
+                    )
+                    
+                    self.api_calls += 1
+                    if hasattr(response, 'usage') and response.usage:
+                        self.total_tokens += response.usage.total_tokens
+                    
+                    return response.choices[0].message.content.strip()
+                    
+                except openai.RateLimitError:
+                    wait_time = (2 ** attempt) + (attempt * 0.1)  # Exponential backoff with jitter
+                    print(f"Rate limit exceeded. Waiting {wait_time:.1f} seconds...")
+                    await asyncio.sleep(wait_time)
+                except openai.APIError as e:
+                    print(f"API error on attempt {attempt + 1}: {e}")
+                    if attempt == max_retries - 1:
+                        raise
+                    await asyncio.sleep(2 ** attempt)
+                except Exception as e:
+                    print(f"Unexpected error: {e}")
+                    if attempt == max_retries - 1:
+                        raise
+                    await asyncio.sleep(1)
+            
+            raise Exception(f"Failed to get response after {max_retries} attempts")
+    
     def _make_api_call(self, prompt: str, max_retries: int = 3) -> str:
-        """Make an API call to OpenAI with retries."""
+        """Make a synchronous API call to OpenAI with retries."""
         for attempt in range(max_retries):
             try:
+                # Use deterministic parameters
+                api_params = self._get_deterministic_api_params()
+                
                 response = self.client.chat.completions.create(
                     model=self.model_name,
                     messages=[
                         {"role": "user", "content": prompt}
                     ],
-                    max_tokens=self.model_config["max_tokens"],
-                    temperature=self.model_config["temperature"],
-                    top_p=self.model_config["top_p"],
-                    frequency_penalty=self.model_config.get("frequency_penalty", 0.0),
-                    presence_penalty=self.model_config.get("presence_penalty", 0.0),
-                    seed=self.model_config.get("seed", 42)
+                    **api_params
                 )
                 
                 self.api_calls += 1
@@ -151,8 +241,6 @@ Please identify the {k} most important medical guidelines/knowledge areas needed
         # Create a search query that combines the guideline with the original question
         search_query = f"{guideline} {original_question}"
         
-        print(f"    Retrieving for guideline: {guideline[:100]}...")
-        
         try:
             # Use the RAG evaluator to retrieve documents
             retrieved_context = self.rag_evaluator.retrieve_context(
@@ -197,10 +285,109 @@ Please identify the {k} most important medical guidelines/knowledge areas needed
         
         return "UNKNOWN"
     
+    async def evaluate_sample_adaptive_async(self, 
+                                           sample: Dict, 
+                                           prompt_type: str = "direct") -> Dict:
+        """Evaluate a single sample using adaptive RAG approach (async version)."""
+        question = sample['Question']
+        options = sample['Options']
+        correct_answer = self.data_loader.get_correct_answer(sample)
+        correct_choice = self.data_loader.get_answer_choice(sample)
+        
+        # Stage 1: Get medical guidelines from LLM
+        options_text = "\n".join([f"{chr(65+i)}. {opt}" for i, opt in enumerate(options)])
+        guideline_prompt = self.guideline_prompt_template.format(
+            k=self.k_guidelines,
+            question=question,
+            options=options_text
+        )
+        
+        stage1_start = time.time()
+        guideline_response = await self._make_api_call_async(guideline_prompt)
+        stage1_time = time.time() - stage1_start
+        
+        # Extract guidelines
+        guidelines = self._extract_guidelines(guideline_response)
+        
+        # Stage 2: Retrieve information for each guideline (synchronous for now as RAG is sync)
+        stage2_start = time.time()
+        
+        guideline_retrievals = []
+        for i, guideline in enumerate(guidelines, 1):
+            retrieval = self._retrieve_for_guideline(guideline, question)
+            guideline_retrievals.append({
+                'guideline': guideline,
+                'retrieved_context': retrieval
+            })
+        
+        stage2_time = time.time() - stage2_start
+        
+        # Stage 3: Answer the question using retrieved information
+        # Combine all retrieved contexts
+        combined_context = "\n\n" + "="*50 + "\n\n".join([
+            f"GUIDELINE {i+1}: {item['guideline']}\n\nRETRIEVED INFORMATION:\n{item['retrieved_context']}"
+            for i, item in enumerate(guideline_retrievals)
+        ])
+        
+        # Use the appropriate RAG prompt type
+        rag_prompt_type = f"{prompt_type}_rag" if "_rag" not in prompt_type else prompt_type
+        
+        try:
+            final_prompt = PromptTemplates.get_prompt(rag_prompt_type, question, options, context=combined_context)
+        except ValueError:
+            # Fallback to basic RAG prompt if specific type not found
+            final_prompt = PromptTemplates.get_prompt("direct_rag", question, options, context=combined_context)
+            rag_prompt_type = "direct_rag"
+        
+        stage3_start = time.time()
+        final_response = await self._make_api_call_async(final_prompt)
+        stage3_time = time.time() - stage3_start
+        
+        # Extract predicted answer
+        predicted_choice = self._extract_answer(final_response)
+        is_correct = predicted_choice == correct_choice
+        
+        total_time = stage1_time + stage2_time + stage3_time
+        
+        return {
+            'question': question,
+            'options': options,
+            'correct_answer': correct_answer,
+            'correct_choice': correct_choice,
+            'prompt_type': f"adaptive_rag_{prompt_type}",
+            'predicted_choice': predicted_choice,
+            'is_correct': is_correct,
+            'specialty': self.data_loader.get_sample_specialty(sample),
+            
+            # Adaptive RAG specific fields
+            'adaptive_rag_used': True,
+            'k_guidelines': self.k_guidelines,
+            'k_retrieval_per_guideline': self.k_retrieval_per_guideline,
+            
+            # Stage 1: Guideline identification
+            'stage1_guideline_prompt': guideline_prompt,
+            'stage1_guideline_response': guideline_response,
+            'stage1_identified_guidelines': guidelines,
+            'stage1_time': stage1_time,
+            
+            # Stage 2: Information retrieval
+            'stage2_guideline_retrievals': guideline_retrievals,
+            'stage2_time': stage2_time,
+            
+            # Stage 3: Final answering
+            'stage3_final_prompt': final_prompt,
+            'stage3_final_response': final_response,
+            'stage3_time': stage3_time,
+            
+            # Overall metrics
+            'total_response_time': total_time,
+            'total_api_calls_for_sample': 2,  # 1 for guidelines + 1 for final answer
+        }
+    
     def evaluate_sample_adaptive(self, 
                                 sample: Dict, 
                                 prompt_type: str = "direct") -> Dict:
-        """Evaluate a single sample using adaptive RAG approach."""
+        """Evaluate a single sample using adaptive RAG approach (sync version)."""
         question = sample['Question']
         options = sample['Options']
         correct_answer = self.data_loader.get_correct_answer(sample)
@@ -304,7 +491,80 @@ Please identify the {k} most important medical guidelines/knowledge areas needed
             
             # Overall metrics
             'total_response_time': total_time,
-            'total_api_calls_for_sample': 1 + len(guidelines),  # 1 for guidelines + 1 for final answer
+            'total_api_calls_for_sample': 2,  # 1 for guidelines + 1 for final answer
+        }
+    
+    async def evaluate_dataset_adaptive_concurrent(self, 
+                                                  split: str = "test", 
+                                                  prompt_types: List[str] = ["direct"],
+                                                  sample_size: Optional[int] = None,
+                                                  specialty_filter: Optional[str] = None,
+                                                  save_results: bool = True) -> Dict:
+        """Evaluate the model on a dataset split using adaptive RAG with concurrent processing."""
+        
+        print(f"🚀 Starting CONCURRENT ADAPTIVE RAG evaluation on {split} split")
+        print("=" * 70)
+        print(f"🎯 Deterministic mode: ENABLED (seed={RANDOM_SEED})")
+        print(f"🌡️  Temperature: {self.model_config['temperature']} (deterministic)")
+        print(f"Model: {self.model_name}")
+        print(f"Prompt types: {prompt_types}")
+        print(f"Guidelines per question: {self.k_guidelines}")
+        print(f"Retrievals per guideline: {self.k_retrieval_per_guideline}")
+        print(f"Max concurrent requests: {self.max_concurrent}")
+        print(f"Requests per minute: {self.requests_per_minute}")
+        
+        # Get data and sort deterministically
+        data = self.data_loader.get_split(split, sample_size, specialty_filter)
+        # Sort by question text for consistent ordering across runs
+        data = sorted(data, key=lambda x: x['Question'])  
+        print(f"Evaluating on {len(data)} samples (deterministically sorted)")
+        
+        all_results = []
+        
+        for prompt_type in prompt_types:
+            print(f"\n🧪 Evaluating with {prompt_type} + adaptive RAG (CONCURRENT)...")
+            
+            # Create tasks for concurrent processing
+            tasks = []
+            for sample in data:
+                task = self.evaluate_sample_adaptive_async(sample, prompt_type)
+                tasks.append(task)
+            
+            # Execute tasks concurrently with progress bar
+            prompt_results = []
+            async for result in atqdm(asyncio.as_completed(tasks), total=len(tasks), desc=f"Concurrent Adaptive RAG ({prompt_type})"):
+                try:
+                    completed_result = await result
+                    prompt_results.append(completed_result)
+                    all_results.append(completed_result)
+                except Exception as e:
+                    print(f"❌ Error processing sample: {e}")
+                    continue
+            
+            # Calculate accuracy for this prompt type
+            correct_count = sum(1 for r in prompt_results if r['is_correct'])
+            accuracy = correct_count / len(prompt_results) if prompt_results else 0
+            print(f"\n📊 {prompt_type} + adaptive RAG accuracy: {accuracy:.3f} ({correct_count}/{len(prompt_results)})")
+        
+        # Generate comprehensive results
+        results_summary = self._generate_results_summary(all_results, split)
+        
+        if save_results:
+            self._save_results(all_results, results_summary, split, concurrent=True)
+        
+        return {
+            'detailed_results': all_results,
+            'summary': results_summary,
+            'api_usage': {
+                'total_calls': self.api_calls,
+                'total_tokens': self.total_tokens,
+                'adaptive_rag_processing': True,
+                'concurrent_processing': True,
+                'max_concurrent_requests': self.max_concurrent,
+                'requests_per_minute': self.requests_per_minute,
+                'deterministic_mode': True,
+                'random_seed': RANDOM_SEED
+            }
         }
     
     def evaluate_dataset_adaptive(self, 
@@ -312,20 +572,31 @@ Please identify the {k} most important medical guidelines/knowledge areas needed
                                  prompt_types: List[str] = ["direct"],
                                  sample_size: Optional[int] = None,
                                  specialty_filter: Optional[str] = None,
-                                 save_results: bool = True) -> Dict:
+                                 save_results: bool = True,
+                                 concurrent: bool = False) -> Dict:
         """Evaluate the model on a dataset split using adaptive RAG."""
         
+        if concurrent:
+            # Use async concurrent version
+            return asyncio.run(self.evaluate_dataset_adaptive_concurrent(
+                split, prompt_types, sample_size, specialty_filter, save_results
+            ))
+        
+        # Use synchronous version (existing implementation)
         print(f"🚀 Starting ADAPTIVE RAG evaluation on {split} split")
         print("=" * 60)
+        print(f"🎯 Deterministic mode: ENABLED (seed={RANDOM_SEED})")
+        print(f"🌡️  Temperature: {self.model_config['temperature']} (deterministic)")
         print(f"Model: {self.model_name}")
         print(f"Prompt types: {prompt_types}")
         print(f"Guidelines per question: {self.k_guidelines}")
         print(f"Retrievals per guideline: {self.k_retrieval_per_guideline}")
         
-        # Get data
+        # Get data and sort deterministically
         data = self.data_loader.get_split(split, sample_size, specialty_filter)
-        data = sorted(data, key=lambda x: x['Question'])  # Ensure consistent order
-        print(f"Evaluating on {len(data)} samples")
+        # Sort by question text for consistent ordering across runs
+        data = sorted(data, key=lambda x: x['Question'])  
+        print(f"Evaluating on {len(data)} samples (deterministically sorted)")
         
         all_results = []
         
@@ -360,7 +631,9 @@ Please identify the {k} most important medical guidelines/knowledge areas needed
             'api_usage': {
                 'total_calls': self.api_calls,
                 'total_tokens': self.total_tokens,
-                'adaptive_rag_processing': True
+                'adaptive_rag_processing': True,
+                'deterministic_mode': True,
+                'random_seed': RANDOM_SEED
             }
         }
     
@@ -376,7 +649,17 @@ Please identify the {k} most important medical guidelines/knowledge areas needed
                 'timestamp': datetime.now().isoformat(),
                 'adaptive_rag_processing': True,
                 'k_guidelines': self.k_guidelines,
-                'k_retrieval_per_guideline': self.k_retrieval_per_guideline
+                'k_retrieval_per_guideline': self.k_retrieval_per_guideline,
+                'max_concurrent': self.max_concurrent,
+                'requests_per_minute': self.requests_per_minute,
+                # Deterministic settings
+                'deterministic_mode': True,
+                'random_seed': RANDOM_SEED,
+                'temperature': self.model_config['temperature'],
+                'top_p': self.model_config['top_p'],
+                'frequency_penalty': self.model_config['frequency_penalty'],
+                'presence_penalty': self.model_config['presence_penalty'],
+                'api_seed': self.model_config['seed']
             },
             'overall_performance': {},
             'performance_by_prompt': {},
@@ -427,26 +710,27 @@ Please identify the {k} most important medical guidelines/knowledge areas needed
         
         return summary
     
-    def _save_results(self, results: List[Dict], summary: Dict, split: str) -> None:
+    def _save_results(self, results: List[Dict], summary: Dict, split: str, concurrent: bool = False) -> None:
         """Save results to files."""
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        mode_suffix = "_concurrent" if concurrent else ""
         
         # Create results directory if it doesn't exist
         import os
         os.makedirs("results", exist_ok=True)
         
         # Save detailed results
-        detailed_file = f"results/{self.model_name}_{split}_{timestamp}_adaptive_rag_detailed.json"
+        detailed_file = f"results/{self.model_name}_{split}_{timestamp}_adaptive_rag{mode_suffix}_detailed.json"
         with open(detailed_file, 'w') as f:
             json.dump(results, f, indent=2)
         
         # Save summary
-        summary_file = f"results/{self.model_name}_{split}_{timestamp}_adaptive_rag_summary.json"
+        summary_file = f"results/{self.model_name}_{split}_{timestamp}_adaptive_rag{mode_suffix}_summary.json"
         with open(summary_file, 'w') as f:
             json.dump(summary, f, indent=2)
         
         # Save CSV for easy analysis
-        csv_file = f"results/{self.model_name}_{split}_{timestamp}_adaptive_rag.csv"
+        csv_file = f"results/{self.model_name}_{split}_{timestamp}_adaptive_rag{mode_suffix}.csv"
         pd.DataFrame(results).to_csv(csv_file, index=False)
         
         print(f"\n📁 Results saved:")
@@ -456,24 +740,27 @@ Please identify the {k} most important medical guidelines/knowledge areas needed
 
 # Example usage
 if __name__ == "__main__":
-    # Initialize adaptive RAG evaluator
+    # Initialize adaptive RAG evaluator with concurrent support
     evaluator = AdaptiveRAGEvaluator(
         model_name="gpt-4o-mini",
         k_guidelines=3,
-        k_retrieval_per_guideline=2
+        k_retrieval_per_guideline=2,
+        max_concurrent=10,
+        requests_per_minute=100
     )
     
-    # Run adaptive RAG evaluation
-    print("Running adaptive RAG evaluation test...")
+    # Run concurrent adaptive RAG evaluation
+    print("Running concurrent adaptive RAG evaluation test...")
     results = evaluator.evaluate_dataset_adaptive(
         split="test",
         prompt_types=["direct", "chain_of_thought"],
         sample_size=3,  # Small sample for testing
         specialty_filter="Cardiology",
-        save_results=True
+        save_results=True,
+        concurrent=True  # Enable concurrent processing
     )
     
-    print(f"\n🎉 Adaptive RAG evaluation completed!")
+    print(f"\n🎉 Concurrent Adaptive RAG evaluation completed!")
     print(f"Overall accuracy: {results['summary']['overall_performance']['accuracy']:.3f}")
     print(f"API calls made: {results['api_usage']['total_calls']}")
     print(f"Average time per sample: {results['summary']['adaptive_rag_metrics']['avg_total_time']:.1f}s") 

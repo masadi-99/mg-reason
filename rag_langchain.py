@@ -224,6 +224,11 @@ class LangChainRAGEvaluator:
         retriever = self.vector_store.as_retriever(search_kwargs={"k": num_to_retrieve})
         documents = retriever.get_relevant_documents(question)
         
+        # Sort documents deterministically by content hash for reproducible results
+        # This ensures that when multiple documents have similar similarity scores,
+        # they are returned in a consistent order across runs
+        documents = sorted(documents, key=lambda doc: hash(doc.page_content))
+        
         end_time = time.time()
         print(f"  Context retrieval completed in {end_time - start_time:.2f} seconds. Retrieved {len(documents)} documents.")
         

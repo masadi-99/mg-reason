@@ -603,7 +603,12 @@ def run_rag_graphrag_eval(method: str = "global", sample_size: Optional[int] = 5
 def run_adaptive_rag_eval(k_guidelines: int = 3, 
                          k_retrieval_per_guideline: int = 2,
                          sample_size: Optional[int] = 3,
-                         prompt_types: List[str] = ["direct"]):
+                         prompt_types: List[str] = ["direct"],
+                         specialty_filter: Optional[str] = "Cardiology",
+                         split: str = "test",
+                         concurrent: bool = False,
+                         max_concurrent: int = 10,
+                         requests_per_minute: int = 100):
     """Run adaptive RAG evaluation test."""
     print(f"\n🧪 Running Adaptive RAG Evaluation Test")
     print("-" * 50)
@@ -611,22 +616,31 @@ def run_adaptive_rag_eval(k_guidelines: int = 3,
     print(f"Retrievals per guideline: {k_retrieval_per_guideline}")
     print(f"Sample size: {sample_size}")
     print(f"Prompt types: {prompt_types}")
+    print(f"Specialty filter: {specialty_filter}")
+    print(f"Split: {split}")
+    print(f"Concurrent processing: {concurrent}")
+    if concurrent:
+        print(f"Max concurrent requests: {max_concurrent}")
+        print(f"Requests per minute: {requests_per_minute}")
     
     try:
         # Initialize adaptive RAG evaluator
         evaluator = AdaptiveRAGEvaluator(
             model_name="gpt-4o-mini",
             k_guidelines=k_guidelines,
-            k_retrieval_per_guideline=k_retrieval_per_guideline
+            k_retrieval_per_guideline=k_retrieval_per_guideline,
+            max_concurrent=max_concurrent,
+            requests_per_minute=requests_per_minute
         )
         
         # Run evaluation
         results = evaluator.evaluate_dataset_adaptive(
-            split="test",
+            split=split,
             prompt_types=prompt_types,
             sample_size=sample_size,
-            specialty_filter="Cardiology",
-            save_results=True
+            specialty_filter=specialty_filter,
+            save_results=True,
+            concurrent=concurrent
         )
         
         print(f"\n✅ Adaptive RAG evaluation completed!")
@@ -640,6 +654,19 @@ def run_adaptive_rag_eval(k_guidelines: int = 3,
         print(f"  Stage 1 (Guideline ID): {metrics['avg_stage1_time']:.2f}s")
         print(f"  Stage 2 (Retrieval): {metrics['avg_stage2_time']:.2f}s") 
         print(f"  Stage 3 (Final Answer): {metrics['avg_stage3_time']:.2f}s")
+        
+        # Show performance by prompt type if multiple
+        if len(prompt_types) > 1:
+            print(f"\n📊 Performance by Prompt Type:")
+            for prompt_type, perf in results['summary']['performance_by_prompt'].items():
+                print(f"  {prompt_type}: {perf['accuracy']:.3f} ({perf['correct_count']}/{perf['total_count']})")
+        
+        # Show concurrent performance metrics if applicable
+        if concurrent and 'concurrent_processing' in results['api_usage']:
+            print(f"\n⚡ Concurrent Processing Metrics:")
+            print(f"  Max concurrent requests: {results['api_usage']['max_concurrent_requests']}")
+            print(f"  Requests per minute limit: {results['api_usage']['requests_per_minute']}")
+            print(f"  Total API calls: {results['api_usage']['total_calls']}")
         
     except Exception as e:
         print(f"❌ Error in adaptive RAG evaluation: {e}")
@@ -716,6 +743,23 @@ Examples:
     parser.add_argument("--rag-graphrag-eval-global", nargs='?', const=5, type=int, metavar='N', help="Evaluate GraphRAG with global search (optional N samples)")
     parser.add_argument("--rag-graphrag-eval-local", nargs='?', const=5, type=int, metavar='N', help="Evaluate GraphRAG with local search (optional N samples)")
     parser.add_argument("--adaptive-rag-eval", nargs='?', const=3, type=int, metavar='K', help="Run adaptive RAG evaluation (optional K guidelines, default 3)")
+    
+    # Add adaptive RAG concurrent evaluation
+    parser.add_argument("--adaptive-rag-concurrent", nargs='?', const=3, type=int, metavar='K', help="Run concurrent adaptive RAG evaluation (optional K guidelines, default 3)")
+    
+    # Add adaptive RAG specific arguments
+    parser.add_argument("--adaptive-rag-prompts", nargs='+', default=['direct'],
+                       choices=PromptTemplates.get_available_types(),
+                       help="Prompt types for adaptive RAG (default: direct)")
+    parser.add_argument("--adaptive-rag-specialty", type=str, default="Cardiology",
+                       help="Specialty filter for adaptive RAG (default: Cardiology)")
+    parser.add_argument("--adaptive-rag-samples", type=int, default=3,
+                       help="Number of samples for adaptive RAG (default: 3)")
+    parser.add_argument("--adaptive-rag-retrieval", type=int, default=2,
+                       help="Retrievals per guideline for adaptive RAG (default: 2)")
+    parser.add_argument("--adaptive-rag-split", type=str, default="test",
+                       choices=['train', 'validation', 'test', 'test_filtered_6'],
+                       help="Dataset split for adaptive RAG (default: test)")
     
     # Add RAG related arguments
     rag_group = parser.add_argument_group('RAG Settings', "Options for Retrieval Augmented Generation")
@@ -804,7 +848,36 @@ Examples:
         run_rag_graphrag_eval(method="local", sample_size=args.rag_graphrag_eval_local)
     
     elif args.adaptive_rag_eval is not None:
-        run_adaptive_rag_eval(k_guidelines=args.adaptive_rag_eval)
+        # Handle --full flag for adaptive RAG
+        adaptive_sample_size = None if args.full else args.adaptive_rag_samples
+        
+        run_adaptive_rag_eval(
+            k_guidelines=args.adaptive_rag_eval,
+            k_retrieval_per_guideline=args.adaptive_rag_retrieval,
+            sample_size=adaptive_sample_size,
+            prompt_types=args.adaptive_rag_prompts,
+            specialty_filter=args.adaptive_rag_specialty,
+            split=args.adaptive_rag_split,
+            concurrent=args.concurrent,
+            max_concurrent=args.max_concurrent,
+            requests_per_minute=args.requests_per_minute
+        )
+    
+    elif args.adaptive_rag_concurrent is not None:
+        # Handle --full flag for adaptive RAG
+        adaptive_sample_size = None if args.full else args.adaptive_rag_samples
+        
+        run_adaptive_rag_eval(
+            k_guidelines=args.adaptive_rag_concurrent,
+            k_retrieval_per_guideline=args.adaptive_rag_retrieval,
+            sample_size=adaptive_sample_size,
+            prompt_types=args.adaptive_rag_prompts,
+            specialty_filter=args.adaptive_rag_specialty,
+            split=args.adaptive_rag_split,
+            concurrent=args.concurrent,
+            max_concurrent=args.max_concurrent,
+            requests_per_minute=args.requests_per_minute
+        )
     
     else:
         print("No action specified. Use --help for usage information.")
