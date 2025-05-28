@@ -458,6 +458,8 @@ class OpenAIBatchEvaluator:
 
         # Get data
         data = self.data_loader.get_split(split, sample_size, specialty_filter)
+        # Sort data by question text to ensure consistent processing order
+        data = sorted(data, key=lambda x: x['Question'])
         print(f"Evaluating on {len(data)} samples")
 
         if self.demo_mode:

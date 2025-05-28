@@ -1,6 +1,14 @@
 """Configuration settings for the medical reasoning evaluation system."""
 import os
+import random
+import numpy as np
 from typing import Dict, List
+
+# Set global seeds for reproducibility
+RANDOM_SEED = 42
+random.seed(RANDOM_SEED)
+np.random.seed(RANDOM_SEED)
+os.environ['PYTHONHASHSEED'] = str(RANDOM_SEED)
 
 # API Configuration
 def load_openai_api_key() -> str:
