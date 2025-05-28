@@ -1157,6 +1157,250 @@ Where X is the letter (A, B, C, D, etc.) of the correct option."""
             'total_api_calls_for_sample': 2,  # 1 for initial reasoning + 1 for refinement
         }
 
+    async def evaluate_dataset_stepwise_guideline_concurrent(self, 
+                                                            split: str = "test", 
+                                                            prompt_types: List[str] = ["direct"],
+                                                            sample_size: Optional[int] = None,
+                                                            specialty_filter: Optional[str] = None,
+                                                            save_results: bool = True) -> Dict:
+        """Evaluate the model on a dataset split using step-by-step guideline RAG with concurrent processing."""
+        
+        print(f"🚀 Starting CONCURRENT STEP-BY-STEP GUIDELINE RAG evaluation on {split} split")
+        print("=" * 80)
+        print(f"🎯 Deterministic mode: ENABLED (seed={RANDOM_SEED})")
+        print(f"🌡️  Temperature: {self.model_config['temperature']} (deterministic)")
+        print(f"Model: {self.model_name}")
+        print(f"Prompt types: {prompt_types}")
+        print(f"Reasoning steps per question: {self.k_guidelines}")
+        print(f"Retrievals per step: {self.k_retrieval_per_guideline}")
+        print(f"Max concurrent requests: {self.max_concurrent}")
+        print(f"Requests per minute: {self.requests_per_minute}")
+        
+        # Get data and sort deterministically
+        data = self.data_loader.get_split(split, sample_size, specialty_filter)
+        # Sort by question text for consistent ordering across runs
+        data = sorted(data, key=lambda x: x['Question'])  
+        print(f"Evaluating on {len(data)} samples (deterministically sorted)")
+        
+        all_results = []
+        
+        for prompt_type in prompt_types:
+            print(f"\n🧪 Evaluating with {prompt_type} + step-by-step guideline RAG (CONCURRENT)...")
+            
+            # Create tasks for concurrent processing
+            tasks = []
+            for sample in data:
+                task = self.evaluate_sample_stepwise_guideline_async(sample, prompt_type)
+                tasks.append(task)
+            
+            # Execute tasks concurrently with progress bar
+            prompt_results = []
+            async for result in atqdm(asyncio.as_completed(tasks), total=len(tasks), desc=f"Concurrent Step-by-Step Guideline RAG ({prompt_type})"):
+                try:
+                    completed_result = await result
+                    prompt_results.append(completed_result)
+                    all_results.append(completed_result)
+                except Exception as e:
+                    print(f"❌ Error processing sample: {e}")
+                    continue
+            
+            # Calculate accuracy for this prompt type
+            correct_count = sum(1 for r in prompt_results if r['is_correct'])
+            accuracy = correct_count / len(prompt_results) if prompt_results else 0
+            print(f"\n📊 {prompt_type} + step-by-step guideline RAG accuracy: {accuracy:.3f} ({correct_count}/{len(prompt_results)})")
+        
+        # Generate comprehensive results
+        results_summary = self._generate_stepwise_guideline_results_summary(all_results, split)
+        
+        if save_results:
+            self._save_stepwise_guideline_results(all_results, results_summary, split, concurrent=True)
+        
+        return {
+            'detailed_results': all_results,
+            'summary': results_summary,
+            'api_usage': {
+                'total_calls': self.api_calls,
+                'total_tokens': self.total_tokens,
+                'stepwise_guideline_rag_processing': True,
+                'concurrent_processing': True,
+                'max_concurrent_requests': self.max_concurrent,
+                'requests_per_minute': self.requests_per_minute,
+                'deterministic_mode': True,
+                'random_seed': RANDOM_SEED
+            }
+        }
+
+    def evaluate_dataset_stepwise_guideline(self, 
+                                           split: str = "test", 
+                                           prompt_types: List[str] = ["direct"],
+                                           sample_size: Optional[int] = None,
+                                           specialty_filter: Optional[str] = None,
+                                           save_results: bool = True,
+                                           concurrent: bool = False) -> Dict:
+        """Evaluate the model on a dataset split using step-by-step guideline RAG."""
+        
+        if concurrent:
+            # Use async concurrent version
+            return asyncio.run(self.evaluate_dataset_stepwise_guideline_concurrent(
+                split, prompt_types, sample_size, specialty_filter, save_results
+            ))
+        
+        # Use synchronous version (existing implementation)
+        print(f"🚀 Starting STEP-BY-STEP GUIDELINE RAG evaluation on {split} split")
+        print("=" * 70)
+        print(f"🎯 Deterministic mode: ENABLED (seed={RANDOM_SEED})")
+        print(f"🌡️  Temperature: {self.model_config['temperature']} (deterministic)")
+        print(f"Model: {self.model_name}")
+        print(f"Prompt types: {prompt_types}")
+        print(f"Reasoning steps per question: {self.k_guidelines}")
+        print(f"Retrievals per step: {self.k_retrieval_per_guideline}")
+        
+        # Get data and sort deterministically
+        data = self.data_loader.get_split(split, sample_size, specialty_filter)
+        # Sort by question text for consistent ordering across runs
+        data = sorted(data, key=lambda x: x['Question'])  
+        print(f"Evaluating on {len(data)} samples (deterministically sorted)")
+        
+        all_results = []
+        
+        for prompt_type in prompt_types:
+            print(f"\n🧪 Evaluating with {prompt_type} + step-by-step guideline RAG...")
+            
+            prompt_results = []
+            for i, sample in enumerate(tqdm(data, desc=f"Step-by-Step Guideline RAG ({prompt_type})")):
+                try:
+                    print(f"\n📋 Sample {i+1}/{len(data)}")
+                    result = self.evaluate_sample_stepwise_guideline(sample, prompt_type)
+                    prompt_results.append(result)
+                    all_results.append(result)
+                except Exception as e:
+                    print(f"❌ Error processing sample {i+1}: {e}")
+                    continue
+            
+            # Calculate accuracy for this prompt type
+            correct_count = sum(1 for r in prompt_results if r['is_correct'])
+            accuracy = correct_count / len(prompt_results) if prompt_results else 0
+            print(f"\n📊 {prompt_type} + step-by-step guideline RAG accuracy: {accuracy:.3f} ({correct_count}/{len(prompt_results)})")
+        
+        # Generate comprehensive results
+        results_summary = self._generate_stepwise_guideline_results_summary(all_results, split)
+        
+        if save_results:
+            self._save_stepwise_guideline_results(all_results, results_summary, split)
+        
+        return {
+            'detailed_results': all_results,
+            'summary': results_summary,
+            'api_usage': {
+                'total_calls': self.api_calls,
+                'total_tokens': self.total_tokens,
+                'stepwise_guideline_rag_processing': True,
+                'deterministic_mode': True,
+                'random_seed': RANDOM_SEED
+            }
+        }
+
+    def _generate_stepwise_guideline_results_summary(self, results: List[Dict], split: str) -> Dict:
+        """Generate comprehensive results summary for step-by-step guideline RAG."""
+        df = pd.DataFrame(results)
+        
+        summary = {
+            'evaluation_info': {
+                'model': self.model_name,
+                'split': split,
+                'total_samples': len(results),
+                'timestamp': datetime.now().isoformat(),
+                'stepwise_guideline_rag_processing': True,
+                'k_reasoning_steps': self.k_guidelines,
+                'k_retrieval_per_step': self.k_retrieval_per_guideline,
+                'max_concurrent': self.max_concurrent,
+                'requests_per_minute': self.requests_per_minute,
+                # Deterministic settings
+                'deterministic_mode': True,
+                'random_seed': RANDOM_SEED,
+                'temperature': self.model_config['temperature'],
+                'top_p': self.model_config['top_p'],
+                'frequency_penalty': self.model_config['frequency_penalty'],
+                'presence_penalty': self.model_config['presence_penalty'],
+                'api_seed': self.model_config['seed']
+            },
+            'overall_performance': {},
+            'performance_by_prompt': {},
+            'performance_by_specialty': {},
+            'stepwise_guideline_rag_metrics': {},
+            'error_analysis': {}
+        }
+        
+        # Overall performance
+        overall_accuracy = float(df['is_correct'].mean())
+        summary['overall_performance']['accuracy'] = overall_accuracy
+        summary['overall_performance']['correct_count'] = int(df['is_correct'].sum())
+        summary['overall_performance']['total_count'] = len(df)
+        summary['overall_performance']['avg_total_time'] = float(df['total_response_time'].mean())
+        
+        # Performance by prompt type
+        for prompt_type in df['prompt_type'].unique():
+            prompt_df = df[df['prompt_type'] == prompt_type]
+            summary['performance_by_prompt'][prompt_type] = {
+                'accuracy': float(prompt_df['is_correct'].mean()),
+                'correct_count': int(prompt_df['is_correct'].sum()),
+                'total_count': len(prompt_df),
+                'avg_total_time': float(prompt_df['total_response_time'].mean())
+            }
+        
+        # Performance by specialty
+        for specialty in df['specialty'].unique():
+            specialty_df = df[df['specialty'] == specialty]
+            summary['performance_by_specialty'][specialty] = {
+                'accuracy': float(specialty_df['is_correct'].mean()),
+                'correct_count': int(specialty_df['is_correct'].sum()),
+                'total_count': len(specialty_df)
+            }
+        
+        # Step-by-step Guideline RAG specific metrics
+        summary['stepwise_guideline_rag_metrics'] = {
+            'avg_stage1_time': float(df['stage1_time'].mean()),
+            'avg_stage2_time': float(df['stage2_time'].mean()),
+            'avg_stage3_time': float(df['stage3_time'].mean()),
+            'avg_total_time': float(df['total_response_time'].mean()),
+            'avg_api_calls_per_sample': float(df['total_api_calls_for_sample'].mean())
+        }
+        
+        # Error analysis
+        incorrect_df = df[~df['is_correct']]
+        summary['error_analysis']['total_errors'] = len(incorrect_df)
+        summary['error_analysis']['unknown_answers'] = int((df['predicted_choice'] == 'UNKNOWN').sum())
+        
+        return summary
+    
+    def _save_stepwise_guideline_results(self, results: List[Dict], summary: Dict, split: str, concurrent: bool = False) -> None:
+        """Save step-by-step guideline RAG results to files."""
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        mode_suffix = "_concurrent" if concurrent else ""
+        
+        # Create results directory if it doesn't exist
+        import os
+        os.makedirs("results", exist_ok=True)
+        
+        # Save detailed results
+        detailed_file = f"results/{self.model_name}_{split}_{timestamp}_stepwise_guideline_rag{mode_suffix}_detailed.json"
+        with open(detailed_file, 'w') as f:
+            json.dump(results, f, indent=2)
+        
+        # Save summary
+        summary_file = f"results/{self.model_name}_{split}_{timestamp}_stepwise_guideline_rag{mode_suffix}_summary.json"
+        with open(summary_file, 'w') as f:
+            json.dump(summary, f, indent=2)
+        
+        # Save CSV for easy analysis
+        csv_file = f"results/{self.model_name}_{split}_{timestamp}_stepwise_guideline_rag{mode_suffix}.csv"
+        pd.DataFrame(results).to_csv(csv_file, index=False)
+        
+        print(f"\n📁 Step-by-Step Guideline RAG Results saved:")
+        print(f"  Detailed: {detailed_file}")
+        print(f"  Summary: {summary_file}")
+        print(f"  CSV: {csv_file}")
+
 # Example usage
 if __name__ == "__main__":
     # Initialize adaptive RAG evaluator with concurrent support

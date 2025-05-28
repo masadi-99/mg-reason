@@ -709,59 +709,44 @@ def run_stepwise_guideline_rag_eval(k_steps: int = 3,
         
         print(f"\n🚀 Starting Step-by-Step Guideline RAG evaluation...")
         
-        # For now, use the sync version (we can add concurrent support later)
-        all_results = []
-        
-        # Get data
-        data = evaluator.data_loader.get_split(split, sample_size, specialty_filter)
-        # Sort by question text for consistent ordering across runs
-        data = sorted(data, key=lambda x: x['Question'])
-        
-        for prompt_type in prompt_types:
-            print(f"\n🧪 Evaluating with {prompt_type} + step-by-step guideline RAG...")
-            
-            prompt_results = []
-            for i, sample in enumerate(data):
-                print(f"\n📋 Sample {i+1}/{len(data)}")
-                try:
-                    result = evaluator.evaluate_sample_stepwise_guideline(sample, prompt_type)
-                    prompt_results.append(result)
-                    all_results.append(result)
-                except Exception as e:
-                    print(f"❌ Error processing sample {i+1}: {e}")
-                    continue
-            
-            # Calculate accuracy for this prompt type
-            correct_count = sum(1 for r in prompt_results if r['is_correct'])
-            accuracy = correct_count / len(prompt_results) if prompt_results else 0
-            print(f"\n📊 {prompt_type} + step-by-step guideline RAG accuracy: {accuracy:.3f} ({correct_count}/{len(prompt_results)})")
-        
-        # Calculate overall metrics
-        correct_count = sum(1 for r in all_results if r['is_correct'])
-        overall_accuracy = correct_count / len(all_results) if all_results else 0
-        avg_time = sum(r['total_response_time'] for r in all_results) / len(all_results) if all_results else 0
-        avg_api_calls = sum(r['total_api_calls_for_sample'] for r in all_results) / len(all_results) if all_results else 0
+        # Use the new concurrent-capable evaluation method
+        results = evaluator.evaluate_dataset_stepwise_guideline(
+            split=split,
+            prompt_types=prompt_types,
+            sample_size=sample_size,
+            specialty_filter=specialty_filter,
+            save_results=True,
+            concurrent=concurrent
+        )
         
         print(f"\n✅ Step-by-Step Guideline RAG evaluation completed!")
-        print(f"Overall accuracy: {overall_accuracy:.3f}")
-        print(f"Average time per sample: {avg_time:.1f}s")
-        print(f"Average API calls per sample: {avg_api_calls:.1f}")
+        print(f"Overall accuracy: {results['summary']['overall_performance']['accuracy']:.3f}")
         
-        if all_results:
+        # Show timing metrics
+        if 'stepwise_guideline_rag_metrics' in results['summary']:
+            metrics = results['summary']['stepwise_guideline_rag_metrics']
+            print(f"Average time per sample: {metrics['avg_total_time']:.1f}s")
+            print(f"Average API calls per sample: {metrics['avg_api_calls_per_sample']:.1f}")
+            
             print(f"\n⏱️  Stage Timing Breakdown:")
-            avg_stage1 = sum(r['stage1_time'] for r in all_results) / len(all_results)
-            avg_stage2 = sum(r['stage2_time'] for r in all_results) / len(all_results)
-            avg_stage3 = sum(r['stage3_time'] for r in all_results) / len(all_results)
-            print(f"  Stage 1 (Step-by-step Reasoning): {avg_stage1:.2f}s")
-            print(f"  Stage 2 (Real Guideline Retrieval): {avg_stage2:.2f}s")
-            print(f"  Stage 3 (Refined Answer): {avg_stage3:.2f}s")
+            print(f"  Stage 1 (Step-by-step Reasoning): {metrics['avg_stage1_time']:.2f}s")
+            print(f"  Stage 2 (Real Guideline Retrieval): {metrics['avg_stage2_time']:.2f}s")
+            print(f"  Stage 3 (Refined Answer): {metrics['avg_stage3_time']:.2f}s")
         
-        return {
-            'detailed_results': all_results,
-            'overall_accuracy': overall_accuracy,
-            'avg_time_per_sample': avg_time,
-            'avg_api_calls_per_sample': avg_api_calls
-        }
+        # Show performance by prompt type if multiple
+        if len(prompt_types) > 1:
+            print(f"\n📊 Performance by Prompt Type:")
+            for prompt_type, perf in results['summary']['performance_by_prompt'].items():
+                print(f"  {prompt_type}: {perf['accuracy']:.3f} ({perf['correct_count']}/{perf['total_count']})")
+        
+        # Show concurrent performance metrics if applicable
+        if concurrent and 'concurrent_processing' in results['api_usage']:
+            print(f"\n⚡ Concurrent Processing Metrics:")
+            print(f"  Max concurrent requests: {results['api_usage']['max_concurrent_requests']}")
+            print(f"  Requests per minute limit: {results['api_usage']['requests_per_minute']}")
+            print(f"  Total API calls: {results['api_usage']['total_calls']}")
+        
+        return results
         
     except Exception as e:
         print(f"❌ Error in step-by-step guideline RAG evaluation: {e}")
@@ -1005,7 +990,7 @@ Examples:
             prompt_types=args.stepwise_guideline_prompts,
             specialty_filter=args.stepwise_guideline_specialty,
             split=args.stepwise_guideline_split,
-            concurrent=args.stepwise_guideline_concurrent,
+            concurrent=args.stepwise_guideline_concurrent or args.concurrent,  # Use either flag
             max_concurrent=args.stepwise_guideline_max_concurrent,
             requests_per_minute=args.stepwise_guideline_requests_per_minute
         )
