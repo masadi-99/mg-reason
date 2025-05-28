@@ -18,7 +18,7 @@ models:
     cognitive_services_endpoint: null
     deployment_name: null
     tokens_per_minute: auto
-    requests_per_minute: 0
+    requests_per_minute: auto
     max_retries: 10
     max_retry_wait: 10.0
     sleep_on_rate_limit_recommendation: true
@@ -34,7 +34,7 @@ models:
     cognitive_services_endpoint: null
     deployment_name: null
     tokens_per_minute: auto
-    requests_per_minute: 0
+    requests_per_minute: auto
     max_retries: 10
     max_retry_wait: 10.0
     sleep_on_rate_limit_recommendation: true
@@ -56,7 +56,7 @@ llm:
   cognitive_services_endpoint: null
   deployment_name: null
   tokens_per_minute: auto
-  requests_per_minute: 0
+  requests_per_minute: auto
   max_retries: 10
   max_retry_wait: 10.0
   sleep_on_rate_limit_recommendation: true
@@ -81,7 +81,7 @@ embeddings:
     cognitive_services_endpoint: null
     deployment_name: null
     tokens_per_minute: auto
-    requests_per_minute: 0
+    requests_per_minute: auto
     max_retries: 10
     max_retry_wait: 10.0
     sleep_on_rate_limit_recommendation: true
@@ -135,7 +135,7 @@ entity_extraction:
     cognitive_services_endpoint: null
     deployment_name: null
     tokens_per_minute: auto
-    requests_per_minute: 0
+    requests_per_minute: auto
     max_retries: 10
     max_retry_wait: 10.0
     sleep_on_rate_limit_recommendation: true
@@ -165,7 +165,7 @@ summarize_descriptions:
     cognitive_services_endpoint: null
     deployment_name: null
     tokens_per_minute: auto
-    requests_per_minute: 0
+    requests_per_minute: auto
     max_retries: 10
     max_retry_wait: 10.0
     sleep_on_rate_limit_recommendation: true
@@ -194,7 +194,7 @@ claim_extraction:
     cognitive_services_endpoint: null
     deployment_name: null
     tokens_per_minute: auto
-    requests_per_minute: 0
+    requests_per_minute: auto
     max_retries: 10
     max_retry_wait: 10.0
     sleep_on_rate_limit_recommendation: true
@@ -224,7 +224,7 @@ community_report:
     cognitive_services_endpoint: null
     deployment_name: null
     tokens_per_minute: auto
-    requests_per_minute: 0
+    requests_per_minute: auto
     max_retries: 10
     max_retry_wait: 10.0
     sleep_on_rate_limit_recommendation: true
