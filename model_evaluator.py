@@ -223,6 +223,7 @@ class OpenAIEvaluator:
             'correct_answer': correct_answer,
             'correct_choice': correct_choice,
             'prompt_type': actual_prompt_type, # Log the actual prompt type used
+            'full_prompt': prompt,  # Save the complete prompt sent to LLM
             'model_response': response,
             'predicted_choice': predicted_choice,
             'is_correct': is_correct,

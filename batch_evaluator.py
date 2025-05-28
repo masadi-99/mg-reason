@@ -170,11 +170,20 @@ class OpenAIBatchEvaluator:
                         actual_prompt_type_for_request = prompt_type_orig
                         current_rag_mode_for_sample = None # RAG failed
 
+                # Generate the prompt (needed for both metadata and batch request)
+                try:
+                    prompt = PromptTemplates.get_prompt(actual_prompt_type_for_request, question, sample['Options'], context=current_context)
+                except ValueError as e:
+                    print(f"Error getting prompt for type '{actual_prompt_type_for_request}': {e}. Falling back to '{prompt_type_orig}'.")
+                    actual_prompt_type_for_request = prompt_type_orig
+                    prompt = PromptTemplates.get_prompt(actual_prompt_type_for_request, question, sample['Options'])
+
                 # Store metadata for result processing
                 request_metadata[custom_id] = {
                     'sample_index': idx,
                     'sample': sample,
                     'prompt_type': actual_prompt_type_for_request, # Log the prompt type used (RAG or not)
+                    'full_prompt': prompt,  # Store the complete prompt for saving in results
                     'correct_answer': self.data_loader.get_correct_answer(sample),
                     'correct_choice': self.data_loader.get_answer_choice(sample),
                     'specialty': self.data_loader.get_sample_specialty(sample),
@@ -350,6 +359,7 @@ class OpenAIBatchEvaluator:
                     'correct_answer': "N/A",
                     'correct_choice': "N/A",
                     'prompt_type': "unknown",
+                    'full_prompt': "N/A (metadata missing)",  # Include full_prompt field
                     'model_response': f"Error: No metadata for custom_id {custom_id}",
                     'predicted_choice': "ERROR",
                     'is_correct': False,
@@ -387,6 +397,7 @@ class OpenAIBatchEvaluator:
                 'correct_answer': metadata['correct_answer'],
                 'correct_choice': metadata['correct_choice'],
                 'prompt_type': metadata['prompt_type'], # This now reflects if RAG prompt was used
+                'full_prompt': metadata['full_prompt'],  # Include the complete prompt
                 'model_response': response_content,
                 'predicted_choice': predicted_choice,
                 'is_correct': is_correct,
