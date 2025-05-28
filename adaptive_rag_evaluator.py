@@ -79,20 +79,22 @@ class AdaptiveRAGEvaluator:
         self.request_interval = 60.0 / requests_per_minute if requests_per_minute > 0 else 0
         
         # Create guideline identification prompt
-        self.guideline_prompt_template = """You are a medical expert. Given the following multiple-choice question, identify {k} specific medical guidelines, knowledge areas, or clinical concepts that would be essential to answer this question correctly.
+        self.guideline_prompt_template = """You are a medical expert tasked with answering a multiple-choice clinical question. To answer correctly, you must identify {k} specific medical guidelines, authoritative clinical statements, or textbook excerpts that would directly address the clinical reasoning required.
 
-For each guideline, provide a brief paragraph (2-3 sentences) describing what specific medical knowledge is needed. Format your response using the following tags:
+For each guideline or authoritative excerpt, generate a realistic-sounding excerpt (approximately 2-4 sentences) as if directly quoted from an official medical guideline, textbook, or clinical reference. Each excerpt should clearly and specifically address the clinical concepts or reasoning needed to answer the question correctly.
+
+Format your response using the following tags:
 
 <guideline_1>
-[Brief paragraph describing the first essential medical guideline/knowledge area]
+[Realistic-sounding excerpt from a hypothetical authoritative medical guideline or textbook directly relevant to answering the question]
 </guideline_1>
 
 <guideline_2>
-[Brief paragraph describing the second essential medical guideline/knowledge area]
+[Realistic-sounding excerpt from a hypothetical authoritative medical guideline or textbook directly relevant to answering the question]
 </guideline_2>
 
 <guideline_3>
-[Brief paragraph describing the third essential medical guideline/knowledge area]
+[Realistic-sounding excerpt from a hypothetical authoritative medical guideline or textbook directly relevant to answering the question]
 </guideline_3>
 
 Question: {question}
@@ -100,7 +102,8 @@ Question: {question}
 Options:
 {options}
 
-Please identify the {k} most important medical guidelines/knowledge areas needed to answer this question."""
+Please generate the {k} most relevant hypothetical guideline excerpts needed to correctly answer this question.
+"""
     
     def _set_deterministic_seeds(self):
         """Set all random seeds for reproducible results."""
