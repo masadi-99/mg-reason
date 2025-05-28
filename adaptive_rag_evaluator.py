@@ -239,6 +239,71 @@ Please generate the {k} most relevant hypothetical guideline excerpts needed to 
         
         return guidelines
     
+    def _retrieve_unique_contexts_for_guidelines(self, guidelines: List[str], original_question: str) -> List[Dict]:
+        """Retrieve unique document contexts for each guideline, ensuring no duplicates."""
+        if not hasattr(self.rag_evaluator, 'vector_store') or not self.rag_evaluator.vector_store:
+            print("Warning: Vector store not available for unique retrieval, using fallback method")
+            # Fallback to original method
+            guideline_retrievals = []
+            for i, guideline in enumerate(guidelines, 1):
+                retrieval = self._retrieve_for_guideline(guideline, original_question)
+                guideline_retrievals.append({
+                    'guideline': guideline,
+                    'retrieved_context': retrieval
+                })
+            return guideline_retrievals
+        
+        # Get all candidate documents for all guidelines
+        all_candidates = []
+        guideline_queries = []
+        
+        for guideline in guidelines:
+            search_query = f"{guideline} {original_question}"
+            guideline_queries.append(search_query)
+            
+            # Get more candidates than needed to allow for unique selection
+            retriever = self.rag_evaluator.vector_store.as_retriever(
+                search_kwargs={"k": self.k_retrieval_per_guideline * len(guidelines) * 2}
+            )
+            documents = retriever.get_relevant_documents(search_query)
+            
+            # Sort deterministically by content hash for reproducible results
+            documents = sorted(documents, key=lambda doc: hash(doc.page_content))
+            
+            all_candidates.append(documents)
+        
+        # Select unique documents for each guideline
+        used_document_hashes = set()
+        guideline_retrievals = []
+        
+        for i, (guideline, candidates) in enumerate(zip(guidelines, all_candidates)):
+            selected_docs = []
+            
+            # Find the first k_retrieval_per_guideline unique documents for this guideline
+            for doc in candidates:
+                doc_hash = hash(doc.page_content)
+                if doc_hash not in used_document_hashes and len(selected_docs) < self.k_retrieval_per_guideline:
+                    selected_docs.append(doc)
+                    used_document_hashes.add(doc_hash)
+            
+            # Format the retrieved context
+            if selected_docs:
+                context_parts = []
+                for doc in selected_docs:
+                    source_info = doc.metadata.get('source', 'Unknown source')
+                    page_info = doc.metadata.get('page', 'N/A')
+                    context_parts.append(f"Source: {source_info} (Page: {page_info})\n{doc.page_content}")
+                retrieved_context = "\n\n---\n\n".join(context_parts)
+            else:
+                retrieved_context = f"No unique context found for guideline {i+1}"
+            
+            guideline_retrievals.append({
+                'guideline': guideline,
+                'retrieved_context': retrieved_context
+            })
+        
+        return guideline_retrievals
+    
     def _retrieve_for_guideline(self, guideline: str, original_question: str) -> str:
         """Retrieve relevant documents for a specific guideline."""
         # Create a search query that combines the guideline with the original question
@@ -315,20 +380,15 @@ Please generate the {k} most relevant hypothetical guideline excerpts needed to 
         # Stage 2: Retrieve information for each guideline (synchronous for now as RAG is sync)
         stage2_start = time.time()
         
-        guideline_retrievals = []
-        for i, guideline in enumerate(guidelines, 1):
-            retrieval = self._retrieve_for_guideline(guideline, question)
-            guideline_retrievals.append({
-                'guideline': guideline,
-                'retrieved_context': retrieval
-            })
+        guideline_retrievals = self._retrieve_unique_contexts_for_guidelines(guidelines, question)
         
         stage2_time = time.time() - stage2_start
         
         # Stage 3: Answer the question using retrieved information
-        # Combine all retrieved contexts
+        # Combine all retrieved contexts WITHOUT the hypothetical guidelines
+        # Only include the real retrieved information from the knowledge base
         combined_context = "\n\n" + "="*50 + "\n\n".join([
-            f"GUIDELINE {i+1}: {item['guideline']}\n\nRETRIEVED INFORMATION:\n{item['retrieved_context']}"
+            f"RETRIEVED MEDICAL CONTEXT {i+1}:\n{item['retrieved_context']}"
             for i, item in enumerate(guideline_retrievals)
         ])
         
@@ -418,14 +478,7 @@ Please generate the {k} most relevant hypothetical guideline excerpts needed to 
         print(f"\n📚 Stage 2: Retrieving information for each guideline...")
         stage2_start = time.time()
         
-        guideline_retrievals = []
-        for i, guideline in enumerate(guidelines, 1):
-            print(f"  Guideline {i}/{len(guidelines)}")
-            retrieval = self._retrieve_for_guideline(guideline, question)
-            guideline_retrievals.append({
-                'guideline': guideline,
-                'retrieved_context': retrieval
-            })
+        guideline_retrievals = self._retrieve_unique_contexts_for_guidelines(guidelines, question)
         
         stage2_time = time.time() - stage2_start
         print(f"  ✅ Retrieved information for all guidelines in {stage2_time:.2f}s")
@@ -433,9 +486,10 @@ Please generate the {k} most relevant hypothetical guideline excerpts needed to 
         # Stage 3: Answer the question using retrieved information
         print(f"\n🧠 Stage 3: Answering question with targeted retrievals...")
         
-        # Combine all retrieved contexts
+        # Combine all retrieved contexts WITHOUT the hypothetical guidelines
+        # Only include the real retrieved information from the knowledge base
         combined_context = "\n\n" + "="*50 + "\n\n".join([
-            f"GUIDELINE {i+1}: {item['guideline']}\n\nRETRIEVED INFORMATION:\n{item['retrieved_context']}"
+            f"RETRIEVED MEDICAL CONTEXT {i+1}:\n{item['retrieved_context']}"
             for i, item in enumerate(guideline_retrievals)
         ])
         
