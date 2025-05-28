@@ -1,0 +1,2072 @@
+# Wolff-Parkinson-White syndrome
+
+=== Page 1 ===
+Wolff-Parkinson-
+White syndrome
+Straight to the point of care
+Last updated: Sep 24, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  7
+Classification  14
+Case history  17
+Diagnosis  19
+Approach  19
+History and exam  26
+Risk factors  27
+Tests  30
+Differentials  32
+Criteria  34
+Screening  34
+Management  35
+Approach  35
+Treatment algorithm overview  38
+Treatment algorithm  41
+Patient discussions  50
+Follow up  51
+Monitoring  51
+Complications  51
+Prognosis  51
+Guidelines  52
+Diagnostic guidelines  52
+Treatment guidelines  53
+References  54
+Images  58
+Disclaimer  76
+=== Page 3 ===
+Wolff-Parkinson-White syndrome Overview
+Summary
+Wolff-Parkinson-White (WPW) syndrome occurs when myocardial fibers connect the atrium to the ipsilateral
+ventricle across the mitral or tricuspid annulus (accessory pathway), pre-exciting the ventricle.
+Patients often present with atrioventricular re-entrant tachycardia, less commonly atrial fibrillation, and, rarely,
+sudden cardiac death.
+Asymptomatic patients can either be monitored or screened to determine whether they have a “high-risk”
+accessory pathway, in which case catheter ablation is typically performed. Screening to determine whether
+a patient has a high-risk accessory pathway is recommended for patients who have high-risk occupations,
+such as school bus drivers or pilots, and also for competitive athletes. In patients with asymptomatic pre-
+excitation who have an accessory pathway demonstrating low risk features on invasive or noninvasive
+screening, an electrophysiology study and ablation can be considered.
+Symptomatic patients usually undergo catheter ablation as first-line therapy. Pharmacologic therapy can
+be considered for patients in whom catheter ablation fails and also for patients who prefer a noninvasive
+approach.
+Catheter ablation is highly effective with low risk and can be used either as initial therapy or for patients
+experiencing side effects or arrhythmia recurrences despite medical treatment.
+Definition
+Occurs when one or more strands of myocardial fibers capable of conducting electrical impulses (known
+as accessory pathways [APs] or bypass tracts) connect the atrium to the ipsilateral ventricle across the
+mitral or tricuspid annulus.[1] Conduction from the atrium reaches the adjacent ventricle earlier via the AP,
+and a part of the ventricle is pre-excited. The term "Wolff-Parkinson-White (WPW) syndrome" is restricted
+to symptomatic patients with a typical ECG abnormality, whereas the term "WPW pattern" signifies an
+asymptomatic patient with typical ECG abnormalities.[2]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Wolff-Parkinson-White syndrome Theory
+THEORY
+Epidemiology
+The exact prevalence of ventricular pre-excitation is difficult to estimate because most patients are
+asymptomatic. Intermittent pre-excitation and loss of pre-excitation over time also add to the challenge. The
+prevalence of WPW-pattern ECG in the general population is 0.1% to 0.3% increasing to 0.55% among
+first-degree relatives of affected patients.[3] [5] [6] The yearly incidence is 0.004% to 0.1% (50% of these
+are asymptomatic). The male-to-female ratio is 2:1.[7] [8] Signs of pre-excitation were absent in the initial
+ECG in 22% of subjects with WPW-pattern ECG and 40% of these lost pre-excitation on subsequent ECG
+recordings.[7] The prevalence of WPW syndrome varies with the population studied. In a review of 22,500
+healthy aviation personnel, the WPW pattern was seen in 0.25%; however, only 1.8% of these patients had
+documented arrhythmias. It can be encountered at any age, but the highest incidence is in the third and
+fourth decades of life.[9] In a report of 228 subjects with WPW syndrome, the overall incidence of arrhythmia
+was 1% per year during a 22-year follow-up.
+Etiology
+WPW pattern on ECG arises from a developmental cardiac defect in the atrioventricular (AV) electrical
+insulation at the AV groove due to the presence of an accessory pathway (AP). These APs are usually
+single epicardial strands of tissues that travel across the AV groove to connect the atrium and the adjacent
+ventricular myocardium. Less commonly, they are multiple hair-like strands or a broad band of tissues.
+Rarely, these muscle bands extend over coronary sinus diverticula or may connect right atrial appendage
+to the anterior right ventricle. The anatomic distribution of APs is: 40% to 60% left lateral; 20% right or left
+posteroseptal area; 13% to 21% right free wall; and 2% to 10% anteroseptal area. Unlike the AV node, where
+conduction slows at faster rates of stimulation (decremental conduction) approximately 90% of APs are
+rapidly conducting, resulting in circus movement tachycardia involving the atrium and ipsilateral ventricle with
+the AP as one limb and AV node as another limb of the circuit (AV re-entrant tachycardias). Approximately
+10% of the APs in WPW syndrome are slowly conducting (decremental).
+The presence of APs can be associated with various disorders. Ebstein anomaly is a malformation of the
+tricuspid valve and right ventricle characterized by adherence of the septal and posterior tricuspid leaflets
+to the underlying myocardium, apical displacement of the tricuspid annulus, and dilation of the atrialized
+portion of the right ventricle. Other rare associations include hypertrophic cardiomyopathy, mitral valve
+prolapse, atrial septal defect, ventricular septal defect, transposition of the great vessels, coarctation of
+the aorta, dextrocardia, coronary sinus diverticula, right and left atrial aneurysms, cardiac rhabdomyomas
+(as seen in patients with tuberous sclerosis), Marfan syndrome, Friedreich ataxia, Pompe disease, Danon
+disease, and hypokalemic periodic paralysis. Most cases of WPW are not due to a genetic cause and genetic
+testing is only relevant if there is pre-excitation in combination with hypertrophic cardiomyopathy and/or
+progressive cardiac conduction disease. In these patients, the underlying gene PRKAG2 has been identified
+as a potential cause, resulting in cardiac glycogen storage abnormalities.[10]
+The incidence of multiple APs (2 to 5) in patients with WPW syndrome is 5% to 13%.[11] Multiple APs are
+more commonly observed in patients with a family history of WPW syndrome, Ebstein anomaly, or other
+congenital heart diseases (10% to 20%).[10] [12] Multiple APs are associated with a higher incidence of
+antidromic reciprocating tachycardia and a higher incidence of sudden cardiac death.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Wolff-Parkinson-White syndrome Theory
+Anatomic location of accessory pathways across the valve annuli
+From the collection of Dr Mithilesh K. Das
+Common locations of accessory pathways across the mitral and tricuspid annuli
+From the collection of Dr Mithilesh K. Das
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Wolff-Parkinson-White syndrome Theory
+THEORY
+Right lateral accessory pathway in a patient with Ebstein anomaly
+From the collection of Dr Mithilesh K. Das
+WPW syndrome in a patient with hypertrophic obstructive cardiomyopathy
+From the collection of Dr Mithilesh K. Das
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Wolff-Parkinson-White syndrome Theory
+Pathophysiology
+Normal conduction from the atria to the ventricles occurs via the atrioventricular (AV) node (where minor
+physiologic delay occurs) and His-Purkinje system, resulting in a normal PR interval and a narrow QRS
+complex. In WPW syndrome, because of the physiologic delay of conduction in the AV node, conduction from
+the atrium reaches the adjacent ventricle initially via the accessory pathway (AP), which normally has no
+conduction delay, and a part of ventricle is pre-excited, resulting in a slurred upstroke at the initiation of the
+QRS complex, known as the delta wave. The terminal portion of the QRS complex is narrow, as conduction
+via the AV node to the His-Purkinje system reaches the remainder of the ventricles.
+The degree of pre-excitation depends upon the relative contributions of ventricular activation via the AP
+versus the His-Purkinje system. It is typically greater for patients with a right-sided AP as compared with a
+left free-wall AP due to the relative time differences for engaging the AP when the electrical impulse leaves
+the sinus node. Conduction over the AP results in shortening of the PR interval (<120 ms) and widening of
+the QRS complex (>110 ms) with secondary ST-T wave changes. During atrial fibrillation (AF), which occurs
+in up to one third of patients with WPW syndrome, rapid anterograde conduction via the AP to the ventricle
+may rarely cause ventricular fibrillation (VF) that may result in sudden cardiac death.
+When an AP is capable of retrograde conduction only (from the ventricle to the atria), the sinus rhythm
+ECG is normal and no delta wave is seen (concealed AP). These APs can serve as the retrograde limb of
+orthodromic reciprocating tachycardia (ORT).
+Manifest versus concealed accessory pathway. AP, accessory pathway; AV, atrioventricular;
+LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle; SA, sinoatrial
+From the collection of Dr Mithilesh K. Das
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Wolff-Parkinson-White syndrome Theory
+THEORY
+Collision (fusion) of wave fronts down the atrioventricular node and accessory pathway
+From the collection of Dr Mithilesh K. Das
+• AV re-entrant tachycardia (AVRT): AVRT is the most common arrhythmia and occurs in approximately
+70% to 80% of patients with WPW syndrome.[3] [4] The common form of AVRT involves impulse
+conduction via the AV node, down the His-Purkinje system to the ventricles anterogradely, and the
+AP retrogradely, resulting in rapid atrial activation after ventricular depolarization. This is known as
+ORT. Less commonly (5% to 10%), AVRT results from impulse conduction in a direction opposite to
+ORT: that is, conduction from atrium to ventricle via the AP and then from the ventricle to the atrium via
+the His-Purkinje system and the AV node. Therefore, it is a regular wide complex tachycardia (WCT),
+because ventricular activation is transmyocardial rather than via the specialized conduction tissue.
+This type of AVRT is known as antidromic reciprocating tachycardia (ART). ART is relatively more
+frequent in patients with multiple APs as compared with those with a single AP and is also relatively
+less common in patients with septal APs.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Wolff-Parkinson-White syndrome Theory
+Orthodromic and antidromic atrioventricular reciprocating
+tachycardia circuits. WCT, wide complex tachycardia
+From the collection of Dr Mithilesh K. Das
+• ORT: AVRT occurs in 70% to 80% of patients with WPW syndrome.[4] During ORT, the impulses reach
+the ventricles via the normal conduction system (AV node and His-Purkinje system) and then return
+to the atrium via the AP as soon as ventricular depolarization reaches the valve annuli. Tachycardia
+more commonly starts after a premature atrial complex that blocks at the refractory AP but is able to
+conduct down the AV node to the ventricles. By this time, the AP recovers and the impulse reaches the
+atrium via the AP and then travels to the ventricles via the AV node, to continue as ORT. During ORT
+the ventricle is depolarized via the normal conduction system; ORT is a narrow complex tachycardia
+with a short RP interval (short RP tachycardia).
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Wolff-Parkinson-White syndrome Theory
+THEORY
+Orthodromic atrioventricular reciprocating tachycardia in a patient with left-sided accessory pathway.
+AP, accessory pathway; APC, atrial premature complex; AV, atrioventricular; AVRT, atrioventricular re-
+entrant tachycardia; LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle; SA, sinoatrial
+From the collection of Dr Mithilesh K. Das
+Orthodromic reciprocating tachycardia induced in a patient with left lateral accessory pathway
+From the collection of Dr Mithilesh K. Das
+• ART: ART is a less common arrhythmia in patients with WPW syndrome. ART can be initiated by
+a premature atrial complex. The impulse is blocked at the AV node if it is refractory but conducts
+down the AP to the ventricles and then back to the atrium via the AV node, and then the circus
+movement tachycardia is initiated. Alternatively, ART can be initiated by a premature ventricular
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Wolff-Parkinson-White syndrome Theory
+complex that blocks in the AP and conducts retrograde via the AV node. The baseline ECG (upper
+panel) of a patient with minimum pre-excitation and the WCT (lower panel) is an ART with negative
+delta wave in inferior leads and lead V1 suggestive of a right inferoseptal AP as shown here. The
+ART is a wide QRS tachycardia and therefore can be confused with a ventricular tachycardia (VT) or
+a supraventricular tachycardia with aberrancy. The baseline ECG is the key in most cases. If there
+is positive QRS concordance (QRS polarity positive in all precordial leads due to annular location
+of the APs) during ART, then this may mimic a VT. However, if there is negative concordance (QRS
+polarity negative in all precordial leads), then an ART is ruled out - except for a rare AVRT involving
+an atriofascicular pathway, which has AV node-like property that connects the tricuspid annulus to the
+distal right bundle and results in a left bundle branch block configuration WCT.
+Antidromic atrioventricular reciprocating tachycardia in a patient with left-sided accessory
+pathway. AP, accessory pathway; APC, atrial premature complex; AV, atrioventricular;
+AVRT, atrioventricular re-entrant tachycardia; LA, left atrium; LV, left ventricle; RA,
+right atrium; RV, right ventricle; SA, sinoatrial; SVT, supraventricular tachycardia
+From the collection of Dr Mithilesh K. Das
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Wolff-Parkinson-White syndrome Theory
+THEORY
+Antidromic reciprocating tachycardia in a patient with right posteroseptal accessory pathway
+From the collection of Dr Mithilesh K. Das
+• AF: AF is encountered in 10% to 35% of patients with WPW syndrome. AF with rapid conduction via
+the AP is recognized by an irregular WCT with a varying degree of ventricular pre-excitation. Patients
+with a rapidly conducting AP or multiple APs are at a risk for VF due to rapid ventricular stimulation.
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Wolff-Parkinson-White syndrome Theory
+Atrial fibrillation in a patient with WPW syndrome with rapid
+ventricular rate; resulted in aborted sudden cardiac death
+From the collection of Dr Mithilesh K. Das
+• Atrial flutter and atrial tachycardia: Atrial flutter and atrial tachycardia can result in a regular pre-excited
+WCT. Atrial flutter is encountered in 5% to 10% of patients with WPW syndrome. If the conduction is
+rapid, then rapid stimulation of the ventricle can also result in VF. AV nodal Wenckebach pattern over
+the AV node or the AP in atrial flutter and AF can result in an irregular WCT.
+Atrial flutter with pre-excitation
+From the collection of Dr Mithilesh K. Das
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Wolff-Parkinson-White syndrome Theory
+THEORY
+Classification
+Manifest AP versus concealed AP
+Accessory pathways (APs) in WPW syndrome are usually capable of conducting bidirectionally (atrium to
+ventricle and ventricle to atrium). When an AP is capable of conducting retrogradely only (from the ventricle
+to the atria), the sinus rhythm ECG is normal and no delta wave is seen (concealed AP).
+Manifest versus concealed accessory pathway. AP, accessory pathway; AV, atrioventricular;
+LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle; SA, sinoatrial
+From the collection of Dr Mithilesh K. Das
+These APs serve as a substrate for re-entry and can cause a supraventricular tachycardia (SVT) involving
+the AV node as the other connection between the atrium and the ventricle. This type of SVT is termed
+atrioventricular re-entrant tachycardia (AVRT). An increased risk of sudden cardiac death is observed in
+patients with antegradely conducting APs but not in those with concealed APs.[3]
+Asymptomatic/symptomatic patients
+Symptomatic patients are those with episodes of tachycardia. The severity of symptoms can vary widely
+based on the frequency of episodes, whether they self-terminate, and the rate of the tachycardia. In
+general, faster tachycardias result in more severe symptoms than slower tachycardias. Tolerance is
+related to the rate of SVT as well as the patient's subjective experience. The decision about whether to
+advise electrophysiology (EP) testing and catheter ablation should be based largely on the presence of
+any symptoms. Because by definition all patients with WPW syndrome are symptomatic (as opposed to
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Wolff-Parkinson-White syndrome Theory
+asymptomatic with pre-excitation on ECG) they should all be referred for baseline diagnostic EP testing, and
+catheter ablation should be offered if appropriate based on the results.
+The management of patients with asymptomatic pre-excitation is comparatively more complex. It is well
+established that sudden cardiac death can be the first manifestation of an accessory pathway. Approximately
+one fifth of patients with asymptomatic pre-excitation will develop a symptomatic arrhythmia over time.
+And very rarely this can be sudden cardiac death. It is for this reason that the 2019 European Society of
+Cardiology guidelines have a large set of recommendations for managing patients with asymptomatic pre-
+excitation. It is recommended that an electrophysiology study (EPS) with isoproterenol should be considered
+to risk stratify individuals with asymptomatic pre-excitation and is recommended in individuals who are
+athletes or have a high risk occupation. If high risk electrophysiologic properties are identified, catheter
+ablation is recommended. In addition, an EPS and ablation can be considered in patients with asymptomatic
+pre-excitation who have an AP demonstrating low risk features on invasive or noninvasive screening.[3]
+Atrioventricular re-entrant tachycardia (AVRT)
+AVRT is the most common arrhythmia and occurs in approximately 70% to 80% of symptomatic patients with
+WPW syndrome.[4]
+Orthodromic reciprocating tachycardia (ORT): during ORT, the ventricle is depolarized via the normal
+conduction system; ORT is a narrow complex tachycardia most commonly with a short RP interval (short RP
+tachycardia).
+Orthodromic atrioventricular reciprocating tachycardia in a patient with left-sided accessory pathway.
+AP, accessory pathway; APC, atrial premature complex; AV, atrioventricular; AVRT, atrioventricular re-
+entrant tachycardia; LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle; SA, sinoatrial
+From the collection of Dr Mithilesh K. Das
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Wolff-Parkinson-White syndrome Theory
+THEORY
+Orthodromic reciprocating tachycardia induced in a patient with left lateral accessory pathway
+From the collection of Dr Mithilesh K. Das
+Antidromic reciprocating tachycardia (ART): ART is a wide QRS tachycardia, as the ventricle is depolarized
+via the AP.
+Antidromic atrioventricular reciprocating tachycardia in a patient with left-sided accessory pathway. AP, accessory
+pathway; APC, atrial premature complex; AV, atrioventricular; AVRT, atrioventricular re-entrant tachycardia; LA,
+left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle; SA, sinoatrial; SVT, supraventricular tachycardia
+From the collection of Dr Mithilesh K. Das
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Wolff-Parkinson-White syndrome Theory
+Antidromic reciprocating tachycardia in a patient with right posteroseptal accessory pathway
+From the collection of Dr Mithilesh K. Das
+Case history
+Case history #1
+A 42-year-old man complains of palpitations followed by dizziness and brief loss of consciousness. His
+wife reports that he is pale and short of breath. Emergency medical services were called and found him
+pulseless. The ECG revealed a rapid, irregular wide complex tachycardia. Later he was successfully
+resuscitated with two successive direct-current shocks.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Wolff-Parkinson-White syndrome Theory
+THEORY
+Case history #2
+A 35-year-old man presents to an emergency department with palpitations, SOB, dizziness, and chest
+pain of 4 hours duration. An ECG demonstrated narrow-complex short RP tachycardia that responded to
+intravenous adenosine. The ECG during sinus rhythm revealed ventricular pre-excitation.
+Other presentations
+Asymptomatic people are diagnosed during routine screening ECGs.
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Wolff-Parkinson-White syndrome Diagnosis
+Approach
+It is unusual to have Wolff-Parkinson-White (WPW) pattern as an incidental finding in healthy people who
+get ECG recording done for a routine health checkup. When managing patients with a WPW pattern on an
+ECG, the clinician should consider two main points: first, assessment of symptoms that may be due to the
+accessory pathway (AP) (e.g., palpitations, periods of fast heart rates, syncope or near-syncope); second,
+assessing the risk of sudden cardiac death.
+Acute presentations
+Patients with an acute arrhythmia due to WPW may present with palpitations, dizziness, shortness
+of breath, chest pain, and/or sudden cardiac death. The most common arrhythmias diagnosed are
+atrioventricular re-entrant tachycardia, atrial fibrillation, and atrial flutter. Sudden cardiac death and
+syncope are associated outcomes but rare. ECG should be recorded in any patients with suspected
+supraventricular arrhythmia.
+Congenital cardiac abnormalities
+From 7% to 20% of patients with WPW syndrome have other accompanying congenital abnormalities.
+The most common is Ebstein anomaly, which is associated with single or multiple right-sided APs.
+Other rare associations include hypertrophic cardiomyopathy, mitral valve prolapse, atrial septal defect,
+ventricular septal defect, transposition of the great vessels, coarctation of the aorta, dextrocardia,
+coronary sinus diverticula, right and left atrial aneurysms, cardiac rhabdomyomas (as seen in patients
+with tuberous sclerosis), Marfan syndrome, and Friedreich ataxia. Echocardiogram can be used to
+diagnose these.
+Right lateral accessory pathway in a patient with Ebstein anomaly
+From the collection of Dr Mithilesh K. Das
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Wolff-Parkinson-White syndrome Diagnosis
+DIAGNOSIS
+WPW syndrome in a patient with hypertrophic obstructive cardiomyopathy
+From the collection of Dr Mithilesh K. Das
+Locating APs
+The precise localization of APs helps in assessing the success rate and risks for catheter ablation,
+and in planning the ablation strategy. For example, left-sided APs are often ablated via a transseptal
+approach, and paraseptal APs, which are close to the His bundle, are associated with a risk for complete
+atrioventricular block during catheter ablation (some electrophysiologists now prefer cryoablation for APs
+close to the His bundle; see the treatment section).
+Several algorithms have been developed, but, as a general rule, a positive delta wave (first 40 ms of QRS
+complex) in lead V1 suggests a left-sided AP and a negative delta wave in V1 suggests a right-sided AP.
+A positive delta wave in the inferior leads suggests an anterior AP. A left axis (with a negative delta wave
+in lead V1) suggests a right lateral AP. If the delta waves in the inferior leads are negative, then it denotes
+an inferior AP. A negative delta wave in lead I, aVL, and V6 (rightward QRS axis) with a positive delta
+wave in lead V1 suggests a left lateral pathway. It is prudent to recognize that the delta wave vector can
+only be determined with precision when the ECG shows maximum pre-excitation.
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Wolff-Parkinson-White syndrome Diagnosis
+Antidromic reciprocating tachycardia in a patient with right posteroseptal accessory pathway
+From the collection of Dr Mithilesh K. Das
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Wolff-Parkinson-White syndrome Diagnosis
+DIAGNOSIS
+A simplified algorithm for localizing an accessory pathway
+From the collection of Dr Mithilesh K. Das
+Left posteroseptal accessory pathway
+From the collection of Dr Mithilesh K. Das
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Wolff-Parkinson-White syndrome Diagnosis
+Right anteroseptal accessory pathway
+From the collection of Dr Mithilesh K. Das
+Risk stratification
+Patients with WPW pattern should be risk stratified with noninvasive and invasive tests, and those
+who are low risk should be monitored for any future arrhythmia. It is recommended that invasive risk
+stratification should be considered for all patients with asymptomatic pre-excitation and is strongly advised
+in all patients with asymptomatic pre-excitation who are competitive athletes or who have a high risk
+occupation. If a high risk AP is observed at the time of electrophysiology study (EPS), then catheter
+ablation is advised.[3] Therefore, asymptomatic patients should be referred to an electrophysiologist or
+a cardiologist with expertise in arrhythmia evaluation for risk stratification. While controversy exists, most
+experts recommend that all patients with ventricular pre-excitation undergo risk stratification to determine
+their risk of sudden cardiac death, regardless of the presence of symptoms.[15] [16]
+The risk of sudden cardiac death is determined by the anterograde refractory period of the AP. The
+presence of multiple APs and inducible tachycardia have also been identified as risk markers.
+• If the refractory period is very short, there are multiple APs, or tachycardia is induced, patients are
+at risk for developing symptomatic arrhythmias and also ventricular fibrillation in the setting of atrial
+fibrillation conducting rapidly over the AP. Shorter anterograde refractory periods are associated
+with an increased risk for sudden cardiac death because the AP can conduct impulses more rapidly
+to the ventricles. This is particularly important if the patient develops atrial fibrillation. Normally, the
+ventricles are "protected" from rapid depolarization due to the decremental properties of the AV
+node. However, in patients with an AP with a short anterograde refractory period, rapid conduction
+over the AP can lead to rapid ventricular rates that can deteriorate to ventricular fibrillation.
+• If ventricular pre-excitation is intermittent at rest, this suggests the anterograde refractory period is
+relatively long, and the AP is low risk for causing sudden cardiac death.
+• If ventricular pre-excitation is always present at rest, patients should be referred to an
+electrophysiologist to determine whether invasive risk stratification is warranted. If patients do
+not want to undergo an electrophysiology study, exercise stress testing can be used as a risk
+stratification tool.
+• Abrupt loss of pre-excitation during exercise is indicative of an AP incapable of dangerously rapid
+conduction from the atrium to the ventricle, and is considered to be a marker of a lower-risk AP.
+If pre-excitation does not abruptly disappear with exercise, then invasive risk stratification with an
+electrophysiology study should be considered.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Wolff-Parkinson-White syndrome Diagnosis
+DIAGNOSIS
+• APs capable of rapid anterograde conduction should be ablated to reduce the risk of sudden
+cardiac death, regardless of whether or not they cause supraventricular tachycardia.
+• A treadmill exercise test can be used as an indicator of risk of sudden death.
+Resting ECG shows delta waves (red arrows) in the inferior and lateral leads
+From the collection of Dr Mithilesh K. Das
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Wolff-Parkinson-White syndrome Diagnosis
+Loss of pre-excitation (delta waves) in inferior and lateral leads during exercise
+From the collection of Dr Mithilesh K. Das
+Persistent loss of pre-excitation during the recovery period of
+exercise testing, suggestive of low-risk ECG for sudden cardiac death
+From the collection of Dr Mithilesh K. Das
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Wolff-Parkinson-White syndrome Diagnosis
+DIAGNOSIS
+History and exam
+Key diagnostic factors
+atrioventricular re-entrant tachycardia (AVRT) (common)
+• The most common arrhythmia is AVRT, which occurs in approximately 70% to 80% of patients.[3] [4]
+Other diagnostic factors
+palpitations (common)
+• Presenting feature of an acute arrhythmia due to WPW.
+dizziness (common)
+• Presenting feature of an acute arrhythmia due to WPW.
+shortness of breath (common)
+• Presenting feature of an acute arrhythmia due to WPW.
+chest pain (common)
+• Presenting feature of an acute arrhythmia due to WPW.
+atrial fibrillation (common)
+• Atrial fibrillation and flutter occur alone in 16% of patients and in 20% of patients with atrioventricular
+re-entrant tachycardia. Typically the heart rate varies between 150 and 240 bpm.
+atrial flutter (common)
+• Atrial fibrillation and flutter occur alone in 16% of patients and in 20% of patients with atrioventricular
+re-entrant tachycardia. Typically the heart rate varies between 150 and 240 bpm.
+congenital cardiac abnormalities (common)
+• From 7% to 20% of patients with WPW syndrome have other accompanying congenital abnormalities.
+The most common is Ebstein anomaly, which is associated with single or multiple right-sided
+accessory pathways.
+sudden cardiac death (uncommon)
+• The following factors are considered high risk for sudden cardiac death, especially in patients with
+a history of syncope: fastest rate ≥225 bpm during atrial fibrillation; anterograde refractory period
+≤270 ms; multiple accessory pathways. The risk of cardiac arrest/ventricular fibrillation in patients with
+untreated WPW syndrome is approximately 0.9-2.4 per 1000 person-years.[4]
+syncope and presyncope (uncommon)
+• Usually with a history of palpitations and dizziness. Syncope is an uncommon presentation (incidence
+<5%) of WPW syndrome. Most of these episodes are believed due to neurocardiogenic syncope. It
+could rarely be a manifestation of atrial fibrillation with rapid ventricular response or a self-terminating
+polymorphic ventricular tachycardia and ventricular fibrillation, which occur secondary to the rapid
+ventricular rates due to anterograde conduction via the accessory pathway.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Wolff-Parkinson-White syndrome Diagnosis
+tachycardia in pregnancy (uncommon)
+• The incidence of symptomatic tachycardia is reported to be higher during pregnancy in women with
+WPW.
+Risk factors
+Strong
+Ebstein anomaly
+• The most common congenital abnormality in WPW is Ebstein anomaly. It is associated with single or
+multiple right-sided accessory pathways.
+Right lateral accessory pathway in a patient with Ebstein anomaly
+From the collection of Dr Mithilesh K. Das
+Weak
+hypertrophic cardiomyopathy
+• Less commonly, patients with WPW syndrome may have other accompanying congenital
+abnormalities.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Wolff-Parkinson-White syndrome Diagnosis
+DIAGNOSIS
+WPW syndrome in a patient with hypertrophic obstructive cardiomyopathy
+From the collection of Dr Mithilesh K. Das
+mitral valve prolapse
+• Less commonly, patients with WPW syndrome may have other accompanying congenital
+abnormalities.
+atrial septal defect
+• Less commonly, patients with WPW syndrome may have other accompanying congenital
+abnormalities.
+ventricular septal defect
+• Less commonly, patients with WPW syndrome may have other accompanying congenital
+abnormalities.
+transposition of great vessels
+• Less commonly, patients with WPW syndrome may have other accompanying congenital
+abnormalities.
+coarctation of aorta
+• Less commonly, patients with WPW syndrome may have other accompanying congenital
+abnormalities.
+dextrocardia
+• Less commonly patients with WPW syndrome may have other accompanying congenital
+abnormalities.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Wolff-Parkinson-White syndrome Diagnosis
+coronary sinus diverticula
+• Less commonly, patients with WPW syndrome may have other accompanying congenital
+abnormalities.
+right and left atrial aneurysms
+• Less commonly, patients with WPW syndrome may have other accompanying congenital
+abnormalities.
+cardiac rhabdomyomas
+• Seen in patients with tuberous sclerosis.
+Marfan syndrome
+• Occasionally associated with WPW syndrome.
+Friedreich ataxia
+• Occasionally associated with WPW syndrome.
+family history
+• The incidence of familial WPW syndrome among patients with accessory pathways (APs) is reported
+to be 3.4% and the prevalence in first-degree relatives is 0.55%.[9] [13] Autosomal dominant
+inheritance is also reported. Familial forms have a higher incidence of multiple APs, but usually do
+not have male preponderance or structural cardiac abnormalities. Rare inherited disorders are also
+associated with familial WPW syndrome.[14]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Wolff-Parkinson-White syndrome Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+12-lead ECG
+• ECG should be recorded in any patients with suspected
+supraventricular arrhythmia. Intermittent pre-excitation is defined
+by the electrocardiographic presence of QRS complexes with
+pre-excitation intermingled with narrow QRS complexes due to
+conduction solely via the atrioventricular (AV) node (without pre-
+excitation). Sometimes, pre-excited QRS complexes alternate with
+the narrow QRS complex because of a long refractory period of the
+AP. Intermittent pre-excitation indicates that the AP is incapable of
+conduction to the ventricle fast enough to pose a risk for ventricular
+fibrillation during rapid atrial arrhythmias such as atrial fibrillation or
+flutter. An algorithm of delta wave polarity in 12-lead ECG or during
+antidromic tachycardia has been developed.
+• Twelve-lead ECG at baseline shows no delta waves and short RP
+tachycardia during the clinical arrhythmia in AV nodal re-entrant
+tachycardia.
+A simplified algorithm for localizing an accessory pathway
+From the collection of Dr Mithilesh K. Das
+Intermittent pre-excitation
+From the collection of Dr Mithilesh K. Das
+delta waves signify
+presence of an
+antegradely conducting
+AP; no delta waves
+can mean a concealed
+retrograde-only AP or an
+AP with intermittent pre-
+excitation
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Wolff-Parkinson-White syndrome Diagnosis
+Other tests to consider
+Test Result
+echocardiogram
+• Risk of associated heart disease is 7% to 20%.
+associated structural
+heart disease such
+as hypertrophic
+cardiomyopathy, Ebstein
+anomaly and other
+congenital heart disease
+treadmill exercise test
+• An indicator of a low risk of sudden cardiac death is the
+disappearance of pre-excitation during exercise due to a long
+anterograde refractory period of the accessory pathway (AP).[17]
+Sympathetic stimulation occurring during exercise shortens the
+refractory period of the AP and if the refractory period of the AP is
+reached, then the conduction down the AP is blocked. This indicates
+that during atrial fibrillation, conduction down the AP will not be fast
+enough to cause ventricular fibrillation.
+intermittent pre-excitation
+or sudden disappearance
+of pre-excitation
+electrophysiology study
+• Risk stratification is performed invasively by programmed electrical
+stimulation with intracardiac recordings or with semi-invasive atrial
+stimulation by transesophageal route.[17][18] [19]
+location and physiology
+of the accessory pathway
+(AP); number of APs;
+antegrade conduction
+properties of the AP;
+presence or absence of
+inducible tachycardia
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Wolff-Parkinson-White syndrome Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Atriofascicular pathway • There may be no difference
+in signs and symptoms in
+acute presentation with
+arrhythmias.
+• Baseline ECG normal. On
+electrophysiologic study, the
+pathway will be located at
+right lateral tricuspid annulus
+to right ventricular apex.
+• Arrhythmias not seen are:
+orthodromic atrioventricular
+re-entry tachycardia (AVRT),
+atrial fibrillation and flutter,
+and long RP tachycardia.
+Rare forms of accessory
+pathways occur due
+to various anatomic
+substrates with different
+ECG manifestations
+From the collection of
+Dr Mithilesh K. Das
+Lown-Ganong-Levine
+syndrome
+• There may be no difference
+in signs and symptoms in
+acute presentation with
+arrhythmias.
+• Baseline ECG shows
+short PR interval. On
+electrophysiologic study,
+there is atrio-nodal bypass
+or enhanced atrioventricular
+nodal conduction.
+• Arrhythmias not seen are:
+antidromic AVRT, atrial
+fibrillation and flutter, and
+long RP tachycardia.
+Nodofascicular pathway • There may be no difference
+in signs and symptoms in
+acute presentation with
+arrhythmias.
+• Baseline ECG shows short
+PR interval, but no delta
+wave. On electrophysiologic
+study, there will be a
+pathway from atrioventricular
+node to the ventricle.
+• Arrhythmias not seen
+are: orthodromic AVRT,
+antidromic AVRT, atrial
+fibrillation and flutter, and
+long RP tachycardia.
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Wolff-Parkinson-White syndrome Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Rare forms of accessory
+pathways occur due
+to various anatomic
+substrates with different
+ECG manifestations
+From the collection of
+Dr Mithilesh K. Das
+Fasciculoventricular
+pathway
+• There may be no difference
+in signs and symptoms in
+acute presentation with
+arrhythmias.
+• Baseline ECG shows short
+PR, narrow QRS, and delta
+wave. On electrophysiologic
+study, there will be a His
+bundle or bundle branch to
+the ventricle.
+• Arrhythmias not seen
+are: orthodromic AVRT,
+antidromic AVRT, atrial
+fibrillation and flutter, and
+long RP tachycardia.
+Rare forms of accessory
+pathways occur due
+to various anatomic
+substrates with different
+ECG manifestations
+From the collection of
+Dr Mithilesh K. Das
+Other accessory pathways
+with atypical course
+• There may be no difference
+in signs and symptoms in
+acute presentation with
+arrhythmias.
+• Baseline ECG shows delta
+wave. Electrophysiology
+shows a coronary sinus
+diverticulum or atrial
+appendage to ventricle.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Wolff-Parkinson-White syndrome Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Rare forms of accessory
+pathways occur due
+to various anatomic
+substrates with different
+ECG manifestations
+From the collection of
+Dr Mithilesh K. Das
+Criteria
+WPW syndrome versus WPW-pattern ECG
+WPW syndrome or pre-excitation syndrome occurs when one or more strands of myocardial fibers capable
+of conducting electrical impulses (known as accessory pathways or bypass tracts) connect the atrium to the
+ipsilateral ventricle across the mitral or tricuspid annulus.[1] A patient who is asymptomatic but with typical
+WPW ECG abnormalities is referred to as having WPW pattern.
+Asymptomatic/symptomatic patients
+Symptomatic patients are those with episodes of tachycardia. The severity of symptoms can vary widely
+based on the frequency of episodes, whether they self-terminate, and the rate of the tachycardia. Tolerance
+is related to the rate of supraventricular tachycardia as well as the patient's subjective experience.
+Screening
+Family members are not commonly screened.
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Wolff-Parkinson-White syndrome Management
+Approach
+Treatment of acute presentations is based on the nature of the arrhythmia. Ongoing treatment is decided
+according to the symptoms of the patient as well as risk stratification for sudden cardiac death.
+Acute management
+Acute management follows a path by whether the patient is stable or unstable; and if stable, by whether
+they are in orthodromic atrioventricular (AV) reciprocating tachycardia (narrow complex with short RP
+tachycardia), antidromic AV reciprocating tachycardia (wide complex tachycardia), or whether they have
+atrial fibrillation, flutter, or tachycardia.[3][20]
+Patients with an acute tachycardia and who are hemodynamically unstable (BP <90/60 mmHg, with signs
+of systemic hypoperfusion) or who have atrial fibrillation with >250 bpm, or in whom the atrial fibrillation
+has degenerated to ventricular fibrillation, require immediate direct-current (DC) cardioversion.
+AV reciprocating tachycardia
+Narrow complex (orthodromic AV reciprocating) tachycardia:
+Because orthodromic reciprocating tachycardia involves the AV node as one limb of the circus movement
+tachycardia, any maneuver or drug that slows or interrupts conduction in the AV node can terminate
+the tachycardia. In a hemodynamically stable patient, vagal maneuvers such as carotid sinus massage
+should be performed at the bedside, or alternatively, patients can be instructed to perform a Valsalva
+maneuver to terminate the arrhythmia. If this fails, pharmacotherapy with intravenous adenosine, AV nodal
+blocking drugs, or antiarrhythmic agents is indicated.
+Adenosine is preferred because of its ultra-short half-life (<18 seconds). It should be given as a rapid
+intravenous injection in a central vein or in the antecubital vein, followed by 10 to 20 mL of rapid normal
+saline flush. It can be used a second time if there is no response. Adenosine injection may cause chest
+pain, chest tightness, bronchospasm, dizziness, and a short run of atrial fibrillation (1% to 15%). Although
+atrial fibrillation is usually transient, it can cause rapid conduction to the ventricle via the accessory
+pathway (AP), and if the conduction is rapid then it can potentially result in ventricular fibrillation.
+Therefore, resuscitation equipment should be available as a standby. Adenosine should be avoided in
+patients with severe asthma and patients with a known hypersensitivity to the drug. In addition, adenosine
+injection is associated with a higher risk of heart block in patients on carbamazepine therapy.
+AV nodal blocking drugs (diltiazem, verapamil, metoprolol) can be used when there is no response or a
+recurrence after carotid sinus massage and adenosine. Antiarrhythmic drugs (procainamide, ibutilide,
+amiodarone) can be used when there is no response or a recurrence after carotid sinus massage,
+adenosine, and AV nodal blocking drugs.
+Rapid atrial pacing using a temporary pacemaker for overdrive suppression of the tachycardia can be
+used if previous drug treatments fail. DC cardioversion can then be used when symptoms persist in
+patients or if the patient becomes hemodynamically unstable.
+Wide complex (antidromic AV reciprocating) tachycardia:
+If the tachycardia is hemodynamically stable, then management of antidromic reciprocating tachycardia is
+with intravenous adenosine or antiarrhythmic drugs.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Wolff-Parkinson-White syndrome Management
+MANAGEMENT
+Adenosine is preferred because of its ultra-short half life (<18 seconds). It can be used a second time if
+there is no response.
+Antiarrhythmic drugs (procainamide, ibutilide, amiodarone) can also be used when there is no response
+or a recurrence after adenosine.
+Calcium-channel blockers, digoxin, and beta-blockers are contraindicated in this population, because
+these drugs slow the conduction via the AV node but do not have any effect on the AP. This may result in
+a rapid conduction via the AP, which may cause ventricular tachycardia and ventricular fibrillation leading
+to sudden cardiac death.
+Rapid atrial pacing using a temporary pacemaker for overdrive suppression of the tachycardia can be
+used if previous drug treatments fail. DC cardioversion can then be used when symptoms persist in
+patients or if the patient becomes hemodynamically unstable.
+Atrial fibrillation, atrial flutter, and atrial tachycardia
+Pre-excited tachycardia results in a rapid irregular wide complex tachycardia with varying duration and
+amplitude of QRS complexes depending upon the degree of pre-excitation. Intravenous infusions of
+antiarrhythmic drugs such as procainamide or ibutilide, which prevent rapid conduction through the AP,
+are used, even though they may not be able to terminate the atrial arrhythmia.[3] [20]
+Anticoagulation should be considered in atrial fibrillation and atrial flutter depending on the presence of
+comorbid cardiologic abnormalities and duration of onset.
+Rapid atrial pacing using a temporary pacemaker for overdrive suppression of atrial flutter or atrial
+tachycardia can be used if the previous drug treatments fail. Rapid atrial pacing has no role in atrial
+fibrillation.
+DC cardioversion can be used when symptoms persist in patients or if the patient becomes
+hemodynamically unstable. However, the recurrence of atrial arrhythmia after DC cardioversion may be
+higher in atrial tachycardia, compared with atrial fibrillation/flutter, depending on the mechanism. If the
+atrial tachycardia is related to abnormal automaticity, DC cardioversion may not be effective at all, such as
+in multifocal atrial tachycardia.
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Wolff-Parkinson-White syndrome Management
+Atrial fibrillation in a patient with WPW syndrome with rapid
+ventricular rate; resulted in aborted sudden cardiac death
+From the collection of Dr Mithilesh K. Das
+Asymptomatic
+While controversy exists, most experts recommend that all patients with ventricular pre-excitation
+undergo risk stratification to determine their risk of sudden cardiac death, regardless of the presence
+of symptoms.[4] [15] [16] [21] The risk of sudden cardiac death is determined by the anterograde
+refractory period of the AP during an isoproterenol infusion.[3] The presence of multiple APs and inducible
+tachycardia have also been identified as risk markers.
+• If the refractory period is very short, there are multiple APs, or tachycardia is induced, patients
+are at risk for developing ventricular fibrillation in the setting of atrial fibrillation conducting rapidly
+over the AP. Shorter anterograde refractory periods are associated with an increased risk for
+sudden cardiac death because the AP can conduct impulses more rapidly to the ventricles. This is
+particularly important if the patient develops atrial fibrillation. Normally, the ventricles are "protected"
+from rapid depolarization due to the decremental properties of the AV node. However, in patients
+with an AP with a short anterograde refractory period, rapid conduction over the AP can lead to
+rapid ventricular rates that can deteriorate to ventricular fibrillation.
+• If ventricular pre-excitation is intermittent at rest, this suggests the anterograde refractory period is
+relatively long, and the AP is low risk for causing sudden cardiac death.
+• If ventricular pre-excitation is always present at rest, patients should undergo exercise treadmill
+testing looking for abrupt loss of pre-excitation, again indicative of an AP incapable of dangerously
+rapid conduction from the atrium to the ventricle. If pre-excitation does not abruptly disappear with
+exercise, invasive risk stratification with an electrophysiology study should be considered. APs
+capable of rapid anterograde conduction should be ablated to reduce the risk of sudden cardiac
+death, regardless of whether or not they cause supraventricular tachycardia. Asymptomatic patients
+in specialized jobs with particular safety issues (e.g., airline pilot, school bus driver) can also be
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Wolff-Parkinson-White syndrome Management
+MANAGEMENT
+considered for catheter ablation. Catheter ablation is generally not performed in pregnant patients
+and should be deferred until after delivery.
+Symptomatic patients
+Symptomatic patients usually undergo catheter ablation as a first-line therapy.[3] [4]
+Antiarrhythmic drugs are one of the therapeutic options for the management of symptomatic WPW
+syndrome, but they have been increasingly replaced by catheter ablation.
+AV nodal blocking drugs are generally avoided in patients with WPW syndrome or WPW pattern because
+they theoretically can speed conduction through the AP. If antiarrhythmic drug therapy is chosen, a
+class 1C antiarrhythmic medication (flecainide or propafenone) or amiodarone is generally preferred.
+Class I antiarrhythmic agents (flecainide or propafenone) are suitable for patients with no additional
+cardiac disease but cannot be used in people with coronary artery disease or structural heart disease. In
+patients with coronary artery disease or structural heart disease, class III antiarrhythmic agents (sotalol,
+amiodarone, or dofetilide) may be used. QT interval must be determined prior to starting therapy with
+dofetilide as it is contraindicated if corrective QT interval (QTc) is >440 milliseconds (>500 milliseconds in
+patients with ventricular conduction abnormalities).
+The incidence of symptomatic tachycardia is reported to be higher during pregnancy, which may be
+refractory to drugs that are safe to use in such circumstances. Therefore a radiofrequency ablation
+should be considered prior to the next planned pregnancy. Catheter ablation is generally not performed in
+pregnant patients and should be deferred until after delivery. In the event a patient with WPW syndrome
+becomes pregnant prior to ablation of their AP, and if frequent recurrences of supraventricular tachycardia
+are observed during pregnancy, it is reasonable to treat the patients with flecainide or propafenone.[3]
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial ( summary )
+unstable: BP <90/60 mmHg, signs of
+systemic hypoperfusion or unstable
+atrial fibrillation
+1st direct-current (DC) cardioversion
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Wolff-Parkinson-White syndrome Management
+Acute ( summary )
+stable: narrow complex (orthodromic
+atrioventricular reciprocating)
+tachycardia
+1st carotid sinus massage or Valsalva
+maneuver
+2nd intravenous adenosine or atrioventricular
+(AV) nodal blocking drugs or
+antiarrhythmics
+3rd rapid atrial pacing
+4th direct-current (DC) cardioversion
+stable: wide complex (antidromic
+atrioventricular reciprocating)
+tachycardia
+1st intravenous adenosine or antiarrhythmics
+2nd rapid atrial pacing
+3rd direct-current (DC) cardioversion
+stable: pre-excited tachycardia due to
+atrial fibrillation or atrial flutter
+1st antiarrhythmics + consider
+anticoagulation
+2nd rapid atrial pacing (for atrial flutter)
+2nd direct-current (DC) cardioversion
+stable: pre-excited tachycardia due to
+atrial tachycardia
+1st antiarrhythmics
+2nd rapid atrial pacing
+3rd direct-current (DC) cardioversion
+Ongoing ( summary )
+following acute treatment:
+asymptomatic
+1st risk stratification and monitoring
+adjunct catheter ablation
+following acute treatment:
+symptomatic
+1st catheter ablation
+2nd antiarrhythmics
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Wolff-Parkinson-White syndrome Management
+MANAGEMENT
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Wolff-Parkinson-White syndrome Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial
+unstable: BP <90/60 mmHg, signs of
+systemic hypoperfusion or unstable
+atrial fibrillation
+1st direct-current (DC) cardioversion
+» Patients with an acute tachycardia and who
+are hemodynamically unstable (BP <90/60
+mmHg, with signs of systemic hypoperfusion)
+or who have atrial fibrillation with >250 bpm, or
+in whom the atrial fibrillation has degenerated
+to ventricular fibrillation, require immediate DC
+cardioversion.
+» A 50- to 360-J biphasic synchronized DC
+shock can be used (commonly the initial
+cardioversion is attempted with 50 J for
+supraventricular tachycardia, but up to 360
+J may be needed for cardioversion of atrial
+fibrillation with rapid ventricular response). DC
+cardioversion without the synchronized mode
+can induce ventricular fibrillation.
+» Conscious sedation (e.g., with intravenous
+propofol) is also required.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Wolff-Parkinson-White syndrome Management
+MANAGEMENT
+Acute
+stable: narrow complex (orthodromic
+atrioventricular reciprocating)
+tachycardia
+1st carotid sinus massage or Valsalva
+maneuver
+» Because orthodromic reciprocating tachycardia
+involves the atrioventricular (AV) node as one
+limb of the circus movement tachycardia, any
+maneuver or drug that slows or interrupts
+conduction in the AV node can terminate the
+tachycardia. In a hemodynamically stable
+patient, vagal maneuvers such as a carotid sinus
+massage should be performed at the bedside,
+or, alternatively, patients can be instructed to
+perform a Valsalva maneuver to terminate the
+arrhythmia.
+2nd intravenous adenosine or atrioventricular
+(AV) nodal blocking drugs or
+antiarrhythmics
+Primary options
+» adenosine: 6 mg intravenously initially,
+followed by 12 mg intravenously in 1-2
+minutes if required
+Secondary options
+» diltiazem: 0.25 mg/kg (average adult dose
+20 mg) intravenously initially, followed by
+0.35 mg/kg (average adult dose 25 mg)
+intravenously in 15 minutes if required
+OR
+» verapamil: 2.5 to 5 mg intravenously
+initially, followed by 5-10 mg (or 0.15 mg/kg)
+intravenously in 15-30 minutes if required,
+maximum 30 mg/total dose
+OR
+» metoprolol tartrate: 2.5 to 5 mg
+intravenously every 2-5 minutes as needed,
+maximum 15 mg/total dose
+Tertiary options
+» procainamide: 100 mg intravenously every
+5 minutes as needed, maximum 1000 mg/
+total dose
+OR
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Wolff-Parkinson-White syndrome Management
+Acute
+» ibutilide: <60 kg body-weight: 0.01 mg/kg
+intravenously initially, followed by 0.01 mg/kg
+intravenously in 10 minutes if required; ≥60
+kg body-weight: 1 mg intravenously initially,
+followed by 1 mg intravenously in 10 minutes
+if required
+OR
+» amiodarone: 150 mg intravenously initially,
+followed by 0.5 to 1 mg/minute intravenous
+infusion if needed
+» Adenosine is preferred because of its ultra-
+short half life (<18 seconds). It should be given
+as a rapid intravenous injection in a central vein
+or in the antecubital vein, followed by 10-20 mL
+of rapid normal saline flush. It can be used a
+second time if there is no response.
+» Adenosine injection may cause chest pain,
+chest tightness, bronchospasm, dizziness,
+and a short run of atrial fibrillation (1% to
+15%). Although atrial fibrillation is usually
+transient, it can cause rapid conduction to the
+ventricle via the accessory pathway, and if
+the conduction is rapid then it can potentially
+result in ventricular fibrillation. Therefore,
+resuscitation equipment should be available
+as a standby. Adenosine should be avoided in
+patients with severe asthma and patients with a
+known hypersensitivity to the drug. In addition,
+adenosine injection is associated with a higher
+risk of heart block in patients on carbamazepine
+therapy.
+» AV nodal blocking drugs (diltiazem, verapamil,
+metoprolol) can be used when there is no
+response or a recurrence after carotid sinus
+massage and adenosine.
+» Antiarrhythmic drugs (procainamide, ibutilide,
+amiodarone) can be used when there is no
+response or a recurrence after carotid sinus
+massage, adenosine, and AV nodal blocking
+drugs.
+3rd rapid atrial pacing
+» Rapid atrial pacing using a temporary
+pacemaker for overdrive suppression of the
+tachycardia can be used if previous drug
+treatments fail.
+4th direct-current (DC) cardioversion
+» In patients whose symptoms persist
+despite pharmacotherapy or atrial pacing, DC
+cardioconversion should be used.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Wolff-Parkinson-White syndrome Management
+MANAGEMENT
+Acute
+» A 50- to 360-J biphasic synchronized DC
+shock can be used (commonly the initial
+cardioversion is attempted with 50 J for
+supraventricular tachycardia, but up to 360
+J may be needed for cardioversion of atrial
+fibrillation with rapid ventricular response). DC
+cardioversion without the synchronized mode
+can induce ventricular fibrillation.
+» Conscious sedation (e.g., with intravenous
+propofol) is also required.
+stable: wide complex (antidromic
+atrioventricular reciprocating)
+tachycardia
+1st intravenous adenosine or antiarrhythmics
+Primary options
+» adenosine: 6 mg intravenously initially,
+followed by 12 mg intravenously in 1-2
+minutes if required
+Secondary options
+» procainamide: 100 mg intravenously every
+5 minutes as needed, maximum 1000 mg/
+total dose
+OR
+» ibutilide: <60 kg body-weight: 0.01 mg/kg
+intravenously initially, followed by 0.01 mg/kg
+intravenously in 10 minutes if required; ≥60
+kg body-weight: 1 mg intravenously initially,
+followed by 1 mg intravenously in 10 minutes
+if required
+OR
+» amiodarone: 150 mg intravenously initially,
+followed by 0.5 to 1 mg/minute intravenous
+infusion if needed
+» If the tachycardia is hemodynamically stable,
+then management is with intravenous adenosine
+or antiarrhythmic drugs.
+» Adenosine is preferred because of its ultra-
+short half life (<18 seconds). It should be given
+as a rapid intravenous injection in a central vein
+or in the antecubital vein, followed by 10-20 mL
+of rapid normal saline flush. It can be used a
+second time if there is no response.
+» Adenosine injection may cause chest pain,
+chest tightness, bronchospasm, dizziness,
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 45 ===
+Wolff-Parkinson-White syndrome Management
+Acute
+and a short run of atrial fibrillation (1% to
+15%). Although atrial fibrillation is usually
+transient, it can cause rapid conduction to the
+ventricle via the accessory pathway, and if
+the conduction is rapid then it can potentially
+result in ventricular fibrillation. Therefore,
+resuscitation equipment should be available
+as a standby. Adenosine should be avoided in
+patients with severe asthma and patients with a
+known hypersensitivity to the drug. In addition,
+adenosine injection is associated with a higher
+risk of heart block in patients on carbamazepine
+therapy.
+» Antiarrhythmic drugs (procainamide, ibutilide,
+amiodarone) can also be used when there is no
+response or a recurrence after adenosine.
+» Calcium-channel blockers, digoxin, and beta-
+blockers are contraindicated in this population,
+because these drugs slow the conduction via the
+atrioventricular node but do not have any effect
+on the accessory pathway. This may result in
+a rapid conduction via the accessory pathway,
+which may cause ventricular tachycardia and
+ventricular fibrillation leading to sudden cardiac
+death.
+2nd rapid atrial pacing
+» Rapid atrial pacing using a temporary
+pacemaker for overdrive suppression of the
+tachycardia can be used if previous drug
+treatments fail.
+3rd direct-current (DC) cardioversion
+» In patients whose symptoms persist
+despite pharmacotherapy or atrial pacing, DC
+cardioconversion should be used.
+» A 50- to 360-J biphasic synchronized DC
+shock can be used (commonly the initial
+cardioversion is attempted with 50 J for
+supraventricular tachycardia, but up to 360
+J may be needed for cardioversion of atrial
+fibrillation with rapid ventricular response). DC
+cardioversion without the synchronized mode
+can induce ventricular fibrillation.
+» Conscious sedation (e.g., with intravenous
+propofol) is also required.
+stable: pre-excited tachycardia due to
+atrial fibrillation or atrial flutter
+1st antiarrhythmics + consider
+anticoagulation
+Primary options
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+45
+=== Page 46 ===
+Wolff-Parkinson-White syndrome Management
+MANAGEMENT
+Acute
+» procainamide: 100 mg intravenously every
+5 minutes as needed, maximum 1000 mg/
+total dose
+OR
+» ibutilide: <60 kg body-weight: 0.01 mg/kg
+intravenously initially, followed by 0.01 mg/kg
+intravenously in 10 minutes if required; ≥60
+kg body-weight: 1 mg intravenously initially,
+followed by 1 mg intravenously in 10 minutes
+if required
+» Pre-excited tachycardia results in a rapid
+irregular wide complex tachycardia with varying
+duration and amplitude of QRS complexes
+depending upon the degree of pre-excitation.
+» Intravenous infusions of antiarrhythmic drugs
+such as procainamide or ibutilide, which prevent
+rapid conduction through the accessory pathway,
+are used, even though they may not be able to
+terminate the atrial arrhythmia.[3] [20]
+» Anticoagulation should be considered in
+atrial fibrillation and atrial flutter depending on
+presence of comorbid cardiologic abnormalities
+and duration of onset.
+2nd rapid atrial pacing (for atrial flutter)
+» In atrial flutter, rapid atrial pacing using a
+temporary pacemaker for overdrive suppression
+of the atrial flutter can be used if the previous
+drug treatments fail.
+» Rapid atrial pacing has no role in atrial
+fibrillation.
+2nd direct-current (DC) cardioversion
+» In patients with atrial fibrillation or atrial flutter
+whose symptoms persist despite antiarrhythmic
+agents, DC cardioconversion should be used.
+» A 50- to 360-J biphasic synchronized DC
+shock can be used (commonly the initial
+cardioversion is attempted with 50 J for
+supraventricular tachycardia, but up to 360
+J may be needed for cardioversion of atrial
+fibrillation with rapid ventricular response). DC
+cardioversion without the synchronized mode
+can induce ventricular fibrillation.
+» Conscious sedation (e.g., with intravenous
+propofol) is also required.
+stable: pre-excited tachycardia due to
+atrial tachycardia
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 47 ===
+Wolff-Parkinson-White syndrome Management
+Acute
+1st antiarrhythmics
+Primary options
+» procainamide: 100 mg intravenously every
+5 minutes as needed, maximum 1000 mg/
+total dose
+OR
+» ibutilide: <60 kg body-weight: 0.01 mg/kg
+intravenously initially, followed by 0.01 mg/kg
+intravenously in 10 minutes if required; ≥60
+kg body-weight: 1 mg intravenously initially,
+followed by 1 mg intravenously in 10 minutes
+if required
+OR
+» amiodarone: 150 mg intravenously initially,
+followed by 0.5 to 1 mg/minute intravenous
+infusion if needed
+» Pre-excited tachycardia results in a rapid
+irregular wide complex tachycardia with varying
+duration and amplitude of QRS complexes
+depending upon the degree of pre-excitation.
+» Intravenous infusions of antiarrhythmic drugs
+such as procainamide, ibutilide, or amiodarone,
+which prevent rapid conduction through the
+accessory pathway, are used, even though
+they may not be able to terminate the atrial
+arrhythmia.[3][20]
+2nd rapid atrial pacing
+» Rapid atrial pacing using a temporary
+pacemaker for overdrive suppression of the
+atrial tachycardia can be used if previous drug
+treatments fail.
+3rd direct-current (DC) cardioversion
+» In patients with atrial tachycardia whose
+symptoms persist despite antiarrhythmic agents
+or atrial pacing, DC cardioconversion should be
+used.
+» A 50- to 360-J biphasic synchronized DC
+shock can be used (commonly the initial
+cardioversion is attempted with 50 J for
+supraventricular tachycardia, but up to 360
+J may be needed for cardioversion of atrial
+fibrillation with rapid ventricular response). DC
+cardioversion without the synchronized mode
+can induce ventricular fibrillation.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+47
+=== Page 48 ===
+Wolff-Parkinson-White syndrome Management
+MANAGEMENT
+Acute
+» Conscious sedation (e.g., with intravenous
+propofol) is also required.
+» However, the recurrence of atrial arrhythmia
+after DC cardioversion may be higher in atrial
+tachycardia, compared with atrial fibrillation/
+flutter, depending on the mechanism. If the atrial
+tachycardia is related to abnormal automaticity,
+DC cardioversion may not be effective at all,
+such as in multifocal atrial tachycardia.
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 49 ===
+Wolff-Parkinson-White syndrome Management
+Ongoing
+following acute treatment:
+asymptomatic
+1st risk stratification and monitoring
+» While controversy exists, most experts
+recommend that all patients with ventricular pre-
+excitation undergo risk stratification to determine
+their risk of sudden cardiac death, regardless of
+the presence of symptoms.[15] [16] [21]
+adjunct catheter ablation
+Treatment recommended for SOME patients in
+selected patient group
+» Asymptomatic patients in specialized jobs
+with particular safety issues (e.g., airline pilot,
+school bus driver) can be considered for catheter
+ablation. Catheter ablation is also performed in
+asymptomatic patients who are found to have
+a “high-risk” accessory pathway at the time of
+electrophysiology testing, showing high-risk
+antegrade conduction characteristics.[3] [20]
+» Catheter ablation is generally not performed in
+pregnant patients and should be deferred until
+after delivery.
+following acute treatment:
+symptomatic
+1st catheter ablation
+» All patients should be offered catheter ablation.
+» The incidence of symptomatic tachycardia is
+reported to be higher during pregnancy, which
+may be refractory to drugs that are safe to use in
+such circumstances. Therefore a radiofrequency
+ablation should be considered prior to the
+next planned pregnancy. Catheter ablation is
+generally not performed in pregnant patients and
+should be deferred until after delivery.
+2nd antiarrhythmics
+Primary options
+» flecainide: 50-150 mg orally twice daily
+OR
+» propafenone: 150-300 mg orally
+(immediate-release) every 8 hours
+OR
+» sotalol: 80-160 mg orally twice daily
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+49
+=== Page 50 ===
+Wolff-Parkinson-White syndrome Management
+MANAGEMENT
+Ongoing
+OR
+» amiodarone: 600-800 mg/day orally given
+in 2 divided doses as a loading dose for 2
+weeks, followed by maintenance dose of
+200-400 mg/day
+OR
+» dofetilide: 125-500 micrograms orally twice
+daily
+» Used in patients who refuse ablation or in
+whom ablation is unsuitable.
+» Class I antiarrhythmic agents (flecainide or
+propafenone) are suitable for patients with no
+additional cardiac disease but cannot be used in
+people with coronary artery disease or structural
+heart disease.
+» In patients with coronary artery disease or
+structural heart disease, class III antiarrhythmic
+agents (sotalol, amiodarone, or dofetilide) may
+be used.
+» In the event a patient with WPW syndrome
+becomes pregnant prior to ablation of their
+accessory pathway, and if frequent recurrences
+of SVT are observed during pregnancy, it is
+reasonable to treat the patients with flecainide or
+propafenone.[3]
+» QT interval must be determined prior
+to starting therapy with dofetilide as it is
+contraindicated if QTc is >440 msec (>500
+msec in patients with ventricular conduction
+abnormalities).
+Patient discussions
+Patients should visit their physician every 2 to 3 years for monitoring.
+Patients should call the emergency services if they have any recurrence of symptoms.
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 51 ===
+Wolff-Parkinson-White syndrome Follow up
+Monitoring
+Monitoring
+Patients should visit their physician every 2 to 3 years for monitoring.
+Complications
+Complications Timeframe Likelihood
+sudden cardiac death (SCD) variable low
+Usually with a history of palpitations and dizziness. SCD due to ventricular fibrillation (VF) is a rare
+manifestation with an incidence of 0.025% to 0.38%. The risk of cardiac arrest/VF in patients with
+untreated WPW syndrome is approximately 0.9-2.4 per 1000 person-years.[4] High-risk patients include
+those with a rapidly conducting accessory pathway (AP) (1:1 AV conduction at >250 bpm) and multiple
+APs. WPW syndrome accounts for 10% of SCD in the young population.[25] The mode of death is
+thought to be due to atrial fibrillation with a rapid ventricular response via an AP that induces polymorphic
+ventricular tachycardia and VF resulting in syncope or SCD. Although syncope in patients with WPW
+syndrome is considered an ominous prognostic sign, in one study of patients with WPW syndrome
+referred for electrophysiology study, the incidence of aborted SCD was 28% and 16% in patients with and
+without a history of syncope, respectively. However, this did not reach statistical significance.
+catheter ablation complications variable low
+Catheter ablation is generally a safe procedure with an overall complication rate of 4.4% and a major
+complication rate of less than 1%.
+The common minor complications are related to the vascular access, catheter manipulation, transseptal
+atrial puncture for left-sided accessory pathway ablation, application of radiofrequency energy, and left-
+sided ablation: bleeding from vascular sites, hematomas, deep venous thrombosis, arteriovenous fistula,
+pseudoaneurysm at the arterial access sites, pneumothorax, infection.
+The risk of major complications is 1.8%: death, related to catheter manipulation, due to valvular damage,
+perforation of the coronary sinus or myocardial wall, coronary artery dissection, and thrombosis
+(0.08% to 0.2%), or related to the delivery of radiofrequency energy (atrioventricular block, 0.17% to
+1.0%), myocardial perforation, coronary artery spasm or occlusion, transient ischemic attacks and
+cerebrovascular accidents, or pericardial tamponade (0.13% and 1.1%), mostly occurs during transseptal
+puncture, but can occur during the application of radiofrequency energy.
+Prognosis
+Symptomatic patients with WPW syndrome should undergo catheter ablation as a first-line
+therapy.[17] Catheter ablation has a high efficacy and low risk, and can be used either as initial therapy or for
+patients experiencing side effects or arrhythmia recurrence during drug therapy. Patient preference is always
+an important consideration in these scenarios. Subjects with WPW pattern (asymptomatic patients), except
+for those with specialized jobs, should not be treated but can be monitored for symptoms.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+51
+=== Page 52 ===
+Wolff-Parkinson-White syndrome Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+PACES/HRS expert consensus statement on the management of the
+asymptomatic young patient with a Wolff-Parkinson-White (WPW, ventricular
+preexcitation) electrocardiographic pattern (https://www.hrsonline.org/
+guidance/clinical-resources)   [16]
+Published by: Pediatric and Congenital Electrophysiology Society; Heart
+Rhythm Society
+Last published: 2012
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 53 ===
+Wolff-Parkinson-White syndrome Guidelines
+Treatment guidelines
+International
+2023 AHA/ACC/HRS guideline for the management of patients with atrial
+fibrillation (https://www.acc.org/search#q=Diagnosis%20and%20Management
+%20of%20Atrial%20Fibrillation&sort=relevancy)   [22]
+Published by: American College of Cardiology; American Heart
+Association Task Force on Clinical Practice Guidelines; Heart Rhythm
+Society
+Last published: 2023
+2017 AHA/ACC/HRS guideline for management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+professional.heart.org/en/guidelines-and-statements)   [23]
+Published by: American College of Cardiology; American Heart
+Association Task Force on Clinical Practice Guidelines; Heart Rhythm
+Society
+Last published: 2017
+ACC/AHA/HRS guideline for the management of adult patients with
+supraventricular tachycardia (https://professional.heart.org/en/guidelines-
+and-statements)   [20]
+Published by: American College of Cardiology; American Heart
+Association Task Force on Clinical Practice Guidelines; Heart Rhythm
+Society
+Last published: 2015
+PACES/HRS expert consensus statement on the management of the
+asymptomatic young patient with a Wolff-Parkinson-White (WPW, ventricular
+preexcitation) electrocardiographic pattern (https://www.hrsonline.org/
+guidance/clinical-resources)   [16]
+Published by: Pediatric and Congenital Electrophysiology Society; Heart
+Rhythm Society
+Last published: 2012
+2022 ESC guidelines for the management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+www.escardio.org/Guidelines)   [4]
+Published by: European Society of Cardiology Last published: 2022
+Guidelines for the management of atrial fibrillation (https://www.escardio.org/
+Guidelines)   [24]
+Published by: European Society of Cardiology Last published: 2020
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+53
+=== Page 54 ===
+Wolff-Parkinson-White syndrome References
+REFERENCES
+Key articles
+• Brugada J, Katritsis DG, Arbelo E, et al. 2019 ESC Guidelines for the management of patients with
+supraventricular tachycardia. The Task Force for the management of patients with supraventricular
+tachycardia of the European Society of Cardiology (ESC). Eur Heart J. 2020 Feb 1;41(5):655-720. 
+Full text (https://academic.oup.com/eurheartj/article/41/5/655/5556821#143629127)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31504425?tool=bestpractice.bmj.com)
+• Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC Guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://academic.oup.com/eurheartj/article/43/40/3997/6675633)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+• Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of
+adult patients with supraventricular tachycardia: a report of the American College of Cardiology/
+American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm
+Society. J Am Coll Cardiol. 2016 Apr 5;67(13):e27-115.  Full text (http://content.onlinejacc.org/
+article.aspx?articleid=2443667&_ga=1.46497127.137237300.1459951295#tab1)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26409259?tool=bestpractice.bmj.com)
+References
+1. Vidaillet HJ Jr, Pressley JC, Henke E, et al. Familial occurrence of accessory atrioventricular pathways
+(preexcitation syndrome). N Engl J Med. 1987 Jul 9;317(2):65-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/3587328?tool=bestpractice.bmj.com)
+2. Surawicz B, Childers R, Deal BJ, et al. AHA/ACCF/HRS recommendations for the standardization and
+interpretation of the electrocardiogram: part III: intraventricular conduction disturbances. Circulation.
+2009 Mar 17;119(10):e235-40.  Full text (http://circ.ahajournals.org/content/119/10/e235.full)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/19228822?tool=bestpractice.bmj.com)
+3. Brugada J, Katritsis DG, Arbelo E, et al. 2019 ESC Guidelines for the management of patients with
+supraventricular tachycardia. The Task Force for the management of patients with supraventricular
+tachycardia of the European Society of Cardiology (ESC). Eur Heart J. 2020 Feb 1;41(5):655-720. 
+Full text (https://academic.oup.com/eurheartj/article/41/5/655/5556821#143629127)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31504425?tool=bestpractice.bmj.com)
+4. Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC Guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://academic.oup.com/eurheartj/article/43/40/3997/6675633)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+5. Ehtisham J, Watkins H. Is Wolff-Parkinson-White syndrome a genetic disease? J Cardiovasc
+Electrophysiol. 2005 Nov;16(11):1258-62. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16302915?
+tool=bestpractice.bmj.com)
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 55 ===
+Wolff-Parkinson-White syndrome References
+6. Rodday AM, Triedman JK, Alexander ME, et al. Electrocardiogram screening for disorders
+that cause sudden cardiac death in asymptomatic children: a meta-analysis. Pediatrics. 2012
+Apr;129(4):e999-1010.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3313631)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/22392183?tool=bestpractice.bmj.com)
+7. Lee PC, Hwang B, Chen YJ, et al. Electrophysiologic characteristics and radiofrequency catheter
+ablation in children with Wolff-Parkinson-White syndrome. Pacing Clin Electrophysiol. 2006
+May;29(5):490-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16689844?tool=bestpractice.bmj.com)
+8. Wolff L, Parkinson J, White P. Bundle-branch block with short P-R interval in healthy young people
+prone to paroxysmal tachycardia. 1930. Ann Noninvasive Electrocardiol. 2006 Oct;11(4):340-53.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17040283?tool=bestpractice.bmj.com)
+9. Chung KY, Walsh TJ, Massie E. Wolff-Parkinson-White Syndrome. Am Heart J. 1965 Jan;69:116-33.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14253091?tool=bestpractice.bmj.com)
+10. Wilde AAM, Semsarian C, Márquez MF, et al. European Heart Rhythm Association (EHRA)/
+Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart
+Rhythm Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac
+diseases. Europace. 2022 Sep 1;24(8):1307-67.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC9435643)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35373836?tool=bestpractice.bmj.com)
+11. Munger TM, Packer DL, Hammill SC, et al. A population study of the natural history of Wolff-
+Parkinson-White syndrome in Olmsted County, Minnesota, 1953-1989. Circulation. 1993
+Mar;87(3):866-73. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8443907?tool=bestpractice.bmj.com)
+12. Al-Khatib SM, Pritchett EL. Clinical features of Wolff-Parkinson-White syndrome. Am Heart
+J. 1999 Sep;138(3 Pt 1):403-13. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10467188?
+tool=bestpractice.bmj.com)
+13. Lown B, Ganong WF, Levine SA. The syndrome of short P-R interval, normal QRS complex
+and paroxysmal rapid heart action. Circulation. 1952 May;5(5):693-706. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/14926053?tool=bestpractice.bmj.com)
+14. Gallagher JJ, Sealy WC, Kasell J, et al. Multiple accessory pathways in patients with the pre-excitation
+syndrome. Circulation. 1976 Oct;54(4):571-91. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/963847?
+tool=bestpractice.bmj.com)
+15. Obeyesekere MN, Leong-Sit P, Massel D, et al. Risk of arrhythmia and sudden death in patients
+with asymptomatic preexcitation: a meta-analysis. Circulation. 2012 May 15;125(19):2308-15.  Full
+text (http://circ.ahajournals.org/content/125/19/2308.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22532593?tool=bestpractice.bmj.com)
+16. Cohen MI, Triedman JK, Cannon BC, et al. PACES/HRS expert consensus statement on the
+management of the asymptomatic young patient with a Wolff-Parkinson-White (WPW, ventricular
+preexcitation) electrocardiographic pattern: developed in partnership between the Pediatric and
+Congenital Electrophysiology Society (PACES) and the Heart Rhythm Society (HRS). Heart Rhythm.
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+55
+=== Page 56 ===
+Wolff-Parkinson-White syndrome References
+REFERENCES
+2012 Jun;9(6):1006-24.  Full text (https://www.heartrhythmjournal.com/article/S1547-5271(12)00293-7/
+fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22579340?tool=bestpractice.bmj.com)
+17. Pappone C, Santinelli V, Manguso F, et al. A randomized study of prophylactic catheter ablation
+in asymptomatic patients with the Wolff-Parkinson-White syndrome. N Engl J Med. 2003 Nov
+6;349(19):1803-11.  Full text (http://www.nejm.org/doi/full/10.1056/NEJMoa035345#t=article)
+18. Wellens HJ. When to perform catheter ablation in asymptomatic patients with a Wolff-Parkinson-White
+electrocardiogram. Circulation. 2005 Oct 4;112(14):2201-16.  Full text (http://circ.ahajournals.org/
+content/112/14/2201.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16203931?
+tool=bestpractice.bmj.com)
+19. Brembilla-Perrot B, Chometon F, Groben L, et al. Interest of non-invasive and semi-invasive testings
+in asymptomatic children with pre-excitation syndrome. Europace. 2007 Sep;9(9):837-43.  Full text
+(https://academic.oup.com/europace/article/9/9/837/518158)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17670785?tool=bestpractice.bmj.com)
+20. Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of
+adult patients with supraventricular tachycardia: a report of the American College of Cardiology/
+American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm
+Society. J Am Coll Cardiol. 2016 Apr 5;67(13):e27-115.  Full text (http://content.onlinejacc.org/
+article.aspx?articleid=2443667&_ga=1.46497127.137237300.1459951295#tab1)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26409259?tool=bestpractice.bmj.com)
+21. Obeyesekere MN, Leong-Sit P, Massel D, et al. Incidence of atrial fibrillation and prevalence of
+intermittent pre-excitation in asymptomatic Wolff-Parkinson-White patients: a meta-analysis. Int
+J Cardiol. 2012 Sep 20;160(1):75-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22694779?
+tool=bestpractice.bmj.com)
+22. Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS guideline for the
+diagnosis and management of atrial fibrillation: a report of the American College of Cardiology/
+American Heart Association Joint Committee on clinical practice guidelines. Circulation. 2024 Jan
+2;149(1):e1-156.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11095842)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38033089?tool=bestpractice.bmj.com)
+23. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management
+of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of
+the American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. Heart Rhythm. 2018 Oct;15(10):e190-252.  Full text
+(http://circ.ahajournals.org/content/early/2017/10/30/CIR.0000000000000549)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29097319?tool=bestpractice.bmj.com)
+24. Hindricks G, Potpara T, Dagres N, et al. 2020 ESC Guidelines for the diagnosis and management
+of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic
+Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the
+European Society of Cardiology (ESC) Developed with the special contribution of the European
+Heart Rhythm Association (EHRA) of the ESC. Eur Heart J. 2021 Feb 1;42(5):373-498.  Full text
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 57 ===
+Wolff-Parkinson-White syndrome References
+(https://academic.oup.com/eurheartj/article/42/5/373/5899003)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32860505?tool=bestpractice.bmj.com)
+25. Basso C, Corrado D, Rossi L, et al. Ventricular preexcitation in children and young adults: atrial
+myocarditis as a possible trigger of sudden death. Circulation. 2001 Jan 16;103(2):269-75.  Full text
+(http://circ.ahajournals.org/content/103/2/269.full)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+57
+=== Page 58 ===
+Wolff-Parkinson-White syndrome Images
+IMAGES
+Images
+Figure 1: Manifest versus concealed accessory pathway. AP, accessory pathway; AV, atrioventricular; LA, left
+atrium; LV, left ventricle; RA, right atrium; RV, right ventricle; SA, sinoatrial
+From the collection of Dr Mithilesh K. Das
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 59 ===
+Wolff-Parkinson-White syndrome Images
+Figure 2: Orthodromic atrioventricular reciprocating tachycardia in a patient with left-sided accessory
+pathway. AP, accessory pathway; APC, atrial premature complex; AV, atrioventricular; AVRT, atrioventricular
+re-entrant tachycardia; LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle; SA, sinoatrial
+From the collection of Dr Mithilesh K. Das
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+59
+=== Page 60 ===
+Wolff-Parkinson-White syndrome Images
+IMAGES
+ Figure 3: Orthodromic reciprocating tachycardia induced in a patient with left lateral accessory pathway
+From the collection of Dr Mithilesh K. Das
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 61 ===
+Wolff-Parkinson-White syndrome Images
+Figure 4: Antidromic atrioventricular reciprocating tachycardia in a patient with left-sided accessory pathway.
+AP, accessory pathway; APC, atrial premature complex; AV, atrioventricular; AVRT, atrioventricular re-
+entrant tachycardia; LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle; SA, sinoatrial; SVT,
+supraventricular tachycardia
+From the collection of Dr Mithilesh K. Das
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+61
+=== Page 62 ===
+Wolff-Parkinson-White syndrome Images
+IMAGES
+Figure 5: Antidromic reciprocating tachycardia in a patient with right posteroseptal accessory pathway
+From the collection of Dr Mithilesh K. Das
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 63 ===
+Wolff-Parkinson-White syndrome Images
+Figure 6: Anatomic location of accessory pathways across the valve annuli
+From the collection of Dr Mithilesh K. Das
+Figure 7: Common locations of accessory pathways across the mitral and tricuspid annuli
+From the collection of Dr Mithilesh K. Das
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+63
+=== Page 64 ===
+Wolff-Parkinson-White syndrome Images
+IMAGES
+Figure 8: Right lateral accessory pathway in a patient with Ebstein anomaly
+From the collection of Dr Mithilesh K. Das
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 65 ===
+Wolff-Parkinson-White syndrome Images
+Figure 9: WPW syndrome in a patient with hypertrophic obstructive cardiomyopathy
+From the collection of Dr Mithilesh K. Das
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+65
+=== Page 66 ===
+Wolff-Parkinson-White syndrome Images
+IMAGES
+Figure 10: Collision (fusion) of wave fronts down the atrioventricular node and accessory pathway
+From the collection of Dr Mithilesh K. Das
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 67 ===
+Wolff-Parkinson-White syndrome Images
+Figure 11: Orthodromic and antidromic atrioventricular reciprocating tachycardia circuits. WCT, wide complex
+tachycardia
+From the collection of Dr Mithilesh K. Das
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+67
+=== Page 68 ===
+Wolff-Parkinson-White syndrome Images
+IMAGES
+Figure 12: Atrial fibrillation in a patient with WPW syndrome with rapid ventricular rate; resulted in aborted
+sudden cardiac death
+From the collection of Dr Mithilesh K. Das
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 69 ===
+Wolff-Parkinson-White syndrome Images
+Figure 13: Atrial flutter with pre-excitation
+From the collection of Dr Mithilesh K. Das
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+69
+=== Page 70 ===
+Wolff-Parkinson-White syndrome Images
+IMAGES
+Figure 14: A simplified algorithm for localizing an accessory pathway
+From the collection of Dr Mithilesh K. Das
+Figure 15: Left posteroseptal accessory pathway
+From the collection of Dr Mithilesh K. Das
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 71 ===
+Wolff-Parkinson-White syndrome Images
+Figure 16: Right anteroseptal accessory pathway
+From the collection of Dr Mithilesh K. Das
+Figure 17: Resting ECG shows delta waves (red arrows) in the inferior and lateral leads
+From the collection of Dr Mithilesh K. Das
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+71
+=== Page 72 ===
+Wolff-Parkinson-White syndrome Images
+IMAGES
+Figure 18: Loss of pre-excitation (delta waves) in inferior and lateral leads during exercise
+From the collection of Dr Mithilesh K. Das
+72 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 73 ===
+Wolff-Parkinson-White syndrome Images
+Figure 19: Persistent loss of pre-excitation during the recovery period of exercise testing, suggestive of low-
+risk ECG for sudden cardiac death
+From the collection of Dr Mithilesh K. Das
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+73
+=== Page 74 ===
+Wolff-Parkinson-White syndrome Images
+IMAGES
+ Figure 20: Intermittent pre-excitation
+From the collection of Dr Mithilesh K. Das
+74 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 75 ===
+Wolff-Parkinson-White syndrome Images
+Figure 21: Rare forms of accessory pathways occur due to various anatomic substrates with different ECG
+manifestations
+From the collection of Dr Mithilesh K. Das
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+75
+=== Page 76 ===
+Wolff-Parkinson-White syndrome Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+76 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 77 ===
+Wolff-Parkinson-White syndrome Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+77
+=== Page 78 ===
+Contributors:
+// Authors:
+Hugh Calkins, MD
+Professor of Medicine
+Director of Electrophysiology, Johns Hopkins University School of Medicine, Baltimore, MD
+DISCLOSURES: HC declares that he is a consultant for Medtronic, Biosense Webster, Abbott, and Boston
+Scientific.
+// Acknowledgements:
+We would like to acknowledge our cardiology expert panel member, Dr Fred Kusumoto, for his contribution
+to this topic.Professor Hugh Calkins would like to gratefully acknowledge Dr David Frankel, Dr Mithilesh K.
+Das, and Dr Douglas P. Zipes, previous contributors to this topic.
+DISCLOSURES: DF, MKD, and DPZ declare that they have no competing interests.
+// Peer Reviewers:
+Nicolas Palaskas, MD, FACC
+Assistant Professor
+University of Texas MD Anderson Cancer Center, Houston, TX
+DISCLOSURES: NP declares that he has no competing interests.
+Joseph E. Marine, MD
+Associate Professor of Medicine
+Director of Electrophysiology, Johns Hopkins University School of Medicine, Baltimore, MD
+DISCLOSURES: JEM declares that he has no competing interests.
+Suneet Mittal, MD
+Director
+Electrophysiology Laboratory, The St. Luke's-Roosevelt Hospital Center, New York, NY
+DISCLOSURES: SM declares that he has no competing interests.
+Andrew Turley, MB ChB
+Cardiology Specialist Registrar
+The James Cook University Hospital, Middlesbrough, UK
+DISCLOSURES: AT declares that he has no competing interests.
+Steve Hsu, MD
+Associate Professor
+Department of Medicine, Division of Cardiology, University of Florida College of Medicine, Jacksonville, FL
+DISCLOSURES: SH declares that he has no competing interests.

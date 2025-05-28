@@ -1,0 +1,2030 @@
+# Evaluation of palpitations
+
+=== Page 1 ===
+Evaluation of
+palpitations
+Straight to the point of care
+Last updated: Oct 31, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Theory  4
+Etiology  4
+Emergencies  7
+Urgent considerations  7
+Diagnosis  8
+Approach  8
+Differentials overview  17
+Differentials  19
+References  31
+Images  39
+Disclaimer  44
+=== Page 3 ===
+Evaluation of palpitations Overview
+Summary
+Palpitations are defined as the abnormal awareness of one's own heartbeat. It is a common complaint
+seen in the outpatient setting in virtually all age groups and demographics. Most palpitations are due to
+nonarrhythmic etiologies that occur during normal sinus rhythm.
+A significant proportion of palpitations are due to non-life-threatening, treatable cardiac conditions. They
+include premature ventricular contractions, premature atrial contractions, and supraventricular tachycardias
+such as atrial fibrillation, atrial flutter, atrioventricular nodal reentry tachycardia, atrial tachycardia, and
+atrioventricular reentry tachycardia or Wolff-Parkinson-White syndrome. Ironically, the most common rhythm
+seen when evaluating patients for palpitations is sinus rhythm. A heightened sense of normal rhythm can
+be seen in settings of emotional or physical stress, or in conjunction with use of caffeine, alcohol, or other
+stimulants.
+However, palpitations are occasionally a manifestation of potentially life-threatening conditions, especially in
+the setting of structural heart disease - for example, ventricular tachycardia (VT), which may lead to sudden
+cardiac death. Inherited conditions such as hypertrophic cardiomyopathy, Brugada syndrome, and long QT
+syndrome may also initially present with palpitations and carry a risk of sudden cardiac death.[1] [2]
+Palpitations associated with syncope are particularly worrying as they are more likely to be associated with
+malignant arrhythmias such as ventricular tachycardia and should also be urgently evaluated.
+The evaluation of palpitations includes a careful and directed history and physical exam and a 12-lead
+ECG. Further testing and treatment should be guided by this initial evaluation, and includes ambulatory
+electrocardiographic monitoring and electrophysiologic testing.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Evaluation of palpitations Theory
+THEORY
+Etiology
+Palpitations can be caused by cardiac disorders or noncardiac disorders.[3] [4] [5] [6] [7] Cardiac etiologies
+are classified by site of origin and include supraventricular tachycardias (SVTs) and ventricular tachycardias
+(VTs), as well as premature atrial and ventricular depolarizations. Cardiac arrhythmias are also common in
+the setting of structural heart disease.[8]
+Noncardiac causes include panic attacks, anxiety disorder, anemia, fever, hyperthyroidism, hypoglycemia,
+and electrolyte imbalance.[9] Panic disorder may cause palpitations in 20% of patients.[7] In addition, many
+patients with palpitations have a history of panic attacks.[10] However, psychiatric diagnoses such as panic
+attack or anxiety disorder should not be accepted as the sole etiologies of palpitations until true arrhythmic
+causes have been excluded.[11] [12]
+Primary cardiac arrhythmias
+SVTs
+• Sinus tachycardia: the most common etiology of palpitations, defined as a heart rate >100 bpm with an
+identifiable cause such as exercise, stress, or some pathologic state e.g., anemia.
+• Inappropriate sinus tachycardia: defined as a resting heart rate >100 bpm, or an exaggerated heart
+response to exercise, without an identifiable etiology for the tachycardia such as pregnancy, anemia,
+or hyperthyroidism. Etiology is unknown but may be due to autonomic nervous system dysfunction or
+sinus node abnormality. A related syndrome is the postural orthostatic syndrome where inappropriate
+tachycardia is demonstrated in response to posture on a tilt-table test.
+• Atrial tachycardia: frequently seen in patients with structural heart disease or in the setting of an acute
+illness, such as infection. It is much more common in older people. Alternatively, it can be described
+as incessant with symptoms that are less specific such as fatigue and shortness of breath. Incessant
+atrial tachycardia can sometimes lead to a tachycardia-induced cardiomyopathy.
+• Atrial flutter: commonly seen in patients with atrial fibrillation.[13] [14]
+• Atrial fibrillation: frequently seen in the setting of congestive heart failure, valvular heart disease,
+hypertrophic cardiomyopathy, thyroid disease, and pulmonary disease. Prevalence increases with
+older age.[13] [15] [16] [17] Tall stature and high aerobic fitness level, alone and in combination, are
+associated with increased risk.[18] [19] [20] [21]
+• Atrioventricular nodal reentrant tachycardia: can occur at any age, although most commonly presents
+in the late 20s or early 30s.[22] Palpitations typically have an abrupt initiation and termination.
+• Atrioventricular reentrant tachycardia: a reentrant SVT using an anomalous bypass tract between the
+atria and ventricles. When evidence of this bypass tract is seen as a delta wave on the ECG, and the
+patient has palpitations, it is referred to as Wolff-Parkinson-White syndrome. It is important to note that
+this condition can be present without visible delta waves on the baseline ECG, due to what is referred
+to as a “concealed” bypass tract; where the bypass does not conduct in the antegrade direction, and
+the ventricle is not preexcited. However, the bypass tract has retrograde conduction that will support
+an orthodromic reciprocating tachycardia. Wolff-Parkinson-White syndrome is more frequently seen
+in males in the late teens or early twenties, and is associated with a slight increase in incidence of
+sudden cardiac death.[23] [24]
+VTs
+• Reentrant VT due to cardiomyopathy (most often due to coronary artery disease with prior infarction).
+• Brugada syndrome: a familial syndrome that has an associated risk of sudden cardiac death.[2]
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Evaluation of palpitations Theory
+• Long QT syndrome (LQTS): palpitations are due to episodes of nonsustained polymorphic VT, often
+with associated syncope.[2] LQTS increases predisposition to sudden cardiac death and may be
+congenital or acquired. Classic triggers exist for episodes in familial syndromes; triggers depend on
+the underlying genotype. In LQTS 1, episodes occur during exercise. In LQTS 2, they often occur with
+arousal from sleep or during emotional stress. A number of pharmacotherapeutic agents have been
+implicated in acquired LQTS; it is essential to evaluate the patient's medications for drugs that may
+prolong the QT interval, such as macrolide and fluoroquinolone antibiotics, or certain antipsychotics.
+• Idiopathic VT: several different types of idiopathic VT exist, classified by site of origin. These include
+right ventricular outflow tract VT, left ventricular outflow tract VT, and left ventricular idiopathic VT,
+sometimes referred to as Belhassen VT or verapamil-sensitive VT, which originates from the left
+ventricular myocardium.
+Other cardiac causes
+• Premature ventricular contractions: one of the most common etiologies of palpitations; can be seen in
+normal hearts as well as in patients with structural heart disease.
+• Premature atrial contractions: one of the most common etiologies of palpitations; can be seen in
+normal hearts as well as in patients with structural heart disease.
+Structural cardiac disorders
+• Myocardial infarction: VT is often seen in the acute setting. A myocardial scar from a previous
+infarction predisposes a patient to VT due to reentry, causing palpitations. Patients with prior
+myocardial infarction, especially those that develop congestive heart failure, are also especially prone
+to developing atrial fibrillation and flutter.[1] [25] [26] [27]
+• Dilated cardiomyopathy: associated with increased frequency of VT and atrial fibrillation.[1] [28] [29]
+• Hypertrophic obstructive cardiomyopathy: may be familial, marked by left ventricular hypertrophy that
+can present with a variety of arrhythmias that lead to palpitations, as well as dyspnea on exertion,
+near-syncope, and syncope.[30] The arrhythmias can be supraventricular such as atrial fibrillation,
+premature ventricular contractions, or ventricular (typically nonsustained VT).[1]
+• Arrhythmogenic right ventricular cardiomyopathy: although rare, frequently presents with palpitations
+as the initial symptom.[1][31] [32]
+• Mitral valve prolapse: palpitations (often due to SVTs), and premature ventricular contractions are
+frequently seen in this disorder, particularly when significant mitral regurgitation is present.[1][33] [34]
+[35] [36]
+• Ebstein anomaly (congenital malformation of the tricuspid valve annulus): atrioventricular bypass tracts
+are associated with this condition, frequently resulting in atrioventricular reentry tachycardia.[1] [37]
+• Valvular abnormalities (stenotic or regurgitant): commonly lead to atrial enlargement, which
+predisposes to atrial fibrillation and flutter.[1] [13] [25]
+• Congenital heart defects: repaired or unrepaired atrial septal defects, ventricular septal defects, and
+tetralogy of Fallot can lead to VT by reentry around surgical scars or atrial tachyarrhythmias due to
+significant atrial enlargement.[1][38][39]
+• Pericarditis: atrial fibrillation can be precipitated, especially after cardiac surgery.[1] [40] [41]
+• Cardiac surgery: any cardiac surgery that involves an incision, such as cannulation of the atria for
+initiation of cardiopulmonary bypass, or exposure of the mitral valve, results in scarring that may
+become a substrate for a reentrant tachycardia.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Evaluation of palpitations Theory
+THEORY
+Noncardiac causes
+Include the following:[9][42]
+• Panic disorder
+• Anxiety disorder
+• Anemia
+• Fever
+• Hyperthyroidism: can cause sinus tachycardia or atrial fibrillation
+• Pheochromocytoma: palpitations associated with sweating and headache
+• Alcohol use: even modest alcohol consumption has been found to increase the risk of atrial
+fibrillation[43]
+• Medication: drugs that prolong the QT interval may precipitate polymorphic VT; drugs that contain
+omega-3-acid ethyl esters, particularly at high doses, increase the risk of atrial fibrillation in patients
+being treated for hypertriglyceridemia[44] [45][46] [47]
+• Caffeine use: although many patients experience increased palpitations following caffeine
+consumption, the epidemiology and physiology behind this are unclear[48]
+• Electrolyte imbalance: electrolyte abnormalities (particularly hypokalemia and hypomagnesemia)
+predispose patients to many arrhythmias from premature atrial contractions and premature ventricular
+contractions to atrial fibrillation, and often incite and/or contribute to VT
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Evaluation of palpitations Emergencies
+Urgent considerations
+(See  Differentials  for more details)
+In certain situations urgent diagnosis and treatment are indicated. Patients found to be in a sustained
+tachycardia (defined as tachycardia lasting >30 seconds) should be triaged to an appropriate setting, such
+as the emergency department, and connected to a cardiac monitor. Oxygen saturation and blood pressure
+should be monitored and appropriate resuscitation given if required. An immediate 12-lead ECG should be
+performed. Monitoring of urine output should also be considered, especially if the patient is hemodynamically
+unstable. The treatment given will depend on the arrhythmia diagnosed.
+It is often the clinician's first instinct to terminate the arrhythmia before obtaining an ECG; however, unless
+the patient is hemodynamically unstable, there is almost always enough time to perform a 12-lead ECG,
+which will be useful in diagnosis and subsequent management.
+Palpitations associated with syncope are particularly worrying as they are more likely to be associated with
+malignant arrhythmias such as ventricular tachycardia and should be urgently evaluated.
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+Approach
+History
+Important points to be noted on history include:[1] [49]
+• Rate and degree of regularity of palpitations: sustained, rapid, irregular palpitations may indicate atrial
+fibrillation or atrial flutter, whereas rapid, regular rhythms may indicate paroxysmal supraventricular
+tachycardia (SVT)
+• Nature of palpitations: feeling of flip-flopping in the chest, often described as the heart stopping and
+then starting again, or as a skipped beat with the sensation of a pounding beat, a “clunk” or a “thud”,
+usually indicates premature ventricular contractions or premature atrial contractions. A feeling of
+rapid fluttering in the chest may indicate atrial or ventricular arrhythmias, including sinus tachycardia.
+Patients often use terms such as "mechanical" or "shifting into gear", which are highly suggestive
+of atrioventricular nodal reentry tachycardia or atrioventricular reentry tachycardia. Symptoms that
+terminate abruptly, especially with a Valsalva maneuver, suggest a reentrant mechanism in which
+the AV node is involved (such as atrioventricular nodal reentry tachycardia or atrioventricular reentry
+tachycardia). Symptoms that "just seem to fade away" are often due to sinus tachycardia
+• A feeling of rapid and regular pounding in the neck: typical of reentrant supraventricular arrhythmias,
+particularly atrioventricular nodal reentry tachycardia. The sensation is due to atrioventricular
+dissociation producing contraction of the atria against closed tricuspid and mitral valves.
+Atrioventricular dissociation can also result from isolated premature ventricular contractions or
+sustained ventricular tachycardias (VTs)
+• Palpitations that follow feelings of panic: suggest a diagnosis of panic disorder, although it is often
+difficult for patients to distinguish whether the feeling of anxiety or panic precedes or follows the
+palpitations. Certain psychiatric disorders such as panic attack or anxiety disorder are common causes
+of palpitations, but these diagnoses should not be accepted as sole etiologies of palpitations until true
+arrhythmic causes have been excluded[11] [12]
+• Palpitations brought on by exercise (catecholamine excess): suggests an idiopathic VT, particularly
+those arising from the right ventricular outflow tract.[50] Long QT syndrome can also present with
+palpitations triggered by vigorous exercise.[2] SVTs, particularly atrial fibrillation, may be induced
+during exercise or at the termination of exercise when the withdrawal of catecholamines is coupled
+with a surge in vagal tone. This is more common in athletic men in the third to the sixth decade
+of life.[51] [52] [53] Palpitations during minimal exertion or emotional stress can also indicate
+inappropriate sinus tachycardia. This arrhythmia is characterized by inappropriate increases in sinus
+rates. It is most frequently seen in young women and may result from a hypersensitivity to beta-
+adrenergic stimulation
+• Palpitations on awakening (typically early in the morning): there is a well-described association
+between atrial fibrillation and obstructive sleep apnea, likely due to large variations in sympathetic
+and vagal tone at the time of the apneic episode. The coexistence of these two conditions should be
+considered in patients with risk factors for sleep apnea who awake from sleep with palpitations[54]
+• Precipitation by emotional stress: most frequently due to anxiety, but may also suggest long QT
+syndrome with polymorphic VT[55]
+• Association with position: patients with atrioventricular nodal tachycardia often develop the arrhythmia
+when they bend over. Some patients note a pounding sensation while lying in bed, particularly when
+in the supine or left lateral decubitus position. This symptom may be the result of premature beats,
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Evaluation of palpitations Diagnosis
+which occur more frequently at slow heart rates, and is believed to be due to the sensation of the left
+ventricle against the thoracic wall
+• Polyuria: SVT often results in atrial distension and release of atrial natriuretic peptide (ANP),
+precipitating a significant diuresis[56] [57]
+• Dizziness, presyncope, or syncope: should prompt a search for VT. Occasionally, syncope occurs with
+SVT, particularly at the beginning of the tachycardia[1]
+• Patients with a history of ischemic heart disease or other structural heart disease are at increased
+risk of sudden cardiac death, and complaints of palpitations may be due to premature ventricular
+contractions and/or nonsustained VT. The etiology of palpitations should be aggressively sought,
+as well as risk-stratification for sudden cardiac death and treatment with an implantable cardioverter
+defibrillator if indicated
+• Patients with a history of congenital heart disease (repaired or unrepaired) are prone to multiple types
+of arrhythmias. Those with chronic volume overload are prone to atrial enlargement leading to atrial
+fibrillation, atrial flutter, and atrial tachycardia. Patients with repaired ventricular septal defects or
+tetralogy of Fallot are prone to reentrant VT around the ventricular septal defect patch, or from the site
+of pulmonic valve repair in the right ventricular infundibulum in the case of repaired tetralogy of Fallot
+• Family history of arrhythmia, syncope, or sudden death from cardiac causes: suggests cardiomyopathy
+or channelopathy such as long QT syndrome
+• History suggestive of hyperthyroidism, such as weight loss, heat intolerance, increased frequency of
+bowel movements
+• Alcohol use: a significant risk factor for atrial fibrillation[13] [43]
+• Excessive caffeine use
+• Medication history: stimulants or stimulant-containing medications such as diet pills, or other
+medications that prolong the QT interval and lead to polymorphic VT (torsades de pointes) such as
+macrolide and fluoroquinolone antibiotics, and antipsychotic and antidepressant medications.[44]
+Drugs containing omega-3-acid ethyl esters increase the risk of atrial fibrillation in patients treated for
+hypertriglyceridemia.[45][46] [47]
+Physical exam
+Although physicians rarely have the opportunity to examine a patient during an episode of palpitations, the
+physical exam is useful to define potential cardiovascular abnormalities. Important points on examination
+include:
+• Heart rate and rhythm
+• Blood pressure
+• General examination: pallor, fever, signs of hyperthyroidism such as warm and sweaty skin, thinning
+hair and skin, exophthalmos, eyelid lag, pretibial myxedema
+• Jugular venous pulse: cannon A waves, seen as a bulging in the neck (sometimes termed a frog
+sign; occurs when the atrium contracts against a closed tricuspid or mitral valve) as in atrioventricular
+dissociation[58] [59]
+• Cardiac examination: a laterally displaced and diffuse point of maximal impulse indicates dilated
+cardiomyopathy. Auscultation may reveal the midsystolic click of mitral valve prolapse.[33] [34] A
+harsh holosystolic murmur heard along the left sternal border that increases with Valsalva maneuver
+indicates hypertrophic obstructive cardiomyopathy. There may be signs of congestive heart failure
+such as an S3. Mitral stenosis and regurgitation both lead to left atrial enlargement, which is
+associated with atrial fibrillation
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+12-lead ECG
+The initial evaluation of all patients with a history of palpitations should include a 12-lead ECG, which can
+be diagnostic if an arrhythmia correlating with palpitations is recorded. 12-lead ECG also helps to narrow the
+differential diagnosis in patients with normal sinus rhythm.[1]
+Important points to note on ECG include:
+• Bradycardia: any bradycardia can be accompanied by premature ventricular contractions and
+palpitations. In particular, complete heart block can be associated with premature ventricular
+contractions, prolonged QT intervals, and torsades de pointes
+• Short PR interval and delta waves: characteristic of Wolff-Parkinson-White syndrome
+Wolff-Parkinson-White syndrome
+From the collection of Dr C. Pickett
+• Prolonged QT interval and abnormal T-wave morphology: suggest long QT syndrome
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Evaluation of palpitations Diagnosis
+Long QT syndrome
+From the collection of Dr C. Pickett
+• Deep septal Q waves in I, aVL, and V4 through V6: suggest marked left ventricular hypertrophy due to
+hypertrophic obstructive cardiomyopathy
+Hypertrophic cardiomyopathy
+From the collection of Dr C. Pickett
+• Terminal P-wave force in V1 more negative than 0.04 mV and notched in lead II: indicates left
+ventricular hypertrophy with left atrial abnormality, which may predispose to atrial fibrillation
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+Left ventricular hypertrophy and left atrial abnormality
+From the collection of Dr C. Pickett
+• Q waves: characteristic of a prior myocardial infarction and warrants a search for sustained or
+nonsustained VT, as well as atrial fibrillation or flutter
+Inferior Q waves due to prior MI
+From the collection of Dr C. Pickett
+• Morphology of ventricular ectopic beats: can help to distinguish between two types of idiopathic VT.
+Premature ventricular contractions that have left bundle branch block inferior axis morphology might
+be seen in right ventricular outflow tract VT, whereas idiopathic left ventricular VT will have premature
+ventricular contractions with right bundle branch block morphology
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Evaluation of palpitations Diagnosis
+• Epsilon wave or localized QRS prolongation of >110 ms in V1 through V3: suggests arrhythmogenic
+right ventricular cardiomyopathy, as well as findings suggesting right ventricular dilation such as
+precordial T-wave inversion[31]
+• Brugada syndrome patterns: type 1 is diagnostic with ST elevations of >2.0 mm in two of the right
+precordial leads V1 to V3, with an upward convexity leading down to an inverted T wave, known as a
+coved pattern.[2] Type 2 and 3 patterns are suggestive but not diagnostic.[2] They are characterized by
+a saddle-back pattern where the ST elevation descends toward the baseline, then rises up again to an
+upright or biphasic T wave. The ST segment is elevated >1 mm in type 2 and <1 mm in type 3
+Brugada syndrome ECG
+From the collection of Dr C. Pickett
+• Pseudo-S waves in atrioventricular nodal reentry tachycardia
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+Atrioventricular nodal reentry tachycardia with pseudo-S waves
+From the collection of Dr C. Pickett
+Further diagnostic testing
+Further diagnostic testing should be performed for four groups of people:[1] [60] [61] [62]
+• When the initial diagnostic evaluation (history, physical exam, and ECG) suggests an arrhythmic
+cause, especially if the palpitations are associated with syncope.
+• Those who are at high risk for an arrhythmia without a clear diagnosis after the initial evaluation. This
+includes people with structural heart disease or myocardial abnormalities including scar formation
+from myocardial infarction, idiopathic dilated cardiomyopathy, clinically significant valvular regurgitant
+or stenotic lesions or hypertrophic cardiomyopathy; these conditions can lead to serious arrhythmias,
+especially VT. Other high-risk patients include those with a family history of arrhythmia, syncope, or
+sudden death from cardiac causes (e.g., cardiomyopathy or the long QT syndrome).
+• Those patients with factors associated with a high-risk of thrombotic complications from atrial
+fibrillation in whom, if the diagnosis of atrial fibrillation is established, require antithrombotic therapy.
+• Low-risk patients who are anxious to have a specific explanation for their symptoms.
+Modes of further testing include ambulatory monitoring, implantable event monitors, laboratory tests, imaging
+and electrophysiology studies.
+Ambulatory monitoring
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Evaluation of palpitations Diagnosis
+Ambulatory monitoring is the definitive means for diagnosing cardiac arrhythmias as the etiology of a
+patient's palpitations as it demonstrates the patient's cardiac rhythm during the symptoms. Low-risk patients
+should have ambulatory monitoring only if the history suggests a sustained arrhythmia that is significantly
+bothersome to the patient. Even if the patient is low risk and the history is suggestive of premature atrial
+contractions or premature ventricular contractions, it is sometimes necessary to document this in order to
+reassure the patient that the palpitations have a benign cause. This can be highly therapeutic in the patient
+who is excessively concerned about their risk of dangerous arrhythmia.[1] Several types of monitoring
+systems are available:[63]
+• Holter monitors: 24-hour monitoring systems that record and save data continuously. They are worn for
+1 to 2 days while the patient keeps a diary recording the time and characteristics of symptoms. They
+are only effective for patients who have daily episodes.
+• Event monitors or continuous-loop recorders: continuously record data but save the data only
+when manually activated by the patient during an episode of palpitations. Some models will also
+automatically record any episodes of arrhythmia, whether symptomatic or not. Although Holter
+monitors remain popular in clinical practice, continuous-loop recorders are generally more cost
+effective and effective for the evaluation of intermittent palpitations.[64] [65] They can be used for
+longer periods than Holter monitors and are more likely to record data during palpitations, as most
+patients with palpitations are not symptomatic every day. A monitoring period of 2 weeks is sufficient to
+make a diagnosis in many patients.[66]
+• Mobile continuous outpatient telemetry: offers continuous ECG monitoring and recognizes arrhythmias
+according to prescribed algorithms. Continuous telemetry offers greater sensitivity by 1) recognizing
+arrhythmias that are asymptomatic, and 2) capturing arrhythmias in patients who are not able to
+manually activate a loop monitor.[67]
+• Digital devices: increasingly play a role in the diagnosis of palpitations.[68] Many smart watches
+can monitor heart rates, and the abrupt acceleration of the pulse in conjunction with symptoms of
+palpitations suggests an arrhythmia. There are also commercially available devices that can record a
+single and six channel ECG to evaluate in correlation with symptoms.[69]
+Implantable event monitors
+Implantable event monitors are used for patients who have infrequent palpitations, such as only a few times
+a year, but the palpitations are associated with worrisome symptoms such as syncope. In such a patient,
+it may be necessary to establish a firm diagnosis of one of these rare events. These small monitors are
+placed in the left prepectoral subcutaneous tissue and will automatically store ECGs of specific events such
+as extreme tachycardia or bradycardia, or asystole. Any episode that the patient identifies as an episode of
+palpitation will also be stored. These stored ECGs are then retrieved from the device memory when analyzed
+through the use of telemetry.
+Laboratory tests
+Laboratory tests may also be useful to exclude specific underlying causes:
+• Thyroid stimulating hormone: for evaluation of sinus tachycardia or atrial fibrillation
+• CBC: anemia could be an explanation for sinus tachycardia
+• Electrolyte profile: electrolyte abnormalities (particularly hypokalemia and hypomagnesemia) often
+incite and/or contribute to VT
+Imaging studies
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+Imaging studies that can be considered are:
+• Transthoracic echocardiogram: may be indicated when there is evidence of ischemic heart disease
+or if structural heart disease is suspected, but is rarely appropriate without other symptoms or signs
+of heart disease.[70] This is of fundamental importance when risk stratifying patients for a malignant
+etiology to their palpitations.
+• Cardiac MRI: modality for assessing cardiac structure and function often with even greater fidelity
+than echo. It has the advantage of being able to specifically characterize cardiac tissue, which is
+particularly useful in diagnosing conditions such as arrhythmogenic right ventricular cardiomyopathy or
+cardiac sarcoid. Cardiac scarring, as detected by MRI, is associated with increased risk of arrhythmias.
+Evaluation with MRI should be reserved for situations in which such a diagnosis is suggested, but not
+confirmed, by echocardiogram.
+Electrophysiology studies
+Electrophysiology studies, with or without preceding ambulatory monitoring, should be performed in two
+situations:
+• If palpitations are sustained or poorly tolerated and there is evidence of heart disease, particularly
+with left ventricular ejection fraction <40%. An electrophysiology study can be performed to see
+whether ventricular arrhythmias are inducible, in which case the patient would be a candidate for an
+implantable cardioverter defibrillator.
+• If an arrhythmia is identified that is treatable with ablation, such as atrial flutter, atrioventricular node
+reentry tachycardia, or atrioventricular reentry tachycardia. An electrophysiology study should be
+performed as the diagnostic part of a therapeutic ablation procedure.
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Evaluation of palpitations Diagnosis
+Differentials overview
+Common
+Sinus tachycardia
+Atrial tachycardia
+Atrial flutter
+Atrial fibrillation
+Atrioventricular nodal reentrant tachycardia
+Wolff-Parkinson-White syndrome (WPW)
+Premature ventricular beat
+Premature atrial beat
+Anxiety and panic disorder
+Fever
+Hyperthyroidism
+Excess alcohol use (binge drinking)
+Caffeine
+QT prolonging drugs
+Postural orthostatic tachycardia syndrome (POTS)
+Uncommon
+Inappropriate sinus tachycardia
+Idiopathic ventricular tachycardia
+Long QT syndrome
+Brugada syndrome
+Hypertrophic cardiomyopathy
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+Uncommon
+VT in the setting of other structural heart disease
+Pheochromocytoma
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Evaluation of palpitations Diagnosis
+Differentials
+Common
+◊ Sinus tachycardia
+History Exam 1st Test Other tests
+history often vague;
+palpitations that just
+seem to fade away;
+hyperthyroidism-
+associated symptoms
+such as decreased
+weight despite
+increased appetite,
+emotional lability,
+oligomenorrhea;
+associated
+breathlessness and
+fatigue due to anemia;
+can be experienced
+in the setting of
+intense emotional
+episodes; associated
+headaches and flushing
+might be due to a
+pheochromocytoma
+regular pulse
+>100 bpm; normal
+cardiac exam; signs
+and symptoms of
+hyperthyroidism
+(e.g., fine tremor,
+tachycardia, lid lag),
+anemia (e.g., pallor)
+or pheochromocytoma
+(episodic hypertension)
+»12-lead ECG: regular
+QRS complexes at a
+rate of >100 bpm
+»thyroid stimulating
+hormone: decreased
+in most cases of
+hyperthyroidism
+»CBC: decreased Hb if
+anemia
+»pregnancy test:
+positive in pregnancy
+◊ Atrial tachycardia
+History Exam 1st Test Other tests
+history of structural
+heart disease;
+association with acute
+illness; palpitations are
+often paroxysmal; fast
+and regular palpitations
+with sudden onset
+and termination; less
+specific symptoms
+such as fatigue and
+breathlessness can
+be present if atrial
+tachycardia is incessant
+often normal; can see
+signs and symptoms
+of heart failure or
+pulmonary disease
+such as COPD or
+pneumonia
+»baseline ECG
+without symptoms:
+often normal; may see
+signs of left (biphasic
+P wave in lead V1 or
+double-humped P wave
+in lead II) or right (P
+wave >2.5 mV in lead
+II) atrial abnormalities
+»ambulatory ECG or
+event monitor with
+symptoms: narrow
+QRS tachycardia
+(>100 bpm); P wave
+sometimes with a non-
+sinus morphology
+◊ Atrial flutter
+History Exam 1st Test Other tests
+fast and regular
+palpitations; seen
+in patients with
+fluttering of the venous
+jugular pulse may be
+seen; arterial pulse
+»baseline ECG
+without symptoms:
+normal but may see
+»ambulatory ECG
+or event monitor
+with symptoms: rapid
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+Common
+◊ Atrial flutter
+History Exam 1st Test Other tests
+normal hearts but
+is more often seen
+in patients with left
+ventricular dysfunction
+or rheumatic heart
+disease; commonly
+seen in conjunction with
+atrial fibrillation
+typically normal in
+intensity but ventricular
+rate is variable
+depending on the
+degree of AV block;
+signs of congestive
+heart failure and left
+ventricular dysfunction
+may be present
+signs of left (biphasic
+P wave in lead V1 or
+double-humped P wave
+in lead II) or right (P
+wave >2.5 mV in lead
+II) atrial abnormalities
+regular saw-tooth flutter
+waves at 300 bpm with
+a narrow complex QRS
+at some multiple of 300,
+that is, 150, 100, or 75
+bpm
+Atrial fibrillation
+History Exam 1st Test Other tests
+history of congestive
+heart failure, valvular
+heart disease,
+hypertrophic/dilated
+cardiomyopathy,
+pericarditis, thyroid
+disease, pulmonary
+disease (including
+asthma), obstructive
+sleep apnea, or atrial
+flutter; paroxysmal or
+persistent palpitations;
+often associated with
+other symptoms such
+as dyspnea or fatigue;
+or can occur after
+binge drinking (holiday
+heart); common
+in older people;
+use of omega-3-
+acid ethyl esters in
+patients treated for
+hypertriglyceridemia;
+may be a history of
+athletic training
+irregularly irregular
+pulse; often rapid; if the
+patient is in a normal
+rhythm at the time
+of examination signs
+of congestive heart
+failure, rheumatic heart
+disease, or thyroid
+disease should be
+sought
+»baseline ECG
+without symptoms:
+normal but may see
+signs of left (biphasic
+P wave in lead V1 or
+double-humped P wave
+in lead II) or right (P
+wave >2.5 mV in lead
+II) atrial abnormalities
+»ambulatory ECG or
+event monitor with
+symptoms: irregularly
+irregular rhythm without
+discrete P waves
+»thyroid stimulating
+hormone: may be
+elevated or decreased
+»echocardiogram:
+may show left atrial
+enlargement, mitral
+regurgitation, left
+ventricular dysfunction
+◊ Atrioventricular nodal reentrant tachycardia
+History Exam 1st Test Other tests
+can occur at any age;
+symptom onset most
+common in the late
+20s or early 30s; more
+common in women;
+typically normal; during
+arrhythmia, the pulse is
+rapid and regular with
+a rapid fluttering of the
+»baseline ECG
+without symptoms:
+normal
+»ambulatory ECG or
+event monitor with
+symptoms: narrow
+QRS tachycardia,
+sometimes with pseudo
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Evaluation of palpitations Diagnosis
+Common
+◊ Atrioventricular nodal reentrant tachycardia
+History Exam 1st Test Other tests
+palpitations typically
+have an abrupt initiation
+and termination,
+are fast and regular,
+described as being
+machine-like, and
+can be accompanied
+by a fullness in the
+throat due to right atrial
+contractions against a
+closed tricuspid valve;
+often terminated with
+Valsalva maneuvers
+and sometimes
+associated with
+presyncope
+jugular venous wave
+pulse
+R' in lead V1 or the
+S wave in the inferior
+leads
+Typical ECG.
+Atrioventricular nodal
+reentry tachycardia
+with pseudo-S waves
+From the collection
+of Dr C. Pickett
+Wolff-Parkinson-White syndrome (WPW)
+History Exam 1st Test Other tests
+rapid and regular
+palpitations that can
+be terminated with
+Valsalva maneuvers;
+typically present in
+the teenage years;
+more frequently seen
+in males; associated
+with a slight increase
+in incidence of sudden
+cardiac death
+typically normal at
+baseline; during
+palpitations there is
+a rapid pulse that is
+regular, except in the
+case of atrial fibrillation
+in the setting of WPW,
+in which case the pulse
+is irregular
+»baseline ECG
+without symptoms:
+evidence of
+preexcitation with a
+short PR segment
+(<120 ms) and delta
+waves; patients can
+have WPW with a
+concealed bypass tract
+that only conducts as
+the retrograde limb of
+the tachycardia circuit,
+and is not seen on the
+baseline ECG
+Typical ECG.
+»ambulatory ECG
+or event monitor
+with symptoms:
+narrow or wide QRS
+with ectopic P waves;
+if atrial fibrillation is
+present, the ECG can
+be extremely fast (>200
+bpm) with an irregular
+and wide QRS
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+Common
+Wolff-Parkinson-White syndrome (WPW)
+History Exam 1st Test Other tests
+Wolff-Parkinson-
+White syndrome
+From the collection
+of Dr C. Pickett
+◊ Premature ventricular beat
+History Exam 1st Test Other tests
+usually seen in normal
+hearts; palpitations
+are described as
+an early beat with a
+pause followed by an
+unusually strong or
+"pounding" beat, or
+simply as a "flip-flop";
+may be associated with
+caffeine intake
+typically normal;
+peripheral arterial pulse
+is regular except for
+occasional premature
+beats, often with a brief
+pause afterward
+»baseline ECG
+without symptoms:
+typically normal
+»ambulatory ECG or
+event monitor with
+symptoms: isolated
+wide QRS complexes
+»echocardiogram:
+usually normal
+◊ Premature atrial beat
+History Exam 1st Test Other tests
+usually seen in normal
+hearts; palpitations
+described as a skipped
+beat often with a pause
+afterward or a brief flip-
+flop, may be associated
+typically normal;
+peripheral arterial pulse
+is regular except for
+occasional premature
+beats, often with a brief
+pause afterward
+»baseline ECG
+without symptoms:
+normal
+»ambulatory ECG or
+event monitor with
+symptoms: regular
+sinus rhythm with
+occasional premature P
+waves, sometimes with
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Evaluation of palpitations Diagnosis
+Common
+◊ Premature atrial beat
+History Exam 1st Test Other tests
+with caffeine intake;
+symptoms are usually
+not as intense as
+premature ventricular
+beats
+a morphology different
+from the sinus P wave
+»echocardiogram:
+usually normal
+◊ Anxiety and panic disorder
+History Exam 1st Test Other tests
+palpitations may
+be preceded by
+a stressful event;
+tingling, paresthesia,
+breathlessness may
+accompany the
+palpitations
+physical exam is
+nonspecific
+»baseline ECG
+without symptoms:
+normal or sinus
+tachycardia
+»ambulatory ECG or
+event monitor with
+symptoms: normal or
+sinus tachycardia
+◊ Fever
+History Exam 1st Test Other tests
+sweating, flushing,
+underlying illness, for
+example, influenza
+elevated temperature »none: diagnosis
+is based on clinical
+evaluation
+◊ Hyperthyroidism
+History Exam 1st Test Other tests
+decreased weight
+despite increased
+appetite, emotional
+lability, oligomenorrhea,
+heat intolerance
+weight loss,
+hyperreflexia,
+tachycardia, atrial
+fibrillation, fine tremor,
+may be goiter
+»ECG: normal,
+tachycardia, or
+evidence of atrial
+fibrillation
+»TFTs: elevated free
+T4 and T3, low thyroid
+stimulating hormone
+◊ Excess alcohol use (binge drinking)
+History Exam 1st Test Other tests
+significant alcohol
+intake, especially
+history of binge drinking
+atrial fibrillation may
+be evident, signs of
+alcohol intoxication
+»none: diagnosis
+is based on clinical
+evaluation
+»ECG: if suspect atrial
+fibrillation clinically
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+Common
+◊ Caffeine
+History Exam 1st Test Other tests
+history of large caffeine
+consumption or direct
+correlation between
+caffeine intake and
+palpitations
+physical examination is
+nonspecific
+»none: diagnosis
+is based on clinical
+evaluation
+Although many patients
+experience increased
+palpitations following
+caffeine consumption,
+the epidemiology and
+physiology behind this
+are unclear.[48]
+◊ QT prolonging drugs
+History Exam 1st Test Other tests
+use of stimulants
+or medications that
+prolong the QT interval
+such as fluoroquinolone
+antibiotics or certain
+antipsychotics
+physical examination is
+nonspecific
+»none: diagnosis
+is based on clinical
+evaluation
+»ECG: to exclude
+acquired long QT
+syndrome
+◊ Postural orthostatic tachycardia syndrome (POTS)
+History Exam 1st Test Other tests
+usually young
+women age 15 to
+25 years, may be
+recent viral infection;
+symptoms related to
+orthostatic intolerance
+(palpitations,
+lightheadedness,
+blurred vision, exercise
+intolerance, presyncope
+and syncope,
+tremor, generalized
+weakness, fatigue);
+may also present
+with nonorthostatic
+symptoms
+including dyspnea,
+gastrointestinal
+symptoms (e.g.,
+bloating, nausea,
+diarrhea, constipation,
+orthostatic tachycardia,
+orthostatic palpitations;
+signs of associated
+comorbidities (e.g.,
+joint hypermobility,
+small nontender goiter,
+diarrhea)
+»10 minute standing
+test: heart rate
+increased by ≥30 bpm
+( ≥40 bpm in patients
+ages 12 to 19 years
+old) after changing
+position from supine
+to standing, and no
+orthostatic hypotension
+(sustained drop in
+systolic blood pressure
+by ≥20 mmHg)
+Allow at least 5 minutes
+of a supine position
+and at least 1 minute
+of standing before
+checking orthostatic
+vital signs. Standing
+heart rate and blood
+»24-hour Holter
+monitor: tachycardia
+induced by orthostatic
+changes; no
+supraventricular
+arrhythmias
+»tilt-table test:
+orthostatic tachycardia
+with changing position
+May be used if the
+diagnosis is unclear
+following initial
+assessment or if the
+patient is not able to
+perform a 10 minute
+standing test.
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Evaluation of palpitations Diagnosis
+Common
+◊ Postural orthostatic tachycardia syndrome (POTS)
+History Exam 1st Test Other tests
+abdominal pain),
+exercise intolerance,
+fatigue, headache,
+sleep disturbance,
+cognitive impairment,
+chest pain, bladder
+disturbance; may
+present with symptoms
+of associated
+comorbidities, such
+as Ehlers-Danlos
+syndrome and
+autoimmune diseases,
+particularly Hashimotos
+thyroiditis and celiac
+disease
+pressure check can be
+repeated at 3, 5, and 10
+minutes as changes are
+often not apparent after
+1 minute of standing
+in practice. In cases
+of hyperadrenergic
+POTS, patients will
+have orthostatic
+hypertension (increase
+in systolic blood
+pressure ≥10 mmHg
+after standing for 10
+minutes).
+»CBC: normal
+Order CBC to exclude
+anemia as a potential
+cause of orthostatic
+tachycardia.
+»thyroid function
+tests: normal
+Order thyroid function
+tests (thyroid-
+stimulating hormone,
+free thyroxine, free
+triiodothyronine)
+to exclude
+hyperthyroidism as a
+differential diagnosis.
+»electrolytes: normal
+Order electrolytes to
+rule out other causes of
+a patient’s presentation,
+such as adrenal
+insufficiency.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Inappropriate sinus tachycardia
+History Exam 1st Test Other tests
+exaggerated heart
+response to exercise,
+without an identifiable
+etiology for the
+tachycardia such as
+pregnancy, anemia,
+or hyperthyroidism;
+commonly seen in
+young women
+normal except for a fast
+and regular pulse >100
+bpm
+»ECG: normal except
+for a resting rate of
+>100 bpm
+»pregnancy test:
+negative
+»thyroid stimulating
+hormone: normal
+»CBC: normal
+Idiopathic ventricular tachycardia
+History Exam 1st Test Other tests
+paroxysmal
+palpitations; often
+seen in the setting of
+catecholamine excess
+such as vigorous
+exercise; can be
+associated with near-
+syncope; typically
+no family history of
+arrhythmia
+typically normal except
+during palpitations
+when the patient
+may have salvos of
+nonsustained VT that
+manifest as a rapid
+regular pulse
+»ECG (at baseline):
+normal
+»event monitor or
+ECG in arrhythmia:
+wide complex
+tachycardia; when
+due to right ventricular
+outflow tract VT it has a
+left bundle branch block
+(LBBB)/inferior axis
+morphology, when due
+to left ventricular VT it
+has an LBBB or right
+bundle branch block
+(RBBB) with inferior
+axis; left ventricular VT
+has a relatively narrow
+RBBB typically with a
+superior axis
+»echocardiogram:
+normal
+»serum electrolytes:
+variable; electrolyte
+abnormalities
+(particularly
+hypokalemia and
+hypomagnesemia)
+often incite and/or
+contribute to VT;
+hypokalemia and
+hypomagnesemia
+frequently associated
+with torsades de
+pointes (polymorphic
+VT with a characteristic
+twisting morphology
+occurring in the
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Evaluation of palpitations Diagnosis
+Uncommon
+Idiopathic ventricular tachycardia
+History Exam 1st Test Other tests
+setting of QT-interval
+prolongation)
+Long QT syndrome
+History Exam 1st Test Other tests
+palpitations, often
+associated with
+syncope, can be
+triggered by exercise,
+fever, or emotional
+stress; drug history
+includes QT-prolonging
+drugs such as
+fluoroquinolone
+antibiotics or certain
+antipsychotics
+typically normal »baseline ECG
+without symptoms:
+QT duration >450 ms
+in men and >470 ms in
+women with associated
+T-wave abnormalities
+Typical ECG.
+Long QT syndrome
+From the collection
+of Dr C. Pickett
+»ECG during
+tachycardia or event
+monitor: nonsustained
+polymorphic VT
+»echocardiogram:
+normal
+»serum electrolytes:
+variable; electrolyte
+abnormalities
+(particularly
+hypokalemia and
+hypomagnesemia)
+often incite and/or
+contribute to VT;
+hypokalemia and
+hypomagnesemia
+frequently associated
+with torsades de
+pointes (polymorphic
+VT with a characteristic
+twisting morphology
+occurring in the
+setting of QT-interval
+prolongation)
+Brugada syndrome
+History Exam 1st Test Other tests
+patients can present
+between ages 22
+and 65 years with
+palpitations due
+to episodes of
+nonsustained VT or
+ventricular fibrillation
+(VF); often associated
+with syncope
+typically normal »ECG: type 1 Brugada
+pattern: coved ST-
+segment elevation
+(J-point elevation
+with a gradual down-
+sloping ST-segment)
+≥2 mm with a negative
+T-wave in the right
+precordial leads.
+Type 2 or 3 Brugada
+pattern: saddleback ST-
+segment configuration
+»provocative drug
+testing with sodium
+channel blockade:
+development of type
+1 Brugada pattern
+on ECG: coved ST-
+segment elevation (J-
+point elevation with a
+gradual down-sloping
+ST-segment) ≥2 mm
+with a negative T-wave
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+Uncommon
+Brugada syndrome
+History Exam 1st Test Other tests
+with variable levels of
+ST-segment elevation
+Typical ECG.
+Brugada
+syndrome ECG
+From the collection
+of Dr C. Pickett
+»echocardiogram:
+normal; mild structural
+abnormalities in the
+right ventricle or right
+ventricular outflow tract
+in the right precordial
+leads
+Due to an associated
+risk of inducing
+life-threatening
+ventricular arrhythmias,
+provocative drug
+testing should only
+be performed by
+experts under optimal
+circumstances.
+Sodium-channel
+blocker test is not
+recommended in
+patients with a prior
+type I Brugada pattern.
+»genetic testing:
+may be positive for
+known pathogenic
+mutation associated
+with Brugada syndrome
+(e.g., SCN5A)
+The presence of a
+susceptible gene
+mutation is not
+diagnostic of BrS. This
+is in part due to only
+50% penetrance of
+genetic variants.
+Clinical presentation
+remains central to
+diagnosing Brugada
+syndrome.
+Hypertrophic cardiomyopathy
+History Exam 1st Test Other tests
+family history
+of hypertrophic
+cardiomyopathy
+harsh crescendo-
+decrescendo murmur
+heard best in the right
+»baseline ECG
+without symptoms:
+deep septal Q waves
+»ECG (if tachycardic)
+or event monitor:
+premature ventricular
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Evaluation of palpitations Diagnosis
+Uncommon
+Hypertrophic cardiomyopathy
+History Exam 1st Test Other tests
+or sudden cardiac
+death; symptoms
+are associated with
+dyspnea on exertion,
+near-syncope, and
+syncope, most often
+due to atrial fibrillation,
+but also VT
+upper sternal border
+that gets louder with
+Valsalva maneuver,
+going from squatting
+to standing, or after a
+premature ventricular
+contraction; signs and
+symptoms of heart
+failure can be present,
+but typically not until
+later in the disease
+course
+in I, VL, and V4
+through V6; suggest
+marked left ventricular
+hypertrophy due to
+hypertrophic obstructive
+cardiomyopathy
+Typical ECG.
+Hypertrophic
+cardiomyopathy
+From the collection
+of Dr C. Pickett
+contractions;
+nonsustained
+VT; sustained VT
+(uncommon)
+»echocardiogram:
+left ventricular
+hypertrophy with
+intracavitary pressure
+gradient, systolic
+anterior motion of the
+anterior mitral valve
+leaflet
+»serum electrolytes:
+variable; electrolyte
+abnormalities
+(particularly
+hypokalemia and
+hypomagnesemia)
+often incite and/or
+contribute to VT;
+hypokalemia and
+hypomagnesemia
+frequently associated
+with torsades de
+pointes (polymorphic
+VT with a characteristic
+twisting morphology
+occurring in the
+setting of QT-interval
+prolongation)
+VT in the setting of other structural heart disease
+History Exam 1st Test Other tests
+history of coronary
+heart disease with
+myocardial infarction,
+repaired congenital
+heart disease, mitral
+valve prolapse and/or
+regurgitation
+signs of
+cardiomyopathy and/or
+congestive heart failure;
+diffuse and/or laterally
+displaced apical
+impulse consistent
+with left ventricular
+enlargement; gallop
+rhythm (S3); signs of
+atherosclerosis such as
+arterial bruits
+»baseline ECG
+without symptoms:
+old Q-wave infarction
+»ECG (if tachycardic)
+or event monitor: VT
+or ventricular ectopy
+with a QRS morphology
+consistent with a focus
+from a prior infarction,
+that is, QRS complexes
+with a right bundle/
+superior axis in a
+patient with a prior
+inferior wall infarction
+»echocardiogram:
+depressed left
+ventricular ejection
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Evaluation of palpitations Diagnosis
+DIAGNOSIS
+Uncommon
+VT in the setting of other structural heart disease
+History Exam 1st Test Other tests
+fraction either
+with regional wall
+motion abnormalities
+suggestive of
+infarction or diffuse
+hypokinesis in the
+case of noncoronary
+cardiomyopathy
+»serum electrolytes:
+variable; electrolyte
+abnormalities
+(particularly
+hypokalemia and
+hypomagnesemia)
+often incite and/or
+contribute to VT;
+hypokalemia and
+hypomagnesemia
+frequently associated
+with torsades de
+pointes (polymorphic
+VT with a characteristic
+twisting morphology
+occurring in the
+setting of QT-interval
+prolongation)
+◊ Pheochromocytoma
+History Exam 1st Test Other tests
+headaches, flushing,
+diaphoresis, resistant
+hypertension, family
+history of panic attack-
+like symptoms (but
+episodic rather than
+situational)
+hypertension, sinus
+tachycardia
+»24-hour urine
+collection for
+catecholamines,
+metanephrines,
+normetanephrines,
+and creatinine:
+elevated
+»serum-free
+metanephrines and
+normetanephrines:
+elevated
+»plasma
+catecholamines: may
+be elevated
+»ECG: normal or
+tachyarrhythmia
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Evaluation of palpitations References
+Key articles
+• Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS guideline for the diagnosis
+and management of atrial fibrillation: a report of the American College of Cardiology/American Heart
+Association Joint Committee on Clinical Practice Guidelines. Circulation. 2024 Jan 2;149(1):e1-e156. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001193?rfr_dat=cr_pub+
++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract
+• Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of
+adult patients with supraventricular tachycardia: a report of the American College of Cardiology/
+American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm
+Society. Circulation. 2016 Apr 5;133(14):e506-74.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIR.0000000000000311?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200pubmed)   Abstract
+• Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management
+of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of
+the American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. Circulation. 2018 Sep 25;138(13):e272-391.  Full text
+(https://www.ahajournals.org/doi/10.1161/CIR.0000000000000549)   Abstract
+• National Institute for Health and Care Excellence. Atrial fibrillation: diagnosis and management. Jun
+2021 [internet publication].  Full text (https://www.nice.org.uk/guidance/NG196)
+References
+1. Zimetbaum P, Josephson ME. Evaluation of patients with palpitations. N Engl J Med.
+1998 May 7;338(19):1369-73 Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9571258?
+tool=bestpractice.bmj.com)
+2. Mellor GJ, Behr ER. Cardiac channelopathies: diagnosis and contemporary management. Heart. 2021
+Jun 11;107(13):1092-9.
+3. Wilken J. Evidence-based recommendations for the evaluation of palpitations in the primary
+care setting. Med Clin North Am. 2016 Sep;100(5):981-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27542418?tool=bestpractice.bmj.com)
+4. Mayou R, Bryant B, Forfar C, et al. Non-cardiac chest pain and benign palpitations in the cardiac clinic.
+Br Heart J. 1994 Dec;72(6):548-53.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1025641)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7857738?tool=bestpractice.bmj.com)
+5. Jonsbu E, Dammen T, Morken G, et al. Patients with noncardiac chest pain and benign
+palpitations referred for cardiac outpatient investigation: a 6-month follow-up. Gen Hosp
+Psychiatry. 2010 Jul-Aug;32(4):406-12. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20633745?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Evaluation of palpitations References
+REFERENCES
+6. Raviele A, Giada F, Bergfeldt L, et al. Management of patients with palpitations: a position
+paper from the European Heart Rhythm Association. Europace. 2011 Jul;13(7):920-34.  Full
+text (https://academic.oup.com/europace/article/13/7/920/447426?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21697315?tool=bestpractice.bmj.com)
+7. Barsky AJ, Cleary PD, Coeytaux RR, et al. Psychiatric disorders in medical outpatients complaining
+of palpitations. J Gen Intern Med. 1994 Jun;9(6):306-13. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8077994?tool=bestpractice.bmj.com)
+8. Gillespie HS, Lin CC, Prutkin JM. Arrhythmias in structural heart disease. Curr Cardiol Rep. 2014
+Aug;16(8):510. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24950672?tool=bestpractice.bmj.com)
+9. Gale CP, Camm AJ. Assessment of palpitations. BMJ. 2016 Jan 6;352:h5649.
+10. Barsky AJ, Cleary PD, Sarnie MK, et al. Panic disorder, palpitations, and the awareness of
+cardiac activity. J Nerv Ment Dis. 1994 Feb;182(2):63-71. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8308534?tool=bestpractice.bmj.com)
+11. Barsky AJ, Cleary PD, Coeytaux RR, et al. The clinical course of palpitations in medical
+outpatients. Arch Intern Med. 1995 Sep 11;155(16):1782-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7654112?tool=bestpractice.bmj.com)
+12. Weber BE, Kapoor WN. Evaluation and outcomes of patients with palpitations. Am J
+Med. 1996 Feb;100(2):138-48. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8629647?
+tool=bestpractice.bmj.com)
+13. Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS guideline for the
+diagnosis and management of atrial fibrillation: a report of the American College of Cardiology/
+American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2024 Jan
+2;149(1):e1-e156.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001193?
+rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38033089?tool=bestpractice.bmj.com)
+14. Brugada J, Katritsis DG, Arbelo E, et al. 2019 ESC guidelines for the management of patients with
+supraventricular tachycardia The Task Force for the management of patients with supraventricular
+tachycardia of the European Society of Cardiology (ESC). Eur Heart J. 2020 Feb 1;41(5):655-720. 
+Full text (https://academic.oup.com/eurheartj/article/41/5/655/5556821)
+15. Riley AB, Manning WJ. Atrial fibrillation: an epidemic in the elderly. Expert Rev Cardiovasc
+Ther. 2011 Aug;9(8):1081-90. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21878052?
+tool=bestpractice.bmj.com)
+16. Samim D, Choffat D, Vollenweider P, et al. Prevalence of atrial fibrillation : the Swiss population-
+based CoLaus|PsyCoLaus study. Herz. 2023 Feb;48(1):48-54.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC9892084)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34902049?
+tool=bestpractice.bmj.com)
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Evaluation of palpitations References
+17. Go AS. The epidemiology of atrial fibrillation in elderly persons: the tip of the iceberg. Am J Geriatr
+Cardiol. 2005 Mar-Apr;14(2):56-61. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15785146?
+tool=bestpractice.bmj.com)
+18. Marott JL, Skielboe AK, Dixen U, et al. Increasing population height and risk of incident atrial
+fibrillation: the Copenhagen City Heart Study. Eur Heart J. 2018 Dec 1;39(45):4012-9.  Full
+text (https://www.doi.org/10.1093/eurheartj/ehy367)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29961878?tool=bestpractice.bmj.com)
+19. Crump C, Sundquist J, Winkleby MA, et al. Height, weight, and aerobic fitness level in relation
+to the risk of atrial fibrillation. Am J Epidemiol. 2018 Mar 1;187(3):417-26.  Full text (https://
+www.doi.org/10.1093/aje/kwx255)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28641376?
+tool=bestpractice.bmj.com)
+20. Turagam MK, Velagapudi P, Kocheril AG. Atrial fibrillation in athletes. Am J Cardiol.
+2012 Jan 15;109(2):296-302. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22019138?
+tool=bestpractice.bmj.com)
+21. Parisi EJ, Chung EH. Palpitations in athletes: diagnosis, workup and treatment. Heart. 2023
+Aug 10 [Epub ahead of print]. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37562948?
+tool=bestpractice.bmj.com)
+22. Goyal R, Zivin A, Souza J, et al. Comparison of the ages of tachycardia onset in patients with
+atrioventricular nodal reentrant tachycardia and accessory pathway-mediated tachycardia.
+Am Heart J. 1996 Oct;132(4):765-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8831363?
+tool=bestpractice.bmj.com)
+23. Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of
+adult patients with supraventricular tachycardia: a report of the American College of Cardiology/
+American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm
+Society. Circulation. 2016 Apr 5;133(14):e506-74.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIR.0000000000000311?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26399663?
+tool=bestpractice.bmj.com)
+24. Lu CW, Wu MH, Chen HC, et al. Epidemiological profile of Wolff-Parkinson-White syndrome in a
+general population younger than 50 years of age in an era of radiofrequency catheter ablation.
+Int J Cardiol. 2014 Jul 1;174(3):530-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24798784?
+tool=bestpractice.bmj.com)
+25. Wolfe RR, Driscoll DJ, Gersony WM, et al. Arrhythmias in patients with valvar aortic stenosis,
+valvar pulmonary stenosis, and ventricular septal defect: results of 24-hour ECG monitoring.
+Circulation. 1993 Feb;87(2 Suppl):I89-101. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8425327?
+tool=bestpractice.bmj.com)
+26. Pedersen OD, Bagger H, Køber L, et al. Impact of congestive heart failure and left ventricular
+systolic function on the prognostic significance of atrial fibrillation and atrial flutter following acute
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Evaluation of palpitations References
+REFERENCES
+myocardial infarction. Int J Cardiol. 2005 Apr 8;100(1):65-71. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15820287?tool=bestpractice.bmj.com)
+27. Diamant MJ, Andrade JG, Virani SA, et al. Heart failure and atrial flutter: a systematic review
+of current knowledge and practices. ESC Heart Fail. 2021 Dec;8(6):4484-96.  Full text (https://
+onlinelibrary.wiley.com/doi/10.1002/ehf2.13526)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34505352?tool=bestpractice.bmj.com)
+28. Ebert M, Richter S, Dinov B, et al. Evaluation and management of ventricular tachycardia in
+patients with dilated cardiomyopathy. Heart Rhythm. 2019 Apr;16(4):624-31. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30935495?tool=bestpractice.bmj.com)
+29. Lukas Laws J, Lancaster MC, Ben Shoemaker M, et al. Arrhythmias as presentation of genetic
+cardiomyopathy. Circ Res. 2022 May 27;130(11):1698-722.  Full text (https://www.ahajournals.org/
+doi/10.1161/CIRCRESAHA.122.319835)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35617362?
+tool=bestpractice.bmj.com)
+30. Ommen SR, Mital S, Burke MA, et al. 2020 AHA/ACC guideline for the diagnosis and treatment of
+patients with hypertrophic cardiomyopathy: executive summary: a report of the American College of
+Cardiology/American Heart Association Joint Committee on clinical practice guidelines. J Am Coll
+Cardiol. 2020 Dec 22;76(25):3022-55.  Full text (https://www.sciencedirect.com/science/article/pii/
+S0735109720364123?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33229115?
+tool=bestpractice.bmj.com)
+31. Sen-Chowdhry S, Lowe MD, Sporton SC, et al. Arrhythmogenic right ventricular cardiomyopathy:
+Clinical presentation, diagnosis, and management. Am J Med. 2004 Nov 1;117(9):685-95. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15501207?tool=bestpractice.bmj.com)
+32. Haugaa KH, Haland TF, Leren IS, et al. Arrhythmogenic right ventricular cardiomyopathy, clinical
+manifestations, and diagnosis. Europace. 2016 Jul;18(7):965-72.  Full text (https://academic.oup.com/
+europace/article/18/7/965/2467251)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26498164?
+tool=bestpractice.bmj.com)
+33. Josephson ME, Wellens HJ. Differential diagnosis of supraventricular tachycardia. Cardiol Clin. 1990
+Aug;8(3):411-42. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2205383?tool=bestpractice.bmj.com)
+34. La Vecchia L, Ometto R, Centofante P, et al. Arrhythmic profile, ventricular function, and
+histomorphometric findings in patients with idiopathic ventricular tachycardia and mitral valve
+prolapse: clinical and prognostic evaluation. Clin Cardiol. 1998 Oct;21(10):731-5. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9789693?tool=bestpractice.bmj.com)
+35. Hodzic E. Assessment of rhythm disorders in classical and nonclassical mitral valve prolapse. Med
+Arch. 2018 Feb;72(1):9-12.  Full text (https://www.ejmanager.com/mnstemps/10/10-1515933020.pdf?
+t=1722017597)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29416210?tool=bestpractice.bmj.com)
+36. Kubala M, Essayagh B, Michelena HI, et al. Arrhythmic mitral valve prolapse in 2023: evidence-
+based update. Front Cardiovasc Med. 2023 Apr 18:10:1130174.  Full text (https://www.frontiersin.org/
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Evaluation of palpitations References
+journals/cardiovascular-medicine/articles/10.3389/fcvm.2023.1130174/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37144062?tool=bestpractice.bmj.com)
+37. Possner M, Gensini FJ, Mauchley DC, et al. Ebstein's anomaly of the tricuspid valve: an overview
+of pathology and management. Curr Cardiol Rep. 2020 Oct 9;22(12):157. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33037480?tool=bestpractice.bmj.com)
+38. Gatzoulis MA, Balaji S, Webber SA, et al. Risk factors for arrhythmia and sudden cardiac death late
+after repair of tetralogy of Fallot: a multicentre study. Lancet. 2000 Sep 16;356(9234):975-81. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/11041398?tool=bestpractice.bmj.com)
+39. Moe TG, Abrich VA, Rhee EK. Atrial fibrillation in patients with congenital heart disease. J Atr
+Fibrillation. 2017 Jun 30;10(1):1612.  Full text (http://www.jafib.com/published.php?type=full&id=1612) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29250225?tool=bestpractice.bmj.com)
+40. Imazio M, Lazaros G, Picardi E, et al. Incidence and prognostic significance of new onset
+atrial fibrillation/flutter in acute pericarditis. Heart. 2015 Sep;101(18):1463-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25926597?tool=bestpractice.bmj.com)
+41. Hassanabad AF, Deniset JF, Fedak PWM. Pericardial inflammatory mediators that can drive
+postoperative atrial fibrillation in cardiac surgery patients. Can J Cardiol. 2023 Aug;39(8):1090-102.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37301368?tool=bestpractice.bmj.com)
+42. Neumann HPH, Young WF Jr, Eng C. Pheochromocytoma and paraganglioma. N Engl J
+Med. 2019 Aug 8;381(6):552-65. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31390501?
+tool=bestpractice.bmj.com)
+43. Csengeri D, Sprünker NA, Di Castelnuovo A, et al. Alcohol consumption, cardiac biomarkers, and
+risk of atrial fibrillation and adverse outcomes. Eur Heart J. 2021 Mar 21;42(12):1170-7.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7982286)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33438022?tool=bestpractice.bmj.com)
+44. Tisdale JE, Chung MK, Campbell KB, et al. Drug-induced arrhythmias: a scientific statement from
+the American Heart Association. Circulation. 2020 Oct 13;142(15):e214-33.  Full text (https://
+www.ahajournals.org/doi/full/10.1161/CIR.0000000000000905)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32929996?tool=bestpractice.bmj.com)
+45. Medicines and Healthcare products Regulatory Agency. Omega-3-acid ethyl ester medicines (Omacor/
+Teromeg 1000mg capsules): dose-dependent increased risk of atrial fibrillation in patients with
+established cardiovascular diseases or cardiovascular risk factors. Jan 2024 [internet publication]. 
+Full text (https://www.gov.uk/drug-safety-update/omega-3-acid-ethyl-ester-medicines-omacor-slash-
+teromeg-1000mg-capsules-dose-dependent-increased-risk-of-atrial-fibrillation-in-patients-with-
+established-cardiovascular-diseases-or-cardiovascular-risk-factors)
+46. Lombardi M, Carbone S, Del Buono MG, et al. Omega-3 fatty acids supplementation and risk of
+atrial fibrillation: an updated meta-analysis of randomized controlled trials. Eur Heart J Cardiovasc
+Pharmacother. 2021 Jul 23;7(4):e69-70.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC8302253)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Evaluation of palpitations References
+REFERENCES
+47. Gencer B, Djousse L, Al-Ramady OT, et al. Effect of long-term marine ɷ-3  fatty acids supplementation
+on the risk of atrial fibrillation in randomized controlled trials of cardiovascular outcomes: a
+systematic review and meta-analysis. Circulation. 2021 Dec 21;144(25):1981-90.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9109217)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34612056?tool=bestpractice.bmj.com)
+48. Kim EJ, Hoffmann TJ, Nah G, et al. Coffee consumption and incident tachyarrhythmias:
+reported behavior, mendelian randomization, and their interactions. JAMA Intern Med. 2021
+Sep 1;181(9):1185-93.  Full text (https://jamanetwork.com/journals/jamainternalmedicine/
+fullarticle/2782015)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34279564?
+tool=bestpractice.bmj.com)
+49. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management
+of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report
+of the American College of Cardiology/American Heart Association Task Force on Clinical
+Practice Guidelines and the Heart Rhythm Society. Circulation. 2018 Sep 25;138(13):e272-391. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000549)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29084731?tool=bestpractice.bmj.com)
+50. Varma N, Josephson ME. Therapy of "idiopathic" ventricular tachycardia. J Cardiovasc
+Electrophysiol. 1997 Jan;8(1):104-16. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9116961?
+tool=bestpractice.bmj.com)
+51. Coumel P. Clinical approach to paroxysmal atrial fibrillation. Clin Cardiol. 1990 Mar;13(3):209-12.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2323120?tool=bestpractice.bmj.com)
+52. Vikman S, Lindgren K, Mäkikallio TH, et al. Heart rate turbulence after atrial premature beats before
+spontaneous onset of atrial fibrillation. J Am Coll Cardiol. 2005 Jan 18;45(2):278-84. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15653028?tool=bestpractice.bmj.com)
+53. Bettoni M, Zimmermann M. Autonomic tone variations before the onset of paroxysmal atrial fibrillation.
+Circulation. 2002 Jun 11;105(23):2753-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12057990?
+tool=bestpractice.bmj.com)
+54. Mehra R, Benjamin EJ, Shahar E, et al. Association of nocturnal arrhythmias with sleep-disordered
+breathing: the Sleep Heart Health Study. Am J Respir Crit Care Med. 2006 Apr 15;173(8):910-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16424443?tool=bestpractice.bmj.com)
+55. Schwartz PJ, Priori SG, Spazzolini C, et al. Genotype-phenotype correlation in the long-QT syndrome:
+gene-specific triggers for life-threatening arrhythmias. Circulation. 2001 Jan 2;103(1):89-95. 
+Full text (http://circ.ahajournals.org/content/103/1/89.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11136691?tool=bestpractice.bmj.com)
+56. Stimpel M, Wambach G. [Plasma levels of atrial natriuretic peptide (ANP) in patients with paroxysmal
+supraventricular tachycardia and concomitant polyuria (urina spastica)]. [in ger]. Z Kardiol. 1988;77
+Suppl 2:124-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2970168?tool=bestpractice.bmj.com)
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Evaluation of palpitations References
+57. Oliver JR, Twidale N, Lakin C, et al. Plasma atrial natriuretic polypeptide concentrations during and
+after reversion of paroxysmal supraventricular tachycardias. Br Heart J. 1988 Apr;59(4):458-62.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2967088?tool=bestpractice.bmj.com)
+58. Brugada P, Gursoy S, Brugada J, et al. Investigation of palpitations. Lancet. 1993
+May 15;341(8855):1254-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8098401?
+tool=bestpractice.bmj.com)
+59. Thavendiranathan P, Bagai A, Khoo C, et al. Does this patient with palpitations have a cardiac
+arrhythmia? JAMA. 2009 Nov 18;302(19):2135-43. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19920238?tool=bestpractice.bmj.com)
+60. Hoefman E, Boer KR, van Weert HC, et al. Continuous event recorders did not affect anxiety or
+quality of life in patients with palpitations. J Clin Epidemiol. 2007 Oct;60(10):1060-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17884602?tool=bestpractice.bmj.com)
+61. Goldberger JJ, Cain ME, Hohnloser SH, et al. American Heart Association/American College
+of Cardiology Foundation/Heart Rhythm Society scientific statement on noninvasive risk
+stratification techniques for identifying patients at risk for sudden cardiac death: a scientific
+statement from the American Heart Association Council on Clinical Cardiology Committee on
+Electrocardiography and Arrhythmias and Council on Epidemiology and Prevention. Circulation.
+2008 Sep 30;118(14):1497-1518.  Full text (http://circ.ahajournals.org/cgi/content/full/118/14/1497)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18833586?tool=bestpractice.bmj.com)
+62. National Institute for Health and Care Excellence. Atrial fibrillation: diagnosis and management. Jun
+2021 [internet publication].  Full text (https://www.nice.org.uk/guidance/NG196)
+63. Agency for Healthcare Research and Quality. Remote cardiac monitoring. December 2007 [internet
+publication].  Full text (http://www.cms.hhs.gov/determinationprocess/downloads/id51TA.pdf)
+64. Kinlay S, Leitch JW, Neil A, et al. Cardiac event recorders yield more diagnoses and are more cost-
+effective than 48-hour Holter monitoring in patients with palpitations: a controlled clinical trial. Ann
+Intern Med. 1996 Jan 1;124(1 Pt 1):16-20. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7503472?
+tool=bestpractice.bmj.com)
+65. Fogel RI, Evans JJ, Prystowsky EN. Utility and cost of event recorders in the diagnosis of
+palpitations, presyncope, and syncope. Am J Cardiol. 1997 Jan 15;79(2):207-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9193028?tool=bestpractice.bmj.com)
+66. Zimetbaum PJ, Kim KY, Josephson ME, et al. Diagnostic yield and optimal duration of continuous-
+loop event monitoring for the diagnosis of palpitations: a cost-effectiveness analysis. Ann Intern
+Med. 1998 Jun 1;128(11):890-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9634426?
+tool=bestpractice.bmj.com)
+67. Rothman SA, Laughlin JC, Seltzer J, et al. The diagnosis of cardiac arrhythmias: a prospective multi-
+center randomized study comparing mobile cardiac outpatient telemetry versus standard loop event
+monitoring. J Cardiovasc Electrophysiol. 2007 Mar;18(3):241-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17318994?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Evaluation of palpitations References
+REFERENCES
+68. Svennberg E, Tjong F, Goette A, et al. How to use digital devices to detect and manage arrhythmias:
+an EHRA practical guide. Europace. 2022 Jul 15;24(6):979-1005.  Full text (https://academic.oup.com/
+europace/article/24/6/979/6561927)
+69. Narasimha D, Hanna N, Beck H, et al. Validation of a smartphone-based event recorder for
+arrhythmia detection. Pacing Clin Electrophysiol. 2018 Mar 1 [Epub ahead of print]. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29493801?tool=bestpractice.bmj.com)
+70. National Institute for Health and Care Excellence. Heart valve disease presenting in adults:
+investigation and management. Nov 2021 [internet publication].  Full text (https://www.nice.org.uk/
+guidance/ng208)
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Evaluation of palpitations Images
+Images
+Figure 1: Wolff-Parkinson-White syndrome
+From the collection of Dr C. Pickett
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Evaluation of palpitations Images
+IMAGES
+Figure 2: Long QT syndrome
+From the collection of Dr C. Pickett
+Figure 3: Hypertrophic cardiomyopathy
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Evaluation of palpitations Images
+From the collection of Dr C. Pickett
+Figure 4: Left ventricular hypertrophy and left atrial abnormality
+From the collection of Dr C. Pickett
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Evaluation of palpitations Images
+IMAGES
+Figure 5: Inferior Q waves due to prior MI
+From the collection of Dr C. Pickett
+Figure 6: Brugada syndrome ECG
+From the collection of Dr C. Pickett
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Evaluation of palpitations Images
+Figure 7: Atrioventricular nodal reentry tachycardia with pseudo-S waves
+From the collection of Dr C. Pickett
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Evaluation of palpitations Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 45 ===
+Evaluation of palpitations Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+45
+=== Page 46 ===
+Contributors:
+// Authors:
+Christopher Pickett, MD
+Associate Professor of Medicine
+Co-Director of Electrophysiology, Director, Clinical Cardiology, Pat and Jim Calhoun Cardiology Center,
+University of Connecticut Health Center, Farmington, CT
+DISCLOSURES: CP declares that he has no competing interests.
+Peter J. Zimetbaum, MD
+Professor of Medicine
+Associate Chief and Director, Clinical Cardiology, Beth Israel Deaconess Medical Center, Harvard Medical
+School, Boston, MA
+DISCLOSURES: PJZ declares that he has no competing interests.
+// Peer Reviewers:
+Brian Olshansky, MD
+Professor of Medicine
+University of Iowa Hospitals, Iowa City, IA
+DISCLOSURES: BO declares that he has no competing interests.
+Vias Markides, MB(Hons), BS(Hons), MD, FRCP
+Consultant Cardiologist and Chair
+Arrhythmias, Royal Brompton & Harefield NHS Trust, Hon. Senior Lecturer, Imperial College, London, UK
+DISCLOSURES: VM declares that he has no competing interests.

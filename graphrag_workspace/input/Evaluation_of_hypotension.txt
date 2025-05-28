@@ -1,0 +1,4430 @@
+# Evaluation of hypotension
+
+=== Page 1 ===
+Evaluation of
+hypotension
+Straight to the point of care
+Last updated: Jan 29, 2025
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Theory  5
+Etiology  5
+Emergencies  8
+Urgent considerations  8
+Diagnosis  14
+Approach  14
+Differentials overview  26
+Differentials  28
+Online resources  57
+Evidence tables  58
+References  62
+Images  72
+Disclaimer  76
+=== Page 3 ===
+Evaluation of hypotension Overview
+Summary
+Hypotension is any blood pressure (BP) that is below the normal expected for an individual in a given
+environment.
+There is no single numerical cutoff universally accepted as representing hypotension. For example, while
+systolic BP <90 mmHg may be considered hypotensive for someone with “normal BP” of 120 mmHg, many
+healthy young adults will have a resting BP at or potentially below this level and will not be considered
+hypotensive. As a result, it is difficult to estimate the prevalence.
+Background history and accompanying clinical findings should be considered, bearing in mind that many
+common illnesses present atypically in older adults, without characteristic symptoms such as pain.[1]
+Hypotension can be the first sign of a serious acute illness (such as myocardial infarction, sepsis, or
+gastrointestinal hemorrhage).[2]
+Once acute causes have been excluded, other chronic or recurring causes should then be investigated.
+Blood pressure measurement
+It is essential to use an appropriate cuff size for BP measurements. Using a cuff that is too small (under-
+cuffing) may cause overestimation of BP and may further mask a period of hypotension; while use of
+a cuff that is too large (over-cuffing) can lead to falsely low BP readings with subsequent unwarranted
+investigation.[3]
+If the patient is not hypotensive at the time of assessment, lying and standing BP recordings should be
+carried out in order to determine if orthostatic hypotension is present. The patient should rest supine for 5
+minutes before lying BP measurement.[4] A systolic BP drop of 20 mmHg, or a diastolic BP drop of 10 mmHg
+occurring within 3 minutes of orthostasis is considered significant.[5][6]
+Most automatic sphygmomanometers overestimate BP in patients with atrial fibrillation, because they record
+the highest systolic pressure rather than an average over several cardiac cycles. Palpate the patient’s pulse
+to exclude arrhythmia before using an automatic sphygmomanometer.[5]
+Pathophysiology
+BP is determined by cardiac output (the product of heart rate and stroke volume) and total systemic vascular
+resistance. Hypotension occurs when the cardiac output decreases and/or the systemic vascular resistance
+decreases. Hypotension is usually due to:
+• Decreased effective circulating volume (hypovolemia)
+• Impaired cardiac output due to heart pump dysfunction (cardiogenic)
+• Impaired cardiac output due to obstruction to cardiac filling (obstructive)
+• Impaired peripheral vasoconstriction/distributive change.
+In many cases, more than one mechanism is present (e.g., a patient with chronic heart failure who presents
+with a gastrointestinal bleed may have evidence of both hypovolemia and reduced cardiac output).
+Persistent hypotension can lead to shock, a state of reduced end-organ oxygenation owing to an imbalance
+between tissue oxygen demand and delivery.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Evaluation of hypotension Overview
+OVERVIEW
+Initial management considerations
+Liaison with nursing staff, with regard to maintenance of patient safety while investigations are underway,
+is prudent. In particular, patients who are hypotensive in the setting of sepsis may have an accompanying
+delirium increasing their risk of falls and injury.[7] [8] It is often difficult to exclude or confirm the presence
+of shock without close monitoring of vital signs, including BP, heart rate, and urinary output. Therefore,
+consideration should be given to the most appropriate setting required to monitor, nurse, and medically
+manage the hypotensive patient.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Evaluation of hypotension Theory
+Etiology
+The etiology of hypotension can be divided into 4 principal subtypes:
+• Hypovolemic
+• Cardiogenic
+• Obstructive
+• Impaired peripheral vasoconstriction and/or distributive.
+There may be a combination of causes for hypotension in any individual patient. For example, a patient
+with chronic liver disease who develops an upper gastrointestinal variceal bleed is likely to be at risk of
+hypotension because of hypovolemia and impaired peripheral vasoconstriction. In addition, a low blood
+pressure (BP) measurement may be part of a normal physiologic process (e.g., pregnancy).
+Hypovolemic
+Volume depletion causes a decrease in venous return to the heart, leading to a drop in cardiac output and,
+subsequently, a lower mean arterial pressure. Neural and hormonal compensatory mechanisms may initially
+maintain BP. If hypovolemia persists the patient develops orthostatic dizziness and tachycardia, followed by
+hypotension even when supine, and finally hypotensive shock.[9] [10] [11]
+Hypovolemic shock affects 30.8% of patients attending the emergency department with shock.[12]
+Hypotension secondary to hypovolemia could be due to:
+• Hemorrhage
+• overt hemorrhage (e.g., many cases of gastrointestinal bleeding, trauma)
+• concealed hemorrhage (e.g., aortic aneurysm rupture, retroperitoneal bleeding, ruptured ectopic
+pregnancy).
+• Nonhemorrhagic fluid depletion
+• gastrointestinal losses (e.g., diarrhea, vomiting)
+• renal causes (e.g., excess diuretic use, dialysis-induced hypotension)
+• skin losses (e.g., massive sweating, burns)
+• respiratory losses (e.g., draining pleural effusions)
+• third-space sequestration (e.g., ascites).
+Clinical signs of volume depletion are a result of the hemodynamic effects of the reduction in intravascular
+volume. Dehydration (loss of water) is associated with increased thirst, progressing when more severe to
+altered mental state and coma. Other signs of dehydration include dry mucous membranes and lack of
+axillary moisture. Dehydration and volume depletion are discrete entities, but may be present together at the
+same time.
+Cardiogenic
+Hypotension results from heart pump dysfunction (more commonly left-sided), causing a decrease in cardiac
+output in the setting of increased preload. The compensatory surges in catecholamines normally lead to
+increased systemic vascular resistance, maintaining BP.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Evaluation of hypotension Theory
+THEORY
+However, in some instances (especially acute coronary syndrome), systemic vascular resistance decreases
+and hypotension develops.[13]
+Causes include:
+• Acute coronary syndrome
+• Acute heart failure
+• Cardiac valvular lesions
+• Cardiac dysrhythmia.
+The hypotension associated with carotid sinus syndrome (cardio-inhibitory subtype) is also cardiogenic in
+origin. It occurs when a bradyarrhythmia is provoked by carotid sinus massage.
+Cardiogenic shock accounts for 14% of cases of shock presenting to the emergency department.[12]
+Obstructive
+Cardiac output can be reduced, and lead to hypotension even when cardiac pump function is normal. This
+can occur if there is obstruction to cardiac filling (e.g., with cardiac tamponade or tension pneumothorax)
+or obstruction to blood flow between the heart and lungs (e.g., with pulmonary embolism).[14] In such
+conditions, cardiac output falls despite systemic vascular resistance increases and normal volume status.
+Obstructive shock is uncommon, affecting 1% of patients attending the emergency department with
+shock.[12]
+Impaired peripheral vasoconstriction and distributive change
+Regulation of BP involves ongoing input from several systems, most importantly from circulating
+catecholamines and the alpha-1-adrenergic receptor system in arterioles. Hypotension in the presence of
+euvolemia and normal cardiac output can arise if the homeostatic mechanisms that maintain vasoconstriction
+are impaired.
+In some conditions (e.g., sepsis and anaphylaxis), impaired peripheral vasoconstriction is combined with loss
+of fluid to extravascular space (distributive change). Leakage of fluid from blood vessels to the extravascular
+space, due to increased vascular permeability, is brought about by the release of inflammatory cytokines.
+Causes of hypotension due to impaired peripheral vasoconstriction and/or distributive change include:
+• Sepsis
+• Anaphylaxis
+• Severe acute pancreatitis (distributive change due to a systemic inflammatory response)[15]
+• Disorders directly affecting functioning of the autonomic nervous system:
+• Chronic illnesses (e.g., diabetes mellitus, Parkinson disease and multisystem atrophy, primary
+autonomic failure, Addison disease, hypopituitarism, amyloidosis)
+• Acute illnesses (e.g., following acute stroke).
+• Accumulation of metabolites that influence the blood vessel function (e.g., chronic liver disease).
+• Medications (e.g., alpha blockers, nitrates).
+• Syncope: this is a term used to describe a transient loss of consciousness and postural tone resulting
+from global cerebral hypoperfusion with spontaneous and complete recovery, and no neurological
+sequelae. Neurally mediated syncope refers to a heterogenous group of conditions in which there is a
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Evaluation of hypotension Theory
+relatively sudden change in autonomic nervous system activity leading to a fall in BP, heart rate, and
+cerebral perfusion. It is typically preceded by prodromal symptoms of pallor, diaphoresis, nausea, and
+features of cerebral and retinal hypoperfusion, such as visual and auditory disturbances and cognitive
+slowing. Neurally mediated syncope incorporates vasovagal syncope, situational syncope (syncope
+occurring in specific situations; e.g., coughing, micturition, or with emotional stimuli), and carotid sinus
+syndrome.[6] [16]
+• Nutritional deficiency states that produce autonomic and peripheral neuropathy (e.g., thiamine
+deficiency, vitamin B12 deficiency).
+• Exercise-associated collapse in endurance athletes due to lower extremity pooling of blood when
+exercise ceases.[17]
+In a Danish cohort study of patients attending the emergency department with shock, 27.2% had distributive
+septic shock and 23.4% had distributive non-septic shock.[12]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Evaluation of hypotension Emergencies
+EMERGENCIES
+Urgent considerations
+(See  Differentials  for more details)
+Some of the conditions causing hypotension may present with shock, requiring urgent lifesaving treatment.
+Shock is the life-threatening failure of adequate oxygen delivery to the tissues, due to decreased blood
+supply or increased demand, resulting in decreased end-organ oxygenation. If left untreated, shock results in
+end-organ damage and death. Tissue hypoperfusion may occur without hypotension but, in clinical practice,
+shock is commonly diagnosed when both arterial hypotension and organ dysfunction are present.[18]
+Tachycardia, altered cognition or a reduced level of consciousness, diaphoresis, and oliguria are all pointers
+to the presence of shock.
+Airway, breathing, and circulation (ABC) measures are first priority in all critically ill patients. Stabilization of
+airway and breathing is a priority, followed by restoration of circulating volume and perfusion of peripheral
+tissues.
+Administration of supplemental oxygen with continuous pulse oximetry may be adequate to maintain oxygen
+saturation. In more severe cases, intubation and ventilation may be required. Start supplemental oxygen
+therapy through a reservoir mask with a flow rate of 15 L/min for critically ill patients, until reliable pulse
+oximetry readings are available. Further oxygen therapy should be guided by pulse oximetry, keeping oxygen
+saturation between 94% and 98%. Patients at risk of hypercapnia may need controlled oxygen therapy to
+maintain oxygen saturation between 88% and 92%.[19]
+Early and frequent monitoring of blood pressure is an important part of perfusion assessment, and an initial
+fluid bolus should be administered to patients with evidence of intravascular hypovolemia.
+All patients require an ECG and, in more severe cases, continuous cardiac monitoring may be indicated.
+Specific urgent measures are required in specific conditions, listed below.
+Hypovolemic shock
+Severe dehydration, due to nonhemorrhagic losses (e.g., severe diarrhea and vomiting):
+• Urgent ABC assessment and support is required. In most cases, intravenous isotonic saline is the
+initial fluid used.
+• Monitoring by clinical exam of volume status, BP and central venous pressure (CVP) measurement,
+combined with close monitoring of electrolytes and renal parameters are important.[9] Aggressive fluid
+administration is guided by achievement of normal CVP (8-12 cm H2O).
+• Particular care concerning the rate of fluid replacement is required in older adults and in patients with a
+history of cardiac failure.
+Hemorrhage (e.g., due to gastrointestinal bleed, retroperitoneal bleed, ruptured abdominal aortic aneurysm,
+ruptured ectopic pregnancy, trauma):
+• Urgent ABC assessment and support is required. If bleeding is severe, it is typically appropriate
+to mobilize a multidisciplinary team, including emergency medicine physicians, surgeons, and
+radiologists.
+• Intravenous saline is administered initially, and often continued following commencement of blood
+transfusion.
+• Blood transfusion is an immediate priority. In the setting of acute large hemorrhage, transfusion of
+2 to 4 units is often necessary. The presence of ongoing tachycardia, hypotension, and other signs
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Evaluation of hypotension Emergencies
+of shock, or lack of serum hemoglobin response to blood transfusion, are all markers of ongoing
+internal or occult hemorrhage. Clinical response, pulse, BP, CVP, renal output, complete blood count,
+coagulation, and electrolytes should be closely monitored. Results from one multicenter cohort study
+suggested that a systolic BP <110 mmHg is a marker of poor outcomes and higher mortality in blunt
+trauma patients.[20] Trauma specialists suggest aiming for controlled hypotension (systolic <90
+mmHg) in penetrating trauma.
+• Fresh frozen plasma or coagulation factor concentrates are often necessary when coagulopathy
+is known or suspected to be present (refer to local hospital guidelines).[21] [22] [23] Patients on
+therapeutic anticoagulation should have reversal of anticoagulation, in line with local hospital
+guidelines. This may include administration of intravenous vitamin K and prothrombin complex
+concentrate for reversal of anticoagulation with warfarin, protamine for reversal of anticoagulation with
+heparin, or specific reversal agents for direct oral anticoagulants where available.[24] This may be
+required following massive transfusion or in patients with upper gastrointestinal bleeding secondary to
+chronic liver disease.
+• Antifibrinolytics (such as tranexamic acid) should be considered in all patients as soon as possible
+with acute severe hemorrhage as they have been shown to increase survival. Among patients with
+postpartum or traumatic bleeding, immediate treatment with tranexamic acid was found to greatly
+increase the odds of survival, with the survival benefit decreasing by about 10% for every 15 minutes
+of treatment delay until 3 hours, after which there was no benefit.[25]
+• Definitive action to correct the source of hemorrhage is usually only possible when the patient's
+condition has been stabilized.
+• Upper or lower gastrointestinal endoscopies should follow initial efforts to stabilize the patient, if
+gastrointestinal hemorrhage is suspected.
+• In cases of trauma, intra-abdominal or retroperitoneal bleeding, computed tomography scanning,
+followed by laparotomy or other surgical intervention may be necessary.
+• In the cases of suspected ruptured ectopic pregnancy or bleeding aortic aneurysm, fluid and blood
+resuscitation is required, and the patient should be transferred immediately to the operating room.
+A bedside ultrasound is a reasonable and simple test, if it does not delay emergency transfer to the
+operating room for a hemodynamically unstable patient. The type of surgery performed will depend on
+the experience and judgment of the surgeon.
+Acute coronary syndrome or acute heart failure
+• Urgent ABC assessment and support is required.
+• Additional findings may include chest pain, dyspnea, dysrhythmias, elevated jugular venous pressure,
+and crackles at lung bases.
+• Initial management of a patient with an ST-elevation myocardial infarction (STEMI) involves
+administration of analgesia and antiplatelet agents. Supplemental oxygen is only needed if the patient
+is hypoxemic (peripheral oxygen saturations <94%).[19] Liberal oxygen therapy increases mortality in
+acutely ill adults without improving other outcomes.[26]
+• Definitive management of STEMI includes revascularization and anticoagulation, ideally by primary
+angioplasty.[27] Percutaneous coronary intervention should be performed within 90 minutes of first
+presentation, or thrombolysis administered within 12 hours of symptom onset.[27] 
+• In patients with evidence of an inferior myocardial infarction on ECG, an initial fluid bolus should be
+administered if there is evidence of low cardiac output and no pulmonary edema.
+• If acute coronary syndrome is associated with hypotension, it may indicate cardiac pump dysfunction
+(cardiogenic shock) and antihypertensive medications should be stopped.
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Evaluation of hypotension Emergencies
+EMERGENCIES
+• After the patient has been stabilized, acute heart failure may necessitate intensive care unit (ICU)
+transfer for possible ventilation, inotrope administration, and vasodilators such as nitroglycerin,
+nitroprusside, and diuretics.[28]
+Pulmonary embolism
+• Hypoxemia, combined with a systolic BP <90 mmHg, is suggestive of a massive embolism associated
+with a high mortality. Clinical symptoms and signs may include pleuritic chest pain, hemoptysis, signs
+of acute respiratory distress, cyanosis, and pleural rub. The absence of pleuritic pain or hemoptysis
+should not deter from investigating for a pulmonary embolism (PE) if hypotension is present. PE is
+common and frequently presents without classical symptoms.[29]
+• Urgent ABC assessment and support is required. Admission to ICU, oxygen if the patient is
+hypoxemic, intravenous fluids, vasopressors, and anticoagulation are necessary. However, aggressive
+fluid support should be avoided as this may worsen right ventricle overload/strain. Administration of
+intravenous thrombolysis may be required.
+• Urgent surgical embolectomy may be performed instead of thrombolytic therapy in people who have a
+high risk of bleeding or where there is insufficient time for effective systemic thrombolytic therapy and
+when thrombolysis fails.
+Dysrhythmia
+• Urgent ABC assessment and support is required.
+Tachycardia:
+• Patients with shock (whether with ventricular tachycardia or supraventricular tachycardia) need
+intravenous sedation, oxygen saturation monitoring, airway management, and immediate direct-
+current cardioversion in a coronary care unit or other equivalent setting. Current cardiovascular care
+guidelines should be followed.[30] [31]
+• Intravenous anti-arrhythmic agents (often by infusion) and close monitoring of electrolytes, particularly
+potassium and magnesium, will be necessary.
+• If any underlying cause is identified, this should be treated (e.g., thyrotoxicosis).
+• Subsequent use of anti-arrhythmic medication and consideration of cardioverter-defibrillator insertion
+will be guided by a specialist cardiologist.
+Bradycardia:
+• Patients who are hemodynamically unstable should be considered for immediate temporary
+pacing.[30]
+• This can be provided by external electrodes or by insertion of a transjugular venous wire in order to
+directly pace the right ventricle. Temporary pacing with external electrodes induces muscle contraction
+which can be painful. This should only be used as a temporary measure until transvenous pacing can
+be achieved.
+• Decisions about further management (e.g., need for permanent pacemaker insertion) can be made in
+conjunction with a cardiologist.
+• If any underlying cause is identified, this should be treated (e.g., hypothermia).
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Evaluation of hypotension Emergencies
+Tension pneumothorax
+• Clinical symptoms and signs include signs of acute respiratory distress, shift of the trachea from the
+midline, and absent breath sounds over one lung.
+• Supplemental oxygen and urgent chest decompression are required. A 14-gauge intravenous catheter
+or needle thoracostomy device should be inserted into the pleural space. Sites for decompression of
+a tension pneumothorax in adults are: second intercostal space, midclavicular line; fourth intercostal
+space, between the anterior axillary and midaxillary line; and fifth intercostal space, between the
+anterior axillary and midaxillary line.[32] A confirmatory hiss of expelled air should be noted. Urgent
+decompression should not be delayed by awaiting chest x-ray confirmation of the diagnosis.
+• Subsequent chest drain insertion and chest x-ray should be carried out.
+Cardiac tamponade
+• Clinical symptoms and signs include chest pain that is relieved on sitting forward, dyspnea,
+tachycardia, reduced heart sounds, distended jugular veins, and pulsus paradoxus.
+• Urgent resuscitation (ABC) with supplemental oxygen, and fluid or blood replacement if there is
+hypovolemia, is required.
+• Emergency drainage of a pericardial effusion that is causing tamponade is a life-saving procedure.
+• Pericardiocentesis can be performed without imaging guidance or with the aid of echocardiography or
+fluoroscopy, with or without hemodynamic monitoring.
+• Surgical drainage is indicated if there is a hemopericardium, purulent effusion, trauma or associated
+neoplastic disease.
+• A chest x-ray should be carried out in order to ensure a pneumothorax has not occurred as a result of
+the procedure.
+Septic shock
+Sepsis is a spectrum of disease, where there is a systemic and dysregulated host response to an
+infection.[36] Presentation ranges from subtle, nonspecific symptoms (e.g., feeling unwell with a normal
+temperature) to severe symptoms with evidence of multiorgan dysfunction and septic shock. Patients may
+have signs of tachycardia, tachypnea, hypotension, fever or hypothermia, poor capillary refill, mottled or
+ashen skin, cyanosis, newly altered mental state or reduced urine output.[37] Sepsis and septic shock are
+medical emergencies.
+Risk factors for sepsis include: age under 1 year, age over 75 years, frailty, impaired immunity (due to illness
+or drugs), recent surgery or other invasive procedures, any breach of skin integrity (e.g., cuts or burns),
+intravenous drug misuse, indwelling lines or catheters, and pregnancy or recent pregnancy.[37]
+Early recognition of sepsis is essential because early treatment improves outcomes.[37] [38][Evidence C]
+[Evidence C] There is an inverse linear correlation between systolic blood pressure and mortality in older
+people admitted to hospital with suspected infection.[39] However, detection can be challenging because
+the clinical presentation of sepsis can be subtle and nonspecific. A low threshold for suspecting sepsis is
+therefore important. The key to early recognition is the systematic identification of any patient who has signs
+or symptoms suggestive of infection and is at risk of deterioration due to organ dysfunction. Several risk
+stratification approaches have been proposed. All rely on a structured clinical assessment and recording
+of the patient’s vital signs.[37] [40][41][42] [43] It is important to check local guidance for information on
+which approach your institution recommends. The timeline of ensuing investigations and treatment should be
+guided by this early assessment.[42]
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Evaluation of hypotension Emergencies
+EMERGENCIES
+Treatment guidelines have been produced by the Surviving Sepsis Campaign and remain the most widely
+accepted standards.[38][44] Recommended treatment of patients with suspected sepsis is:
+• Measure lactate level, and remeasure lactate if initial lactate is elevated (>18 mg/dL [>2 mmol/L])
+• Obtain blood cultures before administering antibiotics
+• Administer broad-spectrum antibiotics (with methicillin-resistant  Staphylococcus aureus  [MRSA]
+coverage if there is high risk of MRSA) for adults with possible septic shock or a high likelihood for
+sepsis
+• For adults with sepsis or septic shock at high risk of fungal infection, empiric antifungal therapy should
+be administered
+• Begin rapid administration of crystalloid fluids for hypotension or lactate level ≥36 mg/dL (≥4 mmol/L).
+Consult local protocols.
+• Administer vasopressors peripherally if hypotensive during or after fluid resuscitation to maintain mean
+arterial pressure ≥65 mmHg, rather than delaying initiation until central venous access is secured.
+Norepinephrine (noradrenaline) is the vasopressor of choice
+• For adults with sepsis-induced hypoxemic respiratory failure, high flow nasal oxygen should be given.
+Ideally these interventions should all begin in the first hour after sepsis recognition.[44] For adults with
+possible sepsis without shock, if concern for infection persists, antibiotics should be given within three hours
+from the time when sepsis was first recognized.[38] For adults with a low likelihood of infection and without
+shock, antibiotics can be deferred while continuing to closely monitor the patient.[38]
+For more information on sepsis, please see Sepsis in adults  and Sepsis in children .
+Anaphylactic shock
+• There may be a history of exposure to new foods, drugs, blood transfusions, rashes, bites, or stings.
+• Features may include: bronchospasm, skin rash, inspiratory stridor, anxiety, nausea, and vomiting.
+• Intramuscular epinephrine (adrenaline), urgent airway control and supportive therapy should be
+provided immediately.[30][45] [46]
+• Intramuscular epinephrine can be repeated according to local protocols.
+• Antihistamines, inhaled beta-adrenergic agents, and intravenous corticosteroids may be considered in
+cardiac arrest due to anaphylaxis, although there is no evidence that supports the routine use of either
+steroids or antihistamines in initial resuscitation. Antihistamines and intravenous corticosteroids do not
+appear to alter the progress of anaphylaxis or prevent biphasic anaphylaxis.[30][46]
+• All potentially offending agents should be stopped.
+Neurogenic hypotension
+• Should be suspected when hypotension occurs after spinal anesthesia, or in a patient with recent
+trauma to the spine or brain. It is associated with bradycardia, neurological dysfunction, and the
+presence of warm, dry skin.
+• If spinal trauma is suspected, the patient's spine should be immobilized safely, using a spinal board
+and cervical spine immobilization. Referral to trauma team management is recommended in these
+patients.
+• Immediate management priorities are supportive care (including central line placement, volume
+resuscitation and vasopressors) and imaging of the brain or spinal cord if physical injury is suspected.
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Evaluation of hypotension Emergencies
+Addisonian (adrenal) crisis
+• The patient may or may not have a known history of adrenal insufficiency. Patients taking chronic
+glucocorticoids may have secondary adrenal suppression and are also at risk of adrenal crisis if the
+glucocorticoids are suddenly withdrawn. During times of illness, trauma, or infection, the dose of
+glucocorticoids needs to be increased.
+• Intravenous saline should be administered immediately, pending a definitive diagnosis. It is usually
+necessary to administer 1 liter rapidly, followed by a subsequent 2 to 4 liters over 24 hours.
+• Urgent administration of glucocorticoid, either with intravenous hydrocortisone or with intravenous
+dexamethasone sodium phosphate is usually necessary for 1 to 3 days.[47]
+• If hypoglycemia is present, administration of intravenous glucose or intravenous saline, supplemented
+with glucose may be necessary.
+• Once the patient is more stable, the underlying cause of the crises should be investigated further.
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Approach
+The initial decision that the clinician must address is whether or not the patient is in shock.
+Patients with hypotension may present in various clinical states, ranging from critically ill with shock, to
+asymptomatic. A normal blood pressure (BP) does not necessarily mean normal perfusion, as adequate
+pressure does not equate to adequate cardiac output.[48] Therefore, thorough examination for other signs of
+inadequate perfusion and monitoring is important.
+If BP is unrecordable and assessment finds the patient unresponsive with no palpable pulse, the
+clinician should proceed to resuscitation, if appropriate, in accordance with resuscitation guidelines.[30]
+  [Resuscitation Council (UK): 2021 resuscitation guidelines] (https://www.resus.org.uk/library/2021-
+resuscitation-guidelines)
+When there is no evidence of shock, the clinician must assess if the hypotension is an acute change
+from previous status and if there is clinical evidence of a precipitating event (e.g., myocardial infarction,
+gastrointestinal bleed, pulmonary embolism). If the presentation is chronic or recurring, a chronic illness that
+may explain the patient's hypotension should be identified.
+The patient's risk of falling should be assessed by a multi-disciplinary team (nursing, physical therapy,
+occupational therapy). This is particularly important in patients known to have a chronic illness predisposing
+them to hypotension, such as diabetes mellitus, Addison disease or parkinsonism.
+Summary of assessment in a hypotensive adult
+Created by The BMJ Group
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Evaluation of hypotension Diagnosis
+Blood pressure measurement
+Hypotension is defined as any BP that is below the normal expected for an individual in a given environment.
+There is no single numerical cutoff universally accepted as representing hypotension. It is essential to use
+an appropriate cuff size for BP measurements. Using a cuff that is too small (under-cuffing) may cause
+overestimation of BP and may further mask a period of hypotension; while use of a cuff that is too large
+(over-cuffing) can lead to falsely low BP readings with subsequent unwarranted investigation.[3] The patient
+should be seated comfortably for five minutes before BP measurement. The BP cuff should be at the level
+of the heart, with the lower edge of the cuff a few centimeters above the antecubital fossa. The patient’s arm
+and back should be supported, and legs unfolded.[5]
+It is helpful to know previous BP measurements for comparison.
+If the patient is not hypotensive at the time of assessment, lying and standing BP recordings should be
+carried out in order to determine if orthostatic hypotension is present. The patient should rest supine for 5
+minutes before lying BP measurement.[4] A systolic BP drop of 20 mmHg, or a diastolic BP drop of 10 mmHg
+occurring within 3 minutes of orthostasis is considered significant.[5] [6]
+Most automatic sphygmomanometers overestimate blood pressure in patients with atrial fibrillation, because
+they record the highest systolic pressure rather than an average over several cardiac cycles. Palpate the
+patient’s pulse to exclude arrhythmia before using an automatic sphygmomanometer.[5]
+Determining the presence of shock
+Patients are acutely ill and require urgent lifesaving intervention.
+History should be a brief assessment, concurrent with airway, breathing, and circulation (ABC) resuscitation
+and supportive care. Establishing if the patient is alert and oriented by asking some general questions to
+assess his or her cognition is a reasonable first step. If the patient is unresponsive and hypotensive, the
+presence of shock should be assumed until shown otherwise.
+Pointers toward specific causes include:
+• early pregnancy (may be ruptured ectopic pregnancy)
+• cardiac disease (may be cardiogenic shock due to various causes)
+• chronic liver disease (gastrointestinal bleed)
+• exposure to a known allergen (anaphylaxis)
+• risk factors for thrombosis (PE)
+• recent infection or known immunodeficiency (sepsis)
+• trauma (hemorrhage due to long bone fracture or other injuries)
+• presence of aortic aneurysm
+• endocrine disorder (Addisonian crisis, severe hypothyroidism).
+Accurate recording of vital signs (heart rate, BP, urine output, temperature) and determination of level of
+consciousness is essential.
+Tachycardia, altered cognition or reduced level of consciousness, diaphoresis, and oliguria are all pointers
+to the presence of shock. Indicators of regional perfusion (e.g., urine output, change in mental status, and
+respiratory rate) are important because early hemodynamic assessment based on vital signs and central
+venous pressure (CVP) may fail to detect persistent global hypoxia.[49]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+General inspection should include assessment of whether or not the patient appears clammy or whether
+peripheries are warm. If possible, a quick review of systems should be completed so that any precipitant
+present can be identified. Specific signs indicating the precipitating cause include:
+• Dry mucous membranes, lack of axillary moisture, decreased skin turgor, diarrhea, vomiting, rigorous
+exercise, exposure to prolonged or excessive heat (dehydration).
+• Acute hemorrhage may either be externally apparent (some types of trauma).
+• Suspected hemorrhage: gastrointestinal bleeding (abdominal tenderness, pallor, melena or fresh
+bleeding on rectal examination), ruptured abdominal aortic aneurysm (abdominal tenderness,
+presence of abdominal pulsatile mass, gradual loss of consciousness and weak peripheral pulses),
+retroperitoneal bleed (abdominal tenderness, possible bruising in the flanks), ruptured ectopic
+pregnancy (abdominal tenderness and guarding, decreased bowel sounds, cervical motion
+tenderness, and vaginal bleeding in the presence of a positive pregnancy test).
+• Diaphoretic appearance, pallor, tachycardia, bradycardia, or new abnormal pulse rhythm, distended
+jugular veins, dyspnea, crackles at lung bases, and new heart murmur may occur in cardiogenic shock
+(e.g., due to acute coronary syndrome or acute heart failure). Pulse may be abnormal in patients with
+acute cardiac dysrhythmias.
+• Distended jugular veins, reduced heart sounds and hypotension (Beck triad), along with increased
+respiratory rate, tachycardia, and pulsus paradoxus indicate cardiac tamponade.
+• Cyanosis, profuse diaphoresis, absent unilateral breath sounds, hyperresonance to percussion over
+one lung, tracheal shift from midline are classic signs of a tension pneumothorax.
+• Tachypnea, pleural rub on chest auscultation, low oxygen saturations, and possible calf tenderness
+may be present in the case of a large acute PE.
+• Elevated or low temperature, altered mental status, with or without focal signs of infection, occur
+with sepsis. However, sepsis should be considered if a patient presents with signs or symptoms that
+indicate possible infection, regardless of temperature.[37] Sepsis may present initially with nonspecific,
+nonlocalized symptoms, such as feeling unwell with normal temperature.
+• Bronchospasm, rash, angioedema of the tongue, lips, or eyelids, flushing; rhinitis, inspiratory stridor,
+syncope are signs in anaphylaxis.
+• Sudden collapse due to Addisonian crisis may be difficult to diagnose unless suspected from
+the history and typical patient features (e.g., hyperpigmentation). Adrenal suppression should be
+considered in patients taking chronic glucocorticoids who have not received stress doses of steroids
+during an intercurrent illness, or who have had chronic steroids abruptly withdrawn.
+• Severe hypothyroidism may progress to signs of cardiogenic shock and coma. There may be
+hypothermia, bradycardia, and signs of chronic hypothyroid disease including coarse hair, facial
+edema, eyelid edema, and thick tongue.
+Determining the type of shock
+Unless immediately clear, it may be necessary to determine the relative contributions of volume depletion,
+reduced cardiac pump function, and impaired peripheral vasoconstriction in order to select the most
+appropriate treatment interventions.
+First assess whether the patient responds to fluids. A good response indicates a decreased preload.
+Fluid responsiveness can be assessed by:
+• Passive leg raising:
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Evaluation of hypotension Diagnosis
+• The patient's legs are raised to 45 degrees. The transfer of blood from the legs and abdomen
+increases venous return. An increase in cardiac output of 10% or more is considered a positive
+test. A positive passive leg raise test has a sensitivity of 85% and a specificity of 91% for fluid
+challenge responsiveness.[50]
+• Bolus of intravenous fluids:
+• Helps determine if the patient has a decreased preload. Typically, an increase in stroke volume
+of 10% to 12%, with a fluid bolus of 300 mL to 500 mL of crystalloids, is taken as a positive
+response.[51]
+• Ultrasonography:
+• The SHoC (Sonography in Hypotension and Cardiac arrest) consensus statement outlines a
+recommended point-of-care ultrasound protocol to help identify a cause of hypotension. This
+includes: cardiac views to assess for pericardial fluid, ventricle size, shape and contractility,
+valve opening and signs of right heart strain; lung views to look for pulmonary edema,
+consolidation, pneumothorax and pleural fluid; and inferior vena cava (IVC) views to assess
+diameter and variation in size with respiration. A large diameter IVC with little variability indicates
+high right heart filling pressures, while a small diameter IVC with more respiratory variation
+indicates hypovolemia which could respond to fluid resuscitation.[52] However, a more recent
+randomized controlled trial did not identify a survival benefit for point-of-care ultrasonography for
+undifferentiated hypotension in the emergency department.[53] The most common diagnosis, in
+more than half of the patients, was occult sepsis.
+• Echocardiography:
+• Provides information on pulmonary artery pressure. More readily available and less invasive
+than pulmonary artery catheterization.
+• Pulmonary artery catheterization:
+• insertion allows for measurement of pulmonary artery occlusion pressure and is the test of
+choice for assessment and monitoring. A range of 12 to 18 mmHg is associated with adequate
+filling. It is variably affected by the presence of many conditions (e.g., mechanical ventilation,
+use of positive end expiratory pressure ventilation, increased abdominal pressure, decreased
+left ventricular function, or pericardial compliance). A pulmonary artery catheter is particularly
+useful in cardiogenic shock as it provides a route for direct measurement of cardiac output.
+Cardiogenic shock is suggested by an elevated pulmonary artery occlusion pressure with levels
+>18 mmHg to 20 mmHg and low preload states are usually associated with reduced pulmonary
+artery occlusion pressure levels of <10 mmHg.
+If the patient is fluid responsive, assess whether the arterial tone (afterload) is increased or decreased and
+whether pump function (cardiac contractility) is increased or decreased.
+Measures for assessment include:
+• Cardiac output (CO) can be calculated in various ways (e.g., by dilution and thermodilution using a
+pulmonary artery catheter, Doppler ultrasound, and measurements of pulse pressure).
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+• Pulse pressure is the difference between systolic and diastolic blood pressure. Pulse pressure is
+narrow when it is <25% of systolic pressure. Narrowed pulse pressure may indicate decreased cardiac
+output due to decreased circulating volume, acute heart failure or cardiac tamponade. In patients
+with a penetrating traumatic injury, narrowed pulse pressure is associated with the presence of
+hemorrhagic shock, need for massive transfusion and need for emergent surgery.[54]
+• The cardiac index is helpful in quantifying the relative contributions of impaired peripheral
+vasoconstriction and reduced cardiac pump function to shock. The cardiac index is the ratio of the CO
+to body surface area in meters squared with normal values ranging between 2.5 to 4.0 L/min/m². In
+cardiogenic shock, the cardiac index is typically <1.8 L/min/m² without inotropes, and <2.0 to 2.2 L/
+min/m² with inotropes.[55]
+• Systemic vascular resistance (SVR) can be calculated as a measure of afterload as follows: SVR =
+mean arterial pressure - CVP/CO × 80. The ratio to the body surface area is called the SVR Index and
+ranges from 1800 to 2800.
+There are various indicators of the level of tissue perfusion, including serum lactate levels. Levels ≥4 mmol/
+L are associated with greater mortality in shock. Base excess levels can be misleading and are generally not
+used.
+Acute hypotension without shock
+The history should include:
+• A general inquiry about the presence of fever/chills should be made (sepsis).
+• Cardiovascular history should concentrate on the presence or absence of chest pain (myocardial
+infarction, PE), palpitations (dysrhythmia), and dyspnea (acute heart failure, PE).
+• Respiratory history should concentrate on the presence of dyspnea (PE, acute heart failure),
+hemoptysis (PE, pneumonia/sepsis or acute heart failure), and pleuritic pain (PE, pneumonia/sepsis).
+• Abdominal/gastrointestinal history should focus on the presence of abdominal pain (peptic ulcer
+disease causing gastrointestinal bleed, abdominal aortic aneurysm rupture, or diverticular disease
+causing lower gastrointestinal bleed), hematemesis (upper gastrointestinal bleed), hematochezia, and
+symptoms of vomiting and diarrhea (gastroenteritis).
+• Genitourinary history should include a search for symptoms of urosepsis and hematuria.
+• Of note, many of the common precipitants of acute hypotension present atypically in older
+adults.[1] Examples of such illnesses include myocardial infarction, peptic ulcer disease, PE, and
+pneumothorax.[2] [29][56][57]
+• The presence of a previous stroke predisposing to hypotension is usually apparent from the patient's
+recent history as hypotension post-stroke typically occurs in the first few days following acute stroke.
+Past medical history
+• The patient's past medical history should be noted in order to determine if he or she has any condition
+that may predispose the patient to acute hypotension (e.g., known peptic ulcer disease, ischemic heart
+disease, chronic liver disease, diabetes mellitus, previous deep vein thrombosis or PE).
+• If the patient is dependent on renal replacement therapy (dialysis), the presence of dialysis-induced
+hypotension should be considered. A meta-analysis found that the incidence of dialysis-induced
+hypotension is 12%. Diabetes, large interdialytic weight gain, female sex and low body weight are risk
+factors for dialysis-induced hypotension.[58]
+Medication history
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Evaluation of hypotension Diagnosis
+• Medication-related hypotension is the most common cause of acute hypotension with no previous
+history of hypotensive events, particularly in older patients.[59] Cardiovascular medications, older
+antidepressants, and psychotropics are most commonly implicated.[60] Medication may be one of
+several interacting factors in older patients (e.g., antihypertensive and/or vasodilatory medication,
+dehydration, and illness-associated impaired vasoconstriction). Administration of intravenous
+acetaminophen can cause a drop in blood pressure in critically ill hospitalized patients.[61] Temporary
+suspension of implicated medication with gradual reintroduction is often required. In the longer term,
+removal of medication must be considered individually for each patient and must be weighed against
+the potential benefits of specific agents. Taking an accurate medication history is also important
+because some medications increase the risk of certain differentials (e.g., younger women taking the
+oral contraceptive pill have a higher risk for PE).
+• The presence of any previously recorded allergy or episodes of anaphylaxis should be noted.
+Social history
+• The patient's social history should include details of smoking (peptic ulcer disease, PE, myocardial
+infarction), alcohol use (peptic ulcer disease, chronic liver disease), or any illegal drug use (e.g.,
+cocaine usage predisposes to dysrhythmias and acute coronary syndromes).
+ECG demonstrating episode of paroxysmal atrial tachycardia
+in a 35-year-old with history of recent cocaine use
+From the collection of Sarah Stahmer, MD, Duke University
+Medical Center, Durham, NC; used with permission
+Examination
+• General inspection should include assessment of whether the patient appears comfortable at rest or
+appears to be distressed (e.g., tension pneumothorax). An elevated respiratory rate may point to the
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+presence of an acute cardiac or respiratory problem (e.g., acute heart failure), but can also be present
+if the patient is acidotic (e.g., sepsis).
+• Head and neck exams should note the presence of jaundice (chronic liver disease/gastrointestinal
+bleed/sepsis), cyanosis (acute heart failure), trachea position (displaced by tension pneumothorax),
+distended jugular veins (acute heart failure, tamponade).
+• Consideration of the patient's volume status/hydration may be made by examining skin turgor and
+mucous membranes. The presence of any signs of chronic liver disease may point to the presence of
+gastrointestinal bleeding or sepsis. Evidence of cellulitis (sepsis) should be excluded on examination of
+the upper and lower limbs. Increased pigmentation is a sign frequently noted in patients with Addison
+disease and chronic renal failure.
+• Cardiovascular exams should include evaluation of the volume of heart sounds (muffled/reduced in
+cardiac tamponade, often loud if tachycardia present due to sepsis), the presence of any new murmur
+(acute heart failure due to cardiac valvular dysfunction, as may occur post-myocardial infarction or
+with endocarditis), and the presence of additional heart sounds (heart failure). Patients with right
+heart failure may present with compartmental dehydration (i.e., present with ankle edema but have
+simultaneous intravascular depletion).
+• Respiratory exams may reveal crackles at the lung base (acute heart failure), absent or reduced air
+entry with hyperresonant note to percussion (pneumothorax), or consolidation signs (pneumonia/
+sepsis). Bibasilar crackles may be a manifestation of chronic lung disease. Occasionally, a pleural rub
+may be heard to indicate the presence of a PE, although a normal respiratory examination does not
+exclude the presence of one.
+• Abdominal exams should include evaluation of upper abdominal tenderness (peptic ulcer disease/
+upper gastrointestinal bleed), a check for the presence of a pulsatile mass (abdominal aortic
+aneurysm), left lower quadrant tenderness (lower gastrointestinal bleed), and an evaluation of
+any signs that may indicate the presence of chronic liver disease (caput meduse, telangiectasia,
+splenomegaly). If a pulsatile mass is felt, it is important to check for reduced femoral pulses that
+are suggestive of bleeding abdominal aortic aneurysm. A rectal exam should be performed if
+gastrointestinal bleeding is suspected.
+• Focal neurological signs may be present if hypotension is occurring post-stroke. In many cases, this
+may result from injudicious introduction of antihypertensive medication. The patient should be kept
+supine for 24 hours and any hypotension predisposing medication withheld.
+Investigations
+The following investigations should be performed in all patients with acute hypotension, including patients
+with shock where the diagnosis may not be clear:
+• CBC (a low hemoglobin may or may not be present with hemorrhage, an elevated WBC count may be
+indicative of infection or inflammation)
+• Serum electrolytes and blood glucose
+• Serum liver aminotransferases and bilirubin
+• Serum troponin
+• D-dimer (may be normal or elevated with PE)
+• Coagulation profile
+• 12-lead ECG (may be followed by cardiac telemetry and 24-hr ECG in patients with suspected
+dysrhythmia)
+• Pulse oximetry recording
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Evaluation of hypotension Diagnosis
+• Thyroid function tests (thyroid-stimulating hormone [TSH] and free T4) may also be considered in older
+adults.
+Further investigations are directed towards identifying the cause of the hypotension and monitoring the
+patient’s response to initial treatment. Investigations may include:
+• Arterial blood gas measurements may be useful in patients with sepsis, suspected dehydration, and
+PE.
+• Serum lactate measurements to monitor response to resuscitation in septic shock.
+• In all cases where bleeding is suspected, sending a blood sample for group and save is prudent.
+• Pregnancy testing is valuable and may help to confirm a pregnancy-related cause such as ectopic
+pregnancy.
+• Inflammatory markers may be raised in sepsis or an inflammatory cause of cardiac tamponade.
+• Microbiological cultures from the site of suspected sepsis, e.g., mid-stream urine culture, lumbar
+puncture, sputum culture and blood cultures.
+• Chest x-ray: may demonstrate pneumonia as a source of sepsis. Performed in cases of suspected PE
+(although frequently normal), cardiac tamponade, acute coronary syndrome and acute heart failure.
+Chest x-ray should also be performed after, but not before, emergency chest decompression for
+tension pneumothorax.
+• Echocardiogram: may be performed in cases of acute heart failure, cardiac tamponade, sepsis and
+acute coronary syndrome.
+• Coronary angiogram may also be performed in people with acute coronary syndrome.
+• B-type natriuretic peptide (BNP) may help to confirm suspected acute heart failure. In acute settings,
+levels of natriuretic peptide biomarkers such as BNP may be more useful for ruling out than ruling in
+a diagnosis of heart failure.[28] [62] Higher levels of natriuretic peptide biomarkers are associated
+with increased risk for long-term adverse outcomes (including all-cause and cardiovascular death) in
+patients with heart failure.[62] Several other cardiac and noncardiac conditions may also be associated
+with elevated levels.[28] [62]
+• Multi-detector computed tomography [CT] pulmonary angiography, ventilation/perfusion [V/Q] scan,
+transthoracic echocardiography, pulmonary angiography, and duplex ultrasound of femoral and calf
+veins) may be used to confirm the diagnosis of PE.
+• CT angiogram may confirm the diagnosis of leaking abdominal aortic aneurysm, if the patient's
+condition is not critical. An abdominal CT may also be performed in patients who are stable with
+suspected retroperitoneal bleed.
+• Upper gastrointestinal endoscopy in patients with suspected upper gastrointestinal bleed, and
+colonoscopy for people with suspected lower gastrointestinal bleed, may provide the definitive
+diagnosis.
+• Following stabilization of a patient with Addisonian crisis, the diagnosis may be further investigated
+with a morning serum cortisol, and a high-dose (250 micrograms) adrenocorticotropic hormone
+(ACTH) stimulation test.[63]
+• Primary hypothyroidism is diagnosed by elevated serum TSH and low T4.
+• Various tests may help confirm anaphylaxis and identify the allergen to which the patient has become
+sensitised. In adults, blood should be taken to assess mast cell tryptase levels as soon as possible
+after emergency treatment has started with a second sample ideally within 1 to 2 hours (but no
+later than 4 hours) from the onset of symptoms. A third sample should be taken during a follow-up
+appointment.[64] Serum histamine is a less specific marker for anaphylaxis. A radioallergosorbent
+test, specific skin tests (Ig E), and a post-episode challenge test may be helpful in identifying the
+allergen.[46] [64]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Chronic or recurring hypotension
+Specific symptoms of chronic illnesses known to predispose to either chronic or recurring hypotension should
+be sought. Such illnesses include:
+• Diabetes mellitus
+• Addison disease
+• Parkinsonism (including Parkinson disease and Parkinson plus syndromes, such as multisystem
+atrophy)
+• Chronic liver disease
+Symptoms of these conditions should alert the clinician to the need for specific laboratory investigations.
+Prevalence of various chronic illnesses presenting as hypotension differs based on age.
+•
+Chronic illness presenting with hypotension based on patient age
+Created by The BMJ Group
+Younger adults
+Exclusion of pregnancy via historical inquiry and pregnancy testing is appropriate in all women of a child-
+bearing age.
+A neurally-mediated reflex syncope should be suspected in younger adults with a past medical history
+of syncopal symptoms in childhood and a positive family history of vasovagal syncope, but with no other
+current symptoms.[77] The precipitant provoking event varies from syndrome to syndrome (e.g., in vasovagal
+syncope prolonged standing is a common precipitant, whereas in other situational syndromes the precipitant
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Evaluation of hypotension Diagnosis
+may be micturition, postprandial state, cough, sneeze, visceral pain, post-exercise, brass instrument playing,
+and weightlifting.[16]
+Primary autonomic failure or primary amyloidosis may also be considered if symptoms of hypotension are
+occurring on a daily basis.[78] [79] [80]
+Any adult age group
+Secondary amyloidosis may occur in younger or older patients.
+Diabetes mellitus (leading to diabetic neuropathy with orthostatic hypotension), Addison disease, and chronic
+liver disease can exist in younger or older patients. A history of chronic fatigue, itch, muscle or joint pains
+may indicate chronic liver disease. Patients with diabetic neuropathy may have evidence of painless injuries,
+commonly to their feet, and orthostatic hypotension on testing. Patients with a known history of malnutrition
+(especially in the setting of alcohol abuse), bowel surgery, prolonged parenteral nutrition, hyperemesis
+gravidarum, or other cause of chronic vomiting should be suspected of thiamine deficiency.
+•
+Plantar ulcer in a patient with type 1 diabetes
+From the collection of Rodica Pop-Busui, University of Michigan, MI; used with permission
+Older adults
+Older patients are more likely to present with chronic persistent or paroxysmal arrhythmias, and
+parkinsonism. Hypotension prevalence in idiopathic Parkinson disease increases with disease duration,
+whereas it is an early feature of disease in patients with Parkinson plus syndromes (e.g., multisystem
+atrophy). One prospective study reported a cumulative prevalence of orthostatic hypotension in patients with
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Parkinson disease of over 65% after 7 years. Almost 30% of patients had clinically significant orthostatic
+hypotension.[81]
+Older adults are also more likely to develop hypotension secondary to vitamin B12 deficiency than younger
+adults, as this diagnosis increases in prevalence with age.[82] Several forms of neurally mediated reflex
+syncope (e.g., micturition syncope) occur more commonly in older patients, and should be suspected by their
+history.[83] 
+The carotid sinus syndrome only occurs in patients over 50 years, and is rare in patients under 70
+years.[84] A classical history of syncope (secondary to hypotension) occurring after turning or extending the
+neck is not always present. 
+Examination:
+• Patients with no acute cardiogenic cause for hypotension should be placed supine in bed while
+undergoing evaluation. In patients with suspected vasovagal syncope or situational syncope, it is often
+helpful to elevate their legs for a short period of time while their blood pressure normalizes. Nursing
+staff should be alerted to their potential falls risk.
+• Should include a check for signs of Addisonism (e.g., hyperpigmentation) or hypopituitarism (dry skin,
+loss of axillary or pubic hair).
+• Signs of chronic liver disease should be sought (e.g., jaundice, hepatomegaly, peripheral edema,
+ascites, spider nevi, caput medusa).
+• Diabetes mellitus, vitamin B12 deficiency and thiamine deficiency are all potential causes of
+hypotension if a patient has evidence of peripheral neuropathy on physical examination.
+• Patients with neurally-mediated reflex syncope, and those with primary autonomic failure will
+usually have an unremarkable physical exam. The latter may be difficult to distinguish from primary
+amyloidosis on physical exam alone, although macroglossia, lower limb edema or purpura may be
+present in amyloidosis.
+• Palpate for a gravid uterus in women of childbearing potential with no other apparent cause of
+hypotension.
+Investigations:
+• Include:
+• CBC (the presence of macrocytosis may suggest the presence of vitamin B12 deficiency,
+chronic liver disease, thiamine deficiency, or hypothyroidism)
+• Blood glucose (if undiagnosed diabetes is suspected, it is usually confirmed with a fasting blood
+glucose or an elevated serum hemoglobin A1C)
+• Serum electrolytes (hyponatremia may indicate Addison disease, hypothyroidism, or chronic
+liver disease if secondary hyperaldosteronism is present)
+• Serum aminotransferases and bilirubin
+• Coagulation profile
+• A 12-lead ECG.
+• Additionally for older adults, the following should be considered:
+• Thyroid function tests (TSH and free T4)
+• Serum vitamin B12 concentration.
+• Further investigations are as follows:
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Evaluation of hypotension Diagnosis
+• A urinary beta human choriogonadotropin: to confirm pregnancy.
+• Thiamine deficiency can be confirmed by serum thiamine pyrophosphate concentration.
+• Chronic liver disease is usually supported by the presence of deranged serum
+aminotransferases, by impaired synthetic function markers (e.g., elevated international
+normalized ratio, elevated bilirubin), appropriate imaging and liver biopsy (at a later date).
+• Addison disease can be confirmed by the presence of a low serum cortisol and an inadequate
+response to administration of cosyntropin.
+• Hypopituitarism can be confirmed by demonstration of evidence of hypothyroidism and adrenal
+insufficiency combined with a low follicle-stimulating hormone and luteinizing hormone, with
+reduced serum estradiol in women, or reduced serum testosterone in men. TSH and ACTH are
+also inappropriately low in relation to levels of thyroid hormone and cortisol.
+• The presence of amyloidosis can be confirmed by tissue biopsy and staining with Congo Red
+(positive/green birefringence).
+• Tilt table testing has a variable level of sensitivity in the presence of neurally-mediated reflex
+syncope which is best diagnosed clinically. It may help to confirm the diagnosis of vasovagal
+syncope (reproduction of symptoms with prolonged [40 min] tilt).[16] [85] [86] It may also be
+used with carotid sinus massage to help diagnose older people with suspected carotid sinus
+syndrome. Patients have a symptomatic fall in BP ± syncope precipitated by carotid sinus
+massage. Patients with the pure vasodepressor subtype do not have an associated cardiac
+pause, unlike patients with the cardio-inhibitory subtype who have an associated inducible
+cardiac pause/asystole exceeding 3 seconds.[16]
+• The presence of primary autonomic failure can be confirmed by a number of specialized
+tests including: 1) plasma norepinephrine - failure to release norepinephrine on standing;
+2) deep breathing - diminished beat-to-beat variation on ECG during inspiration and
+expiration; 3) Valsalva maneuver - failure of the BP overshoot after release of the strain;
+4) electrophysiological testing - reduction in sensory nerve conduction velocity; muscle
+denervation; 5) quantitative sudomotor axon reflex test - absence of sweat production; 6) heart
+rate variability - decreased heart rate variability.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Differentials overview
+Common
+Nonhemorrhagic volume losses
+Upper gastrointestinal bleed
+Lower gastrointestinal bleed
+Dialysis-induced hypotension
+Trauma
+Acute coronary syndrome
+Acute heart failure
+Dysrhythmia
+Acute pulmonary embolism
+Vasovagal syncope
+Medication-related
+Pregnancy (uncomplicated)
+Sepsis
+Chronic liver disease
+Parkinson disease
+Uncommon
+Ruptured abdominal aortic aneurysm
+Ectopic pregnancy
+Retroperitoneal bleed
+Severe acute pancreatitis
+Carotid sinus syndrome (cardioinhibitory subtype)
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Evaluation of hypotension Diagnosis
+Uncommon
+Severe hypothyroidism
+Tension pneumothorax
+Cardiac tamponade
+Situational syncope
+Anaphylaxis
+Carotid sinus syndrome (vasodepressor subtype)
+Diabetic autonomic neuropathy
+Multi-system atrophy
+Post-stroke
+Primary autonomic failure
+Amyloidosis
+Adrenal suppression (iatrogenic)
+Addison disease
+Hypopituitarism
+Thiamine deficiency
+Vitamin B12 deficiency
+Carcinoid syndrome
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Differentials
+Common
+◊ Nonhemorrhagic volume losses
+History Exam 1st Test Other tests
+often older adults; may
+be a history of vomiting
+and diarrhea, prolonged
+period of illness, or
+diuretic use; burns;
+profound sweating;
+decreased oral
+intake; bronchorrhea
+or draining pleural
+effusion; history of or
+risk factors for diabetes
+insipidus; risk factors
+for diabetic ketoacidosis
+or hyperosmolar
+hyperglycemic state;
+may be fever; thirst;
+fatigue; dizziness on
+standing
+hypotension may be
+profound if there is
+shock with decreasing
+level of consciousness;
+fever; tachycardia;
+weak pulse; dry
+mucous membranes;
+decreased skin turgor
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum
+LFTs, coagulation
+profile): elevated
+BUN and creatinine;
+normal, elevated or
+low serum sodium;
+low serum potassium
+(with diarrhea);
+elevated hematocrit;
+elevated WBC count (if
+infectious cause)
+BUN and creatinine
+may not be elevated in
+an older adult (normal
+BUN may be due to
+poor nutrition; normal
+creatinine due to
+smaller muscle mass).
+»ECG: sinus
+tachycardia,
+tachyarrhythmia
+»urinalysis: high
+specific gravity
+»ABG: prolonged
+diarrhea: low
+bicarbonate; prolonged
+vomiting: high
+bicarbonate
+Indicated in presence of
+shock.
+»random urine
+sodium: <20 mmol/L
+(<20 mEq/L)
+The urine sodium is low
+in volume depletion as
+the kidney conserves
+sodium and water to
+maintain extracellular
+volume.[87]
+Inappropriately elevated
+urine sodium in the
+setting of apparent
+volume depletion
+would support renal
+salt wasting or diuretic
+use.[87]
+This test will not always
+be helpful in individuals
+with underlying kidney
+disease, patients
+receiving diuretics,
+or during states of
+osmotic diuresis,
+metabolic alkalosis,
+or hypoaldosteronism.
+Low urine chloride
+excretion is a more
+reliable indicator of
+volume depletion in
+patients with metabolic
+alkalosis.[9]
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Evaluation of hypotension Diagnosis
+Common
+◊ Nonhemorrhagic volume losses
+History Exam 1st Test Other tests
+»fractional excretion
+of sodium: <1%
+A low value (<1%)
+indicates that most of
+the sodium delivered
+to the kidney is
+reabsorbed, as is seen
+in volume depletion.
+»random urine
+creatinine: elevated
+Required for the
+calculation of fractional
+excretion of sodium
+»random urine
+osmolality: >450
+mmol/kg (>450 mOsm/
+kg)
+»stool culture:
+normal; may show
+growth of bacteria,
+toxins or parasites
+Can establish infectious
+etiology in cases of
+severe diarrhea.
+»urine microscopy
+and culture: normal
+or evidence of bacterial
+growth
+Hypotension due to
+sepsis as the result of
+a urinary tract infection
+is not uncommon and
+initially may be the
+only clinical finding,
+particularly in older
+adults.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Common
+Upper gastrointestinal bleed
+History Exam 1st Test Other tests
+history of nonsteroidal
+anti-inflammatory
+drugs use, often
+with concomitant
+corticosteroid use;
+may be history of
+peptic ulcer disease or
+chronic liver disease;
+upper abdominal pain
+(frequently absent
+in older adults);
+hematemesis; coffee
+ground emesis; fatigue,
+dizziness
+hypotension may be
+profound if there is
+shock with decreasing
+level of consciousness;
+pallor, abdominal
+tenderness (usually
+upper abdomen); signs
+of chronic liver disease
+(e.g., palmar erythema,
+spider angiomata,
+petechiae, jaundice,
+hepatomegaly, ascites,
+muscle wasting,
+gynecomastia, pedal
+and ankle edema);
+rectal exam positive for
+melena
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum
+LFTs, coagulation
+profile, type and
+cross): normal or
+low Hb, elevated
+BUN:creatinine ratio;
+may be abnormal
+prothrombin time and
+prolonged INR
+»ECG: sinus
+tachycardia
+»upper
+gastrointestinal
+endoscopy: source
+of bleeding may be
+visualized
+Possible sources
+include peptic ulcer,
+gastritis, Mallory Weiss
+tear, or esophageal
+varices.
+Lower gastrointestinal bleed
+History Exam 1st Test Other tests
+may be known history
+of inflammatory bowel
+disease or lower
+gastrointestinal tumor;
+melena; hematochezia;
+abdominal pain (left-
+sided in older adult
+suggests diverticular
+disease); fatigue;
+dizziness
+hypotension may be
+profound if there is
+hemorrhagic shock
+with decreasing level of
+consciousness; may be
+blood on digital rectal
+exam; abdominal exam
+may be normal, or may
+be tenderness; patients
+with colonic tumor
+may have a palpable
+abdominal mass
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum
+LFTs, coagulation
+profile, type and
+cross): normal or
+low Hb; elevated
+BUN:creatinine ratio;
+may be abnormal
+prothrombin time and
+prolonged INR
+»ECG: sinus
+tachycardia
+»colonoscopy:
+source of bleeding
+may be visualized
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Evaluation of hypotension Diagnosis
+Common
+Lower gastrointestinal bleed
+History Exam 1st Test Other tests
+(e.g., diverticulae,
+colonic angioma,
+polyps, evidence of
+inflammatory bowel
+disease or colonic
+tumor)
+»mesenteric
+angiography: the site
+of active bleeding may
+be seen[88]
+◊ Dialysis-induced hypotension
+History Exam 1st Test Other tests
+presence of
+hypotension during
+dialysis session;
+previous history of
+dialysis-induced
+hypotension; presence
+of other condition that
+may predispose to
+hypotension (e.g.,
+intercurrent infective
+illness leading to
+dehydration); diabetes,
+large interdialytic
+weight gain, female
+sex and low body
+weight are risk factors
+for dialysis-induced
+hypotension
+tachycardia; weak
+pulse; increased skin
+turgor; dry mucous
+membranes; signs of
+chronic renal failure
+(e.g., increased skin
+pigmentation)
+»clinical exam:
+usually a clinical
+diagnosis
+»ECG: may be sinus
+tachycardia, evidence
+of tachyarrhythmia
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+coagulation profile):
+elevated BUN and
+creatinine; low or high
+serum sodium; elevated
+hematocrit
+Trauma
+History Exam 1st Test Other tests
+history of road
+traffic accident, fall,
+penetrating injury, blunt
+trauma
+may be signs of
+external bleeding;
+open fracture;
+tender abdomen
+concealing intra-
+abdominal hemorrhage;
+decreased breath
+sounds and dullness
+to percussion on chest
+examination may
+»CBC, type and
+cross: may be low or
+normal Hb
+»coagulation screen:
+serum PT, INR and
+PTT may be prolonged
+or elevated
+»x-ray trauma
+series: hemothorax if
+»diagnostic
+peritoneal lavage:
+blood in the abdomen
+on drainage of fluid
+suggests intra-
+abdominal bleed
+Carried out less
+frequently now; CT
+scanning is usually the
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Common
+Trauma
+History Exam 1st Test Other tests
+indicate hemothorax;
+unstable pelvis if
+fractured; narrow pulse
+pressure
+chest injury, widened
+mediastinum suggests
+aortic disruption, pelvic
+fractures if present
+Trauma series includes
+anteroposterior and
+lateral cervical spine
+views, chest x-ray, and
+abdomen/pelvis.
+»Focused
+Assessment with
+Sonography for
+Trauma scan:
+positive if free fluid
+in the abdomen or
+pericardium is identified
+Ultrasound study that
+looks at perihepatic,
+perisplenic, pelvic,
+and pericardial areas
+to identify possible
+hemorrhage.
+»CT scan: may show
+blood in abdominal
+cavity
+Usually now done
+in preference to
+diagnostic peritoneal
+lavage if the patient is
+stable.
+method of choice if the
+patient is stable.
+Acute coronary syndrome
+History Exam 1st Test Other tests
+history of risk factors for
+coronary artery disease
+(CAD) (e.g., smoking,
+hyperlipidemia,
+diabetes, family history
+of CAD); chest pain
+(often described as
+heavy or tight) radiating
+to arms, back, neck,
+hypotension may be
+profound if there is
+cardiogenic shock
++ decreasing level
+of consciousness;
+diaphoretic
+appearance;
+pallor; tachycardia;
+bradycardia; new
+»ECG: ST segment
+elevation or depression,
+or T wave changes
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+serum troponin, d-
+dimer, coagulation
+»fasting serum
+lipids (total
+cholesterol, LDL
+cholesterol, HDL
+cholesterol and
+triglycerides):
+variable
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Evaluation of hypotension Diagnosis
+Common
+Acute coronary syndrome
+History Exam 1st Test Other tests
+or jaw; chest pain may
+be absent in older
+adults and people with
+diabetes; dyspnea;
+nausea; diaphoresis
+abnormal pulse rhythm;
+distended jugular veins;
+other signs of heart
+failure (e.g., dyspnea,
+crackles at lung bases);
+new heart murmur
+profile): elevated
+serum troponin
+»coronary
+angiogram: presence
+of thrombus with
+occlusion of the artery
+»chest x-ray:
+evidence of pulmonary
+congestion/pleural
+effusion if secondary
+heart failure, may
+show enlarged cardiac
+shadow
+To check for
+hypercholesterolemia,
+low HDL cholesterol,
+high LDL cholesterol,
+and elevated
+triglycerides.
+»fasting blood
+glucose: normal, or
+above normal range if
+diabetes detected
+Performed only if initial
+random blood glucose
+is elevated.
+»echocardiogram:
+may demonstrate
+regional wall motion
+abnormality
+Acute heart failure
+History Exam 1st Test Other tests
+acute onset shortness
+of breath; orthopnea;
+may be history of
+known heart failure or
+of risk factors (e.g.,
+recent myocardial
+infarction, valvular heart
+disease, hypertrophic
+cardiomyopathy, known
+bacterial endocarditis,
+rheumatic fever, or
+Marfan syndrome)
+hypotension may be
+profound if there is
+cardiogenic shock
+plus decreasing level
+of consciousness;
+distended jugular veins;
+crackles at lung bases;
+new murmur; additional
+heart sounds; fever
+in endocarditis; mitral
+facies (mild cyanosis
+of lips/cheeks without
+clubbing) may be
+present if mitral
+stenosis is a causative
+factor; may be signs
+of Marfan syndrome
+(e.g., tall stature, wide
+arm span, high arched
+palate, arachnodactyly
+with positive thumb
+sign)
+»ECG: nearly always
+abnormal; may show
+arrhythmias, ischemic
+ST and T wave
+changes
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+serum troponin, d-
+dimer, coagulation
+profile): serum
+troponin: elevated
+in acute coronary
+ischemia; low Hb if
+anemia the cause;
+WBC count may be
+elevated
+»serum thyroid-
+stimulating
+hormone and
+free T4: abnormal if
+»B-type natriuretic
+peptide (BNP): >400
+picogram/mL may
+be indicative of heart
+failure
+BNP <100 picogram/
+mL suggests a
+noncardiac etiology
+of dyspnea. In acute
+settings, BNP levels
+may be more useful for
+ruling out than ruling
+in a diagnosis of heart
+failure.[28] [62] Several
+other cardiac and
+noncardiac conditions
+may also be associated
+with elevated levels.[28]
+[62]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Common
+Acute heart failure
+History Exam 1st Test Other tests
+associated hypo- or
+hyperthyroidism
+»chest x-ray:
+cardiomegaly,
+pulmonary congestion,
+pleural effusion,
+valvular or pericardial
+calcification
+»echocardiogram:
+new valvular
+dysfunction (e.g.,
+mitral regurgitation);
+endocarditis: may show
+vegetations
+»fasting serum
+lipids (total
+cholesterol, LDL
+cholesterol, HDL
+cholesterol and
+triglycerides):
+variable
+»blood cultures:
+endocarditis: positive
+cultures
+Dysrhythmia
+History Exam 1st Test Other tests
+more common in older
+patients; symptoms
+may be acute, chronic,
+or paroxysmal;
+palpitations; chest pain;
+syncope; dizziness;
+dyspnea; may be
+history of dysrhythmia,
+heart disease or heart
+failure
+signs may be acute,
+chronic or paroxysmal;
+hypotension may be
+profound if there is
+cardiogenic shock
++ decreasing level
+of consciousness;
+tachycardia;
+bradycardia; irregular
+pulse; may have signs
+of heart failure (e.g.,
+distended jugular veins,
+crackles at lung base,
+peripheral edema)
+»ECG: dysrhythmia
+demonstrated
+Dysrhythmia may
+be tachycardic, or
+bradycardic.
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+serum troponin, d-
+dimer, coagulation
+profile): may be low
+Hb, abnormal serum
+electrolytes
+»serum thyroid-
+stimulating
+hormone, free T4:
+thyroid-stimulating
+hormone and
+free T4 may be
+abnormal if hypo- or
+hyperthyroidism cause
+of dysrhythmia
+»cardiac telemetry:
+dysrhythmia
+demonstrated
+»24-hour ECG
+monitor: dysrhythmia
+demonstrated
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Evaluation of hypotension Diagnosis
+Common
+Acute pulmonary embolism
+History Exam 1st Test Other tests
+dyspnea; pleuritic
+chest pain (often
+absent in older
+adults); hemoptysis;
+palpitations; feeling
+of apprehension; may
+be history of recent
+immobilization (e.g.,
+prolonged air flight,
+surgery), obesity,
+pregnancy/postpartum
+period, inherited
+thrombophilias, active
+malignancy, recent
+trauma/fracture, or
+history of deep vein
+thrombosis
+hypotension may
+be profound if large
+pulmonary embolism
+(PE) but in other cases
+physical exam can
+be normal; may be
+tachypnea; pleural rub
+on chest auscultation;
+tachycardia; low
+oxygen saturations
+on pulse oximetry
+(may be transient); calf
+tenderness
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+serum troponin, d-
+dimer, coagulation
+profile): d-dimer:
+normal or elevated
+Sensitivity and negative
+predictive value
+depends on the type
+of laboratory technique
+used to measure d-
+dimer.
+»ABG: may be
+normal; hypoxia and
+hypocapnia suggestive
+of PE
+»ECG: tachycardia,
+new right axis
+deviation, new right
+bundle branch block, S
+wave in lead I, Q wave
+with T-wave inversion in
+lead III
+These features are
+suggestive but not
+diagnostic of PE.
+»chest x-ray: band
+atelectasis, elevation
+of hemidiaphragm,
+prominent central
+pulmonary artery,
+oligemia at site of
+embolism
+These features are
+suggestive but not
+diagnostic of PE.
+»multi-detector
+computed
+tomography
+pulmonary
+angiography:
+direct visualization
+of thrombus in a
+pulmonary artery,
+appears as a partial or
+complete intraluminal
+filling defect
+Recommended imaging
+in patients with a high
+probability of PE (e.g.,
+likely clinical probability,
+or an abnormal d-dimer
+test).
+»ventilation/
+perfusion (V/Q)
+scan: normal, low,
+intermediate, and
+high probability; PE
+likely when an area
+of ventilation is not
+perfused
+Performed if there is a
+contraindication to a CT
+scan. Normal reading
+is the most sensitive of
+all the imaging tests for
+excluding PE.[92]
+»transthoracic
+echocardiography:
+may show features
+indicating right
+ventricular strain/
+dysfunction
+»pulmonary
+angiography:
+demonstrates complete
+or incomplete filling
+defect in the pulmonary
+artery
+Definitive test for the
+diagnosis or exclusion
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Common
+Acute pulmonary embolism
+History Exam 1st Test Other tests
+of PE, but associated
+with a higher rate of
+morbidity/mortality than
+other tests. Now used
+less frequently.
+»duplex ultrasound
+of femoral and
+calf veins:
+noncompressible leg
+veins
+To aid in identifying
+source, particularly if
+other tests negative
+and diagnosis
+suspected.
+»serum thyroid-
+stimulating
+hormone, free T4
+(older adults only):
+normal
+◊ Vasovagal syncope
+History Exam 1st Test Other tests
+previous history
+(including childhood)
+of faints; typical
+premonitory warning
+symptoms of feeling
+warm, nauseated,
+dizzy, distant from
+surroundings (may not
+be reported by older
+patients)
+normal cardiac
+examination; features
+of witnessed event
+include transient loss
+of consciousness, may
+be myoclonic type jerks
+during the event, may
+appear flushed initially
+with pallor immediately
+preceding loss of
+consciousness
+»clinical exam:
+diagnosis may be made
+on history and exam
+findings alone
+Presentation without
+typical symptoms/
+warning signs in
+young adults and
+new symptoms in
+older adults warrant
+investigation.
+»ECG: normal
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+coagulation profile):
+normal
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum vitamin
+B12 (older adults
+only): normal
+»tilt table testing
+with beat-to-
+beat (phasic) BP
+monitoring (e.g.,
+digital artery
+photoplethysmography):
+reproduction of
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Evaluation of hypotension Diagnosis
+Common
+◊ Vasovagal syncope
+History Exam 1st Test Other tests
+symptoms with
+prolonged (40 min) tilt
+Sensitivity in young
+adults is poor
+(approximately 20%);
+high false positive rate,
+particularly if tilt table
+testing is combined
+with provocative drug
+administration (e.g.,
+sublingual nitrate)
+◊ Medication-related
+History Exam 1st Test Other tests
+history of recently
+introduced medication
+known to produce
+hypotension; common
+responsible drug
+classes include beta-
+blockers, alpha-
+blockers, diuretics,
+nitrates, calcium
+channel blockers,
+ACE inhibitors,
+L-dopa, tricyclic
+antidepressants,
+phenothiazines,
+opioids (in high
+doses), intravenous
+acetaminophen in
+critically ill hospitalized
+patients; more common
+in older adults
+change in BP readings
+date from after
+introduction of new
+medication, and
+improvement noted
+after discontinuation
+of drug; no specific
+physical exam findings
+to suggest other cause
+»discontinuation
+of suspected
+precipitating
+medication: clinical
+improvement on
+discontinuation of
+medication
+Diagnosis may be
+made from the history
+and clinical exam. If
+there is uncertainty
+about diagnosis,
+further tests may be
+performed.
+»urine toxicology
+screen: may be
+positive for opioids
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+coagulation profile):
+normal
+»serum thyroid-
+stimulating
+hormone and free T4
+and serum vitamin
+B12 (older adults
+only): normal
+»ECG: normal
+◊ Pregnancy (uncomplicated)
+History Exam 1st Test Other tests
+woman of childbearing
+age; delayed
+menstruation; history
+of unprotected sexual
+intercourse; may be
+known pregnancy or
+gravid uterus on
+abdominal or pelvic
+exam; fetal heart on
+auscultation
+»urinary pregnancy
+test: positive
+»serum beta HCG:
+positive
+»pelvic ultrasound:
+live fetus present
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Common
+◊ Pregnancy (uncomplicated)
+History Exam 1st Test Other tests
+history may indicate the
+patient is unaware she
+is pregnant
+Sepsis
+History Exam 1st Test Other tests
+symptoms of localized
+infection, nonspecific
+symptoms include
+fever or shivering,
+dizziness, nausea
+and vomiting, muscle
+pain, feeling confused
+or disoriented;
+may be history of
+risk factors (e.g.,
+immunosuppression,
+pregnancy or
+postpartum period,
+frailty, recent surgery
+or invasive procedures,
+intravenous drug
+use, or breach of skin
+integrity)
+tachycardia, tachypnea,
+hypotension, fever
+>101°F (>38°C)
+or hypothermia
+>97°F (<36°C),
+prolonged capillary
+refill, mottled or ashen
+skin, cyanosis, low
+oxygen saturation,
+newly altered mental
+state, reduced urine
+output
+»blood culture: may
+be positive for organism
+Blood cultures should
+be taken immediately,
+and preferably
+before antibiotics
+are started, provided
+their sampling will not
+delay administration
+of antibiotics. Other
+cultures (for example,
+sputum, stool, and
+urine) should be taken
+as clinically indicated.
+»serum lactate: may
+be elevated; levels
+>18 mg/dL (>2 mmol/
+L) associated with
+adverse prognosis;
+even worse prognosis
+with levels ≥36 mg/dL
+(≥4 mmol/L) elevated
+Elevated serum
+lactate indicates tissue
+hypoperfusion, and is
+most reliably assessed
+using an arterial
+sample.
+»CBC with
+differential: WBC
+count >12×10⁹/
+L (12,000/mL)
+(leukocytosis); WBC
+count <4×10⁹/L (4000/
+mL) (leukopenia); or a
+normal WBC count with
+»urine microscopy
+and culture: may
+be positive for nitrites,
+protein or blood;
+elevated leukocyte
+count; positive culture
+for organism
+»sputum culture:
+may be positive for
+organism
+»chest x-ray: may
+show pleural effusion,
+consolidation, cardiac
+abnormalities or
+a pneumothorax,
+demonstrates position
+of central venous
+catheter and tracheal
+tube
+»echocardiogram:
+inadequate left
+ventricular filling
+suggests hypovolemia;
+vegetations if
+endocarditis cause of
+sepsis
+Indicated in patients
+with acute heart failure
+thought to be due to
+endocarditis.
+»lumbar puncture:
+may be elevated
+WBC count, presence
+of organism on
+microscopy and
+positive culture
+Performed if meningitis
+suspected.
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Evaluation of hypotension Diagnosis
+Common
+Sepsis
+History Exam 1st Test Other tests
+>10% immature forms;
+low platelets
+WBC count is sensitive
+but not specific for the
+diagnosis of sepsis.
+»C-reactive protein:
+elevated
+»blood urea and
+serum electrolytes:
+serum electrolytes may
+be deranged; blood
+urea may be elevated
+»serum creatinine:
+may be elevated
+Elevated creatinine
+may occur in sepsis
+associated with renal
+dysfunction.
+»LFTs: may
+show elevated
+bilirubin, alanine
+aminotransferase,
+aspartate
+aminotransferase,
+alkaline phosphatase,
+and gamma glutamyl
+transpeptidase
+Sepsis can originate
+from hepatic or
+perihepatic infections.
+Comorbid hepatic
+disease can affect drug
+metabolism. Septic
+shock can compromise
+hepatic blood flow and
+metabolism.
+»coagulation
+studies: may be
+abnormal
+»ECG: may show
+evidence of ischemia,
+atrial fibrillation, or
+other arrhythmia; may
+be normal
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Common
+Sepsis
+History Exam 1st Test Other tests
+An ECG should
+be arranged to
+help exclude other
+differential diagnoses,
+including myocardial
+infarction, pericarditis,
+and myocarditis. Sepsis
+also predisposes to
+myocardial dysfunction
+and arrhythmias.
+»ABG: may be
+hypoxia, hypercapnia,
+elevated anion gap,
+metabolic acidosis
+◊ Chronic liver disease
+History Exam 1st Test Other tests
+known history of
+chronic liver disease;
+pruritus; abdominal
+swelling; confusion;
+lethargy; weight loss;
+weakness; bruising;
+may be worsening
+light-headedness
+and unsteadiness in
+presence of concurrent
+hematemesis, melena
+or other symptoms
+of gastrointestinal
+bleed; history of sepsis
+(fever, anorexia, focal
+symptoms depending
+on site of infection)
+may be jaundice;
+muscle wasting;
+gynecomastia; palmar
+erythema; spider
+angiomata; petechiae;
+ascites; distended
+abdominal veins;
+hepatosplenomegaly;
+signs of
+encephalopathy (e.g.,
+memory, attention, and
+concentration deficits,
+confusion, asterixis,
+nystagmus, clonus,
+rigidity, coma)
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum
+LFTs, coagulation
+profile): elevated liver
+enzymes; elevated
+bilirubin (conjugated);
+may be low Hb and low
+platelets; INR may be
+elevated
+»serum thyroid-
+stimulating
+hormone, free T4
+(older adults only):
+normal
+»ECG: normal
+»blood cultures:
+concurrent sepsis:
+infective organism
+isolated
+»urine microscopy
+and culture:
+concurrent urinary
+infection: infective
+organism isolated
+»paracentesis:
+concurrent infective
+peritonitis: infective
+organism isolated
+Performed if
+spontaneous bacterial
+peritonitis suspected.
+»upper
+gastrointestinal
+endoscopy: may
+demonstrate source
+of gastrointestinal
+bleed, varices may be
+visualized
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Evaluation of hypotension Diagnosis
+Common
+◊ Parkinson disease
+History Exam 1st Test Other tests
+more common in older
+adults; usually long-
+standing history of
+Parkinson disease;
+may be recent
+initiation or change
+in anti-Parkinsonian
+medication, or
+symptoms of
+concurrent general
+medical illness (e.g.,
+dysuria and urinary
+frequency with
+urosepsis, or cough
+with purulent sputum
+with pneumonia)
+bradykinesia; tremor;
+increased tone;
+postural instability;
+stooped shuffling gait
+with reduced arm-
+swing, mask-like face;
+signs of intercurrent
+infection (e.g., fever,
+crackles on chest
+auscultation)
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum
+LFTs, coagulation
+profile): CBC may
+show elevated WBC
+count if infection
+present
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum B12
+(older adults only):
+normal
+»ECG: normal
+Uncommon
+Ruptured abdominal aortic aneurysm
+History Exam 1st Test Other tests
+abdominal pain
+radiating to back;
+abdominal distension;
+bilateral flank pain;
+light-headedness; may
+be a history of risk
+factors (e.g., smoking,
+peripheral vascular
+disease, known history
+of aneurysm)
+hypotension may
+be profound with
+decreasing level
+of consciousness;
+abdominal tenderness;
+pulsatile mass; weak
+peripheral pulses
+»clinical exam:
+diagnosis of acute
+rupture is usually made
+by history and clinical
+findings
+Patient requires urgent
+resuscitation and
+surgical treatment.
+»bedside abdominal
+ultrasound: may
+demonstrate site of leak
+or extravasation; color
+flow Doppler can aid
+detection; sensitivity
+and specificity for
+rupture are low
+A bedside ultrasound
+is a reasonable
+and simple test if
+it does not delay
+emergency transfer
+to the operating room
+for a hemodynamically
+unstable patient.[89]
+[90]
+»CT thorax and
+abdomen: impending
+rupture: may
+demonstrate blood
+within the thrombus
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Uncommon
+Ruptured abdominal aortic aneurysm
+History Exam 1st Test Other tests
+(crescent sign), low
+thrombus-to-lumen
+ratio, retroperitoneal
+hematoma,
+discontinuity of
+the aortic wall, or
+extravasation of
+contrast into the
+peritoneal cavity
+May be performed in
+suspected cases of
+impending bleed.
+Ectopic pregnancy
+History Exam 1st Test Other tests
+women of childbearing
+age; amenorrhea; may
+be known pregnancy;
+abdominal pain; vaginal
+bleeding; may be
+history of previous
+ectopic pregnancy,
+prior tubal surgery,
+pelvic inflammatory
+disease, or
+intrauterine contraception
+use
+tachycardia; abdominal
+tenderness and
+guarding; decreased
+bowel sounds; cervical
+motion tenderness;
+vaginal bleeding
+»urinary pregnancy
+test: positive
+If hemodynamic
+instability is present
+and rupture is
+suspected, diagnostic
+steps may be expedited
+or bypassed in
+favor of urgent fluid
+resuscitation and
+surgical intervention.
+»CBC, type and
+cross: may be low Hb
+If hemodynamic
+instability is present
+and rupture is
+suspected, diagnostic
+steps may be expedited
+or bypassed in
+favor of urgent fluid
+resuscitation and
+surgical intervention.
+»transvaginal
+ultrasound:
+visualization of ectopic
+pregnancy; empty
+uterus
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Evaluation of hypotension Diagnosis
+Uncommon
+Retroperitoneal bleed
+History Exam 1st Test Other tests
+symptoms may be
+vague; groin, lower
+abdominal, or back
+pain; history of risk
+factors (e.g., recent
+anticoagulation use,
+recent history of
+cardiac or femoral
+angiography, recent
+obstetric procedure in
+women of childbearing
+age)
+unexplained
+tachycardia; tenderness
+in lower abdomen on
+side of bleed; may
+be bruising of flank;
+diaphoresis if severe;
+profound hypotension
+with decreasing levels
+of consciousness if
+shock present
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs
+coagulation profile,
+type and cross):
+low Hb; INR may be
+elevated
+»ECG: normal, or
+tachycardia
+»CT abdomen:
+hematoma may be
+visualized
+»CT angiogram: may
+demonstrate active
+bleeding site if bleeding
+is ongoing
+◊ Severe acute pancreatitis
+History Exam 1st Test Other tests
+Sudden-onset
+continuous upper
+abdominal pain,
+typically radiating to
+the back; nausea and
+vomiting, malaise;
+history of alcohol use
+or gallstones, may be
+history of azathioprine,
+mercaptopurine or
+didanosine use
+Epigastric or left upper
+quadrant tenderness
+with voluntary guarding,
+abdominal distension,
+may be reduced
+bowel sounds;
+hypotension, dry
+mucous membranes,
+reduced skin turgor,
+oliguria, sweating,
+tachycardia, tachypnea;
+signs of pleural effusion
+(more commonly left
+side); jaundice
+»serum lipase or
+amylase: >3 times the
+upper limit of normal
+Use serum lipase, if
+available, in preference
+to serum amylase.
+Serum lipase and
+amylase have
+similar sensitivity
+and specificity but
+lipase levels remain
+elevated for longer
+(up to 14 days after
+symptom onset vs.
+5 days for amylase),
+providing a higher
+likelihood of picking
+up the diagnosis in
+patients with a delayed
+presentation.[91]
+»basic test panel
+(CBC, serum
+electrolytes,
+serum calcium,
+blood glucose,
+serum LFTs): CBC:
+leukocytosis, elevated
+»chest x-ray: may
+show atelectasis and
+pleural effusion
+»transabdominal
+ultrasound: may
+show gallstones;
+may show pancreatic
+inflammation,
+peripancreatic
+stranding, calcifications
+or fluid collections
+Imaging is not
+required to confirm the
+diagnosis.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Severe acute pancreatitis
+History Exam 1st Test Other tests
+hematocrit indicates
+dehydration; elevated
+urea and/or creatinine
+in dehydration; elevated
+aminotransferases
+suggests gallstones
+as the cause;
+hypercalcemia is a rare
+cause of pancreatitis
+»C-reactive protein:
+elevated
+»arterial blood
+gas: may show
+hypoxemia or acid-base
+disturbance
+◊ Carotid sinus syndrome (cardioinhibitory subtype)
+History Exam 1st Test Other tests
+history of recurrent or
+unexplained falls, drop
+attacks or collapse
+episodes occurring in
+an older adult (usually
+>70 years); patient may
+not report classical
+precipitant of neck
+extension or turning
+usually unremarkable
+clinical findings; on
+clinical exam there
+are no differentiating
+features from the
+vasodepressor
+subtype of carotid
+sinus syndrome and
+differential findings are
+almost always at time
+of tilt table testing with
+carotid sinus massage
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+serum troponin, d-
+dimer, coagulation
+profile): normal
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum vitamin
+B12 (older adults
+only): normal
+»ECG: usually normal;
+may show first degree
+heart block
+»tilt table test
+with carotid sinus
+massage: inducible
+cardiac pause/asystole
+exceeding 3 seconds
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Evaluation of hypotension Diagnosis
+Uncommon
+◊ Severe hypothyroidism
+History Exam 1st Test Other tests
+weight gain; weakness;
+lethargy; slow speech;
+cold sensation;
+forgetfulness;
+constipation; neck
+swelling
+evidence of severe
+hypothyroidism (e.g.,
+coma, hypothermia,
+signs of heart failure);
+coarse hair; facial
+edema; bradycardia;
+eyelid edema; thick
+tongue
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+serum troponin,
+coagulation profile):
+CBC: may have
+elevated MCV
+»serum thyroid-
+stimulating
+hormone, free T4:
+primary hypothyroidism:
+elevated thyroid-
+stimulating hormone,
+low T4
+»serum B12 (older
+adults only): normal
+Tension pneumothorax
+History Exam 1st Test Other tests
+sudden onset pleuritic
+chest pain; severe and
+worsening dyspnea;
+rapid deterioration;
+may be risk factors
+(e.g., recent placement
+of central venous
+pressure line, history of
+emphysema or chest
+trauma)
+acute distress;
+cyanosis; profuse
+diaphoresis;
+tachycardia;
+absent unilateral
+breath sounds;
+hyperresonance to
+percussion on affected
+side; tracheal shift from
+midline; hypotension
+develops rapidly with
+subsequent loss of
+consciousness
+»diagnostic and
+therapeutic needle
+thoracostomy: hiss of
+air as catheter/needle
+enters the pleural
+space
+Should be performed
+immediately. Time
+should not be wasted
+waiting for a chest x-
+ray.
+»post-
+decompression
+chest x-ray: shows
+a visceral pleural line;
+confirms position of
+intercostal drain
+Only performed after
+urgent decompression.
+Cardiac tamponade
+History Exam 1st Test Other tests
+chest pain reduced
+by sitting forward;
+shortness of breath;
+may be risk factors
+present (e.g., recent
+myocardial infarction,
+pericarditis, coronary
+hypotension may
+be profound with
+decreasing level
+of consciousness;
+increased respiratory
+rate; distended
+jugular veins, reduced
+»chest x-ray:
+enlargement of cardiac
+shadow
+»ECG: rhythm strip:
+beat-to-beat electrical
+alternans
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+serum troponin, d-
+dimer, coagulation
+profile): may be
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Uncommon
+Cardiac tamponade
+History Exam 1st Test Other tests
+angiogram, or cardiac
+surgery)
+heart sounds and
+hypotension (Beck
+triad); tachycardia;
+pulsus paradoxus (high
+positive predictive value
+and sensitivity, though
+lower specificity)
+»echocardiogram:
+typically: large
+pericardial effusion
+(>20 mm of echo-
+free space in
+diastole between the
+visceral and parietal
+pericardium); chamber
+collapse and respiratory
+variation of ventricular
+filling
+Atypical findings
+include signs of:
+loculated effusion,
+low pressure, external
+compression from
+tumor, or pleural
+effusion.
+low Hb if anemia is
+a related cause; viral
+pericarditis: elevated
+WBC count; elevated
+troponin if cardiac
+trauma or myocardial
+infarction
+»erythrocyte
+sedimentation
+rate: elevated in
+the presence of
+inflammatory or
+infective cause
+◊ Situational syncope
+History Exam 1st Test Other tests
+previous history of
+faints precipitated
+by similar event,
+recognized precipitants
+include micturition,
+defecation, exercise,
+brass instrument
+playing, weightlifting,
+and eye exam
+normal cardiac exam;
+features of witnessed
+event include transient
+loss of consciousness,
+may be myoclonic type
+jerks during the event,
+pallor
+»clinical exam:
+diagnosis may be made
+on history and exam
+findings alone
+Further tests are
+warranted if there are
+no recognized and
+consistent precipitants.
+»ECG: normal
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+coagulation profile):
+normal
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum vitamin
+B12 (older adults
+only): normal
+Anaphylaxis
+History Exam 1st Test Other tests
+history of recent
+ingestion/exposure to
+known allergen (e.g.,
+bee sting); acute onset
+of symptoms with rapid
+deterioration; wheeze;
+rapidly progressive
+signs; signs of
+bronchospasm (e.g.,
+audible wheeze, use
+of accessory muscles);
+erythematous confluent
+»clinical exam:
+diagnosis usually made
+clinically with treatment
+started without delay for
+testing
+»mast cell tryptase:
+may be elevated;
+can range from
+insignificantly elevated
+to levels above 100
+nanograms/mL
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Evaluation of hypotension Diagnosis
+Uncommon
+Anaphylaxis
+History Exam 1st Test Other tests
+rash; swollen lips or
+tongue; swollen eyelids;
+pruritus; agitation;
+anxiety; impending
+sense of doom (angor
+animi); nausea;
+vomiting; diarrhea;
+light-headedness
+rash or itchy urticarial
+wheals; angioedema of
+tongue, lips or eyelids;
+flushing; rhinitis;
+inspiratory stridor;
+syncope; delirium;
+coma
+No laboratory test
+in the acute setting
+should delay urgent
+management of the
+patient.
+In adults, blood should
+be taken to assess
+mast cell tryptase levels
+as soon as possible
+after emergency
+treatment has started
+with a second sample
+ideally within 1 to 2
+hours (but no later
+than 4 hours) from the
+onset of symptoms. A
+third sample should be
+taken during a follow up
+appointment.[64]
+»post-episode CBC:
+eosinophilia
+»post-episode serum
+histamine: >1.1
+micrograms/L
+»post-episode
+radioallergosorbent
+test: >0.35 international
+units/L
+»post-episode
+specific skin tests
+(Ig E): >3mm diameter
+and greater than control
+»post-episode
+challenge test:
+objective symptoms of
+allergy response
+»post-episode urine
+test for N-methyl
+histamine: increased
+compared with baseline
+◊ Carotid sinus syndrome (vasodepressor subtype)
+History Exam 1st Test Other tests
+history of recurrent or
+unexplained falls, drop
+attacks or collapse
+episodes occurring in
+usually unremarkable
+clinical findings;
+typically there are no
+definite differentiating
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Carotid sinus syndrome (vasodepressor subtype)
+History Exam 1st Test Other tests
+an older adult (usually
+>70 years); patient may
+not report classical
+precipitant of neck
+extension or turning
+features on clinical
+exam from the cardio-
+inhibitory subtype of
+carotid sinus syndrome
+and tilt table test with
+carotid sinus massage
+is required
+serum troponin, d-
+dimer, coagulation
+profile): normal
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum vitamin
+B12 (older adults
+only): normal
+»ECG: normal
+»tilt table test
+with carotid
+sinus massage:
+symptomatic fall in BP
+± syncope precipitated.
+Pure vasodepressor
+subtype does not have
+an associated cardiac
+pause
+Mixed carotid sinus
+syndrome will have
+features of both
+cardio-inhibitory and
+vasodepressor.
+◊ Diabetic autonomic neuropathy
+History Exam 1st Test Other tests
+known history of
+diabetes mellitus; may
+be known peripheral
+neuropathy; loss
+of sensation in feet
+and hands; painless
+injuries; dysesthesia
+impaired peripheral
+(glove and stocking
+distribution) sensation;
+evidence of painless
+injuries particularly
+of feet; absent ankle
+reflexes; orthostatic
+hypotension
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum
+LFTs, coagulation
+profile): random blood
+glucose: may be normal
+if diabetes is well
+controlled, or elevated
+if poorly controlled/new
+diagnosis
+Random blood glucose
+is not usually done for
+a diagnosis of diabetes
+although ≥200 mg/dL
+confirms diagnosis if
+typical symptoms of
+»nerve conduction
+studies: reduction
+in sensory nerve
+conduction velocity and
+a decrease in amplitude
+is the most sensitive
+and earliest result
+Diabetic neuropathy
+is often a clinical
+diagnosis. Only
+indicated if clinical
+features are atypical.
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Evaluation of hypotension Diagnosis
+Uncommon
+◊ Diabetic autonomic neuropathy
+History Exam 1st Test Other tests
+diabetes are present.
+Fasting blood glucose
+or HbA1c are usually
+done for diagnostic
+purposes.
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum vitamin
+B12 (older adults
+only): normal
+»ECG: may be
+normal; comorbid
+coronary disease: may
+demonstrate ischemic
+changes
+»fasting blood
+glucose: new
+diagnosis of diabetes:
+126 mg/dL or higher
+Only performed if
+diagnosis of diabetes
+has not already been
+made.
+»HbA1c: variable
+depending on degree of
+glucose control
+Good glucose control:
+HbA1c <7.0%. HbA1c
+≥6.5% is also a
+diagnostic criterion for
+diabetes.
+◊ Multi-system atrophy
+History Exam 1st Test Other tests
+more commonly older
+adult; parkinsonism
+symptoms recently
+noted; may be history
+of falls or unexplained
+injuries
+bradykinesia; tremor;
+increased tone; upward
+gaze palsy; commonly
+orthostatic hypotension
+detected; parkinsonism,
+cerebellar, autonomic
+and urological
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum
+LFTs, coagulation
+profile): CBC may
+show elevated WBC
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Multi-system atrophy
+History Exam 1st Test Other tests
+dysfunction in any
+combination
+count if infection
+present
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum vitamin
+B12 (older adults
+only): normal
+»ECG: normal
+Post-stroke
+History Exam 1st Test Other tests
+recent stroke, typically
+in preceding days;
+most commonly right
+cerebral hemisphere
+stroke; reduction
+in patient's level of
+consciousness or
+deterioration in his/
+her mobility and ability
+to sit upright over
+time; history of recent
+introduction of BP
+lowering medication
+signs of stroke
+(neurological deficit
+dependent on cerebral
+region affected);
+BP measurements
+may appear normal
+at first glance but
+have shown a drop
+since initial admission
+(hypertensive) BP
+readings
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+serum troponin, d-
+dimer, coagulation
+profile): normal
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum vitamin
+B12 (older adults
+only): normal
+If not performed
+recently.
+»ECG: normal or
+ischemic changes
+»fasting serum
+lipids ( total
+cholesterol, LDL
+cholesterol, HDL
+cholesterol and
+triglycerides):
+variable
+◊ Primary autonomic failure
+History Exam 1st Test Other tests
+may be a known
+history of autonomic
+failure and orthostatic
+hypotension; dizziness
+on standing; may be
+erectile dysfunction,
+constipation, decreased
+sweating; history
+of regular (daily)
+symptoms occurring
+within a short period
+no specific physical
+findings other than
+orthostatic hypotension;
+posture test positive
+(systolic BP falls >20
+mmHg and diastolic
+BP falls >10 mmHg
+within 3 minutes
+orthostatic stress with
+lack of an adequate
+compensatory heart
+rate increase [>20
+bpm]); if posture test
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+coagulation profile):
+normal
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum vitamin
+B12 (older adults
+only): normal
+»tilt table test
+with beat to beat
+BP monitoring
+(e.g., digital artery
+photoplethysmography):
+profound and often
+prolonged hypotension
+in response to head
+up tilt often present;
+fall in systolic BP of
+>20 mmHg or diastolic
+BP >10 mmHg; supine
+hypertension may also
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Evaluation of hypotension Diagnosis
+Uncommon
+◊ Primary autonomic failure
+History Exam 1st Test Other tests
+(minutes) after posture
+change
+normal should not
+deter from further
+investigation in the
+presence of suggestive
+history
+»ECG: normal be present; presence of
+presyncopal symptoms
+associated with
+hemodynamic changes
+»specialized
+physiological
+tests (plasma
+norepinephrine;
+deep breathing:
+Valsalva
+maneuver test;
+electrophysiological
+tests; quantitative
+sudomotor axon
+reflex test [QSART]:
+heart rate variability
+test): failure to release
+norepinephrine on
+standing; diminished
+beat-to-beat variation
+on ECG during
+inspiration and
+expiration; failure of
+the BP overshoot
+after release of the
+strain during Valsalva
+maneuver; reduction
+in sensory nerve
+conduction velocity and
+muscle denervation on
+electrophysiological
+tests; absence of sweat
+production on QSART;
+decreased heart rate
+variability
+◊ Amyloidosis
+History Exam 1st Test Other tests
+history of unexplained
+weight loss;
+parasthesia; shortness
+of breath; fatigue;
+dizziness on standing;
+may be a known
+history of amyloidosis,
+or of a chronic
+inflammatory condition
+known to predispose
+macroglossia (specific
+for amyloidosis);
+periorbital purpura;
+lower limb edema
+which is resistant
+to diuretic therapy;
+elevated jugular
+venous pressure;
+orthostatic hypotension;
+signs of a chronic
+»serum and urine
+immunofixation:
+clonal plasma cells
+demonstrated
+»immunoglobulin
+free light chain
+assay: abnormal
+kappa to lambda ratio
+»tissue biopsy:
+positive (green)
+birefringence with
+Congo Red stain
+Required to confirm
+diagnosis.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Amyloidosis
+History Exam 1st Test Other tests
+to amyloidosis
+development (e.g.,
+rheumatoid arthritis)
+inflammatory condition
+(e.g., rheumatoid
+deformities of joints,
+erythematous, tender
+joints, rheumatoid
+nodules, skin lesions)
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum
+LFTs, coagulation
+profile): associated
+renal insufficiency or
+gastrointestinal bleed:
+may be low Hb; hepatic
+amyloid: elevated alk
+phos
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum vitamin
+B12 (older adults
+only): normal
+»ECG: may
+demonstrate
+conduction
+abnormalities
+Adrenal suppression (iatrogenic)
+History Exam 1st Test Other tests
+More common in
+patients with chronic
+inflammatory disorders
+such as rheumatoid
+arthritis, polymyalgia
+rheumatica, or
+inflammatory bowel
+disease. May be
+associated with
+intercurrent illness or
+abrupt withdrawal of
+chronic steroids
+Hypotension may
+be mild; lethargy
+and decreased level
+of consciousness;
+stigmata indicative
+of underlying chronic
+inflammatory disorder
+such as rheumatoid
+hands; cushingoid
+appearance
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+coagulation profile):
+serum electrolytes:
+may be hyponatremia
+and hyperkalemia,
+serum BUN may be
+elevated; CBC: WBC
+count may be elevated
+with intercurrent illness
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum vitamin
+B12 (older adults
+only): normal
+Results may be
+abnormal if there is
+associated autoimmune
+»adrenocorticotrophic
+hormone
+stimulation test:
+low serum cortisol
+pre-administration
+of cosyntropin with
+failure to rise after
+administration (<18
+micrograms/dL)
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Evaluation of hypotension Diagnosis
+Uncommon
+Adrenal suppression (iatrogenic)
+History Exam 1st Test Other tests
+thyroid disease or
+pernicious anemia.
+»ECG: normal
+»morning serum
+cortisol: <3
+micrograms/dL
+Addison disease
+History Exam 1st Test Other tests
+weight loss; anorexia;
+increased pigmentation;
+fatigue; nausea and
+vomiting; salt craving;
+dizziness
+hyperpigmentation
+(commonly mucous
+membranes and sun-
+exposed areas, more
+pronounced in palmar
+creases, areas of
+friction, and scars)
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+coagulation profile):
+serum electrolytes: may
+be hyponatremia and
+hyperkalemia, serum
+BUN may be elevated;
+CBC: may be low Hb,
+eosinophilia
+»serum thyroid-
+stimulating
+hormone, free T4
+and serum vitamin
+B12 (older adults
+only): normal
+Results may be
+abnormal if there is
+associated autoimmune
+thyroid disease or
+pernicious anemia.
+»ECG: normal
+»morning serum
+cortisol: <3
+micrograms/dL
+Should be measured
+between 8am and
+9am when levels
+are expected to be
+highest.[63]
+»adrenocorticotropic
+hormone
+stimulation test:
+low serum cortisol
+pre-administration
+of cosyntropin with
+failure to rise after
+administration (<18
+micrograms/dL)
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Hypopituitarism
+History Exam 1st Test Other tests
+failure to thrive in
+childhood; short
+stature; failure
+of secondary
+characteristics;
+oligomenorrhea;
+infertility; headache;
+visual field defects;
+blurred vision
+dry skin; breast
+atrophy; increased body
+mass index; loss of
+axillary and pubic hair;
+ophthalmoplegia
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+coagulation profile):
+low serum sodium
+»serum thyroid-
+stimulating
+hormone, free T4: low
+free T4, low or normal
+thyroid-stimulating
+hormone
+»morning serum
+cortisol: <3
+micrograms/dL
+»morning serum
+testosterone, LH,
+FSH (in men): all low
+»morning serum
+estradiol, LH, FSH (in
+women): all low
+»serum prolactin:
+may be elevated
+»adrenocorticotrophic
+hormone
+stimulation test:
+low serum cortisol
+pre-administration
+of cosyntropin with
+failure to rise after
+administration (<18
+micrograms/dL)
+»serum insulin like
+growth factor: low
+◊ Thiamine deficiency
+History Exam 1st Test Other tests
+presence of suggestive
+risk factors (e.g.,
+alcohol abuse,
+recurrent vomiting,
+chronic diarrhea,
+postgastrointestinal
+surgery, AIDS, total
+parenteral nutrition,
+diet of polished rice);
+fatigue; weakness;
+muscle aches; reduced
+peripheral sensation;
+swollen legs; poor
+balance; confusion;
+paresthesia
+peripheral edema;
+reduced knee jerks
+and other tendon
+reflexes; severe muscle
+weakness; muscle
+wasting; tachycardia;
+signs of Wernicke
+encephalopathy
+(e.g., mental state
+changes such as acute
+confusion, ataxia, and
+ocular abnormalities
+such as nystagmus and
+strabismus)
+»trial of thiamine
+replacement
+therapy: clinical
+improvement may
+support diagnosis
+»erythrocyte
+thiamine
+pyrophosphate level:
+reduced
+Prior to starting
+thiamine-replacement
+therapy, a blood sample
+should be taken for
+erythrocyte thiamine
+pyrophosphate. A good
+indicator of the body
+stores of thiamine,
+»ABG: elevated anion
+gap, metabolic acidosis
+»serum lactate:
+elevated
+»MRI brain: Wernicke
+encephalopathy:
+bilateral increased
+T2 signal in the
+paraventricular regions
+of the thalamus,
+hypothalamus,
+mammillary bodies,
+periaqueductal region,
+fourth ventricle floor,
+and midline cerebellum
+Not specific to the
+condition.
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Evaluation of hypotension Diagnosis
+Uncommon
+◊ Thiamine deficiency
+History Exam 1st Test Other tests
+but tests usually take
+several days for result
+so treatment should not
+be delayed.
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum LFTs,
+coagulation profile):
+CBC: macrocytosis
+»serum thyroid-
+stimulating
+hormone, free T4:
+normal
+All patients presenting
+in high-output cardiac
+failure should have
+thyroid function tests
+urgently checked to rule
+out thyrotoxicosis.
+»serum B12 (older
+adults only): normal
+»ECG: normal
+◊ Vitamin B12 deficiency
+History Exam 1st Test Other tests
+may be known vitamin
+B12 deficiency; may
+be risk factors present
+(e.g., elderly people,
+patients with chronic
+malabsorption, history
+of gastric resection
+or bypass, and
+those taking certain
+medications such as
+metformin, proton
+pump inhibitors); lower
+limb numbness; other
+parasthesia; depressed
+mood
+decreased vibration
+sense; gait
+abnormalities;
+decreased peripheral
+sensation; absent
+ankle jerks; signs
+of depression or
+dementia; exam may
+be normal; late signs:
+angular cheilitis,
+glossitis, pallor and
+bruising
+»basic test panel
+(CBC, serum
+electrolytes, blood
+glucose, serum
+LFTs, coagulation
+profile): CBC: may
+be normal but may
+be low Hb, elevated
+MCV, low hematocrit;
+peripheral blood
+smear: megalocytes,
+hypersegmented
+polymorphonucleated
+cells
+»serum vitamin B12:
+<200 picograms/mL
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Evaluation of hypotension Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Vitamin B12 deficiency
+History Exam 1st Test Other tests
+is highly suggestive of
+deficiency
+This level of serum
+vitamin B12 generally
+confirms the diagnosis.
+»serum thyroid-
+stimulating
+hormone, free T4
+(older adults only):
+normal
+Unless there is
+associated autoimmune
+thyroid disease.
+»ECG: normal
+»reticulocyte
+count: low corrected
+reticulocyte index
+◊ Carcinoid syndrome
+History Exam 1st Test Other tests
+associated symptoms
+of flushing, diarrhea,
+abdominal pain,
+palpitations and
+wheeze
+peripheral edema
+secondary to right heart
+failure, tachycardia,
+telangiectasia, cardiac
+murmur, hepatomegaly,
+wheeze, abdominal
+mass
+»24 hours of urinary
+excretion of 5-
+hydroxyindole
+acetic acid: elevated
+5-hydroxyindole
+acetic acid is a
+breakdown product of
+serotonin and is almost
+exclusively excreted in
+the urine[93]
+»CT scan chest,
+abdomen and pelvis:
+identifies location of
+primary tumor and
+presence of liver
+metastases
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Evaluation of hypotension Online resources
+Online resources
+1. Resuscitation Council (UK): 2021 resuscitation guidelines (external link) (https://www.resus.org.uk/
+library/2021-resuscitation-guidelines)
+ONLINE RESOURCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Evaluation of hypotension Evidence tables
+EVIDENCE TABLES
+Evidence tables
+What are the effects of early versus late initiation of empiric antimicrobial
+treatment in adults with or at risk of developing sepsis or severe sepsis?[37]
+This table is a summary of the analysis reported in a guideline (underpinned by a systematic review)
+that focuses on the above important clinical question.
+View the full source guideline (https://www.nice.org.uk/guidance/ng51/evidence)
+Evidence C *
+Confidence in the evidence is very low or low where GRADE has been performed
+and the intervention may be more effective/beneficial than the comparison for key
+outcomes. However, this is uncertain and new evidence could change this in the
+future.
+Population: Adults with or at risk of developing sepsis or severe sepsis
+Intervention: Early initiation of empiric antimicrobial treatment
+Comparison: Late initiation of empiric antimicrobial treatment
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+<1 hour versus >1 hour
+Mortality ᵃ Favors intervention Very Low
+Mortality - Intensive Care Unit
+(ICU) setting
+Favors intervention Very Low
+Mortality - Emergency
+Department (ED) setting
+No statistically significant
+difference
+Very Low
+<2 hours versus >2 hours
+Mortality ᵃ No statistically significant
+difference
+Very Low
+Mortality - ICU setting Favors intervention Very Low
+Mortality - ED setting No statistically significant
+difference
+Very Low
+<3 hours versus >3 hours
+Mortality ᵃ Favors intervention Very Low
+Mortality - ICU setting No statistically significant
+difference
+Very Low
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Evaluation of hypotension Evidence tables
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+Mortality - ED setting Favors intervention Very Low
+<4 hours versus >4 hours
+Mortality - ED setting No statistically significant
+difference
+Very Low
+<5 hours versus >5 hours
+Mortality - ED setting No statistically significant
+difference
+Very Low
+<6 hours versus >6 hours
+Mortality ᵃ Favors intervention Very Low
+Mortality - ICU setting No statistically significant
+difference
+Very Low
+Mortality - ED setting Favours intervention Very Low
+Recommendations as stated in the source guideline
+The guideline committee recommends that adults, children and young people over the age of 12 who have
+suspected sepsis and one or more high-risk criteria, should be given a broad-spectrum antimicrobial at the
+maximum recommended dose without delay (within 1 hour of establishing they meet high-risk criteria in an
+acute hospital s e t t i n g ) . ᵇ  See guideline for details on criteria for different levels of risk.
+Note
+Results in this table are based on observational studies only.
+ᵃ  Includes overall mortality in intensive care and emergency department settings.
+ᵇ  This guideline recommends that all people with suspected sepsis have a face-to-face assessment and a
+risk stratification tool is used to determine risk of severe illness and death from sepsis. Recommendations
+depend on the presence and number of high-, moderate-to-high, and low-risk criteria.
+EVIDENCE TABLES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Evaluation of hypotension Evidence tables
+EVIDENCE TABLES
+What are the effects of early versus late initiation of empiric antimicrobial
+treatment in children with or at risk of developing sepsis or severe sepsis?[37]
+This table is a summary of the analysis reported in a guideline (underpinned by a systematic review)
+that focuses on the above important clinical question.
+View the full source guideline (https://www.nice.org.uk/guidance/ng51/evidence)
+Evidence C *
+Confidence in the evidence is very low or low where GRADE has been performed
+and the intervention may be more effective/beneficial than the comparison for key
+outcomes. However, this is uncertain and new evidence could change this in the
+future.
+Population: Children with or at risk of developing sepsis or severe sepsis
+Intervention: Early initiation of empiric antimicrobial treatment
+Comparison: Late initiation of empiric antimicrobial treatment
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+<1 hour versus >1 hour ᵃ 
+ Pediatric Intensive Care Unit
+(PICU) mortality
+No statistically significant
+difference
+Very Low
+<2 hours versus >2 hours ᵃ 
+ PICU mortality No statistically significant
+difference
+Very Low
+<3 hours versus >3 hours ᵃ 
+ PICU mortality Favors intervention Very Low
+<4 hours versus >4 hours ᵃ 
+ PICU mortality Favors intervention Very Low
+Recommendations as stated in the source guideline
+The National Institute of Health and Care Excellence (NICE) 2016 guideline on Sepsis: recognition, diagnosis
+and early management makes the following recommendation:
+For children aged 5–11 years who have suspected sepsis and 1 or more high-risk criteria, give a broad-
+spectrum antimicrobial ᵇ  at the maximum recommended dose without delay (within 1 hour of identifying that
+they meet any high-risk criteria in an acute hospital setting).
+Note
+The guideline group noted that the direct evidence in children came from one small (n=130), single-
+centre retrospective study of children in PICU with severe sepsis and septic shock. Therefore, they also
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Evaluation of hypotension Evidence tables
+extrapolated from the indirect evidence in adults to make the same recommendation for all age groups
+(including children aged under 5 years and 5-11 years).
+ᵃ  Time from sepsis recognition to initial treatment and first appropriate treatment.
+ᵇ  See full guideline for more information.
+* Evidence levels
+The Evidence level is an internal rating applied by BMJ Best Practice. See the EBM Toolkit (https://
+bestpractice.bmj.com/info/evidence-tables/) for details.
+Confidence in evidence
+A -  High or moderate to high
+B -  Moderate or low to moderate
+C -  Very low or low
+† Effectiveness (BMJ rating)
+Based on statistical significance, which demonstrates that the results are unlikely to be due to chance, but
+which does not necessarily translate to a clinical significance.
+‡ Grade certainty ratings
+High The authors are very confident that the true
+effect is similar to the estimated effect.
+Moderate The authors are moderately confident that
+the true effect is likely to be close to the
+estimated effect.
+Low The authors have limited confidence in the
+effect estimate and the true effect may be
+substantially different.
+Very Low The authors have very little confidence in
+the effect estimate and the true effect is
+likely to be substantially different.
+BMJ Best Practice EBM Toolkit: What is GRADE? (https://bestpractice.bmj.com/info/toolkit/learn-ebm/what-
+is-grade/)
+EVIDENCE TABLES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Evaluation of hypotension References
+REFERENCES
+Key articles
+• Brignole M, Moya A, de Lange FJ, et al. 2018 ESC guidelines for the diagnosis and management of
+syncope. Eur Heart J. 2018 Jun 1;39(21):1883-948.  Full text (https://academic.oup.com/eurheartj/
+article/39/21/1883/4939241)
+• McDonagh TA, Metra M, Adamo M, et al. 2021 ESC guidelines for the diagnosis and treatment
+of acute and chronic heart failure. Eur Heart J. 2021 Sep 21;42(36):3599-726.  Full text (https://
+academic.oup.com/eurheartj/article/42/36/3599/6358045)
+• Society of Critical Care Medicine; European Society of Intensive Care Medicine. Surviving Sepsis
+Campaign: hour-1 bundle: initial resuscitation for sepsis and septic shock. 2019 [internet publication]. 
+Full text (https://www.sccm.org/SurvivingSepsisCampaign/Guidelines)
+• Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association joint
+committee on clinical practice guidelines. Circulation. 2022 May 3;145(18):e895-1032.  Full text
+(https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001063)   Abstract
+References
+1. Gibson SJ, Helme RD. Age-related differences in pain perception and report. Clin Geriatr
+Med. 2001 Aug;17(3):433-56, v-vi. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11459714?
+tool=bestpractice.bmj.com)
+2. Sigurdsson E, Thorgeirsson G, Sigvaldason N. Unrecognised myocardial infarction: epidemiology,
+clinical characteristics and the prognostic role of angina pectoris. The Reykjavik Study. Ann
+Intern Med. 1995 Jan 15;122(2):96-102. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7993002?
+tool=bestpractice.bmj.com)
+3. Ishigami J, Charleston J, Miller ER 3rd, et al. Effects of cuff size on the accuracy of blood pressure
+readings: the cuff(SZ) randomized crossover trial. JAMA Intern Med. 2023 Oct 1;183(10):1061-8. 
+Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC10407761)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/37548984?tool=bestpractice.bmj.com)
+4. Frith J. Diagnosing orthostatic hypotension: a narrative review of the evidence. Br Med Bull.
+2015 Sep;115(1):123-34.  Full text (https://www.doi.org/10.1093/bmb/ldv025)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25995335?tool=bestpractice.bmj.com)
+5. McEvoy JW, McCarthy CP, Bruno RM, et al. 2024 ESC guidelines for the management of elevated
+blood pressure and hypertension. Eur Heart J. 2024 Oct 7;45(38):3912-4018.  Full text (https://
+academic.oup.com/eurheartj/article/45/38/3912/7741010)
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Evaluation of hypotension References
+6. Freeman R, Wieling W, Axelrod FB, et al. Consensus statement on the definition of orthostatic
+hypotension, neurally mediated syncope and the postural tachycardia syndrome. Clin Auton Res. 2011
+Apr;21(2):69-72. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21431947?tool=bestpractice.bmj.com)
+7. Haerlein J, Dassen T, Halfens RJ, et al. Fall risk factors in older people with dementia or
+cognitive impairment: a systematic review. J Adv Nurs. 2009 May;65(5):922-33. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19291191?tool=bestpractice.bmj.com)
+8. Corsinovi L, Bo M, Ricauda- Aimonino N, et al. Outcomes in elderly patients admitted to an acute
+geriatric unit. Arch Gerontol Geriatr. 009 Jul-Aug;49(1):142-5. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18674824?tool=bestpractice.bmj.com)
+9. Rose BD, Post TW. Hypovolemic states. In: Clinical physiology of acid-base and electrolyte disorders.
+5th ed. New York, NY: McGraw-Hill; 2001:415-46.
+10. McGee S, Abernethy WB 3rd, Simel DL. The rational clinical examination: is this patient
+hypovolemic? JAMA. 1999;281:1022-1029. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10086438?
+tool=bestpractice.bmj.com)
+11. Portilla D, Andreoli TE. Disorders of extracellular volume. In: Johnson RJ, Feehally J, eds.
+Comprehensive clinical nephrology. London: Mosby International; 2007:77-91.
+12. Gitz Holler J, Jensen HK, Henriksen DP, et al. Etiology of shock in the emergency department:
+A 12-year population-based cohort study. Shock. 2019 Jan;51(1):60-67.  Full text (https://
+www.doi.org/10.1097/SHK.0000000000000816)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27984523?tool=bestpractice.bmj.com)
+13. Hochman JS. Cardiogenic shock complicating acute myocardial infarction: expanding the
+paradigm. Circulation. 2003 Jun 24;107(24):2998-3002.  Full text (https://circ.ahajournals.org/
+content/107/24/2998.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12821585?
+tool=bestpractice.bmj.com)
+14. Standl T, Annecke T, Cascorbi I, et al. The nomenclature, definition and distinction
+of types of shock. Dtsch Arztebl Int. 2018 Nov 9;115(45):757-768.  Full text (https://
+www.doi.org/10.3238/arztebl.2018.0757)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30573009?
+tool=bestpractice.bmj.com)
+15. Hines OJ, Pandol SJ. Management of severe acute pancreatitis. BMJ. 2019 Dec 2;367:l6227.  Full text
+(https://www.doi.org/10.1136/bmj.l6227)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31791953?
+tool=bestpractice.bmj.com)
+16. Brignole M, Moya A, de Lange FJ, et al. 2018 ESC guidelines for the diagnosis and management of
+syncope. Eur Heart J. 2018 Jun 1;39(21):1883-948.  Full text (https://academic.oup.com/eurheartj/
+article/39/21/1883/4939241)
+17. Asplund CA, O'Connor F G, Noakes TD. Exercise-associated collapse: an evidence-based
+review and primer for clinicians. Br J Sports Med. 2011 Nov;45(14):1157-62.  Full text (http://
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Evaluation of hypotension References
+REFERENCES
+bjsm.bmj.com/content/45/14/1157.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21948122?
+tool=bestpractice.bmj.com)
+18. Cecconi M, De Backer D, Antonelli M, et al. Consensus on circulatory shock and hemodynamic
+monitoring. Task force of the European Society of Intensive Care Medicine. Intensive Care Med. 2014
+Dec;40(12):1795-815.  Full text (https://www.doi.org/10.1007/s00134-014-3525-z)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25392034?tool=bestpractice.bmj.com)
+19. O'Driscoll BR, Howard LS, Earis J, et al. BTS guideline for oxygen use in adults in healthcare and
+emergency settings. Thorax. 2017 Jun;72(suppl 1):ii1-90.  Full text (https://spiral.imperial.ac.uk/
+bitstream/10044/1/58263/2/Final%20Document.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28507176?tool=bestpractice.bmj.com)
+20. Hasler RM, Nuesch E, Jüni P, et al. Systolic blood pressure below 110 mmHg is associated
+with increased mortality in blunt major trauma patients: multicentre cohort study. Resuscitation.
+2011 Sep;82(9):1202-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21632168?
+tool=bestpractice.bmj.com)
+21. Wada H, Matsumoto T, Yamashita Y, et al. Diagnosis and treatment of disseminated intravascular
+coagulation (DIC) according to four DIC guidelines. J Intensive Care. 2014 Feb 20;2(1):15.  Full text
+(http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267589)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25520831?tool=bestpractice.bmj.com)
+22. Innerhofer P, Fries D, Mittermayr M, et al. Reversal of trauma-induced coagulopathy using first-
+line coagulation factor concentrates or fresh frozen plasma (RETIC): a single-centre, parallel-
+group, open-label, randomised trial. Lancet Haematol. 2017 Jun;4(6):e258-71. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28457980?tool=bestpractice.bmj.com)
+23. Papageorgiou C, Jourdi G, Adjambri E, et al. Disseminated Intravascular Coagulation: An Update
+on Pathogenesis, Diagnosis, and Therapeutic Strategies. Clin Appl Thromb Hemost. 2018
+Dec;24(9_suppl):8S-28S.  Full text (https://www.doi.org/10.1177/1076029618806424)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30296833?tool=bestpractice.bmj.com)
+24. Pollack CV Jr, Reilly PA, van Ryn J, et al. Idarucizumab for dabigatran reversal: full cohort analysis.
+N Engl J Med. 2017 Aug 3;377(5):431-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28693366?
+tool=bestpractice.bmj.com)
+25. Gayet-Ageron A, Prieto-Merino D, Ker K, et al. Effect of treatment delay on the effectiveness and
+safety of antifibrinolytics in acute severe haemorrhage: a meta-analysis of individual patient-level
+data from 40 138 bleeding patients. Lancet. 2018 Jan 13;391(10116):125-32.  Full text (http://
+www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32455-8/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29126600?tool=bestpractice.bmj.com)
+26. Chu DK, Kim LH, Young PJ, et al. Mortality and morbidity in acutely ill adults treated with liberal
+versus conservative oxygen therapy (IOTA): a systematic review and meta-analysis. Lancet.
+2018 Apr 28;391(10131):1693-1705. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29726345?
+tool=bestpractice.bmj.com)
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Evaluation of hypotension References
+27. O'Gara PT, Kushner FG, Ascheim DD, et al. 2013 ACCF/AHA guideline for the management of ST-
+elevation myocardial infarction: a report of the American College of Cardiology Foundation/American
+Heart Association Task Force on Practice Guidelines. Circulation. 2013 Jul 1;82(1):E1-27.  Full
+text (http://circ.ahajournals.org/content/127/4/e362.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23247304?tool=bestpractice.bmj.com)
+28. McDonagh TA, Metra M, Adamo M, et al. 2021 ESC guidelines for the diagnosis and treatment
+of acute and chronic heart failure. Eur Heart J. 2021 Sep 21;42(36):3599-726.  Full text (https://
+academic.oup.com/eurheartj/article/42/36/3599/6358045)
+29. Stein PD, Gottschalk A, Saltzman MA, et al. Diagnosis of acute pulmonary embolism in the elderly. J
+Am Coll Cardiol. 1991 Nov 15;18(6):1452-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1939945?
+tool=bestpractice.bmj.com)
+30. Panchal AR, Bartos JA, Cabañas JG, et al. Part 3: Adult basic and advanced life support:
+2020 American Heart Association guidelines for cardiopulmonary resuscitation and emergency
+cardiovascular care. Circulation. 2020 Oct 20;142(16_suppl_2):S366-468.  Full text (https://
+www.ahajournals.org/doi/full/10.1161/CIR.0000000000000916)
+31. Perman SM, Elmer J, Maciel CB, et al. 2023 American Heart Association focused update on adult
+advanced cardiovascular life support: an update to the American Heart Association guidelines
+for cardiopulmonary resuscitation and emergency cardiovascular care. Circulation. 2024 Jan
+30;149(5):e254-73.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001194)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/38108133?tool=bestpractice.bmj.com)
+32. American College of Surgeons. Advanced Trauma Life Support Student Course Manual. 2018 10th
+edition. 2018 [internet publication].
+33. National Patient Safety Agency. Alert: Blood control safety cannula and needle thoracostomy for
+tension pneumothorax. April 2020 [internet publication].  Full text (https://www.england.nhs.uk/
+publication/national-patient-safety-alert-blood-control-safety-cannula-and-needle-thoracostomy-for-
+tension-pneumothorax)
+34. Leigh-Smith S, Harris T. Tension pneumothorax - time for a re-think? Emerg Med J.
+2005 Jan;22(1):8-16.  Full text (http://emj.bmj.com/content/22/1/8.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15611534?tool=bestpractice.bmj.com)
+35. Jones R, Hollingsworth J. Tension pneumothoraces not responding to needle thoracocentesis.
+Emerg Med J. 2002 Mar;19(2):176-7.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC1725828/pdf/v019p00176.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11904276?
+tool=bestpractice.bmj.com)
+36. Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions
+for sepsis and septic shock (Sepsis-3). JAMA. 2016 Feb 23;315(8):801-10.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4968574)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26903338?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+65
+=== Page 66 ===
+Evaluation of hypotension References
+REFERENCES
+37. National Institute for Health and Care Excellence. Suspected sepsis: recognition, diagnosis and early
+management. Mar 2024 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng51)
+38. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: international
+guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021 Nov
+1;49(11):e1063-143.  Full text (https://journals.lww.com/ccmjournal/fulltext/2021/11000/
+surviving_sepsis_campaign__international.21.aspx)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34605781?tool=bestpractice.bmj.com)
+39. Warmerdam M, Baris L, van Liebergen M, et al. The association between systolic blood pressure
+and in-hospital mortality in older emergency department patients who are hospitalised with a
+suspected infection. Emerg Med J. 2018 Oct;35(10):619-622.  Full text (https://www.doi.org/10.1136/
+emermed-2018-207502)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29982193?
+tool=bestpractice.bmj.com)
+40. Royal College of Physicians. National Early Warning Score (NEWS) 2. December 2017 [internet
+publication].  Full text (https://www.rcplondon.ac.uk/projects/outputs/national-early-warning-score-
+news-2)
+41. American College of Emergency Physicians (ACEP) Expert Panel on Sepsis. DART: an evidence-
+driven tool to guide the early recognition and treatment of sepsis and septic shock [internet
+publication].  Full text (https://poctools.acep.org/POCTool/Sepsis(DART)/276ed0a9-f24d-45f1-8d0c-
+e908a2758e5a)
+42. Academy of Medical Royal Colleges. Statement on the initial antimicrobial treatment of sepsis. Oct
+2022 [internet publication].  Full text (https://www.aomrc.org.uk/reports-guidance)
+43. Schlapbach LJ, Watson RS, Sorce LR, et al. International consensus criteria for pediatric
+sepsis and septic shock. JAMA. 2024 Jan 21.  Full text (https://jamanetwork.com/journals/
+jama/fullarticle/2814297)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/38245889?
+tool=bestpractice.bmj.com)
+44. Society of Critical Care Medicine; European Society of Intensive Care Medicine. Surviving Sepsis
+Campaign: hour-1 bundle: initial resuscitation for sepsis and septic shock. 2019 [internet publication]. 
+Full text (https://www.sccm.org/SurvivingSepsisCampaign/Guidelines)
+45. Resuscitation Council UK. Guidance: Anaphylaxis. 2021 [internet publication].  Full text (https://
+www.resus.org.uk/library/additional-guidance/guidance-anaphylaxis)
+46. European Resuscitation Council. ERC Guidelines. 2021 [internet publication].  Full text (https://
+cprguidelines.eu)
+47. Rushworth RL, Torpy DJ, Falhammar H. Adrenal Crisis. N Engl J Med. 2019 Aug
+29;381(9):852-61.  Full text (https://www.nejm.org/doi/10.1056/NEJMra1807486?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31461595?tool=bestpractice.bmj.com)
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 67 ===
+Evaluation of hypotension References
+48. Pinsky MR. Hemodynamic evaluation and monitoring in the ICU. Chest. 2007 Dec;132(6):2020-9.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18079239?tool=bestpractice.bmj.com)
+49. Rady MY, Rivers EP, Nowak RM. Resuscitation of the critically ill in the ED: responses of
+blood pressure, heart rate, shock index, central venous oxygen saturation, and lactate. Am J
+Emerg Med. 1996 Mar;14(2):218-25. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8924150?
+tool=bestpractice.bmj.com)
+50. Monnet X, Marik P, Teboul JL. Passive leg raising for predicting fluid responsiveness: a systematic
+review and meta-analysis. Intensive Care Med. 2016 Dec;42(12):1935-47. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26825952?tool=bestpractice.bmj.com)
+51. Marik PE, Lemson J. Fluid responsiveness: an evolution of our understanding. Br J Anaesth. 2014
+Apr;112(4):617-20.  Full text (https://bjanaesthesia.org/article/S0007-0912(17)30874-7/fulltext)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24535603?tool=bestpractice.bmj.com)
+52. Atkinson P, Bowra J, Milne J, et al. International Federation for Emergency Medicine Consensus
+Statement: Sonography in hypotension and cardiac arrest (SHoC): An international consensus
+on the use of point of care ultrasound for undifferentiated hypotension and during cardiac arrest.
+CJEM. 2017 Nov;19(6):459-70.  Full text (https://www.cambridge.org/core/journals/canadian-
+journal-of-emergency-medicine/article/international-federation-for-emergency-medicine-consensus-
+statement-sonography-in-hypotension-and-cardiac-arrest-shoc-an-international-consensus-
+on-the-use-of-point-of-care-ultrasound-for-undifferentiated-hypotension-and-during-cardiac-
+arrest/1220D0A3B853EE22B6FB0294F1CD0D67/core-reader)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27998322?tool=bestpractice.bmj.com)
+53. Atkinson PR, Milne J, Diegelmann L, et al. Does point-of-care ultrasonography improve
+clinical outcomes in emergency department patients with undifferentiated hypotension? An
+international randomized controlled trial from the SHoC-ED investigators. Ann Emerg Med. 2018
+Oct;72(4):478-489.  Full text (https://www.doi.org/10.1016/j.annemergmed.2018.04.002)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29866583?tool=bestpractice.bmj.com)
+54. Warren J, Moazzez A, Chong V, et al. Narrowed pulse pressure predicts massive transfusion
+and emergent operative intervention following penetrating trauma. Am J Surg. 2019
+Dec;218(6):1185-1188.  Full text (https://www.doi.org/10.1016/j.amjsurg.2019.08.022)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31551145?tool=bestpractice.bmj.com)
+55. Reynolds HR, Hochman JS. Cardiogenic shock: current concepts and improving outcomes.
+Circulation. 2008 Feb 5;117(5):686-97.  Full text (https://circ.ahajournals.org/content/117/5/686.full)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18250279?tool=bestpractice.bmj.com)
+56. Clinch D, Banerjee AK, Ostick G. Absence of abdominal pain in elderly patients with peptic ulcer
+disease. Age Ageing. 1984 Mar;13(2):120-3. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6731166?
+tool=bestpractice.bmj.com)
+57. Liston R, McLoughlin R, Clinch D. Acute pneumothorax: A comparison of elderly with younger
+patients. Age Ageing. 1994 Sep;23(5):393-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7825485?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+67
+=== Page 68 ===
+Evaluation of hypotension References
+REFERENCES
+58. Kuipers J, Verboom LM, Ipema KJR, et al. The prevalence of intradialytic hypotension in
+patients on conventional hemodialysis: A systematic review with meta-analysis. Am J Nephrol.
+2019;49(6):497-506.  Full text (https://www.doi.org/10.1159/000500877)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31129661?tool=bestpractice.bmj.com)
+59. Kamaruzzaman S, Watt H, Carson C, et al. The association between orthostatic hypotension and
+medication use in the British Women's Heart and Health Study. Age Ageing. 2010 Jan;39(1):51-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19897539?tool=bestpractice.bmj.com)
+60. Wynne HA, Schofield S. Drug-induced orthostatic hypotension. In: Kenny RA ,ed. Syncope in the older
+patient: causes, investigations and consequences of syncope and falls. London: Chapman & Hall.
+1996:137-54.
+61. Maxwell EN, Johnson B, Cammilleri J, et al. Intravenous acetaminophen-induced hypotension: A
+review of the current literature. Ann Pharmacother. 2019 Oct;53(10):1033-1041.  Full text (https://
+www.doi.org/10.1177/1060028019849716)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31046402?
+tool=bestpractice.bmj.com)
+62. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association
+joint committee on clinical practice guidelines. Circulation. 2022 May 3;145(18):e895-1032.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001063)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35363499?tool=bestpractice.bmj.com)
+63. Hanna FWF, Issa BG, Kevil B, et al. Investigating cortisol excess or deficiency: a practical approach.
+BMJ. 2019 Nov 26;367:l6039.  Full text (https://www.doi.org/10.1136/bmj.l6039)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31771937?tool=bestpractice.bmj.com)
+64. National Institute for Health and Care Excellence. Anaphylaxis: assessment and referral after
+emergency treatment. Aug 2020 [internet publication].  Full text (https://www.nice.org.uk/guidance/
+cg134)
+65. Kusminsky RE. Complications of central venous catheterization. J Am Coll Surg.
+2007 Apr;204(4):681-96. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17382229?
+tool=bestpractice.bmj.com)
+66. McGee DC, Gould MK. Preventing complications of central venous catheterization. N Engl J Med.
+2003 Mar 20;348(12):1123-33.  Full text (http://www.nejm.org/doi/full/10.1056/NEJMra011883)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12646670?tool=bestpractice.bmj.com)
+67. Smith RN, Nolan JP. Central venous catheters. BMJ. 2013 Nov 11;347:f6570.  Full text (https://
+www.bmj.com/content/347/bmj.f6570.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24217269?
+tool=bestpractice.bmj.com)
+68. Reich DL. Monitoring in anesthesia and perioperative care. Cambridge: Cambridge University Press;
+2011.
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 69 ===
+Evaluation of hypotension References
+69. Abbott Northwestern Hospital Internal Medicine Residency. Internal jugular central venous line. 2022
+[internet publication].  Full text (http://www.anwresidency.com/simulation/guide/ij.html)
+70. Bishop L, Dougherty L, Bodenham A, et al. Guidelines on the insertion and management of central
+venous access devices in adults. Int J Lab Hematol. 2007 Aug;29(4):261-78. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17617077?tool=bestpractice.bmj.com)
+71. Practice guidelines for central venous access 2020: an updated report by the American Society of
+Anesthesiologists Task Force on Central Venous Access. Anesthesiology. 2020 Jan;132(1):8-43.  Full
+text (https://www.doi.org/10.1097/ALN.0000000000002864)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31821240?tool=bestpractice.bmj.com)
+72. Fletcher SJ, Bodenham AR. Safe placement of central venous catheters: where should the tip
+of the catheter lie? Br J Anaesth. 2000 Aug;85(2):188-91. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10992821?tool=bestpractice.bmj.com)
+73. Gibson F, Bodenham A. Misplaced central venous catheters: applied anatomy and practical
+management. Br J Anaesth. 2013 Mar;110(3):333-46.  Full text (https://academic.oup.com/
+bja/article/110/3/333/249469)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23384735?
+tool=bestpractice.bmj.com)
+74. Schuster M, Nave H, Piepenbrock S, et al. The carina as a landmark in central venous catheter
+placement. Br J Anaesth. 2000 Aug;85(2):192-4. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10992822?tool=bestpractice.bmj.com)
+75. Webster J, Osborne S, Rickard CM, et al. Clinically-indicated replacement versus routine replacement
+of peripheral venous catheters. Cochrane Database Syst Rev. 2019 Jan 23;(1):CD007798.  Full text
+(https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007798.pub5/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30671926?tool=bestpractice.bmj.com)
+76. Simundic AM, Bölenius K, Cadamuro J, et al. Joint EFLM-COLABIOCLI recommendation for venous
+blood sampling. Clin Chem Lab Med. 2018;56(12):2015-38. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30004902?tool=bestpractice.bmj.com)
+77. Wieling W, Thijs RD, van Dijk N, et al. Symptoms and signs of syncope: a review of the link
+between physiology and clinical clues. Brain. 2009 Oct;132(Pt 10):2630-42. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19587129?tool=bestpractice.bmj.com)
+78. Bannister R. Chronic autonomic failure with postural hypotension. Lancet. 1979 Aug 25;2(8139):404-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/89459?tool=bestpractice.bmj.com)
+79. Mathias CJ, Bannister R. Clinical features and evaluation of the primary chronic autonomic failure
+syndromes. In: Bannister R, Mathias CJ eds. Autonomic failure: A textbook of clinical disorders of the
+autonomic nervous system. 4th ed. New York, NY: Oxford University Press;1999:562
+80. Wang AK, Fealey RD, Gehrking TL, et al. Patterns of neuropathy and autonomic failure in patients
+with amyloidosis. Mayo Clin Proc. 2008 Nov;83(11):1226-30.  Full text (http://www.ncbi.nlm.nih.gov/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+69
+=== Page 70 ===
+Evaluation of hypotension References
+REFERENCES
+pmc/articles/PMC2842947)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18990321?
+tool=bestpractice.bmj.com)
+81. Hiorth YH, Pedersen KF, Dalen I, et al. Orthostatic hypotension in Parkinson disease: A 7-year
+prospective population-based study. Neurology. 2019 Oct 15;93(16):e1526-e1534.  Full text
+(https://www.doi.org/10.1212/WNL.0000000000008314)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31527282?tool=bestpractice.bmj.com)
+82. Moore A, Ryan J, Watts M et al. Orthostatic tolerance in older patients with vitamin B12 deficiency
+before and after vitamin B12 replacement. Clin Auton Res. 2004 Apr;14(2):67-71. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15095047?tool=bestpractice.bmj.com)
+83. Sarasin FP, Louis-Simonet M, Caraballo D, et al. Prevalence of orthostatic hypotension among
+patients with syncope in the ED. Am J Emerg Med. 2002 Oct;20(6):497-501. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12369019?tool=bestpractice.bmj.com)
+84. Kenny RA, Richardson DA. Carotid sinus syndrome and falls in older adults. Am J Geriatr
+Cardiol. 2001 Mar-Apr;10(2):97-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11253467?
+tool=bestpractice.bmj.com)
+85. Kenny RA, Bayliss J, Ingram A, et al. Head-Up tilt table testing: a useful test for investigating
+unexplained falls. Lancet. 1986;i:1352-54.
+86. Kearney F, Moore A, Donegan C. Orthostatic hypotension in older adults. Rev Clin Gerontol.
+2007;17(4):259-75.
+87. Batlle D, Chen S, Haque S. Physiological principles in the clinical evaluation of electrolyte, water,
+and acid-base disorders. In: Alpern RJ, Caplan MJ, Moe OW, eds. Seldin and Giebisch's the kidney:
+physiology and pathophysiology. 5th ed. San Diego, CA: Academic Press; 2012:2477-512.
+88. Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal
+bleeding: guidelines from the British Society of Gastroenterology. Gut. 2019 May;68(5):776-89. 
+Full text (https://gut.bmj.com/content/68/5/776.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30792244?tool=bestpractice.bmj.com)
+89. Siegel CL, Cohan RH, Korobkin M, et al. Abdominal aortic aneurysm morphology: CT features in
+patients with ruptured and nonruptured aneurysms. AJR Am J Roentgenol. 1994 Nov;163(5):1123-9. 
+Full text (http://www.ajronline.org/doi/pdf/10.2214/ajr.163.5.7976888)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7976888?tool=bestpractice.bmj.com)
+90. Dent B, Kendall RJ, Boyle AA, et al. Emergency ultrasound of the abdominal aorta by UK emergency
+physicians: a prospective cohort study. Emerg Med J. 2007 Aug;24(8):547-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17652674?tool=bestpractice.bmj.com)
+91. Rompianesi G, Hann A, Komolafe O, et al. Serum amylase and lipase and urinary trypsinogen
+and amylase for diagnosis of acute pancreatitis. Cochrane Database Syst Rev. 2017 Apr
+21;4:CD012010.  Full text (https://www.doi.org/10.1002/14651858.CD012010.pub2)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28431198?tool=bestpractice.bmj.com)
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 71 ===
+Evaluation of hypotension References
+92. The PIOPED Investigators. Value of the ventilation/perfusion scan in acute pulmonary embolism.
+Results of the prospective investigation of pulmonary embolism diagnosis (PIOPED). JAMA.
+1990 May 23-30;263(20):2753-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2332918?
+tool=bestpractice.bmj.com)
+93. Hassan SA, Banchs J, Iliescu C, et al. Carcinoid heart disease. Heart. 2017 Oct;103(19):1488-95.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28596302?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+71
+=== Page 72 ===
+Evaluation of hypotension Images
+IMAGES
+Images
+Figure 1: Summary of assessment in a hypotensive adult
+Created by The BMJ Group
+72 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 73 ===
+Evaluation of hypotension Images
+Figure 2: ECG demonstrating episode of paroxysmal atrial tachycardia in a 35-year-old with history of recent
+cocaine use
+From the collection of Sarah Stahmer, MD, Duke University Medical Center, Durham, NC; used with
+permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+73
+=== Page 74 ===
+Evaluation of hypotension Images
+IMAGES
+Figure 3: Chronic illness presenting with hypotension based on patient age
+Created by The BMJ Group
+74 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 75 ===
+Evaluation of hypotension Images
+Figure 4: Plantar ulcer in a patient with type 1 diabetes
+From the collection of Rodica Pop-Busui, University of Michigan, MI; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+75
+=== Page 76 ===
+Evaluation of hypotension Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+76 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 77 ===
+Evaluation of hypotension Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 29, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+77
+=== Page 78 ===
+Contributors:
+// Authors:
+Fiona Kearney, MB, BCh, BAO, MRCPI
+Consultant Geriatrician
+Department of Healthcare of Older People, Nottingham University Hospitals NHS Trust, Queen’s Medical
+Centre, Nottingham, UK
+DISCLOSURES: FK is an author of a reference cited in this topic.
+Alan Moore, MB, BCh, BAO, FRCPI
+Consultant Geriatrician
+Beaumont Hospital, Dublin, Honorary Senior Lecturer at Royal College of Surgeons, Ireland Medical
+School, Dublin, Republic of Ireland
+DISCLOSURES: AM is an author of a number of references cited in this topic.
+// Peer Reviewers:
+Vidhu S. Paliwal, MD
+Cardiologist
+Skagit Valley Hospital, Mount Vernon, WA
+DISCLOSURES: VSP declares that he has no competing interests.
+Gideon Caplan, MB, BS Syd, FRACP
+Director
+Geriatric Medicine, Prince of Wales Hospital, Sydney, Australia
+DISCLOSURES: GC declares that he has no competing interests.
+Vasi Naganathan, MBBS, FRACP, MMed (Clin Epi), PhD, Grad Cert Med Ed
+Academic Sydney Medical School
+University of Sydney, Consultant Geriatrician, Concord Hospital Centre for Education and Research on
+Ageing, Concord, Australia
+DISCLOSURES: VN declares that he has no competing interests.
+Andrew Parfitt, MBBS, FFAEM
+Clinical Director
+Acute Medicine, Associate Medical Director, Consultant Emergency Medicine, Guy's and St Thomas' NHS
+Foundation Trust, Clinical Lead and Consultant, Accident Emergency Medicine, St Thomas' Hospital,
+London, UK
+DISCLOSURES: AP declares that he has no competing interests.

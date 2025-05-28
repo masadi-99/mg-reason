@@ -1,0 +1,2180 @@
+# Hypertriglyceridemia
+
+=== Page 1 ===
+Hypertriglyceridemia
+Straight to the point of care
+Last updated: Mar 05, 2025
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  5
+Case history  6
+Diagnosis  9
+Approach  9
+History and exam  13
+Risk factors  15
+Tests  17
+Differentials  19
+Criteria  19
+Screening  20
+Management  21
+Approach  21
+Treatment algorithm overview  24
+Treatment algorithm  26
+Emerging  34
+Primary prevention  34
+Secondary prevention  35
+Patient discussions  35
+Follow up  36
+Monitoring  36
+Complications  37
+Prognosis  37
+Guidelines  38
+Diagnostic guidelines  38
+Treatment guidelines  39
+Online resources  42
+References  43
+Images  54
+Disclaimer  57
+=== Page 3 ===
+Hypertriglyceridemia Overview
+Summary
+Hypertriglyceridemia (HTG) can be classified either according to the severity of triglyceride (TG) elevation or
+whether it is primary or secondary.
+Primary HTG is rarely monogenic and typically polygenic in nature; secondary causes of HTG include
+lifestyle factors, medical conditions, and drugs.
+Mild-to-moderate HTG is associated with increased risk of atherosclerotic cardiovascular disease while
+severe HTG may cause acute pancreatitis.
+Treatment begins with lifestyle modification and control of secondary factors.
+Additional therapies include statins, fibrates, and prescription omega-3 acids.
+Definition
+HTG is defined as elevated fasting plasma triglyceride (TG), typically >75th or >95th percentile for age
+and sex.[1] In the US, the American Heart Association/American College of Cardiology guidelines define
+moderate HTG as fasting or nonfasting TG 175-499 mg/dL (2.0 to 5.6 mmol/L) and severe HTG as fasting TG
+≥500 mg/dL (≥5.6 mmol/L).[2] Other lipoprotein abnormalities are often also present.[3] Patients with HTG
+have an increased risk of atherosclerotic cardiovascular disease, and a severely elevated TG level (>885 mg/
+dL [>10 mmol/L]) is associated with an increased risk of acute pancreatitis.[3] [4]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Hypertriglyceridemia Theory
+THEORY
+Epidemiology
+HTG is commonly encountered in clinical practice.[5] [13] Depending on the definition, the overall prevalence
+ranges from 10% to 25% in the adult population with considerable interregional variation.[5] [13] [15] [16] [17]
+The prevalence of mild-to-moderate HTG has been rising over the past few decades in parallel with obesity,
+insulin resistance, and type 2 diabetes.[5] [18] Prevalence of severe HTG, defined as plasma triglyceride
+(TG) concentration >885 mg/dL (>10 mmol/L), ranges from 0.10% to 0.20%, and prevalence of very severe
+HTG, defined as TG >1770 mg/dL (>20 mmol/L), ranges from 0.010% to 0.020%.[5]
+Etiology
+HTG may be genetic (primary) or acquired (secondary). Genetic causes may be monogenic or polygenic, but
+a monogenic cause is relatively rare.[5] [13]
+Primary/genetic causes include monogenic chylomicronemia (formerly known as hyperlipoproteinemia
+[HLP] type 1 or familial chylomicronemia syndrome), multifactorial or polygenic chylomicronemia (formerly
+HLP type 5 or mixed hyperlipidemia), multifactorial or polygenic HTG (formerly HLP type 4 or familial HTG),
+dysbetalipoproteinemia (formerly HLP type 3 or dysbetalipoproteinemia), and combined hyperlipoproteinemia
+(formerly HLP type 2B or familial combined hyperlipidemia).[5] [12]
+Secondary factors may contribute to clinical expression of HTG, but this often occurs on a background of
+polygenic susceptibility. Secondary causes of HTG include medical conditions, lifestyle factors, and drugs:[4]
+[5] [9]
+• Medical conditions: diabetes mellitus, metabolic syndrome, insulin resistance, obesity, chronic kidney
+disease, nephrotic syndrome, hypothyroidism, pregnancy (particularly in the third trimester when
+triglyceride elevation associated with pregnancy is peaking), myeloma, systemic lupus erythematosus,
+liver disease, HIV infection, Cushing syndrome, sarcoidosis
+• Lifestyle factors: excessive alcohol consumption; diet high in saturated fat, sugar, or high glycemic
+index foods; sedentary lifestyle
+• Drugs: glucocorticoids, anabolic steroids, oral estrogens, thiazide and loop diuretics,
+noncardioselective beta-blockers, isotretinoin, bexarotene, propofol, bile acid sequestrants,
+cyclophosphamide, asparaginase, capecitabine, interferon, tacrolimus, sirolimus, cyclosporine,
+protease inhibitors, second-generation antipsychotic agents (e.g., clozapine, olanzapine).
+Pathophysiology
+Triglycerides (TG) are transported in the body in TG-rich lipoproteins that are composed of core lipids (TG
+and cholesterol esters) and surface apolipoproteins, phospholipids, and free cholesterol; the two main types
+of TG-rich lipoproteins are chylomicrons and very low-density lipoproteins (VLDL).[5] [13] Chylomicrons
+are secreted by the intestine and transport exogenous (dietary) TG, while VLDL is secreted by the liver and
+transports TG of endogenous origin.[13] [19] VLDL particles are delivered to peripheral tissues where they
+are metabolized by endothelial-bound lipoprotein lipase (LPL) for energy utilization (muscle tissue) or storage
+(adipose tissue).[19] Both chylomicron and VLDL particles are cleared by a common pathway that centers
+on LPL, which leaves remnant particles for catabolism.[19] Both chylomicron and VLDL remnants are taken
+up by the liver, though some VLDL remnants undergo further hydrolysis by hepatic lipase, which leads to
+generation of low-density lipoprotein (LDL) particles.[13] The level of TG circulating is determined by the
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Hypertriglyceridemia Theory
+efficiency of both LPL-mediated lipolysis and subsequent uptake of remnant particles, which are saturable
+mechanisms, and as secretion rates and plasma TG levels rise, lipolysis falls.[19] [20] [21]
+When LPL activity is decreased for either genetic or acquired reasons, clearance of TG-rich lipoprotein
+particles of both exogenous and endogenous origin is impaired, resulting in their accumulation in the
+blood.[5] [19] Extrinsic factors such as overweight or obesity, consuming a diet high in saturated fat or
+high glycemic index foods, and ethanol consumption can lead to HTG by increasing chylomicron and
+VLDL production. Interventions that lower TG levels can both reduce VLDL production and promote VLDL
+clearance, or both.[5] [19]
+Other lipoprotein disturbances associated with HTG include an increase in non-high-density lipoprotein (non-
+HDL) cholesterol levels, because VLDL and remnants are important components of the non-HDL family
+of lipoproteins.[22] [23] [24] [25] Also, apolipoprotein B (apoB) levels are typically increased, because full-
+length apoB-100 is a key structural component of both VLDL and its remnants.[23] The levels of remnant
+cholesterol are elevated in HTG, and it appears that the cholesterol content of remnant particles is much
+more proactively atherogenic than the TG content.[22] Also, patients with HTG have increased levels of
+qualitatively deleterious and highly atherogenic small, dense LDL particles.[22] [23] Finally, HDL particles
+are almost always decreased in patients with HTG; decreased activities of cholesterol ester transfer protein
+(CETP) and LPL result in decreased production and altered HDL composition, which increases HDL
+catabolism.[19] [26] The principal clinical consequence of mild-to-moderate HTG is the incremental or
+residual risk of the end points of atherosclerotic cardiovascular disease (ASCVD), such as myocardial
+infarction and stroke, after accounting for levels of atherogenic LDL cholesterol.[27] In contrast, the main
+clinical concern of severe HTG is the heightened risk of acute pancreatitis, especially in children and young
+adults with monogenic familial chylomicronemia syndrome due to severe genetic impairment of plasma
+lipolysis.[28] In adults with severe HTG due to multifactorial chylomicronemia, there is additional risk of
+ASCVD endpoints on top of increased risk of acute pancreatitis.[28]
+Classification
+HTG can be classified two ways: 1) according to the severity of the triglyceride (TG) elevation; and 2) whether
+the TG elevation is primary (genetic) or secondary (acquired).[5] [6]
+Historical classifications for HTG phenotypes were based on qualitative and quantitative biochemical
+differences in plasma lipoproteins (e.g., the Fredrickson or World Health Organization International
+Classification of Diseases [ICD] hyperlipoproteinemia [HLP] phenotypes).[7] However, most laboratories no
+longer have the technology or know-how to perform this complex phenotyping. Furthermore, no randomized
+controlled evidence exists to show that clinical outcomes are altered through use of this system. Therefore, a
+streamlined classification system based simply on the TG level is currently preferred.[5]
+Different guidelines and societies have different values for classification of severity of HTG.
+• Endocrine Society:[8]
+• Normal TG: <150 mg/dL (<1.7 mmol/L)
+• Mild HTG: 150-199 mg/dL (1.7 to 2.3 mmol/L)
+• Moderate HTG: 200-999 mg/dL (2.3 to 11.2 mmol/L)
+• Severe HTG: 1000-1999 mg/dL (11.2 to 22.4 mmol/L)
+• Very severe HTG: ≥2000 mg/dL (>22.4 mmol/L)
+• American Heart Association/American College of Cardiology:[2]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Hypertriglyceridemia Theory
+THEORY
+• Moderate HTG: 175-499 mg/dL (2.0 to 5.6 mmol/L)
+• Severe HTG: ≥500 mg/dL (≥5.6 mmol/L)
+Note: for moderate HTG, the 2021 American College of Cardiology expert consensus uses a
+definition of fasting TG ≥150 mg/dL (≥1.7 mmol/L) or nonfasting TG ≥175 mg/dL (≥2.0 mmol/L)
+and TG <500 mg/dL (<5.6 mmol/L).[9]
+• Adult Treatment Panel (ATP) III guidelines of the National Cholesterol Education Program:[10]
+• Normal fasting TG: <150 mg/dL (<1.7 mmol/L)
+• Borderline elevated TG: 150-199 mg/dL (1.7 to 2.3 mmol/L)
+• High TG: 200-499 mg/dL (2.3 to 5.6 mmol/L)
+• Very high TG: ≥500 mg/dL (>5.6 mmol/L)
+• European Society of Cardiology/European Atherosclerosis Society:[11]
+• Mild-to-moderate HTG: 175-885 mg/dL (2-10 mmol/L)
+• Severe HTG: >885 mg/dL (>10 mmol/L)
+The fact that various classification schemes exist indicates that no single scheme is the most useful or
+predominant in the clinic.
+Case history
+Case history #1
+A 63-year-old woman with diabetes presents with an episode of retrosternal chest pain and diaphoresis
+that occurred while walking upstairs earlier that day. Her examination is unremarkable except for blood
+pressure 156/96 mmHg and abdominal obesity. A recent lipid profile showed triglyceride 335 mg/dL (3.8
+mmol/L), total cholesterol 243 mg/dL (6.29 mmol/L), low-density lipoprotein cholesterol 142 mg/dL (3.68
+mmol/L), and high-density lipoprotein cholesterol 34 mg/dL (0.88 mmol/L). Her electrocardiogram shows
+no acute changes.
+Case history #2
+A 56-year-old obese man with poorly controlled type 2 diabetes mellitus presents with symptoms of
+nausea, vomiting, and worsening abdominal pain after a dinner of steak, French fries, and wine. On
+examination he has diffuse abdominal tenderness, which is most marked in the left upper quadrant.
+Eruptive xanthomas are noted on his back and forearms. His triglyceride level is 2500 mg/dL (28.3 mmol/
+L) and his blood glucose is 364 mg/dL (20.2 mmol/L). Serum lipase levels are elevated and abdominal
+ultrasound shows evidence of pancreatitis.
+Other presentations
+HTG is typically clinically silent and is usually detected by lipid screening.[5] Presence of physical
+findings in severe HTG is becoming less common, likely due to earlier diagnosis and more effective
+treatment.[12] There are no symptoms or physical findings in patients with mild-to-moderate HTG, unless
+atherosclerotic cardiovascular disease has developed, which can lead to symptoms of acute coronary
+syndromes. However, some secondary factors underlying HTG, such as type 2 diabetes mellitus,
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Hypertriglyceridemia Theory
+metabolic dysfunction-associated steatotic liver disease (previously known as nonalcoholic fatty liver
+disease), renal disease, or hypothyroidism, are themselves associated with specific clinical features.[4]
+[13]
+Characteristic clinical features of chylomicronemia include eruptive xanthomas, lipemia retinalis,
+hepatosplenomegaly, abdominal pain, and nausea and vomiting.[14] Less common clinical features
+include intestinal bleeding, pallor, anemia, irritability, diarrhea, seizures, and encephalopathy.[14] Infants
+with familial chylomicronemia syndrome can present with failure to thrive and abdominal pain.[14]
+Eruptive xanthomas
+From the personal collection of Professor Hegele; used with permission
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Hypertriglyceridemia Theory
+THEORY
+Lipemia retinalis. Pinkish-white discoloration of retinal blood vessels on ophthalmoscopy
+From the personal collection of Professor Hegele, used with permission
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Hypertriglyceridemia Diagnosis
+Approach
+Typically, patients are asymptomatic and HTG is detected on routine blood testing.[5] Clinical suspicion for
+HTG should be raised in patients with unexplained atherosclerotic cardiovascular disease (ASCVD) or acute
+pancreatitis. A lipid profile should also be obtained in patients with any of the known precipitating factors.
+History
+A family history of hyperlipidemia or diabetes should be sought. Historical features may include symptoms
+of ASCVD (angina, claudication), recurrent abdominal pain, or known secondary causes of HTG.
+Secondary causes of HTG include medical conditions, lifestyle factors, and drugs:[4] [5] [9]
+• Medical conditions: diabetes mellitus, metabolic syndrome, insulin resistance, obesity, partial or
+generalized lipodystrophy, chronic kidney disease, nephrotic syndrome, hypothyroidism, pregnancy
+(particularly in the third trimester when triglyceride [TG] elevation associated with pregnancy is
+peaking), myeloma, systemic lupus erythematosus, liver disease, HIV infection, Cushing syndrome,
+sarcoidosis
+• Lifestyle factors: excessive alcohol consumption; diet high in saturated fat, sugar, or high glycemic
+index foods; sedentary lifestyle
+• Drugs: glucocorticoids, anabolic steroids, oral estrogens, thiazide and loop diuretics,
+noncardioselective beta-blockers, isotretinoin, bexarotene, propofol, bile acid sequestrants,
+cyclophosphamide, asparaginase, capecitabine, interferon, tacrolimus, sirolimus, cyclosporine,
+protease inhibitors, second-generation antipsychotic agents (e.g., clozapine, olanzapine).
+Symptoms and signs
+The presence of symptoms and signs of HTG is related to the degree of TG elevation. There are no
+symptoms or physical findings in patients with mild-to-moderate HTG. Patients with severe HTG and
+chylomicronemia develop characteristic features, which include eruptive xanthomas (raised crops of small
+yellowish papules encircled by erythematous halos that appear on extensor surfaces of the extremities,
+the buttocks, and the shoulders) and lipemia retinalis (whitish-pink appearance of retinal vessels and
+retinal pallor with pinkish hue detected on fundoscopic exam).[20] [52] Other characteristic symptoms and
+signs of chylomicronemia include hepatosplenomegaly, abdominal pain, and nausea and vomiting. Much
+less common clinical features (<10% of patients) include intestinal bleeding, pallor, anemia, irritability,
+diarrhea, seizures, and encephalopathy.[14] Infants with familial chylomicronemia syndrome can present
+with failure to thrive and abdominal pain.[14] 
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Hypertriglyceridemia Diagnosis
+DIAGNOSIS
+Eruptive xanthomas
+From the personal collection of Professor Hegele; used with permission
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Hypertriglyceridemia Diagnosis
+Lipemia retinalis. Pinkish-white discoloration of retinal blood vessels on ophthalmoscopy
+From the personal collection of Professor Hegele, used with permission
+Initial laboratory testing
+TG level is obtained as part of a routine lipid panel that also includes total and high-density lipoprotein
+(HDL) cholesterol, along with a calculated low-density lipoprotein (LDL) cholesterol and calculated non-
+HDL-cholesterol. Non-HDL-cholesterol is a derived measurement that is stable irrespective of fasting
+status. Calculated LDL-cholesterol is not accurate if TG >400 mg/dL (>4.6 mmol/L). A 12- to 14-hour
+period of fasting is recommended to obtain optimal values of TG. Nonfasting TG has been proposed to
+be more convenient to measure and has been strongly associated with atherosclerosis risk.[53] However,
+if nonfasting TG is so high that LDL-cholesterol cannot be calculated, a repeat fasting lipid profile is
+recommended. Acute illnesses and physiologic stress can transiently raise TG levels; values should be
+confirmed on repeat testing, especially if diagnosis is made during an acute illness.
+In the US, the American Heart Association/American College of Cardiology guidelines define moderate
+HTG as fasting or nonfasting TG 175-499 mg/dL (2.0 to 5.6 mmol/L) and severe HTG as fasting TG ≥500
+mg/dL (≥5.6 mmol/L).[2] Different guidelines and societies have different thresholds for classification of
+HTG and consulting local guidance may be appropriate.[8] [10] [11]
+Measurement of apolipoprotein B (apoB) is becoming more available and more popular; however, there
+are currently no universal standards. ApoB measurement is stable irrespective of fasting status and
+provides an integrated index of all atherogenic lipoproteins, including LDL, very low-density lipoprotein
+(VLDL), and TG-rich remnant particles and lipoprotein(a).[24] Determination is not affected by fasting and
+can provide an indirect index of LDL particle size.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Hypertriglyceridemia Diagnosis
+DIAGNOSIS
+Whole blood samples from an individual with chylomicronemia may appear milky-white if left to sit
+overnight.
+Lipemic blood sample taken from a patient within 24 hours of presentation.
+Blood samples may appear milky-white if triglyceride levels are very high
+From the personal collection of Professor Hegele, used with permission
+Subsequent investigations
+Secondary causes for HTG should be routinely sought, including laboratory tests for hypothyroidism,
+diabetes, renal insufficiency, hypoalbuminemia, or liver dysfunction.[47] Abdominal ultrasound can help
+detect steatotic (fatty) liver. Pursuing cardiac imaging to assess coronary blood flow and myocardial
+perfusion would depend on the development of concomitant symptoms and signs of ischemic heart
+disease or ASCVD.[54]
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Hypertriglyceridemia Diagnosis
+History and exam
+Key diagnostic factors
+eruptive xanthomas (uncommon)
+• These are characteristic small yellowish papules, frequently surrounded by an erythematous base, that
+appear predominantly on the buttocks, elbows, and other pressure-sensitive areas. These are caused
+by deposition of large amounts of chylomicron triglyceride in cutaneous histiocytes in patients with
+severe HTG.
+•
+Eruptive xanthomas
+From the personal collection of Professor Hegele; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Hypertriglyceridemia Diagnosis
+DIAGNOSIS
+lipemia retinalis (uncommon)
+• When viewed through the ophthalmoscope, the retina in patients with severe HTG due to
+chylomicronemia is pale pink, and the retinal vessels appear white or pink.
+•
+Lipemia retinalis. Pinkish-white discoloration of retinal blood vessels on ophthalmoscopy
+From the personal collection of Professor Hegele, used with permission
+Other diagnostic factors
+increased BMI/waist circumference (common)
+• Prevalence of HTG increases with the severity of obesity, which is reflected by increased body mass
+index.[55] Furthermore, elevated triglyceride (TG) is more common in the setting of abdominal obesity,
+which is reflected by increased waist circumference, a "vital sign" to be included with each physical
+exam.[56] 
+lipodystrophy (common)
+• In patients with partial lipodystrophy, characteristic features such as paucity of fat on extremities
+and gluteal region with preservation of central subcutaneous fat store, acanthosis nigricans and
+hepatosplenomegaly are present.
+features of coronary artery disease (common)
+• Elevated triglyceride (TG) and TG-rich remnant particles in particular have been implicated as causal
+factors in the pathogenesis of atherosclerotic cardiovascular disease (ASCVD), such as coronary
+artery disease and stroke.[23] [53] Clinical suspicion for HTG should be raised in patients with
+unexplained ASCVD.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Hypertriglyceridemia Diagnosis
+claudication (common)
+• HTG is associated with atherosclerosis-related peripheral vascular disease.[54] [57]
+neurologic features (common)
+• Patients with severe HTG due to chylomicronemia occasionally have been reported to have confusion
+(“brain fog”), irritability, difficulty concentrating, and very rarely seizures.
+recurrent abdominal pain (uncommon)
+• Abdominal pain in patients with severe HTG due to chylomicronemia may occur as a result of either
+pancreatic inflammation or hepatosplenomegaly from fat infiltration. HTG is a strong risk factor for
+pancreatitis, with 3% to 5% per year incidence for individuals with triglyceride (TG) >885 mg/dL (>10
+mmol/L) and an exponential increase in risk with TG >1770 mg/dL (>20 mmol/L). Occasionally, severe
+vomiting has been observed to cause esophageal rupture with gastrointestinal bleeding leading to
+anemia.[4] [52]
+Risk factors
+Strong
+family#history of hyperlipidemia
+• HTG, and especially chylomicronemia, is often the result of an underlying genetic predisposition,
+which can be familial (autosomal recessive) or multifactorial (polygenic).[29] [30] First-degree obligate
+heterozygote relatives of patients with familial chylomicronemia syndrome can have triglyceride
+levels that range from either normal to mild-to-moderate HTG to severe HTG.[25] Intergenerational
+inheritance thus appears confusing because a simple dominant genetic model does not apply.[29]
+In multifactorial severe HTG, which can result from either heterozygous rare variants or accumulated
+common variants in a polygenic score, the inheritance pattern appears even more erratic and
+divergent from simple Mendelian rules.[29] HTG tends to cluster in families, although its expression in
+individual family members does not follow an obvious or classical pattern of segregation. Nonetheless,
+it is prudent to screen the lipid profile of close family members of an HTG patient.[29]
+high saturated fat diet
+• This type of diet can increase triglyceride production and lead to HTG in predisposed individuals.[31]
+Monounsaturated fats, such as canola or olive oil, have been suggested as a better alternative to
+carbohydrates for replacing the calories provided by dietary saturated fats in some patients with HTG.
+More extreme diets, such as the ketogenic diet, have been shown to exacerbate hyperlipidemia in
+certain patients.[32]
+high carbohydrate or high glycemic index diet
+• This type of diet can increase triglyceride production and lead to HTG in predisposed individuals.[33]
+[34] Monounsaturated fats, such as canola or olive oil, have been suggested as a better alternative
+to carbohydrates for replacing the calories provided by dietary saturated fats in some patients with
+HTG. More extreme diets, such as the ketogenic diet, have been shown to exacerbate hyperlipidemia
+in certain patients.[32]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Hypertriglyceridemia Diagnosis
+DIAGNOSIS
+excessive alcohol consumption
+• Excessive ethanol consumption (>1 and >2 units daily, respectively, for women and men), both acutely
+and chronically, can increase triglyceride production and suppress lipoprotein lipase activity, leading to
+HTG.[35]
+family or personal history of overweight/obesity
+• Obesity is strongly associated with HTG and also has a strong but complex genetic component,
+independent of lipoprotein metabolism genes.[5] Elevated triglyceride (TG) is a component of the
+metabolic syndrome definition.[36] Close family members of a patient with HTG may report a history of
+obesity or overweight.[37] Weight reduction lowers triglyceride levels.[26]
+family or personal history of diabetes
+• Both mild-to-moderate and severe HTG with chylomicronemia can result secondarily from poor
+glycemic control in patients with either type 1 or 2 diabetes.[21] [26] Because both types of diabetes
+are themselves strongly genetic in nature, close family members of a patient with HTG may report a
+history of diabetes. Thus, first-degree relatives should be screened for both dyslipidemia and diabetes.
+insulin resistance
+• Clinical disorders related to insulin resistance (including obesity, metabolic syndrome, and type
+2 diabetes) increase the risk for HTG.[19] [26] Insulin resistance leads to decreased lipolysis and
+triglyceride clearance.[19] [26]
+liver disease
+• There is a strong epidemiologic and mechanistic relationship between HTG and metabolic dysfunction-
+associated steatotic liver disease (MASLD)/metabolic dysfunction-associated steatohepatitis
+(MASH) (previously known as nonalcoholic fatty liver disease and nonalcoholic steatohepatitis,
+respectively).[38] Triglyceride levels are increased due to overproduction of hepatic very low-density
+lipoproteins and levels can be improved concurrent with improvement of MASLD/MASH.[38]
+renal disease
+• Nephrotic syndrome is associated with upregulation of production of hepatic apolipoprotein B-
+containing lipoproteins including very low-density lipoproteins, although total and low-density
+lipoprotein cholesterol are also increased.[39] Renal toxins in end-stage renal disease can suppress
+lipoprotein lipase activity, resulting in increased plasma triglyceride levels.[39]
+HIV infection
+• HTG is the commonest lipid disturbance in patients with HIV, and can be very severe on occasion.[40]
+[41] Multiple mechanisms underlie dyslipidemia in these patients, including direct effects of the virus
+itself on metabolic pathways, and also the impact of antiretroviral therapy, particularly first-generation
+protease inhibitors, which can both increase production and impair breakdown of triglyceride-rich
+lipoprotein particles.[40] [41]
+use of certain drugs
+• A wide range of drugs can, through a variety of underlying mechanisms, result in HTG in some, but not
+all patients.[13] Examples of causative drugs include glucocorticoids, anabolic steroids, oral estrogens,
+tamoxifen, thiazide and loop diuretics, noncardioselective beta-blockers, isotretinoin, bexarotene,
+propofol, bile acid sequestrants, cyclophosphamide, asparaginase, capecitabine, interferon,
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Hypertriglyceridemia Diagnosis
+tacrolimus, sirolimus, cyclosporine, protease inhibitors, and second-generation antipsychotic agents
+(e.g., clozapine, olanzapine).[5] [13] There is individual variability in susceptibility to HTG secondary to
+drugs.[29] Certain genetically predisposed patients seem more likely to develop HTG with exposure to
+drugs associated with HTG.
+Weak
+Cushing syndrome
+• A risk factor for HTG, mirroring the risk seen with use of exogenous glucocorticoids.[42]
+inflammatory/immune disorders
+• Includes such conditions as sarcoidosis, systemic lupus erythematosus, and multiple myeloma.[43]
+[44] [45] Use of glucocorticoids or chemotherapy in these conditions may also be an exacerbating
+factor.
+organ transplant
+• A risk factor for HTG, possibly related to therapeutic use of glucocorticoids and
+immunosuppression.[46]
+hypothyroidism
+• This is considered to contribute to HTG by reducing triglyceride clearance but is more commonly
+associated with hypercholesterolemia.[47]
+pregnancy
+• Plasma triglyceride levels normally increase during pregnancy, and usually this is not severe and does
+not result in complications. Rarely, severe gestational HTG can result in life-threatening complications
+including acute pancreatitis, hyperviscosity syndrome, and possibly preeclampsia.[48]
+Tests
+1st test to order
+Test Result
+triglyceride level
+• A 12- to 14-hour period of fasting is recommended to obtain optimal
+values.
+• Triglyceride (TG) level is obtained as part of a routine lipid panel that
+also includes total and HDL-cholesterol, along with a calculated LDL-
+cholesterol and calculated non-HDL-cholesterol. Non-HDL-cholesterol
+is a derived measurement that is stable irrespective of fasting status.
+Calculated LDL-cholesterol is not accurate if TG >400 mg/dL (>4.6
+mmol/L).
+• Nonfasting TG has been proposed to be more convenient to measure
+and has been strongly associated with atherosclerosis risk.[53]
+However, if nonfasting TG is so high that LDL-cholesterol cannot
+be calculated, a repeat fasting lipid profile is recommended. Acute
+illnesses and physiologic stress can transiently raise TG levels;
+values should be confirmed on repeat testing, especially if diagnosis
+is made during an acute illness. 
+elevated TG, fasting or
+nonfasting ≥175 mg/dL (≥2
+mmol/L)
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Hypertriglyceridemia Diagnosis
+DIAGNOSIS
+Other tests to consider
+Test Result
+apolipoprotein B
+• This test is stable irrespective of fasting status and provides an
+integrated index of all atherogenic lipoproteins, including LDL,
+very low-density lipoprotein (VLDL), and triglyceride-rich remnant
+particles and lipoprotein(a).[24] Determination is not affected by
+fasting and can provide an indirect index of LDL particle size. While
+it is becoming more available and popular, there are no universal
+standards yet.  
+an apolipoprotein B
+(apoB) >120 mg/dL (>1.2
+g/L) indicates clearly
+increased atherosclerosis
+risk; target apoB level in
+patients being treated
+for dyslipidemia is <70
+mg/dL (<0.7 g/L) in some
+guidelines
+fasting plasma glucose
+• Because insulin resistance, metabolic syndrome, and diabetes often
+occur in patients with HTG, and are potentially modifiable, fasting
+plasma glucose should be part of laboratory assessment.
+• Normal is <90 mg/dL (<5 mmol/L), while impaired fasting glucose is
+>110 mg/dL (>6 mmol/L) and diabetes is >126 mg/dL (>7 mmol/L) on
+two occasions. Additional criteria for diabetes include HbA1c ≥6.5%
+(≥48 mmol/mol) or abnormal glucose tolerance test results.
+glucose is elevated in
+dysglycemia, prediabetes,
+or diabetes mellitus
+BUN, creatinine
+• A variety of renal disorders including renal failure, nephrotic
+syndrome, and end-stage renal disease with dialysis are associated
+with increased triglyceride levels.
+analytes are elevated in
+renal failure, nephrotic
+syndrome, and end-stage
+renal disease
+urinary albumin/protein
+• Because nephrotic-range proteinuria is associated with dyslipidemia,
+urinary protein levels should be determined, initially by routine
+urinalysis screening and determining the urinary albumin-to-creatinine
+ratio. If this screening is concerning or suggestive, a 24-hour urinary
+collection for albumin or protein should be pursued.
+analytes are elevated in
+nephrotic syndrome
+serum albumin
+• Hypoalbuminemia is associated with HTG, perhaps through indirect
+increase in hepatic very low-density lipoprotein (VLDL) production.
+analytes are low in
+nephrotic syndrome or
+liver disease
+thyroid-stimulating hormone
+• Hypothyroidism increases the risk for HTG, but more often high LDL-
+cholesterol and hypercholesterolemia. Normal thyroid-stimulating
+hormone (TSH) range 0.4 to 4.0 milli-international units/L.
+TSH is elevated in primary
+hypothyroidism
+liver function tests
+• Transaminases and gamma-glutamyl transferase (GGT), but usually
+not bilirubin, may be elevated in metabolic dysfunction-associated
+steatotic liver disease (MASLD)/metabolic dysfunction-associated
+steatohepatitis (MASH) or other types of liver disease.
+transaminases and GGT
+may be abnormal: 2- to 3-
+fold elevated
+C-reactive protein
+• The high-sensitivity C-reactive protein (CRP) assay can detect
+elevations in the 0.2 to 0.5 mg/dL (2-5 mg/L) range, which may
+indicate associated risk of atherosclerotic cardiovascular disease
+(ASCVD). The routine CRP assay is sensitive to much higher levels
+(i.e., >0.8 mg/dL [>8 mg/L]) as seen in inflammatory disorders.
+if CRP is moderately
+elevated, this can signal
+increased risk of ASCVD;
+if it is markedly elevated,
+this may indicate an
+associated inflammatory
+or autoimmune condition
+such as systemic
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Hypertriglyceridemia Diagnosis
+Test Result
+lupus erythematosis or
+rheumatoid arthritis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Diabetes • Polyuria, polydipsia,
+polyphagia, or weight loss
+may be seen.
+• Retinopathy, nephropathy, or
+neuropathy may be present.
+• Elevated fasting blood sugar
+≥126 mg/dL (≥7 mmol/
+L). Additional criteria for
+diabetes include HbA1c
+≥6.5% (≥48 mmol/mol) or
+abnormal glucose tolerance
+test results.
+Lipodystrophies • Altered fat distribution
+in genetic or acquired
+lipodystrophies. Fat
+atrophy may be partial
+or generalized. There is
+underlying insulin resistance
+and many patients have
+HTG, occasionally very
+severe. Hypertension,
+diabetes, and atherosclerotic
+cardiovascular disease are
+often present.
+• Elevated fasting blood sugar
+≥126 mg/dL (≥7 mmol/
+L). Additional criteria for
+diabetes include HbA1c
+≥6.5% (≥48 mmol/mol)
+or abnormal glucose
+tolerance test results.
+Elevated plasma insulin or
+C-peptide. Positive DNA
+test will confirm diagnosis of
+partial or generalized form of
+lipodystrophy.
+Liver disease • With advanced disease,
+there may be stigmata of
+chronic liver disease such as
+spider angiomas or jaundice.
+• Serum transaminases and
+gamma glutamyl transferase
+may be elevated. Serum
+albumin may be low.
+Hypothyroidism • Weight gain, sluggishness,
+dry hair/skin, delayed return
+of deep tendon reflexes.
+Goiter may be present in
+Hashimoto disease.
+• Thyroid-stimulating hormone
+is elevated in primary
+hypothyroidism. In central
+hypothyroidism there may be
+laboratory evidence of other
+pituitary dysfunction.
+Renal failure • Malaise, weight loss, fluid
+retention, hypertension,
+edema, pruritus, and breath
+odor.
+• Elevated BUN/creatinine.
+HIV infection • Possible acquired
+lipodystrophy if patient
+is receiving antiretroviral
+therapy.
+• HIV serology positive.
+Criteria
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Hypertriglyceridemia Diagnosis
+DIAGNOSIS
+Current criteria for diagnosis differs between guidelines and societies.
+• Endocrine Society:[8]
+• Normal TG: <150 mg/dL (<1.7 mmol/L)
+• Mild HTG: 150-199 mg/dL (1.7 to 2.3 mmol/L)
+• Moderate HTG: 200-999 mg/dL (2.3 to 11.2 mmol/L)
+• Severe HTG: 1000-1999 mg/dL (11.2 to 22.4 mmol/L)
+• Very severe HTG: ≥2000 mg/dL (>22.4 mmol/L)
+• American College of Cardiology/American Heart Association:[2]
+• Moderate HTG: 175-499 mg/dL (2.0 to 5.6 mmol/L)
+• Severe HTG: ≥500 mg/dL (≥5.6 mmol/L)
+Note: for moderate HTG, the 2021 American College of Cardiology expert consensus uses a
+definition of fasting TG ≥150 mg/dL (≥1.7 mmol/L) or nonfasting TG ≥175 mg/dL (≥2.0 mmol/L)
+and TG <500 mg/dL (<5.6 mmol/L).[9]
+• European Society of Cardiology/European Atherosclerosis Society:[11]
+• Mild-to-moderate HTG: 175-885 mg/dL (2-10 mmol/L)
+• Severe HTG: >885 mg/dL (>10 mmol/L)
+Screening
+Dyslipidemia is a well-established risk factor for atherosclerotic cardiovascular disease and can be treated
+with appropriate interventions. The American Association of Clinical Endocrinologists and American College
+of Endocrinology guidelines recommend that all adults 20 years of age or older should be evaluated for
+dyslipidemia every 5 years, with more frequent testing recommended as patients become older.[58] In the
+UK and Europe, lipid screening usually starts at age 40.[11] [59] Screening may begin earlier for those with
+diabetes in childhood or a family history of dyslipidemia.
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Hypertriglyceridemia Management
+Approach
+The two main objectives in the management of individuals with HTG are:
+• Prevention of adverse atherosclerotic cardiovascular disease (ASCVD) outcomes such as myocardial
+infarction, stroke, and revascularization procedures
+• Prophylaxis of acute pancreatitis episodes.
+For both aims, there are no specific evidence-based, guideline-recommended treatment target levels for
+triglyceride (TG).
+Triglyceride targets
+The 2018 American Heart Association/American College of Cardiology (AHA/ACC) guidelines suggest
+a framework consisting of two HTG categories: moderate HTG (fasting or nonfasting TG 175-499 mg/
+dL [2.0 to 5.6 mmol/L]) and severe HTG (fasting TG ≥500 mg/dL [≥5.6 mmol/L]).[2] For moderate HTG,
+the 2021 ACC expert consensus uses a definition of fasting TG ≥150 mg/dL (≥1.7 mmol/L) or nonfasting
+TG ≥175 mg/dL (≥2.0 mmol/L) and TG <500 mg/dL (<5.6 mmol/L).[9] The AHA/ACC guidelines state
+that there are many causes of elevated very low-density lipoprotein (VLDL), and recommend that it is
+reasonable to reduce VLDL levels to reduce risk of ASCVD.[2] In patients with severe HTG, elevated
+VLDL and remnant particles raise ASCVD risk, and fasting chylomicrons increase the risk of acute
+pancreatitis; therefore, the AHA/ACC guidelines suggest that therapies should address excesses in all
+classes of TG-rich lipoproteins.[2]
+The 2019 European Society of Cardiology/European Atherosclerosis Society (ESC/EAS) guidelines
+recommend that TG levels <150 mg/dL (<1.7 mmol/L) are associated with lower ASCVD risk.[11] They
+further state that if TG levels are higher than this, efforts at global cardiovascular risk modification should
+be undertaken, focusing on other risk factors such as LDL-cholesterol and blood pressure. The 2017
+American Association of Clinical Endocrinologists/American College of Endocrinology (AACE/ACE)
+guidelines explicitly state that TG <150 mg/dL (<1.7 mmol/L) is a goal for patients at risk of ASCVD.[58]
+In patients with severe HTG and TG ≥500 mg/dL (≥5.6 mmol/L), reduction of TG levels is recommend to
+reduce risk of acute pancreatitis.[2] [9]
+Nonpharmacologic approaches
+Epidemiologic studies show that patients with mild-to-moderate HTG generally are at increased risk of
+ASCVD.[53] In patients with mild-to-moderate HTG, it is therefore reasonable to reduce both atherogenic
+VLDL and associated risk factors by nonpharmacologic means where possible. This can best be achieved
+by identification and treatment of the multiple underlying causes of elevated TG. Secondary causes of
+HTG include medical conditions, lifestyle factors, and drugs:[4] [5] [9]
+• Medical conditions: diabetes mellitus, metabolic syndrome, insulin resistance, obesity, chronic
+kidney disease, nephrotic syndrome, hypothyroidism, pregnancy (particularly in the third
+trimester when TG elevation associated with pregnancy is peaking), myeloma, systemic lupus
+erythematosus, liver disease, HIV infection, Cushing syndrome, sarcoidosis
+• Lifestyle factors: excessive alcohol consumption; diet high in saturated fat, sugar, or high glycemic
+index foods; sedentary lifestyle
+• Drugs: glucocorticoids, anabolic steroids, oral estrogens, thiazide and loop diuretics,
+noncardioselective beta-blockers, isotretinoin, bexarotene, propofol, bile acid sequestrants,
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Hypertriglyceridemia Management
+MANAGEMENT
+cyclophosphamide, asparaginase, capecitabine, interferon, tacrolimus, sirolimus, cyclosporine,
+protease inhibitors, second-generation antipsychotic agents (e.g., clozapine, olanzapine).
+The same initial approach applies to patients with severe HTG. Most patients with severe HTG also have
+multiple ASCVD risk factors and are at risk of developing ASCVD. This risk is imparted by atherogenic
+VLDL and remnant particles, plus other factors such as obesity, metabolic syndrome, and hyperglycemia.
+While chylomicrons themselves are not atherogenic, in adult patients chylomicronemia is associated with
+other atherogenic factors. As in individuals with mild-to-moderate HTG, in those with severe HTG it is
+reasonable to reduce TG by nonpharmacologic means where possible. This is achieved by identification
+and treatment of the multiple underlying causes of elevated TG, as indicated above.
+Nonpharmacologic management in all HTG patients therefore includes: limitation or abstinence of alcohol;
+avoidance of simple carbohydrates; low-fat diet (<30% of total daily caloric intake) and when TG level
+>1000 mg/dL (>11.3 mmol/L), a very low-fat diet (<15% of total daily caloric intake); weight loss; strict
+glycemic control in patients with diabetes or impaired glucose metabolism; treatment of hypothyroidism;
+control of other secondary causes; and avoidance of drugs that increase TG, if possible, or substitution
+with an available metabolically neutral alternative.[9] [14] Referral to a registered dietitian nutritionist
+should be considered depending on TG level.
+Individuals with familial chylomicronemia syndrome (FCS) are a special case because of the severe
+genetic deficiency of lipolytic capacity. These individuals must follow a stringent low-fat diet (<15% of
+daily caloric intake from fat), which presents a challenge over a lifetime.[5] [14] [21] Medium-chain fatty
+acids can provide an alternate source of dietary fat given their direct absorption into the portal circulation
+with no reliance on chylomicron formation.[21] Given this strict dietary regimen, supplementation with
+essential fatty acids and fat-soluble vitamins can be considered.[21] Referral to a lipid specialist should be
+considered.
+Pharmacologic management of mild-to-moderate HTG to reduce
+ASCVD risk
+The ACC defines persistent HTG as fasting TG ≥150 mg/dL (≥1.7 mmol/L) following a minimum of 4-12
+weeks of lifestyle intervention, a stable dose of maximally tolerated statin therapy when indicated, and
+evaluation and management of secondary causes.[9] There are few contemporary randomized studies
+that have primarily recruited patients with HTG and treated them with TG-lowering drugs. Therefore, the
+2018 AHA/ACC guidelines do not specifically address mild-to-moderate HTG directly.[2] Instead, patients
+are treated based on their ASCVD risk and LDL-cholesterol levels, primarily using statins. In patients
+with mild-to-moderate HTG, statin therapy reduces VLDL to a similar degree as fibrates, and statin trials
+have included HTG patients. Therefore, the 2018 AHA/ACC guidelines suggest that if an adult patient
+with moderate HTG has poorly controlled risk factors for ASCVD and a 10-year risk of ASCVD ≥7.5%,
+it is reasonable to either initiate or intensify statin therapy.[2] For those with a 10-year ASCVD risk 5%
+to <7.5% and persistent HTG, patient-clinician discussion is recommended regarding the initiation of
+moderate-intensity statin therapy.[2] [9]
+To further reduce LDL-cholesterol, it may be necessary to add adjunctive treatments such as ezetimibe,
+proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors, or bempedoic acid; however, these have
+only minimal impact on TG and are not recommended for treatment of HTG.[60]
+For information on calculating the 10-year risk of ASCVD, see Hypercholesterolemia .
+The ESC/EAS guidelines concur with AHA/ACC guidelines and recommend statins as the first drug of
+choice to reduce ASCVD risk in high-risk individuals with TG levels >200 mg/dL (>2.3 mmol/L).[11]
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Hypertriglyceridemia Management
+The REDUCE-IT trial found that among patients with elevated triglyceride (TG) levels despite the use of
+statins, addition of high-dose icosapent ethyl led to a significant reduction in the risk of ASCVD events
+and cardiovascular mortality.[61] The REDUCE-IT trial also reported that patients on active treatment
+had a slight but statistically significant increased risk of hospitalization with atrial fibrillation (AF; 5.3% vs.
+3.9% in placebo) and in mild bleeding events (2.7% vs. 2.1% in placebo).[61] While some jurisdictions
+have issued warnings regarding these risks, it is noted that the marked overall cardiovascular benefits
+have largely offset these concerns.[61] The US guidelines advise that addition of icosapent ethyl may be
+considered in patients with persistent TG ≥150 mg/dL (≥1.7 mmol/L) despite maximally tolerated statin
+therapy and consideration of lifestyle factors. Patients with moderate HTG considered for icosapent ethyl
+in US guidelines include those with ASCVD and either LDL-cholesterol <70 mg/dL (<1.8 mmol/L) or LDL-
+cholesterol 70-99 mg/dL (1.8 to 2.6 mmol/L), or those age >50 years without ASCVD, but with diabetes
+and one or more high-risk factors for ASCVD.[9] [62] The ESC/EAS recommends that in high-risk patients
+with TG levels between 135-499 mg/dL (1.5 to 5.6 mmol/L) despite statin treatment, icosapent ethyl
+should be considered in combination with a statin.[11] [61] In contrast to the AHA/ACC, the ESC/EAS also
+recommends that in patients who are at LDL-cholesterol goal and with TG levels >200 mg/dL (>2.3 mmol/
+L), fenofibrate may be considered in combination with a statin.[11]
+Pharmacologic management of severe HTG
+In severe HTG the most pressing issue is reduction of the risk of acute pancreatitis.[5] [52] Statins alone
+cannot reduce TG levels in individuals with severe HTG, especially in the face of unmanaged secondary
+causes. Statins alone cannot prevent acute pancreatitis in individuals with severe HTG. Fibrates and
+possibly omega-3 fatty acids are the most effective current drug treatments to achieve this.[63] [64] Once
+TG has been lowered well into the mild-to-moderate HTG range, ASCVD risk reduction (see above) can
+be subsequently considered.[2] [11] [58] In patients with poorly controlled diabetes, optimizing glycemic
+control (e.g., with weight loss, metformin, sodium-glucose transporter-2 [SGLT2] inhibitors, glucagon-
+like peptide-1 [GLP-1] receptor agonists, or insulin) can be associated with dramatic improvements in TG
+levels, although the mechanism(s) underlying improvement are not directly in the lipoprotein metabolism
+pathway.[65] See Type 2 diabetes in adults .
+To prevent acute pancreatitis, the AHA/ACC guidelines suggest it is reasonable to reduce TG levels in
+patients with TG >500 mg/dL (>5.6 mmol/L).[2] This reduction can be partially achieved by the above
+nonpharmacologic approaches, implementing a very low-fat diet, and then by adding a fibrate and/or
+omega-3 fatty acids for patients with persistently severe HTG. These are the most reliable pharmacologic
+therapies to reduce TG to a safer level. If a fibrate is necessary for a patient being treated with a
+statin, fenofibrate is safer than gemfibrozil, with a lower risk of statin-associated muscle complications,
+particularly severe myositis and rhabdomyolysis.[2]
+The AHA/ACC recommends that in adults with severe HTG and ASCVD risk >7.5%, it is reasonable to re-
+evaluate ASCVD risk after lifestyle and secondary factors are addressed and to consider a persistently
+elevated TG level as a factor favoring initiation or intensification of statin therapy.[2] For those with a
+10-year ASCVD risk 5% to <7.5% and persistent HTG, patient-clinician discussion is recommended
+regarding the initiation of moderate-intensity statin therapy.[2] [9]
+The AHA/ACC further recommends that in adults with TG ≥500 mg/dL (≥5.6 mmol/L), and especially
+fasting TG ≥1000 mg/dL (≥11.3 mmol/L), it is reasonable to further reduce TG by implementing a very
+low-fat diet, avoiding refined carbohydrates and alcohol, taking prescription omega-3 fatty acids, and,
+if necessary, fibrate therapy.[2] [9] In individuals with TG ≥500 mg/dL (≥5.6 mmol/L), a ≥30% reduction
+in TG is possible with prescription omega-3 fatty acids.[62] One European regulatory review found
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Hypertriglyceridemia Management
+MANAGEMENT
+that omega-3 ethyl esters, used in the treatment of hypertriglyceridemia, are associated with a dose-
+dependent increased risk of AF.[66]
+Severe or life-threatening HTG during pregnancy is best managed in consultation with a lipid specialist.[2]
+[48]
+Patients with acute pancreatitis due to chylomicronemia should be admitted to hospital. They should
+have intravenous hydration and take nothing by mouth during the acute phase of illness (first 48-72
+hours). Plasmapheresis or plasma exchange is generally not necessary because TG levels will fall with
+a half-life of 24-30 hours with cessation of oral intake and supportive care alone. Patients should then
+be transitioned to clear fluids, followed by a low-fat diet with advice for long-term lifestyle modification.
+Intravenous insulin infusion in patients with poorly controlled diabetes may help reduce TG levels.
+See Complications .
+Once TG levels are <440 mg/dL (<5 mmol/L), LDL-cholesterol-lowering drugs such as statins can be
+commenced to achieve non-high-density lipoprotein (non-HDL) cholesterol target goals as recommended
+according to cardiac risk factor status. Optimal goal is TG <150 mg/dL (<1.7 mmol/L), but is typically not
+realistic. Fibrate therapy is recommended as prophylaxis against future pancreatitis episodes.[2] [9] 
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+chylomicronemia
+1st hospital admission + supportive care
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Hypertriglyceridemia Management
+Ongoing ( summary )
+moderate HTG (fasting TG ≥150 mg/dL
+[≥1.7 mmol/L] or nonfasting TG ≥175
+mg/dL [≥2.0 mmol/L] and TG <500 mg/
+dL [<5.6 mmol/L])
+1st lifestyle and risk factor modifications
+plus identify and manage secondary causes
+adjunct statin
+adjunct additional LDL-cholesterol-lowering
+therapy
+adjunct icosapent ethyl
+severe HTG (fasting TG ≥500 mg/dL
+[≥5.6 mmol/L] especially fasting TG
+≥1000 mg/dL [≥11.3 mmol/L])
+1st lifestyle and risk factor modifications
+plus identify and manage secondary causes
+adjunct statin
+adjunct icosapent ethyl or omega-3 acid ethyl
+esters
+adjunct fibrate
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Hypertriglyceridemia Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+chylomicronemia
+1st hospital admission + supportive care
+» Patients with acute pancreatitis due to
+chylomicronemia should be admitted to hospital.
+They should have intravenous hydration and
+take nothing by mouth during the acute phase
+of illness (first 48-72 hours). Plasmapheresis
+or plasma exchange is generally not necessary
+because triglyceride (TG) levels will fall with a
+half-life of 24-30 hours with cessation of oral
+intake and supportive care alone. Patients
+should then be transitioned to clear fluids,
+followed by a low-fat diet with advice for long-
+term lifestyle modification.
+» Intravenous insulin infusion in patients with
+poorly controlled diabetes may help reduce TG
+levels. See Complications .
+» Once TG levels are <440 mg/dL (<5 mmol/
+L), LDL-cholesterol-lowering drugs such as
+statins can be commenced to achieve non-
+HDL-cholesterol target goals as recommended
+according to cardiac risk factor status. The
+optimal goal is a TG level <150 mg/dL (<1.7
+mmol/L), but typically this is not realistic. Fibrate
+therapy is recommended as prophylaxis against
+future pancreatitis episodes.[2] [9]
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Hypertriglyceridemia Management
+Ongoing
+moderate HTG (fasting TG ≥150 mg/dL
+[≥1.7 mmol/L] or nonfasting TG ≥175
+mg/dL [≥2.0 mmol/L] and TG <500 mg/
+dL [<5.6 mmol/L])
+1st lifestyle and risk factor modifications
+» In the US, the American Heart Association/
+American College of Cardiology (AHA/ACC)
+guidelines define moderate HTG as fasting or
+nonfasting triglyceride (TG) 175-499 mg/dL
+(2.0 to 5.6 mmol/L), and the 2021 ACC expert
+consensus uses a definition of fasting TG ≥150
+mg/dL (≥1.7 mmol/L) or nonfasting TG ≥175
+mg/dL (≥2.0 mmol/L) and TG <500 mg/dL (<5.6
+mmol/L).[2] [9]
+» Lifestyle modifications are the first-line
+intervention for all patients with HTG. Guidelines
+advise addressing and treating lifestyle factors
+including overweight/obesity, diet, alcohol, and
+physical activity.[9] [11] Referral to a registered
+dietitian nutritionist should be considered
+depending on TG level.
+plus identify and manage secondary causes
+Treatment recommended for ALL patients in
+selected patient group
+» Secondary causes of HTG may include
+medical conditions and drugs, as well as lifestyle
+factors.[4] [5] [9]
+» The presence of conditions including diabetes,
+metabolic syndrome, insulin resistance, obesity,
+chronic kidney disease, nephrotic syndrome,
+hypothyroidism, pregnancy (particularly in the
+third trimester when TG elevation associated
+with pregnancy is peaking), myeloma, systemic
+lupus erythematosus, liver disease, HIV
+infection, Cushing syndrome, or sarcoidosis
+should be considered.
+» Drugs that increase TG (e.g., glucocorticoids,
+anabolic steroids, oral estrogens, thiazide and
+loop diuretics, noncardioselective beta-blockers,
+isotretinoin, bexarotene, propofol, bile acid
+sequestrants, cyclophosphamide, asparaginase,
+capecitabine, interferon, tacrolimus, sirolimus,
+cyclosporine, protease inhibitors, second-
+generation antipsychotic agents [e.g., clozapine,
+olanzapine]) should be discontinued or replaced
+with metabolically neutral alternatives, if
+possible.
+adjunct statin
+Treatment recommended for SOME patients in
+selected patient group
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Hypertriglyceridemia Management
+MANAGEMENT
+Ongoing
+Primary options
+High-intensity statin
+» atorvastatin: 40-80 mg orally once daily
+OR
+High-intensity statin
+» rosuvastatin: 20-40 mg orally once daily
+OR
+Moderate-intensity statin
+» atorvastatin: 10-20 mg orally once daily
+OR
+Moderate-intensity statin
+» rosuvastatin: 5-10 mg orally once daily
+OR
+Moderate-intensity statin
+» simvastatin: 20-40 mg orally once daily;
+increased risk of myopathy with 80 mg/day
+dose
+OR
+Moderate-intensity statin
+» pravastatin: 40-80 mg orally once daily
+OR
+Moderate-intensity statin
+» lovastatin: 40-80 mg orally (immediate-
+release) once daily
+OR
+Moderate-intensity statin
+» fluvastatin: 40 mg orally (immediate-
+release) twice daily; 80 mg orally (extended-
+release) once daily
+OR
+Moderate-intensity statin
+» pitavastatin: 1-4 mg orally once daily
+» Patients with HTG are treated based on their
+atherosclerotic cardiovascular disease (ASCVD)
+risk and LDL-cholesterol levels, primarily using
+statins as per guidelines. The 2018 AHA/ACC
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Hypertriglyceridemia Management
+Ongoing
+guidelines suggest that if an adult patient with
+mild-to-moderate HTG has poorly controlled risk
+factors for ASCVD and a 10-year risk of ASCVD
+≥7.5%, it is reasonable to either initiate or
+intensify statin therapy. For those with a 10-year
+ASCVD risk 5% to <7.5% and persistent HTG,
+patient-clinician discussion is recommended
+regarding the initiation of moderate-intensity
+statin therapy.[2] [9]
+adjunct additional LDL-cholesterol-lowering
+therapy
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» ezetimibe: 10 mg orally once daily
+OR
+» alirocumab: 75-150 mg subcutaneously
+every 2 weeks; or 300 mg subcutaneously
+every 4 weeks
+OR
+» evolocumab: 140 mg subcutaneously every
+2 weeks; or 420 mg subcutaneously once
+monthly
+OR
+» bempedoic acid: 180 mg orally once daily
+» Patients with persistent HTG can be
+considered for additional nonstatin LDL-
+cholesterol-lowering drugs depending on the
+LDL-cholesterol level as per guidelines.[2]
+» US guidelines recommend that those with
+LDL-cholesterol ≥100 mg/dL (≥2.6 mmol/L)
+maximize statin therapy and consider additional
+LDL-cholesterol-guided nonstatin therapy
+before moving to a TG-guided approach (e.g.,
+considering icosapent ethyl).[9] For those with
+LDL-cholesterol 70-99 mg/dL (1.8 to 2.6 mmol/
+L) the decision to use LDL-cholesterol-guided
+nonstatin therapy or a TG-guided approach is
+individualized.
+» Nonstatin LDL-C-lowering treatments can be
+added to maximally tolerated statin therapy.
+Examples include ezetimibe, a proprotein
+convertase subtilisin/kexin type 9 (PCSK9)
+inhibitor (e.g., alirocumab, evolocumab), or
+bempedoic acid.[60] 
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Hypertriglyceridemia Management
+MANAGEMENT
+Ongoing
+adjunct icosapent ethyl
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» icosapent ethyl: 2 g orally twice daily
+» The addition of icosapent ethyl may be
+considered in patients with persistent TG
+≥150 mg/dL (≥1.7 mmol/L) despite maximally
+tolerated LDL-cholesterol-guided therapy and
+consideration of lifestyle factors.
+» Patients with moderate HTG considered for
+icosapent ethyl in US guidelines include those
+with ASCVD and either LDL-cholesterol <70 mg/
+dL (<1.8 mmol/L) or LDL-cholesterol 70-99 mg/
+dL (1.8 to 2.6 mmol/L), or those age >50 years
+without ASCVD, but with diabetes and one or
+more high-risk factors for ASCVD.[9] [62]
+severe HTG (fasting TG ≥500 mg/dL
+[≥5.6 mmol/L] especially fasting TG
+≥1000 mg/dL [≥11.3 mmol/L])
+1st lifestyle and risk factor modifications
+» Lifestyle modifications are the first-line
+intervention for all patients with HTG. Guidelines
+advise addressing and treating lifestyle factors
+including overweight/obesity, diet, alcohol, and
+physical activity.[2] [9]
+» In patients with persistent fasting triglyceride
+(TG) 500-999 mg/dL (5.6 to 11.3 mmol/L), a low-
+fat diet should be emphasized, with a very low-
+fat diet considered in some patients. Alcohol
+should be avoided. Referral to a registered
+dietitian nutritionist should be considered.
+plus identify and manage secondary causes
+Treatment recommended for ALL patients in
+selected patient group
+» Secondary causes of HTG may include
+medical conditions and drugs, as well as lifestyle
+factors.[4] [5] [9]
+» The presence of conditions including diabetes,
+metabolic syndrome, insulin resistance, obesity,
+chronic kidney disease, nephrotic syndrome,
+hypothyroidism, pregnancy (particularly in the
+third trimester when TG elevation associated
+with pregnancy is peaking), myeloma, systemic
+lupus erythematosus, liver disease, HIV
+infection, Cushing syndrome, or sarcoidosis
+should be considered.
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Hypertriglyceridemia Management
+Ongoing
+» Drugs that increase TG (e.g., glucocorticoids,
+anabolic steroids, oral estrogens, thiazide and
+loop diuretics, noncardioselective beta-blockers,
+isotretinoin, bexarotene, propofol, bile acid
+sequestrants, cyclophosphamide, asparaginase,
+capecitabine, interferon, tacrolimus, sirolimus,
+cyclosporine, protease inhibitors, second-
+generation antipsychotic agents [e.g., clozapine,
+olanzapine]) should be discontinued or replaced
+with metabolically neutral alternatives, if
+possible.
+adjunct statin
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+High-intensity statin
+» atorvastatin: 40-80 mg orally once daily
+OR
+High-intensity statin
+» rosuvastatin: 20-40 mg orally once daily
+OR
+Moderate-intensity statin
+» atorvastatin: 10-20 mg orally once daily
+OR
+Moderate-intensity statin
+» rosuvastatin: 5-10 mg orally once daily
+OR
+Moderate-intensity statin
+» simvastatin: 20-40 mg orally once daily;
+increased risk of myopathy with 80 mg/day
+dose
+OR
+Moderate-intensity statin
+» pravastatin: 40-80 mg orally once daily
+OR
+Moderate-intensity statin
+» lovastatin: 40-80 mg orally (immediate-
+release) once daily
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Hypertriglyceridemia Management
+MANAGEMENT
+Ongoing
+Moderate-intensity statin
+» fluvastatin: 40 mg orally (immediate-
+release) twice daily; 80 mg orally (extended-
+release) once daily
+OR
+Moderate-intensity statin
+» pitavastatin: 1-4 mg orally once daily
+» Statin therapy should be considered in
+appropriate patient groups depending on LDL-
+cholesterol level and risk as per guidelines.[2] [9]
+» US guidelines suggest that in an adult patient
+with TG 500-999 mg/dL (5.6 to 11.3 mmol/L) and
+a 10-year risk of atherosclerotic cardiovascular
+disease (ASCVD) ≥5%, ASCVD, or diabetes, it
+is reasonable to either initiate or intensify statin
+therapy. For those with TG ≥1000 mg/dL (≥11.3
+mmol/L) statin initiation or intensification should
+be considered.[2] [9]
+adjunct icosapent ethyl or omega-3 acid ethyl esters
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» icosapent ethyl: 2 g orally twice daily
+OR
+» omega-3-acid ethyl esters: 4 g/day orally
+given in 1-2 divided doses
+» If TG levels are persistently elevated or
+increasing, US guidelines recommend adding
+a prescription omega-3 acid (icosapent ethyl or
+omega-3 acid ethyl esters) to therapy.[2] [9]
+» One European regulatory review found that
+omega-3 ethyl esters, used in the treatment
+of hyper triglyceridemia, are associated with
+a dose-dependent increased risk of atrial
+fibrillation.
+adjunct fibrate
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» fenofibrate micronized: dose depends on
+brand; consult product literature for guidance
+on dose
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Hypertriglyceridemia Management
+Ongoing
+OR
+» gemfibrozil: 600 mg orally twice daily
+» If TG levels are persistently elevated
+or increasing, US guidelines recommend
+adding fibrates to therapy to reduce risk of
+pancreatitis.[2] [9]
+» Gemfibrozil should not be used in combination
+with a statin. Fenofibrate is the drug of choice if
+combination treatment is required.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Hypertriglyceridemia Management
+MANAGEMENT
+Emerging
+Treatments to reduce apolipoprotein C-III (apo C-III)
+Apo C-III is a protein that circulates with triglyceride (TG)-rich lipoproteins, affects lipoprotein metabolism,
+and is associated with increased atherosclerotic cardiovascular disease (ASCVD) risk.[67] Volanesorsen,
+an antisense oligonucleotide designed to inhibit the formation of apo C-III, impairs translation of apo C-III
+mRNA.[68] [69] [70] The European Medicines Agency (EMA) has approved volanesorsen as an adjunct
+to diet in adults with genetically confirmed familial chylomicronemia syndrome (FCS) who are at high risk
+for pancreatitis, and in whom a response to diet and triglyceride-lowering therapy has been inadequate.
+Volanesorsen causes thrombocytopenia, and it is contraindicated in patients with chronic or unexplained
+thrombocytopenia. The Food and Drug Administration (FDA) did not approve volanesorsen because of the
+risk of thrombocytopenia. Olezarsen, a ligand conjugated antisense oligonucleotide targeting apo C-III, has
+been shown to reduce TG by >50% and acute pancreatitis risk by >85% in patients with FCS and also to
+reduce TG levels in patients with mild-to-moderate HTG who are considered to be at risk for ASCVD.[71] [72]
+ Olezarsen is approved by the FDA as an adjunct to diet to reduce TG levels in adults with FCS. However,
+this indication is for a rare and severely affected genetic subgroup of patients and is not for standard severe
+HTG or mild-to-moderate HTG. Olezarsen is not approved in Europe as yet. Therefore, due to its limited
+indication and lack of availability, olezarsen is not routinely used in clinical practice yet. Plozasiran, an
+investigational small interfering RNA (siRNA) drug, has been shown to reduce TG levels and incidence
+of acute pancreatitis in patients with severe HTG and with mixed hyperlipidemia, and a clinical trial of this
+agent in patients with FCS is pending.[73] [74] [75][76] Plozasiran is being reviewed by the FDA for approval.
+Olezarsen and plozasiran are not meant to be given during episodes of acute pancreatitis, but instead for
+prevention of future HTG-related episodes.
+Treatments to reduce angiopoietin-like protein 3 (ANGPTL3)
+ANGPTL3 is another genetically validated target for HTG to reduce cholesterol, triglycerides, and ASCVD
+risk.[77] [78] The monoclonal antibody evinacumab and the investigational antisense therapies vupanorsen
+and zodasiran reduce ANGPTL3, and have shown reductions of triglyceride levels of 50% to 80%.[68]
+[79] However, development of both vupanorsen and zodasiran has been terminated by their respective
+manufacturers due to concerns over potential adverse effects and a lack of efficacy.
+Novel krill-derived omega-3 phospholipid/free fatty acid
+Omega-3-phospholipid/free fatty acid (omega-3-PL/FFA) is a new investigational agent derived from krill
+oil. Pooled data from the TRILOGY 1 and 2 phase 3 randomized controlled trials showed that in patients
+with severe hypertriglyceridemia (fasting TG levels from 500 to 1500 mg/dL), omega-3-PL/FFA reduced
+blood triglyceride levels compared with placebo at 12 weeks (26.0% compared with 15.1%), with reductions
+persisting at 26 weeks, and that omega-3-PL/FFA was safe and well tolerated.[80]
+Primary prevention
+Identification and management of modifiable secondary factors is key to reducing risk of HTG. Secondary
+causes of HTG include medical conditions, lifestyle factors, and drugs:[4] [5] [9]
+• Medical conditions: diabetes mellitus, metabolic syndrome, insulin resistance, obesity, chronic kidney
+disease, nephrotic syndrome, hypothyroidism, pregnancy (particularly in the third trimester when
+triglyceride elevation associated with pregnancy is peaking), myeloma, systemic lupus erythematosus,
+liver disease, HIV infection, Cushing syndrome, sarcoidosis
+• Lifestyle factors: excessive alcohol consumption; diet high in saturated fat, sugar, or high glycemic
+index foods; sedentary lifestyle
+• Drugs: glucocorticoids, anabolic steroids, oral estrogens, thiazide and loop diuretics,
+noncardioselective beta-blockers, isotretinoin, bexarotene, propofol, bile acid sequestrants,
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Hypertriglyceridemia Management
+cyclophosphamide, asparaginase, capecitabine, interferon, tacrolimus, sirolimus, cyclosporine,
+protease inhibitors, second-generation antipsychotic agents (e.g., clozapine, olanzapine).
+Increased physical exercise and a diet low in saturated fat, sugar, or high glycemic index foods may reduce
+risk directly and through reduction in risk of medical conditions such as obesity, metabolic syndrome, or
+insulin resistance.[13] [49] Excessive alcohol consumption (>1 and >2 units daily, respectively, for women
+and men) should be avoided.[35] The US Preventive Services Task Force recommends that adults at
+increased risk of cardiovascular disease are offered behavioral counseling interventions to promote a
+healthy diet and physical activity; those not at high risk may also be considered for behavioral counseling
+interventions.[50] [51]
+Drugs that raise triglycerides should be reviewed and metabolically neutral substitutes should be considered.
+Medical conditions associated with elevated triglyceride levels should be identified and managed
+appropriately.
+Secondary prevention
+Adherence to a lifestyle that improves weight management by reduced calories from saturated fats, coupled
+with regular physical activity, is the most important approach to prevent HTG and its complications, including
+atherosclerotic cardiovascular disease and acute pancreatitis.
+The US Preventive Services Task Force (USPSTF) recommends that adults ages 40 to 75 years who have
+dyslipidemia and an estimated 10-year cardiovascular disease risk of 10% or greater should be started on a
+statin for prevention of CVD. Those with 10-year risk of 7.5% to less than 10% may selectively be offered a
+statin.[96]
+Patient discussions
+General guidelines for achieving a healthy lifestyle can be found at the US Department of Agriculture's
+MyPlate website.  [US Dept of Agriculture: MyPlate.gov] (https://www.myplate.gov)  These are addressed
+to adults and contain information about food groups, portion size, nutrient-dense foods, exercise, and
+tracking food intake/activity.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Hypertriglyceridemia Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+Triglyceride (TG) levels should be monitored every 6 weeks during initiation and optimization of treatment.
+Once desirable levels are achieved and are stable, the lipid profile should be checked every 6-12 months.
+Liver function tests should be checked before using statins or fibric acid derivatives. Recheck each time
+the dose is adjusted, then monitor every 6-12 months once on a stable dose.
+In addition to reviewing pharmaceutical instructions, practitioners should emphasize the role of lifestyle,
+particularly diet and exercise, in reducing TG levels.
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Hypertriglyceridemia Follow up
+Complications
+Complications Timeframe Likelihood
+atherosclerotic cardiovascular disease (ASCVD) long term high
+Epidemiologic and genetic studies establish triglyceride-rich lipoproteins and their remnants as important
+contributors to ASCVD and its individual components (e.g., ischemic heart disease, myocardial infarction,
+ischemic stroke, and peripheral artery disease), although it remains methodologically challenging to
+definitively claim that HTG is an independent risk factor for ASCVD.[94]  
+aortic stenosis variable medium
+HTG has been associated with an increased risk for aortic stenosis, primarily due to increased triglyceride-
+rich remnant lipoproteins.[95]
+acute pancreatitis variable medium
+Risk of acute pancreatitis is low to moderate when triglyceride (TG) >885 mg/dL (>10 mmol/L ) and is
+high when TG >1770 mg/dL (>20 mmol/L). Initial diagnostic and therapeutic steps should be the same
+as in other causes of acute pancreatitis due to severe HTG with chylomicronemia. A TG level should be
+determined in all cases of acute pancreatitis as severe HTG may contribute even when the primary cause
+is obvious (e.g., alcohol). Cessation of all oral intake and bowel rest is the most essential therapeutic
+intervention. Initially, intravenous dextrose should be avoided as this may further increase TG levels.
+Intravenous insulin infusion in patients with poorly controlled diabetes often helps reduce TG levels.
+Heparin infusion and plasmapheresis are not helpful above and beyond cessation of oral intake, and
+are not routinely recommended. Very low-grade evidence suggests plasmapheresis might rarely be
+considered in certain situations, such as pregnancy, when TG >1770 mg/dL (>20 mmol/L) and acute
+pancreatitis risk is imminent. TG levels rebound rapidly after plasmapheresis if the root cause is not
+properly managed.
+Long-term complications of recurrent acute pancreatitis include increased length of hospital stay,
+development of chronic pancreatitis, pancreatic insufficiency, pancreatic necrosis, pancreatic abscess,
+pancreatic pseudocyst, systematic inflammatory response syndrome, and increased mortality.
+Fibrates and a low-fat diet are recommended as prophylaxis against future episodes of pancreatitis.
+Chronically, the absolute risk of pancreatitis is low when TG <440 mg/dL (<5 mmol/L).
+Prognosis
+The prognosis for HTG patients with respect to prevention of atherosclerotic cardiovascular disease or acute
+pancreatitis is improved significantly with lowering of triglyceride levels to the recommended ranges.[93] This
+will require ongoing long-term therapy with monitoring of plasma lipids as well as side effects. Once plasma
+lipid levels are stable within the desirable range, they can be monitored along with liver function tests every
+6-12 months.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Hypertriglyceridemia Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/
+PCNA guideline on the management of blood cholesterol (https://
+professional.heart.org/en/guidelines-and-statements/guidelines-and-
+statements-search)   [2]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2019
+2017 AACE and ACE guidelines for the management of dyslipidemia and
+prevention of cardiovascular disease (https://pro.aace.com/disease-state-
+resources/lipids-and-cv-health/guidelines)   [58]
+Published by: American Association of Clinical Endocrinologists;
+American College of Endocrinology
+Last published: 2017
+2019 ESC/EAS guidelines for the management of dyslipidaemias: lipid
+modification to reduce cardiovascular risk (https://www.escardio.org/
+Guidelines/Clinical-Practice-Guidelines)   [11]
+Published by: European Society for Cardiology; European
+Atherosclerosis Society
+Last published: 2020
+Cardiovascular disease: risk assessment and reduction, including lipid
+modification (https://www.nice.org.uk/guidance/ng238)   [59]
+Published by: National Institute for Health and Care Excellence (UK) Last published: 2023
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Hypertriglyceridemia Guidelines
+Treatment guidelines
+International
+Guidelines for the primary prevention of stroke (https://
+professional.heart.org/en/guidelines-statements)   [81]
+Published by: American Heart Association Last published: 2024
+2022 ACC expert consensus decision pathway on the role of nonstatin
+therapies for LDL-cholesterol lowering in the management of atherosclerotic
+cardiovascular disease risk (https://www.acc.org/guidelines)   [60]
+Published by: American College of Cardiology Last published: 2022
+2021 ACC expert consensus decision pathway on the management of ASCVD
+risk reduction in patients with persistent hypertriglyceridemia (https://
+www.acc.org/guidelines)   [9]
+Published by: American College of Cardiology Last published: 2021
+2021 Canadian Cardiovascular Society guidelines for the management of
+dyslipidemia for the prevention of cardiovascular disease in adults (https://
+ccs.ca/guidelines-and-position-statement-library)   [82]
+Published by: Canadian Cardiovascular Society Last published: 2021
+Lipid management in patients with endocrine disorders: An Endocrine
+Society Clinical Practice Guideline (https://www.endocrine.org/clinical-
+practice-guidelines/cardiovascular-endocrinology)   [83]
+Published by: Endocrine Society Last published: 2020
+Consensus statement by the American Association of Clinical
+Endocrinologists and American College of Endocrinology on the
+management of dyslipidemia and prevention of cardiovascular disease
+algorithm – 2020 executive summary (https://pro.aace.com/resources?
+keys=&field_disease_state_content_t_value%5BGuidelines%5D=Guidelines)  
+[84]
+Published by: American Association of Clinical Endocrinologists;
+American College of Endocrinology
+Last published: 2020
+VA/DoD clinical practice guideline for the management of dyslipidemia for
+cardiovascular risk reduction (https://www.healthquality.va.gov)   [85]
+Published by: Veterans Health Administration; Department of Defense Last published: 2020
+Primary prevention of ASCVD and T2DM in patients at metabolic risk (https://
+www.endocrine.org/clinical-practice-guidelines/guidelines-by-year)   [86]
+Published by: Endocrine Society Last published: 2019
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Hypertriglyceridemia Guidelines
+GUIDELINES
+International
+ACC/AHA guideline on the primary prevention of cardiovascular disease
+(https://professional.heart.org/en/guidelines-and-statements/guidelines-and-
+statements-search)   [87]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2019
+2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/
+PCNA guideline on the management of blood cholesterol (https://
+professional.heart.org/en/guidelines-and-statements/guidelines-and-
+statements-search)   [2]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2019
+2017 AACE and ACE guidelines for the management of dyslipidemia and
+prevention of cardiovascular disease (https://pro.aace.com/disease-state-
+resources/lipids-and-cv-health/guidelines)   [58]
+Published by: American Association of Clinical Endocrinologists;
+American College of Endocrinology
+Last published: 2017
+Evaluation and treatment of hypertriglyceridemia (https://www.endocrine.org/
+clinical-practice-guidelines/guidelines-by-year)   [8]
+Published by: Endocrine Society Last published: 2012
+Triglycerides and cardiovascular disease (https://professional.heart.org/en/
+guidelines-and-statements/guidelines-and-statements-search)   [18]
+Published by: American Heart Association Last published: 2011
+Disorders of lipid metabolism: evidence-based nutrition practice guideline
+(https://www.andeal.org/topic.cfm?cat=4527)   [88]
+Published by: Academy of Nutrition and Dietetics (American Dietetic
+Association)
+Last published: 2011
+Effectiveness-based guidelines for the prevention of cardiovascular disease
+in women: 2011 update (https://www.ahajournals.org/doi/full/10.1161/
+cir.0b013e31820faaf8)   [89]
+Published by: American Heart Association Last published: 2011
+AHA/ACCF secondary prevention and risk reduction therapy for patients with
+coronary and other atherosclerotic vascular disease: 2011 update (https://
+www.ahajournals.org/doi/pdf/10.1161/CIR.0b013e318235eb4d)   [90]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2011
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Hypertriglyceridemia Guidelines
+International
+Diet and lifestyle recommendations revision 2006: a scientific statement
+from the American Heart Association Nutrition Committee (https://
+www.ahajournals.org/doi/full/10.1161/circulationaha.106.176158)   [91]
+Published by: American Heart Association Last published: 2006
+Third report of the Expert Panel on Detection, Evaluation, and Treatment
+of High Blood Cholesterol in Adults (Adult Treatment Panel III) (https://
+www.nhlbi.nih.gov/resources)   [10]
+Published by: National Cholesterol Education Program Last published: 2002
+2021 ESC guidelines on cardiovascular disease prevention in clinical practice
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [92]
+Published by: European Society of Cardiology; European
+Atherosclerosis Society
+Last published: 2021
+2019 ESC/EAS guidelines for the management of dyslipidaemias: lipid
+modification to reduce cardiovascular risk (https://www.escardio.org/
+Guidelines/Clinical-Practice-Guidelines)   [11]
+Published by: European Society for Cardiology; European
+Atherosclerosis Society
+Last published: 2020
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Hypertriglyceridemia Online resources
+ONLINE RESOURCES
+Online resources
+1. US Dept of Agriculture: MyPlate.gov (https://www.myplate.gov)  (external link)
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Hypertriglyceridemia References
+Key articles
+• Grundy SM, Stone NJ, Bailey AL, et al. 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/
+AGS/APhA/ASPC/NLA/PCNA guideline on the management of blood cholesterol: a report of
+the American College of Cardiology/American Heart Association task force on clinical practice
+guidelines. Circulation. 2019 Jun 18;139(25):e1082-143.  Full text (https://www.ahajournals.org/doi/
+full/10.1161/CIR.0000000000000625)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30586774?
+tool=bestpractice.bmj.com)
+• Laufs U, Parhofer KG, Ginsberg HN, et al. Clinical review on triglycerides. Eur Heart J. 2020 Jan
+1;41(1):99-109c.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6938588)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31764986?tool=bestpractice.bmj.com)
+• Berglund L, Brunzell JD, Goldberg AC, et al; Endocrine Society. Evaluation and treatment of
+hypertriglyceridemia: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2012
+Sep;97(9):2969-89.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3431581)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/22962670?tool=bestpractice.bmj.com)
+• Virani SS, Morris PB, Agarwala A, et al. 2021 ACC expert consensus decision pathway on the
+management of ASCVD risk reduction in patients with persistent hypertriglyceridemia: a report of
+the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2021 Aug
+31;78(9):960-93.  Full text (https://www.sciencedirect.com/science/article/pii/S0735109721053237)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34332805?tool=bestpractice.bmj.com)
+• Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS guidelines for the management of
+dyslipidaemias: lipid modification to reduce cardiovascular risk. Eur Heart J. 2020 Jan 1;41(1):111-88. 
+Full text (https://academic.oup.com/eurheartj/article/41/1/111/5556353)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31504418?tool=bestpractice.bmj.com)
+• Jellinger PS, Handelsman Y, Rosenblit PD, et al. American Association of Clinical Endocrinologists
+and American College of Endocrinology guidelines for management of dyslipidemia and
+prevention of cardiovascular disease. Endocr Pract. 2017 Apr;23(Suppl 2):1-87.  Full text
+(https://www.endocrinepractice.org/article/S1530-891X(20)42959-3/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28437620?tool=bestpractice.bmj.com)
+References
+1. Yuan G, Al-Shali KZ, Hegele RA. Hypertriglyceridemia: its etiology, effects and treatment. CMAJ. 2007
+Apr 10;176(8):1113-20.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1839776)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/17420495?tool=bestpractice.bmj.com)
+2. Grundy SM, Stone NJ, Bailey AL, et al. 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/
+AGS/APhA/ASPC/NLA/PCNA guideline on the management of blood cholesterol: a report of
+the American College of Cardiology/American Heart Association task force on clinical practice
+guidelines. Circulation. 2019 Jun 18;139(25):e1082-143.  Full text (https://www.ahajournals.org/doi/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Hypertriglyceridemia References
+REFERENCES
+full/10.1161/CIR.0000000000000625)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30586774?
+tool=bestpractice.bmj.com)
+3. Sandesara PB, Virani SS, Fazio S, et al. The forgotten lipids: triglycerides, remnant cholesterol,
+and atherosclerotic cardiovascular disease risk. Endocr Rev. 2019 Apr 1;40(2):537-57.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6416708)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30312399?tool=bestpractice.bmj.com)
+4. Sandhu S, Al-Sarraf A, Taraboanta C, et al. Incidence of pancreatitis, secondary causes, and
+treatment of patients referred to a specialty lipid clinic with severe hypertriglyceridemia: a retrospective
+cohort study. Lipids Health Dis. 2011 Sep 11;10:157.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC3180406)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21906399?
+tool=bestpractice.bmj.com)
+5. Laufs U, Parhofer KG, Ginsberg HN, et al. Clinical review on triglycerides. Eur Heart J. 2020 Jan
+1;41(1):99-109c.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6938588)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31764986?tool=bestpractice.bmj.com)
+6. Hegele RA, Ginsberg HN, Chapman MJ, et al.; European Atherosclerosis Society Consensus Panel.
+The polygenic nature of hypertriglyceridaemia: implications for definition, diagnosis, and management.
+Lancet Diabetes Endocrinol. 2014 Aug;2(8):655-66.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC4201123)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24731657?
+tool=bestpractice.bmj.com)
+7. Fredrickson DS, Levy RI, Lees RS. Fat transport in lipoproteins - an integrated approach to
+mechanisms and disorder. N Engl J Med. 1967;276:273-281. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/5334042?tool=bestpractice.bmj.com)
+8. Berglund L, Brunzell JD, Goldberg AC, et al; Endocrine Society. Evaluation and treatment of
+hypertriglyceridemia: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2012
+Sep;97(9):2969-89.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3431581)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/22962670?tool=bestpractice.bmj.com)
+9. Virani SS, Morris PB, Agarwala A, et al. 2021 ACC expert consensus decision pathway on the
+management of ASCVD risk reduction in patients with persistent hypertriglyceridemia: a report of
+the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2021 Aug
+31;78(9):960-93.  Full text (https://www.sciencedirect.com/science/article/pii/S0735109721053237)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34332805?tool=bestpractice.bmj.com)
+10. Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults. Third
+report of the National Cholesterol Education Program (NCEP) expert panel on detection, evaluation,
+and treatment of high blood cholesterol in adults (Adult Treatment Panel III) - executive summary.
+JAMA. 2001 May 16;285(19):2486-97. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11368702?
+tool=bestpractice.bmj.com)
+11. Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS guidelines for the management of
+dyslipidaemias: lipid modification to reduce cardiovascular risk. Eur Heart J. 2020 Jan 1;41(1):111-88. 
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Hypertriglyceridemia References
+Full text (https://academic.oup.com/eurheartj/article/41/1/111/5556353)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31504418?tool=bestpractice.bmj.com)
+12. Hegele RA, Borén J, Ginsberg HN, et al. Rare dyslipidaemias, from phenotype to genotype to
+management: a European Atherosclerosis Society task force consensus statement. Lancet Diabetes
+Endocrinol. 2020 Jan;8(1):50-67. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31582260?
+tool=bestpractice.bmj.com)
+13. Simha V. Management of hypertriglyceridemia. BMJ. 2020 Oct 12;371:m3109. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33046451?tool=bestpractice.bmj.com)
+14. Brahm A, Hegele RA. Hypertriglyceridemia. Nutrients. 2013 Mar 22;5(3):981-1001.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3705331)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23525082?tool=bestpractice.bmj.com)
+15. Tóth PP, Potter D, Ming EE. Prevalence of lipid abnormalities in the United States: the national health
+and nutrition examination survey 2003-2006. J Clin Lipidol. 2012 Jul-Aug;6(4):325-30. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22836069?tool=bestpractice.bmj.com)
+16. Toth PP, Fazio S, Wong ND, et al. Risk of cardiovascular events in patients with hypertriglyceridaemia:
+a review of real-world evidence. Diabetes Obes Metab. 2020 Mar;22(3):279-89.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC7065050)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31742844?tool=bestpractice.bmj.com)
+17. Martin SS, Aday AW, Almarzooq ZI, et al. 2024 heart disease and stroke statistics: a report of US
+and global data from the American Heart Association. Circulation. 2024 Feb 20;149(8):e347-913. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000001209)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38264914?tool=bestpractice.bmj.com)
+18. Miller M, Stone NJ, Ballantyne C, et al. Triglycerides and cardiovascular disease: a scientific statement
+from the American Heart Association. Circulation. 2011 May 24;123(20):2292-333.  Full text (https://
+www.ahajournals.org/doi/10.1161/CIR.0b013e3182160726)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21502576?tool=bestpractice.bmj.com)
+19. Lewis GF, Xiao C, Hegele RA. Hypertriglyceridemia in the genomic era: a new paradigm. Endocr Rev.
+2015 Feb;36(1):131-47.  Full text (https://academic.oup.com/edrv/article/36/1/131/2354720)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/25554923?tool=bestpractice.bmj.com)
+20. Goldberg RB, Chait A. A comprehensive update on the chylomicronemia syndrome. Front
+Endocrinol (Lausanne). 2020 Oct 23;11:593931.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC7644836)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33193106?tool=bestpractice.bmj.com)
+21. Chait A, Eckel RH. The chylomicronemia syndrome is most often multifactorial: a narrative
+review of causes and treatment. Ann Intern Med. 2019 May 7;170(9):626-34. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31035285?tool=bestpractice.bmj.com)
+22. Rosenson RS, Hegele RA, Gotto AM Jr. Integrated measure for atherogenic lipoproteins in the
+modern era: risk assessment based on apolipoprotein B. J Am Coll Cardiol. 2016 Jan 19;67(2):202-4. 
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Hypertriglyceridemia References
+REFERENCES
+Full text (https://www.sciencedirect.com/science/article/pii/S0735109715072587)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26791068?tool=bestpractice.bmj.com)
+23. Burnett JR, Hooper AJ, Hegele RA. Remnant cholesterol and atherosclerotic cardiovascular disease
+risk. J Am Coll Cardiol. 2020 Dec 8;76(23):2736-9.  Full text (https://www.sciencedirect.com/
+science/article/pii/S0735109720376117)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33272367?
+tool=bestpractice.bmj.com)
+24. Sniderman AD, Pencina M, Thanassoulis G. ApoB. Circ Res. 2019 May 10;124(10):1425-7. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.119.315019)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31070997?tool=bestpractice.bmj.com)
+25. Babirak SP, Iverius PH, Fujimoto WY, et al. Detection and characterization of the heterozygote
+state for lipoprotein lipase deficiency. Arteriosclerosis. 1989 May-Jun;9(3):326-34.  Full text
+(https://www.ahajournals.org/doi/10.1161/01.ATV.9.3.326)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/2719595?tool=bestpractice.bmj.com)
+26. Stahel P, Xiao C, Hegele RA, et al. The atherogenic dyslipidemia complex and novel approaches
+to cardiovascular disease prevention in diabetes. Can J Cardiol. 2018 May;34(5):595-604. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29459241?tool=bestpractice.bmj.com)
+27. Park HB, Arsanjani R, Hong SJ, et al. Impact of hypertriglyceridaemia on cardiovascular mortality
+according to low-density lipoprotein cholesterol in a 15.6-million population. Eur J Prev Cardiol. 2024
+Feb 15;31(3):280-90.  Full text (https://academic.oup.com/eurjpc/article/31/3/280/7320372)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/37850354?tool=bestpractice.bmj.com)
+28. Berberich AJ, Hegele RA. A modern approach to dyslipidemia. Endocr Rev. 2022 Jul
+13;43(4):611-53.  Full text (https://academic.oup.com/edrv/article/43/4/611/6408399)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34676866?tool=bestpractice.bmj.com)
+29. Dron JS, Hegele RA. Genetics of hypertriglyceridemia. Front Endocrinol (Lausanne). 2020 Jul
+24;11:455.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7393009)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32793115?tool=bestpractice.bmj.com)
+30. Dron JS, Wang J, Cao H, et al. Severe hypertriglyceridemia is primarily polygenic. J Clin Lipidol. 2019
+Jan - Feb;13(1):80-8.  Full text (https://www.lipidjournal.com/article/S1933-2874(18)30426-4/fulltext)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30466821?tool=bestpractice.bmj.com)
+31. Mensink RP, Katan MB. Effect of dietary fatty acids on serum lipids and lipoproteins. Arterioscler
+Thromb. 1992 Aug;12(8):911-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1386252?
+tool=bestpractice.bmj.com)
+32. Goldberg IJ, Ibrahim N, Bredefeld C, et al. Ketogenic diets, not for everyone. J Clin Lipidol. 2021 Jan-
+Feb;15(1):61-7.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7887024)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33191194?tool=bestpractice.bmj.com)
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Hypertriglyceridemia References
+33. Abbasi F, McLaughlin T, Lamendola C, et al. High carbohydrate diets, triglyceride-rich lipoproteins,
+and coronary heart disease risk. Am J Cardiol. 2000 Jan 1;85(1):45-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11078235?tool=bestpractice.bmj.com)
+34. Gjuladin-Hellon T, Davies IG, Penson P, et al. Effects of carbohydrate-restricted diets on low-
+density lipoprotein cholesterol levels in overweight and obese adults: a systematic review
+and meta-analysis. Nutr Rev. 2019 Mar 1;77(3):161-80.  Full text (https://academic.oup.com/
+nutritionreviews/article/77/3/161/5241079)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30544168?
+tool=bestpractice.bmj.com)
+35. Klop B, do Rego AT, Cabezas MC. Alcohol and plasma triglycerides. Curr Opin Lipidol. 2013
+Aug;24(4):321-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23511381?tool=bestpractice.bmj.com)
+36. Saeed S, Waje-Andreassen U, Nilsson PM. The association of the metabolic syndrome with
+target organ damage: focus on the heart, brain, and central arteries. Expert Rev Cardiovasc
+Ther. 2020 Sep;18(9):601-14. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32757786?
+tool=bestpractice.bmj.com)
+37. Golden A, Kessler C. Obesity and genetics. J Am Assoc Nurse Pract. 2020 Jul;32(7):493-6. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/32658169?tool=bestpractice.bmj.com)
+38. Jennings J, Faselis C, Yao MD. NAFLD-NASH: an under-recognized epidemic. Curr Vasc
+Pharmacol. 2018;16(3):209-13. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28676024?
+tool=bestpractice.bmj.com)
+39. Katsiki N, Mikhailidis DP, Banach M. Lipid-lowering agents for concurrent cardiovascular and
+chronic kidney disease. Expert Opin Pharmacother. 2019 Nov;20(16):2007-17. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31344332?tool=bestpractice.bmj.com)
+40. Oh J, Hegele RA. HIV-associated dyslipidaemia: pathogenesis and treatment. Lancet Infect
+Dis. 2007 Dec;7(12):787-96. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18045561?
+tool=bestpractice.bmj.com)
+41. Waters DD, Hsue PY. Lipid abnormalities in persons living with HIV infection. Can J
+Cardiol. 2019 Mar;35(3):249-59. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30704819?
+tool=bestpractice.bmj.com)
+42. Arnaldi G, Scandali VM, Trementino L, et al. Pathophysiology of dyslipidemia in Cushing's
+syndrome. Neuroendocrinology. 2010;92 (Suppl 1):86-90.  Full text (https://www.karger.com/
+Article/FullText/314213)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20829625?
+tool=bestpractice.bmj.com)
+43. Salazar A, Mana J, Pinto X, et al. Low levels of high-density lipoprotein-cholesterol in patients with
+active sarcoidosis. Atherosclerosis. 1998 Jan;136(1):133-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9580477?tool=bestpractice.bmj.com)
+44. Escárcega RO, García-Carrasco M, Fuentes-Alexandro S, et al. Insulin resistance, chronic
+inflammatory state and the link with systemic lupus erythematosus-related coronary disease.
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Hypertriglyceridemia References
+REFERENCES
+Autoimmun Rev. 2006 Nov;6(1):48-53. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17110317?
+tool=bestpractice.bmj.com)
+45. Aviram M, Carter A, Brook JG, et al. Chylomicronaemia in multiple myeloma. Scand J Haematol. 1985
+May;34(5):436-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/4012223?tool=bestpractice.bmj.com)
+46. Markell MS, Friedman EA. Hyperlipidemia after organ transplantation. Am J Med.
+1989 Nov;87(5N):61-67N. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2486550?
+tool=bestpractice.bmj.com)
+47. Stone NJ. Secondary causes of hyperlipidemia. Med Clin North Am. 1994 Jan;78(1):117-41. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/8283927?tool=bestpractice.bmj.com)
+48. Goldberg AS, Hegele RA. Severe hypertriglyceridemia in pregnancy. J Clin Endocrinol Metab. 2012
+Aug;97(8):2589-96.  Full text (https://academic.oup.com/jcem/article/97/8/2589/2823219)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/22639290?tool=bestpractice.bmj.com)
+49. Lichtenstein AH, Appel LJ, Vadiveloo M, et al. 2021 dietary guidance to improve cardiovascular
+health: a scientific statement from the American Heart Association. Circulation. 2021 Dec
+7;144(23):e472-e487.  Full text (https://www.doi.org/10.1161/CIR.0000000000001031)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/34724806?tool=bestpractice.bmj.com)
+50. United States Preventive Services Task Force. Healthy diet and physical activity for cardiovascular
+disease prevention in adults with cardiovascular risk factors: behavioral counseling interventions.
+Nov 2020 [internet publication].  Full text (https://www.uspreventiveservicestaskforce.org/uspstf/
+recommendation/healthy-diet-and-physical-activity-counseling-adults-with-high-risk-of-cvd)
+51. United States Preventive Services Task Force. Healthy diet and physical activity for cardiovascular
+disease prevention in adults without cardiovascular disease risk factors: behavioral counseling
+interventions. Jul 2022 [internet publication].  Full text (https://www.uspreventiveservicestaskforce.org/
+uspstf/recommendation/healthy-lifestyle-and-physical-activity-for-cvd-prevention-adults-without-known-
+risk-factors-behavioral-counseling)
+52. Brahm AJ, Hegele RA. Chylomicronaemia: current diagnosis and future therapies. Nat Rev
+Endocrinol. 2015 Jun;11(6):352-62. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25732519?
+tool=bestpractice.bmj.com)
+53. Nordestgaard BG, Benn M, Schnohr P, et al. Nonfasting triglycerides and risk of myocardial infarction,
+ischemic heart disease, and death in men and women. JAMA. 2007 Jul 18;298(3):299-308.  Full text
+(https://jamanetwork.com/journals/jama/fullarticle/208012)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17635890?tool=bestpractice.bmj.com)
+54. Huet F, Roubille C, Roubille F. Is hypertriglyceridemia atherogenic? Curr Opin Lipidol. 2019
+Aug;30(4):291-9.  Full text (https://hal.archives-ouvertes.fr/hal-02145081/document)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31145120?tool=bestpractice.bmj.com)
+55. Hubert HB, Feinleb M, McNamara PM, et al. Obesity as an independent risk factor for cardiovascular
+disease: A 26-year follow-up of participants in the Framingham Heart Study. Circulation. 1983
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Hypertriglyceridemia References
+May;67(5):968-77.  Full text (https://www.ahajournals.org/doi/epdf/10.1161/01.CIR.67.5.968)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/6219830?tool=bestpractice.bmj.com)
+56. LeBlanc S, Coulombe F, Bertrand OF, et al. Hypertriglyceridemic waist: a simple marker of high-risk
+atherosclerosis features associated with excess visceral adiposity/ectopic fat. J Am Heart Assoc. 2018
+Apr 13;7(8):e008139.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6015425)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29654193?tool=bestpractice.bmj.com)
+57. Toth PP, Philip S, Hull M, et al. Hypertriglyceridemia is associated with an increased risk of peripheral
+arterial revascularization in high-risk statin-treated patients: a large administrative retrospective
+analysis. Clin Cardiol. 2019 Oct;42(10):908-13.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC6788480)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31368589?tool=bestpractice.bmj.com)
+58. Jellinger PS, Handelsman Y, Rosenblit PD, et al. American Association of Clinical Endocrinologists
+and American College of Endocrinology guidelines for management of dyslipidemia and
+prevention of cardiovascular disease. Endocr Pract. 2017 Apr;23(Suppl 2):1-87.  Full text
+(https://www.endocrinepractice.org/article/S1530-891X(20)42959-3/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28437620?tool=bestpractice.bmj.com)
+59. National Institute for Health and Care Excellence. Cardiovascular disease: risk assessment
+and reduction, including lipid modification. Dec 2023 [internet publication].  Full text (https://
+www.nice.org.uk/guidance/ng238)
+60. Writing Committee, Lloyd-Jones DM, Morris PB, et al. 2022 ACC expert consensus decision
+pathway on the role of nonstatin therapies for LDL-cholesterol lowering in the management of
+atherosclerotic cardiovascular disease risk: a report of the American college of cardiology solution
+set oversight committee. J Am Coll Cardiol. 2022 Oct 4;80(14):1366-1418.  Full text (https://
+www.doi.org/10.1016/j.jacc.2022.07.006)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36031461?
+tool=bestpractice.bmj.com)
+61. Bhatt DL, Steg PG, Miller M, et al. Cardiovascular risk reduction with icosapent ethyl for
+hypertriglyceridemia. N Engl J Med. 2019 Jan 3;380(1):11-22.  Full text (https://www.nejm.org/
+doi/10.1056/NEJMoa1812792)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30415628?
+tool=bestpractice.bmj.com)
+62. Skulas-Ray AC, Wilson PWF, Harris WS, et al. Omega-3 fatty acids for the management of
+hypertriglyceridemia: a science advisory from the American Heart Association. Circulation. 2019 Sep
+17;140(12):e673-91.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000709)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31422671?tool=bestpractice.bmj.com)
+63. Chaudhry R, Viljoen A, Wierzbicki AS. Pharmacological treatment options for severe
+hypertriglyceridemia and familial chylomicronemia syndrome. Expert Rev Clin Pharmacol.
+2018 Jun;11(6):589-98. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29842811?
+tool=bestpractice.bmj.com)
+64. Abdelhamid AS, Brown TJ, Brainard JS, et al. Omega-3 fatty acids for the primary and
+secondary prevention of cardiovascular disease. Cochrane Database Syst Rev. 2020 Feb
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Hypertriglyceridemia References
+REFERENCES
+29;3(3):CD003177.  Full text (https://www.doi.org/10.1002/14651858.CD003177.pub5)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/32114706?tool=bestpractice.bmj.com)
+65. Lazarte J, Hegele RA. Dyslipidemia management in adults with diabetes. Can J Diabetes.
+2020 Feb;44(1):53-60.  Full text (https://www.canadianjournalofdiabetes.com/article/
+S1499-2671(19)30373-9/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31521544?
+tool=bestpractice.bmj.com)
+66. Medicines and Healthcare products Regulatory Agency. Omega-3-acid ethyl ester medicines (Omacor/
+Teromeg 1000mg capsules): dose-dependent increased risk of atrial fibrillation in patients with
+established cardiovascular diseases or cardiovascular risk factors. Jan 2024 [internet publication]. 
+Full text (https://www.gov.uk/drug-safety-update/omega-3-acid-ethyl-ester-medicines-omacor-slash-
+teromeg-1000mg-capsules-dose-dependent-increased-risk-of-atrial-fibrillation-in-patients-with-
+established-cardiovascular-diseases-or-cardiovascular-risk-factors)
+67. Borén J, Packard CJ, Taskinen MR. The roles of apoc-III on the metabolism of triglyceride-rich
+lipoproteins in humans. Front Endocrinol (Lausanne). 2020 Jul 28;11:474.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC7399058)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32849270?tool=bestpractice.bmj.com)
+68. Hegele RA, Tsimikas S. Lipid-lowering agents. Circ Res. 2019 Feb;124(3):386-404.  Full text (https://
+www.ahajournals.org/doi/10.1161/CIRCRESAHA.118.313171)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30702996?tool=bestpractice.bmj.com)
+69. Gouni-Berthold I, Alexander VJ, Yang Q, et al. Efficacy and safety of volanesorsen in patients with
+multifactorial chylomicronaemia (COMPASS): a multicentre, double-blind, randomised, placebo-
+controlled, phase 3 trial. Lancet Diabetes Endocrinol. 2021 May;9(5):264-75. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33798466?tool=bestpractice.bmj.com)
+70. Witztum JL, Gaudet D, Freedman SD, et al. Volanesorsen and triglyceride levels in familial
+chylomicronemia syndrome. N Engl J Med. 2019 Aug 8;381(6):531-42.  Full text (https://www.nejm.org/
+doi/10.1056/NEJMoa1715944)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31390500?
+tool=bestpractice.bmj.com)
+71. Stroes ESG, Alexander VJ, Karwatowska-Prokopczuk E, et al. Olezarsen, acute pancreatitis, and
+familial chylomicronemia syndrome. N Engl J Med. 2024 May 16;390(19):1781-92. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38587247?tool=bestpractice.bmj.com)
+72. Bergmark BA, Marston NA, Prohaska TA, et al. Olezarsen for hypertriglyceridemia in patients
+at high cardiovascular risk. N Engl J Med. 2024 May 16;390(19):1770-80. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38587249?tool=bestpractice.bmj.com)
+73. Gaudet D, Pall D, Watts GF, et al. Plozasiran (ARO-APOC3) for severe hypertriglyceridemia:
+the SHASTA-2 randomized clinical trial. JAMA Cardiol. 2024 Jul 1;9(7):620-30. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38583092?tool=bestpractice.bmj.com)
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Hypertriglyceridemia References
+74. Ballantyne CM, Vasas S, Azizad M, et al. Plozasiran, an RNA interference agent targeting
+APOC3, for mixed hyperlipidemia. N Engl J Med. 2024 Sep 12;391(10):899-912. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38804517?tool=bestpractice.bmj.com)
+75. Watts GF, Rosenson RS, Hegele RA, et al. Plozasiran for managing persistent chylomicronemia and
+pancreatitis risk. N Engl J Med. 2025 Jan 9;392(2):127-37. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/39225259?tool=bestpractice.bmj.com)
+76. ClinicalTrials.gov. Study of ARO-APOC3 (plozasiran) in adults with familial chylomicronemia
+syndrome (FCS) (PALISADE). Feb 2025 [internet publication].  Full text (https://clinicaltrials.gov/study/
+NCT05089084)
+77. Nurmohamed NS, Dallinga-Thie GM, Stroes ESG. Targeting apoC-III and ANGPTL3 in the
+treatment of hypertriglyceridemia. Expert Rev Cardiovasc Ther. 2020 Jun;18(6):355-61.  Full
+text (https://www.tandfonline.com/doi/full/10.1080/14779072.2020.1768848)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32511037?tool=bestpractice.bmj.com)
+78. Berberich AJ, Ziada A, Zou GY, et al. Conservative management in hypertriglyceridemia-associated
+pancreatitis. J Intern Med. 2019 Dec;286(6):644-50.  Full text (https://onlinelibrary.wiley.com/
+doi/10.1111/joim.12925)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31077464?
+tool=bestpractice.bmj.com)
+79. Rosenson RS, Gaudet D, Hegele RA, et al. Zodasiran, an RNAi Therapeutic Targeting ANGPTL3,
+for Mixed Hyperlipidemia. N Engl J Med. 2024 Sep 12;391(10):913-25. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38809174?tool=bestpractice.bmj.com)
+80. Mozaffarian D, Maki KC, Bays HE, et al. Effectiveness of a novel ω-3 krill oil agent in patients
+with severe hypertriglyceridemia: a randomized clinical trial. JAMA Netw Open. 2022 Jan
+4;5(1):e2141898.  Full text (https://www.doi.org/10.1001/jamanetworkopen.2021.41898)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/34989797?tool=bestpractice.bmj.com)
+81. Bushnell C, Kernan WN, Sharrief AZ, et al. 2024 guideline for the primary prevention of stroke: a
+guideline from the American Heart Association/American Stroke Association. Stroke. 2024 Oct
+21.  Full text (https://www.ahajournals.org/doi/10.1161/STR.0000000000000475)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/39429201?tool=bestpractice.bmj.com)
+82. Pearson GJ, Thanassoulis G, Anderson TJ, et al. 2021 Canadian Cardiovascular Society guidelines for
+the management of dyslipidemia for the prevention of cardiovascular disease in adults. Can J Cardiol.
+2021 Aug;37(8):1129-50.  Full text (https://www.onlinecjc.ca/article/S0828-282X(21)00165-3/fulltext)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33781847?tool=bestpractice.bmj.com)
+83. Newman CB, Blaha MJ, Boord JB, et al. Lipid Management in Patients with Endocrine Disorders: An
+Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2020 Dec 1;105(12):3613–
+82  Full text (https://www.doi.org/10.1210/clinem/dgaa674)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32951056?tool=bestpractice.bmj.com)
+84. American Association of Clinical Endocrinologists; American College of Endocrinology. Consensus
+statement by the American Association of Clinical Endocrinologists and American College of
+Endocrinology on the management of dyslipidemia and prevention of cardiovascular disease algorithm
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Hypertriglyceridemia References
+REFERENCES
+– 2020 executive summary. 2020 [internet publication].  Full text (https://pro.aace.com/disease-state-
+resources/lipids-and-cv-health/clinical-practice-guidelines-treatment-algorithms/2020)
+85. Veterans Health Administration; Department of Defense. VA/DoD clinical practice guideline for the
+management of dyslipidemia for cardiovascular risk reduction. June 2020 [internet publication].  Full
+text (https://www.healthquality.va.gov/guidelines/CD/lipids/VADoDDyslipidemiaCPG5087212020.pdf)
+86. Rosenzweig JL, Bakris GL, Berglund LF, et al. Primary prevention of ASCVD and T2DM in patients at
+metabolic risk: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2019 Jul 31
+[Epub ahead of print].  Full text (https://academic.oup.com/jcem/article/104/9/3939/5540926)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/31365087?tool=bestpractice.bmj.com)
+87. Arnett DK, Blumenthal RS, Albert MA, et al. 2019 ACC/AHA guideline on the primary prevention of
+cardiovascular disease: a report of the American college of cardiology/American Heart Association
+Task Force on clinical practice guidelines. Circulation. 2019 Sep 10;140(11):e596-e646.  Full text
+(https://www.doi.org/10.1161/CIR.0000000000000678)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30879355?tool=bestpractice.bmj.com)
+88. Academy of Nutrition and Dietetics (American Dietetic Association). Disorders of lipid metabolism:
+evidence-based nutrition practice guideline. 2011 [internet publication].  Full text (https://
+www.andeal.org/topic.cfm?cat=4527)
+89. Mosca L, Benjamin EJ, Berra K, et al. Effectiveness-based guidelines for the prevention
+of cardiovascular disease in women--2011 update: a guideline from the American Heart
+Association. Circulation. 2011 Mar 22;123(11):1243-62.  Full text (http://circ.ahajournals.org/
+content/123/11/1243.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21325087?
+tool=bestpractice.bmj.com)
+90. Smith SC Jr, Benjamin EJ, Bonow RO, et al. AHA/ACCF secondary prevention and risk reduction
+therapy for patients with coronary and other atherosclerotic vascular disease: 2011 update.
+J Am Coll Cardiol. 2011 Nov 29;58(23):2432-46.  Full text (https://www.ahajournals.org/doi/
+pdf/10.1161/CIR.0b013e318235eb4d)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22055990?
+tool=bestpractice.bmj.com)
+91. Lichtenstein AH, Appel LJ, Brands M, et al; American Heart Association Nutrition Committee.
+Diet and lifestyle recommendations revision 2006: a scientific statement from the American
+Heart Association Nutrition Committee. Circulation. 2006 Jul 4;114(1):82-96.  Full text (http://
+circ.ahajournals.org/content/114/1/82.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16785338?
+tool=bestpractice.bmj.com)
+92. Visseren FLJ, Mach F, Smulders YM, et al. 2021 ESC Guidelines on cardiovascular disease
+prevention in clinical practice. Eur Heart J. 2021 Sep 7;42(34):3227-337.  Full text (https://
+www.doi.org/10.1093/eurheartj/ehab484)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34458905?
+tool=bestpractice.bmj.com)
+93. Marston NA, Giugliano RP, Im K, et al. Association between triglyceride lowering and reduction of
+cardiovascular risk across multiple lipid-lowering therapeutic classes: a systematic review and meta-
+regression analysis of randomized controlled trials. Circulation. 2019 Oct 15;140(16):1308-17.  Full text
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Hypertriglyceridemia References
+(https://www.doi.org/10.1161/CIRCULATIONAHA.119.041998)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31530008?tool=bestpractice.bmj.com)
+94. Balling M, Afzal S, Davey Smith G, et al. Elevated LDL triglycerides and atherosclerotic risk. J
+Am Coll Cardiol. 2023 Jan 17;81(2):136-52.  Full text (https://www.sciencedirect.com/science/
+article/pii/S0735109722073065)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36631208?
+tool=bestpractice.bmj.com)
+95. Kaltoft M, Langsted A, Nordestgaard BG. Triglycerides and remnant cholesterol associated with
+risk of aortic valve stenosis: Mendelian randomization in the Copenhagen General Population
+Study. Eur Heart J. 2020 Jun 21;41(24):2288-99.  Full text (https://academic.oup.com/eurheartj/
+article/41/24/2288/5817922)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32267934?
+tool=bestpractice.bmj.com)
+96. US Preventive Services Task Force. Statin use for the primary prevention of cardiovascular
+disease in adults: preventive medication. Aug 2022 [internet publication].  Full text (https://
+www.uspreventiveservicestaskforce.org/uspstf/recommendation/statin-use-in-adults-preventive-
+medication)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Hypertriglyceridemia Images
+IMAGES
+Images
+Figure 1: Eruptive xanthomas
+From the personal collection of Professor Hegele; used with permission
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Hypertriglyceridemia Images
+Figure 2: Lipemia retinalis. Pinkish-white discoloration of retinal blood vessels on ophthalmoscopy
+From the personal collection of Professor Hegele, used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Hypertriglyceridemia Images
+IMAGES
+Figure 3: Lipemic blood sample taken from a patient within 24 hours of presentation. Blood samples may
+appear milky-white if triglyceride levels are very high
+From the personal collection of Professor Hegele, used with permission
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Hypertriglyceridemia Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Hypertriglyceridemia Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 05, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Contributors:
+// Authors:
+Robert A. Hegele, MD, FRCPC, Cert Endo, FACP, FAHA
+Jacob J. Wolfe Distinguished Medical Research Chair
+Martha Blackburn Chair in Cardiovascular Research, Distinguished University Professor of Medicine and
+Biochemistry, University of Western Ontario, London, Ontario, Canada
+DISCLOSURES: RAH reports consulting fees from Acasti, Aegerion, Akcea/Ionis, Amgen, Boston Heart,
+HLS Therapeutics, Novartis, Pfizer, Regeneron, Sanofi and UltraGenyx. RAH is an author of references
+cited in this topic.
+// Acknowledgements:
+Dr Robert A. Hegele would like to gratefully acknowledge Dr David Alexander Leaf, the previous contributor
+to this topic.
+DISCLOSURES: DAL declares that he has no competing interests.
+// Peer Reviewers:
+Vinaya Simha, MBBS, MD
+Associate Professor
+Mayo Clinic, Rochester, MN
+DISCLOSURES: VS declares that he has no competing interests.

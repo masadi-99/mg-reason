@@ -1,0 +1,1348 @@
+# Patent foramen ovale
+
+=== Page 1 ===
+Patent foramen ovale
+Straight to the point of care
+Last updated: Feb 08, 2022
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  4
+Case history  5
+Diagnosis  6
+Approach  6
+History and exam  11
+Risk factors  11
+Tests  13
+Differentials  16
+Management  17
+Approach  17
+Treatment algorithm overview  20
+Treatment algorithm  21
+Secondary prevention  24
+Patient discussions  25
+Follow up  26
+Monitoring  26
+Complications  27
+Prognosis  28
+Guidelines  30
+Diagnostic guidelines  30
+Treatment guidelines  30
+Online resources  31
+References  32
+Images  37
+Disclaimer  41
+=== Page 3 ===
+Patent foramen ovale Overview
+Summary
+Patent foramen ovale (PFO) is a common finding, reported in approximately 10% of people undergoing
+contrast echo.
+Usually asymptomatic but may be associated with cryptogenic stroke.
+Atrial septal aneurysm is a risk factor for PFO, and when present in combination is associated with an
+increased risk of cerebrovascular accident (CVA).
+Asymptomatic patients are generally observed without medical intervention.
+In patients younger than 60 years with PFO and cryptogenic stroke, percutaneous PFO closure with
+antiplatelet therapy is recommended.
+Multidisciplinary approach in the evaluation of patients with cryptogenic stroke and shared decision making
+by involving patients are essential in identifying the best management option.
+Routine closure of the PFO is not recommended in the presence of alternative mechanisms for CVA.
+Definition
+PFO is the persistent patency of a congenital opening or foramen ovale in the interatrial septum, which
+normally closes after birth. Notably, PFO is a potential cause of paradoxical embolism leading to CVA.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Patent foramen ovale Theory
+THEORY
+Epidemiology
+PFO is reportedly found in approximately 10% of patients undergoing contrast echo.[5] In one autopsy
+series, PFOs were reported of 0.2 to 0.5 cm in 29% of patients and 0.6 to 1.0 cm in 6% of patients.[6]
+Another study showed an incidence of 27%, with PFOs varying from 1 to 19 mm in size.[7] The incidence
+declines with age, suggesting that some PFOs may close anatomically even in adulthood. There is no sex or
+age predominance. Epidemiologic studies in large populations suggest some racial and ethnic differences
+in incidence, although other studies are unsupporting.[8] [9] Due to increased usage of contrast echo and
+availability of percutaneous treatment, PFO is increasingly recognized in the overall population, with higher
+numbers in stroke survivors.
+Etiology
+PFO is idiopathic.
+Pathophysiology
+The middle segment of the atrial septum is called the fossa ovalis. Often, there is a slit-like opening between
+the two parts of the septum called a PFO. In one autopsy series, PFOs were reported of 0.2 to 0.5 cm
+in 29% of patients and 0.6 to 1.0 cm in 6% of patients.[6] During normal fetal development, the septum
+primum membrane develops from the top of the atrium downward to form part of the early interatrial septum
+separating the right and left atria. In PFO, this membrane is incomplete and is called septum primum atrial
+septal defect (ASD). A septum secundum occurs when another membrane forms from the bottom of the
+atrium upward and to the right of the septum primum. The two septa overlap and form an aberrant atrial
+septum, dividing the atria in half.
+A PFO is a flap-like communication between the two atria. Because the septum secundum is to the right
+of the septum primum, there is no, or very little, left-to-right shunting. Because the pressure in both atria
+is generally low, there is very little shunting and the flap may remain closed. However, when the right atrial
+pressure rises transiently (e.g., during straining, Valsalva maneuver or coughing) this flap separates and
+allows blood to travel from the right atrium to the left atrium. This type of shunting may become more marked
+in cases where the right atrial pressure is elevated due to pathology such as pneumonia or pulmonary
+embolism. Shunting across a PFO may exacerbate hypoxemia at high altitude.[10] The size of the PFO also
+determines the amount of shunting because large defects will increase the allowed flow.[11]
+The degree of blood shunting is not enough to be hemodynamically significant except under rare
+circumstances. In patients on mechanical ventilators, such aberrant flow may cause persistent hypoxemia. If
+a thrombus such as a deep vein thrombosis was to form in the legs and flow to the right atrium, it may travel
+through the PFO and enter the systemic circulation, causing a stroke or a peripheral arterial embolism.
+Classification
+Small versus large PFO[1]
+• Small PFO: <10 microbubbles crossing into the left atrium after intravenous injection.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Patent foramen ovale Theory
+• Large PFO: >10 microbubbles crossing into the left atrium after intravenous injection. Bubbles appear
+in the left atrium within three cardiac cycles of injection to exclude the possibility of recirculation
+through a pulmonary arteriovenous malformation.
+Septum primum ASD versus septum secundum ASD
+• Septum primum ASD: an incomplete membrane formed from the top of the atrium downward
+separating the right and left atria.
+• Septum secundum ASD: forms from the bottom of the atrium upward and to the right of the septum
+primum. The septa overlap and form an aberrant atrial septum, dividing the atria in half.
+Case history
+Case history #1
+A 43-year-old male smoker with no significant past medical history presents with sudden onset of
+right-sided weakness of his body. He has no previous history of hypertension, diabetes mellitus,
+or cerebrovascular accident. Physical examination reveals right-sided hemiparesis with expressive
+dysphasia. An ECG shows normal sinus rhythm. A head computed tomography shows a cerebral infarct
+in the left middle cerebral artery distribution. Carotid ultrasound does not show any significant obstruction.
+A transesophageal echo indicates a PFO with a large number of microbubbles crossing into the left atrium
+after intravenous injection of agitated saline.
+Other presentations
+A patient with a PFO may present with a migraine headache. Migraine sufferers have a higher incidence
+of PFO and there have been reports of migraine relief following surgical closure.[2] Platypnea-orthodeoxia
+syndrome is a rare disorder associated with a PFO. The patient presents with oxygen desaturation and
+shortness of breath in the upright position with relief of symptoms when recumbent.[3] PFO may also
+manifest as venous-to-arterial gas embolism and some forms of decompression sickness in underwater
+divers or astronauts.[4]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Patent foramen ovale Diagnosis
+DIAGNOSIS
+Approach
+Clinical examination is not useful in establishing a diagnosis. Echo and, in particular, transesophageal echo
+(TEE) form the cornerstone of diagnosis.
+Transesophageal echo showing a 2D image of the interatrial septum with location of the PFO
+From the collection of Kul Aggarwal, MD
+History and physical examination
+The majority of patients are completely asymptomatic and no abnormal physical findings are associated.
+Suspicion of PFO is increased if a patient under 60 years presents with:
+• A cryptogenic stroke
+• A sudden onset of cold and pain in a limb
+• No obvious source of embolism.
+A high index of suspicion is more likely to lead to a diagnosis. In patients with other obvious causes of
+a stroke, such as atrial fibrillation, aortic disease, or severe carotid artery disease, detection of a PFO
+is less useful, as it is unlikely to change management. Due to the presence of multiple variables that
+could contribute to an embolic stroke, a multidisciplinary approach - with neurology and cardiology teams
+- is warranted to identify patient subsets where the presence of PFO could contribute to the embolic
+phenomenon and benefit from PFO closure procedure.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Patent foramen ovale Diagnosis
+Patients with a decompression syndrome can also present with mild-to-severe manifestation due to the
+presence of PFO. Decompression syndrome is most often associated with a change of pressure from
+deep sea diving. A similar phenomenon and potential risk with PFO has been reported with high elevation
+flying, but it is not a well-established phenomenon.
+Rarely, migraine headaches may indicate the presence of PFO.
+A history of congenital heart disease (e.g., Ebstein anomaly) increases the likelihood of PFO and a high
+index of suspicion is warranted in divers with a history of decompression illness.
+Dyspnea associated with postural change (worse when the patient is upright; improves when the patient
+is recumbent) may be a clue to a PFO and platypnea-orthodeoxia syndrome.
+On cardiac examination, splitting of the second heart sound and a systolic murmur (sometimes fixed) are
+found in secundum atrial septal defect (ASD).
+Echocardiography
+Echocardiography is the principal modality used in the comprehensive evaluation of a PFO.[16] A
+transthoracic echo, paying careful attention to the interatrial septum, may serve as a screening test in
+suspected cases; however, the more invasive TEE is the method of choice. TEE is favored due to the
+following factors:
+• More sensitive and specific in the detection of a PFO
+• Better visualization
+• Allows differentiation of a PFO from an ASD
+• Decreases the rate of missed PFOs.
+TEE is also very useful in the thorough evaluation of a PFO prior to device closure.[17]
+Intracardiac echo is reserved for use during percutaneous closure of a PFO due to its high cost and
+invasive nature.
+Color flow Doppler imaging shows color flow across the small defect in the interatrial septum. This flow is
+typically right to left but could sometimes be left to right or bidirectional. Intravenous injection of agitated
+saline with provocative maneuvers (e.g., Valsalva and coughing) to increase right atrial pressure is utilized
+to evaluate for right to left crossover of microbubbles. Excessive mobility of the interatrial septum or
+presence of an atrial septal aneurysm indicates a PFO.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Patent foramen ovale Diagnosis
+DIAGNOSIS
+Transesophageal echo showing a 2D image of the interatrial septum with location of the PFO
+From the collection of Kul Aggarwal, MD
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Patent foramen ovale Diagnosis
+Intracardiac echo showing a catheter placed across the PFO into the left atrium
+From the collection of Kul Aggarwal, MD
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Patent foramen ovale Diagnosis
+DIAGNOSIS
+Transesophageal echo with intravenous injection of agitated
+saline showing contrast crossing through PFO into left atrium
+From the collection of Kul Aggarwal, MD
+Other imaging modalities
+Less commonly utilized, a transcranial Doppler may be performed to diagnose shunting through a
+PFO.[18] Although it is sensitive in the detection of abnormal flow, it does not actually visualize the PFO
+defect and therefore could produce a false positive.
+Magnetic resonance imaging (MRI) and computed tomography (CT) scanning have not yet been
+demonstrated as useful in everyday diagnosis but may serve as important modalities for diagnosing
+ASDs. Imaging of the lower extremity with ultrasound or MRI may aid in the diagnosis of deep vein
+thrombosis and the overall diagnosis of paradoxical embolism and PFO.
+Platypnea-orthodeoxia syndrome
+Diagnosis of platypnea-orthodeoxia syndrome is best made by tilt-table TEE. The PFO is established as
+causative if an inserted TEE probe shows a significant amount of right-to-left shunting across the PFO
+resulting in hypoxemia in an upright position, and if there is a resolution of shunting and hypoxemia when
+the patient is in the recumbent position.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Patent foramen ovale Diagnosis
+History and exam
+Key diagnostic factors
+atrial septal aneurysm (common)
+• A risk factor.
+congenital heart conditions (common)
+• A risk factor.
+cerebrovascular accident (CVA) at ages <60 years (common)
+• In order to prove definitively that the PFO is a causal factor, patients have a right-sided thrombus (e.g.,
+deep vein thrombosis), presence of PFO, evidence of systemic embolism (e.g., CVA or intra-arterial
+embolism) and thrombus crossing through the PFO (thrombus-in-transit).[19]
+• It is extremely rare to have all four factors present, and thus the presence of CVA and PFO with an
+absence of other obvious sources of embolism is presumptively diagnostic of paradoxical embolism.
+• PFO is present in all age groups, but is more likely to be the cause of cryptogenic stroke in younger
+patients.
+abnormal cardiac examination (common)
+• A systolic murmur (sometimes fixed) and splitting of the second heart sound is found in secundum
+atrial septal defect.
+deep vein thrombosis (uncommon)
+• Increases the likelihood of paradoxical embolism in patients with a PFO.
+Other diagnostic factors
+decompression symptoms related to diving (uncommon)
+• Venous to arterial gas embolism is seen in some divers as part of decompression from coming to the
+ocean surface while deep sea diving.
+cold sensation in limb (uncommon)
+• May be evidence of systemic embolism (e.g., CVA or intra-arterial embolism).
+limb pain (uncommon)
+• May be evidence of systemic embolism (e.g., CVA or intra-arterial embolism).
+shortness of breath while upright in platypnea-orthodeoxia syndrome
+(uncommon)
+• In platypnea-orthodeoxia syndrome, patients usually experience shortness of breath upon sitting and
+relief upon assuming a recumbent position.
+Risk factors
+Strong
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Patent foramen ovale Diagnosis
+DIAGNOSIS
+atrial septal aneurysm
+• Associated with a greater frequency of PFO; the combination with PFO is associated with a greater
+incidence of recurrent stroke.[12]
+congenital heart conditions
+• These include Ebstein anomaly and tricuspid atresia.
+• Some congenital heart defects elevating right atrial pressure may lead to stretching and persistent
+patency of the fossa ovalis.
+Weak
+family history of migraine
+• Studies suggest a link between family history of migraine and presence of PFO.[13]
+migraine
+• Studies suggest a link between migraine and presence of PFO.[14]
+family history of PFO
+• Small studies carried out in families of individuals with PFO show an increased prevalence.[13]
+obstructive sleep apnea
+• Studies have found an increased prevalence in patients with obstructive sleep apnea, possibly due to
+increased right atrial pressures.[15]
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Patent foramen ovale Diagnosis
+Tests
+1st test to order
+Test Result
+transthoracic echo with color Doppler and contrast injection
+• Performed as a screening test when clinical suspicion of condition is
+low.
+• Intravenous access is obtained, typically in an antebrachial vein or
+femoral vein.
+• Two 10 mL syringes are attached to a 3-way stopcock. About 9.5 mL
+of normal saline and 0.5 mL of air are drawn into a syringe and then
+rapidly agitated via the stopcock and the other syringe just prior to
+intravenous injection.
+• Echo images are continuously recorded over several cardiac
+cycles and the sequence is repeated several times with provocative
+maneuvers.
+• If upper extremity injection fails to show crossover despite a high
+suspicion of PFO, lower extremity injection may be used as this can
+be more sensitive.[20]
+color flow at the interatrial
+septum and crossover of
+microbubbles from right
+atrium to left atrium after
+intravenous injection of
+agitated saline
+transesophageal echo with color Doppler and contrast injection
+• Performed in cases where a definitive diagnosis is sought; the
+transthoracic echo is either equivocal or negative; there is uncertainty
+as to whether the patient has atrial septal defect or PFO; and
+diagnosis is likely to alter management. 
+Transesophageal echo showing a 2D image of
+the interatrial septum with location of the PFO
+From the collection of Kul Aggarwal, MD
+visualization of defect,
+color flow at the interatrial
+septum and crossover of
+microbubbles from right
+atrium to left atrium after
+intravenous injection of
+agitated saline
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Patent foramen ovale Diagnosis
+DIAGNOSIS
+Test Result
+Transesophageal echo with intravenous injection of agitated
+saline showing contrast crossing through PFO into left atrium
+From the collection of Kul Aggarwal, MD
+Transesophageal echo with color flow
+Doppler showing presence of PFO
+From the collection of Kul Aggarwal, MD
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Patent foramen ovale Diagnosis
+Other tests to consider
+Test Result
+intracardiac echo
+• Not routinely used as a diagnostic procedure for PFO because of its
+high cost.
+• Performed in conjunction with percutaneous closure of PFO.[21]
+• Advantage is elimination of need for deeper sedation and discomfort
+associated with a transesophageal echo.
+Intracardiac echo showing a catheter
+placed across the PFO into the left atrium
+From the collection of Kul Aggarwal, MD
+visualization of PFO
+ultrasound lower extremity
+• Useful if suspected paradoxical embolism.
+deep venous thrombosis
+MRI lower extremity
+• Useful if suspected paradoxical embolism.
+deep venous thrombosis
+tilt-table transesophageal echo
+• Diagnosis of platypnea-orthodeoxia syndrome is best made by tilt-
+table transesophageal echo (TEE). A diagnosis of PFO is established
+if an inserted TEE probe shows right-to-left shunting across the
+PFO resulting in hypoxemia in an upright position, and if there is
+a resolution of shunting and hypoxemia when the patient is in the
+recumbent position.
+right-to-left shunting and
+hypoxemia in an upright
+position; resolution in the
+recumbent position
+Emerging tests
+Test Result
+transcranial Doppler
+• Modality not in common clinical use.
+• May be used in centers with particular expertise and where echo
+images are suboptimal.
+microbubbles in the
+cranial circulation
+immediately after
+intravenous saline
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Patent foramen ovale Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Arteriovenous
+malformation (AVM) in the
+lung
+• Patients often have
+advanced liver disease
+(e.g., cirrhosis) and may
+have clubbing, cyanosis
+or hypoxemia and/or
+portal hypertension, with
+splenomegaly, ascites and
+telangiectasia on the skin of
+the upper torso.
+• Doppler imaging shows no
+color flow in the interatrial
+septum.
+• On injection of agitated
+saline, microbubbles are
+seen in the left atrium after
+several cardiac cycles
+(typically 4 to 8) and not
+immediately as seen in PFO.
+• A transesophageal echo may
+further delineate the exact
+crossover site.
+• If the microbubbles appear
+in the left atrium without
+crossing at the fossa ovalis,
+then AVM is possible.
+• Laboratory findings may
+show abnormal liver function
+tests, coagulopathy and low
+serum albumin.
+• Contrast-enhanced CT
+scanning may illustrate the
+AVMs.
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Patent foramen ovale Management
+Approach
+Most asymptomatic people may be observed without the need for treatment.
+For patients aged younger than 60 years with cryptogenic stroke, percutaneous closure of PFO with
+antiplatelet therapy is recommended to decrease the risk of future ischemic events. For such patients who
+have indications for chronic anticoagulation, PFO device closure is not recommended.
+Evidence for PFO closure in patients older than 60 years, with multiple cardiovascular risk factors, is not as
+strong.
+Guidelines support a multidisciplinary approach with involvement of neurology and cardiology teams, along
+with shared decision making with the patient, in formulating a management plan.[22][23] Various stroke
+guidelines offer guidance on management approach to patients with cryptogenic stroke and PFO; these
+should be referred to in formulating a management plan for these patients.[22][23][24] [25]
+It is unclear whether patients with recurrent migraine headaches or decompression sickness would benefit
+from routine evaluation and closure of their PFO.
+Asymptomatic patients with low embolism risk (not in high-risk
+occupation)
+Some PFOs are detected as an incidental finding on echo. The size of the defect and the number
+of microbubbles crossing into the left atrium seem to define relative risk. A small number of
+microbubbles (<10) crossing over generally indicates a small defect and is associated with a lower risk
+of thromboembolism. However, the number of microbubbles crossing over can be variable depending on
+certain factors. Factors that may increase the number of bubbles seen to cross are injection through a
+lower limb vein instead of an upper limb vein, and evaluation during Valsalva or coughing. The number of
+bubbles may also be somewhat influenced by the density of microbubbles in the injectate.
+In asymptomatic patients judged to have a low embolism risk, conservative treatment comprising patient
+education and short-term observation for any evidence of a paradoxical embolism is usually sufficient.
+Asymptomatic patients with high risk of thrombotic event (not in
+high-risk occupation)
+Individual assessment of risk is recommended. Clinical observation may be appropriate care in selected
+patients. There is some evidence to suggest that larger PFO defects and associated atrial septal
+aneurysms carry a higher risk of cerebrovascular accident.[26] [27]
+Initiation of antiplatelet therapy with aspirin or clopidogrel may be considered and referral to an
+appropriate specialist is also recommended. Anticoagulation with warfarin is less commonly
+recommended, but may be considered. There are no clear guidelines on combined usage, although a
+combination is often used in patients with concomitant coronary artery disease.
+Cryptogenic stroke
+For the management of patients with non-lacunar cryptogenic stroke and PFO, a multidisciplinary
+approach is warranted to evaluate for cryptogenic stroke and the probability of PFO as a contributing
+factor for the event. Workup includes evaluation for atrial fibrillation, aortic or cerebrovascular disease,
+and left heart disease.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Patent foramen ovale Management
+MANAGEMENT
+In patients ages 18 to 60 years with established cryptogenic stroke and presence of PFO, it is reasonable
+to proceed with a percutaneous transcatheter PFO closure procedure along with postoperative antiplatelet
+therapy to prevent recurrent ischemic events, rather than antiplatelet therapy alone.[25] The benefit
+with PFO closure appears stronger in patients with high-risk features (i.e., large PFO, atrial septal
+aneurysm).[22] 
+In patients with low-risk anatomic features of PFO, further risk stratification using the risk of paradoxical
+embolism (RoPE) score might be beneficial in identifying patients with PFO-related cryptogenic stroke.
+Factors in the score indicative of a higher likelihood of a PFO-related stroke are the absence of traditional
+risk factors such as hypertension and diabetes mellitus, prior stroke, cortical infarct on imaging, and
+younger age.[28] Prior to percutaneous closure, patients receive antiplatelet therapy or anticoagulation.
+After PFO closure, antiplatelet therapy is typically recommended. For patients who have indications for
+chronic anticoagulation, PFO device closure is not indicated. 
+The PFO procedure is associated with a benefit of an absolute recurrent stroke risk reduction of 3.4% at
+5 years, with a periprocedural complication risk of 3.9% and increased absolute rate of nonperiprocedural
+atrial fibrillation of 0.33% per year.[28]
+Evidence is not as strong for PFO closure in patients younger than 18 years or older than 60 years with
+multiple cardiovascular risk factors. Guidelines support a multidisciplinary approach with involvement
+of neurology and cardiology teams, along with shared decision making with the patient, in formulating a
+management plan.[22][23] 
+For patients with cryptogenic stroke, who are not a candidate for a PFO closure procedure, medical
+therapy with full anticoagulation is preferred over antiplatelet therapy to decrease recurrent ischemic
+events. This approach is associated with an increased risk of major bleeding. Careful evaluation of the
+bleeding profile of the patient and shared decision making is recommended in selecting antiplatelet
+versus anticoagulation therapy.[25]
+Similarly, in patients with planned long-term anticoagulation, an additional benefit of PFO closure for
+reducing ischemic events is not established.
+High-risk occupation
+In patients involved in a high-risk profession (e.g., an astronaut, deep sea diver, or high altitude pilot),
+treatment with antiplatelet or anticoagulation therapy is generally recommended, along with behavioral
+prevention of decompression sickness.[29] Percutaneous closure of the PFO should be considered on
+an individual basis for scuba divers who have symptoms of decompression sickness.[30] It is unknown
+whether astronauts need to undergo closure.
+Open surgery is used if the PFO is discovered during open heart surgery for another indication such as
+bypass or valvular surgery.
+A permanently deployed double-umbrella device occluding the PFO is deployed through venous access
+across the interatrial septum. One of the device limbs is deployed in the left atrium with the other in the
+right atrium. Currently available devices include the Amplatzer (AGA) PFO occluder, the Starflex (NMT
+Medical) device, Premere (St. Jude), PFO STAR (Cardia), and Helex (Gore).
+These devices are introduced through a vein, typically a femoral vein. The device is then advanced in a
+collapsed state through a sheath placed across the interatrial septum. The sheath is gradually withdrawn
+and the left atrial side of the device self-expands. The whole apparatus is pulled back until the left atrial
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Patent foramen ovale Management
+side of the device pulls against the septum. The sheath is then further pulled back to expose the right
+atrial disk, which also self-expands. Once proper positioning is confirmed by x-ray and ultrasound, the
+device catheter shaft is detached or unscrewed from the device and withdrawn from the body, leaving
+the device behind. The Food and Drug Administration (FDA) approved the Amplatzer PFO Occluder in
+2016 and the Gore Cardioform Septal Occluder in 2018 for PFO closure in the US 'to reduce the risk of
+recurrent ischemic stroke in patients, predominantly between the ages of 18 and 60 years, who have
+had a cryptogenic stroke due to a presumed paradoxical embolism, as determined by a neurologist and
+cardiologist following an evaluation to exclude known causes of ischemic stroke.'
+Calls for randomized trial data comparing medical treatment versus device treatment had met with
+poor enrollment responses.[31] One review of observational studies has suggested benefits of device
+closure, but the results of the randomized CLOSURE 1 study of >900 patients failed to show a difference
+in end points between best medical therapy and device closure.[32] [33] However, device safety was
+demonstrated. One randomized controlled trial (RCT) showed no difference in medical therapy versus
+closure with an Amplatzer device.[34] Both the CLOSURE 1 study and the RCT trial did not achieve the
+prespecified clinical end point for efficacy and showed nonstatistically significant trends toward benefit
+with a closure device group for secondary stroke prevention compared with antiplatelet or anticoagulant
+therapy. Observational studies suggest that anticoagulant therapy may be better than antiplatelet therapy
+in medically treated patients.[33] Subsequent trials CLOSE and REDUCE compared the efficacy of
+a closure device to antiplatelet therapy alone and showed significant benefit with closure device use.
+The DEFENSE PRO trial evaluated the benefit of a closure device in patients with PFO with high-
+risk features (e.g., large shunt size and atrial septal aneurysm) and did not restrict medical therapy to
+antiplatelet therapy alone. The results were overwhelmingly positive, favoring the closure device arm.
+One subsequent meta-analysis of all the RCTs by the American Association of Neurology showed that in
+patients younger than 60 years with cryptogenic stroke, the PFO procedure is associated with a benefit
+of an absolute recurrent stroke risk reduction of 3.4% at 5 years, with a periprocedural complication risk
+of 3.9% and increased absolute rate of nonperiprocedural atrial fibrillation of 0.33% per year.[28] When
+compared to a similar strategy with anticoagulation therapy, there was no difference in the reduction of
+ischemic events but there was an associated decrease in bleeding events with the device closure plan.
+When full anticoagulation and antiplatelet therapies were compared, without a closure device, there was
+a decrease in ischemic events with full anticoagulation but with an associated increase in major bleeding
+events.[25]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Patent foramen ovale Management
+MANAGEMENT
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Ongoing ( summary )
+asymptomatic with low risk of
+thrombotic event (not in high risk
+occupation)
+1st education and observation
+asymptomatic with high risk of
+thrombotic event (not in high-risk
+occupation)
+1st observation
+adjunct anticoagulation or antiplatelet therapy
+cryptogenic stroke
+candidate for
+percutaneous closure
+1st percutaneous closure
+not a candidate for
+percutaneous closure
+1st anticoagulation or antiplatelet therapy
+high-risk occupation
+1st anticoagulation or antiplatelet therapy
+adjunct percutaneous closure
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Patent foramen ovale Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Ongoing
+asymptomatic with low risk of
+thrombotic event (not in high risk
+occupation)
+1st education and observation
+» Patients with a small PFO and without a prior
+history of cerebrovascular accident do not
+require intervention. These patients are without
+an atrial septal aneurysm or have crossover
+of very few (<10) microbubbles on contrast
+injection. The PFO is generally an incidental
+finding. There is a low risk of paradoxical
+embolism and the risk-benefit ratio does not
+favor treatment. Education and observation for
+any evidence of a paradoxical embolism is all
+that is required.
+asymptomatic with high risk of
+thrombotic event (not in high-risk
+occupation)
+1st observation
+» Factors denoting high risk of thrombosis are
+large PFOs with a large number of microbubble
+crossovers and/or an associated atrial septal
+aneurysm.[26] [27]
+» Conservative treatment with education and
+observation for any evidence of a paradoxical
+embolism may be appropriate care in selected
+patients.
+adjunct anticoagulation or antiplatelet therapy
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» aspirin: 75-325 mg orally once daily
+OR
+» clopidogrel: 75 mg orally once daily
+Secondary options
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target INR
+Starting dose can also be calculated
+using an online tool that takes patient
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Patent foramen ovale Management
+MANAGEMENT
+Ongoing
+characteristics and/or CYP2C9/VKORC1
+genotype information (if available) into
+account.  [Warfarin dosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+» Initiation of antiplatelet therapy should be
+considered, especially in patients with larger
+PFO defects and associated atrial septal
+aneurysms.[25]
+» Usual recommendation is aspirin or clopidogrel
+rather than warfarin, unless anticoagulation
+is indicated. There are no clear guidelines on
+combined usage, although a combination is
+often used in patients with concomitant coronary
+artery disease.
+» Warfarin may be indicated in patients with
+atrial fibrillation or those with recurrent stroke
+despite being on antiplatelet therapy. The target
+international normalized ratio (INR) is 1.5 to 2.0.
+cryptogenic stroke
+candidate for
+percutaneous closure
+1st percutaneous closure
+» In patients ages 18 to 60 years with
+established cryptogenic stroke and presence
+of PFO, it is reasonable to proceed with a
+percutaneous transcatheter PFO closure
+procedure along with postoperative antiplatelet
+therapy to prevent recurrent ischemic events,
+rather than antiplatelet therapy alone.[25] 
+» The benefit with PFO closure appears stronger
+in patients with high-risk features (i.e., large
+PFO, atrial septal aneurysm).[22] 
+» In patients with low-risk anatomic features
+of PFO, further risk stratification using the risk
+of paradoxical embolism (RoPE) score might
+be beneficial in identifying patients with PFO-
+related cryptogenic stroke. Factors in the score
+indicative of a higher likelihood of a PFO-related
+stroke are the absence of traditional risk factors
+such as hypertension and diabetes mellitus, prior
+stroke, cortical infarct on imaging, and younger
+age.[28]
+» Prior to percutaneous closure, patients
+receive antiplatelet therapy or anticoagulation.
+After PFO closure, antiplatelet therapy is
+typically recommended. For patients who have
+indications for chronic anticoagulation, PFO
+device closure is not indicated.
+» The PFO procedure is associated with
+a benefit of an absolute recurrent stroke
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Patent foramen ovale Management
+Ongoing
+risk reduction of 3.4% at 5 years, with a
+periprocedural complication risk of 3.9% and
+increased absolute rate of nonperiprocedural
+atrial fibrillation of 0.33% per year.[28]
+» Evidence is not as strong for PFO closure in
+patients younger than 18 years or older than 60
+years with multiple cardiovascular risk factors.
+Guidelines support a multidisciplinary approach
+with involvement of neurology and cardiology
+teams, along with shared decision making
+with the patient, in formulating a management
+plan.[22] [23] 
+not a candidate for
+percutaneous closure
+1st anticoagulation or antiplatelet therapy
+Primary options
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target INR
+Starting dose can also be calculated
+using an online tool that takes patient
+characteristics and/or CYP2C9/VKORC1
+genotype information (if available) into
+account.  [Warfarin dosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+Secondary options
+» aspirin: 75-325 mg orally once daily
+OR
+» clopidogrel: 75 mg orally once daily
+» Medical therapy with full anticoagulation is
+preferred over antiplatelet therapy to decrease
+recurrent ischemic events in patients with
+cryptogenic stroke who are not a candidate
+for a PFO closure procedure. This approach
+is associated with an increased risk of major
+bleeding. Careful evaluation of the bleeding
+profile of the patient and shared decision making
+is recommended in selecting antiplatelet versus
+anticoagulation therapy.[25]
+» If warfarin is used, the target international
+normalized ratio (INR) is 1.5 to 2.0.
+high-risk occupation
+1st anticoagulation or antiplatelet therapy
+Primary options
+» aspirin: 75-325 mg orally once daily
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Patent foramen ovale Management
+MANAGEMENT
+Ongoing
+» clopidogrel: 75 mg orally once daily
+Secondary options
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target INR
+Starting dose can also be calculated
+using an online tool that takes patient
+characteristics and/or CYP2C9/VKORC1
+genotype information (if available) into
+account.  [Warfarin dosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+» High-risk occupations include deep sea divers,
+high altitude pilots, and astronauts.
+» Treatment with anticoagulation or antiplatelet
+therapy is generally recommended, along
+with behavioral prevention of decompression
+sickness.[29]
+» If warfarin is used, the target international
+normalized ratio (INR) is 1.5 to 2.0.
+adjunct percutaneous closure
+Treatment recommended for SOME patients in
+selected patient group
+» Percutaneous closure of the PFO should
+be considered on an individual basis for
+professional scuba divers in whom behavioral
+prevention methods are not effective in
+preventing symptoms of decompression
+sickness.[30] It is unknown whether astronauts
+need to undergo closure. 
+» Open surgery is used if the PFO is discovered
+during open heart surgery for another indication
+such as bypass or valvular surgery.
+» Prior to percutaneous closure, patients
+receive antiplatelet therapy or anticoagulation.
+After PFO closure, antiplatelet therapy is
+typically recommended. For patients who have
+indications for chronic anticoagulation, PFO
+device closure is not indicated.
+Secondary prevention
+Deep venous thrombosis prevention is helped by improving mobility, especially postoperatively. Measures
+such as leg exercises and use of anticoagulation with unfractionated heparin or enoxaparin, or mechanical
+measures such as calf compression should be considered. Additionally, in people known to have a PFO,
+maneuvers that lead to increased right atrial pressure (i.e., straining and Valsalva) should be avoided to
+prevent paradoxical embolism. Compliance with prescribed medications such as aspirin, clopidogrel, or
+warfarin is essential, as these decrease the chances of a recurrent event.
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Patent foramen ovale Management
+Patient discussions
+Patients should be instructed on recognition of:
+• Symptoms and signs of peripheral arterial embolism (i.e., sudden onset of pain, pallor and loss of
+function in an extremity)
+• Symptoms and signs of cerebrovascular accident (CVA) (i.e., sudden onset of weakness in one
+part of the body and sudden visual or speech disturbance)
+• Symptoms and signs of deep venous thrombosis.
+The importance of urgent CVA treatment should be stressed, as early treatment can result in significant
+reduction of neurologic damage and improved long-term outlook.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Patent foramen ovale Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+No long-term monitoring is recommended for small, asymptomatic PFO. Routine clinical follow-up of
+patients with cerebrovascular accident is recommended. In patients who have undergone PFO closure,
+follow-up echo (with injection of intravenous agitated saline) is recommended at approximately 6 months
+after closure. This will help to confirm adequate closure of the PFO and determine the continuation or
+discontinuation of antiplatelet therapy.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Patent foramen ovale Follow up
+Complications
+Complications Timeframe Likelihood
+hypoxemia short term low
+Patients who suffer from an acute illness resulting in temporary elevation of right heart pressures (e.g.,
+acute PE, pneumonia, and mechanical ventilation) may experience right-to-left shunting of blood across
+the PFO, resulting in persistent hypoxemia.
+Patients on mechanical ventilation may have difficulty weaning from oxygen supply as they often remain
+hypoxemic.
+residual shunt after PFO closure short term low
+Incomplete closure may be treated with observation.
+Published reports show use of an additional device to close residual defects.[42]
+thrombus on closure device short term low
+There are case reports of thrombus forming on the closure device, which can be complicated by embolic
+phenomenon.[43] [44]
+cardiac perforation from device deployment short term low
+An extremely rare complication of device deployment that requires surgical intervention.
+cardiac tamponade from device deployment short term low
+An extremely rare complication of device deployment that requires surgical intervention.
+cardiac arrhythmia short term low
+PFO closure with antiplatelet therapy increases the absolute risk of persistent atrial fibrillation or flutter by
+1.8% and transient atrial fibrillation or flutter by 1.2% at 1 year.[25]
+air embolism short term low
+An extremely rare complication of device deployment.
+embolization of closure device short term low
+An extremely rare complication of device deployment.[44]
+migraine long term low
+Evidence suggests migraines are more frequent in patients with PFO and anecdotal evidence suggests
+improvement in headache symptoms after closure.[2] [14]
+In a patient with frequent, disabling migraines despite medications, closure of a PFO may be considered.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Patent foramen ovale Follow up
+FOLLOW UP
+Complications Timeframe Likelihood
+Although percutaneous closure is relatively safe, the evidence is not strong enough to recommend closure
+due to migraines.
+Further evidence is likely to emerge with ongoing studies.
+PFO closure in one UK study failed to achieve its primary end point of eliminating migraine headaches in
+40% of subjects. However, significant reduction in migraine headache burden did occur.[41]
+recurrent stroke after percutaneous closure of foramen
+ovale
+long term low
+There is a low but not negligible rate of recurrent stroke despite percutaneous closure.
+This may be due to mechanisms independent of a PFO or device, incomplete closure or thrombus
+formation on the device.[38] [39]
+erosion from closure device long term low
+An extremely rare complication of device deployment.[44]
+ischemic stroke variable low
+Paradoxical embolism occurs through a PFO.
+An evaluation by the multidisciplinary team is recommended to determine management options for the
+patient, including PFO closure with medical therapy or medical therapy alone.
+Certain prothrombotic mutations such as factor V Leiden (FV[G1691A] mutation) and the prothrombin
+mutation (PT[G20210A] mutation) have been suggested as increasing risk of cerebral ischemia in patients
+with PFO.[40]
+transient ischemic attack (TIA) variable low
+Paradoxical embolism occurs through a PFO.
+The majority of clinical trials for PFO closure did not include TIA in the inclusion criteria. Careful
+multidisciplinary evaluation is recommended to determine the management plan for the patients.[22] [23]
+ Initiation of antiplatelet or anticoagulation therapy is recommended, depending on the patient’s specific
+factors. 
+Prognosis
+All patients
+PFO is not associated with higher risk of recurrent stroke or death in medically treated patients. However, in
+patients ages under 60 years with PFO and atrial septal aneurysm, the risk of recurrent stroke is higher.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Patent foramen ovale Follow up
+Asymptomatic with small defect
+PFO is a very common and often incidental finding with an excellent prognosis. No formal studies are
+available.
+Large PFO and previous stroke
+Risk of recurrent stroke with no other obvious cause is three times higher in patients with PFO and six times
+higher in patients with PFO and atrial septal aneurysm (3% per year).[12] [36] [37] 
+After percutaneous closure
+Risk of recurrent stroke is low but not negligible.[38] [39]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Patent foramen ovale Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+Guidelines for the echocardiographic assessment of atrial septal defect and
+patent foramen ovale (http://asecho.org/disease-based)   [16]
+Published by: American Society of Echocardiography; Society for
+Cardiac Angiography and Interventions
+Last published: 2015
+Treatment guidelines
+International
+2021 guideline for the prevention of stroke in patients with stroke and
+transient ischemic attack (http://professional.heart.org/professional/
+GuidelinesStatements/UCM_316885_Guidelines-Statements.jsp)   [22]
+Published by: American Heart Association; American Stroke
+Association
+Last published: 2021
+Practice advisory update summary: patent foramen ovale and secondary
+stroke prevention (https://www.aan.com/practice/guidelines)   [28]
+Published by: American Academy of Neurology Last published: 2020
+2020 ESC guidelines for the management of adult congenital
+heart disease (https://www.escardio.org/Guidelines?
+gclid=Cj0KCQiA9OiPBhCOARIsAI0y71ARSjCvzblaXeQtiqWA0NOxWWdBCPUQdBTJ3aZQRoWlp22GW0BBG00aAr8TEALw_wcB)
+[35]
+Published by: European Society of Cardiology Last published: 2021
+Patent foramen ovale closure, antiplatelet therapy or anticoagulation
+therapy alone for management of cryptogenic stroke? (https://www.bmj.com/
+content/362/bmj.k2515.long)   [25]
+Published by: British Medical Journal Last published: 2018
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Patent foramen ovale Online resources
+Online resources
+1. Warfarin dosing (http://www.warfarindosing.org/Source/Home.aspx)  (external link)
+ONLINE RESOURCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Patent foramen ovale References
+REFERENCES
+Key articles
+• Silvestry FE, Cohen MS, Armsby LB, et al. Guidelines for the echocardiographic assessment of
+atrial septal defect and patent foramen ovale: from the American Society of Echocardiography and
+Society for Cardiac Angiography and Interventions. J Am Soc Echocardiogr. 2015 Aug;28(8):910-58. 
+Full text (http://www.onlinejase.com/article/S0894-7317(15)00387-9/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26239900?tool=bestpractice.bmj.com)
+• Meier B, Kalesan B, Mattle HP, et al. Percutaneous closure of patent foramen ovale in cryptogenic
+embolism. N Engl J Med. 2013 Mar 21;368(12):1083-91. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23514285?tool=bestpractice.bmj.com)
+References
+1. Homma S, Sacco RL, Di Tullio MR, et al. Effect of medical treatment in stroke patients with
+patent foramen ovale: Patent Foramen Ovale in Cryptogenic Stroke Study. Circulation. 2002 Jun
+4;105(22):2625-31.  Full text (http://circ.ahajournals.org/content/105/22/2625.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12045168?tool=bestpractice.bmj.com)
+2. Dubiel M, Bruch L, Schmehl I, et al. Migraine headache relief after percutaneous transcatheter
+closure of interatrial communications. J Interv Cardiol. 2008 Feb;21(1):32-7.  Full text
+(http://onlinelibrary.wiley.com/doi/10.1111/j.1540-8183.2007.00316.x/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18093099?tool=bestpractice.bmj.com)
+3. Roxas-Timonera M, Larracas C, Gersony D, et al. Patent foramen ovale presenting as platypnea-
+orthodeoxia: diagnosis by transesophageal echocardiography. J Am Soc Echocardiogr.
+2001 Oct;14(10):1039-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11593212?
+tool=bestpractice.bmj.com)
+4. Wilmshurst PT, Byrne JC, Webb-Peploe MM. Relation between interatrial shunts and decompression
+sickness in divers. Lancet. 1989 Dec 2;2(8675):1302-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/2574256?tool=bestpractice.bmj.com)
+5. Fisher DC, Fisher EA, Budd JH, et al. The incidence of patent foramen ovale in 1,000 consecutive
+patients. A contrast transesophageal echocardiography study. Chest. 1995 Jun;107(6):1504-9.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7781337?tool=bestpractice.bmj.com)
+6. Thompson T, Evans W. Paradoxical embolism. Q J Med. 1930 Jan 1;23(90):135-52.
+7. Hagen PT, Scholz DG, Edwards WD. Incidence and size of patent foramen ovale during the first
+10 decades of life: an autopsy study of 965 normal hearts. Mayo Clin Proc. 1984 Jan;59(1):17-20.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6694427?tool=bestpractice.bmj.com)
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Patent foramen ovale References
+8. Gupta V, Yesilbursa D, Huang WY, et al. Patent foramen ovale in a large population of ischemic stroke
+patients: diagnosis, age distribution, gender, and race. Echocardiography. 2008 Feb;25(2):217-27.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18269568?tool=bestpractice.bmj.com)
+9. Rodriguez CJ, Homma S, Sacco RL, et al. Race-ethnic differences in patent foramen ovale,
+atrial septal aneurysm, and right atrial anatomy among ischemic stroke patients. Stroke. 2003
+Sep;34(9):2097-102.  Full text (http://stroke.ahajournals.org/content/34/9/2097.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12920255?tool=bestpractice.bmj.com)
+10. Levine BD, Grayburn PA, Voyles WF, et al. Intracardiac shunting across a patent foramen ovale may
+exacerbate hypoxemia in high-altitude pulmonary edema. Ann Intern Med. 1991 Apr 1;114(7):569-70.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2001089?tool=bestpractice.bmj.com)
+11. Kerut EK, Norfleet WT, Plotnick GD, et al. Patent foramen ovale: a review of associated conditions
+and the impact of physiological size. J Am Coll Cardiol. 2001 Sep;38(3):613-23. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11527606?tool=bestpractice.bmj.com)
+12. Mas JL, Zuber M. Recurrent cerebrovascular events in patients with patent foramen ovale,
+atrial septal aneurysm, or both and cryptogenic stroke or transient ischemic attack. Am
+Heart J. 1995 Nov;130(5):1083-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7484740?
+tool=bestpractice.bmj.com)
+13. Wilmshurst PT, Pearson MJ, Nightingale S, et al. Inheritance of persistent foramen ovale and atrial
+septal defects and the relation to familial migraine with aura. Heart. 2004 Nov;90(11):1315-20.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15486131?tool=bestpractice.bmj.com)
+14. Rigatelli G. Migraine and patent foramen ovale: connecting flight or one-way ticket? Expert Rev
+Neurother. 2008 Sep;8(9):1331-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18759545?
+tool=bestpractice.bmj.com)
+15. Shanoudy H, Soliman A, Raggi P, et al. Prevalence of patent foramen ovale and its contribution to
+hypoxemia in patients with obstructive sleep apnea. Chest. 1998 Jan;113(1):91-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9440574?tool=bestpractice.bmj.com)
+16. Silvestry FE, Cohen MS, Armsby LB, et al. Guidelines for the echocardiographic assessment of
+atrial septal defect and patent foramen ovale: from the American Society of Echocardiography and
+Society for Cardiac Angiography and Interventions. J Am Soc Echocardiogr. 2015 Aug;28(8):910-58. 
+Full text (http://www.onlinejase.com/article/S0894-7317(15)00387-9/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26239900?tool=bestpractice.bmj.com)
+17. Rana BS, Thomas MR, Calvert PA, et al. Echocardiographic evaluation of patent foramen
+ovale prior to device closure. JACC Cardiovasc Imaging. 2010 Jul;3(7):749-60. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20633854?tool=bestpractice.bmj.com)
+18. Angeli S, Del Sette M, Beelke M, et al. Transcranial Doppler in the diagnosis of cardiac patent foramen
+ovale. Neurol Sci. 2001 Oct;22(5):353-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11917971?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Patent foramen ovale References
+REFERENCES
+19. Aggarwal K, Jayam VK, Meyer MA, et al. Thrombus-in-transit and paradoxical embolism. J Am Soc
+Echocardiogr. 2002 Sep;15(9):1021-2. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12221427?
+tool=bestpractice.bmj.com)
+20. Schuchlenz HW, Weihs W, Beitzke A, et al. Transesophageal echocardiography for quantifying
+size of patent foramen ovale in patients with cryptogenic cerebrovascular events. Stroke. 2002
+Jan;33(1):293-6.  Full text (http://stroke.ahajournals.org/content/33/1/293.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11779927?tool=bestpractice.bmj.com)
+21. Earing MG, Cabalka AK, Seward JB, et al. Intracardiac echocardiographic guidance during
+transcatheter device closure of atrial septal defect and patent foramen ovale. Mayo Clin Proc. 2004
+Jan;79(1):24-34. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14708945?tool=bestpractice.bmj.com)
+22. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 guideline for the prevention of stroke in patients
+with stroke and transient ischemic attack: a guideline from the American Heart Association/American
+Stroke Association. Stroke. 2021 Jul;52(7):e364-467.  Full text (https://www.ahajournals.org/doi/
+full/10.1161/STR.0000000000000375)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34024117?
+tool=bestpractice.bmj.com)
+23. National Health and Medical Research Council (Australia). Clinical guidelines for stroke management.
+2021 [internet publication].  Full text (https://informme.org.au/guidelines/clinical-guidelines-for-stroke-
+management)
+24. National Institute for Health and Care Excellence (UK). Percutaneous closure of patent foramen
+ovale to prevent recurrent cerebral embolic events. Dec 2013 [internet publication].  Full text (https://
+www.nice.org.uk/guidance/ipg472)
+25. Kuijpers T, Spencer FA, Siemieniuk RAC, et al. Patent foramen ovale closure, antiplatelet therapy or
+anticoagulation therapy alone for management of cryptogenic stroke? A clinical practice guideline.
+BMJ. 2018 Jul 25;362:k2515.  Full text (https://www.bmj.com/content/362/bmj.k2515.long)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/30045912?tool=bestpractice.bmj.com)
+26. Handke M, Harloff A, Olschewski M, et al. Patent foramen ovale and cryptogenic stroke in
+older patients. N Engl J Med. 2007 Nov 29;357(22):2262-8.  Full text (https://www.nejm.org/
+doi/10.1056/NEJMoa071422?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200www.ncbi.nlm.nih.gov)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18046029?
+tool=bestpractice.bmj.com)
+27. Overell JR, Bone I, Lees KR. Interatrial septal abnormalities and stroke: a meta-analysis of case-
+control studies. Neurology. 2000 Oct 24;55(8):1172-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11071496?tool=bestpractice.bmj.com)
+28. Messé SR, Gronseth GS, Kent DM, et al. Practice advisory update summary: patent foramen ovale
+and secondary stroke prevention: report of the Guideline Subcommittee of the American Academy
+of Neurology. Neurology. 2020 May 19;94(20):876-85.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC7526671)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32350058?
+tool=bestpractice.bmj.com)
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Patent foramen ovale References
+29. Pristipino C, Germonpré P, Toni D, et al. European position paper on the management of patients
+with patent foramen ovale. Part II - Decompression sickness, migraine, arterial deoxygenation
+syndromes and select high-risk clinical conditions. Eur Heart J. 2021 Apr 21;42(16):1545-53.  Full
+text (https://academic.oup.com/eurheartj/article/42/16/1545/6122426?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33507260?tool=bestpractice.bmj.com)
+30. National Institute for Health and Care Excellence (UK). Percutaneous closure of patent foramen
+ovale for the secondary prevention of recurrent paradoxical embolism in divers. Dec 2010 [internet
+publication].  Full text (https://www.nice.org.uk/guidance/ipg371)
+31. O'Gara PT, Messe SR, Tuzcu EM, et al. Percutaneous device closure of patent foramen
+ovale for secondary stroke prevention: a call for completion of randomized clinical trials: a
+science advisory from the American Heart Association/American Stroke Association and the
+American College of Cardiology Foundation. Circulation. 2009 May 26;119(20):2743-7.  Full
+text (http://circ.ahajournals.org/content/119/20/2743.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19433754?tool=bestpractice.bmj.com)
+32. Kitsios GD, Dahabreh IJ, Abu Dabrh AM, et al. Patent foramen ovale closure and medical treatments
+for secondary stroke prevention: a systematic review of observational and randomized evidence.
+Stroke. 2012 Feb;43(2):422-31. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22180252?
+tool=bestpractice.bmj.com)
+33. Furlan AJ, Reisman M, Massaro J, et al; CLOSURE I Investigators. Closure or medical therapy for
+cryptogenic stroke with patent foramen ovale. N Engl J Med. 2012 Mar 15;366(11):991-9. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/22417252?tool=bestpractice.bmj.com)
+34. Meier B, Kalesan B, Mattle HP, et al. Percutaneous closure of patent foramen ovale in cryptogenic
+embolism. N Engl J Med. 2013 Mar 21;368(12):1083-91. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23514285?tool=bestpractice.bmj.com)
+35. Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32860028?tool=bestpractice.bmj.com)
+36. Bogousslavsky J, Garazi S, Jeanrenaud X, et al. Stroke recurrence in patients with patent foramen
+ovale: the Lausanne study. Neurology. 1996 May;46(5):1301-5. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8628471?tool=bestpractice.bmj.com)
+37. Stone DA, Godard J, Corretti MC, et al. Patent foramen ovale: association between the degree of
+shunt by contrast transesophageal echocardiography and the risk of future ischemic neurologic
+events. Am Heart J. 1996 Jan;131(1):158-61. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8554004?
+tool=bestpractice.bmj.com)
+38. Hung J, Landzberg MJ, Jenkins KJ, et al. Closure of patent foramen ovale for paradoxical emboli:
+intermediate-term risk of recurrent neurological events following transcatheter device placement. J
+Am Coll Cardiol. 2000 Apr;35(5):1311-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10758974?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Patent foramen ovale References
+REFERENCES
+39. Homma S, Di Tullio MR, Sacco RL, et al. Surgical closure of patent foramen ovale in cryptogenic
+stroke patients. Stroke. 1997 Dec;28(12):2376-81.  Full text (http://stroke.ahajournals.org/
+content/28/12/2376.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9412617?
+tool=bestpractice.bmj.com)
+40. Pezzini A, Grassi M, Zotto ED, et al. Do common prothrombotic mutations influence the risk of
+cerebral ischaemia in patients with patent foramen ovale? Systematic review and meta-analysis.
+Thromb Haemost. 2009 May;101(5):813-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19404532?
+tool=bestpractice.bmj.com)
+41. Dowson A, Mullen MJ, Peatfield R, et al. Migraine Intervention with STARFlex Technology (MIST) trial:
+a prospective, multicenter, double-blind, sham-controlled trial to evaluate the effectiveness of patent
+foramen ovale closure with STARFlex septal repair implant to resolve refractory migraine headache.
+Circulation. 2008 Mar 18;117(11):1397-404. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18316488?
+tool=bestpractice.bmj.com)
+42. Kamineni R, Heuser R. Treatment of residual shunt after percutaneous closure of patent foramen
+ovale with a second Cardioseal device. Vasc Disease Manage. 2005 Jan-Feb;2(1):8-9.
+43. Krumsdorf U, Ostermayer S, Billinger K, et al. Incidence and clinical course of thrombus formation
+on atrial septal defect and patent foramen ovale closure devices in 1,000 consecutive patients. J Am
+Coll Cardiol. 2004 Jan 21;43(2):302-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14736453?
+tool=bestpractice.bmj.com)
+44. Delaney JW, Li JS, Rhodes JF. Major complications associated with transcatheter atrial septal
+occluder implantation: a review of the medical literature and the manufacturer and user facility device
+experience (MAUDE) database. Congenit Heart Dis. 2007 Jul-Aug;2(4):256-64. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18377477?tool=bestpractice.bmj.com)
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Patent foramen ovale Images
+Images
+Figure 1: Transesophageal echo showing a 2D image of the interatrial septum with location of the PFO
+From the collection of Kul Aggarwal, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Patent foramen ovale Images
+IMAGES
+Figure 2: Intracardiac echo showing a catheter placed across the PFO into the left atrium
+From the collection of Kul Aggarwal, MD
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Patent foramen ovale Images
+Figure 3: Transesophageal echo with intravenous injection of agitated saline showing contrast crossing
+through PFO into left atrium
+From the collection of Kul Aggarwal, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Patent foramen ovale Images
+IMAGES
+Figure 4: Transesophageal echo with color flow Doppler showing presence of PFO
+From the collection of Kul Aggarwal, MD
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Patent foramen ovale Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Patent foramen ovale Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 08, 2022.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Contributors:
+// Authors:
+Kul Aggarwal, MD, MRCP, FACC
+Professor of Clinical Medicine
+University of Missouri, Columbia, MO
+DISCLOSURES: KA is the author of a reference cited in this topic.
+Poorna R Karuparthi, MD, FACC
+Clinical Assistant Professor
+University of Missouri Hospital, Division of Cardiology, University of Missouri, Columbia, MO
+DISCLOSURES: PRK declares that he has no competing interests.
+// Acknowledgements:
+Professor Kul Aggarwal and Poorna R Karuparthi would like to gratefully acknowledge Dr Vibhuti Singh, a
+previous contributor to this topic.
+DISCLOSURES: VS declares that he has no competing interests.
+// Peer Reviewers:
+Navin Nanda, MD
+Professor of Medicine
+Director Heart Station and Echocardiography Laboratories, University of Alabama at Birmingham,
+Birmingham, AL
+DISCLOSURES: NN declares that he has no competing interests.
+Andrew Turley, MB ChB
+Cardiology Specialist Registrar
+The James Cook University Hospital, Middlesbrough, UK
+DISCLOSURES: AT declares that he has no competing interests.

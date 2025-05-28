@@ -1,0 +1,3493 @@
+# Evaluation of dizziness
+
+=== Page 1 ===
+Evaluation of dizziness
+Straight to the point of care
+Last updated: Apr 24, 2025
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Theory  4
+Etiology  4
+Emergencies  11
+Urgent considerations  11
+Diagnosis  14
+Approach  14
+Differentials overview  29
+Differentials  31
+References  50
+Images  65
+Disclaimer  71
+=== Page 3 ===
+Evaluation of dizziness Overview
+Summary
+Dizziness is the sensation of disturbed spatial orientation without a distorted sense of motion.[1] Patients
+may use the term to indicate lightheadedness, imbalance (disequilibrium), presyncope, or vertigo. These
+symptom types overlap substantially and patients most often report feeling off-balance or unsteady. Over
+60% of patients experience more than one type of dizziness.[2]
+Dizziness is a common symptom: the prevalence in the general population ranges from 15% to 30%, and
+approaches 50% for patients aged over 85 years.[2] [3] [4] Dizziness accounts for approximately 5% of
+emergency department and unselected outpatient visits and up to 8% of primary care visits.[4] [5]
+The etiology is diverse and includes vestibular, cardiovascular, neurologic, and psychogenic causes.[6] A
+detailed history, paying particular attention to timing and triggers of the patient’s symptoms, will narrow down
+the differential diagnosis, which can be confirmed with clinical exam and, if needed, further investigations.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Evaluation of dizziness Theory
+THEORY
+Etiology
+Dizziness has many possible etiologies. The most common are vestibular, cardiovascular, neurologic, and
+psychogenic.[5]
+Patients may use the term dizziness to describe vertigo, presyncope, lightheadedness, and imbalance
+(disequilibrium). Vertigo is a sensation of distorted self-motion, occurring at rest or during an otherwise
+normal head movement.[1] Vertigo usually indicates a problem with the peripheral (inner ear, vestibular
+nerve) or central (brainstem, brain) vestibular system.[7] Imbalance may be neurologic in origin and
+lightheadedness and presyncope may be cardiovascular in origin. Patients with psychogenic dizziness report
+a variety of symptoms, such as rocking, floating, or swimming sensations.[3]
+Symptoms may overlap substantially and patients most often report feeling off-balance or unsteady. Over
+60% of patients experience more than one type of dizziness.[2] Evaluating the timing and triggers of dizzy
+episodes can help the clinician make a correct diagnosis.[8]
+Vestibular
+• Benign positional paroxysmal vertigo (BPPV): the most common cause of vertigo, affecting 107 people
+in 100,000 per year.[9] In the US, BPPV is diagnosed in 17% to 42% of patients presenting with
+vertigo.[10] Prevalence increases with age and women are affected more frequently than men.[4] [11]
+• BPPV is caused by loose otoconia particles (calcium carbonate crystals) in the semicircular
+canals, usually the posterior canal.[10]
+• Patients experience vertigo with changes in head position relative to gravity (e.g., rolling over in
+bed or looking up).
+• Torsional, upbeating nystagmus provoked by the Dix-Hallpike maneuver is diagnostic of
+posterior semicircular canal BPPV.[10]
+• Labyrinthitis: an acute bacterial or viral infection of the labyrinth of the inner ear. The patient often
+presents after an upper respiratory infection or acute otitis media. Patients may have associated
+symptoms of tinnitus and hearing loss, because the cochlea is located within the bony labyrinth.[12]
+[13] Patients with acute otitis media may also report otalgia, otorrhea, and fever.[14]
+• Vestibular neuritis (neuronitis): an acute peripheral neuropathy probably due to reactivation (e.g.,
+herpes simplex virus), which affects the vestibular nerve. Patients present with acute onset vertigo
+but do not have hearing loss or tinnitus. Changes in head position exacerbate symptoms and loss of
+balance is a prominent feature.[12]
+• Meniere disease: usually presents in middle-aged people, with fluctuating auditory and vestibular
+symptoms. Prevalence estimates vary from around 3.5 per 100,000 to 200 per 100,000 adults.[15] [16]
+[17] [18] The underlying cause remains unknown; hereditary factors are thought to play a role.[19]
+• Classic Meniere disease has the triad of vertigo, hearing loss, and tinnitus. Spontaneous vertigo
+attacks last 20 minutes to 12 hours with documented low- to mid-frequency sensorineural
+hearing loss in the affected ear before, during, or after one of the episodes of vertigo. The
+tinnitus is usually described as roaring in nature and may be severe. Aural fullness, a sensation
+of pressure and fullness in the ear, may also be present during an episode.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Evaluation of dizziness Theory
+• An atypical presentation of Meniere disease is fluctuating hearing loss and tinnitus without
+vertigo. This is usually referred to as cochlear hydrops, and up to 40% of patients will eventually
+develop vertigo.[20]
+• Bilateral disease may be present in around 30% to 50% of patients.[21] [22]
+• Superior canal dehiscence syndrome (SCDS): a vestibular disorder caused by a pathologic third
+window into the labyrinth that can present with autophony, sound- or pressure-induced vertigo, and/or
+altered middle-ear pressure, and chronic disequilibrium, among other vestibulocochlear symptoms.[23]
+• Many patients with SCDS present after head trauma and are initially diagnosed with post-
+traumatic vertigo, labyrinthine concussion, or perilymphatic fistula.
+• Perilymphatic fistula: an abnormal communication between the perilymph-filled space of the inner ear
+and an air-filled space in the middle ear, mastoid or cranium.[24] The fistula develops in the round
+or oval window. It may occur after stapes surgery, head trauma or barotrauma. It is characterized by
+episodic vertigo and fluctuating sensorineural hearing loss.[24] 
+• Cholesteatoma: a mass of keratinizing squamous epithelium within the middle ear or temporal bone.
+Patients may present with vertigo.[25] Associated symptoms include otorrhea and hearing loss.[26]
+• Previous mastoid surgery with a mastoid cavity: these patients are prone to dizziness with an ear
+infection.
+• Persistent postural-perceptual dizziness (PPPD): a chronic vestibular disorder. It is one of the most
+common types of chronic dizziness in people ages 30 to 50 years.[27] [28] [29] Five diagnostic criteria
+must be satisfied to make the diagnosis:[30]
+• one or more symptoms of dizziness, unsteadiness, or nonspinning vertigo present on most days
+for ≥3 months
+• persistent symptoms occurring without provocation but exacerbated by upright posture, active or
+passive motion, or exposure to moving stimuli
+• disorder precipitated by conditions that cause vertigo including acute, episodic, or chronic
+vertigo or neurologic or medical illness, or psychological distress
+• symptoms cause significant distress or functional impairment
+• symptoms are not better accounted for by another disease or disorder.
+Neurologic
+• Vestibular migraine: one of the most common causes of vertigo and dizziness.[31] It often occurs in
+patients in their 40s with a personal or family history of migraine.[32] [33]
+• Associated symptoms include headache, photophobia, phonophobia, nausea, and fatigue.[31] 
+Episodes last minutes to days.[7] [34] 
+• Posterior fossa tumors: include vestibular schwannomas (acoustic neuroma), meningiomas, cerebellar
+or brainstem tumors, and epidermoid cysts. May cause hearing loss and/or cranial nerve palsies.
+• Cerebellar disorders: the most common diagnoses are sporadic adult-onset degenerative ataxia
+(26%); idiopathic down beating nystagmus syndrome (20%); cerebellar ataxia, neuropathy, and
+vestibular areflexia syndrome (10%); episodic ataxia type 2 (7%); and multiple system atrophy
+cerebellar type (6%).[35]
+• Multiple sclerosis: vertigo is a common symptom. It may be peripheral (i.e., caused by involvement of
+the vestibular apparatus of the ear), central (i.e., caused by lesions affecting the vestibular pathways),
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Evaluation of dizziness Theory
+THEORY
+or of combined etiology.[36] Prolonged spontaneous attacks of vertigo occur if a demyelinating
+plaque occurs at the root entry zone of the vestibular nerve or nucleus, and this presents as an acute
+peripheral vestibular disorder, such as vestibular neuritis.[3]
+• Posterior circulation stroke: may be due to infarction or hemorrhage.[37]
+• Symptoms are variable and often nonspecific, however dizziness is one of the most common
+presenting symptoms. Vertigo is continuous and prolonged. Other common presenting
+symptoms include unilateral limb weakness, dysarthria, headache, diplopia, nausea, and
+vomiting.[7] [37] The presentation may be very similar to vestibular neuritis.
+• Patients may have at least one vascular risk factor (age >60 years, hypertension, diabetes,
+smoking, obesity).[7]
+• Signs include nystagmus, unilateral limb weakness, gait ataxia, unilateral limb ataxia, dysarthria,
+facial numbness, Horner syndrome, and diplopia.[7] [37] Patients usually cannot stand without
+support, even with the eyes open, whereas patients with acute vestibular neuritis or labyrinthitis
+are usually able to do so.
+• Lateral medullary infarction (Wallenberg syndrome) is caused by occlusion of the ipsilateral
+vertebral artery that supplies the posterior inferior cerebellar artery. Patients have prolonged
+vertigo lasting several days. Signs include: truncal ataxia, ipsilateral limb ataxia, diplopia,
+multidirectional nystagmus, ipsilateral Horner syndrome ipsilateral facial pain, hoarseness,
+dysphagia, and loss of pain and temperature sensation of the ipsilateral face and contralateral
+trunk and limbs.[37] [38]
+• Vertebrobasilar insufficiency: describes transient ischemia of the vertebrobasilar circulation. It is
+the result of atherosclerosis and affects the territory supplied by the anterior inferior cerebellar
+artery. Patients present with episodic vertigo, with diplopia, headaches, vomiting, ataxia, blindness,
+imbalance, and bilateral weakness.[39] Patients may experience drop attacks, sudden falls secondary
+to loss of limb tone without loss of consciousness. Episodes last between 30 seconds and 15 minutes
+and typically start after abruptly standing or turning the head.[39] 
+• Vertebral artery dissection: may be traumatic or spontaneous and is a cause of posterior circulation
+stroke in young adults. Symptoms include headache, dizziness, tinnitus, and signs include ataxia
+and dysarthria.[40] [41] Predisposing factors are hypertension, history of recent infection and certain
+connective tissue disorders (Ehlers-Danlos syndrome, Marfan syndrome, osteogenesis imperfecta,
+and fibromuscular dysplasia).[42] [43]
+• Arnold-Chiari malformation type 1: an abnormality of the base of the skull, associated with brain stem
+and cerebellum herniation through the foramen magnum into the spinal canal. The most common
+symptom is occipital headache. Other symptoms may include dizziness, unsteadiness, and hearing
+loss.[44] Symptoms can mimic those of BPPV.[45] The condition might be asymptomatic.
+• Idiopathic intracranial hypertension (pseudotumor cerebri): characterized by raised intracranial
+pressure that is not caused by a mass lesion; associated with headache and transient poor vision.
+These patients are often obese and complain of clumsiness, imbalance, and dizziness rather than true
+vertigo. Some patients present with bilateral sixth nerve palsy or tinnitus. Incidence is increasing with
+the rise in obesity.[46]
+• Normal pressure hydrocephalus: associated with normal intracranial pressure and enlarged ventricles
+(hydrocephalus). Patients present with ataxia, urinary incontinence, and cognitive dysfunction.[47] The
+diagnosis may be difficult to establish.
+• Mal de debarquement syndrome: patients experience swinging, swaying, unsteadiness, and
+disequilibrium after exposure to motion. There may be a history of a long voyage or air travel.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Evaluation of dizziness Theory
+It is thought to be due to a conflict between the sensory inputs from the visual, vestibular, and
+somatosensory systems and the central vestibular nuclei, cerebellum, and parietal cortex.
+• Paraneoplastic cerebellar degeneration: a rare complication of cancer of the ovary, breast, or lung,
+or of Hodgkin lymphoma. Autoantibodies are thought to be directed against Purkinje cells. The anti-
+Yo antibody can present years before tumor detection. Anti-Tr antibody is associated with Hodgkin
+lymphoma.
+• Secondary syphilis: may present with bilateral sensorineural hearing loss or vertigo. Late neurosyphilis
+may present with hearing loss, fluctuating hearing, or vestibular symptoms.[48]
+Infectious
+• Coronavirus disease 2019 (COVID-19): dizziness is a common symptom reported in approximately
+7.2% of patients.[49] May be a direct consequence of the virus affecting vestibular function or an
+indirect effect of hypoxia, dehydration, or fever.[50]
+Cardiovascular
+• Dizziness: may be associated with palpitations or provoked by exercise if there is a cardiovascular
+cause.[51] Dizziness with a cardiovascular etiology may cause presyncope and/or vertigo.[52] Nearly
+two thirds of of patients with cardiovascular causes of dizziness report vertigo, and vertigo is the
+only type of dizziness described in 37% of these patients.[52] Diagnosis of hemodynamic orthostatic
+dizziness/vertigo requires:[53]
+• ≥5 episodes of dizziness/vertigo that occur in an upright position, and improve on sitting or lying
+down, AND
+• hypotension, tachycardia, or syncope documented on standing or tilt-table test (definite
+diagnosis), OR
+• at least one of: generalized weakness/fatigue, poor concentration, blurred vision, and/or
+palpitations (probable diagnosis), AND
+• exclusion of other possible causes.
+• Presyncope: lightheadedness without an illusion of movement. Symptoms may include generalized
+weakness, giddiness, headache, blurred vision, loss of vision, paresthesia, nausea, vomiting and
+diaphoresis. Symptoms last a few seconds to a few minutes. The patient senses an impending
+loss of consciousness but recovers before losing consciousness.[54] The mechanism is almost
+always a reduction in blood supply to the brain. The symptoms may be spontaneous, positional, or
+associated with various triggers, depending on the cause.[3] Presyncope is the most common subtype
+of dizziness in older people.[51]
+• Orthostatic (or postural) hypotension: one of the most common causes of presyncope. Patients
+complain of dizziness on standing.[55] The cause is impaired peripheral vasoconstriction and/or
+a reduction in intravascular volume. It is defined as a decrease in systolic blood pressure (BP) of
+≥20 mmHg or a decrease in diastolic BP of ≥10 mmHg within 3 minutes of standing.[56] One study
+has suggested that BP should be tested within 1 minute of standing.[57] Orthostatic hypotension
+may occur in patients who take antihypertensive medication or who are volume depleted. It may
+be idiopathic or associated with autonomic dysfunction, such as in people with Parkinson disease,
+multiple system atrophy, or diabetic autonomic neuropathy. Orthostatic hypotension is a recognized
+complication after bariatric surgery.[58]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Evaluation of dizziness Theory
+THEORY
+• Arrhythmias, ischemia, structural heart disease, and pulmonary embolism: may cause presyncope.[54]
+ One study of 881 patients who attended the emergency department complaining of presyncope found
+that 5% had serious outcomes within 30 days of the index visit. Most patients with a cardiac cause
+for presyncope were diagnosed at the initial emergency department visit. The most common cardiac
+causes detected in this study were atrial fibrillation and sinus node dysfunction.[54] Other cardiac
+causes of presyncope detected in the study population were: supraventricular tachycardia, complete
+atrioventricular block, myocardial infarction, ventricular arrhythmia, pulmonary embolism, and structural
+heart disease.[54] In one study of patients undergoing monitoring for recurrent unexplained syncope,
+an arrhythmia was present in 25% of presyncopal events.[59]
+• Postural orthostatic tachycardia syndrome: the most common autonomic disorder in young people.
+The patient has similar postural symptoms to people with orthostatic hypotension but with excessive
+postural tachycardia. Patients commonly present with complaints of postural lightheadedness, or
+dizziness. This is diagnosed by increased heart rate on standing, lack of orthostatic hypotension, and
+the absence of other conditions, such as dehydration, a primary cardiac cause, an endocrine disorder,
+or a nervous system disorder.[60]
+Psychological
+• Psychophysiological dizziness (mixed physiological and psychogenic etiology): may occur
+spontaneously or after a labyrinthine disorder. Patients complain of a variety of symptoms, such as
+rocking, floating, or swimming sensations. The symptoms may worsen with stress or fatigue.[3]
+• Primary hyperventilation: alveolar ventilation in excess of metabolic requirements, leading to
+decreased arterial partial pressure of carbon dioxide. Patients are usually young and female. Over
+half have a comorbid psychiatric condition. Fear, paresthesia, and dizziness are the most common
+symptoms.[61]
+• Psychogenic dizziness: panic disorder with agoraphobia, personality disorders, or generalized anxiety
+are often present in patients complaining of dizziness. If the dizziness is psychogenic, patients may
+demonstrate inappropriate or excessive anxiety or fear. Phobic postural vertigo is characterized by
+dizziness in standing and walking despite normal clinical balance tests. Patients may demonstrate
+anxiety reactions and avoidance behavior to specific stimuli.[62]
+• Phobic postural vertigo: characterized by dizziness in standing and walking despite normal clinical
+balance tests. Patients may demonstrate anxiety reactions and avoidance behavior to specific
+stimuli.[62]
+Metabolic
+• Diabetes mellitus: dizziness may be associated with episodes of hypoglycemia. Other features of
+hypoglycemia include shakiness, sweating, irritability, confusion, tachycardia, and hunger.[63][64]
+ Diabetic patients with peripheral neuropathy may have more difficulty in recovering from a peripheral
+vestibular disorder.[65]
+Autoimmune
+• Systemic lupus erythematosus: patients may complain of vertigo or hearing loss, and may have
+abnormal nystagmography.[66] [67]
+• Cogan syndrome: an inflammatory disorder resulting in interstitial keratitis and audiovestibular
+dysfunction. The pathology involves plasma cell and lymphocyte infiltration of the spiral ligament,
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Evaluation of dizziness Theory
+endolymphatic hydrops, and degenerative disease of the organ of Corti. There is also demyelination of
+the eighth cranial nerve and inner ear osteogenesis.[68]
+• Granulomatosis with polyangiitis (formerly known as Wegener granulomatosis): characterized by
+granulomatous lesions of the upper respiratory tract, necrotizing vasculitis, and glomerulonephritis.[69]
+• Behcet disease: a rare systemic autoimmune vasculitis, characterized by recurrent oral and genital
+ulceration, ocular inflammation and skin lesions. 15% to 47% of patients with Behcet disease have
+vestibular involvement. This may cause dizziness, nystagmus and high-frequency sensorineural
+hearing loss.[70]
+Drug-related
+• Ototoxic drugs: aminoglycoside antibiotics such as gentamicin and neomycin are vestibulotoxic
+and cochleotoxic.[71] Ototoxicity has been described for topical as well as parenteral use.[72]
+Aminoglycosides may cause vertigo without causing hearing loss. Toxicity with parenteral use is
+related to the total dose administered. Risk factors for aminoglycoside-related ototoxicity include:[73]
+[74][75]
+• duration of therapy >7 days
+• prior exposure to aminoglycosides
+• high dose
+• age extremes (<5 years and >60 years)
+• presence of specific mitochondrial DNA mutations (may account for up to 60% of
+aminoglycoside ototoxicity)
+• exposure to loud sounds
+• renal dysfunction
+• other ototoxic drugs (e.g., loop diuretics).
+• Chemotherapeutic drugs: cisplatin, widely used in various soft-tissue neoplasms, may cause
+sensorineural hearing loss and tinnitus.[76] The severity of the sensorineural hearing loss is related to
+the cumulative dose.
+• Alcohol: patients report feeling "high," dizzy, and intoxicated after ingestion.
+• Antihypertensives, anesthetics, antiarrhythmics, drugs of misuse: may cause dizziness.
+• Certain antiepileptic drugs (oxcarbazepine, topiramate): may increase the risk of balance
+disorders.[77]
+• Alpha-adrenoreceptor blockers, beta-blockers, nitrates, antipsychotics, opioids, antiparkinsonian
+drugs, and phosphodiesterase inhibitors: associated with orthostatic hypotension.[78] [79]
+Toxins
+• Carbon monoxide poisoning: may be secondary to accidental exposure from residential boilers, central
+heating systems, cookers, fireplaces, and chimneys. The symptoms are often nonspecific but may
+include vertigo, headaches, impaired concentration, presyncope, tachycardia, or angina.[80]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Evaluation of dizziness Theory
+THEORY
+Traumatic
+• Post-traumatic vertigo: generally occurs as a result of blunt head trauma. Patients may present
+with symptoms of BPPV, a traumatic perilymphatic fistula, post-traumatic Meniere disease, or post
+concussion syndrome.[81] Acute symptoms of concussion include headache, imbalance, fatigue,
+sleep disturbance, impaired cognition, photophobia, and phonophobia.[82] 
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Evaluation of dizziness Emergencies
+Urgent considerations
+(See  Differentials  for more details)
+Posterior circulation stroke
+Posterior circulation stroke (ischemic or hemorrhagic) may present in a similar fashion to vestibular neuritis,
+with sudden-onset intense vertigo, nausea, and vomiting.
+Other presenting symptoms include unilateral limb weakness, dysarthria, headache, and diplopia.[7] [37]
+Vertigo is continuous and prolonged. Patients may have at least one vascular risk factor (age >60 years,
+hypertension, diabetes, smoking, obesity).[7]
+Signs include nystagmus, unilateral limb weakness, gait ataxia, unilateral limb ataxia, dysarthria, facial
+numbness, Horner syndrome, and diplopia.[37] Patients usually cannot stand without support, even with the
+eyes open, whereas patients with acute vestibular neuritis or labyrinthitis are usually able to do so.
+The head impulse, nystagmus, test of skew (HINTS) assessment identifies stroke with a high degree
+of sensitivity and specificity in patients with acute vestibular symptoms when administered by a health
+professional with training and experience in its use. In this setting, it may rule out stroke more effectively than
+early diffusion-weighted magnetic resonance imaging (MRI).[34] [83] However, HINTS assessment alone
+does not reliably rule out stroke when used by emergency physicians.[84]
+Based on the HINTS model, one algorithm suggests that stroke should be considered in patients presenting
+with acute-onset dizziness if:[85]
+• There is a central pattern of nystagmus
+• There is skew deviation
+• There is a negative head impulse test (in patients with nystagmus)
+• There are any central nervous system signs on focused neurologic exam, or
+• The patient is unable to sit or walk unaided.
+Check capillary blood glucose in all patients with suspected stroke and arrange urgent neuroimaging.[86]
+In most cases, a CT head without contrast is appropriate and readily accessible. This can detect acute
+intracranial hemorrhage and large infarcts, and permits the clinician to assess the patient’s suitability for
+thrombolysis.[86] [87] [88]
+If the patient has had stroke symptoms for fewer than six hours, noncontrast CT is often performed first.[89]
+ If the patient has had stroke symptoms for longer than six hours, MRI is recommended as the initial
+investigation.[89] MRI can be performed without contrast for patients with renal failure or contrast allergy.[89]
+MRI can determine the age of the infarct and evaluate other causes for the symptoms. It is more sensitive
+than CT for acute infarct.[88] [89]
+Vertebral artery dissection
+Vertebral artery dissection may cause stroke in children and young adults. May be traumatic or spontaneous.
+Symptoms are sudden-onset vertigo, headache (often unilateral), tinnitus, and neck pain.[41][90] Neurologic
+signs may be absent but, if present, include ataxia and dysarthria.[40]
+CT imaging and angiography (CT/CTA) and MRI and angiography (MRI/MRA) can identify cervical artery
+dissection. MRI/MRA better identifies small intramural hematomas, however CT is usually easier to access
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Evaluation of dizziness Emergencies
+EMERGENCIES
+in the emergency setting.[91] Ultrasound may be considered as a follow-up investigation to assess arterial
+remodeling.[41] Digital subtraction angiography may be considered as a second-line imaging technique in
+patients with clinical symptoms and negative MRA and CTA.[41]
+Anticoagulation or antiplatelet treatment should be started after confirming the diagnosis.[92]
+[93] Intravascular therapy is available in some centers. A combination of techniques including thrombolysis,
+thrombectomy, stenting, and angioplasty is used.[94] 
+Acute coronary syndrome
+Patients with acute coronary syndrome (ACS) commonly report feeling dizzy/lightheaded; this is due to
+cerebral hypoperfusion as a result of hypotension and/or symptomatic bradycardia. Typical cardiac chest
+pain is a retrosternal sensation of pain, pressure, or heaviness radiating to the left arm, both arms, right
+arm, neck, or jaw, which may be intermittent or persistent. Immediate investigations include a 12-lead ECG,
+chest x-ray, cardiac biomarkers (high-sensitivity cardiac troponins), complete blood count, and renal profile.
+Guidelines recommend that oxygen should not be routinely administered in normoxic patients with suspected
+or confirmed ACS.[95] [96]
+• Unstable angina (UA): UA is characterized by specific clinical findings of prolonged (>20 minutes)
+angina at rest; new onset of severe angina; angina that is increasing in frequency, longer in duration,
+or lower in threshold; or angina that occurs after a recent episode of myocardial infarction.[97] The
+ECG may be normal or may show ST-segment depression, transient ST-segment elevation, or T-wave
+inversion.[97] Cardiac biomarkers should be measured on presentation to rule out acute myocardial
+infarction; subsequent/serial measurements may be needed.[97] [98] The early management of
+patients with suspected UA is focused on initial interventions (e.g., single loading dose of aspirin and
+pain relief with glyceryl trinitrate) and triage according to the presumptive diagnosis.
+• Non-ST-elevation myocardial infarction (NSTEMI): initial ECG may show ischemic changes such as
+ST depression, T-wave changes, or transient ST elevation; however, ECG may also be normal or show
+nonspecific changes. High-sensitivity cardiac troponins are elevated (>99th percentile of normal) at
+presentation or after several hours.[99] Treatment is directed toward relief of ischemia, prevention
+of further thrombosis or embolism, and stabilization of hemodynamic status, followed by early risk
+stratification for further treatment.
+• ST-elevation myocardial infarction (STEMI): suspected when a patient presents with persistent ST-
+segment elevation in two or more anatomically contiguous ECG leads in the context of a consistent
+clinical history.[100] Cardiac biomarkers are elevated. Treatment should, however, be started
+immediately in patients with a typical history and ECG changes, without waiting for laboratory results.
+Immediate and prompt reperfusion can prevent or minimize myocardial damage and improve the
+chances of survival and recovery.[101]
+Arrhythmias
+• Atrial fibrillation with a rapid ventricular rate causing ongoing chest pain, hypotension, shortness
+of breath, dizziness, or syncope requires immediate direct current (DC) cardioversion. To prevent
+thromboembolism, anticoagulation should be started before cardioversion and continued for at least 4
+weeks afterwards without interruption.[102]
+• Bradycardia associated with hemodynamic compromise (i.e., systemic hypotension, signs of cerebral
+hypoperfusion, progressive heart failure or angina) should be treated immediately, regardless of the
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Evaluation of dizziness Emergencies
+cause. The most common medications used to increase ventricular rate are intravenous atropine
+and epinephrine (adrenaline). Medical therapy should be continued until temporary cardiac pacing is
+initiated.[103]
+Pulmonary embolus
+Typically presents with pleuritic chest pain, dyspnea, and tachycardia. Six percent of patients with pulmonary
+embolus (PE) present with syncope or presyncope.[104] Computed tomographic pulmonary angiography
+(CTPA) is the best investigation for diagnosing and excluding PE; echocardiography is an alternative if CTPA
+is not immediately available or if the patient is too unwell to be moved.[104] In patients with suspected PE
+who are hemodynamically unstable and/or hypoxic, thrombolysis (unless contraindicated) should be started
+without delay.[104] Give high-concentration oxygen if oxygen saturations are <90%.[104] Titrate oxygen to
+achieve saturations of 94% to 98% (or 88% to 92% in patients at risk of hypercapnic respiratory failure).[105]
+Carbon monoxide poisoning
+Accidental poisoning can occur as a result of exposure to carbon monoxide (CO), a colorless, odorless gas
+generated from burning fuel. Sources include boilers, central heating systems, cookers, fireplaces, and
+chimneys. CO levels may rise if the outlet for these systems becomes blocked or if they are operated in an
+unventilated environment.[106]
+Diagnosis of CO poisoning rests on a high index of clinical suspicion as symptoms vary and are mostly
+nonspecific.[107] Symptoms include dizziness, vertigo, headache, nausea and vomiting, confusion, fatigue,
+chest pain, and shortness of breath.[108]
+Physical examination may be normal. Signs are usually a consequence of hypoxia, and patients may present
+with tachycardia, hypotension, cardiac ischemia, arrhythmias, cutaneous blisters, and pulmonary edema. 
+See Carbon monoxide poisoning .
+Elevated carboxyhemoglobin, measured using a CO oximeter, confirms the diagnosis. Normal levels are 1%
+to 3% in nonsmokers and up to 10% in smokers.[108]
+High-flow oxygen therapy should be initiated as soon as the diagnosis is considered, and should not be
+discontinued until the diagnosis is ruled out.[107] [108]
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Approach
+The history should include a description of the typical attacks, including their nature, duration, triggers and
+associated auditory symptoms (e.g., hearing loss, tinnitus, and aural pressure).
+The exam should include otoscopy, eye exam, central nervous system exam, and specific tests depending on
+the patient's presentation.
+The diagnosis of dizziness is usually made on the basis of the history and exam only. Investigations may not
+be necessary. Magnetic resonance imaging (MRI) of the brain and internal auditory meatus may be helpful
+to detect neurologic pathology. Vestibular function tests are indicated in some cases. Tests of cardiovascular
+function are necessary if a cardiovascular cause is suspected.
+History: characteristics of the current episode
+The traditional approach to assessment is to classify the type of dizziness, with vertigo indicating a vestibular
+cause, disequilibrium a neurologic cause and presyncope a cardiovascular cause.[109] However, symptom
+types overlap substantially and patients most often report feeling off-balance or unsteady. Over 60% of
+patients experience more than one type of dizziness.[2] Nearly two thirds of of patients with cardiovascular
+causes of dizziness also report vertigo, and vertigo is the only type of dizziness described in 37% of these
+patients.[52]
+An initial approach that considers trigger (positional or not) and timing (episodic or continuous) may be
+more useful as a first step than classifying the symptoms according to type (true vertigo, presyncope, or
+dysequilibrium).[109] [110]
+Duration of each episode of vertigo
+• Seconds: may be due to benign paroxysmal positional vertigo (BPPV)[12]
+• Seconds to minutes: may be due to labyrinthitis or vestibular neuronitis[12]
+• Hours: may be due to Meniere disease[12]
+• Months: persistent postural-perceptual dizziness (PPPD) symptoms last for 3 months or more.[111]
+Check for triggers
+• Vertigo associated with BPPV occurs on head movement (e.g., bending down or looking up quickly)
+and is relieved by keeping the head still. Ask about turning or laying down in bed; vertiginous attacks
+triggered by turning or laying down in bed, together with dizziness lasting less than one minute, may
+help identify BPPV.[112]
+• In labyrinthitis, symptoms are exacerbated by head movement, but are also present at rest.
+• PPPD symptoms are exacerbated by being upright, active or passive motion independent of direction
+or position, and complex or moving visual stimuli. Triggered by conditions that cause vestibular
+symptoms or affect balance, including neuro-otologic illness and psychological distress.[111]
+• Dizziness on getting up quickly may be associated with orthostatic hypotension, postural orthostatic
+tachycardia syndrome, and presyncope.[113]
+• Mild attacks of vertebrobasilar insufficiency may be associated with orthostatic hypotension.
+• People with autonomic dysregulation present with dizziness on standing upright for prolonged periods,
+swimming, or running.
+• Vertigo induced by loud sounds or coughing may be due to semicircular canal dehiscence.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Evaluation of dizziness Diagnosis
+"TiTrATE" is an acronym for "timing, triggers, and a targeted examination." The authors of the acronym
+consider new onset vertigo as one of four distinct clinical syndromes, defined according to timing and
+triggers.
+• Timing refers to the onset, duration, and evolution of the dizziness. Triggers are actions, movements,
+or situations that provoke the onset of dizziness in patients who have intermittent symptoms.
+• These syndromes are:
+• Triggered episodic vestibular syndrome (e.g., BPPV, orthostatic hypotension)
+• Discrete episodes of dizziness lasting seconds
+• Precipitated by a specific action or event
+• Recommended examination includes Dix-Hallpike test (see below), lying and standing
+blood pressure
+• Spontaneous episodic vestibular syndrome (e.g., vestibular migraine, panic attacks, Meniere
+disease, cardiac arrhythmia)
+• Discrete episodes of dizziness lasting minutes to hours[15]
+• Most events have no clear trigger
+• Diagnosis made from history
+• Post-exposure acute vestibular syndrome (e.g., head injury, aminoglycoside exposure)
+• Persistent dizziness lasting days to weeks
+• History of trauma or toxin exposure
+• Diagnosis made from history
+• Spontaneous acute vestibular syndrome (e.g., vestibular neuritis, posterior circulation stroke)
+• Persistent dizziness lasting days to weeks
+• Associated nausea, nystagmus, gait unsteadiness and head motion intolerance
+• Recommended examination includes the head impulse, nystagmus, test of skew (HINTS)
+assessment.[8]
+Presence of other otologic symptoms
+• Hearing loss may occur in Meniere disease, labyrinthitis, posterior fossa tumors, cholesteatoma,
+superior semicircular canal dehiscence (SCDS), and granulomatosis with polyangiitis (formerly known
+as Wegener's granulomatosis).
+• Tinnitus may occur in Meniere disease, labyrinthitis, posterior fossa tumors and cholesteatoma.[114]
+• Aural fullness occurs in Meniere disease.
+• Hyperacusis to bone-conducted sounds and autophony may occur in semicircular canal dehiscence.
+• Fever, otalgia, and otorrhea may occur in acute otitis media associated with labyrinthitis.
+• Malodorous ear discharge occurs in cholesteatoma.
+Determine how the episodes began
+• Patients with a preceding upper respiratory infection may have viral neuritis or labyrinthitis.[115]
+• Patients with a history of sea, air, or train travel prior to the onset of symptoms and with symptoms
+occurring on disembarking may have mal de debarquement syndrome.[116]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+• Patients with a history of trauma or barotraumas (e.g., scuba divers or pilots) may have a perilymphatic
+fistula.[24]
+Ask about other more general symptoms associated with the vertigo
+• The phrase "Dangerous Ds" can be a useful reminder of some of the red-flag symptoms that indicate a
+serious central cause for vertigo. These are:
+• Diplopia
+• Dysarthria
+• Dysmetria
+• Dysphagia
+• Dysphonia[8]
+• Associated chest pain, exertional presyncope, and dyspnea suggest a cardiovascular etiology.[117]
+• Nausea is often associated with peripheral vestibular disorders as a part of the autonomic response.
+• Vestibular migraine may be associated with aura, visual disturbance, photophobia, or phonophobia,
+with or without headaches.[118]
+• Posterior fossa tumors may cause headache.[114]
+• Patients with idiopathic intracranial hypertension are often obese and may complain of clumsiness,
+imbalance, headache and transient poor vision.
+• Patients with Cogan syndrome have ocular symptoms including photophobia, ocular discomfort and
+redness.[119]
+• Patients with granulomatosis with polyangiitis (formerly known as Wegener's granulomatosis) may
+present with nasal crusting, ulceration or epistaxis.
+• Recurrent genital and oral ulceration and uveitis occur in Behcet disease.
+Psychiatric symptoms
+• Panic disorder with agoraphobia, personality disorders, or generalized anxiety is often present in
+patients complaining of dizziness. One study of 40 patients reported that an anxious, introverted
+temperament was strongly associated with chronic, subjective dizziness.[120]
+• If the dizziness is psychogenic, patients may describe symptoms of excessive anxiety or fear. A
+hospital and anxiety depression scale of >8 is diagnostic.[121]
+• Phobic postural vertigo is characterized by dizziness on standing and walking, despite normal clinical
+balance tests.
+• Patients may describe avoidance behavior to specific stimuli.[62]
+• Patients with psychophysiological dizziness may describe an initial labyrinthine disorder with persisting
+symptoms.
+History: identification of cause
+History of trauma or surgery
+• Dizziness may be a complication of stapedectomy and cochlear implantation.[122] [123]
+• Patients who have had previous mastoid surgery with a mastoid cavity are prone to dizziness with ear
+infections.
+• A perilymphatic fistula may occur after stapes surgery, head trauma or barotrauma.[24]
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Evaluation of dizziness Diagnosis
+• Post-traumatic vertigo generally occurs as a result of blunt head trauma. Patients may present with
+symptoms of BPPV, a traumatic perilymphatic fistula or post-traumatic Meniere disease.[81] Vertigo
+can also occur as part of a post concussion syndrome.
+• Patients with SCDS may present after head trauma.
+• Orthostatic hypotension is a recognized complication after bariatric surgery.[58]
+History of other medical illnesses
+• Diabetes mellitus may be associated with attacks of dizziness related to hypoglycemic episodes.[65]
+• Systemic lupus erythematosus may also be associated with dizziness.[66] [67]
+• Dizziness occurs as an initial symptom in 5% of people with multiple sclerosis and occurs in 50% of
+patients at some point during the disease.[3]
+• Patients with a history of migraine are more likely to have migraine-associated vertigo.[118]
+• A history of certain connective tissue disorders, such as Ehlers-Danlos syndrome, Marfan syndrome,
+osteogenesis imperfecta, and fibromuscular dysplasia predispose patients to cervical artery
+dissection. Hypertension, recent infection, or trauma are also predisposing factors.[42] [43]
+Family history of illness
+• There may be a family history of migraine.
+Known or contact with infectious disease
+• Secondary syphilis may present with bilateral sensorineural hearing loss or vertigo. Patients with
+otosyphilis often present with vertigo. Late neurosyphilis may present with hearing loss, fluctuating
+hearing, or vestibular symptoms.[68]
+• Audiovestibular symptoms (including sensorineural hearing loss) may be caused by reactivation of
+latent HSV-1 infection, and may be preceded by herpetic skin lesions.[68]
+• COVID-19 infection is associated with dizziness.[49] [124] [125] [126]
+Medication and drug history, and possible toxin exposure
+• Drugs associated with ototoxicity (e.g., aminoglycoside antibiotics), particularly if these have been
+administered concomitantly with loop diuretics or aspirin, and chemotherapeutic agents (e.g.,
+cisplatin).
+• Anesthetic medication, antiarrhythmic medication, and drugs of misuse may cause patients to feel
+dizzy.
+• Oxcarbazepine and topiramate increase the risk of balance disorders.[77]
+• Drugs associated with orthostatic hypotension: antihypertensive medication, alpha-blockers,
+beta-blockers, nitrates, antipsychotics, opioids, antiparkinsonian drugs, and phosphodiesterase
+inhibitors.[78] [79] [127]
+• Alcohol intoxication can cause dizziness.
+• Accidental exposure to faulty or inadequately vented residential boilers, central heating systems,
+cookers, fireplaces, and chimneys may cause carbon monoxide poisoning.
+Risk factors for cardiovascular disease or stroke
+• Hypertension, hyperlipidemia, diabetes mellitus, smoking, and obesity.[3] [7]
+History of neoplastic disease
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+• Paraneoplastic cerebellar degeneration is a rare complication of cancer of the ovary, breast, or lung, or
+of Hodgkin lymphoma.[3] [128]
+Physical exam: HINTS
+HINTS is a set of three examinations: the head impulse test, characterization of spontaneous nystagmus,
+and test of skew. It can be performed quickly at the bedside and does not require any equipment.[129] It is
+a sensitive test for stroke in patients who have symptoms suggesting a vestibular cause of dizziness (e.g.,
+vertigo, nausea or vomiting, unsteady gait, head-motion intolerance, nystagmus) and who have one or more
+risk factors for stroke.[83] HINTS has been found to identify stroke with a high degree of sensitivity and
+specificity in patients with acute vestibular symptoms if a healthcare professional with training and experience
+in the use of this test is available, and may rule out stroke more effectively than early diffusion-weighted
+MRI.[34] [83] However, HINTS assessment alone does not reliably rule out stroke when used by emergency
+physicians.[84]
+Head impulse test
+• The examiner turns the patient's head as rapidly as possible 15 degrees to one side and observes
+the patient's ability to keep fixating on a distant target. With a peripheral vestibular lesion, a saccade
+occurs as the vestibulo-ocular reflex fails, the patient cannot keep focusing on the target, and a catch-
+up movement occurs. After a cerebellar stroke, no catch-up saccade occurs: the head impulse test is
+negative.
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Evaluation of dizziness Diagnosis
+Head impulse test. A: The right ear has intact peripheral vestibular function. When the head
+is turned to the right, the vestibulo-ocular reflex moves the eyes to maintain visual fixation. B:
+The right ear now has impaired vestibular function. When the head is turned to the right, the
+eyes move with it, breaking visual fixation, and a refixation saccade is seen as the eyes dart
+back to the examiner's face. This indicates a peripheral vestibular disorder on the right side
+Reproduced with permission from Nelson JA, Viirre E. The clinical differentiation of cerebellar
+infarction from common vertigo syndromes. West J Emerg Med. 2009 Nov;10(4):273-7.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Characterization of spontaneous nystagmus
+• In vestibular neuritis, spontaneous nystagmus is torsional to horizontal and beating away from the side
+of the lesion. The nystagmus typically increases on looking toward the direction of the nystagmus, and
+decreases on looking away from the direction of the nystagmus (Alexander’s law).[109]
+• A central vestibular lesion produces vertical, bidirectional or pure rotatory nystagmus.
+• In bidirectional nystagmus, the fast phase is to the left when the patient looks to the left, and to the
+right when the patient looks to the right.
+• Both vestibular neuritis and central causes of vertigo can cause spontaneous horizontal nystagmus
+and gaze-evoked horizontal nystagmus.
+Test of skew
+• Skew deviation is vertical ocular misalignment resulting from a right-left imbalance of vestibular tone
+• Perform an alternating cover test by asking the patient to fix on a target (such as your nose), then
+cover and uncover each eye in turn.
+• If the eyes are misaligned, after uncovering the affected eye it will move to refocus on the target. This
+is a positive result.
+• If the eye does not move after it is uncovered, this is normal. This is a negative test of skew.
+Based on the HINTS model, one algorithm suggests that stroke should be considered in patients presenting
+with acute-onset dizziness if:[85]
+• There is a central pattern of nystagmus
+• There is skew deviation
+• There is a negative head impulse test (in patients with nystagmus)
+• There are any central nervous system signs on focused neurologic exam, or
+• The patient is unable to sit or walk unaided.
+In the absence of these symptoms, patients in the accident and emergency department setting may be
+treated as having vestibular neuritis.[85]
+Physical exam: ear
+Ear exam
+• The tympanic membrane in acute otitis media is erythematous, opaque, and bulging.
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Evaluation of dizziness Diagnosis
+Erythematous bulging tympanic membrane due to acute otitis media
+From the collection of Richard Buckingham, MD; used with permission
+• Crust or keratin in the attic (upper part of the middle ear), the pars flaccida, or the pars tensa (usually
+posterior superior aspect) suggests cholesteatoma. The tympanic membrane may be perforated.
+Cholesteatoma in attic (upper part of the middle ear)
+From the collection of Susan A. Douglas, MBBS; used with permission
+• There may be fluid or blood in the middle ear, and/or cerebrospinal fluid (CSF) otorrhea, if the
+dizziness is related to trauma.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+• People with granulomatosis with polyangiitis (formerly known as Wegener granulomatosis) may have
+signs of serous otitis media or chronic otitis media.
+Tuning fork tests
+• Used to determine whether hearing loss is conductive or sensorineural.
+• Weber’s test: a 512-Hz tuning fork is placed on the forehead or maxillary teeth, and the patient is
+asked to state in which ear the sound is louder. The sound will be perceived in the affected ear when
+a unilateral conductive hearing loss is present or in the unaffected ear when there is a unilateral
+sensorineural hearing loss.
+• Rinne's testing allows the examiner to determine whether any hearing loss is secondary to middle ear
+(conductive hearing loss) or inner ear/eighth cranial nerve (sensorineural hearing loss) causes. The
+base of a 512-Hz tuning fork is placed on the mastoid and the patient indicates when he or she no
+longer hears the sound. Once the sound is no longer audible, the tuning fork is placed in front of the
+ear and the patient is asked whether he or she hears the sound. If the sound is louder when the tuning
+fork is on the mastoid, then the patient has a conductive hearing loss. If the sound is louder with the
+fork in front of the ear, hearing loss is sensorineural or normal. The result of this test is combined with
+the result of the Weber test to interpret the type of hearing loss.
+The fistula test
+• Performed by applying pressure on the tragus to occlude the ear, or by pneumatic otoscopy (exerting
+pressure on each ear canal with a rubber bulb attached to an auriscope), thereby putting pressure on
+the middle ear.
+• A positive result of induced dizziness and nystagmus occurs with SCDS, postsurgical dizziness, or
+perilymphatic fistula.
+• Fistula test may be positive in people with cholesteatoma.
+• A positive fistula test provides support for doing a temporal bone computed tomography (CT).
+Physical exam: eye
+Observation of eye movements
+• Ophthalmoplegia with palsies of cranial nerves III, IV, or VI may occur with multiple sclerosis or with an
+intracranial lesion.[3]
+• Neurologic signs such as diplopia, disconjugate gaze, Horner syndrome, and gait ataxia are in keeping
+with a central lesion.
+• The presence of nystagmus may indicate peripheral or central pathology.
+• A central vestibular lesion produces vertical, bidirectional, or pure rotatory nystagmus.
+• Abnormal saccades and smooth pursuit may also indicate central pathology such as cerebellar
+disorders.
+• Sound- or pressure-induced nystagmus in the plane of the semicircular canal (positive Tullio and
+Hennebert tests) are a key finding in patients with SCDS.[23]
+Fundoscopy
+• Papilledema may be present in idiopathic intracranial hypertension (pseudotumor cerebri)
+Exam of the eyes with Frenzel glasses
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Evaluation of dizziness Diagnosis
+• These glasses use +30 diopter lenses to blur the patient's vision, remove optical fixation, and uncover
+vestibular nystagmus.[130] [131]
+• It may be possible to use an ophthalmoscope instead of the Frenzel glasses to blur vision.
+• Infrared video goggles may be used instead of Frenzel glasses.
+Frenzel glasses
+From Jung I, Kim J-S. Approach to dizziness in the emergency department.
+Clin Exp Emerg Med. 2015 Jun 30; 2(2):75-88; used with permission
+Exam of dynamic visual acuity
+• This tests the vestibulo-ocular reflex by observing the effect of head rotation on visual acuity (e.g., by
+reading the letters on a Snellen chart).[115]
+• Abnormal results indicate a bilateral vestibular failure.
+Observation of the eyes may lead to suspicion for other ophthalmological conditions, such as interstitial
+keratitis in Cogan syndrome or uveitis in Behcet disease.
+Physical exam: clinical balance tests
+The Dix-Hallpike test
+• This is the gold standard test for the diagnosis of posterior canal BPPV.[10]
+• The test is performed with the patient sitting the upright on a bed; for the right side, the examiner
+stands on the patient’s right side, rotates the patient’s head 45 degrees to the right, and then moves
+the patient, whose eyes are open, to the supine right-ear down position, and then extends the patient’s
+neck slightly so that the chin points slightly upward. Patient's symptoms are noted and any nystagmus
+is observed. The test is repeated on the left with the examiner standing on the patient’s left side.[10]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+• Classically, the onset of peripheral nystagmus and symptoms is delayed by about 5 to 20 seconds.
+The provoked vertigo and nystagmus increase then resolve within 60 seconds.[10] The nystagmus
+fatigues on repeat testing, although this is not recommended because it unnecessarily subjects
+patients to further symptoms.[10]
+• BPPV is typically due to posterior canal pathology. If the pathology affects the horizontal canal, the
+nystagmus may be more persistent and less fatigable.
+• When symptoms are due to central pathology, the test causes nystagmus that is not fatigable, is down-
+beating, and is associated with minimal vertigo.
+• The Dix-Hallpike test has been shown to have a positive predictive value of 83% and a negative
+predictive value of 52% for the diagnosis of BPPV.[132]
+Dix-Hallpike maneuver
+Parnes LS, Agrawal SK, Atlas J. Diagnosis and management of benign paroxysmal
+positional vertigo (BPPV). CMAJ. 2003 Sep 30;169(7):681-93; used with permission
+Supine lateral head turns
+• If the Dix-Hallpike test is negative in a patient who has a history suggestive of BPPV, perform supine
+lateral head turns to test for lateral semicircular canal BPPV.[10] Position the patient supine with the
+head in the neutral position, then quickly rotate the head 90 degrees to one side while observing the
+patient’s eyes for nystagmus. The head is returned to the face up position, allowing all dizziness and
+nystagmus to subside; the head is then turned rapidly to the opposite side.[10]
+• In most cases of lateral semicircular canal BPPV, there is intense horizontal nystagmus beating toward
+the undermost (affected) ear when the patient is rolled to the affected side. When the patient is rolled
+to the unaffected side, there is less intense horizontal nystagmus beating toward the undermost
+ear.[10]
+Physical exam: central nervous system
+Exam of the other cranial nerves
+• Facial nerve palsy may occur with cerebellopontine angle tumors, granulomatosis with polyangiitis
+(formerly known as Wegener’s granulomatosis) and cholesteatoma.
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Evaluation of dizziness Diagnosis
+• Dysarthria can be a sign of posterior circulation stroke, vertebrobasilar insufficiency or vertebral artery
+dissection.
+• Facial numbness may occur in posterior circulation stroke.
+• Loss of pain and temperature sensation of the ipsilateral face occurs in Wallenberg syndrome (lateral
+medullary infarction).[38]
+Neurologic exam
+• Exam of cerebellar function is usually tested with the finger-to-nose test and rapid alternating hand
+movements.[131] This may be abnormal in cerebellar lesions. 
+• Ipsilateral limb ataxia and loss of pain and temperature sensation of the contralateral trunk occurs in
+Wallenberg syndrome (lateral medullary infarction).[38]
+• Various neurologic signs may be present in people with multiple sclerosis (e.g., altered gait, weakness,
+nystagmus, cranial nerve palsies).
+• Signs of peripheral neuropathy may occur in patients with diabetes mellitus (e.g., numbness and
+presence of painless injuries).
+• Bizarre changes (e.g., "wooden soldier" or "scissor gait") may occur in psychogenic lesions.
+Romberg and Unterberger (Fukuda) tests
+• Provides information about the patient's balance with the eyes closed.
+• Romberg test: the patient attempts to maintain a standing position with the feet together, eyes closed,
+and arms outstretched. The test is positive if the patient cannot maintain balance.
+• Unterberger test: the patient performs stationary stepping with eyes closed for up to 1 minute. A
+tendency to veer toward the affected side occurs after a unilateral vestibular loss.
+• These are nonspecific tests that can be abnormal in peripheral or central lesions.[115]
+• Patients with cerebellar infarction usually cannot stand without support, even with the eyes open,
+whereas a patient with acute vestibular neuritis or labyrinthitis can.
+Physical exam: cardiovascular system and general exam
+Cardiovascular exam
+• Check for an irregular pulse, which could indicate an arrhythmia.
+• Check lying and standing blood pressure (BP) and pulse should be checked in patients with postural
+symptoms. A fall in systolic BP of at least 20 mmHg or diastolic BP of at least 10 mmHg within 3
+minutes of standing indicates orthostatic hypotension.[56] 
+• Where postural symptoms resemble those of orthostatic hypotension, but orthostatic hypotension is
+not demonstrated, an increased heart rate on standing may indicate postural orthostatic tachycardia
+syndrome.[60]
+• Auscultate for carotid bruits and cardiac murmurs.
+General exam may reveal evidence of other conditions (e.g., oral ulcers with Behcet disease; evidence of
+multisystem involvement with systemic lupus erythematosus).
+Investigations: pure-tone audiogram
+• Demonstrates any associated hearing loss.
+• A unilateral sensorineural hearing loss may occur in labyrinthitis and Meniere disease (low frequency).
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+• Unilateral or asymmetrical sensorineural hearing loss should prompt investigation for a posterior fossa
+tumor (e.g., acoustic neuroma).[114]
+Investigations: imaging of the head
+CT scan of the petrous temporal bones
+• A high-resolution thin-slice CT scan is useful in patients with suspected SCDS.[88] [133]
+• Useful in the diagnosis of middle ear or mastoid disease. May be helpful to confirm
+cholesteatoma.[134]
+• Should be performed if temporal bone fracture is suspected.[135]
+CT scan of the brain
+• Usual initial imaging investigation for patients with suspected acute stroke if the patient has had
+symptoms for fewer than six hours. Noncontrast CT detects intracranial hemorrhage and large infarcts,
+allowing the treating clinician to make management decisions quickly.[86] [89]
+• The American Heart Association/American Stroke Association guidelines recommend that all patients
+admitted to hospital with suspected acute stroke should have brain imaging on arrival to hospital and
+in most cases, noncontrast CT will provide the necessary information to make decisions about acute
+management.[86]
+• The National Institute for Health and Care Excellence in the UK advises that patients with suspected
+acute stroke should have brain imaging with a noncontrast CT within one hour if any of the following
+apply:[87]
+• Indications for thrombolysis or thrombectomy
+• On anticoagulant treatment
+• Known bleeding tendency
+• Glasgow Coma Score below 13
+• Unexplained progressive or fluctuating symptoms
+• Papilledema, neck stiffness, or fever
+• Severe headache at onset of stroke symptoms
+MRI of internal auditory meatus and brain
+• Contrast-enhanced MRI with MR angiography is recommended for patients who have a suspected
+acute stroke. MRI can determine the age of the infarct and evaluate other causes for the symptoms.
+It is more sensitive than CT for acute infarct.[88] [89] If the patient has had stroke symptoms for less
+than six hours, noncontrast CT is often performed first.[89] If the patient has had stroke symptoms
+for longer than six hours, MRI is recommended as the initial investigation.[89] MRI can be performed
+without contrast for patients with renal failure or contrast allergy.[89]
+• Contrast-enhanced MRI is the investigation of choice for suspected posterior fossa tumors.[134]
+• Demonstrates malformations (e.g., Arnold-Chiari malformation type 1).
+• Demyelinating lesions may be seen on MRI in people with multiple sclerosis.
+• Advances in MRI techniques enable visualization of endolymphatic hydrops.[136]
+• MRI angiography may be performed in cases of suspected vertebrobasilar insufficiency
+(demonstrating occlusion of the cerebellar arteries), Wallenberg syndrome (demonstrating occlusion of
+the ipsilateral vertebral artery), or vertebral artery dissection.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Evaluation of dizziness Diagnosis
+Investigations: vestibular function tests
+There are numerous tests available, such as electronystagmography (ENG), caloric testing, video head
+impulse test (vHIT), and vestibular evoked myogenic potentials.
+• The tests can be useful in cases of diagnostic uncertainty to demonstrate a unilateral or bilateral
+vestibular loss.
+• Typically, a directional preponderance (nystagmus greater in one direction than the other) of 26% to
+30% indicates significant asymmetry, and a canal paresis (reduced function) of 22% to 25% indicates
+a unilateral vestibular loss.[115]
+• Computerized dynamic posturography testing: utilizes a computerized controlled platform and visual
+booth to evaluate sensory and motor components of balance.[131] The test results in 6 abnormal
+sensory patterns useful for clinical diagnosis and rehabilitation.
+• Rotatory chair testing: an adjunctive balance test that may be used if ENG is abnormal.
+• Electrocochleography: may be useful in the diagnosis of Meniere disease. The transtympanic test
+is a more invasive type of electrocochleography and is a more sensitive test than extra-tympanic
+electrocochleography.
+• Acoustic reflex assessment: involves exposing the patient to loud noise to observe the muscle that
+causes movement of the stapes to protect the ear. It is a secondary assessment of stapes function and
+would be abnormal in people with otosclerosis (pathological temporal bone remodeling) and normal in
+people with SCDS.
+• vHIT: this tests the vestibulo-ocular reflex of all the semicircular canals.[137]
+• Vestibular evoked myogenic potential: indicated only when SCDS is suspected.[138] In this case,
+increased amplitude may be demonstrated.[133]
+Investigations: cardiovascular
+ECG
+• Recommended in patients when a cardiac cause of dizziness is suspected.
+Echocardiography
+• May be useful for patients with syncope where cardiac pathology is suspected.[139]
+Cardiac monitoring
+• Indicated in patients with presyncope where an arrhythmia is suspected.
+Tilt-table testing
+• Done in cases where orthostatic hypotension or postural orthostatic tachycardia syndrome is
+suspected, or there is a possibility of autonomic dysregulation.[60] [139][140]
+• Symptoms are provoked on testing.
+Further investigations in specific circumstances
+• Antinuclear antibodies, double-stranded DNA, Smith antigen if systemic lupus erythematosus is
+suspected.[141]
+• Antineutrophil cytoplasmic antibody (ANCA) and biopsy of lesions for histology if granulomatosis with
+polyangiitis [formerly known as Wegener granulomatosis] is suspected.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+• Treponemal antibody tests if syphilis infection is suspected.
+• Blood glucose monitoring and HbA1c in patients with diabetes mellitus who have dizzy episodes
+possibly related to hypoglycemia. A lower than expected HbA1c is suggestive but not diagnostic of
+hypoglycemic episodes. Self-monitored blood glucose levels are required for confirmation.
+• Blood glucose must be checked in all patients with a suspected stroke.[86]
+• Assess carboxyhemoglobin levels using a carbon monoxide oximeter in cases of suspected carbon
+monoxide poisoning.[108]
+• Serum drug levels may be appropriate if the symptoms are thought to be medication- or drug-related.
+Slit-lamp ophthalmoscopic exam
+• Necessary if the diagnosis of Cogan syndrome is considered.
+Exploratory tympanotomy
+• May be done to investigate the cause of postsurgical dizziness or when there is a suspected diagnosis
+of perilymphatic fistula.
+Lumbar puncture and measurement of CSF pressure
+• Required to diagnose benign intracranial hypertension and normal pressure hydrocephalus.
+Cisternography
+• Performed to demonstrate the absence of obstruction of the cerebral aqueduct or of CSF outflow from
+the 4th ventricle in people with normal pressure hydrocephalus.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Evaluation of dizziness Diagnosis
+Differentials overview
+Common
+Benign positional paroxysmal vertigo (BPPV)
+Meniere disease
+Vestibular neuritis
+Labyrinthitis
+Vestibular migraine
+Presyncope
+Orthostatic hypotension
+Postural orthostatic tachycardia syndrome
+Diabetes mellitus
+Alcohol
+Drugs
+Coronavirus disease 2019 (COVID-19)
+Uncommon
+Cholesteatoma
+Superior semicircular canal dehiscence
+Perilymphatic fistula
+Persistent postural-perceptual dizziness (PPPD)
+Posterior fossa tumor
+Multiple sclerosis
+Posterior circulation stroke
+Vertebrobasilar insufficiency
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Uncommon
+Arnold-Chiari malformation type 1
+Wallenberg syndrome (Lateral medullary infarction)
+Trauma
+Vertebral artery dissection
+Paraneoplastic cerebellar degeneration
+Idiopathic intracranial hypertension
+Normal pressure hydrocephalus
+Mal de debarquement syndrome
+Psychophysiological dizziness
+Psychogenic dizziness
+Systemic lupus erythematosus (SLE)
+Cogan syndrome
+Granulomatosis with polyangiitis (formerly known as Wegener granulomatosis)
+Behcet disease
+Carbon monoxide poisoning
+Postsurgery
+Secondary syphilis
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Evaluation of dizziness Diagnosis
+Differentials
+Common
+◊ Benign positional paroxysmal vertigo (BPPV)
+History Exam 1st Test Other tests
+vertigo on rolling over
+in bed or looking up,
+which lasts for seconds
+Dix-Hallpike test:
+diagnostic of BPPV,
+typically demonstrating
+nystagmus and
+symptoms that are
+delayed by about
+15 seconds, peak
+in 20-30 seconds,
+and then decay with
+complete resolution of
+the episode of vertigo;
+supine lateral head
+turns: similar to the Dix-
+Hallpike maneuver, a
+positive test is noted
+when the patient
+experiences vertigo
+with nystagmus.
+»none: diagnosis
+usually made clinically
+with Dix-Hallpike test
+and supine lateral head
+turns
+»pure-tone
+audiogram: normal
+pattern
+»brain MRI: normal
+Can be useful in
+diagnosing or excluding
+central nervous system
+conditions such as
+multiple sclerosis,
+posterior fossa
+tumors, and ischemic
+processes that may
+mimic BPPV.
+◊ Meniere disease
+History Exam 1st Test Other tests
+spontaneous vertigo
+attacks (each lasting
+20 minutes to 12 hours)
+with documented
+low- to mid-frequency
+sensorineural hearing
+loss in the affected
+ear before, during,
+or after one of the
+episodes of vertigo,
+with fluctuating aural
+symptoms (hearing
+loss, tinnitus, or ear
+fullness) in the affected
+ear
+usually normal,
+Romberg’s test may
+be positive, may have
+horizontal and/or
+rotatory nystagmus
+which is suppressed by
+fixation
+»pure-tone
+audiogram:
+sensorineural hearing-
+loss pattern usually at
+low frequencies
+»electronystagmography:
+normal or unilateral
+reduction in function
+»electrocochleography:
+abnormal action
+potential:summating
+potential (AP:SP)
+ratio with abnormal
+tone burst amplitude
+measurements
+Sensitivity of
+extra-tympanic
+electrocochleography
+is lower than that of
+transtympanic testing.
+»MRI of internal
+auditory meatus and
+brain: normal
+Done to exclude
+acoustic neuroma.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Common
+◊ Vestibular neuritis
+History Exam 1st Test Other tests
+acute onset of vertigo
+with nausea and
+vomiting, lasting days
+but without hearing
+loss; single episodes
+frequently recur;
+symptoms exacerbated
+by changes in head
+position
+acute episode: may
+be nystagmus to the
+affected side, head
+impulse test will be
+abnormal (due to loss
+of the vestibulo-ocular
+reflex); loss of balance;
+between episodes of
+vertigo exam may be
+normal
+»pure-tone
+audiogram: normal
+pattern
+Rules out labyrinthitis
+or Meniere disease,
+which would both be
+associated with hearing
+loss.
+»MRI brain: normal
+Performed in patients in
+whom acute cerebellar
+stroke is suspected
+as a differential of
+vestibular neuritis.
+◊ Labyrinthitis
+History Exam 1st Test Other tests
+acute onset of vertigo
+with nausea and
+vomiting lasting days;
+associated hearing loss
+with or without tinnitus;
+may be a preceding
+history of acute otitis
+media
+nystagmus is usually
+horizontal, and severity
+improves as the illness
+resolves; patients
+may have difficulty
+walking; unilateral
+sensorineural hearing
+loss demonstrated
+with Rinne and Weber
+tuning fork tests; ear
+exam may demonstrate
+evidence of acute
+otitis media (bulging,
+erythematous, or
+opaque tympanic
+membrane); postaural
+redness or swelling
+may occur if mastoiditis
+complicates the
+infection
+»pure-tone
+audiogram: unilateral
+sensorineural hearing-
+loss pattern; a
+conductive loss pattern
+may occur if acute otitis
+media is present
+»CT scan petrous
+temporal bones:
+may demonstrate
+evidence of middle-ear
+or mastoid opacification
+Ordered if the patient
+is suspected of having
+mastoiditis.
+»MRI of internal
+auditory meatus and
+brain: normal
+Done to exclude
+retrocochlear pathology
+if the patient has an
+asymmetric hearing
+loss.
+◊ Vestibular migraine
+History Exam 1st Test Other tests
+personal history
+or family history of
+migraine; vertigo
+with or without
+headaches; symptoms
+variable including
+true episodic vertigo,
+movement-provoked
+disequilibrium,
+usually normal,
+may have positional
+nystagmus and positive
+Romberg test in acute
+attack[118]
+»pure-tone
+audiogram: normal
+pattern
+»MRI brain: normal
+Used primarily to
+exclude other causes of
+central vertigo.[118]
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Evaluation of dizziness Diagnosis
+Common
+◊ Vestibular migraine
+History Exam 1st Test Other tests
+lightheadedness,
+symptoms similar
+to benign positional
+paroxysmal vertigo,
+photophobia,
+phonophobia, or other
+auras, or symptoms
+similar to Meniere
+disease; associated
+symptoms of nausea
+and fatigue; symptoms
+might last minutes to
+days
+Presyncope
+History Exam 1st Test Other tests
+variable depending
+on specific cause
+but may include
+generalized weakness,
+giddiness, headache,
+blurred vision, and
+diaphoresis; may be
+paresthesia, nausea,
+and vomiting; patients
+have a sensation of
+an impending loss of
+consciousness
+vasovagal attack:
+hypotension
+and bradycardia
+during attack;
+cardiopulmonary
+disease: altered cardiac
+rhythm, murmurs,
+evidence of cardiac
+failure
+»ECG: may
+demonstrate
+arrhythmia, ischemic
+changes or signs of
+structural heart disease
+»echocardiogram:
+may be evidence of
+structural heart disease
+»cardiac or event
+monitoring:
+arrhythmia may be
+detected associated
+with symptomatic
+episodes
+»tilt-table testing:
+may demonstrate
+evidence of autonomic
+neuropathy if symptoms
+are provoked
+◊ Orthostatic hypotension
+History Exam 1st Test Other tests
+dizziness on standing
+from a lying or sitting
+position, episodes
+are usually transient,
+may be a history
+of hypotension,
+antihypertensive
+medication use,
+dehydration, autonomic
+dysfunction (e.g., with
+Parkinson disease,
+drop in systolic BP by
+20 mmHg or diastolic
+BP by 10 mmHg
+within three minutes of
+standing from a lying
+position
+»none: diagnosis
+usually made clinically
+without further
+investigations
+Heart rate should
+be recorded at the
+same time as the BP
+measurements, a heart
+rate increase <0.5 bpm
+per mmHg systolic
+»tilt-table testing:
+demonstrates
+orthostatic fall in BP
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Common
+◊ Orthostatic hypotension
+History Exam 1st Test Other tests
+multiple system
+atrophy, diabetic
+autonomic neuropathy);
+if associated with
+autonomic dysfunction
+may also have
+dizziness when
+standing upright for
+prolonged periods,
+swimming, or running
+and may complain of
+feeling "spacey" or
+"foggy" without vertigo
+during exertion; may
+be a history of bariatric
+surgery
+BP fall indicates a
+neurogenic cause (e.g.,
+peripheral neuropathy).
+◊ Postural orthostatic tachycardia syndrome
+History Exam 1st Test Other tests
+dizziness and
+palpitations on standing
+from a lying or sitting
+position, episodes are
+usually transient; may
+be fatigue, nausea,
+presyncope or syncope,
+more common in
+women and girls
+between 12-50 years of
+age
+increase in heart rate
+on standing (and
+with tilt table study)
+by 30 bpm or >120
+bpm and associated
+postural symptoms;
+lack of orthostatic
+hypotension; absence
+of other conditions that
+may cause orthostatic
+hypotension, such as
+dehydration, a primary
+cardiac cause, an
+endocrine disorder,
+or a nervous system
+disorder[60]
+»tilt table study:
+confirms excessive
+postural tachycardia,
+excludes orthostatic
+hypotension
+◊ Diabetes mellitus
+History Exam 1st Test Other tests
+most commonly
+occurs in people with
+a known history of
+diabetes mellitus;
+often dizziness may
+coincide with episodes
+of hypoglycemia where
+may be signs of
+peripheral neuropathy
+including numbness
+and presence of
+painless injuries
+»blood glucose: low
+during attacks
+It may be possible to
+record blood glucose
+during an attack. If not,
+a blood glucose diary
+»serum HbA1c:
+elevated compared with
+nondiabetic levels, but
+result may be lower
+than expected
+A lower than expected
+value relative to degree
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Evaluation of dizziness Diagnosis
+Common
+◊ Diabetes mellitus
+History Exam 1st Test Other tests
+patient feels ill, clammy,
+generally weak; may be
+a preceding peripheral
+vestibular disorder and
+prolonged symptoms,
+particularly with
+associated peripheral
+neuropathy (associated
+numbness in feet and
+legs and history of
+painless injuries)
+review may be helpful.
+The timing of episodes
+of dizziness can be
+analyzed with respect
+to any risk factors for
+hypoglycemia (meal
+timing, excessive
+activity without
+compensatory
+dietary changes,
+alcohol consumption,
+prolonged abstinence
+from food).
+of observed control
+via fingerstick blood
+glucose may suggest,
+but not confirm,
+hypoglycemia.[65]
+◊ Alcohol
+History Exam 1st Test Other tests
+acute intoxication:
+patients report feeling
+"high," dizzy, and
+intoxicated
+smell of alcohol on the
+breath, disorientation,
+abnormal gait
+»blood alcohol level:
+may be elevated
+»serum LFTs:
+gamma glutamyl
+transpeptidase,
+aspartate
+aminotransferase,
+alanine
+aminotransferase may
+be deranged
+◊ Drugs
+History Exam 1st Test Other tests
+history of
+aminoglycoside
+antibiotics, cisplatin,
+or other drugs that
+may cause dizziness
+(e.g., antihypertensive
+or antiarrhythmic
+medication, diuretics,
+antipsychotic or
+antiparkinsonian
+medication, opioids,
+phosphodiesterase
+inhibitors, or anesthetic
+medication); may
+be hearing loss
+may be orthostatic
+hypotension on exam if
+taking antihypertensive,
+antipsychotic or
+antiparkinsonian
+medication, opioids,
+or phosphodiesterase
+inhibitors
+»clinical exam: the
+diagnosis is often
+made clinically from
+the history and physical
+findings
+»serum drug levels
+of aminoglycoside:
+may be elevated
+Aminoglycoside
+antibiotics: toxicity
+with parenteral use
+is related to the total
+dose administered.
+Risk factors are age
+>60 years, high serum
+drug levels, previous
+sensorineural hearing
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Common
+◊ Drugs
+History Exam 1st Test Other tests
+and tinnitus with
+aminoglycosides and
+cisplatin
+loss, concomitant renal
+impairment, attendant
+noise exposure,
+duration of therapy >10
+days, and simultaneous
+administration of
+other ototoxic agents
+(e.g., loop diuretics or
+aspirin). Ototoxicity has
+also been described for
+topical use.[72]
+»urine drug-toxicity
+screen: elevated
+levels of drugs or their
+metabolites
+»blood drug-toxicity
+screen: elevated
+levels of drugs or their
+metabolites
+»pure-tone
+audiogram: may be a
+sensorineural hearing-
+loss pattern or normal
+Aminoglycoside
+antibiotics are
+vestibulotoxic and
+cochleotoxic. They may
+result in vertigo without
+causing hearing loss.
+Cisplatin may cause
+sensorineural hearing
+loss and tinnitus.[76]
+»m.1555A>G
+mutation screening:
+may be present
+Mitochondrial DNA
+mutation in some cases
+of aminoglycoside
+toxicity.
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Evaluation of dizziness Diagnosis
+Common
+Coronavirus disease 2019 (COVID-19)
+History Exam 1st Test Other tests
+dizziness associated
+with a current or
+previous COVID-19
+infection, typical
+symptoms are dry
+cough, fever, and
+dyspnea; other
+common symptoms
+include anorexia,
+myalgia, and sore
+throat; may be travel
+history to an affected
+area or close contact
+with a suspected or
+confirmed case in
+the 14 days prior to
+symptom onset
+may have fever and/
+or dyspnea; patients
+with pneumonia or
+respiratory distress
+syndrome may have
+inspiratory crackles,
+rales, and/or bronchial
+breathing; patients
+with respiratory
+distress syndrome
+may have tachycardia,
+tachypnea, or cyanosis
+accompanying hypoxia
+»real-time reverse
+transcription
+polymerase chain
+reaction (RT-PCR):
+positive for severe
+acute respiratory
+syndrome coronavirus
+2 (SARS-CoV-2) RNA
+Molecular testing is
+required to confirm the
+diagnosis. Priorities
+for testing depend on
+local guidelines and
+available resources.
+Collect upper
+respiratory specimens
+(nasopharyngeal and
+oropharyngeal swab
+or wash) in ambulatory
+patients and/or lower
+respiratory specimens
+(sputum and/or
+endotracheal aspirate
+or bronchoalveolar
+lavage) in patients with
+more severe respiratory
+disease.
+Uncommon
+Cholesteatoma
+History Exam 1st Test Other tests
+malodorous ear
+discharge and hearing
+loss, with or without
+tinnitus; less commonly
+vertigo, otalgia,
+altered taste, or facial
+weakness
+otoscopy reveals
+crust or keratin in the
+attic (upper part of
+the middle ear), the
+pars flaccida, or the
+pars tensa (usually
+posterior superior
+aspect), with or without
+perforation of the
+»pure-tone
+audiogram: normal,
+conductive, or
+mixed conductive/
+sensorineural hearing-
+loss pattern
+»CT scan of the
+petrous temporal
+bones: opacification
+of the middle ear,
+ossicular erosion, and
+erosion of the scutum;
+may demonstrate
+mastoid, cochlear,
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Uncommon
+Cholesteatoma
+History Exam 1st Test Other tests
+tympanic membrane;
+fistula test may be
+positive
+semicircular canal, or
+intracranial involvement
+Particularly helpful
+if cholesteatoma is
+suspected but exam is
+indeterminate.
+Cholesteatoma,
+coronal CT scan
+From the collection
+of Susan A. Douglas,
+MBBS; used
+with permission
+Cholesteatoma,
+axial CT scan
+From the collection
+of Susan A. Douglas,
+MBBS; used
+with permission
+◊ Superior semicircular canal dehiscence
+History Exam 1st Test Other tests
+history of episodes
+of vertigo associated
+with sound or pressure
+such as coughing,
+sneezing, straining,
+or sudden loud noise
+and hyperacusis; a
+feeling of the affected
+upward and torsional
+nystagmus evoked by
+Tullio (loud noise) and
+Hennebert (altered
+middle-ear pressure)
+tests
+»pure-tone
+audiogram:
+conductive hearing-loss
+pattern
+»CT scan petrous
+temporal bones:
+bony dehiscence of the
+»acoustic reflexes:
+normal
+Involves exposing the
+patient to loud noise
+to observe the muscle
+that causes movement
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Evaluation of dizziness Diagnosis
+Uncommon
+◊ Superior semicircular canal dehiscence
+History Exam 1st Test Other tests
+ear being blocked;
+autophony; may be
+preceding history of
+trauma
+superior semicircular
+canal on the affected
+side
+CT must be a thin cut
+0.6 mm or less, and
+reconstructions parallel
+and orthogonal to the
+superior canal are
+necessary.
+»vestibular evoked
+myogenic potential:
+increased amplitude
+may be demonstrated
+of the stapes to
+protect the ear. It is a
+secondary assessment
+of stapes function and
+would be abnormal in
+people with otosclerosis
+(pathological temporal
+bone remodelling).
+◊ Perilymphatic fistula
+History Exam 1st Test Other tests
+may have a history
+of surgery such as
+stapes surgery, head
+trauma or barotrauma;
+paroxysmal vertigo,
+imbalance, and hearing
+loss with or without
+tinnitus
+may have a positive
+fistula test
+»pure-tone
+audiogram:
+sensorineural hearing-
+loss pattern
+»exploratory
+tympanotomy: fistula
+noted at the round or
+oval window
+◊ Persistent postural-perceptual dizziness (PPPD)
+History Exam 1st Test Other tests
+Five diagnostic criteria
+must be satisfied to
+make the diagnosis: 1)
+History of dizziness,
+unsteadiness, or
+nonspinning vertigo
+on most days for ≥3
+months. 2) Symptoms
+occurring without
+provocation but worse
+with upright posture,
+active or passive
+motion, or exposure
+to moving stimuli.
+3) Precipitated by
+conditions that cause
+physical exam normal »none: diagnosis
+made based on clinical
+criteria
+Ongoing precipitating
+condition should be
+established.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Persistent postural-perceptual dizziness (PPPD)
+History Exam 1st Test Other tests
+vertigo, neurologic
+or medical illness, or
+psychological distress.
+4) Symptoms cause
+significant distress or
+functional impairment.
+5) Symptoms not better
+explained by another
+disorder.
+Posterior fossa tumor
+History Exam 1st Test Other tests
+typically unilateral
+hearing loss, dizziness,
+or vertigo and tinnitus
+spontaneous
+nystagmus may be
+present
+»pure-tone
+audiogram: unilateral
+sensorineural hearing-
+loss pattern
+»contrast-enhanced
+structural MRI
+internal auditory
+meatus and brain:
+space-occupying lesion
+in cerebellopontine
+angle
+»electronystagmography:
+abnormal tracking and
+abnormal optokinetic
+nystagmus test
+◊ Multiple sclerosis
+History Exam 1st Test Other tests
+vertigo as an initial
+symptom (5%) or at
+some point during
+their disease (50%);
+prolonged spontaneous
+attacks of vertigo may
+be similar to vestibular
+neuritis; variety of
+symptoms such as
+dizziness, diplopia, and
+altered gait
+variety of neurologic
+findings, such as
+nystagmus, ataxia, and
+cranial nerve palsies
+»pure-tone
+audiogram:
+sensorineural hearing-
+loss pattern
+»MRI brain and
+spinal cord:
+demyelinating lesions
+demonstrated
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Evaluation of dizziness Diagnosis
+Uncommon
+Posterior circulation stroke
+History Exam 1st Test Other tests
+sudden intense vertigo,
+nausea, and vomiting,
+dysarthria, unilateral
+limb weakness,
+headache, diplopia
+nystagmus present
+and may be bilateral
+or vertical (suggesting
+a central cause),
+head impulse test
+is negative, patients
+usually cannot stand
+without support;
+patients may have gait
+and limb ataxia, facial
+numbness, Horner
+syndrome, diplopia
+»Blood glucose:
+normal
+Excludes hypoglycemia
+as a cause for focal
+neurologic symptoms
+»CT head without
+contrast: may
+demonstrate
+hemorrhage or large
+infarction
+»MRI brain: lesions
+demonstrating
+cerebellar infarction or
+hemorrhage
+Should be done early
+because one third of
+patients will develop
+acute, potentially lethal
+posterior fossa edema
+requiring emergency
+neurosurgical
+decompression.[130]
+Vertebrobasilar insufficiency
+History Exam 1st Test Other tests
+episodic vertigo lasting
+between 30 seconds
+and 15 minutes and
+typically starting after
+abruptly standing
+or turning the head;
+associated with
+diplopia, dysarthria,
+ataxia, drop attack,
+and clumsiness of the
+extremities; may have
+risk factors for stroke
+such as hypertension,
+hyperlipidemia,
+diabetes, smoking, or
+heart disease
+usually normal »MRI brain ±
+angiogram: may be
+lesions demonstrating
+areas of infarction;
+vascular occlusion of
+the cerebellar arteries
+may be demonstrated
+on angiography
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Uncommon
+Arnold-Chiari malformation type 1
+History Exam 1st Test Other tests
+occipital headache,
+dizziness,
+unsteadiness, and
+hearing loss, but may
+be asymptomatic[44]
+may be downbeat
+nystagmus, most
+prominent on lateral
+gaze; positional
+testing may precipitate
+dizziness with
+downbeat nystagmus
+»MRI brain/spine:
+craniocervical lesion
+Wallenberg syndrome (Lateral medullary infarction)
+History Exam 1st Test Other tests
+double vision, abnormal
+balance, facial or limb
+numbness, prolonged
+vertigo lasting several
+days
+abnormal eye
+movements; ipsilateral
+Horner syndrome;
+diplopia; ipsilateral
+limb ataxia; truncal
+ataxia; dysphagia and
+hoarseness; loss of
+pain and temperature
+sensation of the
+ipsilateral face and
+contralateral trunk
+»Blood glucose:
+normal
+Excludes hypoglycemia
+as a cause for
+focal neurologic
+symptoms[86]
+»CT head without
+contrast: may
+demonstrate
+hemorrhage or large
+infarction[86]
+»MRI brain ±
+angiogram: occlusion
+of the ipsilateral
+vertebral artery may be
+demonstrated
+Trauma
+History Exam 1st Test Other tests
+history of head trauma
+(e.g., a fall, an assault,
+or a motor vehicle
+accident), vertigo,
+disequilibrium, tinnitus,
+pressure, headache,
+diplopia
+evidence of fluid or
+blood in the middle ear,
+evidence of a temporal
+bone fracture (e.g.,
+mastoid and periorbital
+ecchymosis, abnormal
+neurologic findings,
+cerebrospinal fluid
+otorrhea).
+»CT scan petrous
+temporal bones:
+temporal bone fracture
+demonstrated
+»electronystagmography:
+abnormal response of
+affected side
+»caloric testing:
+abnormal response of
+affected side
+»MRI scan head:
+intracranial pathology
+Performed if there
+is a history of head
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Evaluation of dizziness Diagnosis
+Uncommon
+Trauma
+History Exam 1st Test Other tests
+injury with abnormal
+neurology.
+Vertebral artery dissection
+History Exam 1st Test Other tests
+more likely to be a
+young adult or trauma
+patient; dizziness,
+headache, and neck
+pain; may be history of
+predisposing factors,
+such as hypertension,
+recent infection,
+connective tissue
+disorder (e.g., Ehlers-
+Danlos syndrome,
+Marfan syndrome,
+osteogenesis
+imperfecta,
+fibromuscular
+dysplasia)
+dysarthria, visual field
+deficits, ataxia
+»MRI angiogram:
+may demonstrate
+double lumen in
+artery, evidence of
+intramural hematoma or
+pseudoaneurysm
+»CT angiogram:
+may demonstrate
+double lumen in
+artery, evidence of
+intramural hematoma or
+pseudoaneurysm
+»carotid ultrasound
+with color doppler:
+may demonstrate
+arterial dissection
+Not usually
+recommended as an
+initial investigation.
+Ultrasound with color
+doppler is operator
+dependent and
+sensitivity varies
+depending on artery
+involved.[41][43]
+Paraneoplastic cerebellar degeneration
+History Exam 1st Test Other tests
+history of cancer of the
+ovary, breast, or lung,
+or history of Hodgkin
+lymphoma; dizziness,
+nausea and vomiting,
+gait instability, altered
+speech, and dysphagia
+nystagmus,
+ocular dysmetria,
+abnormalities of
+pursuit, saccadic
+oscillations, and an
+ataxic gait ± features of
+the associated cancer
+»MRI brain:
+evidence of cerebellar
+degeneration
+CT scan or MRI may
+be performed. MRI is
+preferred.
+»CT scan brain:
+evidence of cerebellar
+degeneration
+CT scan or MRI may
+be performed. MRI is
+preferred.
+»CT scan or MRI
+of body: tumor
+demonstrated
+»anti-Yo and anti-
+Tr autoantibodies:
+positive
+These may be positive
+years before tumor
+detection. Anti-Tr
+antibody is associated
+with Hodgkin disease.
+»biopsies of
+accessible lesions:
+neoplasm detected
+This is necessary if the
+cancer diagnosis has
+not yet been made.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Idiopathic intracranial hypertension
+History Exam 1st Test Other tests
+often obese;
+headaches and
+transient episodes of
+poor vision; dizziness
+and tinnitus
+papilledema on
+fundoscopy; some have
+bilateral 6th nerve palsy
+»MRI brain: slit-like
+ventricles demonstrated
+»Visual field testing:
+visual field defects;
+enlarged blind spot,
+inferonasal loss, other
+nerve fiber bundle
+defects, or constriction
+of the field
+»lumbar puncture
+and measurement of
+cerebrospinal fluid
+(CSF) pressure: CSF
+pressure elevated
+Performed after
+excluding intracranial
+mass lesions.
+◊ Normal pressure hydrocephalus
+History Exam 1st Test Other tests
+history of abnormal
+balance, urinary
+incontinence, and
+cognitive dysfunction
+ataxic gait, cognitive
+dysfunction
+»MRI brain: normal »lumbar puncture
+and measurement
+of cerebrospinal
+fluid (CSF) pressure:
+normal CSF pressure
+Lumbar puncture
+may be diagnostic if
+symptoms improve.
+»cisternography:
+no blockage of the
+cerebral aqueduct or of
+CSF outflow from the
+fourth ventricle
+◊ Mal de debarquement syndrome
+History Exam 1st Test Other tests
+swinging, swaying,
+unsteadiness, and
+disequilibrium after
+exposure to motion
+(e.g., long voyage,
+air travel); symptoms
+may last for hours,
+months, or years;
+symptoms occur after
+disembarking; not
+associated with nausea
+or vomiting
+usually normal »pure-tone
+audiogram: normal
+pattern
+»electronystagmography:
+normal
+Performed to rule out
+vestibular pathology.
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Evaluation of dizziness Diagnosis
+Uncommon
+◊ Psychophysiological dizziness
+History Exam 1st Test Other tests
+a variety of symptoms
+such as rocking,
+floating, or swimming
+sensations; symptoms
+may worsen with stress
+or fatigue
+anxious, may be
+hyperventilating, normal
+clinical balance tests
+»hospital anxiety
+and depression
+scale: may be
+abnormally high (>8)
+◊ Psychogenic dizziness
+History Exam 1st Test Other tests
+dizziness on standing
+and walking; may
+demonstrate anxiety
+reactions and
+avoidance behavior
+to specific stimuli;
+may be history
+of panic disorder
+with agoraphobia,
+personality disorders,
+or generalized anxiety;
+inappropriate or
+excessive anxiety or
+fear
+normal clinical balance
+tests
+»hospital anxiety
+and depression
+scale score:
+abnormally high (>8)
+◊ Systemic lupus erythematosus (SLE)
+History Exam 1st Test Other tests
+history of SLE,
+photosensitive rash,
+fatigue, weight loss,
+alopecia, joint pain,
+symptoms of vertigo ±
+hearing loss
+clinical features of
+SLE: malar rash,
+discoid rash, oral
+ulcers, hypertension,
+peripheral edema,
+retinal vasculitis
+»antinuclear
+antibodies (ANA),
+anti-double-
+stranded DNA
+antibodies, anti-
+Smith antibodies:
+ANA titre ≥1:80; anti-
+double-stranded DNA
+antibodies or anti-Smith
+antibodies positive[141]
+Performed if diagnosis
+of SLE has not already
+been made.
+»electronystagmography:
+abnormal
+»MRI brain: may
+demonstrate white
+matter lesions or
+cerebral atrophy[148]
+Described as the initial
+presentation in some
+patients.[149]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Cogan syndrome
+History Exam 1st Test Other tests
+history of photophobia,
+ocular discomfort,
+lacrimation, fluctuating
+hearing loss, imbalance
+or vertigo
+ocular redness »pure-tone
+audiogram:
+sensorineural hearing-
+loss pattern
+May fluctuate.
+»slit-lamp exam: may
+demonstrate features
+of interstitial keratitis,
+uveitis, episcleritis, or
+scleritis
+»fluorescent
+treponemal
+antibodies
+absorption test:
+negative
+Nonsyphilitic interstitial
+keratitis is a key
+diagnostic feature of
+Cogan syndrome[150]
+◊ Granulomatosis with polyangiitis (formerly known as Wegener
+granulomatosis)
+History Exam 1st Test Other tests
+dizziness or vertigo,
+hearing loss, facial
+weakness; may
+have symptoms of
+nasal involvement
+with excessive nasal
+crusting, epistaxis
+or nasal discharge;
+lower respiratory tract
+symptoms of dyspnea,
+cough, hemoptysis
+or chest pain; fever,
+night sweats, anorexia,
+weight loss, malaise;
+neurologic symptoms
+of numbness, focal
+weakness or headache;
+ocular symptoms
+of redness, pain,
+diplopia, visual blurring;
+arthralgia, myalgia or
+joint swelling; purpuric,
+nodular, hemorrhagic or
+ulcerative skin lesions
+serous otitis media
+(tympanic membrane
+retracted or concave,
+with impaired mobility),
+facial palsy, nasal
+lesions or upper
+respiratory tract
+mucosal bleeding,
+ulceration or crusting;
+may have septal
+perforation or saddle
+nose deformity; may
+have crackles, focal
+dullness to percussion
+or rhonchi; fever;
+mononeuritis multiplex;
+red eye, proptosis,
+reduced visual acuity,
+retinal exudates
+and hemorrhage;
+palpable purpura,
+cutaneous nodules,
+hemorrhagic and
+ulcerative skin lesions;
+joint tenderness or
+swelling, muscle
+weakness
+»antineutrophil
+cytoplasmic
+antibody (ANCA):
+positive
+»biopsy of lesions
+for histology:
+granulomatous
+inflammation, necrosis
+and vasculitis;
+minimal/absent
+immune deposits on
+immunofluorescence
+and electron
+microscopy
+»Urinalysis and
+urine microscopy:
+may show hematuria,
+proteinuria; dysmorphic
+red blood cells, RBC
+casts
+Indicated in all patients
+with suspected disease.
+They reveal the earliest
+indication of renal
+involvement, detectable
+prior to elevated serum
+creatinine.
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Evaluation of dizziness Diagnosis
+Uncommon
+◊ Granulomatosis with polyangiitis (formerly known as Wegener
+granulomatosis)
+History Exam 1st Test Other tests
+»CT chest: lung
+nodules (which may
+cavitate); infiltrates
+Indicated in all patients
+with suspected disease,
+as lung involvement is
+asymptomatic in one
+third of patients.
+◊ Behcet disease
+History Exam 1st Test Other tests
+recurrent genital and
+oral ulceration, eye
+pain, photophobia,
+blurred vision,
+headache, hearing
+impairment, tinnitus,
+dizziness
+genital ulcers, oral
+ulcers, red eye, acne
+lesions, erythema
+nodosum, superficial
+thrombophlebitis
+»none: diagnosis
+is based on clinical
+criteria[151]
+Carbon monoxide poisoning
+History Exam 1st Test Other tests
+may be history of
+suspected accidental
+exposure from
+residential boilers,
+central heating
+systems, cookers,
+fireplaces, and
+chimneys; often
+nonspecific symptoms,
+such as vertigo,
+headaches, impaired
+concentration,
+presyncope, angina,
+shortness of breath,
+nausea and vomiting,
+fatigue[108]
+may be normal; flushed
+cheeks, tachycardia,
+hypotension
+»carboxyhemoglobin
+level: elevated
+»chest x-ray: may be
+signs of noncardiogenic
+pulmonary edema
+»ECG: may be
+tachycardia,
+arrhythmias, features of
+cardiac ischemia
+»blood glucose: may
+be elevated
+»lactate: may be
+elevated in severe
+poisoning
+»cardiac
+biomarkers: may be
+elevated
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Evaluation of dizziness Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Postsurgery
+History Exam 1st Test Other tests
+history of a surgical
+procedure (e.g.,
+stapedectomy, middle-
+ear surgery, or cochlear
+implantation)
+positive fistula test »pure-tone
+audiogram: elevated
+hearing thresholds or
+severe-to-profound
+hearing-loss pattern
+Poststapedectomy or
+middle-ear surgery
+hearing loss.
+»exploratory
+tympanotomy:
+perilymphatic fistula
+may be present at the
+round or oval window
+Poststapedectomy
+patients.
+Secondary syphilis
+History Exam 1st Test Other tests
+hearing loss or vertigo
+with or without other
+variable symptoms
+(e.g., malaise,
+myalgia, rash); late
+neurosyphilis: may
+present with hearing
+loss, fluctuating
+hearing, or dizziness
+or vertigo with or
+without other variable
+symptoms (e.g.,
+personality change,
+altered mood, loss
+of anal and bladder
+sphincter control)
+variable signs, including
+lymphadenopathy, rash,
+mucosal ulceration
+with or without signs
+of more specific organ
+involvement (e.g.,
+uveitis, meningism,
+seizures, nephrotic
+syndrome); late
+neurosyphilis:
+signs of tabes
+dorsalis (e.g., ataxia,
+Argyll-Robertson
+pupils, areflexia,
+loss of vibration/
+proprioception, positive
+Romberg sign), may
+have signs of memory
+impairment, confusion,
+tremor
+»treponemal-
+specific serology:
+positive
+Tests may be
+treponemal enzyme
+immunoassay, 
+Treponema pallidum 
+particle agglutination
+assay,  T pallidum 
+hemagglutination
+assay, fluorescent
+antibody absorption, or
+immunocapture assay.
+Remain positive
+lifelong in the presence
+of current or past
+infection.
+As false positive results
+for treponemal tests
+are possible, a positive
+result should be
+confirmed by another
+type of treponemal test.
+»nontreponemal
+serology: positive
+Nontreponemal tests
+include the Venereal
+»caloric test:
+abnormal
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Evaluation of dizziness Diagnosis
+Uncommon
+Secondary syphilis
+History Exam 1st Test Other tests
+Disease Research
+Laboratory test, the
+rapid plasma reagin
+test, or cardiolipin-
+based tests.
+»pure-tone
+audiogram:
+sensorineural hearing-
+loss pattern
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Evaluation of dizziness References
+REFERENCES
+Key articles
+• Bhattacharyya N, Gubbels SP, Schwartz SR, et al. Clinical practice guideline: benign paroxysmal
+positional vertigo (update). Otolaryngol Head Neck Surg. 2017 Mar;156(suppl 3):S1-47. Abstract
+• Basura GJ, Adams ME, Monfared A, et al. Clinical practice guideline: Ménière's disease.
+Otolaryngol Head Neck Surg. 2020 Apr;162(2_suppl):S1-55.  Full text (https://aao-
+hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599820909438)   Abstract
+• American College of Radiology. ACR appropriateness criteria: dizziness and ataxia. 2023 [internet
+publication].  Full text (https://acsearch.acr.org/docs/69477/Narrative)
+• American College of Radiology. ACR Appropriateness Criteria: hearing loss and/or vertigo. 2018
+[internet publication].  Full text (https://acsearch.acr.org/docs/69488/Narrative)
+• Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and
+management of patients with syncope: a report of the American College of Cardiology/American
+Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+Circulation. 2017 Aug 1;136(5):e60-122.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIR.0000000000000499)
+References
+1. Bisdorff A, Von Brevern M, Lempert T, et al. Classification of vestibular symptoms: towards an
+international classification of vestibular disorders. J Vestib Res. 2009;19(1-2):1-13.  Full text
+(https://content.iospress.com/download/journal-of-vestibular-research/ves00343?id=journal-of-
+vestibular-research%2Fves00343)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19893191?
+tool=bestpractice.bmj.com)
+2. Kerber KA, Callaghan BC, Telian SA, et al. Dizziness symptom type prevalence and overlap: a US
+nationally representative survey. Am J Med. 2017 Dec;130(12):1465;e1-1465;e9.  Full text (https://
+www.amjmed.com/article/S0002-9343(17)30714-3/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28739195?tool=bestpractice.bmj.com)
+3. Karatas M. Central vertigo and dizziness: epidemiology, differential diagnosis, and common causes.
+Neurologist. 2008 Nov;14(6):355-64. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19008741?
+tool=bestpractice.bmj.com)
+4. Balatsouras DG, Koukoutsis G, Fassolis A, et al. Benign paroxysmal positional vertigo in the elderly:
+current insights. Clin Interv Aging. 2018 Nov 5;13:2251-66.  Full text (https://www.dovepress.com/
+benign-paroxysmal-positional-vertigo-in-the-elderly-current-insights-peer-reviewed-fulltext-article-CIA)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30464434?tool=bestpractice.bmj.com)
+5. Bösner S, Schwarm S, Grevenrath P, et al. Prevalence, aetiologies and prognosis of the symptom
+dizziness in primary care - a systematic review. BMC Fam Pract. 2018 Feb 20;19(1):33.  Full
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Evaluation of dizziness References
+text (https://www.doi.org/10.1186/s12875-017-0695-0)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29458336?tool=bestpractice.bmj.com)
+6. Spiegel R, Kirsch M, Rosin C, et al. Dizziness in the emergency department: an update on diagnosis.
+Swiss Med Wkly. 2017 Dec 27;147:w14565. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29282699?
+tool=bestpractice.bmj.com)
+7. Kaski D, Agarwal K, Murdin L. Acute vertigo. BMJ. 2019 Sep 12;366:l5215.  Full text (https://
+www.doi.org/10.1136/bmj.l5215)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31515203?
+tool=bestpractice.bmj.com)
+8. Newman-Toker DE, Edlow JA. TiTrATE: a novel, evidence-based approach to diagnosing acute
+dizziness and vertigo. Neurol Clin. 2015 Aug;33(3):577-99;viii.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC4522574)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26231273?
+tool=bestpractice.bmj.com)
+9. Prokopakis EP, Chimona T, Tsagournisakis M, et al. Benign paroxysmal positional vertigo: 10-
+year experience in treating 592 patients with canalith repositioning procedure. Laryngoscope.
+2005 Sep;115(9):1667-71. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16148714?
+tool=bestpractice.bmj.com)
+10. Bhattacharyya N, Gubbels SP, Schwartz SR, et al. Clinical practice guideline: benign paroxysmal
+positional vertigo (update). Otolaryngol Head Neck Surg. 2017 Mar;156(suppl 3):S1-47. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/28248609?tool=bestpractice.bmj.com)
+11. Neuhauser HK, Lempert T. Vertigo: epidemiologic aspects. Semin Neurol. 2009 Nov;29(5):473-81.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19834858?tool=bestpractice.bmj.com)
+12. Dommaraju S, Perera E. An approach to vertigo in general practice. Aust Fam Physician. 2016
+Apr;45(4):190-4.  Full text (https://www.racgp.org.au/afp/2016/april/an-approach-to-vertigo-in-general-
+practice)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27052132?tool=bestpractice.bmj.com)
+13. Ekdale EG. Form and function of the mammalian inner ear. J Anat. 2016 Feb;228(2):324-37.  Full text
+(https://www.doi.org/10.1111/joa.12308)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25911945?
+tool=bestpractice.bmj.com)
+14. Lieberthal AS, Carroll AE, Chonmaitree T, et al. The diagnosis and management of acute otitis media.
+Pediatrics. 2013 Mar;131(3):e964-99.  Full text (https://www.doi.org/10.1542/peds.2012-3488)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23439909?tool=bestpractice.bmj.com)
+15. Basura GJ, Adams ME, Monfared A, et al. Clinical practice guideline: Ménière's disease.
+Otolaryngol Head Neck Surg. 2020 Apr;162(2_suppl):S1-55.  Full text (https://aao-
+hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599820909438)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32267799?tool=bestpractice.bmj.com)
+16. Watanabe Y, Mizukoshi K, Shojaku H, et al. Epidemiological and clinical characteristics of Menière's
+disease in Japan. Acta Otolaryngol Suppl. 1995;519:206-10. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7610869?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Evaluation of dizziness References
+REFERENCES
+17. Harris JP, Alexander TH. Current-day prevalence of Ménière's syndrome. Audiol
+Neurootol. 2010;15(5):318-22. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20173319?
+tool=bestpractice.bmj.com)
+18. Murdin L, Schilder AG. Epidemiology of balance symptoms and disorders in the community: a
+systematic review. Otol Neurotol. 2015 Mar;36(3):387-92. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25548891?tool=bestpractice.bmj.com)
+19. Paparella MM, Djalilian HR. Etiology, pathophysiology of symptoms, and pathogenesis of Meniere's
+disease. Otolaryngol Clin North Am. 2002 Jun;35(3):529-45;vi. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12486838?tool=bestpractice.bmj.com)
+20. Grant IL, Welling DB. The treatment of hearing loss in Meniere's disease. Otolaryngol Clin
+North Am. 1997 Dec;30(6):1123-44. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9386248?
+tool=bestpractice.bmj.com)
+21. Paparella MM. Pathogenesis and pathophysiology of Meniére's disease. Acta Otolaryngol Suppl.
+1991;485:26-35. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1843169?tool=bestpractice.bmj.com)
+22. Lee CS, Paparella MM, Margolis RH, et al. Audiological profiles and Menière's disease. Ear
+Nose Throat J. 1995 Aug;74(8):527-32. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7555870?
+tool=bestpractice.bmj.com)
+23. Steenerson KK, Crane BT, Minor LB. Superior semicircular canal dehiscence syndrome. Semin
+Neurol. 2020 Feb;40(1):151-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31986544?
+tool=bestpractice.bmj.com)
+24. Deveze A, Matsuda H, Elziere M, et al. Diagnosis and treatment of perilymphatic fistula. Adv
+Otorhinolaryngol. 2018;81:133-45. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29794455?
+tool=bestpractice.bmj.com)
+25. Burggraaff B, Luxford WM, Doyle KJ. Neurotologic treatment of acquired cholesteatoma.
+Am J Otol. 1995 Jul;16(4):480-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8588649?
+tool=bestpractice.bmj.com)
+26. Yung M, Tono T, Olszewska E, et al. EAONO/JOS joint consensus statements on the definitions,
+classification and staging of middle ear cholesteatoma. J Int Adv Otol. 2017 Apr;13(1):1-8. 
+Full text (https://advancedotology.org/en/eaono-jos-joint-consensus-statements-on-the-
+definitions-classification-and-staging-of-middle-ear-cholesteatoma-162354)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28059056?tool=bestpractice.bmj.com)
+27. Holle D, Schulte-Steinberg B, Wurthmann S, et al. Persistent postural-perceptual dizziness:
+a matter of higher, central dysfunction? PLoS One. 2015;10(11):e0142468.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4646356)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26569392?tool=bestpractice.bmj.com)
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Evaluation of dizziness References
+28. Li K, Si L, Cui B, et al. Altered spontaneous functional activity of the right precuneus and cuneus in
+patients with persistent postural-perceptual dizziness. Brain Imaging Behav. 2020 Dec;14(6):2176-86.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31313022?tool=bestpractice.bmj.com)
+29. Cao Z, Liu X, Ju Y, et al. Neuroimaging studies in persistent postural-perceptual dizziness
+and related disease: a systematic review. J Neurol. 2022 Mar;269(3):1225-35. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34019178?tool=bestpractice.bmj.com)
+30. Staab JP, Eckhardt-Henn A, Horii A, et al. Diagnostic criteria for persistent postural-perceptual
+dizziness (PPPD): consensus document of the committee for the Classification of Vestibular Disorders
+of the Bárány Society. J Vestib Res. 2017;27(4):191-208.  Full text (https://content.iospress.com/
+articles/journal-of-vestibular-research/ves622)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29036855?tool=bestpractice.bmj.com)
+31. Shen Y, Qi X. Update on diagnosis and differential diagnosis of vestibular migraine. Neurol
+Sci. 2022 Mar;43(3):1659-66. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35015204?
+tool=bestpractice.bmj.com)
+32. Headache Classification Committee of the International Headache Society (IHS).
+The international classification of headache disorders, 3rd edition. Cephalalgia. 2018
+Jan;38(1):1-211.  Full text (https://journals.sagepub.com/doi/full/10.1177/0333102417738202?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29368949?tool=bestpractice.bmj.com)
+33. Beh SC, Masrour S, Smith SV, et al. The spectrum of vestibular migraine: clinical features, triggers,
+and examination findings. Headache. 2019 May;59(5):727-40. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30737783?tool=bestpractice.bmj.com)
+34. National Institute for Health and Care Excellence (UK). Suspected neurological conditions: recognition
+and referral. July 2019 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng127)
+35. Feil K, Strobl R, Schindler A, et al. What is behind cerebellar vertigo and dizziness?
+Cerebellum. 2019 Jun;18(3):320-32. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30552638?
+tool=bestpractice.bmj.com)
+36. Di Stadio A, Dipietro L, Ralli M, et al. The role of vestibular evoked myogenic potentials in multiple
+sclerosis-related vertigo. A systematic review of the literature. Mult Scler Relat Disord. 2019
+Feb;28:159-64. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30599428?tool=bestpractice.bmj.com)
+37. Schulz UG, Fischer U. Posterior circulation cerebrovascular syndromes: diagnosis and management.
+J Neurol Neurosurg Psychiatry. 2017 Jan;88(1):45-53. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27071644?tool=bestpractice.bmj.com)
+38. Jain SK, Gupta AK, Agarwal N. Wallenberg's lateral medullary syndrome. Postgrad Med J. 2002
+Oct;78(924):618. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12415087?tool=bestpractice.bmj.com)
+39. Lima Neto AC, Bittar R, Gattas GS, et al. Pathophysiology and diagnosis of vertebrobasilar
+insufficiency: a review of the literature. Int Arch Otorhinolaryngol. 2017 Jul;21(3):302-7.  Full text
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Evaluation of dizziness References
+REFERENCES
+(https://www.thieme-connect.de/products/ejournals/html/10.1055/s-0036-1593448)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28680502?tool=bestpractice.bmj.com)
+40. Gottesman RF, Sharma P, Robinson KA, et al. Clinical characteristics of symptomatic vertebral
+artery dissection: a systematic review. Neurologist. 2012 Sep;18(5):245-54. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22931728?tool=bestpractice.bmj.com)
+41. Yaghi S, Engelter S, Del Brutto VJ, et al. Treatment and outcomes of cervical artery dissection in
+adults: a scientific statement from the American Heart Association. Stroke. 2024 Mar;55(3):e91-106. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000457)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38299330?tool=bestpractice.bmj.com)
+42. Cadena R. Cervical artery dissection: early recognition and stroke prevention. Emerg Med Pract. 2016
+Jul;18(7):1-24. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27315017?tool=bestpractice.bmj.com)
+43. Blum CA, Yaghi S. Cervical artery dissection: a review of the epidemiology, pathophysiology,
+treatment, and outcome. Arch Neurosci. 2015 Oct;2(4):e26670.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4604565)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26478890?tool=bestpractice.bmj.com)
+44. Guerra Jiménez G, Mazón Gutiérrez Á, Marco de Lucas E, et al. Audio-vestibular signs and
+symptoms in Chiari malformation type i. Case series and literature review [in English, Spanish].
+Acta Otorrinolaringol Esp. 2015 Jan-Feb;66(1):28-35. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25195076?tool=bestpractice.bmj.com)
+45. Unal M, Bagdatoglu C. Arnold-Chiari type I malformation presenting as benign paroxysmal
+positional vertigo in an adult patient. J Laryngol Otol. 2007 Mar;121(3):296-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17166331?tool=bestpractice.bmj.com)
+46. Stevens SM, Rizk HG, Golnik K, et al. Idiopathic intracranial hypertension: contemporary review
+and implications for the otolaryngologist. Laryngoscope. 2018 Jan;128(1):248-56. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28349571?tool=bestpractice.bmj.com)
+47. Williams MA, Malm J. Diagnosis and treatment of idiopathic normal pressure hydrocephalus.
+Continuum (Minneap Minn). 2016 Apr;22(2 Dementia):579-99.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC5390935)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27042909?
+tool=bestpractice.bmj.com)
+48. Ropper AH. Neurosyphilis. N Engl J Med. 2019 Oct 3;381(14):1358-63. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31577877?tool=bestpractice.bmj.com)
+49. Luo X, Lv M, Zhang X, et al. Clinical manifestations of COVID-19: an overview of 102 systematic
+reviews with evidence mapping. J Evid Based Med. 2022 Sep;15(3):201-15.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC9353366)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35909298?tool=bestpractice.bmj.com)
+50. Korres G, Kitsos DK, Kaski D, et al. The prevalence of dizziness and vertigo in COVID-19
+patients: a systematic review. Brain Sci. 2022 Jul 20;12(7):948.  Full text (https://
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Evaluation of dizziness References
+www.mdpi.com/2076-3425/12/7/948)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35884754?
+tool=bestpractice.bmj.com)
+51. Maarsingh OR, Dros J, Schellevis FG, et al. Causes of persistent dizziness in elderly patients in
+primary care. Ann Fam Med. 2010 May-Jun;8(3):196-205.  Full text (https://www.doi.org/10.1370/
+afm.1116)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20458102?tool=bestpractice.bmj.com)
+52. Newman-Toker DE, Dy FJ, Stanton VA, et al. How often is dizziness from primary cardiovascular
+disease true vertigo? A systematic review. J Gen Intern Med. 2008 Dec;23(12):2087-94.  Full
+text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2596492/?tool=pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18843523?tool=bestpractice.bmj.com)
+53. Kim HA, Bisdorff A, Bronstein AM, et al. Hemodynamic orthostatic dizziness/vertigo: diagnostic
+criteria. J Vestib Res. 2019;29(2-3):45-56.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC9249281)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30883381?tool=bestpractice.bmj.com)
+54. Thiruganasambandamoorthy V, Stiell IG, Wells GA, et al. Outcomes in presyncope patients:
+a prospective cohort study. Ann Emerg Med. 2015 Mar;65(3):268-76;e6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25182542?tool=bestpractice.bmj.com)
+55. Frith J. Diagnosing orthostatic hypotension: a narrative review of the evidence. Br Med
+Bull. 2015 Sep;115(1):123-34. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25995335?
+tool=bestpractice.bmj.com)
+56. Cowie DA, Shoemaker JK, Gelb AW. Orthostatic hypotension occurs frequently in the first hour
+after anesthesia. Anesth Analg. 2004 Jan;98(1):40-5.  Full text (http://journals.lww.com/anesthesia-
+analgesia/Fulltext/2004/01000/Orthostatic_Hypotension_Occurs_Frequently_in_the.10.aspx)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/14693580?tool=bestpractice.bmj.com)
+57. Juraschek SP, Daya N, Rawlings AM, et al. Association of history of dizziness and long-term adverse
+outcomes with early vs later orthostatic hypotension assessment times in middle-aged adults. JAMA
+Intern Med. 2017 Sep 1;177(9):1316-23. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28738139?
+tool=bestpractice.bmj.com)
+58. Ponnusamy V, Owens AP, Purkayastha S, et al. Orthostatic intolerance and autonomic dysfunction
+following bariatric surgery: a retrospective study and review of the literature. Auton Neurosci. 2016
+Jul;198:1-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27292926?tool=bestpractice.bmj.com)
+59. Krahn AD, Klein GJ, Yee R, et al. Predictive value of presyncope in patients monitored for
+assessment of syncope. Am Heart J. 2001 May;141(5):817-21. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11320372?tool=bestpractice.bmj.com)
+60. Bogle JM, Goodman BP, Barrs DM. Postural orthostatic tachycardia syndrome for the otolaryngologist.
+Laryngoscope. 2017 May;127(5):1195-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27578452?
+tool=bestpractice.bmj.com)
+61. Pfortmueller CA, Pauchard-Neuwerth SE, Leichtle AB, et al. Primary hyperventilation in
+the emergency department: a first overview. PLoS One. 2015;10(6):e0129562.  Full text
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Evaluation of dizziness References
+REFERENCES
+(https://www.doi.org/10.1371/journal.pone.0129562)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26110771?tool=bestpractice.bmj.com)
+62. Holmberg J, Karlberg M, Harlacher U, et al. One-year follow-up of cognitive behavioral therapy for
+phobic postural vertigo. J Neurol. 2007 Sep;254(9):1189-92. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17676355?tool=bestpractice.bmj.com)
+63. American Diabetes Association Professional Practice Committee. 6. Glycemic goals
+and hypoglycemia: standards of care in diabetes-2025. Diabetes Care. 2025 Jan
+1;48(Supplement_1):S128-45.  Full text (https://diabetesjournals.org/care/article/48/
+Supplement_1/S128/157561/6-Glycemic-Goals-and-Hypoglycemia-Standards-of)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/39651981?tool=bestpractice.bmj.com)
+64. Hepburn DA, Deary IJ, MacLeod KM, et al. Structural equation modeling of symptoms, awareness
+and fear of hypoglycemia, and personality in patients with insulin-treated diabetes. Diabetes Care.
+1994 Nov;17(11):1273-80.  Full text (https://diabetesjournals.org/care/article/17/11/1273/19380/
+Structural-Equation-Modeling-of-Symptoms-Awareness)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7821167?tool=bestpractice.bmj.com)
+65. Aranda C, Meza A, Rodriguez R, et al. Diabetic polyneuropathy may increase the handicap related
+to vestibular disease. Arch Med Res. 2009 Apr;40(3):180-5. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19427968?tool=bestpractice.bmj.com)
+66. Karatas E, Onat AM, Durucu C, et al. Audiovestibular disturbance in patients with systemic
+lupus erythematosus. Otolaryngol Head Neck Surg. 2007 Jan;136(1):82-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17210339?tool=bestpractice.bmj.com)
+67. Di Stadio A, Ralli M. Systemic lupus erythematosus and hearing disorders: literature review and meta-
+analysis of clinical and temporal bone findings. J Int Med Res. 2017 Oct;45(5):1470-80.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5718712)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28345423?tool=bestpractice.bmj.com)
+68. Magill CK, Hullar TE. Serologic studies. In: Goebel JA, ed. Practical management of the dizzy patient.
+2nd ed. Philadelphia, PA: Lippincott Williams and Wilkins; 2008:221-33.
+69. Lynch JP, Tazelaar H. Wegener granulomatosis (granulomatosis with polyangiitis): evolving
+concepts in treatment. Semin Respir Crit Care Med. 2011 Jun;32(3):274-97. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21674414?tool=bestpractice.bmj.com)
+70. Girasoli L, Cazzador D, Padoan R, et al. Update on vertigo in autoimmune disorders, from diagnosis
+to treatment. J Immunol Res. 2018 Sep 26;2018:5072582.  Full text (https://www.hindawi.com/
+journals/jir/2018/5072582)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30356417?
+tool=bestpractice.bmj.com)
+71. Lanvers-Kaminsky C, Zehnhoff-Dinnesen AA, Parfitt R, et al. Drug-induced ototoxicity: mechanisms,
+pharmacogenetics, and protective strategies. Clin Pharmacol Ther. 2017 Apr;101(4):491-500. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/28002638?tool=bestpractice.bmj.com)
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Evaluation of dizziness References
+72. Bath AP, Walsh RM, Bance ML, et al. Ototoxicity of topical gentamicin preparations. Laryngoscope.
+1999 Jul;109(7 pt 1):1088-93. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10401847?
+tool=bestpractice.bmj.com)
+73. Bitner-Glindzicz M, Rahman S. Ototoxicity caused by aminoglycosides. BMJ. 2007
+Oct 20;335(7624):784-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17947747?
+tool=bestpractice.bmj.com)
+74. Bates DE, Beaumont SJ, Baylis BW. Ototoxicity induced by gentamicin and furosemide. Ann
+Pharmacother. 2002 Mar;36(3):446-51. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11895059?
+tool=bestpractice.bmj.com)
+75. Ramma L, Schellack N, Heinze B. Prevention of treatment-induced ototoxicity: an update for clinicians.
+S Afr Med J. 2019;109(3):145-9.  Full text (http://www.samj.org.za/index.php/samj/article/view/12560)
+76. Chovanec M, Abu Zaid M, Hanna N, et al. Long-term toxicity of cisplatin in germ-cell tumor survivors.
+Ann Oncol. 2017 Nov 1;28(11):2670-9.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC6246726)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29045502?tool=bestpractice.bmj.com)
+77. Sirven JI, Fife TD, Wingerchuk DM, et al. Second-generation antiepileptic drugs' impact on balance:
+a meta-analysis. Mayo Clin Proc. 2007 Jan;82(1):40-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17285784?tool=bestpractice.bmj.com)
+78. Pont L, Alhawassi T. Challenges in the management of hypertension in older populations. Adv
+Exp Med Biol. 2017;956:167-80. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27815929?
+tool=bestpractice.bmj.com)
+79. Rivasi G, Rafanelli M, Mossello E, et al. Drug-related orthostatic hypotension: beyond
+anti-hypertensive medications. Drugs Aging. 2020 Oct;37(10):725-38.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC7524811)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32894454?tool=bestpractice.bmj.com)
+80. Wu PE, Juurlink DN. Carbon monoxide poisoning. CMAJ. 2014 May 13;186(8):611.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4016057)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24396094?tool=bestpractice.bmj.com)
+81. Elzière M, Devèze A, Bartoli C, et al. Post-traumatic balance disorder. Eur Ann Otorhinolaryngol
+Head Neck Dis. 2017 May;134(3):171-5.  Full text (https://www.sciencedirect.com/science/article/
+pii/S1879729616301909?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27964839?
+tool=bestpractice.bmj.com)
+82. Dwyer B, Katz DI. Postconcussion syndrome. Handb Clin Neurol. 2018;158:163-78. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30482344?tool=bestpractice.bmj.com)
+83. Kattah JC, Talkad AV, Wang DZ, et al. HINTS to diagnose stroke in the acute vestibular syndrome:
+three-step bedside oculomotor examination more sensitive than early MRI diffusion-weighted imaging.
+Stroke. 2009 Nov;40(11):3504-10.  Full text (http://stroke.ahajournals.org/content/40/11/3504.long)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19762709?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Evaluation of dizziness References
+REFERENCES
+84. Ohle R, Montpellier RA, Marchadier V, et al. Can emergency physicians accurately rule out a central
+cause of vertigo using the HINTS examination? A systematic review and meta-analysis. Acad Emerg
+Med. 2020 Sep;27(9):887-96.  Full text (https://onlinelibrary.wiley.com/doi/10.1111/acem.13960)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32167642?tool=bestpractice.bmj.com)
+85. Edlow JA. Diagnosing patients with acute-onset persistent dizziness. Ann Emerg Med. 2018
+May;71(5):625-31.  Full text (https://www.annemergmed.com/article/S0196-0644(17)31795-X/fulltext)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29174835?tool=bestpractice.bmj.com)
+86. Powers WJ, Rabinstein AA, Ackerson T, et al. 2018 guidelines for the early management of
+patients with acute ischemic stroke: a guideline for healthcare professionals from the American
+Heart Association/American Stroke Association. Stroke. 2018 Mar;49(3):e46-110.  Full text
+(https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000158?rfr_dat=cr_pub
+++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29367334?tool=bestpractice.bmj.com)
+87. National Institute for Health and Care Excellence (UK). Stroke and transient ischaemic attack in
+over 16s: diagnosis and initial management. April 2022 [internet publication].  Full text (https://
+www.nice.org.uk/guidance/ng128)
+88. American College of Radiology. ACR appropriateness criteria: dizziness and ataxia. 2023 [internet
+publication].  Full text (https://acsearch.acr.org/docs/69477/Narrative)
+89. Expert Panel on Neurologic Imaging; Salmela MB, Mortazavi S, Jagadeesan BD, et al. ACR
+Appropriateness Criteria: cerebrovascular disease. J Am Coll Radiol. 2017 May;14(5S):S34-61. 
+Full text (https://www.jacr.org/article/S1546-1440(17)30210-7/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28473091?tool=bestpractice.bmj.com)
+90. Fukuhara K, Ogata T, Ouma S, et al. Impact of initial symptom for accurate diagnosis of vertebral
+artery dissection. Int J Stroke. 2015 Oct;(10 suppl A100):30-3. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26120954?tool=bestpractice.bmj.com)
+91. Hanning U, Sporns PB, Schmiedel M, et al. CT versus MR techniques in the detection of cervical
+artery dissection. J Neuroimaging. 2017 Nov;27(6):607-12. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28574627?tool=bestpractice.bmj.com)
+92. CADISS trial investigators; Markus HS, Hayter E, Levi C, et al. Antiplatelet treatment compared
+with anticoagulation treatment for cervical artery dissection (CADISS): a randomised trial. Lancet
+Neurol. 2015 Apr;14(4):361-7.  Full text (https://www.thelancet.com/journals/laneur/article/
+PIIS1474-4422(15)70018-9/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25684164?
+tool=bestpractice.bmj.com)
+93. Peng J, Liu Z, Luo C, et al. Treatment of Cervical Artery Dissection: Antithrombotics,
+Thrombolysis, and Endovascular Therapy. Biomed Res Int. 2017;2017:3072098.  Full text (https://
+www.doi.org/10.1155/2017/3072098)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28607929?
+tool=bestpractice.bmj.com)
+94. Jensen J, Salottolo K, Frei D, et al. Comprehensive analysis of intra-arterial treatment for acute
+ischemic stroke due to cervical artery dissection. J Neurointerv Surg. 2017 Jul;9(7):654-8.  Full text
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Evaluation of dizziness References
+(https://jnis.bmj.com/content/9/7/654)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27286992?
+tool=bestpractice.bmj.com)
+95. O'Connor RE, Al Ali AS, Brady WJ, et al. Part 9: Acute coronary syndromes: 2015 American Heart
+Association guidelines update for cardiopulmonary resuscitation and emergency cardiovascular
+care. Circulation. 2015 Nov 3;132(18 suppl 2):S483-500.  Full text (https://www.ahajournals.org/
+doi/10.1161/CIR.0000000000000263?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26472997?
+tool=bestpractice.bmj.com)
+96. National Institute for Health and Care Excellence (UK). Recent-onset chest pain of suspected cardiac
+origin: assessment and diagnosis. Nov 2016 [internet publication].  Full text (https://www.nice.org.uk/
+guidance/cg95)
+97. Collet JP, Thiele H, Barbato E, et al. 2020 ESC guidelines for the management of acute coronary
+syndromes in patients presenting without persistent ST-segment elevation. Eur Heart J. 2021 Apr
+7;42(14):1289-367.  Full text (https://academic.oup.com/eurheartj/article/42/14/1289/5898842?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32860058?tool=bestpractice.bmj.com)
+98. Writing Committee Members; Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/
+SAEM/SCCT/SCMR guideline for the evaluation and diagnosis of chest pain: a report of the
+American College of Cardiology/American Heart Association Joint Committee on clinical practice
+guidelines. J Am Coll Cardiol. 2021 Nov 30;78(22):e187-285.  Full text (https://www.sciencedirect.com/
+science/article/pii/S0735109721057958?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34756653?tool=bestpractice.bmj.com)
+99. Amsterdam EA, Wenger NK, Brindis RG, et al. 2014 AHA/ACC guideline for the management of
+patients with non-ST-elevation acute coronary syndromes: a report of the American College of
+Cardiology/American Heart Association Task Force on practice guidelines. Circulation. 2014 Dec
+23;130(25):e344-426.  Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000134?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25249585?tool=bestpractice.bmj.com)
+100. Thygesen K, Alpert JS, Jaffe AS, et al. Fourth universal definition of myocardial infarction (2018). J Am
+Coll Cardiol. 2018 Oct 30;72(18):2231-64.  Full text (https://www.sciencedirect.com/science/article/
+pii/S0735109718369419?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30153967?
+tool=bestpractice.bmj.com)
+101. Lawton JS, Tamis-Holland JE, Bangalore S, et al. 2021 ACC/AHA/SCAI guideline for coronary
+artery revascularization: a report of the American College of Cardiology/American Heart Association
+Joint Committee on clinical practice guidelines. Circulation. 2022 Jan 18;145(3):e18-114.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001038?rfr_dat=cr_pub
+++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34882435?tool=bestpractice.bmj.com)
+102. Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS guideline for the diagnosis
+and management of atrial fibrillation: a report of the American College of Cardiology/American Heart
+Association Joint Committee on clinical practice guidelines. Circulation. 2024 Jan 2;149(1):e1-156. 
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Evaluation of dizziness References
+REFERENCES
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001193)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38033089?tool=bestpractice.bmj.com)
+103. Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/HRS guideline on the evaluation
+and management of patients with bradycardia and cardiac conduction delay: a report of the
+American College of Cardiology/American Heart Association Task Force on clinical practice
+guidelines and the Heart Rhythm Society. Circulation. 2019 Aug 20;140(8):e382-482.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000628?rfr_dat=cr_pub
+++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30586772?tool=bestpractice.bmj.com)
+104. Konstantinides SV, Meyer G, Becattini C, et al. 2019 ESC guidelines for the diagnosis and
+management of acute pulmonary embolism developed in collaboration with the European Respiratory
+Society (ERS): the Task Force for the diagnosis and management of acute pulmonary embolism
+of the European Society of Cardiology (ESC). Eur Respir J. 2019 Sep;54(3):1901647.  Full text
+(https://www.doi.org/10.1183/13993003.01647-2019)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31473594?tool=bestpractice.bmj.com)
+105. O'Driscoll BR, Howard LS, Earis J, et al. BTS guideline for oxygen use in adults in healthcare
+and emergency settings. Thorax. 2017 Jun;72(suppl 1):ii1-90.  Full text (https://thorax.bmj.com/
+content/72/Suppl_1/ii1.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28507176?
+tool=bestpractice.bmj.com)
+106. Ashcroft J, Fraser E, Krishnamoorthy S, et al. Carbon monoxide poisoning. BMJ. 2019 Jun
+13;365:l2299.  Full text (https://www.bmj.com/content/365/bmj.l2299.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31197022?tool=bestpractice.bmj.com)
+107. Jüttner B, Busch HJ, Callies A, et al. S2k guideline diagnosis and treatment of carbon monoxide
+poisoning. Ger Med Sci. 2021 Nov 4;19:Doc13.  Full text (https://www.egms.de/static/en/
+journals/gms/2021-19/000300.shtml)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34867135?
+tool=bestpractice.bmj.com)
+108. Hampson NB, Piantadosi CA, Thom SR, et al. Practice recommendations in the diagnosis,
+management, and prevention of carbon monoxide poisoning. Am J Respir Crit Care Med.
+2012 Dec 1;186(11):1095-101. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23087025?
+tool=bestpractice.bmj.com)
+109. Jung I, Kim JS. Approach to dizziness in the emergency department. Clin Exp Emerg Med. 2015 Jun
+30;2(2):75-88.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5052860)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27752577?tool=bestpractice.bmj.com)
+110. Saber Tehrani AS, Kattah JC, Kerber KA, et al. Diagnosing stroke in acute
+dizziness and vertigo: pitfalls and pearls. Stroke. 2018 Mar;49(3):788-95.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.117.016979?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29459396?tool=bestpractice.bmj.com)
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Evaluation of dizziness References
+111. Staab JP. Persistent postural-perceptual dizziness. Semin Neurol. 2020 Feb;40(1):130-7. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/31935771?tool=bestpractice.bmj.com)
+112. Lindell E, Finizia C, Johansson M, et al. Asking about dizziness when turning in bed predicts
+examination findings for benign paroxysmal positional vertigo. J Vestib Res. 2018;28(3-4):339-47. 
+Full text (https://content.iospress.com/articles/journal-of-vestibular-research/ves637)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30149484?tool=bestpractice.bmj.com)
+113. Staab JP, Ruckenstein MJ, Solomon D, et al. Exertional dizziness and autonomic dysregulation.
+Laryngoscope. 2002 Aug;112(8 Pt 1):1346-50. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12172243?tool=bestpractice.bmj.com)
+114. Foley RW, Shirazi S, Maweni RM, et al. Signs and symptoms of acoustic neuroma at initial
+presentation: an exploratory analysis. Cureus. 2017 Nov 15;9(11):e1846.  Full text (https://
+www.cureus.com/articles/8787-signs-and-symptoms-of-acoustic-neuroma-at-initial-presentation-
+an-exploratory-analysis#!)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29348989?
+tool=bestpractice.bmj.com)
+115. Broomfield SJ, Bruce IA, Malla JV, et al. The dizzy patient. Clin Otolaryngol. 2008 Jun;33(3):223-7.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18559027?tool=bestpractice.bmj.com)
+116. Nachum Z, Shupak A, Letichevsky V, et al. Mal de debarquement and posture: reduced
+reliance on vestibular and visual cues. Laryngoscope. 2004 Mar;114(3):581-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15091239?tool=bestpractice.bmj.com)
+117. Susanto M. Dizziness: if not vertigo could it be cardiac disease? Aust Fam Physician. 2014
+May;43(5):264-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24791765?tool=bestpractice.bmj.com)
+118. Li V, McArdle H, Trip SA. Vestibular migraine. BMJ. 2019 Jul 3;366:l4213.  Full text (https://
+www.bmj.com/content/366/bmj.l4213.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31270067?
+tool=bestpractice.bmj.com)
+119. McDonald TJ, Vollersten RS, Younge BR. Cogan's syndrome: audiovestibular involvement and
+prognosis in 18 patients. Laryngoscope. 1985 Jun;95(6):650-4. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/3873592?tool=bestpractice.bmj.com)
+120. Staab JP, Rohe DE, Eggers SD, et al. Anxious, introverted personality traits in patients with chronic
+subjective dizziness. J Psychosom Res. 2014 Jan;76(1):80-3. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24360146?tool=bestpractice.bmj.com)
+121. Colledge NR, Barr-Hamilton RM, Lewis SJ, et al. Evaluation of investigations to diagnose
+the cause of dizziness in elderly people: a community based controlled study. BMJ. 1996
+Sep 28;313(7060):788-92.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2352174/
+pdf/bmj00561-0030.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8842072?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Evaluation of dizziness References
+REFERENCES
+122. Albera R, Canale A, Lacilla M, et al. Delayed vertigo after stapes surgery. Laryngoscope.
+2004 May;114(5):860-2. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15126744?
+tool=bestpractice.bmj.com)
+123. Fina M, Skinner M, Goebel JA, et al. Vestibular dysfunction after cochlear implantation. Otol
+Neurotol. 2003 Mar;24(2):234-42. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12621338?
+tool=bestpractice.bmj.com)
+124. Collantes MEV, Espiritu AI, Sy MCC, et al. Neurological manifestations in COVID-19
+infection: a systematic review and meta-analysis. Can J Neurol Sci. 2021 Jan;48(1):66-76. 
+Full text (https://www.cambridge.org/core/journals/canadian-journal-of-neurological-
+sciences/article/neurological-manifestations-in-covid19-infection-a-systematic-review-and-
+metaanalysis/3EA5B0B42211E2DFFE9BE37DA6E1F661)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32665054?tool=bestpractice.bmj.com)
+125. Cagnazzo F, Arquizan C, Derraz I, et al. Neurological manifestations of patients infected with the
+SARS-CoV-2: a systematic review of the literature. J Neurol. 2021 Aug;268(8):2656-65.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7597753)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33125542?tool=bestpractice.bmj.com)
+126. Vitalakumar D, Sharma A, Kumar A, et al. Neurological manifestations in COVID-19 patients: a
+meta-analysis. ACS Chem Neurosci. 2021 Aug 4;12(15):2776-97.  Full text (https://pubs.acs.org/
+doi/10.1021/acschemneuro.1c00353)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34260855?
+tool=bestpractice.bmj.com)
+127. Heaven DJ, Sutton R. Syncope. Crit Care Med. 2000 Oct;28(10 suppl):N116-20. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11055679?tool=bestpractice.bmj.com)
+128. Alabdujalil T, Behbehani R. Paraneoplastic syndromes in neuro-ophthalmology. Curr Opin
+Ophthalmol. 2007 Nov;18(6):463-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18162997?
+tool=bestpractice.bmj.com)
+129. Quimby AE, Kwok ESH, Lelli D, et al. Usage of the HINTS exam and neuroimaging in the
+assessment of peripheral vertigo in the emergency department. J Otolaryngol Head Neck Surg.
+2018 Sep 10;47(1):54.  Full text (https://www.doi.org/10.1186/s40463-018-0305-8)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30201056?tool=bestpractice.bmj.com)
+130. Halmagyi GM. Diagnosis and management of vertigo. Clin Med. 2005 Mar-Apr;5(2):159-65. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15847010?tool=bestpractice.bmj.com)
+131. Hamid MA. Contemporary neurovestibular physiologic assessment. Curr Opin Otolaryngol Head Neck
+Surg. 2000 Oct;8(5):391-7.
+132. Hanley K, O'Dowd T. Symptoms of vertigo in general practice: a prospective study of diagnosis.
+Br J Gen Pract. 2002 Oct;52(483):809-12.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC1316083/pdf/12392120.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12392120?
+tool=bestpractice.bmj.com)
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Evaluation of dizziness References
+133. Weinreich HM, Carey JP. Perilymphatic fistulas and superior semi-circular canal dehiscence
+syndrome. Adv Otorhinolaryngol. 2019;82:93-100. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30947173?tool=bestpractice.bmj.com)
+134. American College of Radiology. ACR Appropriateness Criteria: hearing loss and/or vertigo. 2018
+[internet publication].  Full text (https://acsearch.acr.org/docs/69488/Narrative)
+135. American College of Radiology. ACR Appropriateness Criteria: head trauma. 2020 [internet
+publication].  Full text (https://acsearch.acr.org/docs/69481/Narrative)
+136. Nakashima T, Naganawa S, Pyykko I, et al. Grading of endolymphatic hydrops using magnetic
+resonance imaging. Acta Otolaryngol. 2009 Feb;129(560):5-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19221900?tool=bestpractice.bmj.com)
+137. Walther LE. Current diagnostic procedures for diagnosing vertigo and dizziness. GMS Curr Top
+Otorhinolaryngol Head Neck Surg. 2017 Dec 18;16:Doc02.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC5738933)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29279722?
+tool=bestpractice.bmj.com)
+138. Fife TD, Colebatch JG, Kerber KA, et al. Practice guideline: cervical and ocular vestibular evoked
+myogenic potential testing: report of the guideline development, dissemination, and implementation
+subcommittee of the American Academy of Neurology. Neurology. 2017 Nov 28;89(22):2288-96. 
+Full text (https://www.neurology.org/doi/10.1212/WNL.0000000000004690)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29093067?tool=bestpractice.bmj.com)
+139. Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and
+management of patients with syncope: a report of the American College of Cardiology/American
+Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+Circulation. 2017 Aug 1;136(5):e60-122.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIR.0000000000000499)
+140. Brignole M, Moya A, de Lange FJ, et al; ESC Scientific Document Group. 2018 ESC guidelines for the
+diagnosis and management of syncope. Eur Heart J. 2018 Jun 1;39(21):1883-948.  Full text (https://
+academic.oup.com/eurheartj/article/39/21/1883/4939241)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29562304?tool=bestpractice.bmj.com)
+141. Aringer M, Costenbader K, Daikh D, et al. 2019 European League Against Rheumatism/American
+College of Rheumatology classification criteria for systemic lupus erythematosus. Ann Rheum Dis.
+2019 Sep;78(9):1151-9.  Full text (https://ard.bmj.com/content/78/9/1151.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31383717?tool=bestpractice.bmj.com)
+142. Lavi R, Yarnitsky D, Rowe JM, et al. Standard vs atraumatic Whitacre needle for diagnostic
+lumbar puncture: a randomized trial. Neurology. 2006 Oct 24;67(8):1492-4. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17060584?tool=bestpractice.bmj.com)
+143. Arendt K, Demaerschalk BM, Wingerchuk DM, et al. Atraumatic lumbar puncture needles: after
+all these years, are we still missing the point? Neurologist. 2009 Jan;15(1):17-20. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19131853?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Evaluation of dizziness References
+REFERENCES
+144. Nath S, Koziarz A, Badhiwala JH, et al. Atraumatic versus conventional lumbar puncture needles: a
+systematic review and meta-analysis. Lancet. 2018 Mar 24;391(10126):1197-204. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29223694?tool=bestpractice.bmj.com)
+145. Rochwerg B, Almenawer SA, Siemieniuk RAC, et al. Atraumatic (pencil-point) versus conventional
+needles for lumbar puncture: a clinical practice guideline. BMJ. 2018 May 22;361:k1920.  Full
+text (https://www.bmj.com/content/361/bmj.k1920.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29789372?tool=bestpractice.bmj.com)
+146. Ahmed SV, Jayawarna C, Jude E. Post lumbar puncture headache: diagnosis and management.
+Postgrad Med J. 2006 Nov;82(973):713-6.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC2660496)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17099089?tool=bestpractice.bmj.com)
+147. Arevalo-Rodriguez I, Ciapponi A, Roqué i Figuls M, et al. Posture and fluids for preventing post-
+dural puncture headache. Cochrane Database Syst Rev. 2016 Mar 7;(3):CD009199.  Full text
+(http://cochranelibrary-wiley.com/doi/10.1002/14651858.CD009199.pub3/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26950232?tool=bestpractice.bmj.com)
+148. Postal M, Lapa AT, Reis F, et al. Magnetic resonance imaging in neuropsychiatric systemic lupus
+erythematosus: current state of the art and novel approaches. Lupus. 2017 Apr;26(5):517-21. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/28394232?tool=bestpractice.bmj.com)
+149. Kwon SU, Koh JY, Kim JS. Vertebrobasilar artery territory infarction as an initial manifestation of
+systemic lupus erythematosus. Clin Neurol Neurosurg. 1999 Mar;101(1):62-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10350208?tool=bestpractice.bmj.com)
+150. Cogan DG. Syndrome of nonsyphilitic interstitial keratitis and vestibuloauditory symptoms. Arch
+Ophthalmol. 1945;33(2):144-9.
+151. International Study Group for Behçet's Disease. Criteria for diagnosis of Behçet's disease.
+Lancet. 1990 May 5;335(8697):1078-80. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1970380?
+tool=bestpractice.bmj.com)
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Evaluation of dizziness Images
+Images
+Figure 1: Head impulse test. A: The right ear has intact peripheral vestibular function. When the head is
+turned to the right, the vestibulo-ocular reflex moves the eyes to maintain visual fixation. B: The right ear
+now has impaired vestibular function. When the head is turned to the right, the eyes move with it, breaking
+visual fixation, and a refixation saccade is seen as the eyes dart back to the examiner's face. This indicates a
+peripheral vestibular disorder on the right side
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+65
+=== Page 66 ===
+Evaluation of dizziness Images
+IMAGES
+Reproduced with permission from Nelson JA, Viirre E. The clinical differentiation of cerebellar infarction from
+common vertigo syndromes. West J Emerg Med. 2009 Nov;10(4):273-7.
+Figure 2: Erythematous bulging tympanic membrane due to acute otitis media
+From the collection of Richard Buckingham, MD; used with permission
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 67 ===
+Evaluation of dizziness Images
+Figure 3: Cholesteatoma in attic (upper part of the middle ear)
+From the collection of Susan A. Douglas, MBBS; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+67
+=== Page 68 ===
+Evaluation of dizziness Images
+IMAGES
+Figure 4: Frenzel glasses
+From Jung I, Kim J-S. Approach to dizziness in the emergency department. Clin Exp Emerg Med. 2015 Jun
+30; 2(2):75-88; used with permission
+Figure 5: Dix-Hallpike maneuver
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 69 ===
+Evaluation of dizziness Images
+Parnes LS, Agrawal SK, Atlas J. Diagnosis and management of benign paroxysmal positional vertigo
+(BPPV). CMAJ. 2003 Sep 30;169(7):681-93; used with permission
+Figure 6: Cholesteatoma, coronal CT scan
+From the collection of Susan A. Douglas, MBBS; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+69
+=== Page 70 ===
+Evaluation of dizziness Images
+IMAGES
+Figure 7: Cholesteatoma, axial CT scan
+From the collection of Susan A. Douglas, MBBS; used with permission
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 71 ===
+Evaluation of dizziness Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+71
+=== Page 72 ===
+Evaluation of dizziness Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+72 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 24, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 73 ===
+Contributors:
+// Authors:
+Susan A. Douglas, MBBS (Hons) UWI, FRCSEd, FRCS (ORL-HNS)
+Consultant Otolaryngologist and Otologist
+Rotherham NHS Foundation Trust, Rotherham, UK
+DISCLOSURES: SAD declares that she has no competing interests.
+// Acknowledgements:
+Dr Susan A. Douglas would like to thank Professor William Gibson, a previous contributor to this topic.
+DISCLOSURES: WG is an author of a reference cited in this topic.
+// Peer Reviewers:
+Joel Goebel, MD, FACS
+Professor and Vice Chairman
+Residency Program Director, Dizziness and Balance Center Director, Otolaryngology-Head and Neck
+Surgery, Washington University School of Medicine, St. Louis, MO
+DISCLOSURES: JG is an author of a number of references cited in this topic.
+Iain Swan, MD, FRCS
+Senior Lecturer in Otolaryngology
+Honorary Consultant Otolaryngologist, Glasgow Royal Infirmary, Glasgow, UK
+DISCLOSURES: IS declares that he has no competing interests.

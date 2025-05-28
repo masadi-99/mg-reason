@@ -1,0 +1,3661 @@
+# Idiopathic pulmonary arterial hypertension
+
+=== Page 1 ===
+Idiopathic pulmonary
+arterial hypertension
+Straight to the point of care
+Last updated: Oct 24, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  5
+Pathophysiology  6
+Classification  6
+Case history  7
+Diagnosis  9
+Approach  9
+History and exam  10
+Risk factors  11
+Tests  13
+Differentials  17
+Criteria  19
+Screening  21
+Management  22
+Approach  22
+Treatment algorithm overview  28
+Treatment algorithm  30
+Emerging  58
+Patient discussions  58
+Follow up  59
+Monitoring  59
+Complications  59
+Prognosis  59
+Guidelines  61
+Diagnostic guidelines  61
+Treatment guidelines  61
+References  62
+Images  74
+Disclaimer  79
+=== Page 3 ===
+Idiopathic pulmonary arterial hypertension Overview
+Summary
+Idiopathic pulmonary arterial hypertension (IPAH) is a rare, frequently fatal disease.
+Presenting symptoms and signs are nonspecific and include dyspnea on exertion, fatigue, and a loud
+pulmonary component of the second heart sound.
+Diagnosis of exclusion. Transthoracic Doppler echocardiography and right heart catheterization can diagnose
+pulmonary hypertension. Laboratory tests and imaging studies can rule out known causes of pulmonary
+hypertension.
+Treatment options include calcium-channel blockers, prostanoids, endothelin receptor antagonists,
+phosphodiesterase-5 inhibitors, the soluble guanylate cyclase stimulator riociguat, the selective prostacyclin
+IP receptor agonist selexipag, the activin signaling inhibitor sotatercept, and lung transplantation as
+appropriate.
+Prognosis is not good, as most patients eventually develop right ventricular failure. It is best managed in
+centers with expertise in pulmonary hypertension.
+Definition
+Idiopathic pulmonary arterial hypertension (IPAH) is a disease of the small pulmonary arteries characterized
+by vascular proliferation and remodeling. It results in a progressive increase in pulmonary vascular resistance
+(PVR) and, ultimately, right ventricular failure and death.[1] It is defined by a mean pulmonary arterial
+pressure >20 mmHg at rest with pulmonary arterial wedge pressure ≤15 mmHg and PVR >2 Wood units,
+without a known cause.[2] [3] [4]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Idiopathic pulmonary arterial hypertension Theory
+THEORY
+Epidemiology
+Pulmonary arterial hypertension (PAH) is a rare disease, with an estimated prevalence of 48-55 cases per
+million adults and an annual incidence of 2.4-6.0 per million people.[4] [5] Several registries have been
+established to collect data on baseline characteristics and outcomes of patients with PAH, with the first set
+up in the 1980s by the US National Institutes of Health.[6] Idiopathic pulmonary arterial hypertension (IPAH)
+is the most common type of PAH reported in the registries, accounting for 30% to 50% of cases.[7] The
+age and sex distribution of the disease appears to have evolved over time. The mean age of patients in the
+first US registry was 36 years, with a female-to-male ratio of 1.7:1.[6] Contemporary registries from France
+and the US (REVEAL) later described a mean age at diagnosis of 50 years.[8] [9] A significant proportion
+of patients (9% in the French registry) were older than 70 years.[8] While the French registry confirmed a
+female-to-male ratio of 1.6:1, the US registry depicted a much higher female preponderance, with a female-
+to-male ratio of 3.9:1.[8] [9] Another registry of six European countries found that the median age of IPAH
+diagnosis was 71 years and that younger patients had a female-to-male ratio of 2.3:1 while the female-
+to-male ratio in older adult patients was 1.2:1.[10] In the UK and Ireland, registry data from 2001 to 2009
+showed an increase in the average age of IPAH diagnosis, from 45 to 52 years.[11] Comorbidities including
+systemic hypertension, obesity, type 2 diabetes mellitus, and ischemic heart disease are common in patients
+with IPAH.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Idiopathic pulmonary arterial hypertension Theory
+Clinical classification and prevalence of pulmonary hypertension. CTEPH, chronic
+thromboembolic pulmonary hypertension; CpCPH, combined post- and pre-capillary pulmonary
+hypertension; IpcPH, isolated post-capillary pulmonary hypertension; mPAP, mean pulmonary
+arterial pressure; PH, pulmonary hypertension; PVR, pulmonary vascular resistance.
+Adapted from Eur Heart J, Volume 43, Issue 38, 7 October 2022, 3618–731; used with permission
+Etiology
+The cause of IPAH is unknown. Its pathogenesis probably involves the interaction of genetic predisposition
+and risk factors that cause pulmonary vascular damage.[3] Mutations in the gene encoding bone
+morphogenetic protein receptor type 2 (BMPR2), a member of the transforming growth factor-beta (TGF-
+beta) superfamily, are responsible for familial cases of pulmonary arterial hypertension.[12] However, only
+20% of BMPR2 mutation carriers will develop the disease over a lifetime.[13] BMPR2 mutations have
+been also found in 11% to 40% of cases of nonfamilial primary pulmonary hypertension. These mutations
+lead to changes in intracellular signaling pathways that result in proliferative and antiapoptotic effects
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Idiopathic pulmonary arterial hypertension Theory
+THEORY
+in the pulmonary vasculature. Other predisposing genetic factors include mutations and variants in the
+genes: ACVRL1 (encoding activin receptor-like kinase 1, a type 1 receptor for TGF-beta family proteins);
+ENG (encoding endoglin, a glycoprotein); SMAD9 (encoding a SMAD family protein, which transduces
+signals from TGF-beta family members); CAV1 (encoding caveolin 1 protein); and KCNK3 gene (encoding
+a potassium channel).[14] The exact environmental risk factors in IPAH remain unknown, but possibilities
+include infections, drugs such as appetite suppressants, and inflammatory insults.[15] [16] [17]
+Pathophysiology
+The main vascular changes are vasoconstriction, smooth-muscle cell and endothelial-cell proliferation, and
+thrombosis. These changes suggest the predominance of thrombogenic, mitogenic, proinflammatory, and
+vasoconstrictive factors, probably as a consequence of pulmonary endothelial-cell dysfunction or injury.[18]
+The levels of a prostacyclin metabolite, a potent vasodilator with antiproliferative and antiplatelet activity,
+are decreased in the urine of patients with pulmonary hypertension. However, the levels of thromboxane
+A2 metabolites (a vasoconstrictor and platelet agonist) are increased.[19] Furthermore, the expression
+of prostacyclin synthase is decreased in the pulmonary vascular tree of patients with severe pulmonary
+hypertension, particularly IPAH.[20]
+Another potent vasoconstrictor and proproliferative mediator is endothelin-1. Its plasma levels are increased
+in pulmonary hypertension and correlate with the severity of IPAH.[21] [22] There is also increased
+expression of endothelin-1 in vascular endothelial cells in patients with pulmonary hypertension.[23]
+The third important mediator in IPAH is nitric oxide (NO), a potent vasodilator and inhibitor of platelet
+activation and smooth-muscle proliferation.[24] Levels of NO are lower in lungs of patients with IPAH
+compared with healthy controls.[25] [26] These low levels were initially thought to be due to decreased
+expression of endothelial NO synthase in the lung, but are more likely secondary to increased NO
+consumption or decreased NO synthesis due to decreased substrate availability.[27] [28]
+Alterations in serotonin, adrenomedullin, vasoactive intestinal peptide, vascular endothelial growth factor,
+platelet-derived growth factor, and potassium channels have been described as well.[18] [29] [30]
+A procoagulant state and in situ pulmonary vascular thrombosis have been shown in IPAH and are reflected
+by elevated levels of fibrinopeptide A, D-dimer, von Willebrand factor, and plasminogen activator inhibitor
+type-1.[31]
+These changes cause pulmonary vascular narrowing with a consequent increase in pulmonary vascular
+resistance (PVR) that leads to right ventricular overload and eventually to right ventricular failure and death.
+Classification
+Updated clinical classification of pulmonary hypertension (PH)[2]
+[3]
+1. Pulmonary arterial hypertension (PAH)
+• 1.1 Idiopathic PAH
+• 1.1.1 Nonresponders at vasoreactivity testing
+• 1.1.2 Acute responders at vasoreactivity testing
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Idiopathic pulmonary arterial hypertension Theory
+• 1.2 Heritable PAH
+• 1.3 Drug- and toxin-induced PAH
+• 1.4 Associated with:
+• 1.4.1 Connective tissue disease
+• 1.4.2 HIV infection
+• 1.4.3 Portal hypertension
+• 1.4.4 Congenital heart diseases
+• 1.4.5 Schistosomiasis
+• 1.5 Pulmonary veno-occlusive disease and/or pulmonary capillary hemangiomatosis
+• 1.6 Persistent pulmonary hypertension of the newborn (PPHN)
+2. Pulmonary hypertension due to left heart disease
+• 2.1 Heart failure
+• 2.1.1 With preserved ejection fraction
+• 2.1.2 With reduced or mildly reduced ejection fraction
+• 2.2 Valvular heart disease
+• 2.3 Congenital/acquired cardiovascular conditions leading to post-capillary pulmonary hypertension
+3. Pulmonary hypertension due to lung diseases and/or hypoxia
+• 3.1 Obstructive pulmonary disease or emphysema
+• 3.2 Restrictive lung disease
+• 3.3 Other pulmonary diseases with mixed restrictive and obstructive pattern
+• 3.4 Hypoventilation syndromes
+• 3.5 Hypoxia without lung disease
+• 3.6 Developmental lung disorders
+4. PH due to pulmonary artery obstructions
+• 4.1 Chronic thromboembolic PH
+• 4.2 Other pulmonary artery obstruction
+5. Pulmonary hypertension with unclear multifactorial mechanisms
+• 5.1 Hematologic disorders: chronic hemolytic anemia, myeloproliferative disorders, splenectomy
+• 5.2 Systemic disorders: vasculitis, sarcoidosis, pulmonary Langerhans cell histiocytosis,
+lymphangioleiomyomatosis, neurofibromatosis
+• 5.3 Metabolic disorders: glycogen storage disease, Gaucher disease, thyroid disorders
+• 5.4 Chronic renal failure with or without hemodialysis
+• 5.5 Pulmonary tumor thrombotic microangiopathy
+• 5.6 Fibrosing mediastinitis
+Case history
+Case history #1
+A 36-year-old woman presents with a 6-month history of gradually progressive dyspnea on exertion and
+fatigue. On physical exam, her vital signs are normal and she appears not to be in any distress. Her lungs
+are clear to auscultation. Her cardiac exam shows a prominent jugular V wave, an accentuated pulmonic
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Idiopathic pulmonary arterial hypertension Theory
+THEORY
+component to the second heart sound (P2), and a high-pitched holosystolic murmur best heard at the left
+sternal border.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+Approach
+Because IPAH is a diagnosis of exclusion, there is no definitive diagnostic test, but there are a number of
+laboratory and imaging tests that should be used to rule out other types of pulmonary hypertension (PH). The
+2022 European Society of Cardiology (ESC)/European Respiratory Society (ERS) guidelines advise a three-
+step approach to diagnosis of PH: first suspicion by first-line physicians, then detection by echocardiography,
+and finally confirmation in PH centers.[3] If PAH is suspected at any time in the patient evaluation, fast-track
+referral to a center with expertise in its diagnosis and management is recommended.[3] [35] [36]
+History
+Symptoms are nonspecific and mainly related to right heart dysfunction.[3] [36] Early symptoms include
+progressive dyspnea on exertion, fatigue and rapid exhaustion, palpitations, chest discomfort, and
+lightheadedness. Syncope is a less common but worrisome symptom. Patients may have syncope or near
+syncope as cardiac output becomes fixed and eventually falls.[37] Other historic clues are the presence of
+pulmonary hypertension in a first-degree relative and prior use of stimulants. There may also be a history
+of blood clots or splenectomy. 
+Physical exam
+Physical exam is often normal in early stages. Lungs are clear to auscultation. Positive signs include
+a prominent jugular V wave on the neck, a palpable left parasternal heave, an accentuated pulmonic
+component to the second heart sound (P2), and a high-pitched holosystolic murmur best heard at the
+left sternal border. In more advanced cases, there are signs of right heart failure such as jugular venous
+distention, hepatomegaly, ascites, and peripheral edema.
+Tests
+Initial tests include a chest x-ray, an ECG, and a transthoracic echocardiogram.[17] [38] Right heart
+catheterization is required to confirm the diagnosis of pulmonary arterial hypertension, determine the
+type of pulmonary hypertension (precapillary, postcapillary, or combined), and assess pulmonary
+hemodynamics and cardiac output to calculate pulmonary vascular resistance.[3] [36] Additional tests are
+performed to rule out known causes of pulmonary hypertension. These include antinuclear antibodies,
+HIV serology, complete blood count, liver function tests, thyroid function tests, pulmonary function studies,
+arterial blood gas, overnight oximetry, and ventilation perfusion scan. Depending on the clinical suspicion,
+polysomnography, high-resolution computed tomography (CT) scan of the chest, cardiac magnetic
+resonance imaging (MRI), and pulmonary angiography could be indicated as well. If the complete
+evaluation is unrevealing, the diagnosis of IPAH is made. B-type natriuretic peptide (BNP) or N-terminal
+proBNP (NT-proBNP) levels should be obtained. These are elevated in right ventricular pressure overload
+and correlate with severity of right ventricular dysfunction and mortality in IPAH.[3] A 6-minute walk
+test should be done as it provides an estimation of exercise capacity and disease severity, as well as
+response to therapy and progression.[3]
+Vasodilator testing (with inhaled nitric oxide, inhaled iloprost, or intravenous epoprostenol) may help
+identify a subset of IPAH patients who might be treated with oral calcium-channel blockers. Testing is not
+indicated in unstable patients or those who are in right heart failure.[35]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+DIAGNOSIS
+History and exam
+Key diagnostic factors
+age 20-50 years (common)
+• The age distribution of IPAH has evolved over time. The mean age at diagnosis was 36 years among
+patients entered into the US National Institutes of Health registry in the 1980s.[6] Contemporary
+registries from France and the US described a mean age at diagnosis of 50 years.[8] [9] A significant
+proportion of patients (9% in the French registry) were older than 70 years.[8] Another registry of six
+European countries found that the median age of IPAH diagnosis was 71 years.[10] In the UK and
+Ireland, registry data from 2001 to 2009 showed an increase in the average age of IPAH diagnosis,
+from 45 to 52 years.[11]
+female sex (common)
+• IPAH is typically more common in females than in males.[6] [7] [8]
+dyspnea (common)
+• Seen in 60%, particularly with exertion.[6]
+accentuated pulmonic component (P2) to the second heart sound (common)
+• Due to delayed closure of the pulmonic valve. The physiologic respiratory variation of the second
+heart sound is maintained, as opposed to pulmonary arterial hypertension associated with atrial septal
+defect.[39] Seen in 93%.[6]
+tricuspid regurgitation murmur (common)
+• High-pitched, holosystolic, best heard at the left sternal border.[39] Seen in 40%.[6]
+family history (uncommon)
+• First-degree relative with the disease is seen in 6%.[6]
+Other diagnostic factors
+fatigue (common)
+• Typically presents alongside dyspnea.[37] [39]
+peripheral edema (common)
+• Seen in 32%.[6]
+cyanosis (common)
+• Seen in 20%.[6]
+stimulant use (uncommon)
+• Particularly methamphetamine. Stimulant use was seen in 28.9% in one study.[40]
+syncope (uncommon)
+• Syncope is a less common but worrisome symptom.[39] Patients may have syncope or near syncope
+as cardiac output becomes fixed and eventually falls.[37]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+chest pain (uncommon)
+• Patients may present with or without chest discomfort.[39]
+near syncope (uncommon)
+• Patients may have syncope or near syncope as cardiac output becomes fixed and eventually falls.[37]
+early diastolic, high-pitched murmur in the pulmonary area (uncommon)
+• An early diastolic high-pitched Graham Steell murmur indicative of pulmonic regurgitation.[6] [39]
+jugular vein distension (uncommon)
+• Prominence of the jugular A or V waves. Hepatojugular reflux may be present as well.[39]
+Risk factors
+Strong
+family history
+• The prevalence of familial cases of pulmonary arterial hypertension (PAH) was 6% and 3.9%,
+respectively, in the US and French registries.[6] [32] The transmission is autosomal dominant and
+shows genetic anticipation, variable expression, and a lifetime penetrance of 10% to 20%.[13] [33] If
+one family member has IPAH, the likelihood of a first-degree relative being affected is approximately
+0.6% to 1.2%. If there is a second case in the family, the lifetime risk rises to 5% to 10%.[33]
+female sex
+• Both the early US registry and the French registry showed a female-to-male ratio of 1.7:1 and 1.6:1,
+respectively.[6] [8] A more contemporary US registry showed a much higher female preponderance,
+with a female-to-male ratio of 3.9:1.[9] Another registry of six European countries found that in younger
+patients the female-to-male ratio of IPAH was 2.3:1, while the female-to-male ratio in older adult
+patients was almost even, at 1.2:1.[10] Whether there are hormonal or other reasons for sex-specific
+differences in PAH is not yet understood.[7] [33]
+bone morphogenetic protein receptor type 2 (BMPR2) mutations
+• Mutations in the gene encoding for BMPR2, a member of the transforming growth factor-beta
+superfamily, cause familial PAH.[12] The exact prevalence of BMPR2 mutations in the IPAH
+population is unknown, with reports ranging from 11% to 40%.[13] These mutations lead to changes
+in intracellular signaling pathways that result in proliferative and antiapoptotic effects in the pulmonary
+vasculature.[13]
+appetite suppressants
+• Appetite suppressants, especially aminorex, fenfluramine, dexfenfluramine, and benfluorex, are
+definite risk factors.[3] [34]
+Weak
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+DIAGNOSIS
+drugs and toxins
+• In addition to appetite suppressants, various other classes of drugs have been associated with the
+development of PAH. These include amphetamine-like agents (methamphetamine, amphetamine),
+tyrosine kinase inhibitors (dasatinib, bosutinib, ruxolitinib, nintedanib, imatinib), antiviral medications
+(sofosbuvir, simeprevir, daclatasvir), alkylating agents (busulfan, cyclophosphamide, carboplatin,
+melphalan), immunosuppressive agents (abatacept, leflunomide, thalidomide, mycophenolic acid,
+everolimus, cyclosporine), antineoplastic agents (docetaxel, doxorubicin, etoposide, trastuzumab,
+vinblastine, vincristine), antimetabolites (gemcitabine), proteasome inhibitors (bortezomib, carfilzomib),
+interleukin (IL)-1 inhibitors (anakinra, canakinumab), programmed cell death protein (PD)-1 inhibitors
+(nivolumab), stimulants (modafinil), and interferons (alfa-2b, beta-a, pegylated alfa-2a, pegylated
+alfa-2b).[3] [34]
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+Tests
+1st test to order
+Test Result
+chest radiography
+• Enlarged main pulmonary artery is seen in 90%, enlarged hilar
+vessels in 80%, and pruning in 51% of patients with IPAH. All three
+abnormalities are seen 42% of the time.[6] The chest radiograph was
+normal in 6% of patients in the US National Institutes of Health (NIH)
+registry. In general, the chest radiograph is not sensitive or specific
+enough to establish the diagnosis.[39]
+attenuated peripheral
+vascular markings
+("pruning"), enlarged
+pulmonary artery
+shadows, and
+opacification of the
+retrosternal space on the
+lateral view
+ECG
+• Findings of right ventricular hypertrophy (RVH): tall R wave and
+small S wave (R/S ratio >1) in lead V1, qR complex in V1, rSR' in
+V1, a large S wave and small R wave (R/S ratio <1) in V5 or V6, or
+a S1S2S3 pattern; right axis deviation: mean frontal plane QRS axis
+>100 degrees; right atrial enlargement: P wave ≥2.5 mm in leads II,
+III, and aVF.
+• Sensitivity of right axis deviation and RVH is only 73% and 55%,
+respectively, while specificity is 70% for both in patients with mean
+pulmonary artery pressure >50 mmHg.[41] Thus, a normal ECG
+does not rule out the presence of significant pulmonary hypertension.
+Subsequent ECGs should also be performed.
+ECG showing a tall R wave and small S wave (R/S ratio
+>1) in lead V1, qR complex in V1, right axis deviation,
+and right atrial enlargement (P wave ≥2.5 mm in lead II)
+From the personal collection of the author, Gustavo A. Heresi, MD
+RVH, right axis deviation,
+right atrial enlargement
+transthoracic Doppler echocardiography
+• Pulmonary artery systolic pressure (sPAP) is considered equal to
+right ventricular systolic pressure (RVSP) in the absence of pulmonic
+valve stenosis and outflow tract obstruction. RVSP is estimated on
+the basis of Doppler-acquired tricuspid regurgitation (TR) jet velocity
+plus estimated right atrial pressure from inferior vena cava (IVC)
+assessment. IVC-based estimation of right atrial pressure is prone
+to inaccuracy and can lead to amplification of measurement errors
+when calculating sPAP.[42] Correlation with right heart catheterization
+measurements is variable (r from 0.57 to 0.93), and is more robust
+Peak TRV >2.8 m/s; RA
+area >18 cm²; TAPSE <18
+mm; RVOT acceleration
+time <105 ms
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+DIAGNOSIS
+Test Result
+for sPAP >50 mmHg and <100 mmHg.[39] Sensitivity and specificity
+of the estimated sPAP in predicting pulmonary arterial hypertension
+ranges from 79% to 100%, and 60% to 98%.[43] TR velocity (TRV)
+should be used for screening for PH; a peak TRV of >2.8 m/s is
+suggestive of PH. TRV should be used with other transthoracic
+echocardiographic measures of RV function including the tricuspid
+annular plane systolic excursion (TAPSE), RV fractional area change
+(RV-FAC), RV free-wall strain, and tricuspid annulus velocity (S
+′ wave) derived from tissue Doppler imaging, and potentially RV
+ejection fraction (RVEF) derived from 3D echocardiography.[3]
+ The TAPSE/sPAP ratio measures RV arterial coupling and may
+also aid diagnosis.[3] [44] The pattern of RV outflow tract (RVOT)
+blood flow (mid-systolic "notching") may suggest precapillary PH.[3]
+Echocardiography is a good screening test to detect pulmonary
+hypertension, but it always requires confirmation with right heart
+catheterization. Should be repeated if required. 
+Transthoracic echocardiogram: apical 4-chamber view
+showing significant right atrial and right ventricular dilation
+From the personal collection of the author, Gustavo A. Heresi, MD
+right heart catheterization
+• Considered the definitive diagnostic test for pulmonary hemodynamic
+measurement and is required to confirm the presence of pulmonary
+hypertension, to establish the specific diagnosis, and to determine
+severity.[3] [36] Should be repeated if required.
+mean pulmonary arterial
+pressure >20 mmHg at
+rest, with pulmonary
+arterial wedge pressure
+≤15 mmHg and pulmonary
+vascular resistance (PVR)
+>2 Wood units
+antinuclear antibodies (ANA)
+• Screening tests, including ANA, are recommended.[3] [36] Positive
+result is suggestive of connective tissue disease as a cause of
+secondary pulmonary arterial hypertension.
+negative or low titer
+positive (≤1:80)
+pulmonary function tests
+• Mild restrictive lung defect seen in 20% to 50% of patients.[41] Mild
+reduction in diffusion capacity seen in the majority of patients.
+normal or mild reductions
+in lung volumes; mild
+reduction in diffusion
+capacity
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+Test Result
+arterial blood gas (ABG)
+• Used to differentiate between PAH groups, determine disease
+severity, and assess comorbidities.
+PaO₂: normal or reduced;
+PaCO₂: reduced
+nocturnal oximetry
+• Nocturnal hypoxia is common in patients with IPAH.[45][46]
+>10% of sleep time with
+oxygen saturation by
+pulse oximetry <90%
+ventilation-perfusion (V/Q) scintigraphy
+• Indicated to differentiate from chronic thromboembolic pulmonary
+hypertension.[3] [36] Use CT or MRI if V/Q is indeterminate.
+normal or low probability
+6-minute walk test
+• Provides an estimation of exercise capacity and disease severity, as
+well as response to therapy and progression.[3] Should be repeated
+serially.
+absolute value of
+distance, per cent of
+predicted distance,
+oxygen saturation by
+pulse oximetry, heart rate,
+and Borg dyspnea scale
+B-type natriuretic peptide (BNP) or N-terminal proBNP (NT-
+proBNP)
+• Is elevated in right ventricular pressure overload and correlates with
+severity of right ventricular dysfunction and mortality in IPAH.[3]
+Should be repeated subsequently.
+NT-proBNP >300
+nanograms/L or BNP >50
+nanograms/L
+CBC
+• Order as baseline and to exclude hemoglobinopathy as a cause of
+secondary pulmonary hypertension.
+normal
+LFTs
+• Order to exclude liver disease or portal hypertension as a cause of
+secondary pulmonary hypertension.
+normal
+thyroid function tests
+• Order to exclude thyroid disease as a cause of secondary pulmonary
+hypertension.
+normal
+HIV serology
+• Order to exclude HIV infection as a cause of secondary pulmonary
+hypertension.
+negative
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+DIAGNOSIS
+Other tests to consider
+Test Result
+high-resolution chest CT scan ± CT pulmonary angiography
+• Useful to look for other causes of pulmonary hypertension such
+as emphysema and interstitial lung disease. Complementary
+CT pulmonary angiography can be used to rule out chronic
+thromboembolic pulmonary hypertension.
+may show central
+pulmonary artery
+dilation, narrowing
+of the peripheral
+pulmonary vessels,
+dilated bronchial arteries,
+right heart enlargement;
+hyperinflation will be seen
+in emphysema
+cardiac MRI
+• Assesses atrial and ventricular size, morphology, and function and
+can also provide additional information on right ventricular (RV)/left
+ventricular (LV) myocardial strain, and quantify stroke volume and
+intracardiac shunts for prognosis and monitoring.[3] [36]
+RV volume, RV ejection
+fraction (EF), and stroke
+volume
+vasodilator testing with inhaled nitric oxide, inhaled iloprost, or
+intravenous epoprostenol
+• The primary objective is to identify a subset of IPAH patients who
+might be treated with oral calcium-channel blockers. Thus, it is
+not indicated in unstable patients or those who are in right heart
+failure.[35] Approximately 12% of patients are acute responders and
+only half of them will have a sustained response to calcium-channel
+blockers.[47]
+positive or negative; a
+positive acute vasodilator
+response is defined as a
+fall in mean pulmonary
+artery pressure of at least
+10 mmHg to an absolute
+value ≤40 mmHg, with an
+increased or unchanged
+cardiac output
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Pulmonary arterial
+hypertension (PAH)
+associated with left-sided
+heart disease (pulmonary
+venous hypertension)
+• Older patients, male
+preponderance, usual
+cardiovascular risk factors
+(diabetes, hypertension,
+smoking). Left ventricular
+gallops and mitral valve
+murmurs.
+• Transthoracic echo: left atrial
+enlargement, left ventricular
+systolic and/or diastolic
+dysfunction, mitral valve
+disease.[3]
+• Right heart catheterization:
+elevated pulmonary
+arterial wedge pressure,
+transpulmonary gradient <12
+mmHg.
+• Left heart catheterization:
+coronary disease, elevated
+left ventricular end-diastolic
+pressure.
+PAH associated with
+respiratory diseases and/
+or hypoxia
+• COPD: older than 40-50
+years, history of smoking,
+chronic cough and sputum
+production, decreased
+breath sounds, wheezing.
+• Interstitial lung disease:
+history of occupational
+exposures, drug use,
+smoking, or connective
+tissue disease; chronic
+nonproductive cough,
+bibasilar inspiratory crackles,
+digital clubbing.
+• Sleep-disordered breathing
+(e.g., obstructive sleep
+apnea): loud snoring,
+excessive daytime
+sleepiness, morning
+headaches, obesity, mild
+elevations in pulmonary
+artery pressure.[48]
+• Alveolar hypoventilation
+disorders: obesity-
+hypoventilation syndrome,
+neuromuscular disease.
+• Pulmonary function tests:
+obstructive or restrictive
+defects (obstructive: FEV₁
+<60%; restrictive: forced vital
+capacity (FVC) <70%).
+• ABG: hypoxemia,
+hypercapnia.
+• Overnight oximetry:
+desaturation, screening for
+sleep apnea.
+• Polysomnography:
+obstructive sleep apnea.
+• High-resolution chest CT
+scan: emphysema, interstitial
+lung disease.
+PAH due to chronic
+thrombotic and/or
+embolic disease
+• History of pulmonary
+embolism; bruits over the
+lung fields (pulmonary flow
+murmurs) are present in 30%
+of cases but are not present
+in IPAH.[49]
+• Ventilation-perfusion lung
+scintigraphy: one or more
+segmental-sized or larger
+unmatched perfusion
+defects.[3] [36]
+• Pulmonary angiography:
+vascular webs or band-
+like narrowings, intimal
+irregularities, pouch
+defects, abrupt and angular
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+narrowing, proximal
+obstruction.[49]
+PAH associated with
+connective tissue disease
+• Multisystem organ
+involvement: skin lesions,
+arthralgias/arthritis, GERD,
+Raynaud phenomenon,
+oral ulcers, serositis, renal
+disease, hematologic
+abnormalities, etc.
+• Scleroderma: especially
+the limited form (CREST
+syndrome: calcinosis,
+Raynaud phenomenon,
+esophageal dysmotility,
+sclerodactyly, and
+telangiectasis) in the
+absence of interstitial lung
+disease.
+• Less common in systemic
+lupus erythematosus, mixed
+connective tissue disease,
+and rheumatoid arthritis.
+• Antinuclear antibodies >1:80
+titer.[3] [36]
+• Anticentromere antibodies in
+limited scleroderma.[39]
+• Anti-U3-ribonucleoprotein
+(RNP) antibodies in diffuse
+scleroderma and mixed
+connective tissue diseases.
+• Anticardiolipin antibodies in
+lupus.
+• Rheumatoid factor.
+PAH associated with
+congenital systemic-to-
+pulmonary shunts
+• Simple shunts (more
+common than complex):
+ventricular septal defect
+(highest risk, especially
+if >1 cm), atrial septal
+defect (especially if >2 cm
+and sinus venosus type),
+patent ductus arteriosus,
+anomalous pulmonary
+venous return.
+• Complex shunts: truncus
+arteriosus (almost all
+patients develop PAH),
+atrioventricular septal
+defects.
+• For all defects, risk of PAH is
+highest if unrepaired.
+• Eisenmenger physiology:
+secondary erythrocytosis,
+iron deficiency, hemoptysis,
+"paradoxical" embolization,
+brain abscesses.[50]
+• Contrast echocardiography
+with agitated saline
+("bubble"): best for shunt
+reversal (right-to-left).[51]
+• Transesophageal Doppler
+echocardiography and/
+or cardiac MRI: anatomic
+definition.[50]
+• Right and left heart
+catheterization with oxygen
+saturation measurement.[3]
+PAH associated with
+portal hypertension
+(portopulmonary
+hypertension)
+• Mean age of presentation is
+the fifth decade of life, male-
+to-female ratio of 1.1:1.[52]
+• Signs of underlying liver
+disease: jaundice, spider
+telangiectasia lower
+extremity edema, ascites.
+• LFTs: abnormal.
+• Abdominal ultrasound with
+color Doppler: liver cirrhosis,
+increase in the transhepatic
+venous gradient.
+• Right heart catheterization:
+increased gradient between
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+free and occluded (wedged)
+hepatic vein pressure.
+PAH associated with HIV
+infection
+• HIV risk factors. • Positive HIV serology.
+PAH associated with
+drugs and toxins
+• History of appetite-
+suppressant use: aminorex,
+fenfluramine derivatives, use
+of methamphetamine.[33]
+[40]
+• Abnormal toxicology.
+PAH associated with other
+medical disorders
+• History of thyroid disease,
+hemoglobinopathies,
+myeloproliferative disorders,
+splenectomy.[3]
+• Abnormal thyroid function
+tests, abnormal CBC with
+platelet count.[3]
+Pulmonary veno-
+occlusive disease/
+pulmonary capillary
+hemangiomatosis
+• Digital clubbing and/or
+basilar rales on exam.[3]
+• More severe hypoxemia
+and decreased in diffusing
+capacity of the lung for
+carbon monoxide.
+• CT chest: ground-glass
+opacities with a centrilobular
+distribution, septal lines, and
+adenopathy.
+• Elevated numbers of
+hemosiderin-laden
+macrophages in
+bronchoalveolar lavage fluid.
+Criteria
+New York Heart Association (NYHA)/World Health Organization
+(WHO) classification of functional status of patients with
+pulmonary hypertension[53]
+• Functional class I: patients with pulmonary hypertension in whom there is no limitation of usual
+physical activity; ordinary physical activity does not cause increased dyspnea, fatigue, chest pain, or
+presyncope.
+• Functional class II: patients with pulmonary hypertension who have mild limitation of physical activity.
+There is no discomfort at rest, but normal physical activity causes increased dyspnea, fatigue, chest
+pain, or presyncope.
+• Functional class III: patients with pulmonary hypertension who have a marked limitation of physical
+activity. There is no discomfort at rest, but less than ordinary activity causes increased dyspnea,
+fatigue, chest pain, or presyncope.
+• Functional class IV: patients with pulmonary hypertension who are unable to perform any physical
+activity and who may have signs of right ventricular failure at rest. Dyspnea and/or fatigue may be
+present at rest, and symptoms are increased by almost any physical activity.
+Risk assessment in pulmonary arterial hypertension[3]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+DIAGNOSIS
+The European Society of Cardiology(ESC)/European Respiratory Society(ERS) guidelines highlight a
+combination of clinical, functional, and hemodynamic measures as a tool to stratify risk of mortality at 1
+year.[3]
+The ESC/ERS guidelines recommend a three-strata model for risk assessment at the time of diagnosis,
+using categories of low, intermediate, and high risk of mortality at 1 year. This is used to assess survival and
+guide management.[3] [54]
+Comprehensive risk assessment in pulmonary arterial hypertension (three-strata model). 6MWD, 6-minute
+walking distance; BNP, brain natriuretic peptide; CI, cardiac index; cMRI, cardiac magnetic resonance imaging;
+CPET, cardiopulmonary exercise testing; HF, heart failure; NT-proBNP, N-terminal pro-brain natriuretic peptide;
+PAH, pulmonary arterial hypertension; pred., predicted; RA, right atrium; RAP, right atrial pressure; sPAP,
+systolic pulmonary arterial pressure; SvO2, mixed venous oxygen saturation; RVESVI, right ventricular end-
+systolic volume index; RVEF, right ventricular ejection fraction; SVI, stroke volume index; TAPSE, tricuspid
+annular plane systolic excursion; VE/VCO2, ventilatory equivalents for carbon dioxide; VO2, oxygen uptake;
+WHO-FC, World Health Organization functional class. a: Occasional syncope during heavy exercise or
+occasional orthostatic syncope in a stable patient. b: Repeated episodes of syncope even with little or
+regular physical activity. c: Observe that 6MWD is dependent upon age, height, and burden of comorbidities.
+European Heart Journal. 2022 Oct 7;43(38):3618-731; used with permission
+During monitoring and follow-up after initial therapy, the ESC/ERS guidelines recommend a four-strata
+model, which uses categories of low, intermediate-low, intermediate-high, and high risk to guide treatment
+decisions.[3] 
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Idiopathic pulmonary arterial hypertension Diagnosis
+Variables used to calculate the simplified four-strata risk-assessment tool
+European Heart Journal. 2022 Oct 7;43(38):3618-731; used with permission
+Screening
+Screening is indicated in patients with known genetic mutations predisposing to pulmonary hypertension,
+specifically the bone morphogenetic protein receptor type 2 (BMPR2) mutation, and in first-degree relatives
+of patients with heritable pulmonary arterial hypertension (PAH).[3] Doppler echo to detect elevated
+pulmonary artery pressure is the test of choice. Screening for PAH is also indicated in patients with
+the scleroderma spectrum of disease, and in patients with liver cirrhosis undergoing evaluation for liver
+transplantation. However, given the low prevalence of PAH, screening runs the risk of false-positives, and
+thus results must be carefully evaluated, ideally at expert centers.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Approach
+Treatment goals include the following: improvement to WHO functional class I or II, improvement in the 6-
+minute walk distance (6MWD) to 380-440 meters, normal or near normal right ventricular (RV) size and
+function on echocardiography, a peak oxygen uptake of >15 mL/kg/minute during cardiopulmonary exercise
+testing, normal B-type natriuretic peptide (BNP) levels, and normalization of RV function as assessed by
+hemodynamics obtained by right heart catheterization (right atrial pressure <8 mmHg and cardiac index >2.5
+L/minute/m²).[56]
+Due to the complexities that these patients pose, it is strongly recommended that they are referred to a
+center with expertise in the treatment of pulmonary arterial hypertension (PAH). Treatment options available
+include general supportive therapy, pulmonary artery hypertension-specific therapy (calcium-channel
+blockers, prostanoids, endothelin receptor antagonists, phosphodiesterase-5 [PDE5] inhibitors, a selective
+prostacyclin IP receptor agonist [selexipag], a soluble guanylate cyclase stimulator [riociguat], or an activin
+signaling inhibitor [sotatercept]), and lung transplantation as appropriate.[3] [35][57]
+Supportive therapy
+General supportive therapy is indicated for most patients.[3] [35] [57]
+• Supervised exercise training: recommended for those on PAH medical therapy who are in a
+stable clinical condition.[3] [58] [59] [60]  Heavy physical exertion and isometric exercise should
+be avoided.[61] There is a lack of evidence for a direct impact of exercise training on survival and
+outcome in pulmonary hypertension. However, there are studies showing a beneficial effect on
+prognostically important parameters. The European Respiratory Society has identified a strong
+need to establish specialized rehabilitation programs for patients with PAH to enhance access to
+this treatment intervention, which appears to be effective, cost-efficient and safe.[59]
+• Psychosocial support: should be considered, including advanced care planning with referral to
+specialist palliative care services at the right time.[3]
+• Vaccinations: patients should be offered influenza,  Streptococcus pneumoniae , and coronavirus
+disease 2019 (COVID-19) vaccinations at a minimum.[3]
+• Diuretics: recommended in patients with fluid retention and signs of right ventricular failure.[3] [62]
+[63]
+• Supplemental oxygen: given in hypoxemia.[4]
+• Supplemental iron: correction of iron status in case of iron deficiency.[3]
+• Anticoagulation: not generally recommended in patients with PAH but should be considered on a
+case-by-case basis.[3]
+• Pregnancy: patients with IPAH should avoid pregnancy, and women of childbearing age should be
+counseled about the risks associated with becoming pregnant.[3] [35] Those who present during
+pregnancy, or who become pregnant, should be treated by a multidisciplinary team experienced in
+managing pulmonary hypertension in pregnancy. Some of the drugs used to treat IPAH may cause
+fetal harm and may not be recommended in pregnancy; consult your local drug information source
+for more information.
+Acute vasoreactivity testing
+In some patients, vasoconstriction largely predominates over vascular remodeling phenomena. In this
+situation, calcium channel blockers can provide real clinical benefit.[4] These patients are identified by
+acute vasoreactivity testing (with inhaled nitric oxide, inhaled iloprost, or intravenous epoprostenol), which
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Idiopathic pulmonary arterial hypertension Management
+should generally be performed in all IPAH patients. Patients who are responsive should be treated with
+optimally tolerated doses of calcium-channel blockers. It is estimated that <10% of patients with IPAH
+are responders.[64] Vasoreactivity testing is contraindicated in patients with WHO functional class IV
+symptoms and low cardiac index. Vasoreactivity testing is generally not recommended for pulmonary
+hypertension that is caused by underlying diseases.
+Positive response:
+• A positive response is defined as a fall in mean pulmonary artery pressure by ≥10 mmHg to reach
+an absolute value ≤40 mmHg, with an increased or unchanged cardiac output.[3] [61] About 12%
+of IPAH patients may have a positive response and should be started on calcium-channel blocker
+therapy.[3] [47]
+• A satisfactory response to calcium-channel blocker therapy is defined as being in WHO functional
+class I or II with near-normal hemodynamics after several months of therapy.[3] [47] Close
+monitoring is mandatory, and patients should have a full reassessment at 3-6 months.[3]
+• Patients with a sustained satisfactory response should continue calcium-channel blocker therapy,
+with further reassessment every 6-12 months.[3]
+• Patients without a sustained satisfactory response require additional therapy and should be
+treated the same as those with a negative response to acute vasoreactivity testing. Continuation
+of calcium-channel blocker (combined with additional therapy) may need to be considered in some
+patients because of clinical deterioration with calcium-channel blocker withdrawal attempts.[3]
+• Calcium-channel blockers predominantly used in PAH are nifedipine, diltiazem, felodipine, and
+amlodipine.[3] Choice of drug is based on baseline heart rate (HR): if HR <100 beats/minute -
+nifedipine, felodipine, amlodipine; if HR >100 beats/minute - diltiazem.
+Nonresponders to vasoreactivity testing and patients without sustained response to calcium-channel
+blockers, or those in whom calcium-channel blockers are contraindicated, should be started on another
+PAH-specific therapy. All currently approved drugs target the vasoconstriction-vasodilation balance of
+endothelial dysfunction and vascular smooth muscle cell proliferation observed in PAH.[4] Targeted
+treatment options include the following.
+• Prostanoids: prostanoids have been shown to improve the distance walked in 6 minutes, functional
+class, and hemodynamics, and to avoid clinical worsening.[3] [65]  Epoprostenol is administered
+via continuous intravenous infusion (requiring an infusion pump and a permanent central
+venous catheter, with associated risks of central venous catheter bloodstream infections). In
+one prospective, randomized, multicenter trial, continuous intravenous infusion of epoprostenol
+improved symptoms, hemodynamics, and survival in patients with severe IPAH.[66] Other
+prostanoids include treprostinil, which can be administered subcutaneously or intravenously.
+ Subcutaneous administration of treprostinil avoids the risks associated with chronic indwelling
+central venous catheters, and in one double-blind, placebo-controlled multicenter trial was shown to
+improve exercise capacity, symptoms, and hemodynamics in patients with PAH.[67]
+• Endothelin receptor antagonists: endothelin-1 binds to endothelin A and B receptors and is a
+potent vasoconstrictor and smooth-muscle mitogen whose system is activated in IPAH.[3] One
+Cochrane review found that for people with WHO functional class II and III PAH, endothelin
+receptor antagonists probably increase exercise capacity, improve WHO functional class, prevent
+WHO functional class deterioration, and improve hemodynamics.[68]  Bosentan, an oral antagonist
+of both endothelin A and B receptors, has shown improvements in the 6MWD, functional class,
+hemodynamics, and time to clinical worsening. Liver function tests should be checked every
+month and hematocrit every 3 months. Bosentan is teratogenic in animals and may lessen the
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+effectiveness of hormonal contraception. It may cause testicular atrophy and male infertility.[61]
+Ambrisentan, a selective endothelin A receptor antagonist, improves exercise capacity, symptoms,
+and hemodynamics and carries a low risk of liver toxicity.[69] [70] Macitentan is a novel dual
+endothelin receptor antagonist found to delay a composite endpoint of morbidity and mortality
+(driven by worsening PAH symptoms) in one long-term event-driven placebo-controlled clinical
+trial.[71]
+• PDE5 inhibitors: these agents augment the pulmonary vascular response to nitric oxide (NO).[72]
+ Tadalafil has been shown to improve the 6MWD and to be associated with less clinical worsening
+and improved quality of life.[73]  Sildenafil has been shown to improve exercise capacity, functional
+class, and hemodynamics in patients with PAH, and may reduce clinical worsening.[74] [75]
+• Soluble guanylate cyclase stimulators: also augment the NO pathway, but they do so by directly
+stimulating the enzyme that synthesizes cyclic guanosine monophosphate (cGMP), the second
+messenger and downstream effector of NO. Riociguat, the only drug available in this class to
+date, improved 6MWD, pulmonary vascular resistance, N-terminal pro-B-type natriuretic peptide,
+WHO functional class, and time to clinical worsening in one 12-week, double-blind, multicenter
+randomized trial.[76]
+• Selective prostacyclin IP receptor agonists: selexipag, the only drug available in this class, reduced
+the risk of a composite of death or complications related to PAH in both pretreated patients and
+patients naive to therapy. Lower rates of disease progression and hospitalization accounted for the
+majority of the risk reduction.[77]
+• Activin signaling inhibitor: sotatercept is a recombinant fusion protein composed of the extracellular
+domain of the human activin receptor type IIA linked to the FC domain of human IgG1, which acts
+as a ligand trap by binding activins and GDFs, thus restoring the balance between proproliferative
+and antiproliferative bone morphogenetic protein (BMP) pathways.[78] Sotatercept is approved in
+the US for the treatment of adults with PAH to increase exercise capacity, improve WHO functional
+class, and reduce the risk of clinical worsening events. It is also approved in Europe for this
+indication. In one phase 2 trial, treatment with sotatercept resulted in a reduction in pulmonary
+vascular resistance in patients receiving background therapy for PAH, compared with placebo.[79]
+In the multicenter, double-blind, phase 3 STELLAR trial, in patients with PAH (WHO functional class
+II or III) on stable background therapy, adding sotatercept significantly improved exercise capacity
+(as assessed by the 6-minute walk test), compared with placebo.[80]
+Risk stratification as a basis for treatment decisions
+For treatment decisions, a rational approach should be used to classify patients into risk groups based on
+the combination of several clinical features, including hemodynamics, WHO functional class, 6MWD, and
+BNP or N-terminal pro-BNP (NT-proBNP).[3] [57] In general, the goal of therapy is to shift patients to, or
+maintain patients in, a low-risk category. Significant clinical judgment and experience is needed to make
+these decisions.
+For patients without cardiopulmonary comorbidities, the European Society of Cardiology (ESC)/European
+Respiratory Society (ERS) guidelines recommend a three-strata model for risk assessment at the time of
+diagnosis, using categories of low, intermediate, and high risk of mortality at 1 year to assess survival and
+guide management.[3] [54]
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Idiopathic pulmonary arterial hypertension Management
+Comprehensive risk assessment in pulmonary arterial hypertension (three-strata model). 6MWD, 6-minute
+walking distance; BNP, brain natriuretic peptide; CI, cardiac index; cMRI, cardiac magnetic resonance imaging;
+CPET, cardiopulmonary exercise testing; HF, heart failure; NT-proBNP, N-terminal pro-brain natriuretic peptide;
+PAH, pulmonary arterial hypertension; pred., predicted; RA, right atrium; RAP, right atrial pressure; sPAP,
+systolic pulmonary arterial pressure; SvO2, mixed venous oxygen saturation; RVESVI, right ventricular end-
+systolic volume index; RVEF, right ventricular ejection fraction; SVI, stroke volume index; TAPSE, tricuspid
+annular plane systolic excursion; VE/VCO2, ventilatory equivalents for carbon dioxide; VO2, oxygen uptake;
+WHO-FC, World Health Organization functional class. a: Occasional syncope during heavy exercise or
+occasional orthostatic syncope in a stable patient. b: Repeated episodes of syncope even with little or
+regular physical activity. c: Observe that 6MWD is dependent upon age, height, and burden of comorbidities.
+European Heart Journal. 2022 Oct 7;43(38):3618-731; used with permission
+Patients initially assessed as at low or intermediate risk of mortality who are unresponsive to acute
+vasoreactivity testing, or who cannot take calcium-channel blockers, should preferably be started on
+combination therapy with an endothelin receptor antagonist plus a PDE5 inhibitor.[3] ESC/ERS guidelines
+recommend initial oral combination therapy with tadalafil plus either ambrisentan or macitentan.[3]
+Combinations of other endothelin receptor antagonists and PDE5 inhibitors may also be considered.
+One multicenter, randomized, double-blind, phase 3 study showed a lower risk of clinical failure with
+upfront combination therapy with ambrisentan plus tadalafil compared with each monotherapy alone.[81]
+ In this study, upfront combination therapy with ambrisentan plus tadalafil delayed clinical worsening
+in PAH, particularly hospitalizations. Another multicenter, randomized, double-blind, phase 3b study
+demonstrated substantial improvements in hemodynamics and exercise capacity with initial combination
+therapy (macitentan and tadalafil) and that there was no benefit of triple therapy (macitentan, tadalafil,
+and selexipag) compared with the double therapy.[82]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Patients initially assessed as being at high risk of mortality who are unresponsive to acute vasoreactivity
+testing, or who cannot take calcium-channel blockers, should be considered for combination therapy
+with an endothelin receptor antagonist plus a PDE5 inhibitor plus a parenteral prostanoid (intravenous
+epoprostenol or intravenous/subcutaneous treprostinil).[3] Upfront triple therapy is associated with clinical
+and hemodynamic improvement and reduces right ventricular remodeling.[83] [84] [85]
+During monitoring and follow-up after initial therapy (every 3-6 months according to patient needs), the
+ESC/ERS guidelines recommend using a four-strata model, which uses categories of low, intermediate-
+low, intermediate-high, and high risk to guide treatment decisions.[3]
+Variables used to calculate the simplified four-strata risk-assessment tool
+European Heart Journal. 2022 Oct 7;43(38):3618-731; used with permission
+Patients assessed to be at low risk should continue their initial therapy.[3] Switching from intravenous or
+subcutaneous therapy to oral therapy in patients who achieve a low risk status can be considered on a
+case-by-case basis.
+Addition of selexipag to the initial combination of an endothelin receptor antagonist plus a PDE5 inhibitor
+should be considered for patients assessed to be at intermediate-low risk. Alternatively, switching from the
+PDE5 inhibitor to riociguat may also be considered.[86] A PDE5 inhibitor and riociguat should not be used
+in combination, because this leads to a higher risk of systemic hypotension.[87] 
+Addition of a prostanoid should be considered for patients assessed to be at intermediate-high or high risk
+while on an initial combination of an endothelin receptor antagonist plus a PDE5 inhibitor.[87] Referral for
+lung transplantation evaluation should also be considered.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Idiopathic pulmonary arterial hypertension Management
+Patients with cardiopulmonary comorbidities
+Evidence for treatment of patients with cardiopulmonary comorbidities is lacking. The ESC/ERS
+guidelines recommend that initial monotherapy with an endothelin receptor antagonist or a PDE5 inhibitor
+may be considered, with additional treatment options considered on an individual basis for those at
+intermediate or high risk of death at follow-up.[3]
+Treatment-resistant patients
+Patients refractory to all medical therapy should be evaluated for lung transplantation.[3]
+The availability of effective medical therapy has reduced the need for lung transplantation. However,
+transplantation remains an important option for patients in whom medical therapy has failed and
+who remain in WHO functional class III or IV. Referral for lung transplant evaluation is recommended
+when patients present with an inadequate response to optimized combination therapy and have an
+intermediate-high or high risk of death.[3] Double lung transplantation is most commonly performed.
+Heart-lung transplantation should be considered in patients with additional cardiac conditions.[3] When to
+list a patient for lung transplantation is a difficult decision, further complicated by the unpredictable waiting
+list and the shortage of donor organs.[3]
+Balloon atrial septostomy (BAS) produces right-to-left shunting that decompresses the right atrium and
+right ventricle, increases systemic cardiac output, and decreases systemic arterial oxygen saturation.
+The latter is offset by the increase in output leading to an increase in systemic oxygen transport.[3] BAS
+is used as a palliative option or bridge to lung transplantation in patients who are deteriorating despite
+maximal medical therapy; as it is a complex and high-risk procedure it is rarely performed and only
+considered in experienced centers.[3] [57]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Ongoing ( summary )
+positive response to acute
+vasoreactivity testing with no
+contraindication to calcium-channel
+blockers
+1st calcium-channel blocker trial
+plus supportive measures
+adjunct diuretic
+adjunct supplemental oxygen
+adjunct anticoagulation
+adjunct iron supplementation
+negative response to acute
+vasoreactivity testing or
+contraindication to calcium-channel
+blockers: without cardiopulmonary
+comorbidity
+initially assessed as low
+or intermediate risk
+1st endothelin receptor antagonist +
+phosphodiesterase-5 (PDE5) inhibitor
+plus supportive measures
+adjunct sotatercept
+adjunct diuretic
+adjunct supplemental oxygen
+adjunct anticoagulation
+adjunct iron supplementation
+initially assessed as high
+risk
+1st endothelin receptor antagonist +
+phosphodiesterase-5 (PDE5) inhibitor +
+prostanoid
+plus supportive measures
+adjunct sotatercept
+adjunct diuretic
+adjunct supplemental oxygen
+adjunct anticoagulation
+adjunct iron supplementation
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing ( summary )
+assessed as low risk at
+follow-up
+1st continue initial therapy
+plus supportive measures
+adjunct diuretic
+adjunct supplemental oxygen
+adjunct anticoagulation
+adjunct iron supplementation
+assessed as intermediate-
+low risk at follow-up
+1st endothelin receptor antagonist +
+phosphodiesterase-5 (PDE5) inhibitor
++ selexipag OR endothelin receptor
+antagonist + riociguat
+plus supportive measures
+adjunct sotatercept
+adjunct diuretic
+adjunct supplemental oxygen
+adjunct anticoagulation
+adjunct iron supplementation
+assessed as intermediate-
+high or high risk at
+follow-up
+1st endothelin receptor antagonist +
+phosphodiesterase-5 (PDE5) inhibitor +
+prostanoid
+plus evaluation for lung transplant
+plus supportive measures
+adjunct sotatercept
+adjunct diuretic
+adjunct supplemental oxygen
+adjunct anticoagulation
+adjunct iron supplementation
+negative response to
+acute vasoreactivity
+testing or
+contraindication
+to calcium-channel
+blockers: with
+cardiopulmonary
+comorbidity
+1st individualized therapy
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Ongoing
+positive response to acute
+vasoreactivity testing with no
+contraindication to calcium-channel
+blockers
+1st calcium-channel blocker trial
+Primary options
+» nifedipine: 30 mg orally (extended-release)
+once daily initially, increase gradually
+according to response, maximum 240 mg/day
+given in 1-2 divided doses
+OR
+» diltiazem: 40 mg orally (immediate-release)
+three times daily initially, increase gradually
+according to response, maximum 720 mg/day
+OR
+» felodipine: 5 mg orally once daily initially,
+increase gradually according to response,
+maximum 30 mg/day given in 1-2 divided
+doses
+OR
+» amlodipine: 5 mg orally once daily initially,
+increase gradually according to response,
+maximum 30 mg/day given in 1-2 divided
+doses
+» Acute vasoreactivity testing (with inhaled
+nitric oxide, inhaled iloprost, or intravenous
+epoprostenol) should generally be performed
+in all patients who would be candidates for
+calcium-channel blockers.[3] It is estimated that
+<10% of patients with IPAH are responders.[64]
+ Vasoreactivity testing is contraindicated in
+patients with WHO functional class IV symptoms
+and low cardiac index. Vasoreactivity testing
+is generally not recommended for pulmonary
+hypertension that is caused by underlying
+diseases.
+» A positive response is defined as a fall in
+mean pulmonary artery pressure (mPAP) of
+≥10 mmHg to reach an absolute value of ≤40
+mmHg, with no decrease in cardiac output.[3]
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+[61] About 12% of patients are responsive,
+and they should be started on calcium-channel
+blocker therapy.[3] [47]
+» Calcium-channel blockers predominantly used
+in pulmonary arterial hypertension are nifedipine,
+diltiazem, felodipine, and amlodipine.[3] Choice
+of drug can be based on baseline heart rate
+(HR): if HR <100 beats/minute - nifedipine,
+felodipine, or amlodipine; if HR >100 beats/
+minute - diltiazem.
+» A satisfactory response to a calcium-channel
+blocker is defined as being in functional class
+I or II with near-normal hemodynamics after
+several months of therapy.[3] [47] Close
+monitoring is mandatory, and patients should
+have a full reassessment at 3-6 months.[3]
+» Patients with a sustained satisfactory
+response should continue calcium-channel
+blocker therapy, with reassessment every 6-12
+months.[3]
+» Patients without a sustained satisfactory
+response require additional therapy and should
+be treated the same as those with a negative
+response to acute vasoreactivity testing (see
+below). Continuation of calcium-channel
+blocker (combined with additional therapy)
+may need to be considered in some patients
+because of clinical deterioration with calcium-
+channel blocker withdrawal attempts; consult a
+specialist.[3]
+plus supportive measures
+Treatment recommended for ALL patients in
+selected patient group
+» General supportive therapy is indicated for
+most patients.[3][35] [57]
+» Supervised exercise training is recommended
+for those on pulmonary arterial hypertension
+medical therapy who are in a stable clinical
+condition.[3] [58] [59] [60]  Heavy physical
+exertion and isometric exercise should be
+avoided.[61] There is a lack of evidence for a
+direct impact of exercise training on survival
+and outcome in pulmonary hypertension.
+However, there are studies showing a beneficial
+effect on prognostically important parameters.
+The European Respiratory Society has
+identified a strong need to establish specialized
+rehabilitation programs for patients with PAH to
+enhance access to this treatment intervention,
+which appears to be effective, cost-efficient and
+safe.[59]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+» Psychosocial support should be considered,
+including advanced care planning with referral
+to specialist palliative care services at the right
+time.[3]
+» Patients should be up to date with vaccinations
+and should be offered vaccinations for influenza,
+Streptococcus pneumoniae , and coronavirus
+disease 2019 (COVID-19) at a minimum.[3]
+» Patients with IPAH should avoid pregnancy,
+and women of childbearing age should be
+counseled about the risks associated with
+becoming pregnant.[3] [35] Those who present
+during pregnancy, or who become pregnant,
+should be treated by a multidisciplinary
+team experienced in managing pulmonary
+hypertension in pregnancy. Some of the drugs
+used to treat IPAH may cause fetal harm and
+may not be recommended in pregnancy; consult
+your local drug information source for more
+information.
+adjunct diuretic
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» furosemide: 20-80 mg orally initially, may
+repeat dose or increase by 20-40 mg every
+6-8 hours according to response, usual
+dose 40-120 mg/day given in 1-2 divided
+doses, maximum 600 mg/day; 20-40 mg
+intravenously/intramuscularly initially, may
+repeat dose or increase by 20 mg every 2
+hours according to response
+» A diuretic (e.g., furosemide) is recommended
+in patients with fluid retention and signs of right
+ventricular failure.[3] [62] [63] Effect on mortality
+is unknown.
+» Serum electrolytes and renal function should
+be closely monitored.[3] [62] Excessive diuresis
+may lead to systemic hypotension, renal
+insufficiency, and syncope.
+» There are no trials with specific classes
+of diuretics, and thus the choice should be
+individualized according to local protocols.[3]
+adjunct supplemental oxygen
+Treatment recommended for SOME patients in
+selected patient group
+» Supplemental oxygen should be given
+in cases of hypoxemia, defined as arterial
+oxygen tension of <60 mmHg or oxygen
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+saturation of <92% at rest, during sleep, or with
+ambulation. Hypoxemia is a potent pulmonary
+vasoconstrictor and can contribute to the
+development and/or progression of pulmonary
+arterial hypertension (PAH).
+» The goal of therapy is to keep oxygen
+saturation >92% at all times.[61] However, no
+consistent data are available on the effects of
+long-term oxygen treatment in PAH.[3] Thus,
+this recommendation is based on expert opinion
+and extrapolated from data in chronic obstructive
+pulmonary disease.
+adjunct anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Patients with IPAH have in situ microscopic
+thrombosis in the pulmonary vasculature and
+prothrombotic abnormalities, and if in right
+ventricular failure, they are at increased risk
+for venous thromboembolism.[62] However,
+randomized controlled trial data on use of
+anticoagulation in patients with IPAH are lacking.
+Improved survival with anticoagulants has
+been reported in retrospective single-center
+studies, one small prospective noncontrolled
+nonrandomized study, and one observational
+registry.[63] [88] On the other hand, data from
+the REVEAL registry did not show a survival
+benefit from anticoagulation in IPAH patients.[89]
+ Therefore, anticoagulation is not generally
+recommended in patients with pulmonary arterial
+hypertension but should be considered on a
+case-by-case basis.[3] Consult a specialist
+for guidance on the choice of anticoagulant
+regimen.
+adjunct iron supplementation
+Treatment recommended for SOME patients in
+selected patient group
+» European guidelines recommend correction
+of iron status in patients with pulmonary
+arterial hypertension (PAH) and iron
+deficiency anemia.[3] Randomized controlled
+trials comparing oral and intravenous iron
+supplementation in patients with PAH are
+lacking. European guidelines recommend
+intravenous supplementation for patients with
+severe iron deficiency anemia (defined as
+hemoglobin <7-8 g/dL).[3] See Iron deficiency
+anemia .
+negative response to acute
+vasoreactivity testing or
+contraindication to calcium-channel
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+blockers: without cardiopulmonary
+comorbidity
+initially assessed as low
+or intermediate risk
+1st endothelin receptor antagonist +
+phosphodiesterase-5 (PDE5) inhibitor
+Primary options
+» ambrisentan: 5-10 mg orally once daily
+-or-
+» macitentan: 10 mg orally once daily
+--AND--
+» tadalafil: 40 mg orally once daily
+Secondary options
+» bosentan: body weight ≤40 kg: 62.5 mg
+orally twice daily; body weight >40 kg: 62.5 to
+125 mg orally twice daily
+-and-
+» tadalafil: 40 mg orally once daily
+OR
+» ambrisentan: 5-10 mg orally once daily
+-or-
+» macitentan: 10 mg orally once daily
+--AND--
+» sildenafil: 20-80 mg orally three times daily;
+10 mg intravenously every 8 hours
+» Low- or intermediate-risk patients who are
+unresponsive to acute vasoreactivity testing,
+or who cannot take calcium-channel blockers,
+should be started on combination therapy with
+an endothelin receptor antagonist plus a PDE5
+inhibitor.[3]
+» One multicenter, randomized, double-blind,
+phase 3 study showed a lower risk of clinical
+failure with upfront combination therapy with
+ambrisentan plus tadalafil compared with
+each monotherapy alone.[81] In this study,
+upfront combination therapy with ambrisentan
+plus tadalafil delayed clinical worsening
+in pulmonary arterial hypertension (PAH),
+particularly hospitalizations. Another multicenter,
+randomized, double-blind, phase 3b study
+demonstrated substantial improvements in
+hemodynamics and exercise capacity with
+initial endothelin receptor antagonist plus PDE5
+inhibitor combination therapy (macitentan and
+tadalafil) and that there was no benefit of triple
+therapy (macitentan, tadalafil, and selexipag)
+compared with the double therapy.[82]
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+» Endothelin receptor antagonists: ambrisentan
+has been shown to improve exercise capacity,
+symptoms, and hemodynamics and carries a low
+risk of liver toxicity.[69] [70] Macitentan, a novel
+dual endothelin receptor antagonist, was found
+to delay a composite endpoint of morbidity and
+mortality (driven by worsening PAH symptoms)
+in a long-term event-driven placebo-controlled
+clinical trial.[71] Common adverse effects include
+anemia, nasal congestion, and headache.
+Anemia can occasionally be severe. Bosentan
+acts as an antagonist of both endothelin-A
+and endothelin-B receptors, and has shown
+improvement in the 6-minute walk distance
+(6MWD), functional class, hemodynamics, and
+time to clinical worsening. Liver function tests
+should be checked every month and hematocrit
+every 3 months. Bosentan is teratogenic in
+animals and may lessen the effectiveness of
+hormonal contraception. It may cause testicular
+atrophy and male infertility.[61]
+» PDE5 inhibitors: augment the pulmonary
+vascular response to nitric oxide.[72] Tadalafil
+has been shown to improve the 6MWD and
+to be associated with less clinical worsening
+and improved quality of life.[73]  Sildenafil
+improves exercise capacity, functional class,
+and hemodynamics and may reduce clinical
+worsening.[74] [75] There appears to be no
+dose-response relationship between higher
+doses of sildenafil and exercise capacity.[61]
+» European guidelines recommend initial oral
+combination therapy with tadalafil plus either
+ambrisentan or macitentan.[3] Combinations of
+other endothelin receptor antagonists and PDE5
+inhibitors may also be considered. Proprietary
+combination fixed-dose formulations may be
+available in some countries (e.g., macitentan/
+tadalafil).
+» The European guidelines state that patients
+at intermediate risk presenting with severe
+hemodynamic impairment should be considered
+for initial triple therapy including a prostanoid
+(see patient group 'initially assessed as high
+risk', below, for details).
+plus supportive measures
+Treatment recommended for ALL patients in
+selected patient group
+» General supportive therapy is indicated for
+most patients.[3][35] [57]
+» Supervised exercise training: recommended
+for those on PAH medical therapy who are in a
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+stable clinical condition.[3] [58] [59] [60]  Heavy
+physical exertion and isometric exercise should
+be avoided.[61] There is a lack of evidence for
+a direct impact of exercise training on survival
+and outcome in pulmonary hypertension.
+However, there are studies showing a beneficial
+effect on prognostically important parameters.
+The European Respiratory Society has
+identified a strong need to establish specialized
+rehabilitation programs for patients with PAH to
+enhance access to this treatment intervention,
+which appears to be effective, cost-efficient and
+safe.[59]
+» Psychosocial support should be considered,
+including advanced care planning with referral
+to specialist palliative care services at the right
+time.[3]
+» Patients should be up to date with vaccinations
+and should be offered vaccinations for influenza,
+Streptococcus pneumoniae , and coronavirus
+disease 2019 (COVID-19) at a minimum.[3]
+» Patients with IPAH should avoid pregnancy,
+and women of childbearing age should be
+counseled about the risks associated with
+becoming pregnant.[3] [35] Those who present
+during pregnancy, or who become pregnant,
+should be treated by a multidisciplinary
+team experienced in managing pulmonary
+hypertension in pregnancy. Some of the drugs
+used to treat IPAH may cause fetal harm and
+may not be recommended in pregnancy; consult
+your local drug information source for more
+information.
+adjunct sotatercept
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» sotatercept: 0.3 mg/kg subcutaneously
+every 3 weeks initially, increase to target dose
+of 0.7 mg/kg every 3 weeks according to
+response
+Assess hemoglobin and platelet counts
+before each dose for the first 5 doses (or
+longer if values are unstable), and monitor
+periodically thereafter. Dose modifications
+may be necessary; consult prescribing
+information for more information. Do not
+initiate therapy if platelet count <50,000/mm³.
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+» Sotatercept, an activin signaling inhibitor, is
+approved in the US and Europe for the treatment
+of adults with pulmonary arterial hypertension
+to increase exercise capacity, improve WHO
+functional class, and reduce the risk of clinical
+worsening events. Addition of sotatercept
+to background therapy can be considered;
+however, guidelines do not yet recommend its
+use and there is no clear guidance on which
+patients should receive it.
+» In one phase 2 trial, treatment with sotatercept
+resulted in a reduction in pulmonary vascular
+resistance in patients receiving background
+therapy for PAH, compared with placebo.[79] In
+the multicenter, double-blind, phase 3 STELLAR
+trial, in patients with PAH (WHO functional class
+II or III) on stable background therapy, adding
+sotatercept significantly improved exercise
+capacity (as assessed by the 6-minute walk
+test), compared with placebo.[80]
+» Sotatercept may cause serious bleeding (more
+likely with concomitant prostacyclin therapy and/
+or antithrombotic agents), erythrocytosis, and
+severe thrombocytopenia.
+»
+adjunct diuretic
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» furosemide: 20-80 mg orally initially, may
+repeat dose or increase by 20-40 mg every
+6-8 hours according to response, usual
+dose 40-120 mg/day given in 1-2 divided
+doses, maximum 600 mg/day; 20-40 mg
+intravenously/intramuscularly initially, may
+repeat dose or increase by 20 mg every 2
+hours according to response
+» A diuretic (e.g., furosemide) is recommended
+in patients with fluid retention and signs of right
+ventricular failure.[3] [62] [63] Effect on mortality
+is unknown.
+» Serum electrolytes and renal function should
+be closely monitored.[3] [62] Excessive diuresis
+may lead to systemic hypotension, renal
+insufficiency, and syncope.
+» There are no trials with specific classes
+of diuretics, and thus the choice should be
+individualized according to local protocols.[3]
+adjunct supplemental oxygen
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+Treatment recommended for SOME patients in
+selected patient group
+» Supplemental oxygen should be given
+in cases of hypoxemia, defined as arterial
+oxygen tension of <60 mmHg or oxygen
+saturation of <92% at rest, during sleep, or with
+ambulation. Hypoxemia is a potent pulmonary
+vasoconstrictor and can contribute to the
+development and/or progression of pulmonary
+arterial hypertension (PAH).
+» The goal of therapy is to keep oxygen
+saturation >92% at all times.[61] However, no
+consistent data are available on the effects of
+long-term oxygen treatment in PAH.[3] Thus,
+this recommendation is based on expert opinion
+and extrapolated from data in chronic obstructive
+pulmonary disease.
+adjunct anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Patients with IPAH have in situ microscopic
+thrombosis in the pulmonary vasculature and
+prothrombotic abnormalities, and if in right
+ventricular failure, they are at increased risk
+for venous thromboembolism.[62] However,
+randomized controlled trial data on use of
+anticoagulation in patients with IPAH are lacking.
+Improved survival with anticoagulants has
+been reported in retrospective single-center
+studies, one small prospective noncontrolled
+nonrandomized study, and one observational
+registry.[63] [88] On the other hand, data from
+the REVEAL registry did not show a survival
+benefit from anticoagulation in IPAH patients.[89]
+ Therefore, anticoagulation is not generally
+recommended in patients with pulmonary arterial
+hypertension but should be considered on a
+case-by-case basis.[3] Consult a specialist
+for guidance on the choice of anticoagulant
+regimen.
+adjunct iron supplementation
+Treatment recommended for SOME patients in
+selected patient group
+» European guidelines recommend correction
+of iron status in patients with pulmonary
+arterial hypertension (PAH) and iron
+deficiency anemia.[3] Randomized controlled
+trials comparing oral and intravenous iron
+supplementation in patients with PAH are
+lacking. European guidelines recommend
+intravenous supplementation for patients with
+severe iron deficiency anemia (defined as
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+hemoglobin <7-8 g/dL).[3] See Iron deficiency
+anemia .
+»
+initially assessed as high
+risk
+1st endothelin receptor antagonist +
+phosphodiesterase-5 (PDE5) inhibitor +
+prostanoid
+Primary options
+» ambrisentan: 5-10 mg orally once daily
+-or-
+» macitentan: 10 mg orally once daily
+--AND--
+» tadalafil: 40 mg orally once daily
+--AND--
+» epoprostenol: 2 nanograms/kg/minute
+intravenously initially, increase by 2
+nanograms/kg/minute every 15 minutes
+according to response
+-or-
+» treprostinil: 1.25 nanograms/kg/minute
+intravenously/subcutaneously initially,
+increase by 1.25 nanograms/kg/minute
+per week for the first 4 weeks and then by
+2.5 nanograms/kg/minute per week for the
+remaining duration of the infusion according
+to response
+Secondary options
+» bosentan: body weight ≤40 kg: 62.5 mg
+orally twice daily; body weight >40 kg: 62.5 to
+125 mg orally twice daily
+--AND--
+» tadalafil: 40 mg orally once daily
+--AND--
+» epoprostenol: 2 nanograms/kg/minute
+intravenously initially, increase by 2
+nanograms/kg/minute every 15 minutes
+according to response
+-or-
+» treprostinil: 1.25 nanograms/kg/minute
+intravenously/subcutaneously initially,
+increase by 1.25 nanograms/kg/minute
+per week for the first 4 weeks and then by
+2.5 nanograms/kg/minute per week for the
+remaining duration of the infusion according
+to response
+OR
+» ambrisentan: 5-10 mg orally once daily
+-or-
+» macitentan: 10 mg orally once daily
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+--AND--
+» sildenafil: 20-80 mg orally three times daily;
+10 mg intravenously every 8 hours
+--AND--
+» epoprostenol: 2 nanograms/kg/minute
+intravenously initially, increase by 2
+nanograms/kg/minute every 15 minutes
+according to response
+-or-
+» treprostinil: 1.25 nanograms/kg/minute
+intravenously/subcutaneously initially,
+increase by 1.25 nanograms/kg/minute
+per week for the first 4 weeks and then by
+2.5 nanograms/kg/minute per week for the
+remaining duration of the infusion according
+to response
+» High-risk patients who are unresponsive to
+acute vasoreactivity testing, or who cannot take
+calcium-channel blockers, should be considered
+for combination therapy with an endothelin
+receptor antagonist plus a PDE5 inhibitor plus a
+parenteral prostanoid (intravenous epoprostenol
+or intravenous/subcutaneous treprostinil).[3]
+Upfront triple therapy is associated with clinical
+and hemodynamic improvement and reduces
+right ventricular remodeling.[83] [84] [85]
+» Endothelin receptor antagonists: ambrisentan
+has been shown to improve exercise capacity,
+symptoms, and hemodynamics and carries a low
+risk of liver toxicity.[69] [70] Macitentan, a novel
+dual endothelin receptor antagonist, was found
+to delay a composite endpoint of morbidity and
+mortality (driven by worsening pulmonary arterial
+hypertension [PAH] symptoms) in a long-term
+event-driven placebo-controlled clinical trial.[71]
+Common adverse effects include anemia,
+nasal congestion, and headache. Anemia can
+occasionally be severe. Bosentan acts as an
+antagonist of both endothelin-A and endothelin-B
+receptors, and has shown improvement in the 6-
+minute walk distance (6MWD), functional class,
+hemodynamics, and time to clinical worsening.
+Liver function tests should be checked every
+month and hematocrit every 3 months. Bosentan
+is teratogenic in animals and may lessen the
+effectiveness of hormonal contraception. It may
+cause testicular atrophy and male infertility.[61]
+» PDE5 inhibitors: augment the pulmonary
+vascular response to nitric oxide.[72] Tadalafil
+has been shown to improve the 6MWD and
+to be associated with less clinical worsening
+and improved quality of life.[73]  Sildenafil
+improves exercise capacity, functional class,
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+and hemodynamics and may reduce clinical
+worsening.[74] [75] There appears to be no
+dose-response relationship between higher
+doses of sildenafil and exercise capacity.[61]
+» Prostanoids: shown to improve the distance
+walked in 6 minutes, functional class,
+and hemodynamics and to avoid clinical
+worsening.[3] [65]  Epoprostenol is administered
+via a continuous intravenous infusion (requiring
+an infusion pump and a permanent central
+venous catheter with associated risks of central
+venous catheter bloodstream infections). In
+one prospective, randomized, multicenter trial,
+continuous intravenous infusion of epoprostenol
+improved symptoms, hemodynamics, and
+survival in patients with severe IPAH.[66]
+ Treprostinil can be administered subcutaneously
+or intravenously. Subcutaneous administration
+of treprostinil avoids the risks associated with
+chronic indwelling central venous catheters,
+and in one double-blind, placebo-controlled
+multicenter trial was shown to improve exercise
+capacity, symptoms and hemodynamics in
+patients with PAH.[67]
+plus supportive measures
+Treatment recommended for ALL patients in
+selected patient group
+» General supportive therapy is indicated for
+most patients.[3][35] [57]
+» Supervised exercise training: recommended
+for those on PAH medical therapy who are in a
+stable clinical condition.[3] [58] [59] [60]  Heavy
+physical exertion and isometric exercise should
+be avoided.[61] There is a lack of evidence for
+a direct impact of exercise training on survival
+and outcome in pulmonary hypertension.
+However, there are studies showing a beneficial
+effect on prognostically important parameters.
+The European Respiratory Society has
+identified a strong need to establish specialized
+rehabilitation programs for patients with PAH to
+enhance access to this treatment intervention,
+which appears to be effective, cost-efficient and
+safe.[59]
+» Psychosocial support should be considered,
+including advanced care planning with referral
+to specialist palliative care services at the right
+time.[3]
+» Patients should be up to date with vaccinations
+and should be offered vaccinations for influenza,
+Streptococcus pneumoniae , and coronavirus
+disease 2019 (COVID-19) at a minimum.[3]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+» Patients with IPAH should avoid pregnancy,
+and women of childbearing age should be
+counseled about the risks associated with
+becoming pregnant.[3] [35] Those who present
+during pregnancy, or who become pregnant,
+should be treated by a multidisciplinary
+team experienced in managing pulmonary
+hypertension in pregnancy. Some of the drugs
+used to treat IPAH may cause fetal harm and
+may not be recommended in pregnancy; consult
+your local drug information source for more
+information.
+adjunct sotatercept
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» sotatercept: 0.3 mg/kg subcutaneously
+every 3 weeks initially, increase to target dose
+of 0.7 mg/kg every 3 weeks according to
+response
+Assess hemoglobin and platelet counts
+before each dose for the first 5 doses (or
+longer if values are unstable), and monitor
+periodically thereafter. Dose modifications
+may be necessary; consult prescribing
+information for more information. Do not
+initiate therapy if platelet count <50,000/mm³.
+» Sotatercept, an activin signaling inhibitor, is
+approved in the US and Europe for the treatment
+of adults with pulmonary arterial hypertension
+to increase exercise capacity, improve WHO
+functional class, and reduce the risk of clinical
+worsening events. Addition of sotatercept
+to background therapy can be considered;
+however, guidelines do not yet recommend its
+use and there is no clear guidance on which
+patients should receive it.
+» In one phase 2 trial, treatment with sotatercept
+resulted in a reduction in pulmonary vascular
+resistance in patients receiving background
+therapy for PAH, compared with placebo.[79] In
+the multicenter, double-blind, phase 3 STELLAR
+trial, in patients with PAH (WHO functional class
+II or III) on stable background therapy, adding
+sotatercept significantly improved exercise
+capacity (as assessed by the 6-minute walk
+test), compared with placebo.[80]
+» Sotatercept may cause serious bleeding (more
+likely with concomitant prostacyclin therapy and/
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+or antithrombotic agents), erythrocytosis, and
+severe thrombocytopenia.
+adjunct diuretic
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» furosemide: 20-80 mg orally initially, may
+repeat dose or increase by 20-40 mg every
+6-8 hours according to response, usual
+dose 40-120 mg/day given in 1-2 divided
+doses, maximum 600 mg/day; 20-40 mg
+intravenously/intramuscularly initially, may
+repeat dose or increase by 20 mg every 2
+hours according to response
+» A diuretic (e.g., furosemide) is recommended
+in patients with fluid retention and signs of right
+ventricular failure.[3] [62] [63] Effect on mortality
+is unknown.
+» Serum electrolytes and renal function should
+be closely monitored.[3] [62] Excessive diuresis
+may lead to systemic hypotension, renal
+insufficiency, and syncope.
+» There are no trials with specific classes
+of diuretics, and thus the choice should be
+individualized according to local protocols.[3]
+adjunct supplemental oxygen
+Treatment recommended for SOME patients in
+selected patient group
+» Supplemental oxygen should be given
+in cases of hypoxemia, defined as arterial
+oxygen tension of <60 mmHg or oxygen
+saturation of <92% at rest, during sleep, or with
+ambulation. Hypoxemia is a potent pulmonary
+vasoconstrictor and can contribute to the
+development and/or progression of pulmonary
+arterial hypertension (PAH).
+» The goal of therapy is to keep oxygen
+saturation >92% at all times.[61] However, no
+consistent data are available on the effects of
+long-term oxygen treatment in PAH.[3] Thus,
+this recommendation is based on expert opinion
+and extrapolated from data in chronic obstructive
+pulmonary disease.
+adjunct anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Patients with IPAH have in situ microscopic
+thrombosis in the pulmonary vasculature and
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+prothrombotic abnormalities, and if in right
+ventricular failure, they are at increased risk
+for venous thromboembolism.[62] However,
+randomized controlled trial data on use of
+anticoagulation in patients with IPAH are lacking.
+Improved survival with anticoagulants has
+been reported in retrospective single-center
+studies, one small prospective noncontrolled
+nonrandomized study, and one observational
+registry.[63] [88] On the other hand, data from
+the REVEAL registry did not show a survival
+benefit from anticoagulation in IPAH patients.[89]
+ Therefore, anticoagulation is not generally
+recommended in patients with pulmonary arterial
+hypertension but should be considered on a
+case-by-case basis.[3] Consult a specialist
+for guidance on the choice of anticoagulant
+regimen.
+adjunct iron supplementation
+Treatment recommended for SOME patients in
+selected patient group
+» European guidelines recommend correction
+of iron status in patients with pulmonary
+arterial hypertension (PAH) and iron
+deficiency anemia.[3] Randomized controlled
+trials comparing oral and intravenous iron
+supplementation in patients with PAH are
+lacking. European guidelines recommend
+intravenous supplementation for patients with
+severe iron deficiency anemia (defined as
+hemoglobin <7-8 g/dL).[3] See Iron deficiency
+anemia .
+assessed as low risk at
+follow-up
+1st continue initial therapy
+» Patients should have regular follow-up (every
+3-6 months according to patient needs). If they
+are assessed to be at low risk, they should
+continue their initial therapy.[3]
+» Switching from intravenous or subcutaneous
+therapy to oral therapy in a patient who achieves
+a low risk status can be considered on a case-
+by-case basis.
+plus supportive measures
+Treatment recommended for ALL patients in
+selected patient group
+» General supportive therapy is indicated for
+most patients.[3][35] [57]
+» Supervised exercise training is recommended
+for those on pulmonary arterial hypertension
+medical therapy who are in a stable clinical
+condition.[3] [58] [59] [60]  Heavy physical
+exertion and isometric exercise should be
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+avoided.[61] There is a lack of evidence for a
+direct impact of exercise training on survival
+and outcome in pulmonary hypertension.
+However, there are studies showing a beneficial
+effect on prognostically important parameters.
+The European Respiratory Society has
+identified a strong need to establish specialized
+rehabilitation programs for patients with PAH to
+enhance access to this treatment intervention,
+which appears to be effective, cost-efficient and
+safe.[59]
+» Psychosocial support should be considered,
+including advanced care planning with referral
+to specialist palliative care services at the right
+time.[3]
+» Patients should be up to date with vaccinations
+and should be offered vaccinations for influenza,
+Streptococcus pneumoniae , and coronavirus
+disease 2019 (COVID-19) at a minimum.[3]
+» Patients with IPAH should avoid pregnancy,
+and women of childbearing age should be
+counseled about the risks associated with
+becoming pregnant.[3] [35] Those who present
+during pregnancy, or who become pregnant,
+should be treated by a multidisciplinary
+team experienced in managing pulmonary
+hypertension in pregnancy. Some of the drugs
+used to treat IPAH may cause fetal harm and
+may not be recommended in pregnancy; consult
+your local drug information source for more
+information.
+adjunct diuretic
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» furosemide: 20-80 mg orally initially, may
+repeat dose or increase by 20-40 mg every
+6-8 hours according to response, usual
+dose 40-120 mg/day given in 1-2 divided
+doses, maximum 600 mg/day; 20-40 mg
+intravenously/intramuscularly initially, may
+repeat dose or increase by 20 mg every 2
+hours according to response
+» A diuretic (e.g., furosemide) is recommended
+in patients with fluid retention and signs of right
+ventricular failure.[3] [62] [63] Effect on mortality
+is unknown.
+» Serum electrolytes and renal function should
+be closely monitored.[3] [62] Excessive diuresis
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+may lead to systemic hypotension, renal
+insufficiency, and syncope.
+» There are no trials with specific classes
+of diuretics, and thus the choice should be
+individualized according to local protocols.[3]
+adjunct supplemental oxygen
+Treatment recommended for SOME patients in
+selected patient group
+» Supplemental oxygen should be given
+in cases of hypoxemia, defined as arterial
+oxygen tension of <60 mmHg or oxygen
+saturation of <92% at rest, during sleep, or with
+ambulation. Hypoxemia is a potent pulmonary
+vasoconstrictor and can contribute to the
+development and/or progression of pulmonary
+arterial hypertension (PAH).
+» The goal of therapy is to keep oxygen
+saturation >92% at all times.[61] However, no
+consistent data are available on the effects of
+long-term oxygen treatment in PAH.[3] Thus,
+this recommendation is based on expert opinion
+and extrapolated from data in chronic obstructive
+pulmonary disease.
+adjunct anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Patients with IPAH have in situ microscopic
+thrombosis in the pulmonary vasculature and
+prothrombotic abnormalities, and if in right
+ventricular failure, they are at increased risk
+for venous thromboembolism.[62] However,
+randomized controlled trial data on use of
+anticoagulation in patients with IPAH are lacking.
+Improved survival with anticoagulants has
+been reported in retrospective single-center
+studies, one small prospective noncontrolled
+nonrandomized study, and one observational
+registry.[63] [88] On the other hand, data from
+the REVEAL registry did not show a survival
+benefit from anticoagulation in IPAH patients.[89]
+ Therefore, anticoagulation is not generally
+recommended in patients with pulmonary arterial
+hypertension but should be considered on a
+case-by-case basis.[3] Consult a specialist
+for guidance on the choice of anticoagulant
+regimen.
+adjunct iron supplementation
+Treatment recommended for SOME patients in
+selected patient group
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+» European guidelines recommend correction
+of iron status in patients with pulmonary
+arterial hypertension (PAH) and iron
+deficiency anemia.[3] Randomized controlled
+trials comparing oral and intravenous iron
+supplementation in patients with PAH are
+lacking. European guidelines recommend
+intravenous supplementation for patients with
+severe iron deficiency anemia (defined as
+hemoglobin <7-8 g/dL).[3] See Iron deficiency
+anemia .
+assessed as intermediate-
+low risk at follow-up
+1st endothelin receptor antagonist +
+phosphodiesterase-5 (PDE5) inhibitor
++ selexipag OR endothelin receptor
+antagonist + riociguat
+Primary options
+» ambrisentan: 5-10 mg orally once daily
+-or-
+» macitentan: 10 mg orally once daily
+--AND--
+» tadalafil: 40 mg orally once daily
+--AND--
+» selexipag: 200 micrograms orally twice
+daily initially, increased gradually according to
+response, maximum 3200 mg/day; 225-1800
+micrograms intravenously twice daily
+Intravenous dosing may be used temporarily
+instead of oral dosing if the patient is unable
+to take an oral dose. Consult product
+literature for oral to intravenous dose
+conversions.
+Secondary options
+» bosentan: body weight ≤40 kg: 62.5 mg
+orally twice daily; body weight >40 kg: 62.5 to
+125 mg orally twice daily
+-and-
+» tadalafil: 40 mg orally once daily
+-and-
+» selexipag: 200 micrograms orally twice
+daily initially, increased gradually according to
+response, maximum 3200 mg/day; 225-1800
+micrograms intravenously twice daily
+Intravenous dosing may be used temporarily
+instead of oral dosing if the patient is unable
+to take an oral dose. Consult product
+literature for oral to intravenous dose
+conversions.
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+» ambrisentan: 5-10 mg orally once daily
+-or-
+» macitentan: 10 mg orally once daily
+--AND--
+» sildenafil: 20-80 mg orally three times daily;
+10 mg intravenously every 8 hours
+--AND--
+» selexipag: 200 micrograms orally twice
+daily initially, increased gradually according to
+response, maximum 3200 mg/day; 225-1800
+micrograms intravenously twice daily
+Intravenous dosing may be used temporarily
+instead of oral dosing if the patient is unable
+to take an oral dose. Consult product
+literature for oral to intravenous dose
+conversions.
+OR
+» ambrisentan: 5-10 mg orally once daily
+-or-
+» macitentan: 10 mg orally once daily
+-or-
+» bosentan: body weight ≤40 kg: 62.5 mg
+orally twice daily; body weight >40 kg: 62.5 to
+125 mg orally twice daily
+--AND--
+» riociguat: 0.5 to 2.5 mg orally three times
+daily
+» Patients should have regular follow-up (every
+3-6 months according to patient needs). If they
+are assessed to be at intermediate-low risk while
+on initial combination of an endothelin receptor
+antagonist and a PDE5 inhibitor, addition of
+selexipag to the regimen should be considered.
+» Alternatively, switching from the PDE5 inhibitor
+to riociguat may also be considered.[86] A PDE5
+inhibitor and riociguat should not be used in
+combination, because this leads to a higher risk
+of systemic hypotension.[87]
+plus supportive measures
+Treatment recommended for ALL patients in
+selected patient group
+» General supportive therapy is indicated for
+most patients.[3][35] [57]
+» Supervised exercise training: recommended
+for those on PAH medical therapy who are in a
+stable clinical condition.[3] [58] [59] [60]  Heavy
+physical exertion and isometric exercise should
+be avoided.[61] There is a lack of evidence for
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+a direct impact of exercise training on survival
+and outcome in pulmonary hypertension.
+However, there are studies showing a beneficial
+effect on prognostically important parameters.
+The European Respiratory Society has
+identified a strong need to establish specialized
+rehabilitation programs for patients with PAH to
+enhance access to this treatment intervention,
+which appears to be effective, cost-efficient and
+safe.[59]
+» Psychosocial support should be considered,
+including advanced care planning with referral
+to specialist palliative care services at the right
+time.[3]
+» Patients should be up to date with vaccinations
+and should be offered vaccinations for influenza,
+Streptococcus pneumoniae , and coronavirus
+disease 2019 (COVID-19) at a minimum.[3]
+» Patients with IPAH should avoid pregnancy,
+and women of childbearing age should be
+counseled about the risks associated with
+becoming pregnant.[3] [35] Those who present
+during pregnancy, or who become pregnant,
+should be treated by a multidisciplinary
+team experienced in managing pulmonary
+hypertension in pregnancy. Some of the drugs
+used to treat IPAH may cause fetal harm and
+may not be recommended in pregnancy; consult
+your local drug information source for more
+information.
+adjunct sotatercept
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» sotatercept: 0.3 mg/kg subcutaneously
+every 3 weeks initially, increase to target dose
+of 0.7 mg/kg every 3 weeks according to
+response
+Assess hemoglobin and platelet counts
+before each dose for the first 5 doses (or
+longer if values are unstable), and monitor
+periodically thereafter. Dose modifications
+may be necessary; consult prescribing
+information for more information. Do not
+initiate therapy if platelet count <50,000/mm³.
+» Sotatercept, an activin signaling inhibitor, is
+approved in the US and Europe for the treatment
+of adults with pulmonary arterial hypertension
+to increase exercise capacity, improve WHO
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+functional class, and reduce the risk of clinical
+worsening events. Addition of sotatercept
+to background therapy can be considered;
+however, guidelines do not yet recommend its
+use and there is no clear guidance on which
+patients should receive it.
+» In one phase 2 trial, treatment with sotatercept
+resulted in a reduction in pulmonary vascular
+resistance in patients receiving background
+therapy for PAH, compared with placebo.[79] In
+the multicenter, double-blind, phase 3 STELLAR
+trial, in patients with PAH (WHO functional class
+II or III) on stable background therapy, adding
+sotatercept significantly improved exercise
+capacity (as assessed by the 6-minute walk
+test), compared with placebo.[80]
+» Sotatercept may cause serious bleeding (more
+likely with concomitant prostacyclin therapy and/
+or antithrombotic agents), erythrocytosis, and
+severe thrombocytopenia.
+» It is important to note that there is a lack of
+data on the use of sotatercept in conjunction with
+selexipag and riociguat as part of background
+therapy. Consult a specialist for guidance and
+to discuss the potential risks and benefits of this
+combination therapy.
+adjunct diuretic
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» furosemide: 20-80 mg orally initially, may
+repeat dose or increase by 20-40 mg every
+6-8 hours according to response, usual
+dose 40-120 mg/day given in 1-2 divided
+doses, maximum 600 mg/day; 20-40 mg
+intravenously/intramuscularly initially, may
+repeat dose or increase by 20 mg every 2
+hours according to response
+» A diuretic (e.g., furosemide) is recommended
+in patients with fluid retention and signs of right
+ventricular failure.[3] [62] [63] Effect on mortality
+is unknown.
+» Serum electrolytes and renal function should
+be closely monitored.[3] [62] Excessive diuresis
+may lead to systemic hypotension, renal
+insufficiency, and syncope.
+» There are no trials with specific classes
+of diuretics, and thus the choice should be
+individualized according to local protocols.[3]
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+adjunct supplemental oxygen
+Treatment recommended for SOME patients in
+selected patient group
+» Supplemental oxygen should be given
+in cases of hypoxemia, defined as arterial
+oxygen tension of <60 mmHg or oxygen
+saturation of <92% at rest, during sleep, or with
+ambulation. Hypoxemia is a potent pulmonary
+vasoconstrictor and can contribute to the
+development and/or progression of pulmonary
+arterial hypertension (PAH).
+» The goal of therapy is to keep oxygen
+saturation >92% at all times.[61] However, no
+consistent data are available on the effects of
+long-term oxygen treatment in PAH.[3] Thus,
+this recommendation is based on expert opinion
+and extrapolated from data in chronic obstructive
+pulmonary disease.
+adjunct anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Patients with IPAH have in situ microscopic
+thrombosis in the pulmonary vasculature and
+prothrombotic abnormalities, and if in right
+ventricular failure, they are at increased risk
+for venous thromboembolism.[62] However,
+randomized controlled trial data on use of
+anticoagulation in patients with IPAH are lacking.
+Improved survival with anticoagulants has
+been reported in retrospective single-center
+studies, one small prospective noncontrolled
+nonrandomized study, and one observational
+registry.[63] [88] On the other hand, data from
+the REVEAL registry did not show a survival
+benefit from anticoagulation in IPAH patients.[89]
+ Therefore, anticoagulation is not generally
+recommended in patients with pulmonary arterial
+hypertension but should be considered on a
+case-by-case basis.[3] Consult a specialist
+for guidance on the choice of anticoagulant
+regimen.
+adjunct iron supplementation
+Treatment recommended for SOME patients in
+selected patient group
+» European guidelines recommend correction
+of iron status in patients with pulmonary
+arterial hypertension (PAH) and iron
+deficiency anemia.[3] Randomized controlled
+trials comparing oral and intravenous iron
+supplementation in patients with PAH are
+lacking. European guidelines recommend
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+intravenous supplementation for patients with
+severe iron deficiency anemia (defined as
+hemoglobin <7-8 g/dL).[3] See Iron deficiency
+anemia .
+assessed as intermediate-
+high or high risk at follow-
+up
+1st endothelin receptor antagonist +
+phosphodiesterase-5 (PDE5) inhibitor +
+prostanoid
+Primary options
+» ambrisentan: 5-10 mg orally once daily
+-or-
+» macitentan: 10 mg orally once daily
+--AND--
+» tadalafil: 40 mg orally once daily
+--AND--
+» epoprostenol: 2 nanograms/kg/minute
+intravenously initially, increase by 2
+nanograms/kg/minute every 15 minutes
+according to response
+-or-
+» treprostinil: 1.25 nanograms/kg/minute
+intravenously/subcutaneously initially,
+increase by 1.25 nanograms/kg/minute
+per week for the first 4 weeks and then by
+2.5 nanograms/kg/minute per week for the
+remaining duration of the infusion according
+to response
+Secondary options
+» bosentan: body weight ≤40 kg: 62.5 mg
+orally twice daily; body weight >40 kg: 62.5 to
+125 mg orally twice daily
+--AND--
+» tadalafil: 40 mg orally once daily
+--AND--
+» epoprostenol: 2 nanograms/kg/minute
+intravenously initially, increase by 2
+nanograms/kg/minute every 15 minutes
+according to response
+-or-
+» treprostinil: 1.25 nanograms/kg/minute
+intravenously/subcutaneously initially,
+increase by 1.25 nanograms/kg/minute
+per week for the first 4 weeks and then by
+2.5 nanograms/kg/minute per week for the
+remaining duration of the infusion according
+to response
+OR
+» ambrisentan: 5-10 mg orally once daily
+-or-
+» macitentan: 10 mg orally once daily
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+--AND--
+» sildenafil: 20-80 mg orally three times daily;
+10 mg intravenously every 8 hours
+--AND--
+» epoprostenol: 2 nanograms/kg/minute
+intravenously initially, increase by 2
+nanograms/kg/minute every 15 minutes
+according to response
+-or-
+» treprostinil: 1.25 nanograms/kg/minute
+intravenously/subcutaneously initially,
+increase by 1.25 nanograms/kg/minute
+per week for the first 4 weeks and then by
+2.5 nanograms/kg/minute per week for the
+remaining duration of the infusion according
+to response
+» Patients should have regular follow-up (every
+3-6 months according to patient needs). If
+they are assessed to be at intermediate-high
+or high risk while on initial combination of an
+endothelin receptor antagonist plus a PDE5
+inhibitor, addition of a parenteral prostanoid
+(epoprostenol or treprostinil) to the regimen
+should be considered.[87]
+plus evaluation for lung transplant
+Treatment recommended for ALL patients in
+selected patient group
+» Referral for lung transplant evaluation is
+recommended when patients present with an
+inadequate response to optimized combination
+therapy and have an intermediate-high or high
+risk of death.[3] Double lung transplantation
+is most commonly performed. Heart-lung
+transplantation should be considered in patients
+with additional cardiac conditions.[3]
+plus supportive measures
+Treatment recommended for ALL patients in
+selected patient group
+» General supportive therapy is indicated for
+most patients.[3][35] [57]
+» Supervised exercise training: recommended
+for those on PAH medical therapy who are in a
+stable clinical condition.[3] [58] [59] [60]  Heavy
+physical exertion and isometric exercise should
+be avoided.[61] There is a lack of evidence for
+a direct impact of exercise training on survival
+and outcome in pulmonary hypertension.
+However, there are studies showing a beneficial
+effect on prognostically important parameters.
+The European Respiratory Society has
+identified a strong need to establish specialized
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+rehabilitation programs for patients with PAH to
+enhance access to this treatment intervention,
+which appears to be effective, cost-efficient and
+safe.[59]
+» Psychosocial support should be considered,
+including advanced care planning with referral
+to specialist palliative care services at the right
+time.[3]
+» Patients should be up to date with vaccinations
+and should be offered vaccinations for influenza,
+Streptococcus pneumoniae , and coronavirus
+disease 2019 (COVID-19) at a minimum.[3]
+» Patients with IPAH should avoid pregnancy,
+and women of childbearing age should be
+counseled about the risks associated with
+becoming pregnant.[3] [35] Those who present
+during pregnancy, or who become pregnant,
+should be treated by a multidisciplinary
+team experienced in managing pulmonary
+hypertension in pregnancy. Some of the drugs
+used to treat IPAH may cause fetal harm and
+may not be recommended in pregnancy; consult
+your local drug information source for more
+information.
+adjunct sotatercept
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» sotatercept: 0.3 mg/kg subcutaneously
+every 3 weeks initially, increase to target dose
+of 0.7 mg/kg every 3 weeks according to
+response
+Assess hemoglobin and platelet counts
+before each dose for the first 5 doses (or
+longer if values are unstable), and monitor
+periodically thereafter. Dose modifications
+may be necessary; consult prescribing
+information for more information. Do not
+initiate therapy if platelet count <50,000/mm³.
+» Sotatercept, an activin signaling inhibitor, is
+approved in the US and Europe for the treatment
+of adults with pulmonary arterial hypertension
+to increase exercise capacity, improve WHO
+functional class, and reduce the risk of clinical
+worsening events. Addition of sotatercept
+to background therapy can be considered;
+however, guidelines do not yet recommend its
+use and there is no clear guidance on which
+patients should receive it.
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+» In one phase 2 trial, treatment with sotatercept
+resulted in a reduction in pulmonary vascular
+resistance in patients receiving background
+therapy for PAH, compared with placebo.[79] In
+the multicenter, double-blind, phase 3 STELLAR
+trial, in patients with PAH (WHO functional class
+II or III) on stable background therapy, adding
+sotatercept significantly improved exercise
+capacity (as assessed by the 6-minute walk
+test), compared with placebo.[80]
+» Sotatercept may cause serious bleeding (more
+likely with concomitant prostacyclin therapy and/
+or antithrombotic agents), erythrocytosis, and
+severe thrombocytopenia.
+adjunct diuretic
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» furosemide: 20-80 mg orally initially, may
+repeat dose or increase by 20-40 mg every
+6-8 hours according to response, usual
+dose 40-120 mg/day given in 1-2 divided
+doses, maximum 600 mg/day; 20-40 mg
+intravenously/intramuscularly initially, may
+repeat dose or increase by 20 mg every 2
+hours according to response
+» A diuretic (e.g., furosemide) is recommended
+in patients with fluid retention and signs of right
+ventricular failure.[3] [62] [63] Effect on mortality
+is unknown.
+» Serum electrolytes and renal function should
+be closely monitored.[3] [62] Excessive diuresis
+may lead to systemic hypotension, renal
+insufficiency, and syncope.
+» There are no trials with specific classes
+of diuretics, and thus the choice should be
+individualized according to local protocols.[3]
+adjunct supplemental oxygen
+Treatment recommended for SOME patients in
+selected patient group
+» Supplemental oxygen should be given
+in cases of hypoxemia, defined as arterial
+oxygen tension of <60 mmHg or oxygen
+saturation of <92% at rest, during sleep, or with
+ambulation. Hypoxemia is a potent pulmonary
+vasoconstrictor and can contribute to the
+development and/or progression of pulmonary
+arterial hypertension (PAH).
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Ongoing
+» The goal of therapy is to keep oxygen
+saturation >92% at all times.[61] However, no
+consistent data are available on the effects of
+long-term oxygen treatment in PAH.[3] Thus,
+this recommendation is based on expert opinion
+and extrapolated from data in chronic obstructive
+pulmonary disease.
+adjunct anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Patients with IPAH have in situ microscopic
+thrombosis in the pulmonary vasculature and
+prothrombotic abnormalities, and if in right
+ventricular failure, they are at increased risk
+for venous thromboembolism.[62] However,
+randomized controlled trial data on use of
+anticoagulation in patients with IPAH are lacking.
+Improved survival with anticoagulants has
+been reported in retrospective single-center
+studies, one small prospective noncontrolled
+nonrandomized study, and one observational
+registry.[63] [88] On the other hand, data from
+the REVEAL registry did not show a survival
+benefit from anticoagulation in IPAH patients.[89]
+ Therefore, anticoagulation is not generally
+recommended in patients with pulmonary arterial
+hypertension but should be considered on a
+case-by-case basis.[3] Consult a specialist
+for guidance on the choice of anticoagulant
+regimen.
+adjunct iron supplementation
+Treatment recommended for SOME patients in
+selected patient group
+» European guidelines recommend correction
+of iron status in patients with pulmonary
+arterial hypertension (PAH) and iron
+deficiency anemia.[3] Randomized controlled
+trials comparing oral and intravenous iron
+supplementation in patients with PAH are
+lacking. European guidelines recommend
+intravenous supplementation for patients with
+severe iron deficiency anemia (defined as
+hemoglobin <7-8 g/dL).[3] See Iron deficiency
+anemia .
+negative response to
+acute vasoreactivity
+testing or
+contraindication
+to calcium-channel
+blockers: with
+cardiopulmonary
+comorbidity
+1st individualized therapy
+» Evidence for treatment of patients with
+cardiopulmonary comorbidities is lacking. The
+European Society of Cardiology/European
+Respiratory Society guidelines recommend that
+initial monotherapy with an endothelin receptor
+antagonist or a phosphodiesterase-5 (PDE5)
+inhibitor may be considered, with additional
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Idiopathic pulmonary arterial hypertension Management
+Ongoing
+treatment options considered on an individual
+basis for those at intermediate or high risk of
+death at follow-up.[3]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Idiopathic pulmonary arterial hypertension Management
+MANAGEMENT
+Emerging
+Imatinib
+Imatinib is a tyrosine kinase inhibitor used to treat some types of cancer. It was investigated in a phase
+3 clinical trial for the treatment of PAH; it was found to improve exercise capacity and hemodynamics
+in patients with advanced PAH, but resulted in substantial adverse events, and discontinuations were
+common.[90] An inhaled formulation of imatinib has been granted orphan drug designation by the FDA, and
+trials are ongoing.
+Tacrolimus
+Tacrolimus is a calcineurin inhibitor and immunosuppressant drug in clinical use for the prevention of organ
+rejection in transplant recipients. In animal models, low-dose tacrolimus activates bone morphogenetic
+protein receptor type 2 (BMPR2), rescues endothelial dysfunction, and reverses pulmonary hypertension.[91]
+Low-dose tacrolimus was given to three patients with end-stage PAH on a compassionate basis and led
+to significant improvements in functional capacity, serologic markers, and BMPR2 markers of activity, and
+decreased hospitalizations.[92] A phase 2a trial showed that low-dose tacrolimus is well tolerated and
+increases BMPR2 in subsets of PAH patients.[93] A phase 2b efficacy trial is planned. 
+Patient discussions
+Low-level graded aerobic exercise (e.g., walking) should be encouraged, and supervised exercise training
+is recommended.[3][35] [57] [59][60]  There is a lack of evidence for a direct impact of exercise training on
+survival and outcome in pulmonary hypertension. However, there are studies showing a beneficial effect
+on prognostically important parameters. The European Respiratory Society has identified a strong need
+to establish specialized rehabilitation programs for patients with PAH to enhance access to this treatment
+intervention, which appears to be effective, cost-efficient and safe.[59] Patients should avoid heavy
+physical activity, isotonic exercises, and high altitudes. Some patients may require oxygen on commercial
+aircraft; European Society of Cardiology/European Respiratory Society guidelines recommend in-flight
+oxygen administration for patients using oxygen or whose arterial blood oxygen pressure is <8 kPa (60
+mmHg) at sea level.[3]
+Patients should follow a sodium-restricted diet.[106] Electrolytes should be monitored in patients receiving
+diuretics, particularly at the onset of therapy and after changes in dosing.
+Recommended immunizations against influenza, coronavirus disease 2019 (COVID-19), and
+pneumococcal pneumonia should be given.
+Patients should avoid vasoconstricting sinus or common cold preparations and anorexigens.
+Pregnancy should be avoided, and women of childbearing age should be counseled about the risks
+associated with becoming pregnant.[3] [35] Those who present during pregnancy, or who become
+pregnant, should be treated by a multidisciplinary team experienced in managing pulmonary hypertension
+in pregnancy.
+The risk-benefit ratio of elective surgery needs to be carefully considered.[107]
+Patients may need psychosocial support, including advanced care planning with referral to specialist
+palliative care services at the right time.[3]
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Idiopathic pulmonary arterial hypertension Follow up
+Monitoring
+Monitoring
+Patients being treated for IPAH should be monitored closely, with regular re-evaluations (depending on
+clinical stability and patient needs) to assess treatment goals.
+Medical assessment including WHO functional classification, 6-minute walk test, blood tests including
+B-type natriuretic peptide (BNP)/N-terminal proBNP (NT-proBNP), and ECG should be done at every
+follow-up visit.[3] Use of Doppler echocardiography should be individualized. Practice varies widely with
+regards to repeat invasive hemodynamic measurements. As parameters such as cardiac index and
+mixed venous oxygen saturation are highly associated with prognosis after the onset of therapy, follow-
+up right heart catheterization should be strongly considered for most patients, depending on the clinical
+circumstances.[103] If treatment goals are not met, changes to medical therapy or evaluation for lung
+transplantation should be considered.
+Complications
+Complications Timeframe Likelihood
+right ventricular failure long term high
+Pulmonary vascular narrowing causes a progressive increase in pulmonary vascular resistance, which
+leads to right ventricular overload and eventually to right ventricular failure and death.[3] Treatment
+includes diuretics, digoxin, oxygen supplementation, oral pulmonary vasodilator therapy, and parenteral
+therapies.[3]
+supraventricular tachyarrhythmias long term medium
+Seen in 11% of patients with severe pulmonary hypertension in association with right ventricular
+failure.[104] They are probably related to structural changes and enlargement of the right ventricle and the
+right atrium secondary to chronic pressure overload.
+Treatment options include digoxin, electrical cardioversion, overdrive pacing, and radiofrequency ablation.
+treatment-related headache variable high
+Prostanoids, endothelin receptor antagonists, and phosphodiesterase-5 inhibitors cause headache as an
+adverse effect.
+central venous catheter-related infections variable high
+Patients receiving prostanoids via a central venous catheter are prone to bloodstream infections, which
+must be recognized and treated promptly. Detailed guidelines for the prevention of catheter-related
+complications in these patients have been published.[105]
+Prognosis
+Estimated median survival in IPAH, without specific therapies, is 2.8 years, with 1-year, 3-year, and 5-year
+survival rates of 68%, 48%, and 34%, respectively.[94]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Idiopathic pulmonary arterial hypertension Follow up
+FOLLOW UP
+Impact of therapy on survival
+Epoprostenol therapy improves survival in IPAH.[66] In one large series, 1-year, 2-year, 3-year, 4-year, and
+5-year survival rates were 88%, 76%, 63%, 56%, and 47%, respectively, compared with 1-year, 2-year, and
+3-year predicted survival rates (based on the National Institutes of Health [NIH] Registry equation) of 59%,
+46%, and 35%, respectively.[95] Less robust data suggest that warfarin and oral calcium-channel blockers
+(in acute vasoreactive patients) also prolong survival.[96] Meta-analysis of all placebo-controlled randomized
+trials showed that pulmonary arterial hypertension (PAH)-targeted therapies reduce all-cause mortality.[97]
+[98] In addition, observational registry data confirmed an improvement in survival in IPAH, with 1-year, 3-year,
+and 5-year survival rates of 91%, 74%, and 65%, respectively.[99]
+Baseline prognostic factors
+The following are associated with worse prognosis: syncope; male sex; older age; renal insufficiency; New
+York Heart Association (NYHA) functional class IV; short 6-minute walk distance (6MWD) (variable cutoffs
+in different studies, approximately <300 to 440 meters); echocardiography showing pericardial effusion and/
+or tricuspid annular plane systolic excursion <1.5 cm; elevated B-type natriuretic peptide (BNP) levels (>180
+picograms/mL); and invasive hemodynamics showing right atrial pressure >15 mmHg and/or cardiac index
+≤2 L/minute/m².[100] [101]
+Prognostic factors after therapy
+The following are associated with worse prognosis: NYHA classes III and IV; 6MWD <380 meters; elevated
+BNP levels; low cardiac index; and high right atrial pressure. It is debatable whether absolute values or
+changes in these parameters compared with baseline are predictors of outcome. Emerging evidence
+suggests that the change in 6MWD is not predictive of clinical events.[102] One study demonstrated that
+changes in NYHA functional class, cardiac index, mixed venous oxygen saturation, and N-terminal pro-BNP
+(NT-proBNP) were predictive of transplant-free survival. Specifically, the achievement with therapy of NYHA
+classes I or II, a cardiac index ≥ 2.5 L/minute/m², or a mixed venous oxygen saturation ≥65% was associated
+with improved survival.[103]
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Idiopathic pulmonary arterial hypertension Guidelines
+Diagnostic guidelines
+International
+ACR appropriateness criteria® suspected pulmonary hypertension
+(https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [38]
+Published by: American College of Radiology Last published: 2022
+CCS/CTS position statement on pulmonary hypertension (https://ccs.ca/
+guidelines-and-position-statement-library)   [55]
+Published by: Canadian Cardiovascular Society; Canadian Thoracic
+Society
+Last published: 2020
+2022 ESC/ERS guidelines for the diagnosis and treatment of pulmonary
+hypertension (https://www.escardio.org/Guidelines)   [3]
+Published by: European Society of Cardiology; European Respiratory
+Society
+Last published: 2022
+Treatment guidelines
+International
+Pulmonary rehabilitation for adults with chronic respiratory disease (https://
+www.thoracic.org/statements)   [58]
+Published by: American Thoracic Society Last published: 2023
+CCS/CTS position statement on pulmonary hypertension (https://ccs.ca/
+guidelines-and-position-statement-library)   [55]
+Published by: Canadian Cardiovascular Society; Canadian Thoracic
+Society
+Last published: 2020
+Therapy for pulmonary arterial hypertension in adults: update of the CHEST
+guideline and expert panel report (https://www.chestnet.org/guidelines/
+pulmonary-vascular)   [35]
+Published by: American College of Chest Physicians Last published: 2019
+2022 ESC/ERS guidelines for the diagnosis and treatment of pulmonary
+hypertension (https://www.escardio.org/Guidelines)   [3]
+Published by: European Society of Cardiology; European Respiratory
+Society
+Last published: 2022
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Idiopathic pulmonary arterial hypertension References
+REFERENCES
+Key articles
+• Simonneau G, Montani D, Celermajer DS, et al. Haemodynamic definitions and updated clinical
+classification of pulmonary hypertension. Eur Respir J. 2019 Jan;53(1):1801913.  Full text (https://
+erj.ersjournals.com/content/53/1/1801913)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30545968?
+tool=bestpractice.bmj.com)
+• Humbert M, Kovacs G, Hoeper MM, et al; ESC/ERS Scientific Document Group. 2022 ESC/
+ERS guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Heart J. 2022
+Oct 11;43(38):3618-731. [Erratum in: Eur Heart J. 2023 Feb 23:ehad005.]  Full text (https://
+academic.oup.com/eurheartj/article/43/38/3618/6673929)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36017548?tool=bestpractice.bmj.com)
+• Rich S, Dantzker DR, Ayres SM, et al. Primary pulmonary hypertension. A national prospective study.
+Ann Intern Med. 1987 Aug;107(2):216-23. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3605900?
+tool=bestpractice.bmj.com)
+• Klinger JR, Elliott CG, Levine DJ, et al. Therapy for pulmonary arterial hypertension in adults:
+update of the CHEST guideline and expert panel report. Chest. 2019 Mar;155(3):565-86. [Erratum
+in: Chest. 2021 Jan;159(1):457.] Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30660783?
+tool=bestpractice.bmj.com)
+• Frost A, Badesch D, Gibbs JSR, et al. Diagnosis of pulmonary hypertension. Eur Respir J. 2019
+Jan;53(1):1801904.  Full text (https://erj.ersjournals.com/content/53/1/1801904)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30545972?tool=bestpractice.bmj.com)
+• Galiè N, Channick RN, Frantz RP, et al. Risk stratification and medical therapy of pulmonary
+arterial hypertension. Eur Respir J. 2019 Jan;53(1):1801889.  Full text (https://erj.ersjournals.com/
+content/53/1/1801889)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30545971?
+tool=bestpractice.bmj.com)
+References
+1. Humbert M, Sitbon O, Simonneau G. Treatment of pulmonary arterial hypertension. N Engl J
+Med. 2004 Sep 30;351(14):1425-36. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15459304?
+tool=bestpractice.bmj.com)
+2. Simonneau G, Montani D, Celermajer DS, et al. Haemodynamic definitions and updated clinical
+classification of pulmonary hypertension. Eur Respir J. 2019 Jan;53(1):1801913.  Full text (https://
+erj.ersjournals.com/content/53/1/1801913)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30545968?
+tool=bestpractice.bmj.com)
+3. Humbert M, Kovacs G, Hoeper MM, et al; ESC/ERS Scientific Document Group. 2022 ESC/
+ERS guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Heart J. 2022
+Oct 11;43(38):3618-731. [Erratum in: Eur Heart J. 2023 Feb 23:ehad005.]  Full text (https://
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Idiopathic pulmonary arterial hypertension References
+academic.oup.com/eurheartj/article/43/38/3618/6673929)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36017548?tool=bestpractice.bmj.com)
+4. Humbert M, Sitbon O, Guignabert C, et al. Treatment of pulmonary arterial hypertension: recent
+progress and a look to the future. Lancet Respir Med. 2023 Sep;11(9):804-19.  Full text (https://
+www.thelancet.com/journals/lanres/article/PIIS2213-2600(23)00264-3/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37591298?tool=bestpractice.bmj.com)
+5. Leber L, Beaudet A, Muller A. Epidemiology of pulmonary arterial hypertension and chronic
+thromboembolic pulmonary hypertension: identification of the most accurate estimates
+from a systematic literature review. Pulm Circ. 2021 Jan-Mar;11(1):1-12.  Full text (https://
+onlinelibrary.wiley.com/doi/10.1177/2045894020977300)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33456755?tool=bestpractice.bmj.com)
+6. Rich S, Dantzker DR, Ayres SM, et al. Primary pulmonary hypertension. A national prospective study.
+Ann Intern Med. 1987 Aug;107(2):216-23. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3605900?
+tool=bestpractice.bmj.com)
+7. Lau EMT, Giannoulatou E, Celermajer DS, et al. Epidemiology and treatment of pulmonary arterial
+hypertension. Nat Rev Cardiol. 2017 Oct;14(10):603-14. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28593996?tool=bestpractice.bmj.com)
+8. Humbert M, Sitbon O, Chaouat A, et al. Pulmonary arterial hypertension in France: results from
+a national registry. Am J Respir Crit Care Med. 2006 May 1;173(9):1023-30.  Full text (https://
+www.atsjournals.org/doi/full/10.1164/rccm.200510-1668OC#.UnPnTfnxobA)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16456139?tool=bestpractice.bmj.com)
+9. Badesch DB, Raskob GE, Elliott CG, et al. Pulmonary arterial hypertension: baseline characteristics
+from the REVEAL Registry. Chest. 2010 Feb;137(2):376-87. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19837821?tool=bestpractice.bmj.com)
+10. Hoeper MM, Huscher D, Ghofrani HA, et al. Elderly patients diagnosed with idiopathic pulmonary
+arterial hypertension: results from the COMPERA registry. Int J Cardiol. 2013 Sep 30;168(2):871-80.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23164592?tool=bestpractice.bmj.com)
+11. Ling Y, Johnson MK, Kiely DG, et al. Changing demographics, epidemiology, and survival of incident
+pulmonary arterial hypertension: results from the pulmonary hypertension registry of the United
+Kingdom and Ireland. Am J Respir Crit Care Med. 2012 Oct 15;186(8):790-6.  Full text (https://
+www.atsjournals.org/doi/10.1164/rccm.201203-0383OC)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22798320?tool=bestpractice.bmj.com)
+12. Lane KB, Machado RD, Pauciulo MW, et al; International PPH Consortium. Heterozygous germline
+mutations in BMPR2, encoding a TGF-beta receptor, cause familial primary pulmonary hypertension.
+Nat Genet. 2000 Sep;26(1):81-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10973254?
+tool=bestpractice.bmj.com)
+13. Austin ED, Loyd JE. Genetics and mediators in pulmonary arterial hypertension. Clin Chest Med. 2007
+Mar;28(1):43-57. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17338927?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Idiopathic pulmonary arterial hypertension References
+REFERENCES
+14. Ma L, Roman-Campos D, Austin ED, et al. A novel channelopathy in pulmonary arterial
+hypertension. N Engl J Med. 2013 Jul 25;369(4):351-61.  Full text (https://www.nejm.org/
+doi/10.1056/NEJMoa1211097)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23883380?
+tool=bestpractice.bmj.com)
+15. Speich R, Jenni R, Opravil M, et al. Primary pulmonary hypertension in HIV infection.
+Chest. 1991 Nov;100(5):1268-71. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1935280?
+tool=bestpractice.bmj.com)
+16. Abenhaim L, Moride Y, Brenot F, et al. Appetite-suppressant drugs and the risk of primary pulmonary
+hypertension. International Primary Pulmonary Hypertension Study group. N Engl J Med. 1996 Aug
+29;335(9):609-16. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8692238?tool=bestpractice.bmj.com)
+17. Dorfmüller P, Perros F, Balabanian K, et al. Inflammation in pulmonary arterial hypertension. Eur
+Respir J. 2003 Aug;22(2):358-63.  Full text (https://erj.ersjournals.com/content/22/2/358)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/12952274?tool=bestpractice.bmj.com)
+18. Farber HW, Loscalzo J. Pulmonary arterial hypertension. N Engl J Med. 2004 Oct 14;351(16):1655-65.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15483284?tool=bestpractice.bmj.com)
+19. Christman BW, McPherson CD, Newman JH, et al. An imbalance between the excretion of
+thromboxane and prostacyclin metabolites in pulmonary hypertension. N Engl J Med. 1992 Jul
+9;327(2):70-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1603138?tool=bestpractice.bmj.com)
+20. Tuder RM, Cool CD, Geraci MW, et al. Prostacyclin synthase expression is decreased in lungs from
+patients with severe pulmonary hypertension. Am J Respir Crit Care Med. 1999 Jun;159(6):1925-32.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10351941?tool=bestpractice.bmj.com)
+21. Stewart DJ, Levy RD, Cernacek P, et al. Increased plasma endothelin-1 in pulmonary hypertension:
+marker or mediator of disease? Ann Intern Med. 1991 Mar 15;114(6):464-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1994793?tool=bestpractice.bmj.com)
+22. Rubens C, Ewert R, Halank M, et al. Big endothelin-1 and endothelin-1 plasma levels are correlated
+with the severity of primary pulmonary hypertension. Chest. 2001 Nov;120(5):1562-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11713135?tool=bestpractice.bmj.com)
+23. Giaid A, Yanagisawa M, Langleben D, et al. Expression of endothelin-1 in the lungs of patients
+with pulmonary hypertension. N Engl J Med. 1993 Jun 17;328(24):1732-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8497283?tool=bestpractice.bmj.com)
+24. Chester AH, Yacoub MH, Moncada S. Nitric oxide and pulmonary arterial hypertension. Glob Cardiol
+Sci Pract. 2017 Jun 30;2017(2):14.  Full text (https://globalcardiologyscienceandpractice.com/
+index.php/gcsp/article/view/229/225)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29644226?
+tool=bestpractice.bmj.com)
+25. Kaneko FT, Arroliga AC, Dweik RA, et al. Biochemical reaction products of nitric oxide as quantitative
+markers of primary pulmonary hypertension. Am J Respir Crit Care Med. 1998 Sep;158(3):917-23.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9731026?tool=bestpractice.bmj.com)
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Idiopathic pulmonary arterial hypertension References
+26. Ozkan M, Dweik RA, Laskowski D, et al. High levels of nitric oxide in individuals with pulmonary
+hypertension receiving epoprostenol therapy. Lung. 2001;179(4):233-43. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11891614?tool=bestpractice.bmj.com)
+27. Giaid A, Saleh D. Reduced expression of endothelial nitric oxide synthase in the lungs of
+patients with pulmonary hypertension. N Engl J Med. 1995 Jul 27;333(4):214-21. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7540722?tool=bestpractice.bmj.com)
+28. Xu W, Kaneko FT, Zheng S, et al. Increased arginase II and decreased NO synthesis in endothelial
+cells of patients with pulmonary arterial hypertension. FASEB J. 2004 Nov;18(14):1746-8. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15364894?tool=bestpractice.bmj.com)
+29. Schermuly RT, Dony E, Ghofrani HA, et al. Reversal of experimental pulmonary hypertension by
+PDGF inhibition. J Clin Invest. 2005 Oct;115(10):2811-21. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16200212?tool=bestpractice.bmj.com)
+30. Yuan JX, Aldinger AM, Juhaszova M, et al. Dysfunctional voltage-gated K+ channels in pulmonary
+artery smooth muscle cells of patients with primary pulmonary hypertension. Circulation. 1998 Oct
+6;98(14):1400-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9760294?tool=bestpractice.bmj.com)
+31. Humbert M, Morrell NW, Archer SL, et al. Cellular and molecular pathobiology of pulmonary arterial
+hypertension. J Am Coll Cardiol. 2004 Jun 16;43(12 Suppl):S13-24.  Full text (https://www.jacc.org/
+doi/10.1016/j.jacc.2004.02.029)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15194174?
+tool=bestpractice.bmj.com)
+32. Taichman DB, Mandel J. Epidemiology of pulmonary arterial hypertension. Clin Chest Med. 2007
+Mar;28(1):1-22. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17338925?tool=bestpractice.bmj.com)
+33. Humbert M, Nunes H, Sitbon O, et al. Risk factors for pulmonary arterial hypertension. Clin
+Chest Med. 2001 Sep;22(3):459-75. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11590841?
+tool=bestpractice.bmj.com)
+34. Hlavaty A, Roustit M, Montani D, et al. Identifying new drugs associated with pulmonary arterial
+hypertension: a WHO pharmacovigilance database disproportionality analysis. Br J Clin Pharmacol.
+2022 Dec;88(12):5227-37.  Full text (https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.15436)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35679331?tool=bestpractice.bmj.com)
+35. Klinger JR, Elliott CG, Levine DJ, et al. Therapy for pulmonary arterial hypertension in adults:
+update of the CHEST guideline and expert panel report. Chest. 2019 Mar;155(3):565-86. [Erratum
+in: Chest. 2021 Jan;159(1):457.] Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30660783?
+tool=bestpractice.bmj.com)
+36. Frost A, Badesch D, Gibbs JSR, et al. Diagnosis of pulmonary hypertension. Eur Respir J. 2019
+Jan;53(1):1801904.  Full text (https://erj.ersjournals.com/content/53/1/1801904)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30545972?tool=bestpractice.bmj.com)
+37. Rich JD, Rich S. Clinical diagnosis of pulmonary hypertension. Circulation. 2014
+Nov 11;130(20):1820-30.  Full text (https://www.ahajournals.org/doi/full/10.1161/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+65
+=== Page 66 ===
+Idiopathic pulmonary arterial hypertension References
+REFERENCES
+CIRCULATIONAHA.114.006971)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25385937?
+tool=bestpractice.bmj.com)
+38. American College of Radiology. ACR appropriateness criteria: suspected pulmonary hypertension.
+2022 [internet publication].  Full text (https://acsearch.acr.org/docs/71095/Narrative)
+39. Trow TK, McArdle JR. Diagnosis of pulmonary arterial hypertension. Clin Chest Med. 2007
+Mar;28(1):59-73. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17338928?tool=bestpractice.bmj.com)
+40. Chin KM, Channick RN, Rubin LJ. Is methamphetamine use associated with idiopathic pulmonary
+arterial hypertension? Chest. 2006 Dec;130(6):1657-63. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17166979?tool=bestpractice.bmj.com)
+41. Ahearn GS, Tapson VF, Rebeiz A, et al. Electrocardiography to define clinical status in primary
+pulmonary hypertension and pulmonary arterial hypertension secondary to collagen vascular
+disease. Chest. 2002 Aug;122(2):524-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12171826?
+tool=bestpractice.bmj.com)
+42. Farber HW, Foreman AJ, Miller DP, et al. REVEAL Registry: correlation of right heart catheterization
+and echocardiography in patients with pulmonary arterial hypertension. Congest Heart Fail. 2011 Mar-
+Apr;17(2):56-63.  Full text (https://onlinelibrary.wiley.com/doi/10.1111/j.1751-7133.2010.00202.x)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21449993?tool=bestpractice.bmj.com)
+43. McGoon M, Gutterman D, Steen V, et al. Screening, early detection, and diagnosis of pulmonary
+arterial hypertension: ACCP evidence-based clinical practice guidelines. Chest. 2004 Jul;126(1
+Suppl):14-34S. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15249493?tool=bestpractice.bmj.com)
+44. Tello K, Wan J, Dalmer A, et al. Validation of the tricuspid annular plane systolic excursion/systolic
+pulmonary artery pressure ratio for the assessment of right ventricular-arterial coupling in severe
+pulmonary hypertension. Circ Cardiovasc Imaging. 2019 Sep;12(9):e009047.  Full text (https://
+www.ahajournals.org/doi/10.1161/CIRCIMAGING.119.009047)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31500448?tool=bestpractice.bmj.com)
+45. Yan L, Luo Q, Zhao Z, et al. Nocturnal hypoxia in patients with idiopathic pulmonary arterial
+hypertension. Pulm Circ. 2020 Jul-Sep;10(3):1-7.  Full text (https://onlinelibrary.wiley.com/
+doi/10.1177/2045894019885364)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32913628?
+tool=bestpractice.bmj.com)
+46. Minai OA, Pandya CM, Golish JA, et al. Predictors of nocturnal oxygen desaturation in pulmonary
+arterial hypertension. Chest. 2007 Jan;131(1):109-17. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17218563?tool=bestpractice.bmj.com)
+47. Sitbon O, Humbert M, Jais X, et al. Long-term response to calcium channel blockers in
+idiopathic pulmonary arterial hypertension. Circulation. 2005 Jun 14;111(23):3105-11.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/circulationaha.104.488486)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15939821?tool=bestpractice.bmj.com)
+48. Yeghiazarians Y, Jneid H, Tietjens JR, et al. Obstructive sleep apnea and cardiovascular disease: a
+scientific statement From the American Heart Association. Circulation. 2021 Jul 20;144(3):e56-67.
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 67 ===
+Idiopathic pulmonary arterial hypertension References
+[Erratum in: Circulation. 2022 Mar 22;145(12):e775.]  Full text (https://www.ahajournals.org/
+doi/10.1161/CIR.0000000000000988)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34148375?
+tool=bestpractice.bmj.com)
+49. Auger WR, Kim NH, Kerr KM, et al. Chronic thromboembolic pulmonary hypertension. Clin
+Chest Med. 2007 Mar;28(1):255-69. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17338940?
+tool=bestpractice.bmj.com)
+50. Landzberg MJ. Congenital heart disease associated pulmonary arterial hypertension. Clin
+Chest Med. 2007 Mar;28(1):243-53. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17338939?
+tool=bestpractice.bmj.com)
+51. Vodoz JF, Cottin V, Glérant JC, et al. Right-to-left shunt with hypoxemia in pulmonary hypertension.
+BMC Cardiovasc Disord. 2009 Mar 31;9:15.  Full text (https://bmccardiovascdisord.biomedcentral.com/
+articles/10.1186/1471-2261-9-15)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19335916?
+tool=bestpractice.bmj.com)
+52. Golbin JM, Krowka MJ. Portopulmonary hypertension. Clin Chest Med. 2007 Mar;28(1):203-18.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17338936?tool=bestpractice.bmj.com)
+53. Barst RJ, McGoon M, Torbicki A, et al. Diagnosis and differential assessment of pulmonary arterial
+hypertension. J Am Coll Cardiol. 2004 Jun 16;43(12 suppl):S40-7.  Full text (https://www.jacc.org/
+doi/10.1016/j.jacc.2004.02.032)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15194177?
+tool=bestpractice.bmj.com)
+54. Hoeper MM, Kramer T, Pan Z, et al. Mortality in pulmonary arterial hypertension: prediction by the
+2015 European pulmonary hypertension guidelines risk stratification model. Eur Respir J. 2017
+Aug;50(2):1700740.  Full text (https://erj.ersjournals.com/content/50/2/1700740)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28775047?tool=bestpractice.bmj.com)
+55. Hirani N, Brunner NW, Kapasi A, et al; CCS/CTS Pulmonary Hypertension Committee.
+Canadian Cardiovascular Society/Canadian Thoracic Society position statement on pulmonary
+hypertension. Can J Cardiol. 2020 Jul;36(7):977-92.  Full text (https://www.onlinecjc.ca/article/
+S0828-282X(20)30267-1/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32682511?
+tool=bestpractice.bmj.com)
+56. McLaughlin VV, Gaine SP, Howard LS, et al. Treatment goals of pulmonary hypertension.
+J Am Coll Cardiol. 2013 Dec 24;62(25 Suppl):D73-81.  Full text (https://www.jacc.org/
+doi/10.1016/j.jacc.2013.10.034)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24355644?
+tool=bestpractice.bmj.com)
+57. Galiè N, Channick RN, Frantz RP, et al. Risk stratification and medical therapy of pulmonary
+arterial hypertension. Eur Respir J. 2019 Jan;53(1):1801889.  Full text (https://erj.ersjournals.com/
+content/53/1/1801889)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30545971?
+tool=bestpractice.bmj.com)
+58. Rochester CL, Alison JA, Carlin B, et al. Pulmonary rehabilitation for adults with chronic respiratory
+disease: an official American Thoracic Society clinical practice guideline. Am J Respir Crit Care Med.
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+67
+=== Page 68 ===
+Idiopathic pulmonary arterial hypertension References
+REFERENCES
+2023 Aug 15;208(4):e7-26.  Full text (https://www.atsjournals.org/doi/10.1164/rccm.202306-1066ST)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37581410?tool=bestpractice.bmj.com)
+59. Grünig E, Eichstaedt C, Barberà JA, et al. ERS statement on exercise training and rehabilitation in
+patients with severe chronic pulmonary hypertension. Eur Respir J. 2019 Feb;53(2).  Full text (https://
+erj.ersjournals.com/content/53/2/1800332)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30578391?
+tool=bestpractice.bmj.com)
+60. Morris NR, Kermeen FD, Jones AW, et al. Exercise-based rehabilitation programmes for pulmonary
+hypertension. Cochrane Database Syst Rev. 2023 Mar 22;3(3):CD011285.  Full text (https://
+www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011285.pub3/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36947725?tool=bestpractice.bmj.com)
+61. McLaughlin VV, Archer SL, Badesch DB, et al. ACCF/AHA 2009 expert consensus document
+on pulmonary hypertension. J Am Coll Cardiol. 2009 Apr 28;53(17):1573-619.  Full text
+(https://www.jacc.org/doi/10.1016/j.jacc.2009.01.004)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19389575?tool=bestpractice.bmj.com)
+62. Badesch DB, Abman SH, Simonneau G, et al. Medical therapy for pulmonary arterial hypertension:
+updated ACCP evidence-based clinical practice guidelines. Chest. 2007 Jun;131(6):1917-28. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/17565025?tool=bestpractice.bmj.com)
+63. Alam S, Palevsky HI. Standard therapies for pulmonary arterial hypertension. Clin Chest
+Med. 2007 Mar;28(1):91-115. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17338930?
+tool=bestpractice.bmj.com)
+64. Naranjo M, Rosenzweig EB, Hemnes AR, et al. Frequency of acute vasodilator response
+(AVR) in incident and prevalent patients with pulmonary arterial hypertension: Results from
+the pulmonary vascular disease phenomics study. Pulm Circ. 2023 Jul;13(3):e12281.  Full text
+(https://onlinelibrary.wiley.com/doi/10.1002/pul2.12281)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/37614830?tool=bestpractice.bmj.com)
+65. Barnes H, Yeoh HL, Fothergill T, et al. Prostacyclin for pulmonary arterial hypertension. Cochrane
+Database Syst Rev. 2019 May 1;5(5):CD012785.  Full text (https://www.cochranelibrary.com/
+cdsr/doi/10.1002/14651858.CD012785.pub2/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31042010?tool=bestpractice.bmj.com)
+66. Barst RJ, Rubin LJ, Long WA, et al; Primary Pulmonary Hypertension Study Group. A comparison of
+continuous intravenous epoprostenol (prostacyclin) with conventional therapy for primary pulmonary
+hypertension. N Engl J Med. 1996 Feb 1;334(5):296-301.  Full text (https://www.nejm.org/doi/
+full/10.1056/NEJM199602013340504)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8532025?
+tool=bestpractice.bmj.com)
+67. Simonneau G, Barst RJ, Galie N, et al. Continuous subcutaneous infusion of treprostinil, a
+prostacyclin analogue, in patients with pulmonary arterial hypertension: a double-blind, randomized,
+placebo-controlled trial. Am J Respir Crit Care Med. 2002 Mar 15;165(6):800-4.  Full text (https://
+www.atsjournals.org/doi/10.1164/ajrccm.165.6.2106079)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11897647?tool=bestpractice.bmj.com)
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 69 ===
+Idiopathic pulmonary arterial hypertension References
+68. Liu C, Chen J, Gao Y, et al. Endothelin receptor antagonists for pulmonary arterial
+hypertension. Cochrane Database Syst Rev. 2021 Mar 26;3(3):CD004434.  Full text (https://
+www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004434.pub6/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33765691?tool=bestpractice.bmj.com)
+69. Galiè N, Olschewski H, Oudiz RJ, et al. Ambrisentan for the treatment of pulmonary arterial
+hypertension: results of the Ambrisentan in Pulmonary Arterial Hypertension, Randomized,
+Double-blind, Placebo-controlled, Multicenter, Efficacy (ARIES) Study 1 and 2. Circulation.
+2008 Jun 10;117(23):3010-9.  Full text (https://www.ahajournals.org/doi/full/10.1161/
+CIRCULATIONAHA.107.742510)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18506008?
+tool=bestpractice.bmj.com)
+70. Galiè N, Badesch D, Oudiz R, et al. Ambrisentan therapy for pulmonary arterial hypertension. J Am
+Coll Cardiol. 2005 Aug 2;46(3):529-35.  Full text (https://www.jacc.org/doi/10.1016/j.jacc.2005.04.050) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16053970?tool=bestpractice.bmj.com)
+71. Pulido T, Adzerikho I, Channick RN, et al; SERAPHIN Investigators. Macitentan and morbidity and
+mortality in pulmonary arterial hypertension. N Engl J Med. 2013 Aug 29;369(9):809-18.  Full text
+(https://www.nejm.org/doi/full/10.1056/NEJMoa1213917)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23984728?tool=bestpractice.bmj.com)
+72. Ruopp NF, Cockrill BA. Diagnosis and treatment of pulmonary arterial hypertension: a review.
+JAMA. 2022 Apr 12;327(14):1379-91. [Erratum in: JAMA. 2022 Sep 6;328(9):892.] Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35412560?tool=bestpractice.bmj.com)
+73. Galiè N, Brundage BH, Ghofrani HA, et al; Pulmonary Arterial Hypertension and Response
+to Tadalafil (PHIRST) Study Group. Tadalafil therapy for pulmonary arterial hypertension.
+Circulation. 2009 Jun 9;119(22):2894-903.  Full text (https://www.ahajournals.org/doi/full/10.1161/
+CIRCULATIONAHA.108.839274)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19470885?
+tool=bestpractice.bmj.com)
+74. Galiè N, Ghofrani HA, Torbicki A, et al; Sildenafil Use in Pulmonary Arterial Hypertension (SUPER)
+Study Group. Sildenafil citrate therapy for pulmonary arterial hypertension. N Engl J Med. 2005 Nov
+17;353(20):2148-57.  Full text (https://www.nejm.org/doi/full/10.1056/NEJMoa050010)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/16291984?tool=bestpractice.bmj.com)
+75. Barnes H, Brown Z, Burns A, et al. Phosphodiesterase 5 inhibitors for pulmonary
+hypertension. Cochrane Database Syst Rev. 2019 Jan 31;1(1):CD012621.  Full text (https://
+www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012621.pub2/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30701543?tool=bestpractice.bmj.com)
+76. Ghofrani HA, Galiè N, Grimminger F, et al; PATENT-1 Study Group. Riociguat for the treatment
+of pulmonary arterial hypertension. N Engl J Med. 2013 Jul 25;369(4):330-40.  Full text (https://
+www.nejm.org/doi/full/10.1056/NEJMoa1209655)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23883378?tool=bestpractice.bmj.com)
+77. Sitbon O, Channick R, Chin KM, et al; GRIPHON Investigators. Selexipag for the treatment
+of pulmonary arterial hypertension. N Engl J Med. 2015 Dec 24;373(26):2522-33.  Full text
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+69
+=== Page 70 ===
+Idiopathic pulmonary arterial hypertension References
+REFERENCES
+(https://www.nejm.org/doi/full/10.1056/NEJMoa1503184)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26699168?tool=bestpractice.bmj.com)
+78. Martin de Miguel I, Cruz-Utrilla A, Oliver E, et al. Novel molecular mechanisms involved in the
+medical treatment of pulmonary arterial hypertension. Int J Mol Sci. 2023 Feb 19;24(4):4147.  Full
+text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9965798)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36835558?tool=bestpractice.bmj.com)
+79. Humbert M, McLaughlin V, Gibbs JSR, et al; PULSAR Trial Investigators. Sotatercept for the
+treatment of pulmonary arterial hypertension. N Engl J Med. 2021 Apr 1;384(13):1204-15.  Full
+text (https://www.nejm.org/doi/10.1056/NEJMoa2024277)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33789009?tool=bestpractice.bmj.com)
+80. Hoeper MM, Badesch DB, Ghofrani HA, et al. Phase 3 trial of sotatercept for treatment of pulmonary
+arterial hypertension. N Engl J Med. 2023 Apr 20;388(16):1478-90.  Full text (https://www.nejm.org/
+doi/10.1056/NEJMoa2213558)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36877098?
+tool=bestpractice.bmj.com)
+81. Galiè N, Barbera JA, Frost AE, et al: AMBITION Investigators. Initial use of ambrisentan plus
+tadalafil in pulmonary arterial hypertension. N Engl J Med. 2015 Aug 27;373(9):834-44.  Full text
+(https://www.nejm.org/doi/full/10.1056/NEJMoa1413687)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26308684?tool=bestpractice.bmj.com)
+82. Chin KM, Sitbon O, Doelberg M, et al. Three- versus two-drug therapy for patients with newly
+diagnosed pulmonary arterial hypertension. J Am Coll Cardiol. 2021 Oct 5;78(14):1393-403.  Full
+text (https://www.jacc.org/doi/10.1016/j.jacc.2021.07.057)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34593120?tool=bestpractice.bmj.com)
+83. Haarman MG, Lévy M, Roofthooft MTR, et al. Upfront triple combination therapy in severe
+paediatric pulmonary arterial hypertension. Eur Respir J. 2021 Jan;57(1):2001120.  Full text (https://
+erj.ersjournals.com/content/57/1/2001120)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32855224?
+tool=bestpractice.bmj.com)
+84. Sitbon O, Jaïs X, Savale L, et al. Upfront triple combination therapy in pulmonary arterial
+hypertension: a pilot study. Eur Respir J. 2014 Jun;43(6):1691-7.  Full text (https://
+erj.ersjournals.com/content/43/6/1691)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24627535?
+tool=bestpractice.bmj.com)
+85. D'Alto M, Badagliacca R, Argiento P, et al. Risk reduction and right heart reverse remodeling by
+upfront triple combination therapy in pulmonary arterial hypertension. Chest. 2020 Feb;157(2):376-83.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31563498?tool=bestpractice.bmj.com)
+86. Hoeper MM, Al-Hiti H, Benza RL, et al; REPLACE investigators. Switching to riociguat versus
+maintenance therapy with phosphodiesterase-5 inhibitors in patients with pulmonary arterial
+hypertension (REPLACE): a multicentre, open-label, randomised controlled trial. Lancet
+Respir Med. 2021 Jun;9(6):573-84. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33773120?
+tool=bestpractice.bmj.com)
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 71 ===
+Idiopathic pulmonary arterial hypertension References
+87. Wardle AJ, Seager MJ, Wardle R, et al. Guanylate cyclase stimulators for pulmonary
+hypertension. Cochrane Database Syst Rev. 2016 Aug 2;2016(8):CD011205.  Full text (https://
+www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011205.pub2/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27482837?tool=bestpractice.bmj.com)
+88. Olsson KM, Delcroix M, Ghofrani HA, et al. Anticoagulation and survival in pulmonary arterial
+hypertension: results from the Comparative, Prospective Registry of Newly Initiated Therapies
+for Pulmonary Hypertension (COMPERA). Circulation. 2014 Jan 7;129(1):57-65.  Full text
+(https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.113.004526)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24081973?tool=bestpractice.bmj.com)
+89. Preston IR, Roberts KE, Miller DP, et al. Effect of warfarin treatment on survival of patients
+with pulmonary arterial hypertension (PAH) in the registry to evaluate early and long-term
+PAH disease management (REVEAL). Circulation. 2015 Dec 22;132(25):2403-11.  Full text
+(https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.115.018435)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26510696?tool=bestpractice.bmj.com)
+90. Hoeper MM, Barst RJ, Bourge RC, et al. Imatinib mesylate as add-on therapy for pulmonary arterial
+hypertension: results of the randomized IMPRES study. Circulation. 2013 Mar 12;127(10):1128-38. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.112.000765)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23403476?tool=bestpractice.bmj.com)
+91. Spiekerkoetter E, Tian X, Cai J, et al. FK506 activates BMPR2, rescues endothelial dysfunction,
+and reverses pulmonary hypertension. J Clin Invest. 2013 Aug;123(8):3600-13.  Full text (https://
+www.jci.org/articles/view/65592)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23867624?
+tool=bestpractice.bmj.com)
+92. Spiekerkoetter E, Sung YK, Sudheendra D, et al. Low-dose FK506 (tacrolimus) in end-stage
+pulmonary arterial hypertension. Am J Respir Crit Care Med. 2015 Jul 15;192(2):254-7. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/26177174?tool=bestpractice.bmj.com)
+93. Spiekerkoetter E, Sung YK, Sudheendra D, et al. Randomised placebo-controlled safety and
+tolerability trial of FK506 (tacrolimus) for pulmonary arterial hypertension. Eur Respir J. 2017
+Sep;50(3):1602449.  Full text (https://erj.ersjournals.com/content/50/3/1602449)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28893866?tool=bestpractice.bmj.com)
+94. D'Alonzo GE, Barst RJ, Ayres SM, et al. Survival in patients with primary pulmonary hypertension.
+Results from a national prospective registry. Ann Intern Med. 1991 Sep 1;115(5):343-9. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/1863023?tool=bestpractice.bmj.com)
+95. McLaughlin VV, Presberg KW, Doyle RL, et al. Prognosis of pulmonary arterial hypertension: ACCP
+evidence-based clinical practice guidelines. Chest. 2004 Jul;126(1 Suppl):78-92S. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15249497?tool=bestpractice.bmj.com)
+96. McLaughlin VV, Sitbon O, Badesch DB, et al. Survival with first-line bosentan in patients with
+primary pulmonary hypertension. Eur Respir J. 2005 Feb;25(2):244-9. [Erratum in: Eur Respir
+J. 2005 May;25(5):942.]  Full text (https://erj.ersjournals.com/content/25/2/244)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15684287?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+71
+=== Page 72 ===
+Idiopathic pulmonary arterial hypertension References
+REFERENCES
+97. Savarese G, Paolillo S, Costanzo P, et al. Do changes of 6-minute walk distance predict clinical events
+in patients with pulmonary arterial hypertension? A meta-analysis of 22 randomized trials. J Am Coll
+Cardiol. 2012 Sep 25;60(13):1192-201. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22995024?
+tool=bestpractice.bmj.com)
+98. Galiè N, Manes A, Negro L, et al. A meta-analysis of randomized controlled trials in pulmonary
+arterial hypertension. Eur Heart J. 2009 Feb;30(4):394-403.  Full text (https://academic.oup.com/
+eurheartj/article/30/4/394/415127)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19155250?
+tool=bestpractice.bmj.com)
+99. Benza RL, Miller DP, Barst RJ, et al. An evaluation of long-term survival from time of diagnosis in
+pulmonary arterial hypertension from the REVEAL Registry. Chest. 2012 Aug;142(2):448-56. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/22281797?tool=bestpractice.bmj.com)
+100. Benza RL, Miller DP, Gomberg-Maitland M, et al. Predicting survival in pulmonary arterial
+hypertension: insights from the Registry to Evaluate Early and Long-Term Pulmonary Arterial
+Hypertension Disease Management (REVEAL). Circulation. 2010 Jul 13;122(2):164-72.  Full
+text (https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.109.898122)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20585012?tool=bestpractice.bmj.com)
+101. Humbert M, Sitbon O, Chaouat A, et al. Survival in patients with idiopathic, familial, and anorexigen-
+associated pulmonary arterial hypertension in the modern management era. Circulation. 2010 Jul
+13;122(2):156-63.  Full text (https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.109.911818)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20585011?tool=bestpractice.bmj.com)
+102. Fritz JS, Blair C, Oudiz RJ, et al. Baseline and follow-up 6-min walk distance and brain natriuretic
+peptide predict 2-year mortality in pulmonary arterial hypertension. Chest. 2013 Feb 1;143(2):315-23.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22814814?tool=bestpractice.bmj.com)
+103. Nickel N, Golpon H, Greer M, et al. The prognostic impact of follow-up assessments in patients with
+idiopathic pulmonary arterial hypertension. Eur Respir J. 2012 Mar;39(3):589-96.  Full text (https://
+erj.ersjournals.com/content/39/3/589)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21885392?
+tool=bestpractice.bmj.com)
+104. Tongers J, Schwerdtfeger B, Klein G, et al. Incidence and clinical relevance of supraventricular
+tachyarrhythmias in pulmonary hypertension. Am Heart J. 2007 Jan;153(1):127-32. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17174650?tool=bestpractice.bmj.com)
+105. Doran AK, Ivy DD, Barst RJ, et al; Scientific Leadership Council of the Pulmonary Hypertension
+Association. Guidelines for the prevention of central venous catheter-related blood stream infections
+with prostanoid therapy for pulmonary arterial hypertension. Int J Clin Pract Suppl. 2008 Jul;
+(160):5-9.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3129264)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18638170?tool=bestpractice.bmj.com)
+106. Zeiger T, Cobo GC, Dillingham C, et al. Prevalence of sodium and fluid restriction recommendations
+for patients with pulmonary hypertension. Healthcare (Basel). 2015 Jul 28;3(3):630-6.  Full text (https://
+www.mdpi.com/2227-9032/3/3/630)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27417785?
+tool=bestpractice.bmj.com)
+72 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 73 ===
+Idiopathic pulmonary arterial hypertension References
+107. Rajagopal S, Ruetzler K, Ghadimi K, et al. Evaluation and management of pulmonary hypertension
+in noncardiac surgery: A Scientific Statement from the American Heart Association. Circulation.
+2023 Mar 16 [epub ahead of print].  Full text (https://www.doi.org/10.1161/CIR.0000000000001136)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36924225?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+73
+=== Page 74 ===
+Idiopathic pulmonary arterial hypertension Images
+IMAGES
+Images
+Figure 1: Clinical classification and prevalence of pulmonary hypertension. CTEPH, chronic thromboembolic
+pulmonary hypertension; CpCPH, combined post- and pre-capillary pulmonary hypertension; IpcPH,
+isolated post-capillary pulmonary hypertension; mPAP, mean pulmonary arterial pressure; PH, pulmonary
+hypertension; PVR, pulmonary vascular resistance.
+Adapted from Eur Heart J, Volume 43, Issue 38, 7 October 2022, 3618–731; used with permission
+74 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 75 ===
+Idiopathic pulmonary arterial hypertension Images
+Figure 2: ECG showing a tall R wave and small S wave (R/S ratio >1) in lead V1, qR complex in V1, right axis
+deviation, and right atrial enlargement (P wave ≥2.5 mm in lead II)
+From the personal collection of the author, Gustavo A. Heresi, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+75
+=== Page 76 ===
+Idiopathic pulmonary arterial hypertension Images
+IMAGES
+Figure 3: Transthoracic echocardiogram: apical 4-chamber view showing significant right atrial and right
+ventricular dilation
+From the personal collection of the author, Gustavo A. Heresi, MD
+76 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 77 ===
+Idiopathic pulmonary arterial hypertension Images
+Figure 4: Comprehensive risk assessment in pulmonary arterial hypertension (three-strata model). 6MWD, 6-
+minute walking distance; BNP, brain natriuretic peptide; CI, cardiac index; cMRI, cardiac magnetic resonance
+imaging; CPET, cardiopulmonary exercise testing; HF, heart failure; NT-proBNP, N-terminal pro-brain
+natriuretic peptide; PAH, pulmonary arterial hypertension; pred., predicted; RA, right atrium; RAP, right atrial
+pressure; sPAP, systolic pulmonary arterial pressure; SvO2, mixed venous oxygen saturation; RVESVI, right
+ventricular end-systolic volume index; RVEF, right ventricular ejection fraction; SVI, stroke volume index;
+TAPSE, tricuspid annular plane systolic excursion; VE/VCO2, ventilatory equivalents for carbon dioxide;
+VO2, oxygen uptake; WHO-FC, World Health Organization functional class. a: Occasional syncope during
+heavy exercise or occasional orthostatic syncope in a stable patient. b: Repeated episodes of syncope even
+with little or regular physical activity. c: Observe that 6MWD is dependent upon age, height, and burden of
+comorbidities.
+European Heart Journal. 2022 Oct 7;43(38):3618-731; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+77
+=== Page 78 ===
+Idiopathic pulmonary arterial hypertension Images
+IMAGES
+Figure 5: Variables used to calculate the simplified four-strata risk-assessment tool
+European Heart Journal. 2022 Oct 7;43(38):3618-731; used with permission
+78 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 79 ===
+Idiopathic pulmonary arterial hypertension Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+79
+=== Page 80 ===
+Idiopathic pulmonary arterial hypertension Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+80 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 24, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 81 ===
+Contributors:
+// Authors:
+Muhammad Sameed, MD
+Director Advance Lung Disease Program
+Department of Pulmonary & Critical Care Medicine, Assistant Professor of Medicine, Thomas Jefferson
+University Hospital - Einstein Health, Philadelphia, PA
+DISCLOSURES: MS declares that he has no competing interests.
+Gustavo A. Heresi, MD, MS
+Director, Pulmonary Vascular and CTEPH Program
+Department of Pulmonary and Critical Care Medicine, Respiratory Institute, Cleveland Clinic, Cleveland, OH
+DISCLOSURES: GAH has received speaking and advisory board fees from Bayer Healthcare, the
+manufacturer of riociguat.
+// Acknowledgements:
+Dr Muhammad Sameed and Dr Gustavo A. Heresi would like to gratefully acknowledge Dr Raed A. Dweik,
+a previous contributor to this topic.
+DISCLOSURES: RAD declares that he has no competing interests.
+// Peer Reviewers:
+Michael J. Krowka, MD
+Division of Pulmonary and Critical Care Medicine
+Mayo Clinic College of Medicine, Rochester, MN
+DISCLOSURES: MJK declares that he has no competing interests.
+Charlie Elliot, MB ChB, MRCP
+Consultant Physician in Respiratory and General Internal Medicine
+Sheffield Pulmonary Vascular Disease Unit, Royal Hallamshire Hospital, Sheffield, UK
+DISCLOSURES: CE has received reimbursement for attending several conferences as well as lecture fees
+from Actelion Pharmaceuticals, GSK, and Bayer.
+Maria Giovanna Triveri, MD, PhD
+Assistant Professor of Cardiology,
+Medical Director of the Pulmonary Hypertension Program, Icahn School of Medicine at Mount Sinai
+Hospital, New York, NY
+DISCLOSURES: MGT has participated on Advisory Boards of Bayer and Actelion and received financial
+compensation for attendance.

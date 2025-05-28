@@ -1,0 +1,3303 @@
+# Hypertensive emergencies
+
+=== Page 1 ===
+Hypertensive
+emergencies
+Straight to the point of care
+Last updated: Dec 13, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  5
+Case history  5
+Diagnosis  6
+Approach  6
+History and exam  10
+Risk factors  11
+Tests  13
+Differentials  16
+Management  17
+Approach  17
+Treatment algorithm overview  23
+Treatment algorithm  25
+Primary prevention  52
+Secondary prevention  53
+Patient discussions  53
+Follow up  54
+Monitoring  54
+Complications  54
+Prognosis  54
+Guidelines  55
+Diagnostic guidelines  55
+Treatment guidelines  56
+References  57
+Images  68
+Disclaimer  70
+=== Page 3 ===
+Hypertensive emergencies Overview
+Summary
+Hypertensive emergency is severely elevated blood pressure (BP) associated with new or progressive target
+organ dysfunction.
+If the clinical suspicion is high, treatment should be initiated immediately without waiting for further tests.
+BP must be lowered over minutes to hours with parenteral medications in an intensive care setting.
+The initial goal of therapy is to reduce mean arterial BP by no more than 25% (within minutes to 1 hour). If
+the patient remains stable, further reduce the BP to 160 mmHg systolic and 100-110 mmHg diastolic within
+the next 2 to 6 hours. Normal BP may be targeted over the next 24 to 48 hours.
+Excessive falls in pressure may precipitate renal, cerebral, or coronary ischemia and so should be avoided.
+Exceptions to this general rule are patients with aortic dissection, pheochromocytoma crisis, and severe
+preeclampsia or eclampsia. Selected patients with spontaneous intracerebral hemorrhage may also require
+acute blood pressure lowering; careful titration in these patients is required to ensure continuous smooth and
+sustained control of BP.
+With appropriate treatment, prognosis is good.
+Definition
+Hypertensive emergency is defined as severely elevated blood pressure (BP) associated with new or
+progressive target organ dysfunction. Although the absolute value of the BP is not as important as the
+presence of end-organ damage, the systolic BP is usually >180 mmHg and/or the diastolic BP is >120
+mmHg.[1]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Hypertensive emergencies Theory
+THEORY
+Epidemiology
+The worldwide prevalence of hypertension is around 31%, exceeding 1.3 billion people.[2] [3] [4] Of these,
+1% to 2% will suffer a hypertensive crisis in their lifetime.[5] [6] Rates of hypertensive emergencies have
+increased over the past 20 years; however, mortality rates have decreased and range from 0.2% to 11.0%.[7]
+[8] [9]
+Men may be more likely than women to suffer a hypertensive emergency. Hypertensive emergency is more
+common in older patients and in black people.[10] [11] [12] [13] Preeclampsia complicates 2% to 8% of
+pregnancies globally.[14] Preeclampsia is more prevalent among African American women than among
+white women.[15] [16] [17] Differences in prevalence may be, in part, due to African American women being
+disproportionately affected by risk factors for preeclampsia.[16] African American women also have case
+fatality rates related to preeclampsia three times higher than rates among white women.[16] Inequalities in
+access to adequate prenatal care may contribute to poor outcomes associated with preeclampsia in African
+American women.[16] However, UK data concerning ethnic differences in hypertension prevalence and
+complications are inconsistent.[18] [19] [20]
+Lack of insurance or a primary care doctor and nonadherence to treatment all predispose toward
+development of hypertensive emergency.[21] [22] As populations age globally, the prevalence of
+hypertension and therefore hypertensive emergency is expected to increase.[3]
+Etiology
+Essential hypertension that is either undiagnosed or inadequately treated is a common cause of hypertensive
+emergency.[12] [21] [22] [23] Another common cause is secondary and resistant hypertension.
+System disorders that can lead to a presentation of hypertensive emergency include:
+• Renal disease (underlying chronic disease, renal artery stenosis, acute glomerulonephritis, collagen-
+vascular diseases, kidney transplantation)[24] [25] [26] [27] [28] [29] [30]
+• Neurologic (head trauma, spinal cord injury, autonomic dysfunction)[31]
+• Respiratory (obstructive sleep apnea)[32] [33] [34]
+• Immunologic (scleroderma, vasculitis)[31]
+• Endocrine (primary aldosteronism, pheochromocytoma, thyroid disorder, Cushing syndrome,
+acromegaly, hyperparathyroidism, carcinoid tumor, congenital adrenal hyperplasia, or renin-secreting
+tumor).[31] [35] [36][37]
+Pregnancy-related preeclampsia, HELLP (hemolysis, elevated liver enzymes, low platelets) syndrome, and
+eclampsia are also important causes of hypertensive emergency in women.[31]
+Lifestyle choices should also be considered when trying to determine the potential cause of a hypertensive
+emergency as excessive dietary salt intake, obesity, and/or alcohol consumption can all contribute to
+hypertension.[38] A thorough medication history must also be obtained as hypertension can be induced or
+exacerbated by certain medications, including nonsteroidal anti-inflammatory drugs, oral contraceptives,
+sympathomimetics, illicit drugs, glucocorticoids, mineralocorticoids, calcineurin inhibitors, erythropoietin,
+herbal supplements, vascular endothelial growth factor inhibitors, and inadvertent drug or food interactions
+with monoamine oxidase inhibitors.[7][31] [39]
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Hypertensive emergencies Theory
+Pathophysiology
+The factors that lead to the development of hypertensive emergency are poorly understood. A rise in
+systemic vascular resistance, resulting from a combination of humoral vasoconstrictor increase and
+autoregulatory failure, initiates the cycle. The subsequent increase in blood pressure generates mechanical
+stress and endothelial injury leading to increased permeability, activation of the coagulation cascade and
+platelets, deposition of fibrin, and inflammatory cytokine induction. These processes result in ischemia
+and the release of additional vasoactive mediators generating ongoing injury. Volume depletion caused by
+pressure natriuresis and activation of the renin-angiotensin system often lead to further vasoconstriction.
+Systemic vasoconstriction leads to decreased blood flow to vital organs and the subsequent end-organ injury
+that is the hallmark of hypertensive emergency. End-organ injury primarily affects the neurologic, cardiac,
+and renal systems.[39] [40] [41] [42] [43] [44] [45]
+Case history
+Case history #1
+A 50-year-old black man with a history of untreated hypertension presents to the emergency room with
+substernal chest pressure. His symptoms started the previous day. The pain was initially intermittent in
+nature but has become constant and radiates to his jaw and left shoulder. He also complains of dizziness
+and some shortness of breath. Apart from a history of hypertension diagnosed 1 year ago, the patient
+denies any past medical history. He is not taking any antihypertensive medications. The patient denies
+smoking, or alcohol or drug use. Family history is unremarkable. His blood pressure (BP) is 230/130
+mmHg with otherwise normal vital signs and no other significant findings. ECG shows diffuse T-wave
+inversion and ST depression in lateral leads. Laboratory testing is significant for elevated troponin,
+signaling myocardial infarction.
+Case history #2
+A 35-year-old woman presents at 37 weeks' gestation with severe headache and acute abdominal pain.
+She had a routine prenatal visit 4 days previously with no signs or symptoms reported or observed. On
+exam, her BP is 165/110 mmHg and urinalysis reveals proteinuria (3+). She is admitted to hospital and is
+started on labetalol.
+Other presentations
+In addition to acute coronary syndrome or severe preeclampsia/eclampsia, hypertensive emergency can
+present as new or progressive damage to the following target organs: brain (e.g., stroke, seizure, transient
+ischemic attack, cerebral infarction, intracerebral or subarachnoid bleed, hypertensive encephalopathy,
+posterior reversible leukoencephalopathy); heart/blood vessels (acute pulmonary edema, acute
+congestive heart failure, acute aortic dissection, microangiopathic hemolytic anemia); kidney (acute
+kidney injury); retina (papilledema, hemorrhages, retinal edema).
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Hypertensive emergencies Diagnosis
+DIAGNOSIS
+Approach
+The key to diagnosis of hypertensive emergency is a rapid but thorough evaluation. The main areas of focus
+should be the neurologic, cardiovascular, and renal systems. Emergency treatment should be initiated while
+conducting a full diagnostic appraisal.
+History
+Any prior history of hypertension and previous treatment (including treatment adherence) should be
+identified.[7] [18] Prior or existing history of neurologic, cardiac, and renal impairment should also be
+determined.
+Clinical features that may identify specific organ compromise include:[18] [24] [40][54]
+• Neurologic compromise: for example, blurry vision, dizziness, headache, seizures, change in
+mental status from baseline, dysphagia, loss of sensation, paresthesia, or loss of movement
+• Cardiac compromise: for example, chest pain, shortness of breath, diaphoresis, orthopnea,
+paroxysmal nocturnal dyspnea, palpitations, or edema
+• Renal compromise: for example, decrease in urine output.
+When appropriate, use of street drugs, particularly sympathomimetics (cocaine, amphetamines,
+phenylpropanolamine, phencyclidine, ecstasy, LSD) should be investigated.[7] [18]
+A diagnosis of preeclampsia or eclampsia should be considered in pregnant patients.[48] [55] Commonly
+described features of preeclampsia headache include severe bilateral frontal headache and blurry vision,
+which may progress to bilateral cortical blindness.[55] [56] The headache typically develops in temporal
+relation to the onset of preeclampsia, or substantially worsens or improves in parallel with worsening or
+improvement of preeclampsia.[55] In the setting of preeclampsia and headache, it is important to consider
+alternative secondary etiologies (e.g., reversible cerebral vasoconstriction syndrome, posterior reversible
+encephalopathy syndrome, or infection) if accompanied by an altered level of consciousness, vomiting, or
+fever.[55]
+Physical exam
+An appropriately sized cuff should be used for blood pressure (BP) readings, so that the bladder encircles
+80% of the arm.[1] [57] The arm should be supported at heart level during recordings. Using too large a
+cuff could result in an underestimation of BP; conversely, too small a cuff could lead to over-estimation. It
+should be noted if a larger- or smaller-than-normal cuff size is used.[1]
+BP readings should be taken from both arms.[7] [54] Readings should be repeated after 5 minutes to
+confirm. If there is a more than 20 mmHg pressure difference between arms, aortic dissection should be
+considered.[58] [59] If blood pressure is elevated, a second measurement should be taken.[60]
+A fundoscopic exam should be performed, with the aid of slit lamp exam and pupillary mydriasis if
+necessary, looking for the presence of arteriolar spasm, retinal edema, retinal hemorrhages, retinal
+exudates, papilledema, or engorged retinal veins.[7] [18]
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Hypertensive emergencies Diagnosis
+Fundus photograph of the right eye with multiple dot-blot hemorrhages typical of hypertensive retinopathy
+Courtesy Angie Wen MD, Attending Faculty, New York Eye and Ear Infirmary, New York; used with permission
+Fundus photograph of the left eye with multiple cotton-wool spots typical of hypertensive retinopathy
+Courtesy Angie Wen MD, Attending Faculty, New York Eye and Ear Infirmary, New York; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Hypertensive emergencies Diagnosis
+DIAGNOSIS
+Fundus photograph of the right eye centered on the optic nerve, showing multiple cotton-
+wool spots and macular exudates in a radiating star configuration around the fovea
+Courtesy Angie Wen MD, Attending Faculty, New York Eye and Ear Infirmary, New York; used with permission
+A rapid bedside neurologic exam is also required, including testing of cognition, cranial nerve function,
+dysarthria, motor strength, gross sensory function, upper extremity pronator drift, and gait.
+Cardiopulmonary status should be assessed, examining in particular for the presence of new murmurs,
+friction rubs, additional heart sounds, lateral displacement of the apex beat, jugular venous distension,
+carotid or renal artery bruits, rales, and lower extremity edema.
+Abdominal exam should be performed. Tenderness to palpation in the right upper quadrant is seen in
+severe preeclampsia and HELLP (hemolysis, elevated liver enzymes, low platelets) syndrome.[61] [62]
+ Pheochromocytoma may be associated with an abdominal mass.
+Renovascular hypertension should be suspected in patients with severe hypertension who have
+abdominal bruits and/or unexplained renal deterioration with angiotensin-converting enzyme inhibitor
+treatment, although the clinical presentation is variable.
+During pregnancy, hypertension in a previously normotensive woman with proteinuria or evidence
+of systemic involvement (e.g., renal insufficiency, impaired liver function, neurologic complications,
+hematologic complications) is diagnostic of preeclampsia.[48] [61]
+Preeclampsia should be considered in patients with headache who are at least 20 0/7 weeks of gestation,
+or within 6 weeks postpartum, and who have blood pressure ≥140 mmHg systolic or ≥90 mmHg
+diastolic.[55]
+At least two measurements should be made, at least 4 hours apart.[48] The neurologic exam is typically
+normal in preeclampsia.[55]
+See Preeclampsia (Diagnostic approach) . 
+Laboratory evaluation
+Baseline blood and urine samples must be collected prior to administration of treatment. Laboratory
+evaluation should include the following:[7] [18] [54]
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Hypertensive emergencies Diagnosis
+• Blood chemistry panel, including creatinine and electrolytes
+• Complete blood count, including peripheral blood smear
+• Urinalysis with microscopy.
+In some circumstances, the following may also be indicated:
+• Liver function tests, if preeclampsia or HELLP (hemolysis, elevated liver enzymes, low platelets)
+syndrome are suspected.[48] [61]
+• Cardiac enzymes and/or brain natriuretic peptide, if acute coronary syndrome or acute heart failure
+is suspected.[18]
+• Coagulation profile, if disseminated intravascular coagulation is suspected.[18]
+• Urine or serum pregnancy test (in women of childbearing age not known to be pregnant).[18]
+• A urine drug screen, if illicit drug use is suspected.[63]
+• Plasma renin activity and aldosterone levels, if primary aldosteronism is suspected (e.g., in patients
+with diastolic hypertension with persistent hypokalemia and metabolic alkalosis).
+• Spot urine or plasma-free metanephrine levels, if pheochromocytoma is suspected (e.g., in patients
+with hypertension and palpitations, headaches, and/or diaphoresis, although clinical presentation is
+very variable).[18] [63] These tests need to be interpreted carefully, with consideration for possible
+confounding factors such as drugs (e.g., tricyclic antidepressants, clozapine, phenoxybenzamine,
+beta-blockers, sympathomimetics, buspirone), or major physiologic stress.
+• Do not use plasma catecholamines to rule out pheochromocytoma.[64] [65]
+• Thyroid function tests, if signs of hypo- or hyperthyroidism.
+• 24-hour urinary free cortisol, if Cushing syndrome is suspected.
+• Sleep study, in cases of resistant hypertension and for patients with signs or symptoms of
+obstructive sleep apnea.[34]
+Further investigation
+ECG and chest x-ray should be strongly considered.[7] [54] If aortic dissection is considered possible,
+urgent thoracic computed tomography angiography (CTA) scan with contrast is recommended.[66]
+[67] For patients who cannot receive iodinated contrast, computed tomography (CT) without contrast
+is an acceptable alternative. Transthoracic echocardiography (TTE) may be used in the emergency
+department, intensive care unit (ICU), or operating room for acute proximal dissections if the patient
+is clinically unstable and there is any question about the diagnosis, or if CTA is unavailable or
+contraindicated.[66] [67] See Aortic dissection .
+In clinical situations with high suspicion for renal artery disease, the use of doppler ultrasound, usually
+recommended as first-line imaging. This may be followed by magnetic resonance angiography and/
+or CTA.[68] Due to the potential risks with invasive procedures, angiography is generally limited to
+visualization and quantification of the stenosis before vascular intervention.[68]
+If ischemic stroke or intracranial hemorrhage is suspected (e.g., in patients with decreased consciousness
+or those with focal neurological deficits), an urgent noncontrast CT scan of the head and/or a magnetic
+resonance imaging scan should be requested, depending on local availability.[18] Typically patients
+initially undergo a noncontrast head CT, in order to exclude a brain hemorrhage and guide treatment.[69]
+ The mismatch between diffusion-weighted imaging and fluid-attenuated inversion recovery findings on
+magnetic resonance imaging (MRI) can be useful for selecting those who may benefit from intravenous
+thrombolysis.[69] However, MRI may take more than 30 minutes to complete, and is not universally
+available. See Ischemic stroke  and Hemorrhagic stroke .
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Hypertensive emergencies Diagnosis
+DIAGNOSIS
+The American College of Obstetricians and Gynecologists recommends evaluating headaches in
+pregnancy that warrant brain or vascular imaging with magnetic resonance techniques that limit the use of
+gadolinium.[55]
+History and exam
+Key diagnostic factors
+blood pressure (BP) >180/120 mmHg (common)
+• BP is usually >180/120 mmHg in hypertensive emergencies; however, the key determinant is the
+presence of new or worsening end-organ damage.[1] [60] During pregnancy, hypertension in a
+previously normotensive woman with proteinuria or evidence of systemic involvement (e.g., renal
+insufficiency, impaired liver function, neurologic complications, hematologic complications) is
+diagnostic of preeclampsia.[48] [61] Preeclampsia should be considered in patients with headache
+who are at least 20 0/7 weeks of gestation, or within 6 weeks postpartum, and who have blood
+pressure ≥140 mmHg systolic or ≥90 mmHg diastolic.[55] At least two measurements should be made,
+at least 4 hours apart.[48]
+Other diagnostic factors
+neurologic symptoms (common)
+• Neurologic abnormalities, such as vision changes, dizziness, headache, dysarthria, seizures, change
+in mental status, dysphagia, loss of sensation or paresthesia, and loss of movement, are symptoms
+often associated with hypertensive emergency.[40] Commonly described features of preeclampsia
+headache include severe bilateral frontal headache and blurry vision, which may progress to bilateral
+cortical blindness.[55] [56] The headache typically develops in temporal relation to the onset of
+preeclampsia, or substantially worsens or improves in parallel with worsening or improvement of
+preeclampsia.[55]
+cardiac symptoms (common)
+• Cardiac abnormalities (e.g., chest pain, shortness of breath, orthopnea, paroxysmal nocturnal
+dyspnea, palpitations, edema) are frequently associated with hypertensive emergency.[40]
+abnormal cardiopulmonary exam (common)
+• The presence of new murmurs, friction rub, S3, jugular venous distension, rales, or lower extremity
+edema may be found.
+abnormal abdominal exam (common)
+• Tenderness to palpation in the right upper quadrant is seen in severe preeclampsia and HELLP
+(hemolysis, elevated liver enzymes, low platelets) syndrome.[61] [62] Pheochromocytoma may be
+associated with an abdominal mass. Renovascular hypertension should be suspected in patients
+with severe hypertension who have abdominal bruits and/or unexplained renal deterioration with
+angiotensin-converting enzyme inhibitor treatment, although the clinical presentation is variable.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Hypertensive emergencies Diagnosis
+oliguria or polyuria (common)
+• Any changes in renal output can be indicative of renal damage.[24]
+abnormal fundoscopic exam (common)
+• The following signs are indicative of hypertensive retinopathy: arteriolar spasm, retinal edema, retinal
+hemorrhages, retinal exudates, papilledema, engorged retinal veins.[7][71]
+abnormal neurologic exam (common)
+• Abnormal findings in cognition, cranial nerve function, motor strength, gross sensory function, and gait
+can frequently result from hypertensive crisis.
+Risk factors
+Strong
+inadequately treated hypertension
+• A history of inadequately treated hypertension is commonly seen.[18] [21] [22] [23]
+chronic kidney disease
+• Chronic kidney disease is a strong risk factor for hypertension and progression to hypertensive
+emergencies in both adults and children.[13] [18][24] [25] [26] [27]
+renal artery stenosis
+• Renal artery stenosis is strongly associated with secondary hypertension.[28]
+renal transplant
+• Renal transplantation is commonly associated with hypertension, with graft failure most commonly
+responsible.[29] Transplant renal artery stenosis accounts for between 1% and 5% of hypertension
+after transplantation.[30] Anti-rejection medication (e.g., calcineurin inhibitors) may also play a role.[7]
+[31] [39]
+endocrine disorders with known hypertensive effects
+• There are a number of endocrine disorders that are associated with hypertensive emergencies. These
+include: primary aldosteronism, pheochromocytoma, thyroid disorder, Cushing syndrome, acromegaly,
+hyperparathyroidism, carcinoid tumor, congenital adrenal hyperplasia, or renin-secreting tumor.[31]
+[35] [36][37] The treatment of certain endocrine disorders may also precipitate a hypertensive
+emergency. For example, the use of beta-blocker medication before the administration of an alpha-
+adrenergic receptor blocker in a patient with a pheochromocytoma may lead to a hypertensive
+crisis.[46][47]
+pregnancy
+• Preeclampsia, eclampsia, and HELLP (hemolysis, elevated liver enzymes, low platelets) syndrome
+can all result in a hypertensive emergency.[31] [48]
+Weak
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Hypertensive emergencies Diagnosis
+DIAGNOSIS
+older age
+• Older age predisposes to hypertensive emergency.[10] [11] [12] [13]
+black ethnicity
+• Black people are predisposed to hypertensive emergency, compared with white people.[11] [12]
+male sex
+• Men may be more likely than women to suffer a hypertensive emergency.[11] [12]
+use of sympathomimetic drugs
+• Use of sympathomimetic street drugs (e.g., cocaine, LSD, amphetamines, ecstasy) predisposes to
+hypertensive emergency.[7][18]
+pharmacotherapy with known hypertensive effect
+• Many medications can induce or exacerbate hypertension, leading to a hypertensive emergency.
+These include nonsteroidal anti-inflammatory drugs, oral contraceptives, sympathomimetics, illicit
+drugs, glucocorticoids, mineralocorticoids, calcineurin inhibitors, erythropoietin, herbal supplements,
+vascular endothelial growth factor inhibitors, and inadvertent drug or food interactions with monoamine
+oxidase inhibitors (MAOIs).[7][31] [39] If foods high in tyramine are ingested by patients taking MAOIs,
+this can precipitate a hypertensive emergency (the so called ‘tyramine reaction’).
+obstructive sleep apnea
+• Obstructive sleep apnea is associated with secondary hypertension which, if left untreated, may
+precipitate a hypertensive emergency.[32] [33] [34]
+vasculitis and connective tissue diseases
+• Multiple vasculitides and connective tissue disorders are associated with hypertension and
+hypertensive emergencies. These include scleroderma, systemic lupus erythematosus, Takayasu's
+arteritis, and giant cell arteritis.[31] [49] [50] [51]
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Hypertensive emergencies Diagnosis
+Tests
+1st test to order
+Test Result
+blood chemistry
+• Acute kidney injury may be the only sign of hypertensive emergency.
+may reveal elevated
+creatinine and BUN
+CBC with smear
+• Microangiopathic hemolytic anemia may occur in patients with
+hypertensive emergency and increases the risk of developing acute
+kidney injury.[72] Additional evidence for hemolysis may be obtained
+by checking a serum LDH, haptoglobin, and indirect bilirubin.
+may reveal schistocytes
+(red cell fragments)
+indicating the presence of
+hemolysis
+urinalysis with microscopy
+• Acute kidney injury as manifested by hematuria and proteinuria may
+be the only sign of hypertensive emergency.
+may reveal presence of red
+cells and protein
+ECG
+• If the patient has chest pain and there is ST elevation on the ECG,
+the patient should be sent for emergency revascularization.
+• If the ECG is abnormal but the ST segment is not elevated,
+biomarkers (high-sensitivity troponin), and echocardiogram are the
+first-line investigations in all patients to rule out ongoing ischemia or
+infarction.
+• If the ECG is normal, aortic dissection should be considered in the
+context of unexplained chest pain.
+may reveal evidence of
+ischemia or infarct such
+as ST- or T-wave changes
+chest x-ray
+• A chest x-ray is useful to assess for pulmonary edema, left ventricular
+hypertrophy, and aortic dissection.
+• A plain chest x-ray is neither sufficiently sensitive nor specific for
+aortic dissection to be used as a diagnostic tool. If aortic dissection
+is suspected, urgent computed tomography angiography (CTA) with
+contrast should be ordered.
+may reveal evidence
+of pulmonary edema
+indicating left ventricular
+failure or widened
+mediastinum indicating
+possible aortic dissection
+Test to avoid
+Recommendations Rationale
+plasma catecholamines
+• Do not use plasma catecholamines to rule out pheochromocytoma
+as a cause of hypertension. Use urine or plasma metanephrine
+instead.[64] [65]
+• Measurement of
+metabolites including
+metanephrine
+provides a
+more sensitive
+diagnostic test than
+catecholamines.[65]
+[73]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Hypertensive emergencies Diagnosis
+DIAGNOSIS
+Other tests to consider
+Test Result
+thyroid function tests
+• Indicated if signs/symptoms of hypothyroidism or hyperthyroidism.
+thyroid-stimulating
+hormone (TSH) high
+and thyroxine (T4) low in
+primary hypothyroidism;
+TSH low/normal and
+T4 low in central
+hypothyroidism; TSH low
+and T4 high in primary
+hyperthyroidism (e.g.,
+Graves disease); TSH high
+and T4 high in central
+hyperthyroidism (e.g., in
+rare pituitary tumors)
+liver function tests
+• Recommended in all women with suspected preeclampsia. Useful
+indicator of disease progression. Increased transaminase levels are
+partly diagnostic for HELLP (hemolysis, elevated liver enzymes, low
+platelets) syndrome.
+may be abnormal
+cardiac enzymes
+• Cardiac enzymes should be performed if acute coronary syndrome is
+suspected.
+elevated in acute coronary
+syndrome
+N-terminal pro-B-type natriuretic peptide (NT-proBNP)
+• BNP should be measured if acute heart failure is suspected. If NT-
+proBNP levels are normal it is unlikely that the patient has heart
+failure.
+may be elevated in acute
+heart failure
+coagulation profile
+• Coagulation profile should be performed if disseminated intravascular
+coagulation is suspected. Prolonged prothrombin time/partial
+thromboplastin time in addition to thrombocytopenia is indicative of
+progression to disseminated intravascular coagulation.
+may be abnormal
+urine or serum pregnancy test
+• Performed in women of childbearing age not known to be pregnant.
+All pregnant women presenting with hypertension and either
+proteinuria or evidence of systemic involvement require close
+assessment and monitoring for preeclampsia and its complications.
+positive in pregnancy
+urine toxicology screen
+• Performed in patients with suspected ingestion of illicit substances.
+may be positive for illicit
+substances
+computed tomography angiography (CTA) scan
+• If aortic dissection is considered possible, an urgent thoracic CTA
+scan with contrast is recommended.[66] [67] For patients who cannot
+receive iodinated contrast, computed tomography (CT) without
+contrast is an acceptable alternative.
+• Transthoracic echocardiography (TTE) may be used in the
+emergency department, intensive care unit (ICU), or operating room
+for acute proximal dissections if the patient is clinically unstable and
+there is any question about the diagnosis, or if CTA is unavailable or
+contraindicated.[66] [67]
+evidence of two separate
+aortic lumens with
+dividing intimal flap in
+aortic dissection
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Hypertensive emergencies Diagnosis
+Test Result
+transthoracic echocardiography (TTE)
+• TTE may be used in the emergency department, ICU, or operating
+room for acute proximal dissections if the patient is clinically unstable
+and there is any question about the diagnosis, or if CTA is unavailable
+or contraindicated.[66] [67]
+evidence of two separate
+aortic lumens with
+dividing intimal flap in
+aortic dissection
+renal ultrasound with Doppler
+• Doppler ultrasound is usually the first-line imaging in clinical
+situations with high suspicion for renal artery disease. This may
+be followed by magnetic resonance angiography and/or CTA.[68]
+ Due to the potential risks with invasive procedures, angiography is
+generally limited to visualization and quantification of the stenosis
+before vascular intervention.[68]
+may reveal increased renal
+artery resistive indices
+head CT without contrast
+• Indicated if neurologic complications are suspected. In patients
+suspected of having a stroke, CT or magnetic resonance imaging
+(MRI) of the brain is recommended to confirm the diagnosis of
+symptomatic ischemic cerebral vascular disease. Typically patients
+initially undergo a noncontrast head CT, in order to exclude a brain
+hemorrhage and guide treatment.[69]
+may reveal evidence of
+infarct or hemorrhage
+head MRI
+• In patients suspected of having a stroke, CT or MRI of the brain is
+recommended to confirm the diagnosis of symptomatic ischemic
+cerebral vascular disease. The mismatch between diffusion-weighted
+imaging and fluid-attenuated inversion recovery findings on MRI
+can be useful for selecting those who may benefit from intravenous
+thrombolysis.[69] However, MRI may take more than 30 minutes to
+complete, and is not universally available. The American College of
+Obstetricians and Gynecologists recommends evaluating headaches
+in pregnancy that warrant brain or vascular imaging with magnetic
+resonance techniques that limit the use of gadolinium.[55]
+may reveal evidence of
+infarct or hemorrhage
+plasma renin activity and aldosterone level
+• This test is an indirect measure of the activity of renin through
+measurement of the rate of production of angiotensin I, which
+increases as a result of renin stimulation. Aldosterone levels
+are usually measured at the same time. High plasma renin
+activity suggests hypertension from the vasoconstrictive effects of
+angiotensin.
+in primary
+hyperaldosteronism, renin
+activity will be decreased
+and aldosterone levels
+increased; in secondary
+hyperaldosteronism,
+both renin activity and
+aldosterone levels will be
+increased
+spot urine or plasma metanephrine
+• May be useful before initiation of drug therapy to rule out
+pheochromocytoma. However, these tests need to be interpreted
+carefully, with consideration for possible confounding factors
+such as drugs (e.g., tricyclic antidepressants, clozapine,
+phenoxybenzamine, beta-blockers, sympathomimetics, buspirone) or
+major physiologic stress. Do not use plasma catecholamines to rule
+out pheochromocytoma.[64] [65]
+may reveal elevated
+metanephrine levels
+24-hour urine free cortisol
+• Indicated when stigmata of Cushing syndrome present.
+elevated in Cushing
+syndrome
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Hypertensive emergencies Diagnosis
+DIAGNOSIS
+Test Result
+sleep study
+• Sleep study may be considered in cases of resistant hypertension
+and also for patients with signs or symptoms of obstructive sleep
+apnea.[34]
+may show results
+consistent with
+obstructive sleep apnea
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Hypertensive urgency • BP is above 180/120 mmHg
+but the patient is stable
+and there is no organ
+dysfunction.
+• History, physical exam,
+laboratory tests, and imaging
+show no evidence of end-
+organ damage.
+Uncontrolled essential
+hypertension
+• Asymptomatic elevated BP.
+• BP is less than 180/120
+mmHg.
+• History, physical exam,
+laboratory tests, and imaging
+show no evidence of end-
+organ damage.
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Hypertensive emergencies Management
+Approach
+If hypertensive emergency is suspected, treatment should not be delayed while conducting a full diagnostic
+evaluation.
+Appropriate facilities
+Patients with hypertensive emergencies should be admitted to an intensive care unit for continuous
+monitoring of blood pressure (BP) and target organ damage and for parenteral administration of
+appropriate therapeutic agent(s).[1] [7][18] [74] Other supportive measures that may be required include
+intracranial pressure monitoring (in rare cases of increased intracranial pressure), noninvasive ventilation
+or intubation (in cases of respiratory distress), or dialysis (in case of severe acute kidney injury).
+Choice of agents and route of administration
+The specific parenteral agents used for treating a hypertensive emergency should be dictated by the
+end-organ systems that have been damaged, patient comorbidities, and overall clinical condition. Oral
+therapies are generally discouraged as first-line treatment options.[1] Arterial lines are preferred for the
+use of intravenous antihypertensive medications.[7] There are very few randomized controlled trials
+studying different parenteral agents in hypertensive emergency. Published guidelines are therefore based
+on common clinical experience and practice.
+Rate of BP reduction
+The American College of Cardiology/American Heart Association Task Force on Prevention, Detection,
+Evaluation, and Treatment of High Blood Pressure states that the initial goal of therapy in hypertensive
+emergencies is to reduce mean arterial BP by no more than 25% (within minutes to 1 hour), then, if
+stable, to 160 mmHg systolic and 100-110 mmHg diastolic within the next 2-6 hours.[1]
+Excessive falls in pressure that may precipitate renal, cerebral, or coronary ischemia should be
+avoided.[1] [57]
+If the initial level of reduced BP is well tolerated and the patient is clinically stable, further gradual
+reductions toward a normal BP can be implemented over the next 24-48 hours.
+Exceptions to the above recommendation include:[1] [75]
+• Patients with an ischemic stroke, as there is no clear evidence from clinical trials to support the use
+of immediate antihypertensive treatment
+• Patients who are candidates for thrombolytic therapy (typically those with ischemic stroke), who
+should have their BP slowly lowered to systolic BP (SBP) <185 mmHg and diastolic BP <110
+mmHg before intravenous tissue plasminogen activator is initiated
+• Patients with severe preeclampsia, eclampsia, or pheochromocytoma crisis, in whom SBP should
+be reduced to <140 mmHg in the first hour
+• Patients with aortic dissection, in whom accepted practice is reduction of SBP to <120 mmHg in the
+first 20 minutes, although evidence to support this timescale is lacking.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Accelerated (malignant) hypertension, hypertensive
+encephalopathy or intracranial hemorrhage
+The term "accelerated hypertension" (also known as malignant hypertension) is a subcategory of
+hypertensive emergency where severe hypertension occurs with retinopathy of grade III (flame
+hemorrhages, dot and blot hemorrhages, hard and soft exudates) or grade IV (papilledema).[18] [54]
+Hypertensive encephalopathy encompasses the transient neurologic symptoms (lethargy, seizures,
+cortical blindness, and coma) that occur with malignant hypertension, which are usually reversed by
+prompt treatment and lowering of BP.[18] [54] Encephalopathy should improve once the BP is lowered. If
+there is no improvement despite a decrease in BP, an alternative diagnosis should be considered.
+In the management of intracerebral hemorrhage (ICH), the patient's ideal BP should be based on
+individual factors, including baseline BP, presumed cause of hemorrhage, age, elevated intracranial
+pressure, and interval since onset. In cases of large or severe ICH, or an initial SBP ≥220 mmHg,
+cautious BP lowering should be pursued.[76] In patients with initial SBP ≥220 mmHg, early intensive BP
+reduction, compared with standard BP lowering, was associated with higher rates of renal adverse events
+in one post-hoc analysis of a large randomized clinical trial.[76] [77]
+While elevated BP could in theory increase the risk of ongoing bleeding from ruptured small arteries and
+arterioles, the relationship between BP, intracranial pressure, and volume of hemorrhage is complex and
+not yet fully understood.
+The rationale for lowering BP is to minimize further hemorrhage: for example, from a ruptured aneurysm
+or arteriovenous malformation. However, the evidence for the effectiveness and safety of rapid BP
+lowering in the management of intracerebral hemorrhage remains inconclusive.[76] [78][79] [80]
+For the management of patients with spontaneous ICH, recommendations from the American Heart
+Association and American Stroke Association (AHA/ASA) include the following, based on two of the
+largest trials for early intensive BP lowering after ICH (INTERACT2, ATACH-2), meta-analyses, and
+several post-hoc analyses of these two trials:[76] [78] [79]
+• In patients with spontaneous ICH requiring acute BP lowering, careful titration to ensure continuous
+smooth and sustained control of BP, avoiding peaks and large variability in SBP, can be beneficial
+for improving functional outcomes.
+• Initiating blood pressure treatment within 2 hours of ICH onset, and reaching target within 1 hour,
+can be beneficial to reduce the risk of hematoma expansion and improve functional outcomes.
+• In patients with spontaneous ICH of mild to moderate severity presenting with SBP between 150
+and 220 mmHg, acute lowering of SBP to a target of 140 mmHg, with the goal of maintaining
+it within the range of 130-150 mmHg, is safe and may be reasonable for improving functional
+outcomes. Acute lowering of SBP to <130 mmHg is potentially harmful in these patients.
+• In patients with spontaneous ICH presenting with large or severe ICH, SBP >220 mmHg, more than
+6 hours after symptom onset, or in those requiring surgical decompression, the safety and efficacy
+of intensive BP lowering is not well established.
+See Hemorrhagic stroke (Management approach) .
+Treatment options include the following.
+• First-line
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Hypertensive emergencies Management
+• Labetalol is the first-line treatment for accelerated (malignant) hypertension, hypertensive
+encephalopathy, or intracranial hemorrhage.[18] [39] [41] [42]
+• Second-line
+• Nicardipine is a second-line agent.[18] One randomized controlled trial found that
+intravenous nicardipine significantly increased the proportion of people who reached
+physician-specified target range SBP within 30 minutes compared with intravenous
+labetalol.[81] Nicardipine is especially useful in the presence of cardiac disease due to
+coronary vasodilatory effects.[82] [83]
+• If patients do not have evidence of raised intracranial pressure, nitroprusside is a second-line
+treatment choice.[39] [41] However, if raised intracranial pressure is present or suspected,
+nitroprusside is contraindicated and another agent should be used.[18] [84] Nitroprusside
+decreases cerebral blood flow while increasing intracranial pressure, effects that are
+particularly disadvantageous in patients with hypertensive encephalopathy or following a
+stroke.[85] [86] [87] It should also be avoided in patients with renal or hepatic insufficiency.
+• Third-line
+• The third-line treatment choice is fenoldopam, a selective peripheral dopamine-1-receptor
+agonist with arterial vasodilator effects.[39] [41] [42] [88] [89] This drug is particularly useful
+in patients with renal insufficiency, where the use of nitroprusside is restricted due to the risk
+of thiocyanate poisoning.
+Acute ischemic stroke
+Treating a hypertensive emergency with an associated acute ischemic stroke warrants greater caution
+in reducing BP than in other types of hypertensive emergency. Overly rapid or large reductions of mean
+arterial pressure may decrease cerebral perfusion pressure to a level that could theoretically worsen
+brain injury. However, AHA/ASA guidelines recommend early treatment of hypertension when required by
+comorbid conditions, including preeclampsia/eclampsia.[69] The following may be used as guidance.
+If the SBP is >220 mmHg or the diastolic BP is >120 mmHg, it may be reasonable to lower the BP by 15%
+during the first 24 hours after the onset of stroke.[1] [90]
+If the SBP is <220 mmHg and the diastolic BP is <120 mmHg, then it is reasonable to maintain close
+observation without direct intervention to reduce BP, unless:[1] [91] [92]
+• There is other end-organ involvement such as aortic dissection, renal failure, or acute myocardial
+infarction
+• The patient is to receive thrombolysis, in which case the target SBP should be <185 mmHg and
+diastolic BP <110 mmHg. The BP should be maintained <185/105 mmHg for at least 24 hours after
+initiating intravenous thrombolysis.
+If the SBP is >220 mmHg or diastolic BP is between 121-140 mmHg, then labetalol, nicardipine, or
+clevidipine should be used to achieve a 10% to 15% reduction in BP in 24 hours.[39] [41] [42] [93] [94]
+If diastolic BP is >140 mmHg, then nitroprusside is used to achieve a 10% to 15% reduction over 24
+hours.[39] [41] [95]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Myocardial ischemia/infarction
+First-line treatment of hypertensive emergency complicated by myocardial ischemia or infarction is the
+combination of esmolol (a selective beta-blocker) plus nitroglycerin (a peripheral vasodilator, which affects
+venous vessels more than arterial).[1] [39] [41] [42] [95] [96]
+Esmolol acts to reduce the heart rate and nitroglycerin acts to decrease preload and cardiac output, and
+increases coronary blood flow.
+Second-line treatment choice would be labetalol plus nitroglycerin.[39] [41] [42] [95] [96]
+Contraindications to beta-blockers include moderate-to-severe left ventricular failure with pulmonary
+edema, bradycardia, hypotension, poor peripheral perfusion, second- or third-degree heart block, and
+reactive airway disease.[1]
+The third-line treatment choice would be nitroprusside.[39] [41] [95]
+Left ventricular failure and/or pulmonary edema
+First-line treatment of hypertensive emergency with left ventricular failure and/or pulmonary edema is
+nitroglycerin or clevidipine.[39] [41] [42] [96]
+Nitroprusside (a potent arterial and venous vasodilator that decreases after-load and preload) is the
+second-line treatment choice in this situation.[39] [41] [95]
+If the patient is not already on a loop diuretic, one should be started (e.g., furosemide). Beta-blockers are
+contraindicated in moderate-to-severe left ventricular failure with pulmonary edema.[1]
+Suspected aortic dissection
+If aortic dissection is suspected in a hypertensive emergency, the BP should be lowered quite
+aggressively, typically with a target of reducing the SBP to <120 mmHg within 20 minutes, although
+evidence to support this timescale is lacking.[1] [75]
+Medical therapy aims to both lower the BP and decrease the velocity of left ventricular contraction, so
+decreasing aortic shear stress and minimizing the tendency for propagation of the dissection.
+First-line treatment choice is beta-blockers, either labetalol or esmolol, administered intravenously.[39]
+[41] [42] [97]
+If there is no significant improvement, nitroprusside or nicardipine can be added to the beta-blocker.[39]
+[41] [42] [97] The beta-blockade should precede vasodilator (nicardipine or nitroprusside) administration
+to prevent reflex tachycardia and worsen shear stress on the intimal flap.[1] See Aortic dissection .
+Acute kidney injury
+Fenoldopam is the first-line treatment choice of hypertensive emergency complicated by acute kidney
+injury.[39] [41] [42] [88] [89] This drug (a selective peripheral dopamine-1-receptor agonist with arterial
+vasodilator effects) is particularly useful in renal insufficiency because it acts to both decrease afterload
+and increase renal perfusion. Other potential first-line agents are dihydropyridine calcium-channel
+blockers (e.g., nicardipine, clevidipine), which increase stroke volume and have strong cerebral and
+coronary vasodilatory activity.[1] [39] [41] [42] [93]
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Hypertensive emergencies Management
+Hyperadrenergic states
+Hyperadrenergic states include:
+• Pheochromocytoma
+• Sympathomimetic drug use: for example, cocaine, amphetamines, phenylpropanolamine,
+phencyclidine, or the combination of monoamine oxidase inhibitors with foods rich in tyramine
+• Following abrupt discontinuation of a short-acting sympathetic blocker.
+If the hyperadrenergic state is due to sympathomimetic drug use, the first-line agents are
+benzodiazepines, and antihypertensive medications are given only if the BP response is inadequate.[18]
+[54] Benzodiazepines reduce agitation and prevent neurologic complications such as seizures by their
+action on gamma-aminobutyric acid receptors.[18] In all other clinical situations, the first-line treatment
+choice is phentolamine (which acts by blocking alpha-adrenoceptors) or calcium-channel blockers
+(clevidipine and nicardipine).[1] [39] [41] [42] A beta-blocker (such as labetalol) can be added after
+sufficient alpha-adrenoceptor blockade. The administration of a beta-blocker alone is contraindicated,
+since inhibition of beta-adrenoceptor-induced vasodilation results in unopposed alpha-adrenergic
+vasoconstriction and a further rise in BP.[54]
+Severe hypertension in pregnancy (preeclampsia and eclampsia)
+For acute-onset, severe hypertension managed in a critical care setting, intravenous labetalol, intravenous
+hydralazine, or oral nifedipine can be used first line. Labetalol is usually considered the antihypertensive
+of choice, and is effective as monotherapy in 80% of pregnant women.[48] [61][98] [99] It seems to be
+safe and effective in pregnant women for the management of preeclampsia; however, it should be avoided
+in women with asthma or any other contraindication to its use.[48] Immediate-release oral nifedipine may
+also be considered first-line therapy, particularly when intravenous access is not available.[48] Although
+intravenous hydralazine is still widely used, particularly in North America, it can produce an acute fall in
+BP.[63] The consequences of this are mostly related to maternal hypotension, including a greater risk
+of cesarean section, more frequent placental abruption, more maternal oliguria, and fetal tachycardia,
+suggesting the need for close monitoring of maternal BP and fetal wellbeing during its use.[63] The UK
+guidelines recommend to consider volume expansion with crystalloid fluid before or at the same time as
+the first dose of intravenous hydralazine in the prenatal period.[61]
+If second-line alternatives are required, the choice of agent should be discussed with an appropriate
+subspecialist in fetal-maternal medicine or critical care. Availability of drugs and local experience with
+individual drugs are likely to influence the choice of treatment.[54]
+In pregnancy, ACE inhibitors or angiotensin-II receptor antagonists are avoided due to potential
+teratogenic effects, and nitroprusside is avoided due to its potential for fetal cyanide poisoning.[1] Renin
+inhibitors are also contraindicated.[1]
+The American College of Obstetricians and Gynecologists (ACOG) recommends antihypertensive
+therapy for women with preeclampsia and a sustained SBP ≥160 mmHg or diastolic BP ≥110 mmHg.[48]
+ However, thresholds for treatment vary internationally, with lower thresholds recommended by a number
+of societies.[100] The UK National Institute for Health and Care Excellence recommends treatment if BP
+remains above 140/90 mmHg.[61]
+Although some of the available literature suggests that antihypertensive agents should be administered
+within 30-60 minutes, it is recommended that antihypertensive therapy begin as soon as reasonably
+possible after the criteria for acute onset severe hypertension are met.[48] It should be noted, however,
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Hypertensive emergencies Management
+MANAGEMENT
+that there are no trials supporting these suggested thresholds, and treatments should be tailored to
+individual patient circumstances. Specialist advice should be sought. 
+Magnesium sulfate is not recommended as an antihypertensive agent, but remains the drug of choice for
+treatment of eclampsia and/or seizure prophylaxis for women with acute-onset severe hypertension during
+pregnancy and the postpartum period.[48] 
+See Preeclampsia (Management approach) .
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Hypertensive emergencies Management
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+accelerated (malignant)
+hypertension or hypertensive
+encephalopathy or intracranial
+hemorrhage
+increased intracranial
+pressure or renal disease
+1st labetalol
+2nd nicardipine
+3rd fenoldopam
+normal intracranial
+pressure and renal
+function
+1st labetalol
+2nd nitroprusside or nicardipine
+3rd fenoldopam
+acute ischemic stroke
+SBP ≤220 mmHg and DBP
+≤120 mmHg
+1st close observation ± blood pressure
+reduction
+SBP >220 mmHg or DBP
+121-140 mmHg
+1st labetalol
+1st nicardipine or clevidipine
+DBP >140 mmHg 1st nitroprusside
+myocardial ischemia/infarction
+1st esmolol and nitroglycerin
+2nd labetalol and nitroglycerin
+3rd nitroprusside
+left ventricular failure and/or
+pulmonary edema
+1st nitroglycerin + furosemide
+1st clevidipine + furosemide
+2nd nitroprusside + furosemide
+aortic dissection
+1st labetalol or esmolol
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute ( summary )
+adjunct nitroprusside or nicardipine
+acute kidney injury
+1st fenoldopam
+1st nicardipine or clevidipine
+hyperadrenergic state
+sympathomimetic drug
+use
+1st benzodiazepine
+2nd phentolamine
+2nd nicardipine or clevidipine
+no sympathomimetic
+drug use
+1st phentolamine
+adjunct labetalol
+1st nicardipine or clevidipine
+severe hypertension in pregnancy
+(preeclampsia and eclampsia)
+1st labetalol or hydralazine or nifedipine
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Hypertensive emergencies Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+accelerated (malignant) hypertension
+or hypertensive encephalopathy or
+intracranial hemorrhage
+increased intracranial
+pressure or renal disease
+1st labetalol
+Primary options
+» labetalol: 20 mg intravenously every 10
+minutes according to response, maximum
+300 mg total dose; or 0.5 to 2 mg/minute
+intravenous infusion
+» Labetalol is the drug of choice in situations
+characterized by markedly elevated intracranial
+pressure.[18] [39] [41] [42]
+» Onset of action: 5-10 minutes. Duration of
+action: 3-8 hours.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1] 
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Encephalopathy is usually reversed by prompt
+treatment and lowering of BP.[18] [54] If there is
+no improvement despite a decrease in BP, an
+alternative diagnosis should be considered.
+» Dose should be adjusted to maintain BP
+in desired range and is continued until BP
+controlled on oral agents.
+» In the management of intracerebral
+hemorrhage (ICH), the patient's ideal BP
+should be based on individual factors, including
+baseline BP, presumed cause of hemorrhage,
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+age, elevated intracranial pressure, and interval
+since onset. In cases of large or severe ICH,
+or an initial systolic BP (SBP) ≥220 mmHg,
+cautious BP lowering should be pursued.[76]
+In patients with initial SBP ≥220 mmHg, early
+intensive BP reduction, compared with standard
+BP lowering, was associated with higher rates of
+renal adverse events in one post-hoc analysis of
+a large randomized clinical trial.[76] [77]
+» For the management of patients
+with spontaneous ICH, the American
+Heart Association and American Stroke
+Association (AHA/ASA) recommend careful
+titration in patients requiring acute BP lowering,
+to ensure continuous smooth and sustained
+control of BP, avoiding peaks and large variability
+in SBP. This can be beneficial for improving
+functional outcomes.[76] Initiating treatment
+within 2 hours of ICH onset, and reaching target
+within 1 hour, can be beneficial to reduce the risk
+of hematoma expansion and improve functional
+outcome.[76] In patients with spontaneous
+ICH of mild to moderate severity presenting
+with SBP between 150 and 220 mmHg, acute
+lowering of SBP to a target of 140 mmHg, with
+the goal of maintaining it within the range of
+130-150 mmHg, is safe and may be reasonable
+for improving functional outcomes.[76] In
+patients with spontaneous ICH presenting with
+large or severe ICH, SBP >220 mmHg, more
+than 6 hours after symptom onset, or in those
+requiring surgical decompression, the safety
+and efficacy of intensive BP lowering is not well
+established.[76]
+» These recommendations from the AHA/ASA
+are based on two of the largest trials for early
+intensive BP lowering after ICH (INTERACT2,
+ATACH-2), meta-analyses, and several post-hoc
+analyses of these two trials.[76] [78] [79]
+» See Hemorrhagic stroke (Management
+approach) .
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+2nd nicardipine
+Primary options
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Hypertensive emergencies Management
+Acute
+» nicardipine: 5 mg/hour intravenously
+initially, increase by 2.5 mg/hour increments
+every 15 minutes according to response,
+maximum 15 mg/hour
+» Nicardipine is a second-generation
+dihydropyridine derivative calcium-channel
+blocker with high vascular selectivity and strong
+cerebral and coronary vasodilatory activity.[18]
+ The onset of action of intravenous nicardipine
+is from 5-15 minutes, with a duration of action of
+4-6 hours.
+» Nicardipine is especially useful in the presence
+of cardiac disease due to coronary vasodilatory
+effects.[82] [83]
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1] 
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» In the management of intracerebral
+hemorrhage (ICH), the patient's ideal BP
+should be based on individual factors, including
+baseline BP, presumed cause of hemorrhage,
+age, elevated intracranial pressure, and interval
+since onset. In cases of large or severe ICH,
+or an initial SBP ≥220 mmHg, cautious BP
+lowering should be pursued.[76] In patients
+with initial SBP ≥220 mmHg, early intensive
+BP reduction, compared with standard BP
+lowering, was associated with higher rates of
+renal adverse events in one post-hoc analysis of
+a large randomized clinical trial.[76] [77]
+» For the management of patients with
+spontaneous ICH, the AHA/ASA recommend
+careful titration in patients requiring acute BP
+lowering, to ensure continuous smooth and
+sustained control of BP, avoiding peaks and
+large variability in SBP. This can be beneficial
+for improving functional outcomes.[76] Initiating
+treatment within 2 hours of ICH onset, and
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+reaching target within 1 hour, can be beneficial
+to reduce the risk of hematoma expansion and
+improve functional outcome.[76] In patients
+with spontaneous ICH of mild to moderate
+severity presenting with SBP between 150 and
+220 mmHg, acute lowering of SBP to a target
+of 140 mmHg, with the goal of maintaining it
+within the range of 130-150 mmHg, is safe and
+may be reasonable for improving functional
+outcomes.[76] In patients with spontaneous ICH
+presenting with large or severe ICH, SBP >220
+mmHg, more than 6 hours after symptom onset,
+or in those requiring surgical decompression, the
+safety and efficacy of intensive BP lowering is
+not well established.
+» These recommendations from the AHA/ASA
+are based on two of the largest trials for early
+intensive BP lowering after ICH (INTERACT2,
+ATACH-2), meta-analyses, and several post-hoc
+analyses of these two trials.[76] [78] [79]
+» See Hemorrhagic stroke (Management
+approach) .
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+3rd fenoldopam
+Primary options
+» fenoldopam: 0.1 to 0.3 micrograms/kg/
+minute intravenously initially, increase by
+0.05 to 0.1 micrograms/kg/minute increments
+every 15 minutes according to response,
+maximum 1.6 micrograms/kg/minute
+» Fenoldopam is especially useful in renal
+insufficiency, where the use of nitroprusside
+is restricted because of the risk of thiocyanate
+poisoning.
+» It acts as a selective peripheral dopamine-1-
+receptor agonist with arterial vasodilator effects.
+Its hemodynamic effects are a decrease in
+afterload and an increase in renal perfusion.
+» Onset of action: 5 minutes. Duration of action:
+30 minutes.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Hypertensive emergencies Management
+Acute
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1] 
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Encephalopathy is usually reversed by prompt
+treatment and lowering of BP.[18] [54] If there is
+no improvement despite a decrease in BP, an
+alternative diagnosis should be considered.
+» Continue until the BP is controlled on oral
+agents.
+» For the management of patients with
+spontaneous ICH, the AHA/ASA recommend
+careful titration in patients requiring acute BP
+lowering, to ensure continuous smooth and
+sustained control of BP, avoiding peaks and
+large variability in SBP. This can be beneficial
+for improving functional outcomes.[76] Initiating
+treatment within 2 hours of ICH onset, and
+reaching target within 1 hour, can be beneficial
+to reduce the risk of hematoma expansion and
+improve functional outcome.[76] In patients
+with spontaneous ICH of mild to moderate
+severity presenting with SBP between 150 and
+220 mmHg, acute lowering of SBP to a target
+of 140 mmHg, with the goal of maintaining it
+within the range of 130-150 mmHg, is safe and
+may be reasonable for improving functional
+outcomes.[76] In patients with spontaneous ICH
+presenting with large or severe ICH, SBP >220
+mmHg, more than 6 hours after symptom onset,
+or in those requiring surgical decompression, the
+safety and efficacy of intensive BP lowering is
+not well established.[76]
+» These recommendations from the AHA/ASA
+are based on two of the largest trials for early
+intensive BP lowering after ICH (INTERACT2,
+ATACH-2), meta-analyses, and several post-hoc
+analyses of these two trials.[76] [78] [79]
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [74]
+normal intracranial
+pressure and renal
+function
+1st labetalol
+Primary options
+» labetalol: 20 mg intravenously every 10
+minutes according to response, maximum
+300 mg total dose; or 0.5 to 2 mg/minute
+intravenous infusion
+» Labetalol is the drug of choice.
+» Onset of action: 5-10 minutes. Duration of
+action: 3-8 hours.
+» In cases of intracranial hemorrhage, treatment
+should commence if the initial SBP is above 220
+mmHg. The American College of Cardiology/
+American Heart Association Task Force on
+Prevention, Detection, Evaluation, and Treatment
+of High Blood Pressure states that the initial goal
+of therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1] 
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Encephalopathy is usually reversed by prompt
+treatment and lowering of BP.[18] [54] If there is
+no improvement despite a decrease in BP, an
+alternative diagnosis should be considered.
+» Dose should be adjusted to maintain BP
+in desired range and is continued until BP
+controlled on oral agents.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+2nd nitroprusside or nicardipine
+Primary options
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Hypertensive emergencies Management
+Acute
+» nitroprusside: 0.3 to 0.5 micrograms/kg/
+minute intravenously initially, increase by 0.5
+micrograms/kg/minute increments according
+to response, maximum 10 micrograms/kg/
+minute
+OR
+» nicardipine: 5 mg/hour intravenously
+initially, increase by 2.5 mg/hour increments
+every 15 minutes according to response,
+maximum 15 mg/hour
+» Nitroprusside acts as a potent arterial and
+venous vasodilator thereby reducing afterload
+and preload. Its hemodynamic effects are to
+decrease mean arterial pressure, with a modest
+increase or no change in cardiac output. Onset
+of action: immediate. Duration of action: 3-5
+minutes.
+» Patients should be monitored by drawing
+thiocyanate levels after 48 hours of therapy
+(levels kept at <12 mg/dL). The maximum dose
+should be delivered for less than 10 minutes to
+decrease the chance of cyanide toxicity.
+» Nicardipine is a second-generation
+dihydropyridine derivative calcium-channel
+blocker with high vascular selectivity and strong
+cerebral and coronary vasodilatory activity. The
+onset of action of intravenous nicardipine is from
+5-15 minutes, with a duration of action of 4-6
+hours. It is especially useful in the presence of
+cardiac disease due to coronary vasodilatory
+effects.[82] [83]
+» In cases of intracranial hemorrhage, treatment
+should commence if the initial SBP is above 220
+mmHg. The American College of Cardiology/
+American Heart Association Task Force on
+Prevention, Detection, Evaluation, and Treatment
+of High Blood Pressure states that the initial goal
+of therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1] 
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+» Encephalopathy should improve once the BP
+is lowered. If there is no improvement despite a
+decrease in BP, an alternative diagnosis should
+be considered.
+» Continue until the BP is controlled on oral
+agents.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [74]
+3rd fenoldopam
+Primary options
+» fenoldopam: 0.1 to 0.3 micrograms/kg/
+minute intravenously initially, increase by
+0.05 to 0.1 micrograms/kg/minute increments
+every 15 minutes according to response,
+maximum 1.6 micrograms/kg/minute
+» Fenoldopam acts as a selective peripheral
+dopamine-1-receptor agonist with arterial
+vasodilator effects. Its hemodynamic effects are
+a decrease in afterload and an increase in renal
+perfusion.
+» Onset of action: 5 minutes. Duration of action:
+30 minutes.
+» In cases of intracranial hemorrhage, treatment
+should commence if the initial SBP is above 220
+mmHg. The American College of Cardiology/
+American Heart Association Task Force on
+Prevention, Detection, Evaluation, and Treatment
+of High Blood Pressure states that the initial goal
+of therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1] 
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Encephalopathy should improve once the BP
+is lowered. If there is no improvement despite a
+decrease in BP, an alternative diagnosis should
+be considered.
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Hypertensive emergencies Management
+Acute
+» Continue until the BP is controlled on oral
+agents.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+acute ischemic stroke
+SBP ≤220 mmHg and DBP
+≤120 mmHg
+1st close observation ± blood pressure
+reduction
+» Treatment of hypertension with an associated
+acute ischemic stroke warrants greater caution
+in reducing blood pressure (BP) than with other
+types of hypertensive emergency. Overly rapid or
+too great a reduction of mean arterial pressure
+may decrease cerebral perfusion pressure to a
+level that could theoretically worsen brain injury
+(e.g., through watershed infarcts). However,
+American Heart Association/American Stroke
+Association guidelines recommend early
+treatment of hypertension when required by
+comorbid conditions, including preeclampsia/
+eclampsia.[69]
+» If the systolic BP (SBP) is below 220 mmHg
+and the diastolic BP is below 120 mmHg,
+there is no evidence of end organ involvement
+or intracranial hemorrhage and thrombolytic
+treatment is not proposed, then it is reasonable
+to maintain close observation without direct
+intervention to reduce BP.
+» If there is other end-organ involvement such
+as aortic dissection, acute kidney injury, or
+acute myocardial infarction, or the patient is to
+receive thrombolysis, the target SBP should be
+below 185 mmHg and diastolic BP should be
+below 110 mmHg. The BP should be maintained
+below 185/105 mmHg for at least 24 hours after
+initiating intravenous thrombolysis.
+» The choice of agent to reduce BP depends on
+the associated end-organ involvement.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [74]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+SBP >220 mmHg or DBP
+121-140 mmHg
+1st labetalol
+Primary options
+» labetalol: 20 mg intravenously every 10
+minutes according to response, maximum
+300 mg total dose; or 0.5 to 2 mg/minute
+intravenous infusion
+» If the SBP is above 220 mmHg or the diastolic
+BP is between 121-140 mmHg, labetalol can be
+used to achieve a 10% to 15% reduction in BP
+within 24 hours.[39] [41] [42]
+» Labetalol acts as an alpha-1-blocker and
+nonselective beta-blocker and its hemodynamic
+effects include decreasing systemic vascular
+resistance, mean arterial pressure, and heart
+rate, accompanied by a slight decrease or
+minimal change in cardiac output.
+» Onset of action: 5-10 minutes. Duration of
+action: 3-8 hours.
+» Continue until the BP is controlled on oral
+agents.
+» If there is other end-organ involvement such
+as aortic dissection, acute kidney injury, or
+acute myocardial infarction, or the patient is to
+receive thrombolysis, the target SBP should be
+below 185 mmHg and diastolic BP should be
+below 110 mmHg. The BP should be maintained
+below 185/105 mmHg for at least 24 hours after
+initiating intravenous thrombolysis.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+1st nicardipine or clevidipine
+Primary options
+» nicardipine: 5 mg/hour intravenously
+initially, increase by 2.5 mg/hour increments
+every 15 minutes according to response,
+maximum 15 mg/hour
+OR
+» clevidipine: 1-2 mg/hour intravenously
+initially, dose may be doubled every 90
+seconds initially until blood pressure reaches
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Hypertensive emergencies Management
+Acute
+target, usual dose 4-6 mg/hour, maximum 32
+mg/hour (maximum duration 72 hours)
+» If the SBP is above 220 mmHg or the diastolic
+BP is between 121-140 mmHg, nicardipine or
+clevidipine can be used to achieve a 10% to 15%
+reduction in BP within 24 hours.[39] [41] [42] [93]
+[94]
+» Nicardipine and clevidipine are dihydropyridine
+calcium-channel blockers, which increase stroke
+volume and have strong cerebral and coronary
+vasodilatory activity.
+» Nicardipine onset of action: 5-10 minutes.
+Duration of action: 2-4 hours.
+» Clevidipine onset of action: 2-4 minutes.
+Duration of action: 5-15 minutes.
+» Continue until the BP is controlled on oral
+agents.
+» If there is other end-organ involvement such
+as aortic dissection, acute kidney injury, or
+acute myocardial infarction, or the patient is to
+receive thrombolysis, the target SBP should be
+below 185 mmHg and diastolic BP should be
+below 110 mmHg. The BP should be maintained
+below 185/105 mmHg for at least 24 hours after
+initiating intravenous thrombolysis.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [74]
+DBP >140 mmHg 1st nitroprusside
+Primary options
+» nitroprusside: 0.3 to 0.5 micrograms/kg/
+minute intravenously initially, increase by 0.5
+micrograms/kg/minute increments according
+to response, maximum 10 micrograms/kg/
+minute
+» If the diastolic BP is above 140 mmHg,
+nitroprusside may be used to achieve a 10% to
+15% reduction over 24 hours.[39] [41] [95] 
+» Nitroprusside acts as a potent arterial and
+venous vasodilator, thereby reducing afterload
+and preload. Its hemodynamic effects are to
+decrease mean arterial pressure, with a modest
+increase or no change in cardiac output.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+» Onset of action: immediate. Duration of action:
+3-5 minutes.
+» Patients should be monitored by drawing
+thiocyanate levels after 48 hours of therapy
+(levels maintained <12 mg/dL). The maximum
+dose should be delivered for less than 10
+minutes to decrease the chance of cyanide
+toxicity.
+» Continue until the BP is controlled on oral
+agents.
+» If there is other end-organ involvement such
+as aortic dissection, acute kidney injury, or
+acute myocardial infarction, or the patient is to
+receive thrombolysis, the target SBP should be
+below 185 mmHg and diastolic BP should be
+below 110 mmHg. The BP should be maintained
+below 185/105 mmHg for at least 24 hours after
+initiating intravenous thrombolysis.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+myocardial ischemia/infarction
+1st esmolol and nitroglycerin
+Primary options
+» esmolol: 50-100 micrograms/kg/minute
+intravenously
+-and-
+» nitroglycerin: 5-100 micrograms/minute
+intravenously
+» Esmolol is a selective beta-blocker that acts to
+reduce the heart rate.
+» Contraindications to beta-blockers include
+moderate-to-severe left ventricular failure with
+pulmonary edema, bradycardia, hypotension,
+poor peripheral perfusion, second- or third-
+degree heart block, and reactive airway
+disease.[1]
+» Esmolol onset of action: 1-5 minutes. Duration
+of action: 5 minutes.
+» Nitroglycerin acts as a peripheral vasodilator,
+with greater action on the venous vessels
+than on arterial vessels. It causes a decrease
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Hypertensive emergencies Management
+Acute
+in preload and cardiac output and increases
+coronary blood flow. Onset of action: immediate.
+Duration of action: 3-5 minutes.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial BP by no more than 25%
+(within minutes to 1 hour), then, if stable, to 160
+mmHg systolic and 100-110 mmHg diastolic
+within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Continue until the BP is controlled on oral
+agents.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [74]
+2nd labetalol and nitroglycerin
+Primary options
+» labetalol: 20 mg intravenously every 10
+minutes according to response, maximum
+300 mg total dose; or 0.5 to 2 mg/minute
+intravenous infusion
+-and-
+» nitroglycerin: 5-100 micrograms/minute
+intravenously
+» Labetalol is an alpha-1-blocker and
+nonselective beta-blocker, which decreases
+systemic vascular resistance, mean arterial
+pressure, and heart rate, and causes a
+decrease or no change in cardiac output.
+Contraindications to beta-blockers include
+moderate-to-severe left ventricular failure with
+pulmonary edema, bradycardia, hypotension,
+poor peripheral perfusion, second-or third-
+degree heart block, and reactive airway
+disease.[1]
+» Onset of action: 5-10 minutes. Duration of
+action: 3-8 hours.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+» Nitroglycerin acts as a peripheral vasodilator,
+with greater action on the venous vessels
+than on arterial vessels. It causes a decrease
+in preload and cardiac output and increases
+coronary blood flow. Onset of action: immediate.
+Duration of action: 3-5 minutes.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial BP by no more than 25%
+(within minutes to 1 hour), then, if stable, to 160
+mmHg systolic and 100-110 mmHg diastolic
+within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Continue until the BP is controlled on oral
+agents.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+3rd nitroprusside
+Primary options
+» nitroprusside: 0.3 to 0.5 micrograms/kg/
+minute intravenously initially, increase by 0.5
+micrograms/kg/minute increments according
+to response, maximum 10 micrograms/kg/
+minute
+» Nitroprusside acts as a potent arterial and
+venous vasodilator, thereby reducing afterload
+and preload. Its hemodynamic effects are to
+decrease mean arterial pressure, with a modest
+increase or no change in cardiac output.
+» Onset of action: immediate. Duration of action:
+3-5 minutes.
+» Patients should be monitored by drawing
+thiocyanate levels after 48 hours of therapy
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Hypertensive emergencies Management
+Acute
+(levels maintained <12 mg/dL). The maximum
+dose should be delivered for less than 10
+minutes to decrease the chance of cyanide
+toxicity.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial BP by no more than 25%
+(within minutes to 1 hour), then, if stable, to 160
+mmHg systolic and 100-110 mmHg diastolic
+within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Continue until the BP is controlled on oral
+agents.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [74]
+left ventricular failure and/or
+pulmonary edema
+1st nitroglycerin + furosemide
+Primary options
+» nitroglycerin: 5-100 micrograms/minute
+intravenously
+-and-
+» furosemide: 40-80 mg intravenously initially,
+increase according to response
+» Nitroglycerin acts as a peripheral vasodilator,
+with greater action on the venous vessels than
+on arterial vessels.
+» It causes a decrease in preload and cardiac
+output and increases coronary blood flow.
+» Onset of action: immediate. Duration of action:
+3-5 minutes.
+» Continue until the blood pressure (BP) is
+controlled on oral agents.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+» If the patient is not already on a loop diuretic,
+one should be started (e.g., furosemide).
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial BP by no more than 25%
+(within minutes to 1 hour), then, if stable, to 160
+mmHg systolic and 100-110 mmHg diastolic
+within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+1st clevidipine + furosemide
+Primary options
+» clevidipine: 1-2 mg/hour intravenously
+initially, dose may be doubled every 90
+seconds initially until blood pressure reaches
+target, usual dose 4-6 mg/hour, maximum 32
+mg/hour (maximum duration 72 hours)
+-and-
+» furosemide: 40-80 mg intravenously initially,
+increase according to response
+» Clevidipine is a dihydropyridine calcium-
+channel blocker, which increases stroke
+volume and has strong cerebral and coronary
+vasodilatory activity.
+» Onset of action: 2-4 minutes. Duration of
+action: 5-15 minutes.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Hypertensive emergencies Management
+Acute
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Continue until the BP is controlled on oral
+agents.
+» If the patient is not already on a loop diuretic,
+one should be started (e.g., furosemide).
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [74]
+2nd nitroprusside + furosemide
+Primary options
+» nitroprusside: 0.3 to 0.5 micrograms/kg/
+minute intravenously initially, increase by 0.5
+micrograms/kg/minute increments according
+to response, maximum 10 micrograms/kg/
+minute
+-and-
+» furosemide: 40-80 mg intravenously initially,
+increase according to response
+» Nitroprusside acts as a potent arterial and
+venous vasodilator, thereby reducing afterload
+and preload. Its hemodynamic effects are to
+decrease mean arterial pressure, with a modest
+increase or no change in cardiac output.
+» Patients should be monitored by drawing
+thiocyanate levels after 48 hours of therapy
+(levels maintained <12 mg/dL). The maximum
+dose should be delivered for less than 10
+minutes to decrease the chance of cyanide
+toxicity.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Continue until the BP is controlled on oral
+agents.
+» If the patient is not already on a loop diuretic,
+one should be started (e.g., furosemide).
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+aortic dissection
+1st labetalol or esmolol
+Primary options
+» labetalol: 20 mg intravenously every 10
+minutes according to response, maximum
+300 mg total dose; or 0.5 to 2 mg/minute
+intravenous infusion
+OR
+» esmolol: 50-100 micrograms/kg/minute
+intravenously
+» Medical therapy of aortic dissection involves
+lowering the blood pressure (BP) and decreasing
+the velocity of left ventricular contraction, which
+decreases aortic shear stress and minimizes the
+tendency for propagation of the dissection.
+» SBP should be reduced to <120 mmHg in the
+first 20 minutes or as tolerated by the patient.[1]
+[75]
+» Labetalol is an alpha-1-blocker and
+nonselective beta-blocker, which decreases
+systemic vascular resistance, mean arterial
+pressure, and heart rate, and causes a decrease
+or no change in cardiac output. Onset of action:
+5-10 minutes. Duration of action: 3-8 hours.
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Hypertensive emergencies Management
+Acute
+» The mechanism of action of esmolol is as a
+selective beta-blocker, producing a decrease in
+heart rate. Onset of action: 1-5 minutes. Duration
+of action: 5 minutes.
+» The dose should be adjusted to maintain
+the BP in the desired range. This should be
+continued until the patient has undergone
+surgical repair/evaluation and is stable on oral
+therapy.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [74]
+adjunct nitroprusside or nicardipine
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» nitroprusside: 0.3 to 0.5 micrograms/kg/
+minute intravenously initially, increase by 0.5
+micrograms/kg/minute increments according
+to response, maximum 10 micrograms/kg/
+minute
+OR
+» nicardipine: 5 mg/hour intravenously
+initially, increase by 2.5 mg/hour increments
+every 15 minutes according to response,
+maximum 15 mg/hour
+» If there is no significant improvement with
+beta-blocker monotherapy, nitroprusside or
+nicardipine can be added to the beta-blocker.[39]
+[41] [42] [97]
+» Nitroprusside acts as a potent arterial and
+venous vasodilator, thereby reducing afterload
+and preload. Its hemodynamic effects are to
+decrease mean arterial pressure, with a modest
+increase or no change in cardiac output.
+» Nitroprusside onset of action: immediate.
+Duration of action: 3-5 minutes.
+» Patients should be monitored by drawing
+thiocyanate levels after 48 hours of therapy
+(levels maintained <12 mg/dL). The maximum
+dose should be delivered for less than 10
+minutes to decrease the chance of cyanide
+toxicity.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+» Alternatively, nicardipine can be used.[1]
+Nicardipine is a dihydropyridine calcium-channel
+blocker, which increases stroke volume and
+has strong cerebral and coronary vasodilatory
+activity.
+» Nicardipine onset of action: 5-10 minutes.
+Nicardipine duration of action: 2-4 hours.
+» Nitroprusside or nicardipine must be
+administered after a beta-blocker, as
+nitroprusside-induced or calcium-channel
+blocker-induced vasodilation would otherwise
+induce a compensatory tachycardia and worsen
+shear stress.[1]
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+acute kidney injury
+1st fenoldopam
+Primary options
+» fenoldopam: 0.1 to 0.3 micrograms/kg/
+minute intravenously initially, increase by
+0.05 to 0.1 micrograms/kg/minute increments
+every 15 minutes according to response,
+maximum 1.6 micrograms/kg/minute
+» Fenoldopam is useful in renal insufficiency
+because it causes an increase in blood flow to
+the kidneys.
+» It acts as a selective peripheral dopamine-1-
+receptor agonist with arterial vasodilator effects.
+Its hemodynamic effects are a decrease in
+afterload and an increase in renal perfusion.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Hypertensive emergencies Management
+Acute
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [74]
+1st nicardipine or clevidipine
+Primary options
+» nicardipine: 5 mg/hour intravenously
+initially, increase by 2.5 mg/hour increments
+every 15 minutes according to response,
+maximum 15 mg/hour
+OR
+» clevidipine: 1-2 mg/hour intravenously
+initially, dose may be doubled every 90
+seconds initially until blood pressure reaches
+target, usual dose 4-6 mg/hour, maximum 32
+mg/hour (maximum duration 72 hours)
+» Nicardipine and clevidipine are dihydropyridine
+calcium-channel blockers, which increase stroke
+volume and have strong cerebral and coronary
+vasodilatory activity.
+» Nicardipine onset of action: 5-10 minutes.
+Duration of action: 2-4 hours.
+» Clevidipine onset of action: 2-4 minutes.
+Duration of action: 5-15 minutes.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+hyperadrenergic state
+sympathomimetic drug
+use
+1st benzodiazepine
+Primary options
+» lorazepam: 1 mg intravenous bolus initially,
+repeated every 10-15 minutes according to
+response, maximum 8 mg
+OR
+» diazepam: 5 mg intravenous bolus initially,
+repeated every 5-10 minutes according to
+response, maximum 50 mg
+» Sympathomimetic drug use includes cocaine,
+amphetamines, phenylpropanolamine,
+phencyclidine, or the combination of a
+monoamine oxidase inhibitor with foods rich in
+tyramine.
+» If the patient is agitated, benzodiazepines can
+be given first.[18] [54] Benzodiazepines reduce
+agitation and prevent neurologic complications
+such as seizures by their action on gamma-
+aminobutyric acid receptors.[18]
+» Lorazepam should be used with caution
+in patients with renal or hepatic impairment,
+myasthenia gravis, organic brain syndrome,
+or Parkinson disease. Excess central nervous
+system or respiratory depression can occur with
+higher doses, and should be watched for.
+» Antihypertensive agents can be given
+if the blood pressure (BP) response to
+benzodiazepines is inadequate.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial BP by no more than 25%
+(within minutes to 1 hour), then, if stable, to 160
+mmHg systolic and 100-110 mmHg diastolic
+within the next 2-6 hours.[1]
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Hypertensive emergencies Management
+Acute
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [74]
+2nd phentolamine
+Primary options
+» phentolamine: 5-15 mg intravenous bolus
+» Phentolamine acts to block alpha-
+adrenoceptors. Its main hemodynamic effects
+are to increase heart rate and contractility.
+» Onset of action: 1-2 minutes. Duration of
+action: 3-10 minutes.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+2nd nicardipine or clevidipine
+Primary options
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+» nicardipine: 5 mg/hour intravenously
+initially, increase by 2.5 mg/hour increments
+every 15 minutes according to response,
+maximum 15 mg/hour
+OR
+» clevidipine: 1-2 mg/hour intravenously
+initially, dose may be doubled every 90
+seconds initially until blood pressure reaches
+target, usual dose 4-6 mg/hour, maximum 32
+mg/hour (maximum duration 72 hours)
+» Nicardipine and clevidipine are dihydropyridine
+calcium-channel blockers, which increase stroke
+volume and have strong cerebral and coronary
+vasodilatory activity.
+» Nicardipine onset of action: 5-10 minutes.
+Duration of action: 2-4 hours.
+» Clevidipine onset of action: 2-4 minutes.
+Duration of action: 5-15 minutes.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [74]
+no sympathomimetic
+drug use
+1st phentolamine
+Primary options
+» phentolamine: 5-15 mg intravenous bolus
+» Causes of hyperadrenergic states include
+pheochromocytoma and abrupt discontinuation
+of a short-acting sympathetic blocker.
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Hypertensive emergencies Management
+Acute
+» Phentolamine acts to block alpha-
+adrenoceptors. Its main hemodynamic effects
+are to increase heart rate and contractility.
+» Onset of action: 1-2 minutes. Duration of
+action: 3-10 minutes.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can
+be implemented over the next 24-48 hours. In
+patients with pheochromocytoma crisis, SBP
+should be reduced to <140 mmHg in the first
+hour.[1]
+» Patients with hypertensive emergencies
+should be admitted to an intensive care unit
+for continuous monitoring of blood pressure
+and target organ damage and for parenteral
+administration of appropriate therapeutic
+agent(s).[1] [7][74] Arterial lines are preferred
+for the use of intravenous antihypertensive
+medications.[7]
+adjunct labetalol
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» labetalol: 20 mg intravenously every 10
+minutes according to response, maximum
+300 mg total dose; or 0.5 to 2 mg/minute
+intravenous infusion
+» Labetalol is an alpha-1-blocker and
+nonselective beta-blocker, which decreases
+systemic vascular resistance, mean arterial
+pressure, and heart rate, and causes a decrease
+or no change in cardiac output. Onset of action:
+5-10 minutes. Duration of action: 3-8 hours.
+» The administration of a beta-blocker alone
+is contraindicated, since inhibition of beta-
+adrenoceptor-induced vasodilation results in
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+unopposed alpha-adrenergic vasoconstriction
+and a further rise in BP.
+1st nicardipine or clevidipine
+Primary options
+» nicardipine: 5 mg/hour intravenously
+initially, increase by 2.5 mg/hour increments
+every 15 minutes according to response,
+maximum 15 mg/hour
+OR
+» clevidipine: 1-2 mg/hour intravenously
+initially, dose may be doubled every 90
+seconds initially until blood pressure reaches
+target, usual dose 4-6 mg/hour, maximum 32
+mg/hour (maximum duration 72 hours)
+» Nicardipine and clevidipine are dihydropyridine
+calcium-channel blockers, which increase stroke
+volume and have strong cerebral and coronary
+vasodilatory activity.
+» Nicardipine onset of action: 5-10 minutes.
+Duration of action: 2-4 hours.
+» Clevidipine onset of action: 2-4 minutes.
+Duration of action: 5-15 minutes.
+» The American College of Cardiology/American
+Heart Association Task Force on Prevention,
+Detection, Evaluation, and Treatment of High
+Blood Pressure states that the initial goal of
+therapy in hypertensive emergencies is to
+reduce mean arterial blood pressure (BP) by no
+more than 25% (within minutes to 1 hour), then,
+if stable, to 160 mmHg systolic and 100-110
+mmHg diastolic within the next 2-6 hours.[1]
+» Excessive falls in pressure that may precipitate
+renal, cerebral, or coronary ischemia should be
+avoided.[1] [57] 
+» If the initial level of reduced BP is well tolerated
+and the patient is clinically stable, further
+gradual reductions toward a normal BP can be
+implemented over the next 24-48 hours.
+severe hypertension in pregnancy
+(preeclampsia and eclampsia)
+1st labetalol or hydralazine or nifedipine
+Primary options
+» labetalol: 10-20 mg intravenously initially,
+followed by 20-80 mg every 10-30 minutes
+according to response, maximum 300 mg/
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Hypertensive emergencies Management
+Acute
+total dose; or 1-2 mg/minute intravenous
+infusion
+OR
+» nifedipine: 10-20 mg orally (immediate-
+release) initially, repeat in 20 minutes if
+needed, followed by 10-20 mg every 2-6
+hours according to response, maximum 180
+mg/day
+OR
+» hydralazine: 5 mg intravenously initially,
+followed by 5-10 mg every 20-40 minutes
+according to response, maximum 20 mg/
+total dose; or 0.5 to 10 mg/hour intravenous
+infusion
+» The American College of Obstetricians
+and Gynecologists (ACOG) recommends
+antihypertensive therapy for women with
+preeclampsia and a sustained systolic BP ≥160
+mmHg or diastolic BP ≥110 mmHg.[48] However,
+thresholds for treatment vary internationally,
+with lower thresholds recommended by a
+number of societies.[100] The UK National
+Institute for Health and Care Excellence
+recommends treatment if BP remains above
+140/90 mmHg.[61]
+» Although some of the available literature
+suggests that antihypertensive agents should
+be administered within 30-60 minutes, it is
+recommended that antihypertensive therapy
+begin as soon as reasonably possible after the
+criteria for acute onset severe hypertension
+are met.[48] It should be noted, however, that
+there are no trials supporting these suggested
+thresholds, and treatments should be tailored
+to individual patient circumstances. Specialist
+advice should be sought.
+» For acute-onset, severe hypertension
+managed in a critical care setting, intravenous
+labetalol, intravenous hydralazine, or oral
+nifedipine can be used first line.
+» Labetalol is usually considered the
+antihypertensive of choice, and is effective as
+monotherapy in 80% of pregnant women.[48]
+[61][98][99] It seems to be safe and effective
+in pregnant women for the management of
+preeclampsia; however, it should be avoided in
+women with asthma or any other contraindication
+to its use.[48]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Hypertensive emergencies Management
+MANAGEMENT
+Acute
+» Labetalol acts as an alpha-1-blocker and
+nonselective beta-blocker and its hemodynamic
+effects include decreasing systemic vascular
+resistance, mean arterial pressure, and heart
+rate, accompanied by a slight decrease or
+minimal change in cardiac output. Onset of
+action: 5-10 minutes. Duration of action: 3-8
+hours.
+» Hydralazine is an arterial vasodilator with
+minimal effects on the fetus. Onset of action:
+10-20 minutes. Duration of action: 3-8 hours.
+Its main hemodynamic effects are a decrease
+in systemic vascular resistance, an increase
+in heart rate, and an increase in intracranial
+pressure. Although intravenous hydralazine
+is still widely used, particularly in North
+America, it can produce an acute fall in BP.
+The consequences of this are mostly related to
+maternal hypotension, including a greater risk
+of cesarean section, more frequent placental
+abruption, more maternal oliguria, and fetal
+tachycardia, suggesting the need for close
+monitoring of maternal BP and fetal wellbeing
+during its use.[63] UK guidelines recommend
+to consider volume expansion with crystalloid
+fluid before or at the same time as the first
+dose of intravenous hydralazine in the prenatal
+period.[61]
+» Immediate-release oral nifedipine may also
+be considered first-line therapy, particularly
+when intravenous access is not available.[48]
+ Nifedipine is a dihydropyridine calcium-channel
+blocker, which increases stroke volume and
+has strong cerebral and coronary vasodilatory
+activity. Onset of action: 30-45 minutes. Duration
+of action: 4-6 hours.
+» Therapy should be continued until the fetus
+has been delivered and the patient is stable on
+oral therapy.
+» Patients with hypertensive emergencies
+should be admitted to an intensive care
+unit for continuous monitoring of blood
+pressure and target organ damage and for
+parenteral administration of appropriate
+therapeutic agent(s).[1] [74] See Preeclampsia
+(Management approach) .
+Primary prevention
+The mainstay of primary prevention is appropriate screening and treatment of essential hypertension.
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Hypertensive emergencies Management
+In the US, around 25% of all hypertensive individuals are unaware of their illness, 35% are not being treated,
+and 52% of those being treated are not at goal blood pressure levels.[52] [53] See Essential hypertension
+(Prevention) .
+The American College of Obstetricians and Gynecologists recommends low-dose aspirin for preeclampsia
+prophylaxis. This should be initiated between 12 weeks and 28 weeks of gestation (optimally before 16
+weeks of gestation) and continued until delivery.[48]
+• Any of the high-risk factors for preeclampsia: previous pregnancy with preeclampsia, multifetal
+gestation, renal disease, autoimmune disease, type 1 or type 2 diabetes mellitus, and chronic
+hypertension.
+• More than one of the moderate-risk factors: first pregnancy, maternal age ≥35 years, body mass index
+>30, family history of preeclampsia, sociodemographic characteristics, and personal history factors.
+See Preeclampsia (Prevention) .
+Secondary prevention
+Major lifestyle modifications shown to lower blood pressure include the Dietary Approaches to Stop
+Hypertension (DASH) eating plan, dietary sodium reduction, weight reduction in overweight patients, physical
+activity, and moderation of alcohol consumption.[38] [103] For women with severe preeclampsia, low-dose
+aspirin (starting at 12-14 weeks' gestation) is recommended in subsequent pregnancies. See Preeclampsia
+(Prevention) .
+Patient discussions
+Patients should be reminded of the importance of taking medications as directed and not missing doses.
+Patients should be advised to call their doctor or an ambulance immediately if they experience any
+dizziness, loss of sensation or mobility, blurred vision, chest pain, shortness of breath, or any other
+relevant symptoms.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Hypertensive emergencies Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+The patient should return for a follow-up visit and blood pressure (BP) check within 1 week of discharge.
+During the follow-up visit, BP should be checked by a medical professional in both arms and with the
+appropriate cuff size. The target BP should be below 130/80 mmHg. Regular and frequent follow-up
+(monthly) is recommended until target BP and ideally regression of hypertension-mediated organ damage
+has been achieved.[54] Patients should return for follow-up visits once a month, or more frequently,
+until the target BP is achieved. Once the target BP is achieved, the patient should be monitored every
+3 to 6 months (or more frequently based on comorbidities). Serum potassium and creatinine should be
+measured twice a year. For patients with preeclampsia, see Pre-eclampsia (Monitoring) .
+Complications
+Complications Timeframe Likelihood
+cardiac impairment variable high
+Myocardial damage and subsequent heart failure is a frequent complication and cause of death in
+hypertensive emergency.[101] [102]
+neurologic deficit variable medium
+Permanent neurologic compromise may occur after stroke, hemorrhage, or hypertensive encephalopathy
+and is a frequent cause of death.[101] [102]
+acute kidney injury variable medium
+Acute kidney injury is both a frequent cause and complication of hypertensive emergency.[101] [102]
+Prognosis
+Without therapy, the prognosis of hypertensive emergencies is poor with 1-year survival rates of 10% to
+20%.[1] However, current antihypertensive therapy has greatly improved survival, with 5-year survival
+rates around 70% in patients who receive appropriate treatment. The presence of acute kidney injury upon
+diagnosis of hypertensive emergency increases the mortality rate.[101] [102]
+Preeclampsia is a self-limiting condition of pregnancy that usually resolves once the placenta has been
+delivered, although it may persist for a few days post delivery. There are few long-term sequelae; however,
+there are some long-term disease associations. See Preeclampsia (Prognosis) .
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Hypertensive emergencies Guidelines
+Diagnostic guidelines
+International
+Headaches in pregnancy and postpartum: clinical practice guideline (https://
+www.acog.org/clinical/clinical-guidance/clinical-practice-guideline)   [55]
+Published by: American College of Obstetricians and Gynecologists Last published: 2022
+(reaffirmed 2024)
+Gestational hypertension and preeclampsia: practice bulletin summary
+(https://www.acog.org/clinical/clinical-guidance/practice-bulletin)   [48]
+Published by: American College of Obstetricians and Gynecologists Last published: 2020
+(reaffirmed 2023)
+Prevention, detection, evaluation, and management of high blood pressure in
+adults (https://www.acc.org/guidelines)   [1]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2017
+Global hypertension practice guidelines (https://ish-world.com/ish-global-
+hypertension-practice-guidelines)   [54]
+Published by: International Society of Hypertension Last published: 2020
+Hypertension in adults: diagnosis and management (https://www.nice.org.uk/
+guidance/ng136)   [60]
+Published by: National Institute for Health and Care Excellence Last published: 2023
+Management of hypertensive crisis: position document (https://bihsoc.org/
+guidelines)   [18]
+Published by: British and Irish Hypertension Society Last published: 2022
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Hypertensive emergencies Guidelines
+GUIDELINES
+Treatment guidelines
+International
+The management of elevated blood pressure in the acute care setting (https://
+professional.heart.org/en/guidelines-and-statements)   [7]
+Published by: American Heart Association Last published: 2024
+Management of patients with spontaneous intracerebral hemorrhage (https://
+professional.heart.org/en/guidelines-and-statements)   [76]
+Published by: American Heart Association; American Stroke
+Association
+Last published: 2022
+Headaches in pregnancy and postpartum: clinical practice guideline (https://
+www.acog.org/clinical/clinical-guidance/clinical-practice-guideline)   [55]
+Published by: American College of Obstetricians and Gynecologists Last published: 2022
+(reaffirmed 2024)
+Gestational hypertension and preeclampsia: practice bulletin summary
+(https://www.acog.org/clinical/clinical-guidance/practice-bulletin)   [48]
+Published by: American College of Obstetricians and Gynecologists Last published: 2020
+(reaffirmed 2023)
+Prevention, detection, evaluation, and management of high blood pressure in
+adults (https://www.acc.org/guidelines)   [1]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2017
+Global hypertension practice guidelines (https://ish-world.com/ish-global-
+hypertension-practice-guidelines)   [54]
+Published by: International Society of Hypertension Last published: 2020
+Management of arterial hypertension (https://www.escardio.org/Guidelines/
+Clinical-Practice-Guidelines)   [57]
+Published by: European Society of Cardiology Last published: 2018
+Hypertension in adults: diagnosis and management (https://www.nice.org.uk/
+guidance/ng136)   [60]
+Published by: National Institute for Health and Care Excellence Last published: 2023
+Management of hypertensive crisis: position document (https://bihsoc.org/
+guidelines)   [18]
+Published by: British and Irish Hypertension Society Last published: 2022
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Hypertensive emergencies References
+Key articles
+• Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/
+ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood
+pressure in adults: a report of the American College of Cardiology/American Heart Association Task
+Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2018 May 15;71(19):e127-248.  Full text
+(https://www.sciencedirect.com/science/article/pii/S0735109717415191?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29146535?tool=bestpractice.bmj.com)
+• American College of Obstetricians and Gynecologists. Practice bulletin no. 222: gestational
+hypertension and preeclampsia. Jun 2020 [internet publication].  Full text (https://journals.lww.com/
+greenjournal/abstract/2020/06000/gestational_hypertension_and_preeclampsia__acog.44.aspx)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32443077?tool=bestpractice.bmj.com)
+• Mancia G, Kreutz R, Brunström M, et al. 2023 ESH Guidelines for the management of arterial
+hypertension the Task Force for the management of arterial hypertension of the European Society
+of Hypertension: endorsed by the International Society of Hypertension (ISH) and the European
+Renal Association (ERA). J Hypertens. 2023;41(12):1874-2071.  Full text (https://journals.lww.com/
+jhypertension/fulltext/2023/12000/2023_esh_guidelines_for_the_management_of_arterial.2.aspx)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37345492?tool=bestpractice.bmj.com)
+References
+1. Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/
+ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood
+pressure in adults: a report of the American College of Cardiology/American Heart Association Task
+Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2018 May 15;71(19):e127-248.  Full text
+(https://www.sciencedirect.com/science/article/pii/S0735109717415191?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29146535?tool=bestpractice.bmj.com)
+2. Mills KT, Bundy JD, Kelly TN, et al. Global disparities of hypertension prevalence and control:
+a systematic analysis of population-based studies from 90 countries. Circulation. 2016 Aug
+9;134(6):441-50.  Full text (http://circ.ahajournals.org/content/134/6/441.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27502908?tool=bestpractice.bmj.com)
+3. Kearney PM, Whelton M, Reynolds K, et al. Global burden of hypertension: analysis of worldwide data.
+Lancet. 2005 Jan 15-21;365(9455):217-23. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15652604?
+tool=bestpractice.bmj.com)
+4. Bloch MJ. Worldwide prevalence of hypertension exceeds 1.3 billion. J Am Soc Hypertens.
+2016 Oct;10(10):753-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27660007?
+tool=bestpractice.bmj.com)
+5. Martin JF, Higashiama E, Garcia E, et al. Hypertensive crisis profile. Prevalence and clinical
+presentation. Arq Bras Cardiol. 2004 Aug;83(2):131-6.  Full text (http://www.scielo.br/scielo.php?
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Hypertensive emergencies References
+REFERENCES
+script=sci_arttext&pid=S0066-782X2004001400004&lng=en&nrm=iso&tlng=en)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15322655?tool=bestpractice.bmj.com)
+6. Deshmukh A, Kumar G, Kumar N, et al. Effect of Joint National Committee VII report
+on hospitalizations for hypertensive emergencies in the United States. Am J Cardiol.
+2011 Sep 3;108(9):1277-82. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21890093?
+tool=bestpractice.bmj.com)
+7. Bress AP, Anderson TS, Flack JM, et al. The management of elevated blood pressure in the acute
+care setting: a scientific statement from the American Heart Association. Hypertension. 2024
+Aug;81(8):e94-106.  Full text (https://www.ahajournals.org/doi/full/10.1161/HYP.0000000000000238)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/38804130?tool=bestpractice.bmj.com)
+8. Shah M, Patil S, Patel B, et al. Trends in hospitalization for hypertensive emergency, and relationship
+of end-organ damage with in-hospital mortality. Am J Hypertens. 2017 Jul 1;30(7):700-6.  Full
+text (https://academic.oup.com/ajh/article/30/7/700/3743788?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28430850?tool=bestpractice.bmj.com)
+9. Janke AT, McNaughton CD, Brody AM, et al. Trends in the incidence of hypertensive emergencies
+in US emergency departments from 2006 to 2013. J Am Heart Assoc. 2016 Dec 5;5(12):e004511. 
+Full text (https://www.ahajournals.org/doi/10.1161/JAHA.116.004511)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27919932?tool=bestpractice.bmj.com)
+10. Alshami A, Romero C, Avila A, et al. Management of hypertensive crises in the elderly. J Geriatr
+Cardiol. 2018 Jul;15(7):504-12.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6198269)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30364798?tool=bestpractice.bmj.com)
+11. Waldron FA, Benenson I, Jones-Dillon SA, et al. Prevalence and risk factors for hypertensive crisis
+in a predominantly African American inner-city community. Blood Press. 2019 Jan 22;28(2):114-23.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30669866?tool=bestpractice.bmj.com)
+12. Hyman DJ, Pavlik VN. Characteristics of patients with uncontrolled hypertension in the United
+States [published correction appears in N Engl J Med. 2002 Feb 14;346(7):544]. N Engl J Med.
+2001 Aug 16;345(7):479-86.  Full text (https://www.nejm.org/doi/full/10.1056/NEJMoa010273?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11519501?tool=bestpractice.bmj.com)
+13. Benenson I, Waldron FA, Jadotte YT, et al. Risk factors for hypertensive crisis in adult patients: a
+systematic review. JBI Evid Synth. 2021 Jun;19(6):1292-327. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33555818?tool=bestpractice.bmj.com)
+14. Steegers EA, von Dadelszen P, Duvekot JJ, et al. Pre-eclampsia. Lancet. 2010 Aug
+21;376(9741):631-44. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20598363?
+tool=bestpractice.bmj.com)
+15. LeFevre ML, U.S. Preventive Services Task Force. Low-dose aspirin use for the prevention of
+morbidity and mortality from preeclampsia: U.S. Preventive Services Task Force recommendation
+statement. Ann Intern Med. 2014 Dec 2;161(11):819-26.  Full text (https://www.acpjournals.org/
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Hypertensive emergencies References
+doi/full/10.7326/M14-1884)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25200125?
+tool=bestpractice.bmj.com)
+16. Jeyabalan A. Epidemiology of preeclampsia: impact of obesity. Nutr Rev. 2013 Oct;71 Suppl 1(0
+1):S18-25.  Full text (https://academic.oup.com/nutritionreviews/article/71/suppl_1/S18/1834571)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24147919?tool=bestpractice.bmj.com)
+17. Sheehy S, Aparicio HJ, Xu N, et al. Hypertensive disorders of pregnancy and risk of stroke in U.S.
+black women. NEJM Evid. 2023 July 6;2(10).
+18. Kulkarni S, Glover M, Kapil V, et al. Management of hypertensive crisis: British and Irish
+Hypertension Society Position document. J Hum Hypertens. 2023 Oct;37(10):863-79.  Full text
+(https://www.nature.com/articles/s41371-022-00776-9)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36418425?tool=bestpractice.bmj.com)
+19. Shantsila A, Shantsila E, Beevers DG, et al. Predictors of 5-year outcomes in malignant
+phase hypertension: the West Birmingham Malignant Hypertension Registry. J Hypertens.
+2017 Nov;35(11):2310-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28622157?
+tool=bestpractice.bmj.com)
+20. Lane DA, Lip GY. Ethnic differences in hypertension and blood pressure control in the UK. QJM. 2001
+Jul;94(7):391-6.  Full text (https://academic.oup.com/qjmed/article/94/7/391/1598592)
+21. Tisdale JE, Huang MB, Borzak S, et al. Risk factors for hypertensive crisis: importance
+of out-patient blood pressure control. Fam Pract. 2004 Aug;21(4):420-4.  Full text (http://
+fampra.oxfordjournals.org/cgi/content/full/21/4/420)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15249531?tool=bestpractice.bmj.com)
+22. Shea S, Misra D, Ehrlich MH, et al. Predisposing factors for severe, uncontrolled hypertension
+in an inner-city minority population. N Engl J Med. 1992 Sep 10;327(11):776-81. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1501654?tool=bestpractice.bmj.com)
+23. Bennett NM, Shea S. Hypertensive emergency: case criteria, sociodemographic profile, and
+previous care of 100 cases. Am J Public Health. 1988 Jun;78(6):636-40.  Full text (https://
+ajph.aphapublications.org/doi/epdf/10.2105/AJPH.78.6.636)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/3369591?tool=bestpractice.bmj.com)
+24. Lip GY, Beevers M, Beevers G. The failure of malignant hypertension to decline: a survey of 24 years'
+experience in a multiracial population in England. J Hypertens. 1994 Nov;12(11):1297-305. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/7868878?tool=bestpractice.bmj.com)
+25. Guerin C, Gonthier R, Berthoux FC. Long-term prognosis in malignant or accelerated hypertension.
+Nephrol Dial Transplant. 1988;3(1):33-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3132637?
+tool=bestpractice.bmj.com)
+26. Davis TK, Halabi CM, Siefken P, et al. Aggressive blood pressure control for chronic kidney disease
+unmasks moyamoya! Clin Kidney J. 2013 Oct;6(5):495-9.  Full text (https://www.ncbi.nlm.nih.gov/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Hypertensive emergencies References
+REFERENCES
+pmc/articles/PMC4438405)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26064513?
+tool=bestpractice.bmj.com)
+27. Judd E, Calhoun DA. Management of hypertension in CKD: beyond the guidelines. Adv Chronic
+Kidney Dis. 2015 Mar;22(2):116-22.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC4445132)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25704348?tool=bestpractice.bmj.com)
+28. Macedo TA, Drager LF, Pedrosa RP, et al. Intermittent claudication and severe renal artery stenosis
+are independently associated in hypertensive patients referred for renal arteriography. Clinics (Sao
+Paulo). 2017 Jul;72(7):411-4.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5525161)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28793000?tool=bestpractice.bmj.com)
+29. Kasiske BL, Anjum S, Shah R, et al. Hypertension after kidney transplantation. Am J Kidney
+Dis. 2004 Jun;43(6):1071-81. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15168388?
+tool=bestpractice.bmj.com)
+30. Chen W, Kayler LK, Zand MS, et al. Transplant renal artery stenosis: clinical manifestations, diagnosis
+and therapy. Clin Kidney J. 2015 Feb;8(1):71-8.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC4310434)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25713713?tool=bestpractice.bmj.com)
+31. Suneja M, Sanders ML. Hypertensive emergency. Med Clin North Am. 2017 May;101(3):465-78.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28372707?tool=bestpractice.bmj.com)
+32. Phillips CL, O'Driscoll DM. Hypertension and obstructive sleep apnea. Nat Sci Sleep. 2013 May
+10;5:43-52.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3666153)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23750107?tool=bestpractice.bmj.com)
+33. Silaruks S, Sawanyawisuth K. A case of obstructive sleep apnoea presented with hypertensive
+emergency. Heart Lung Circ. 2015;24(suppl 3):S121.
+34. Yeghiazarians Y, Jneid H, Tietjens JR, et al. Obstructive sleep apnea and cardiovascular disease: a
+scientific statement from the American Heart Association. Circulation. 2021 Jul 20;144(3):e56-67. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000988?rfr_dat=cr_pub
+++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34148375?tool=bestpractice.bmj.com)
+35. Whitworth JA, Mangos GJ, Kelley JJ. Hypertension in Cushing’s syndrome. In: Mansoor GA, ed.
+Secondary hypertension, clinical presentation, diagnosis, and treatment. Totowa, NJ: Humana Press;
+2004.
+36. Pappachan JM, Buch HN. Endocrine hypertension: a practical approach. Adv Exp
+Med Biol. 2017;956:215-37. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27864805?
+tool=bestpractice.bmj.com)
+37. Garg MK, Kharb S, Brar KS, et al. Medical management of pheochromocytoma: role of the
+endocrinologist. Indian J Endocrinol Metab. 2011 Oct;15(suppl 4):S329-36.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC3230088)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22145136?tool=bestpractice.bmj.com)
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Hypertensive emergencies References
+38. Lichtenstein AH, Appel LJ, Vadiveloo M, et al. 2021 dietary guidance to improve cardiovascular health:
+a scientific statement from the American Heart Association. Circulation. 2021 Dec 7;144(23):e472-87. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001031)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34724806?tool=bestpractice.bmj.com)
+39. Kaplan NM. Kaplan's clinical hypertension, 9th ed. Philadelphia, PA: Lippincott Williams & Wilkins;
+2006.
+40. Zampaglione B, Pascale C, Marchisio M, et al. Hypertensive urgencies and emergencies:
+prevalence and clinical presentation. Hypertension. 1996 Jan;27(1):144-7.  Full text (http://
+hyper.ahajournals.org/cgi/content/full/27/1/144)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8591878?tool=bestpractice.bmj.com)
+41. Vaughan CJ, Delanty N. Hypertensive emergencies. Lancet. 2000 Jul 29;356(9227):411-7. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/10972386?tool=bestpractice.bmj.com)
+42. Marik PE, Varon J. Hypertensive crises: challenges and management [published correction
+appears in Chest. 2007 Nov;132(5):1721]. Chest. 2007 Jun;131(6):1949-62. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17565029?tool=bestpractice.bmj.com)
+43. Ault MJ, Ellrodt AG. Pathophysiological events leading to the end-organ effects of acute hypertension.
+Am J Emerg Med. 1985 Dec;3(6 suppl):10-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3910062?
+tool=bestpractice.bmj.com)
+44. Luft FC, Mervaala E, Müller DN, et al. Hypertension-induced end-organ damage: a new
+transgenic approach to an old problem. Hypertension. 1999 Jan;33(1 Pt 2):212-8.  Full text
+(http://hyper.ahajournals.org/content/33/1/212.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9931107?tool=bestpractice.bmj.com)
+45. Taylor DA. Hypertensive crisis: a review of pathophysiology and treatment. Crit Care Nurs Clin
+North Am. 2015 Dec;27(4):439-47. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26567490?
+tool=bestpractice.bmj.com)
+46. Myklejord DJ. Undiagnosed pheochromocytoma: the anesthesiologist nightmare. Clin Med Res.
+2004 Feb;2(1):59-62.  Full text (http://www.clinmedres.org/content/2/1/59.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15931336?tool=bestpractice.bmj.com)
+47. Fishbein L, Orlowski R, Cohen D. Pheochromocytoma/paraganglioma: review of perioperative
+management of blood pressure and update on genetic mutations associated with pheochromocytoma.
+J Clin Hypertens (Greenwich). 2013 Jun;15(6):428-34.  Full text (https://onlinelibrary.wiley.com/
+doi/10.1111/jch.12084)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23730992?
+tool=bestpractice.bmj.com)
+48. American College of Obstetricians and Gynecologists. Practice bulletin no. 222: gestational
+hypertension and preeclampsia. Jun 2020 [internet publication].  Full text (https://journals.lww.com/
+greenjournal/abstract/2020/06000/gestational_hypertension_and_preeclampsia__acog.44.aspx)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32443077?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Hypertensive emergencies References
+REFERENCES
+49. Blumenfeld JD, Laragh JH. Management of hypertensive crises: the scientific basis for treatment
+decisions. Am J Hypertens. 2001 Nov;14(11 Pt 1):1154-67. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11724216?tool=bestpractice.bmj.com)
+50. Kettritz R, Luft FC. Severe hypertension with large-vessel arteritis. Hypertension. 2012
+Feb;59(2):179-83.  Full text (http://hyper.ahajournals.org/content/59/2/179.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22203748?tool=bestpractice.bmj.com)
+51. Denton CP, Lapadula G, Mouthon L, et al. Renal complications and scleroderma renal crisis.
+Rheumatology (Oxford). 2009 Jun;48 (suppl 3):iii32-5. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19487221?tool=bestpractice.bmj.com)
+52. Ong KL, Cheung BM, Man YB, et al. Prevalence, awareness, treatment, and control of
+hypertension among United States adults 1999-2004. Hypertension. 2007 Jan;49(1):69-75.  Full
+text (http://hyper.ahajournals.org/content/49/1/69.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17159087?tool=bestpractice.bmj.com)
+53. Fryar CD, Ostchega Y, Hales CM, et al. Hypertension prevalence and control among adults:
+United States, 2015-2016. NCHS Data Brief. 2017 Oct;(289):1-8.  Full text (https://www.cdc.gov/
+nchs/data/databriefs/db289.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29155682?
+tool=bestpractice.bmj.com)
+54. Unger T, Borghi C, Charchar F, et al. 2020 International Society of Hypertension Global Hypertension
+practice guidelines. Hypertension. 2020 Jun;75(6):1334-57.  Full text (https://www.ahajournals.org/
+doi/full/10.1161/HYPERTENSIONAHA.120.15026)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32370572?tool=bestpractice.bmj.com)
+55. American College of Obstetricians and Gynecologists. Clinical practice guideline no. 3: headaches
+in pregnancy and postpartum. May 2022 [internet publication].  Full text (https://journals.lww.com/
+greenjournal/abstract/2022/05000/headaches_in_pregnancy_and_postpartum__acog.37.aspx)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35576364?tool=bestpractice.bmj.com)
+56. Gold KJ, Barnes C, Lalley J, et al. Case report: late-onset eclampsia presents as bilateral cortical
+blindness. Am Fam Physician. 2005 Mar 1;71(5):856, 858, 861.  Full text (https://www.aafp.org/
+pubs/afp/issues/2005/0301/p856a.html)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15768615?
+tool=bestpractice.bmj.com)
+57. Mancia G, Kreutz R, Brunström M, et al. 2023 ESH Guidelines for the management of arterial
+hypertension the Task Force for the management of arterial hypertension of the European Society
+of Hypertension: endorsed by the International Society of Hypertension (ISH) and the European
+Renal Association (ERA). J Hypertens. 2023;41(12):1874-2071.  Full text (https://journals.lww.com/
+jhypertension/fulltext/2023/12000/2023_esh_guidelines_for_the_management_of_arterial.2.aspx)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37345492?tool=bestpractice.bmj.com)
+58. Bossone E, Rampoldi V, Nienaber CA, et al. Usefulness of pulse deficit to predict in-hospital
+complications and mortality in patients with acute type A aortic dissection. Am J Cardiol. 2002 Apr
+1;89(7):851-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11909573?tool=bestpractice.bmj.com)
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Hypertensive emergencies References
+59. Ranasinghe AM, Strong D, Boland B, et al. Acute aortic dissection. BMJ. 2011 Jul 29;343:d4487.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21803810?tool=bestpractice.bmj.com)
+60. National Institute for Health and Care Excellence. Hypertension in adults: diagnosis and management.
+Nov 2023 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng136/chapter/
+recommendations#measuring-blood-pressure)
+61. National Institute for Health and Care Excellence. Hypertension in pregnancy: diagnosis and
+management. Apr 2023 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng133)
+62. Turner JA. Diagnosis and management of pre-eclampsia: an update. Int J Womens Health. 2010 Sep
+30;2:327-37.  Full text (https://www.dovepress.com/diagnosis-and-management-of-pre-eclampsia-an-
+update-peer-reviewed-fulltext-article-IJWH)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21151680?
+tool=bestpractice.bmj.com)
+63. Cífková R, Johnson MR, Kahan T, et al. Peripartum management of hypertension: a position
+paper of the ESC Council on Hypertension and the European Society of Hypertension. Eur
+Heart J Cardiovasc Pharmacother. 2020 Nov 1;6(6):384-93.  Full text (https://academic.oup.com/
+ehjcvp/article/6/6/384/5678784)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31841131?
+tool=bestpractice.bmj.com)
+64. American Society for Clinical Pathology. Thirty five things physicians and patients should question.
+Choosing Wisely, an initiative of the ABIM Foundation. 2021 [internet publication].  Full text (https://
+web.archive.org/web/20230316185857/https://www.choosingwisely.org/societies/american-society-for-
+clinical-pathology)
+65. Nölting S, Bechmann N, Taieb D, et al. Personalized management of pheochromocytoma and
+paraganglioma. Endocr Rev. 2022 Mar 9;43(2):199-239.  Full text (https://academic.oup.com/
+edrv/article/43/2/199/6306512)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34147030?
+tool=bestpractice.bmj.com)
+66. Bossone E, LaBounty TM, Eagle KA. Acute aortic syndromes: diagnosis and management,
+an update. Eur Heart J. 2018 Mar 1;39(9):739-49d.  Full text (https://academic.oup.com/
+eurheartj/article/39/9/739/3904550)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29106452?
+tool=bestpractice.bmj.com)
+67. Writing Committee Members, Isselbacher EM, Preventza O, et al. 2022 ACC/AHA guideline for the
+diagnosis and management of aortic disease: a report of the American Heart Association/American
+College of Cardiology Joint Committee on clinical practice guidelines. J Am Coll Cardiol. 2022 Dec
+13;80(24):e223-393.  Full text (https://www.sciencedirect.com/science/article/pii/S0735109722057692)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36334952?tool=bestpractice.bmj.com)
+68. Aboyans V, Ricco JB, Bartelink MEL, et al. 2017 ESC guidelines on the diagnosis and treatment of
+peripheral arterial diseases, in collaboration with the European Society for Vascular Surgery (ESVS):
+document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal,
+upper and lower extremity arteriesEndorsed by: the European Stroke Organization (ESO)The Task
+Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of
+Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). Eur Heart J. 2018 Mar
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Hypertensive emergencies References
+REFERENCES
+1;39(9):763-816.  Full text (https://academic.oup.com/eurheartj/article/39/9/763/4095038)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/28886620?tool=bestpractice.bmj.com)
+69. Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the early management of patients
+with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management
+of acute ischemic stroke: a guideline for healthcare professionals from the American Heart
+Association/American Stroke Association. Stroke. 2019 Dec;50(12):e344-418.  Full text (https://
+www.ahajournals.org/doi/10.1161/STR.0000000000000211)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31662037?tool=bestpractice.bmj.com)
+70. Simundic AM, Bölenius K, Cadamuro J, et al. Joint EFLM-COLABIOCLI recommendation for venous
+blood sampling. Clin Chem Lab Med. 2018;56(12):2015-38. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30004902?tool=bestpractice.bmj.com)
+71. Fuchs FD. Study of the usefulness of optic fundi examination on patients with hypertension in a
+clinical setting. J Hum Hypertens. 1995 Jul;9(7):547-51. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7562883?tool=bestpractice.bmj.com)
+72. Van den Born BJH, Honnebier UPF, Koopmans RP, et al. Microangiopathic hemolysis and
+renal failure in malignant hypertension. Hypertension. 2005 Feb;45(2):246-51.  Full text
+(http://hyper.ahajournals.org/cgi/content/full/45/2/246)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15596574?tool=bestpractice.bmj.com)
+73. Plouin EP, Amar L, Dekkers OM, et al. European Society of Endocrinology Clinical Practice Guideline
+for long-term follow-up of patients operated on for a phaeochromocytoma or a paraganglioma. Eur
+J Endocrinol. 2016 May;174(5):G1-10.  Full text (https://academic.oup.com/ejendo/article/174/5/
+G1/6655102)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27048283?tool=bestpractice.bmj.com)
+74. Chobanian AV, Bakris GL, Black HR, et al. Seventh report of the Joint National Committee on
+Prevention, Detection, Evaluation, and Treatment of High Blood Pressure. Hypertension. 2003
+Dec;42(6):1206-52.  Full text (http://hyper.ahajournals.org/content/42/6/1206.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/14656957?tool=bestpractice.bmj.com)
+75. Elliott WJ. Clinical features and management of selected hypertensive emergencies. J Clin
+Hypertens (Greenwich). 2004 Oct;6(10):587-92.  Full text (https://onlinelibrary.wiley.com/doi/
+epdf/10.1111/j.1524-6175.2004.03608.x)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15470289?
+tool=bestpractice.bmj.com)
+76. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with
+spontaneous intracerebral hemorrhage: a guideline from the American Heart Association/American
+Stroke Association. Stroke. 2022 Jul;53(7):e282-61.  Full text (https://www.ahajournals.org/doi/
+full/10.1161/STR.0000000000000407)
+77. Qureshi AI, Huang W, Lobanova I, et al. Outcomes of intensive systolic blood pressure reduction in
+patients with intracerebral hemorrhage and excessively high initial systolic blood pressure: post hoc
+analysis of a randomized clinical trial. JAMA Neurol. 2020 Nov 1;77(11):1355-65.  Full text (https://
+jamanetwork.com/journals/jamaneurology/fullarticle/2769857)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32897310?tool=bestpractice.bmj.com)
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Hypertensive emergencies References
+78. Anderson CS, Heeley E, Huang Y, et al; INTERACT2 Investigators. Rapid blood-pressure lowering
+in patients with acute intracerebral hemorrhage. N Engl J Med. 2013 Jun 20;368(25):2355-65. 
+Full text (http://www.nejm.org/doi/full/10.1056/NEJMoa1214609#t=article)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23713578?tool=bestpractice.bmj.com)
+79. Qureshi AI, Palesch YY, Barsan WG, et al. Intensive blood-pressure lowering in patients with acute
+cerebral hemorrhage. N Engl J Med. 2016 Jun 8;375(11):1033-43.  Full text (https://www.nejm.org/
+doi/10.1056/NEJMoa1603460?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200www.ncbi.nlm.nih.gov)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27276234?
+tool=bestpractice.bmj.com)
+80. van den Born BH, Lip GYH, Brguljan-Hitij J, et al. ESC council on hypertension position document
+on the management of hypertensive emergencies. Eur Heart J Cardiovasc Pharmacother. 2019 Jan
+1;5(1):37-46. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30165588?tool=bestpractice.bmj.com)
+81. Peacock WF, Varon J, Baumann BM, et al. CLUE: a randomized comparative effectiveness trial
+of IV nicardipine versus labetalol use in the emergency department. Crit Care. 2011;15(3):R157. 
+Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3219031/?tool=pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21707983?tool=bestpractice.bmj.com)
+82. Haas CE, LeBlanc JM. Acute postoperative hypertension: a review of therapeutic options. Am J
+Health Syst Pharm. 2004 Aug 15;61(16):1661-73; quiz 1674-5. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15540477?tool=bestpractice.bmj.com)
+83. Cannon CM, Levy P, Baumann BM, et al. Intravenous nicardipine and labetalol use in hypertensive
+patients with signs or symptoms suggestive of end-organ damage in the emergency department:
+a subgroup analysis of the CLUE trial. BMJ Open. 2013 Mar 26;3(3):e002338.  Full text
+(https://bmjopen.bmj.com/content/3/3/e002338.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23535700?tool=bestpractice.bmj.com)
+84. Owens WB. Blood pressure control in acute cerebrovascular disease. J Clin Hypertens
+(Greenwich). 2011 Mar;13(3):205-11.  Full text (https://onlinelibrary.wiley.com/doi/10.1111/
+j.1751-7176.2010.00394.x)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21366852?
+tool=bestpractice.bmj.com)
+85. Kondo T, Brock M, Bach H. Effect of intra-arterial sodium nitroprusside on intracranial pressure and
+cerebral autoregulation. Jpn Heart J. 1984 Mar;25(2):231-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/6748223?tool=bestpractice.bmj.com)
+86. Griswold WR, Reznik V, Mendoza SA. Nitroprusside-induced intracranial hypertension. JAMA.
+1981 Dec 11;246(23):2679-80. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7310961?
+tool=bestpractice.bmj.com)
+87. Anile C, Zanghi F, Bracali A, et al. Sodium nitroprusside and intracranial pressure. Acta
+Neurochir (Wien). 1981;58(3-4):203-11. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7315551?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+65
+=== Page 66 ===
+Hypertensive emergencies References
+REFERENCES
+88. Tumlin JA, Dunbar LM, Oparil S, et al. Fenoldopam, a dopamine agonist, for hypertensive
+emergency: a multicenter randomized trial. Acad Emerg Med. 2000 Jun;7(6):653-62. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10905644?tool=bestpractice.bmj.com)
+89. Devlin JW, Seta ML, Kanji S, Somerville AL. Fenoldopam versus nitroprusside for the treatment
+of hypertensive emergency. Ann Pharmacother. 2004 May;38(5):755-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15039472?tool=bestpractice.bmj.com)
+90. Sandset EC, Anderson CS, Bath PM, et al. European Stroke Organisation (ESO) guidelines on blood
+pressure management in acute ischaemic stroke and intracerebral haemorrhage. Eur Stroke J. 2021
+Jun;6(2):XLVIII-LXXXIX.  Full text (https://journals.sagepub.com/doi/full/10.1177/23969873211012133)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34780578?tool=bestpractice.bmj.com)
+91. Bath PM, Krishnan K. Interventions for deliberately altering blood pressure in acute stroke. Cochrane
+Database Syst Rev. 2014 Oct 28;(10):CD000039.  Full text (https://www.cochranelibrary.com/
+cdsr/doi/10.1002/14651858.CD000039.pub3/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25353321?tool=bestpractice.bmj.com)
+92. National Institute of Health Care and Excellence. Stroke and transient ischaemic attack in over 16s:
+diagnosis and initial management. Apr 2022 [internet publication].  Full text (https://www.nice.org.uk/
+guidance/ng128)
+93. Neutel JM, Smith DHG, Wallin D, et al. A comparison of intravenous nicardipine and sodium
+nitroprusside in the immediate treatment of severe hypertension. Am J Hypertens. 1994 Jul;7(7 Pt
+1):623-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7946164?tool=bestpractice.bmj.com)
+94. Allison TA, Bowman S, Gulbis BJ, et al. Comparison of clevidipine and nicardipine for acute blood
+pressure reduction in patients with stroke. Intensive Care Med. 2019 Nov-Dec;34(11-12):990-5.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28820038?tool=bestpractice.bmj.com)
+95. Lau J, Antman EM, Jimenez-Silva J, Kupelnick B. Cumulative meta-analysis of therapeutic
+trials for MI. N Engl J Med. 1992 Jul 23;327(4):248-54. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/1614465?tool=bestpractice.bmj.com)
+96. Bussmann WD, Kenedi P, von Mengden HJ, et al. Comparison of nitroglycerin with nifedipine in
+patients with hypertensive crisis or severe hypertension. Clin Investig. 1992 Dec;70(12):1085-8.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1467634?tool=bestpractice.bmj.com)
+97. Erbel R, Alfonso F, Boileau C, et al. Diagnosis and management of aortic dissection. Eur
+Heart J. 2001 Sep;22(18):1642-81. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11511117?
+tool=bestpractice.bmj.com)
+98. Tuffnell DJ, Jankowicz D, Lindow SW, et al. Outcomes of severe pre-eclampsia/eclampsia in Yorkshire
+1999/2003. BJOG. 2005 Jul;112(7):875-80. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15957986?
+tool=bestpractice.bmj.com)
+99. American College of Obstetricians and Gynecologists. Committee opinion no. 767: emergent therapy
+for acute-onset, severe hypertension during pregnancy and the postpartum period. Feb 2019 [internet
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 67 ===
+Hypertensive emergencies References
+publication].  Full text (https://journals.lww.com/greenjournal/citation/2019/02000/acog.45.aspx)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30575639?tool=bestpractice.bmj.com)
+100. Garovic VD, Dechend R, Easterling T, et al. Hypertension in pregnancy: diagnosis, blood
+pressure goals, and pharmacotherapy: a scientific statement from the American Heart
+Association. Hypertension. 2022 Feb;79(2):e21-41.  Full text (https://www.doi.org/10.1161/
+HYP.0000000000000208)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34905954?
+tool=bestpractice.bmj.com)
+101. Lip GY, Beevers M, Beevers DG. Complications and survival of 315 patients with malignant-
+phase hypertension. J Hypertens. 1995 Aug;13(8):915-24. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8557970?tool=bestpractice.bmj.com)
+102. Webster J, Petrie JC, Jeffers TA, et al. Accelerated hypertension patterns or mortality and clinical
+factors affecting outcome in treated patients. Q J Med. 1993 Aug;86(8):485-93. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8210306?tool=bestpractice.bmj.com)
+103. Midgley JP, Matthew AG, Greenwood CM, et al. Effect of reduced dietary sodium on blood pressure: a
+meta-analysis of randomized controlled trials. JAMA. 1996 May 22-29;275(20):1590-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8622251?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+67
+=== Page 68 ===
+Hypertensive emergencies Images
+IMAGES
+Images
+Figure 1: Fundus photograph of the right eye with multiple dot-blot hemorrhages typical of hypertensive
+retinopathy
+Courtesy Angie Wen MD, Attending Faculty, New York Eye and Ear Infirmary, New York; used with
+permission
+Figure 2: Fundus photograph of the left eye with multiple cotton-wool spots typical of hypertensive retinopathy
+Courtesy Angie Wen MD, Attending Faculty, New York Eye and Ear Infirmary, New York; used with
+permission
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 69 ===
+Hypertensive emergencies Images
+Figure 3: Fundus photograph of the right eye centered on the optic nerve, showing multiple cotton-wool spots
+and macular exudates in a radiating star configuration around the fovea
+Courtesy Angie Wen MD, Attending Faculty, New York Eye and Ear Infirmary, New York; used with
+permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+69
+=== Page 70 ===
+Hypertensive emergencies Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 71 ===
+Hypertensive emergencies Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+71
+=== Page 72 ===
+Contributors:
+// Authors:
+M. Lee Sanders, PhD, MD
+Clinical Associate Professor
+Division of Nephrology, University of Iowa, Iowa City, IA
+DISCLOSURES: MLS is an author of a reference cited in this topic.
+Manish Suneja, MD, FASN, FACP
+Clinical Professor
+Division of Nephrology, University of Iowa, Iowa City, IA
+DISCLOSURES: MS receives royalties from McGraw Hill as the editor of DeGowin’s Diagnostic
+Examination and is an author of a reference cited in this topic.
+// Acknowledgements:
+Dr M. Lee Sanders and Dr Manish Suneja would like to gratefully acknowledge Dr Hector Ventura and Dr
+Madhavi T. Reddy, previous contributors to this topic.
+DISCLOSURES: HV declares that he has no competing interests. MTR is employed by Merck and owns
+stocks in Merck, and Johnson & Johnson.
+// Peer Reviewers:
+Aparna Sundaram, DO, MBA, MPH
+Physician Consultant
+Preventive Medicine, Private Practice, Atlanta, GA
+DISCLOSURES: AS declares that she has no competing interests.
+Ethan Cumbler, MD
+Assistant Professor
+Department of Internal Medicine, University of Colorado Health Sciences Center, Denver, CO
+DISCLOSURES: EC declares that he has no competing interests.
+Michael Schachter, MB, BSc, FRCP
+Department of Clinical Pharmacology
+St Mary’s Hospital, Imperial College, London, UK
+DISCLOSURES: MS declares that he has no competing interests.

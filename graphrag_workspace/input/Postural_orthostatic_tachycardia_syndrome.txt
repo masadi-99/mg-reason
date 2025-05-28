@@ -1,0 +1,2200 @@
+# Postural orthostatic tachycardia syndrome
+
+=== Page 1 ===
+Postural orthostatic
+tachycardia syndrome
+Straight to the point of care
+Last updated: Jun 07, 2023
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  5
+Case history  7
+Diagnosis  8
+Approach  8
+History and exam  11
+Risk factors  14
+Tests  16
+Differentials  19
+Criteria  22
+Management  23
+Approach  23
+Treatment algorithm overview  26
+Treatment algorithm  27
+Emerging  35
+Secondary prevention  35
+Patient discussions  35
+Follow up  36
+Monitoring  36
+Complications  36
+Prognosis  36
+Guidelines  38
+Diagnostic guidelines  38
+Treatment guidelines  38
+References  39
+Images  47
+Disclaimer  49
+=== Page 3 ===
+Postural orthostatic tachycardia syndrome Overview
+Summary
+Postural orthostatic tachycardia syndrome (POTS) is a clinical syndrome characterized by symptoms of
+orthostatic intolerance and an increase in heart rate (without orthostatic hypotension) on standing, in the
+absence of other causes. It is also associated with comorbidities such as migraine headaches, irritable
+bowel syndrome, Ehlers-Danlos syndrome, chronic fatigue syndrome, and autoimmune diseases such as
+Hashimoto thyroiditis and celiac disease.
+Initial investigations should include an ECG and blood tests to look for other causes of symptoms, such as
+anemia, hyperthyroidism, and adrenal insufficiency. Further investigation (e.g., Holter monitor, tilt-table test,
+echocardiogram) may be needed if the diagnosis is unclear, or other causes are suspected.
+First-line management of POTS symptoms is avoidance of triggers (e.g., exposure to excessive heat,
+prolonged standing), and lifestyle modifications (e.g., increase in water and salt intake, use of compression
+garments). If symptoms of POTS persist, pharmacologic treatment should be started to target specific
+symptoms; a combination of medications is usually required.
+There is a lack of evidence for effective treatments for POTS in children. However, it is reasonable to treat
+children with the same interventions that are recommended for adults, with a focus on promoting salt and
+fluid intake, physical counterpressure techniques, and reassurance to the patient and their families.
+Definition
+POTS is a chronic, multisystem disorder that is thought to be due to an autoimmune process. It is
+characterized by frequent symptoms of orthostatic intolerance that improve rapidly when the patient returns
+to a supine position, interfere with daily living activities, and have continued for at least 3 months, and an
+increase in heart rate by ≥30 bpm (or ≥40 bpm in patients ages 12 to 19 years) within 10 minutes of standing
+from a supine position or head-up tilt (without orthostatic hypotension) that is not due to other causes of sinus
+tachycardia.[1] [2] [3] [4] However, it is undefined in patients ages <12 years, although they may present with
+similar symptoms.[1]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Postural orthostatic tachycardia syndrome Theory
+THEORY
+Epidemiology
+The prevalence of POTS is estimated to be between 0.1% and 1%, although the data are unclear.[1] [3][4] [8]
+[9]
+It is more common in women than men, with a female to male ratio of 4:1.[1] [2] [8] Most patients who
+present with POTS are typically young women ages 15 to 25 years.[2] [10] POTS can occur outside of
+this age range, but new onset POTS is rare after age 50.[2] Patients <12 years may present with similar
+symptoms to older patients, particularly if there is a family history of POTS.[1] However, POTS remains
+undefined in patients <12 years and the sensitivity and specificity of the heart rate criteria in this age group is
+not established.[1]
+Etiology
+POTS is typically triggered by an event involving immunologic stress.[1] A viral infection (often upper
+respiratory or gastrointestinal) is the most common precipitant and is reported in 20% to 50% of patients.[1]
+[11] [12] [13] [14] [15] Pathogens commonly linked to POTS include severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) and Epstein Barr virus.[16] Other precipitants include physical trauma (such as
+concussion), menarche, pregnancy, and surgery.[1] [11] [13] [17] Hormonal changes during pregnancy affect
+peripheral vascular resistance and blood volume, which may trigger orthostatic intolerance, particularly early
+in pregnancy (i.e., the first trimester).[18]
+Patients may also have a genetic disposition for POTS.[1] [11] There is increased prevalence (up to 14%) of
+POTS in family members of affected people compared with the general population.[1] [11] Although there is
+no evidence for a single causative gene, polymorphisms in many genes have been identified in several case
+series.[1] [19] [20]
+Pathophysiology
+Several different pathophysiologic mechanisms for POTS have been proposed, although these are poorly
+understood.[1] [4] These mechanisms overlap and a patient may often have features of more than one
+mechanism.[1] [4]
+Immune dysfunction
+Immune dysfunction may play a role in POTS.[1] Many patients with POTS report an infectious prodrome
+before the onset of orthostatic symptoms.[1] [11] [13] In addition, patients with POTS and their close relatives
+have a higher prevalence of autoimmune disorders such as celiac disease, Hashimoto thyroiditis, Sjogren
+syndrome, and systemic lupus erythematosus than the general population.[21] [22] [23] [24]
+A few studies have reported that some patients with POTS have elevated levels of autoantibodies, which act
+as partial agonists to alpha- and beta-adrenergic receptors.[25] [26] [27] This may cause the typical postural
+and cardiovascular features seen in POTS.[28] Despite these findings, a definite link between autoantibodies
+and POTS has not been established.[1]
+Abnormal cardiovascular physiology
+Some 70% of patients with POTS have absolute hypovolemia, with low plasma and red blood cell volume.[1]
+[2] [4][5] [6] Hypovolemia in POTS is due to impaired regulation of plasma volume, which occurs as a result
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Postural orthostatic tachycardia syndrome Theory
+of reduced ability of the renin-angiotensin-aldosterone system to expand the blood volume.[1][2] [6][29] [30]
+[31] Hypovolemia causes reduced systemic venous return and reduced cardiac output, with subsequent
+reflex tachycardia and orthostatic intolerance.[6] [7]
+Many patients with POTS also have reduced left ventricular mass, low stroke volume, and impaired cardiac
+filling due to cardiovascular deconditioning, which can further contribute to hypovolemia and symptoms of
+POTS.[1] [2] However, it is unclear whether cardiovascular deconditioning is a primary cause of POTS, or
+caused by avoidance of exercise due to orthostatic symptoms.[2]
+Excessive sympathetic activation
+Patients with hyperadrenergic POTS may have abnormally increased sympathetic activity and circulating
+catecholamine excess.[1] [2]
+Peripheral autonomic dysfunction
+Many patients with POTS have peripheral autonomic denervation, which leads to venous pooling, relative
+central hypovolemia, and low blood volume (absolute hypovolemia).[1] [2] [4] This is particularly seen with
+neuropathic POTS.
+Classification
+Types of POTS
+Hypovolemic
+Up to 70% of patients with POTS have absolute hypovolemia, with low plasma and red blood cell volume.[1]
+[2][5] [6] Hypovolemia causes reduced systemic venous return and reduced cardiac output, with subsequent
+reflex tachycardia and orthostatic intolerance.[6] [7]
+Hyperadrenergic
+Hyperadrenergic POTS is associated with increased sympathetic response and excess circulating
+catecholamine.[1] [2] Patients will have orthostatic hypertension (increase in systolic blood pressure ≥10
+mmHg after standing for 10 minutes).[2]
+Neuropathic
+Neuropathic POTS is associated with peripheral venous pooling and reduced effective intravascular volume,
+which is caused by peripheral sympathetic denervation.[1][2]
+POTS and related syndromes
+A position statement by the Canadian Cardiovascular Society has proposed a different framework to current
+US guidelines for classifying POTS and its related syndromes, on the basis of limitations of the current
+nomenclature and overdiagnosis of POTS.[4]
+POTS
+• The patient must meet the diagnostic criteria - see Criteria .[4]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Postural orthostatic tachycardia syndrome Theory
+THEORY
+• The patient should have significant orthostatic symptoms, which should be dominant in the clinical
+presentation and get better with a supine position. There are no specific cardinal symptoms, and no
+minimum number of symptoms required for diagnosis.[4]
+POTS plus
+• The patient must meet all the criteria for POTS - see "POTS" above.[4]
+• In addition, the patient should have one or more debilitating noncardiovascular symptom(s).[4]
+• The patient may also have additional associated comorbidities, such as migraine headaches or Ehlers-
+Danlos syndrome. These comorbidities and the POTS symptoms may or may not have a common
+underlying cause.[4]
+Postural symptoms without tachycardia (PSWT)
+• The patient has symptoms of orthostatic intolerance, but does not meet the criteria for POTS - see
+"POTS" above. There may be lots of underlying causes for the patient’s symptoms.[4]
+PSWT plus
+• The patient has symptoms of orthostatic intolerance, but does not meet the criteria for POTS - see
+"POTS" above. There may be lots of underlying causes for the patient’s symptoms.[4]
+• In addition, the patient should have one or more debilitating noncardiovascular symptom(s).[4]
+• The patient may also have additional associated comorbidities, such as migraine headaches or Ehlers-
+Danlos syndrome. These comorbidities and the POTS symptoms may or may not have a common
+underlying cause.[4]
+Postural tachycardia of other cause
+• The patient meets the criteria for POTS (see "POTS" above) with the exception that there is a clear,
+secondary underlying cause for their symptoms.[4]
+Asymptomatic orthostatic tachycardia
+• The patient meets the criteria for POTS (see "POTS" above) but with the exception that they are
+asymptomatic or minimally symptomatic.[4]
+Inappropriate sinus tachycardia
+• Defined as sinus heart rate >100 bpm at rest (with a mean 24-hour heart rate >90 bpm), that is not
+due to a primary underlying cause, and is associated with distressing symptoms of palpitations.[4]
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Postural orthostatic tachycardia syndrome Theory
+Proposed framework for postural orthostatic tachycardia syndrome (POTS) and related disorders
+Raj SR et al. Can J Cardiol. 2020 Mar;36(3):357-72; used with permission
+Case history
+Case history #1
+A 20-year-old woman presents with 4 months of fatigue, brain fog, and palpitations and lightheadedness
+on standing up. Prior to this, the patient was diagnosed with infectious mononucleosis. The patient reports
+occasional migraine headaches in the past but no other significant medical history. Physical examination
+shows a supine heart rate of 85 bpm and blood pressure of 105/60 mmHg. After 1 minute of standing, her
+heart rate is 123 bpm and blood pressure is 97/ 62 mmHg. The rest of the physical exam is unremarkable.
+Case history #2
+A 13-year-old girl presents with a 5-month history of standing intolerance due to palpitations and severe
+dizziness. Her symptoms resolve after lying flat. The patient also reports occasional nausea, bloating,
+and constipation. Her periods started 6 months ago and she also has a history of poor wound healing. On
+examination she has stretch marks on her skin, hyperextensibility, and joint hypermobility. Her supine vital
+signs show her heart rate is 89 bpm and blood pressure is 105/59 mmHg. On standing, her heart rate is
+132 bpm and her blood pressure is 102/65 mmHg.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+DIAGNOSIS
+Approach
+General principles
+Diagnose POTS if a patient has:[1] [2] [3]
+• Frequent symptoms of orthostatic intolerance when standing that:
+• Interfere with daily living activities
+• Improve rapidly when they return to a supine position
+• Have continued for at least 3 months
+and
+• An increase in heart rate by ≥30 bpm (or ≥40 bpm in patients ages 12 to 19 years old) within 10
+minutes of standing from a supine position or head-up tilt (without orthostatic hypotension) that is
+not due to other causes of sinus tachycardia.[1][2] [4]
+In addition, identify any comorbidities commonly associated with POTS, and exclude other differentials.[1]
+History
+Symptoms of orthostatic intolerance include:
+• Palpitations[1][2][3][4]
+• Lightheadedness[1][3][4]
+• Blurred vision[1]
+• Exercise intolerance (which may also be a non-orthostatic feature of POTS)[2][4]
+• Presyncope and syncope[2]
+• Tremor[1][2][4]
+• Generalized weakness[1][2]
+• Fatigue (which may also be a non-orthostatic feature of POTS).[1][2][3][4]
+However, be aware that symptoms of POTS are not limited to changes in posture. Non-orthostatic
+symptoms include:
+• Dyspnea[11] [32][33]
+• Gastrointestinal symptoms such as bloating, nausea, diarrhea, constipation, and abdominal pain[1]
+[2][3][4] [34]
+• Exercise intolerance[1][2][4]
+• Fatigue[1][2][3][4]
+• Headache[1][2][3][4]
+• Sleep disturbance[2][3][4]
+• Cognitive impairment[1][4]
+• Chest pain[1][4]
+• Bladder disturbance.[35] [36]
+Determine the duration of the patient’s symptoms; for a diagnosis of POTS, symptoms should have lasted
+for at least 3 months.[1]
+Ask about risk factors for POTS, which include:
+• Recent viral infection (present in around 50% of patients)[4] [37]
+• Pregnancy[4]
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+• Relevant associated comorbidities, such as migraine headaches, irritable bowel syndrome, Ehlers-
+Danlos syndrome, chronic fatigue syndrome, asthma, fibromyalgia, and autoimmune diseases,
+particularly Hashimoto thyroiditis and celiac disease.[1] [4] [13][38][39] [40]
+Check for features of other conditions that may explain the patient’s symptoms. See Differentials .
+Physical exam
+Check the patient’s heart rate and blood pressure while they are supine and then standing.[2] This is
+known as the 10-minute standing test.
+• The patient’s heart rate will typically increase by ≥30 bpm (or ≥40 bpm in patients ages 12 to
+19 years old) after changing position from supine to standing, with no orthostatic hypotension
+(sustained drop in systolic blood pressure by ≥20 mmHg).[1][2] [3][4]
+• Allow at least 5 minutes of a supine position and at least 1 minute of standing before checking
+orthostatic vital signs.[40] If there is no significant variation in the patient’s heart rate after 1 minute
+of standing, repeat the standing heart rate and blood pressure check at 3, 5, and 10 minutes.[40]
+• Note that changes in heart rate are often not apparent after 1 minute of standing in practice. A
+common mistake is to focus on the changes in heart rate after 1 minute of standing only, rather
+than the full 10 minutes, which can lead to misdiagnosis.
+• Be aware that some patients have hyperadrenergic POTS, and have increased sympathetic
+response and excess circulating catecholamine.[1] [2] Patients with hyperadrenergic POTS will
+have orthostatic hypertension (increase in systolic blood pressure ≥10 mmHg after standing for 10
+minutes).[2]
+Undertake a careful cardiac examination to rule out significant structural heart disease.[1]
+Examine the patient for other associated comorbidities, which include:[1]
+• Ehlers-Danlos syndrome
+• Autoimmune diseases, particularly Hashimoto thyroiditis and celiac disease.
+If the patient has an atypical presentation, examine for neurologic diseases that can sometimes be
+associated with POTS, such as Parkinson disease, multiple sclerosis, and peripheral neuropathy,
+although these are uncommon.[41]
+Initial investigations
+Electrocardiogram
+Perform a 12-lead ECG in all patients, to rule out other causes of a patient’s symptoms.[1][2][4]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+DIAGNOSIS
+ECG showing normal sinus rate and rhythm before the episode
+Cheema MA et al. BMJ Case Rep. 2019 Apr 20;12(4):e227789; used with permission
+ECG showing sinus tachycardia during tilt-table testing
+Cheema MA et al. BMJ Case Rep. 2019 Apr 20;12(4):e227789; used with permission
+Blood tests
+Order tests to rule out other causes of the patient’s presentation, which should include thyroid function
+tests, morning serum cortisol level, and complete blood count.[1][2] [4] [42] In addition, order electrolytes
+to rule out causes such as adrenal insufficiency.[1] [4] In practice, electrolytes should also be checked
+after starting certain pharmacologic treatments for POTS, such as fludrocortisone or desmopressin.
+Other investigations
+Holter monitor
+Consider a 24-hour Holter monitor, which can help confirm the diagnosis by demonstrating the
+association between tachycardia and orthostatic changes.[2] A Holter monitor can also rule out
+supraventricular arrhythmias that may have a similar presentation to POTS.[2]
+Tilt-table test
+Organize a tilt-table test if:
+• The diagnosis is unclear after the initial assessment of orthostatic blood pressure and heart rate
+and you have a high suspicion of POTS.[2] In this scenario, a tilt-table test is helpful because it will
+provide an assessment of vital signs over a greater time period compared with a simple 10-minute
+standing test
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+OR
+• The patient is not able to perform a 10-minute standing test.[1]
+Echocardiogram
+Organize echocardiogram to exclude heart failure as a differential if you suspect this from the history or
+there are signs of ventricular dysfunction found on exam (e.g., pitting edema of the lower extremities,
+distended jugular veins).[2][4]
+Further investigation
+If the patient’s symptoms do not resolve or significantly improve, consider referral to a center experienced
+with the autonomic testing of POTS, where available, to organize further investigation of the underlying
+pathology.[2] However, further investigation should not be performed routinely because the significance
+for patient management and outcome is unclear.[2] Further investigations include: 
+• Supine and upright plasma epinephrine and norepinephrine level[2]
+• Should be considered if hyperadrenergic POTS is suspected.[43]
+• Thermoregulatory sweat test[2]
+• Detects autonomic neuropathy which is associated with POTS.[2]
+• Quantitative sudomotor axon reflex test[42]
+• Should be considered if neuropathic POTS is suspected.[42] Neuropathic POTS is
+associated with peripheral venous pooling and reduced effective intravascular volume, which
+is caused by peripheral sympathetic denervation.[1][2]
+• Valsalva maneuver and deep breathing test with hemodynamic monitoring[2][4]
+• Can detect autonomic dysfunction.[4]
+History and exam
+Key diagnostic factors
+orthostatic tachycardia (common)
+• Check the patient’s heart rate and blood pressure while they are supine and then standing.[2] This is
+known as the 10-minute standing test.
+• • The patient’s heart rate will typically increase by ≥30 bpm (or ≥40 bpm in patients ages 12 to
+19 years old) after changing position from supine to standing, with no orthostatic hypotension
+(sustained drop in systolic blood pressure by ≥20 mmHg).[1][2] [3][4]
+• Allow at least 5 minutes of a supine position and at least 1 minute of standing before checking
+orthostatic vital signs.[40] If there is no significant variation in the patient’s heart rate after 1
+minute of standing, repeat the standing heart rate and blood pressure check at 3, 5, and 10
+minutes.[40]
+• Note that changes in heart rate are often not apparent after 1 minute of standing in practice. A
+common mistake is to focus on the changes in heart rate after 1 minute of standing only, rather
+than the full 10 minutes, which can lead to misdiagnosis.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+DIAGNOSIS
+• Be aware that some patients have hyperadrenergic POTS, and have increased sympathetic
+response and excess circulating catecholamine.[1] [2] Patients with hyperadrenergic POTS will
+have orthostatic hypertension (increase in systolic blood pressure ≥10 mmHg after standing for
+10 minutes).[2]
+orthostatic palpitations (common)
+• A key orthostatic symptom of POTS.[1] [2] [3][4] Orthostatic symptoms of POTS occur when standing
+and improve rapidly when the patient returns to a supine position.[1] [2] A patient with POTS may
+report palpitations even if they have a normal heart rate, particularly if they are taking negative
+chronotropic medications (e.g., beta-blockers, ivabradine). For a diagnosis of POTS, orthostatic
+symptoms should occur frequently and have lasted for at least 3 months.[1]
+presence of risk factors (common)
+• Consider POTS if a patient presents with relevant symptoms and signs and particularly if they have
+any of the following risk factors:
+• • Age 15 to 25 years[2]
+• Female sex[1] [2]
+• Recent viral infection[16]
+• Pregnancy[18]
+• Relevant associated comorbidities, such as migraine headaches, irritable bowel syndrome,
+Ehlers-Danlos syndrome, chronic fatigue syndrome, or autoimmune diseases (particularly
+Hashimoto thyroiditis and celiac disease).[1]
+Other diagnostic factors
+orthostatic lightheadedness (common)
+• An orthostatic symptom of POTS.[1] [3][4] It occurs due to rapid heart rate and hypoperfusion on
+standing. Orthostatic symptoms of POTS occur when standing and improve rapidly when the patient
+returns to a supine position.[1] [2] For a diagnosis of POTS, the patient should also have an increase
+in heart rate by ≥30 bpm within 10 minutes of standing from a supine position or head-up tilt, without
+orthostatic hypotension, and orthostatic symptoms should occur frequently and have lasted for at least
+3 months.[1] [2][4]
+orthostatic blurred vision (common)
+• An orthostatic symptom of POTS.[1] Orthostatic symptoms of POTS occur when standing and improve
+rapidly when the patient returns to a supine position.[1] [2] For a diagnosis of POTS, the patient should
+also have an increase in heart rate by ≥30 bpm within 10 minutes of standing from a supine position
+or head-up tilt, without orthostatic hypotension, and orthostatic symptoms should occur frequently and
+have lasted for at least 3 months.[1] [2][4]
+exercise intolerance (common)
+• Can be an orthostatic or non-orthostatic feature of POTS.[1] [2][4] Postexercise malaise is a frequently
+reported symptom. Orthostatic symptoms of POTS occur when standing and improve rapidly when the
+patient returns to a supine position.[1] [2] For a diagnosis of POTS, the patient should also have an
+increase in heart rate by ≥30 bpm within 10 minutes of standing from a supine position or head-up tilt,
+without orthostatic hypotension, and orthostatic symptoms should occur frequently and have lasted for
+at least 3 months.[1] [2][4]
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+orthostatic presyncope (common)
+• Presyncope is an orthostatic symptom of POTS.[2] It occurs due to rapid heart rate and hypoperfusion
+while standing. Orthostatic symptoms of POTS occur when standing and improve rapidly when the
+patient returns to a supine position.[1] [2] For a diagnosis of POTS, the patient should also have an
+increase in heart rate by ≥30 bpm within 10 minutes of standing from a supine position or head-up tilt,
+without orthostatic hypotension, and orthostatic symptoms should occur frequently and have lasted for
+at least 3 months.[1] [2][4]
+orthostatic tremor (common)
+• Tremor is an orthostatic symptom of POTS.[1][2][4] Orthostatic symptoms of POTS occur when
+standing and improve rapidly when the patient returns to a supine position.[1] [2] For a diagnosis of
+POTS, the patient should also have an increase in heart rate by ≥30 bpm within 10 minutes of standing
+from a supine position or head-up tilt, without orthostatic hypotension, and orthostatic symptoms
+should occur frequently and have lasted for at least 3 months.[1] [2][4]
+orthostatic generalized weakness (common)
+• Generalized weakness is an orthostatic symptom of POTS.[1] [2] Orthostatic symptoms of POTS occur
+when standing and improve rapidly when the patient returns to a supine position.[1] [2] For a diagnosis
+of POTS, the patient should also have an increase in heart rate by ≥30 bpm within 10 minutes of
+standing from a supine position or head-up tilt, without orthostatic hypotension, and orthostatic
+symptoms should occur frequently and have lasted for at least 3 months.[1] [2][4]
+dyspnea (common)
+• A common non-orthostatic feature of POTS, which is mostly associated with dysfunctional
+breathing.[32] Cohort studies suggest that dyspnea may be present in at least 65% of patients with
+POTS.[11] [33]
+orthostatic syncope (uncommon)
+• Syncope is an orthostatic symptom of POTS.[2] It may occur due to excessive tachycardia and
+transient hypoperfusion while standing. Orthostatic symptoms of POTS occur when standing and
+improve rapidly when the patient returns to a supine position.[1] [2] For a diagnosis of POTS, the
+patient should also have an increase in heart rate by ≥30 bpm within 10 minutes of standing from a
+supine position or head-up tilt, without orthostatic hypotension, and orthostatic symptoms should occur
+frequently and have lasted for at least 3 months.[1] [2][4]
+bloating (uncommon)
+• A gastrointestinal feature of POTS.[2] [3][4] Gastrointestinal symptoms are occasionally reported by
+people with POTS and may be due to autonomic dysfunction, or associated irritable bowel disease or
+celiac disease.[34] For a diagnosis of POTS, symptoms should have lasted for at least 3 months.[1]
+nausea (uncommon)
+• A gastrointestinal feature of POTS, which can be accompanied by fainting and migraines.[2] [3]
+[4] Gastrointestinal symptoms are occasionally reported by people with POTS and may be due to
+autonomic dysfunction, or associated irritable bowel disease or celiac disease. For a diagnosis of
+POTS, symptoms should have lasted for at least 3 months.[1]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+DIAGNOSIS
+diarrhea (uncommon)
+• A gastrointestinal feature of POTS.[2] [3][4] Gastrointestinal symptoms are occasionally reported by
+people with POTS and may be due to autonomic dysfunction, or associated irritable bowel disease or
+celiac disease. For a diagnosis of POTS, symptoms should have lasted for at least 3 months.[1]
+constipation (uncommon)
+• A gastrointestinal feature of POTS.[4][34] Gastrointestinal symptoms are occasionally reported by
+people with POTS and may be due to autonomic dysfunction, or associated irritable bowel disease or
+celiac disease. For a diagnosis of POTS, symptoms should have lasted for at least 3 months.[1]
+abdominal pain (uncommon)
+• A gastrointestinal feature of POTS.[2] [3][4] Gastrointestinal symptoms are occasionally reported by
+people with POTS and may be due to autonomic dysfunction, or associated irritable bowel disease or
+celiac disease. For a diagnosis of POTS, symptoms should have lasted for at least 3 months.[1]
+fatigue (uncommon)
+• Can be an orthostatic or non-orthostatic feature of POTS.[1] [2] [3][4] The patient may describe muscle
+fatigue and low energy. Orthostatic symptoms of POTS occur when standing and improve rapidly when
+the patient returns to a supine position.[1] [2] For a diagnosis of POTS, symptoms should have lasted
+for at least 3 months.[1]
+headache (uncommon)
+• A non-orthostatic symptom of POTS.[1] [2] [3][4] For a diagnosis of POTS, symptoms should have
+lasted for at least 3 months.[1]
+sleep disturbance (uncommon)
+• A non-orthostatic symptom of POTS.[2] [3][4] For a diagnosis of POTS, symptoms should have lasted
+for at least 3 months.[1]
+cognitive impairment (uncommon)
+• A non-orthostatic symptom of POTS.[1][4] For a diagnosis of POTS, symptoms should have lasted for
+at least 3 months.[1]
+chest pain (uncommon)
+• Can be an orthostatic or non-orthostatic symptom of POTS.[1][4] For a diagnosis of POTS, symptoms
+should have lasted for at least 3 months.[1]
+bladder disturbance (uncommon)
+• Can be a non-orthostatic feature of POTS.[35] [36] Symptoms can include nocturia and urgency.[36]
+Risk factors
+Strong
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+young age (15 to 25 years)
+• Most patients who present with POTS are typically young women ages 15 to 25 years.[2] [10]
+ However, POTS can occur outside of this age range, although new onset POTS is rare after age 50.[2]
+ Patients <12 years may present with similar symptoms to older patients, particularly if there is a family
+history of POTS.[1] However, POTS remains undefined in patients <12 years and the sensitivity and
+specificity of the heart rate criteria in this age group is not established.[1]
+female sex
+• POTS is more common in women than men and has a female to male ratio of 4:1.[1] [2]
+recent viral infection
+• Many patients with POTS report recent febrile illness, which suggests an autoimmune process may be
+responsible for causing orthostatic symptoms.[1]
+• Pathogens commonly linked to POTS include SARS-CoV-2 and Epstein Barr virus.[16]
+pregnancy
+• Hormonal changes during pregnancy affect peripheral vascular resistance and blood volume, which
+may trigger orthostatic intolerance, particularly early in pregnancy (i.e., the first trimester).[18]
+associated comorbidities
+• The most commonly associated comorbidities are:[1]
+• • Migraine headaches (40%)[4]
+• Irritable bowel syndrome (30%)
+• Ehlers-Danlos syndrome (25%)[4]
+• Chronic fatigue syndrome (21%)[4]
+• Autoimmune diseases (20%), particularly Hashimoto thyroiditis and celiac disease.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+ECG
+• Perform a 12-lead ECG in all patients to rule out other causes of a
+patient’s symptoms.[1] [2][4]
+normal sinus rhythm
+CBC
+• Order CBC to exclude anemia as a potential cause of orthostatic
+tachycardia.[1] [4] See Evaluation of anemia .
+normal
+thyroid function tests
+• Order thyroid function tests (thyroid-stimulating hormone, free
+thyroxine, free triiodothyronine) to exclude hyperthyroidism as a
+differential diagnosis.[1] [4] See Graves disease .
+normal
+electrolytes
+• Order electrolytes to rule out other causes of a patient’s presentation,
+such as adrenal insufficiency.[1] [4] In practice, electrolytes should
+also be checked after starting certain pharmacologic treatments for
+POTS, such as fludrocortisone or desmopressin.
+normal
+morning serum cortisol
+• Order morning serum cortisol level to exclude primary adrenal
+insufficiency (Addison disease) as a differential diagnosis.[4] [44]
+ See Primary adrenal insufficiency .
+normal
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+Other tests to consider
+Test Result
+Holter monitor
+• Consider a 24-hour Holter monitor, which can help confirm the
+diagnosis by demonstrating the association between tachycardia
+and orthostatic changes.[2] A Holter monitor can also rule out
+supraventricular arrhythmias that may have a similar presentation to
+POTS.[2]
+tachycardia induced by
+orthostatic changes;
+no supraventricular
+arrhythmias[2]
+echocardiogram
+• Organize an echocardiogram to exclude heart failure as a differential
+if you suspect this from the history or there are signs of ventricular
+dysfunction found on exam (e.g., pitting edema of the lower
+extremities, distended jugular veins).[2] [4]
+normal
+tilt-table test
+• Organize a tilt-table test if:
+• • The diagnosis is unclear after the initial assessment of
+orthostatic blood pressure and heart rate and you have a high
+suspicion of POTS.[2] In this scenario, a tilt-table test is helpful
+because it will provide an assessment of vital signs over a
+greater time period compared with a simple 10-minute standing
+test.
+OR
+• The patient is not able to perform a 10-minute standing test.[1]
+orthostatic tachycardia
+with changing position
+supine and upright plasma epinephrine and norepinephrine
+levels
+• If the patient’s symptoms do not resolve or significantly improve,
+consider referral to a center experienced with the autonomic testing
+of POTS, where available, to organize further investigation of the
+underlying pathology.[2] This includes supine and upright plasma
+epinephrine and norepinephrine levels, which should be considered if
+hyperadrenergic POTS is suspected.[43] However, this should not be
+performed routinely because the significance for patient management
+and outcome is unclear.[2]
+plasma norepinephrine
+levels ≥600 pg/mL;[43]
+ supine epinephrine
+≥39 pg/mL;[45] upright
+epinephrine ≥75 pg/mL[45]
+thermoregulatory sweat test
+• If the patient’s symptoms do not resolve or significantly improve,
+consider referral to a center experienced with the autonomic testing
+of POTS, where available, to organize further investigation of the
+underlying pathology.[2] This includes a thermoregulatory sweat test,
+which should be considered to detect the autonomic neuropathy
+associated with POTS.[2] However, this should not be performed
+routinely because the significance for patient management and
+outcome is unclear.[2]
+abnormal patterns of
+body sweating
+quantitative sudomotor axon reflex test
+• If the patient’s symptoms do not resolve or significantly improve,
+consider referral to a center experienced with the autonomic testing
+of POTS, where available, to organize further investigation of the
+underlying pathology.[2] This includes a quantitative sudomotor axon
+reflex test if neuropathic POTS is suspected.[42] Neuropathic POTS
+is associated with peripheral venous pooling and reduced effective
+intravascular volume, which is caused by peripheral sympathetic
+abnormal postganglionic
+sympathetic sudomotor
+function[42]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+DIAGNOSIS
+Test Result
+denervation.[1] [2] However, quantitative sudomotor axon reflex
+test should not be performed routinely because the significance for
+patient management and outcome is unclear.[2]
+valsalva maneuver
+• If the patient’s symptoms do not resolve or significantly improve,
+consider referral to a center experienced with the autonomic testing
+of POTS, where available, to organize further investigation of the
+underlying pathology.[2] This includes the Valsalva maneuver with
+hemodynamic monitoring, which can detect autonomic dysfunction.[2]
+[4] However, this should not be performed routinely because the
+significance for patient management and outcome is unclear.[2]
+excessive increase in
+blood pressure at the
+end of the maneuver
+if the patient has
+hyperadrenergic POTS[4]
+deep breathing test
+• If the patient’s symptoms do not resolve or significantly improve,
+consider referral to a center experienced with the autonomic testing
+of POTS, where available, to organize further investigation of the
+underlying pathology.[2] This includes the deep breathing test with
+hemodynamic monitoring, which can detect autonomic dysfunction.[4]
+ However, this should not be performed routinely because the
+significance for patient management and outcome is unclear.[2]
+preserved vagal function
+is often found in POTS,
+demonstrated by the
+sinus arrhythmia ratio
+in response to deep
+breathing[4]
+exercise testing
+• Formal cardiopulmonary exercise testing can be useful as a measure
+of exercise capacity, which is often reduced in patients with POTS.
+exercise capacity
+baseline; often reduced in
+patients with POTS
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+anemia • History of menorrhagia,
+pallor on examination.
+• CBC will show low
+hemoglobin and hematocrit.
+supraventricular
+arrhythmias
+• Examples include
+atrioventricular nodal
+reentrant tachycardia, atrial
+tachycardia, atrial flutter.
+• Symptoms may occur at rest
+or exertion, rather than by
+change in posture.
+• Holter monitor will show
+ventricular rate >100 bpm
+with a narrow QRS complex
+(QRS width <120 ms) that
+is unrelated to posture.[46]
+ However, more prolonged
+cardiac monitoring (4 weeks
+event monitor or loop
+recorder) is occasionally
+needed.
+heart failure • May have a history of
+dyspnea (and possibly
+orthopnea and paroxysmal
+nocturnal dyspnea).
+• Examination may show
+pitting edema of the lower
+extremities and distended
+jugular veins.
+• Elevated B-type natriuretic
+peptide (BNP)/N-terminal
+pro-brain natriuretic peptide
+(NT-pro-BNP) levels.
+• Chest x-ray may show
+cardiomegaly, pulmonary
+edema, pleural effusion.
+• Echocardiogram will show
+depressed and dilated left
+and/or right ventricle with
+low ejection fraction if there
+is systolic heart failure,
+and normal left ventricular
+ejection fraction but left
+ventricular hypertrophy and
+abnormal diastolic filling
+patterns if there is diastolic
+heart failure.
+hyperthyroidism • Clinical features include
+weight loss, anxiety,
+insomnia, and amenorrhea.
+• Low thyroid-stimulating
+hormone and elevated or
+normal free thyroxine and
+free triiodothyronine.
+primary adrenal
+insufficiency (Addison
+disease)
+• Clinical features
+include weight loss,
+myalgias, generalized
+weakness associated
+with mucocutaneous
+hyperpigmentation, and salt
+craving.
+• Low morning cortisol
+level.[47]
+• Elevated plasma
+adrenocorticotropic hormone
+level.[48] [49]
+pheochromocytoma • Clinical features include
+palpitations, sustained or
+paroxysmal hypertension
+(with associated
+hypertensive retinopathy if
+• Elevated urinary
+catecholamines,
+metanephrines, and
+normetanephrines.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+uncontrolled), diaphoresis,
+and pallor.
+• Elevated serum free
+metanephrines and
+normetanephrines.
+• Plasma catecholamines may
+be elevated.
+inappropriate sinus
+tachycardia
+• On examination, there will
+be resting tachycardia with
+heart rate >100 bpm that
+is unrelated to change in
+posture.
+• Holter monitor will show
+resting sinus tachycardia
+with heart rate >100 bpm
+for large periods of time that
+is unrelated to change in
+posture.
+drugs • Medications that may mimic
+POTS include stimulants
+(e.g., medications for
+attention deficit disorder),
+alpha-adrenergic blockers,
+high doses of beta-blockers
+(note that low doses of
+beta-blockers can be
+beneficial), calcium-
+channel blockers, serotonin-
+norepinephrine reuptake
+inhibitors, monoamine
+oxidase inhibitors, tricyclic
+antidepressants, and
+phenothiazines.[4]
+• Misuse of certain
+recreational drugs can also
+mimic or exacerbate POTS,
+which include cocaine and
+methamphetamines.[1] [2]
+[4]
+• Clinical diagnosis.
+anorexia nervosa • Clinical features include
+low body mass index, fear
+of gaining weight, food
+restriction, disturbed body
+image, amenorrhea, suicidal
+ideation, binge eating and/
+or purging, bradycardia,
+hypothermia, hair loss,
+muscle wasting, and signs
+of cardiomyopathy. There
+may be comorbid psychiatric
+disorders, and the history
+may be denied by the
+patient.
+• CBC may show anemia,
+mild leukopenia, or
+thrombocytopenia.
+• Basic metabolic panel may
+be deranged.
+• Serum glucose level may
+show hypoglycemia.
+• Serum creatinine level
+is generally low due to
+decreased muscle mass
+but may be elevated if renal
+failure is present.
+• Thyroid function tests may
+show low triiodothyronine,
+but thyroxine and thyroid-
+stimulating hormone are
+typically normal.
+• Liver function tests may be
+elevated.
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+anxiety disorder • History of chronic, excessive
+anxiety and worry about
+a number of events or
+activities for at least 6
+months, which causes
+distress and impairment.[50]
+ In adults, at least three key
+symptoms out of a possible
+six are required to make
+a diagnosis (only one is
+required in children).[50]
+• Clinical diagnosis.
+pain • History of pain. Associated
+symptoms may be present,
+depending on the location
+and cause of the pain, and
+whether this is acute or
+chronic.
+• Clinical diagnosis.
+infection • Clinical features depend on
+the severity and source of
+the infection (e.g., purulent
+sputum and dyspnea
+with pneumonia, macular
+erythema with tenderness,
+warmth, and edema with
+cellulitis).
+• Suspect sepsis if there is
+acute deterioration in a
+patient in whom there is
+clinical evidence or strong
+suspicion of infection.[51]
+ Take into account that
+people with sepsis may have
+nonspecific, nonlocalised
+presentations, such as
+feeling very unwell, and
+may not have a high
+temperature.[51]
+• Other investigations,
+depending on the underlying
+cause, may show source
+of infection (e.g., new
+infiltrate on chest x-ray with
+pneumonia).
+dehydration • Clinical features include
+thirst, weak pulse, dry
+mucous membranes, and
+decreased skin turgor.
+Other features depend
+on the underlying cause
+(e.g., decreased oral
+intake, vomiting and
+diarrhea, profound sweating,
+diabetic ketoacidosis or
+hyperosmolar hyperglycemic
+state).
+• Blood tests may show
+elevated BUN and
+creatinine.
+• ECG may show
+sinus tachycardia, or
+tachyarrhythmia.
+• Urinalysis may show high
+specific gravity.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Postural orthostatic tachycardia syndrome Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+severe deconditioning
+caused by prolonged bed
+rest
+• History of prolonged bed
+rest.
+• Clinical diagnosis.
+mastocytosis • Acquired solitary or
+widespread cutaneous
+eruption, lesion periodically
+urticates and blisters then
+returns to original form.
+Lesions are typically 5 mm
+to 15 mm papules, yellow-
+brown to yellow-red in color.
+There is typically edema,
+urtication, and vesicle
+and bullae formation, with
+urticaria surrounding an
+erythematous flare when
+rubbed (Darier sign).
+• Skin scraping from base of
+bullae demonstrates mast
+cells (Giemsa or Wright
+stain).
+systemic lupus
+erythematosus
+• Malar (butterfly),
+photosensitive, or discoid
+rash can be present.
+Constitutional symptoms
+such as weight loss
+and fever are common.
+There may be prominent
+arthralgia and myalgia out of
+proportion to joint findings.
+• Antinuclear antibodies will be
+positive.
+Sjogren syndrome • Dry eyes and dry mouth are
+common key features.
+• Positive anti-60 kD (SS-A)
+Ro and anti-La (SS-B).
+Criteria
+In order to diagnose POTS in a patient ages 12 years or older, all of the following criteria must be met:[1] [2]
+• Sustained increase in heart rate of ≥30 bpm (or ≥40 bpm if ages 12 to 19 years) within 10 minutes of
+standing from a supine position or head-up tilt[1] [4]
+• No orthostatic hypotension (i.e., no sustained drop in systolic blood pressure of ≥20 mmHg)[1][4]
+• Frequent symptoms of orthostatic intolerance during standing, with rapid improvement upon return to
+a supine position; symptoms may include lightheadedness, palpitations, tremulousness, generalized
+weakness, blurred vision, and fatigue[1][4]
+• Duration of symptoms for at least 3 months, which interfere with daily living activities[1][4]
+• No other causes for sinus tachycardia identified (e.g., anorexia nervosa, primary anxiety disorders,
+hyperventilation, anemia, fever, pain, infection, dehydration, hyperthyroidism, pheochromocytoma, use
+of cardioactive drugs [e.g., sympathomimetics, anticholinergics], or severe deconditioning caused by
+prolonged bed rest).[1]
+Be aware that POTS remains undefined in patients <12 years old.[1]
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Postural orthostatic tachycardia syndrome Management
+Approach
+The goal of therapeutic interventions for POTS is to improve symptoms by:[1]
+• Expanding intravascular volume
+• Reducing peripheral venous pooling
+• Exerting a negative chronotropic effect and lowering heart rate.
+A multidisciplinary approach is important to manage the widespread symptoms of POTS.[4]
+Avoidance of triggers and lifestyle modifications is the first management step for all patients, before
+pharmacologic therapy if symptoms persist.[1] [2] Note that these treatments are for management of
+orthostatic symptoms of POTS. Offer symptomatic relief of any associated non-orthostatic symptoms (e.g.,
+gastrointestinal symptoms) and involve other specialties as necessary, because these will not usually
+respond to the standard treatments for POTS.
+It is reasonable to treat children with the same interventions that are recommended for adults, with a focus
+on promoting salt and fluid intake, physical counterpressure techniques, and reassurance to the patient
+and their families.[2] However, erythropoietin, modafinil, octreotide, and beta-blockers are only used on rare
+occasions under specialist guidance, and bupropion and droxidopa are not recommended in children.
+In pregnancy, avoid pharmacologic therapy where possible and check the safety of specific drugs
+carefully.[53] In particular, note that ivabradine is not recommended in pregnancy as it may cause fetal harm.
+Managing the symptoms of POTS is key because they can significantly compromise a patient’s quality of life,
+and negatively impact their ability to advance in their education and career.[1] [8] In general, there is a lack
+of medium- or long-term evidence for effective treatments for patients with POTS, particularly children, and
+managing symptoms can be challenging.[2] [4] However, some evidence is emerging for certain treatments,
+particularly ivabradine, increasing salt intake, and compression.[54] [55][56] [57] [58] [59] [60]
+Avoidance of triggers
+Advise the patient to avoid triggers for POTS symptoms.[4] These triggers include:
+• Exposure to excessive heat[2]
+• Prolonged standing[2]
+• Medications that exacerbate intravascular depletion (e.g., diuretics), afterload reduction (e.g.,
+ACE inhibitors, angiotensin-II receptor antagonists), or sinus and orthostatic tachycardia (e.g.,
+norepinephrine reuptake inhibitors such as atomoxetine)[1] [2] [4]
+• Excessive alcohol intake and exercise[1] [2]
+• Recreational drugs (e.g., cocaine, methamphetamines).[61]
+Lifestyle modifications and management of comorbidities
+In addition to avoiding triggers, advise the patient to make the following lifestyle modifications:
+• Increase intake of water and salt to optimize intravascular volume.[1] [2] [4] [59]
+• Advise the patient to aim to consume at least 2 to 3 liters of water and up to 10 g of salt
+every day (1 teaspoon of salt is approximately equivalent to 2.3 g).[1] [2] [4] [59] However,
+in practice, increased salt intake is an inappropriate treatment for certain patients, such as
+those with hypertension, or kidney or cardiovascular disease.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Postural orthostatic tachycardia syndrome Management
+MANAGEMENT
+• Use waist-high compression stockings with an abdominal binder to reduce venous pooling in their
+lower extremities and splanchnic circulation.[1] [2] [60]
+• If this is not tolerated, the patient could use waist-high compressions without abdominal
+binder or an abdominal binder alone.[1][4] [62]
+• Undertake graded exercise training.[1] [2] [4]
+• Advise the patient to start with supine progressive aerobic and leg resistance training then
+progress to upright exercises (e.g., rowing machines and static exercise bikes).[1] [2]
+• However, be aware that some patients won’t tolerate graded exercise training until
+pharmacologic therapy has been started and adequate symptom control is achieved.[63] In
+practice, if a patient can’t tolerate graded exercise training as a first-line nonpharmacologic
+approach, reattempt this after starting pharmacologic treatment.
+• Physical counterpressure techniques (in children).[2]
+Ensure any comorbidities are managed appropriately.[4] Treat any additional features, such as poor
+mental health, disturbed sleep, and headache, to improve the patient’s overall level of functioning and
+quality of life.
+Initial pharmacologic treatment
+Start pharmacologic treatment if the patient’s symptoms persist despite nonpharmacologic measures.
+• Be aware that there are no medications that have been approved for the treatment of POTS.
+• Medication can be given as monotherapy, but a combination of medications is usually required.
+Concomitant use of beta-blockers and clonidine is usually avoided. If these drugs are used
+together, monitor heart rate and blood pressure.
+• Non-orthostatic symptoms (e.g., gastrointestinal symptoms) do not usually improve with these
+pharmacologic treatments, so further symptomatic relief and involvement of other specialties as
+appropriate may also be required in practice.
+Target pharmacologic treatment to manage the patient’s specific symptoms associated with POTS.[2]
+These include:
+• Intravascular volume expansion:
+• Options include fludrocortisone or desmopressin.[2] [4] [64][65] [66]
+• Note that evidence for efficacy of fludrocortisone for POTS is limited, but some
+trials have shown it can be effective for vasovagal syncope.[1] [2] [64] Ensure that
+patients are on a high sodium diet and that their potassium level is monitored.[1]
+Pharmacodynamic effects of fludrocortisone may only last 1 to 2 days.[2]
+• A small randomized crossover study showed that desmopressin improved tachycardia
+and POTS symptoms in adult patients.[66]
+• Reduction of peripheral venous pooling:
+• Midodrine is an option.[2] [56] [57] Some small studies have shown benefit in patients with
+POTS, particularly if they have neuropathic POTS, and also for vasovagal syncope.[56] [57]
+[58]
+• Exertion of a negative chronotropic effect and lowering of heart rate:
+• Options include beta-blockers or ivabradine.[1] [2] [4] [67] These drugs are preferred in
+patients with hyperadrenergic POTS. 
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Postural orthostatic tachycardia syndrome Management
+• A recent clinical trial found no difference in efficacy between the beta-blockers propranolol
+and bisoprolol.[68] In practice, labetalol is generally avoided as a standard treatment for
+POTS, except for patients with hyperadrenergic POTS. Labetalol is safe to use in pregnancy. 
+• Some evidence shows that ivabradine is an effective treatment for POTS, and lowers heart
+rate without affecting blood pressure.[54] [69] However, note that it is not recommended in
+pregnancy as it may cause fetal harm.
+• Neuroenhancement:
+• Pyridostigmine is an option.[2] [70] [71] In practice, this may also be useful if the patient is
+experiencing constipation as a predominant non-orthostatic symptom of POTS.
+• Treatment of prominent hyperadrenergic features:
+• Clonidine is an option.[2] [4]
+• Treatment of fatigue and cognitive dysfunction:
+• Modafinil is an option.[2]
+Salvage therapy for refractory symptoms
+If a patient’s symptoms do not improve with initial pharmacotherapy, they may benefit from adding one of
+the following treatments for salvage therapy:
+• Bupropion (but be aware that this should not be used in children because it can increase the risk of
+suicidal thoughts)[72]
+• Erythropoietin (epoetin alfa)[73] [74]
+• Octreotide [74] [75]
+• Droxidopa (not recommended in children)[74] [76]
+• Intermittent intravenous saline infusion[2] [4] [77]
+• Intravenous saline may be useful for patients who are clinically decompensated with
+worsening symptoms.[2]
+• However, regular or long-term infusions are not recommended, because insertion of a
+chronic central venous catheter is usually required, which puts the patient at risk of catheter-
+related complications.[2]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Postural orthostatic tachycardia syndrome Management
+MANAGEMENT
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+all patients
+1st avoidance of triggers
+plus lifestyle modifications and management
+of comorbidities
+2nd pharmacologic treatment
+plus avoidance of triggers
+plus lifestyle modifications and management
+of comorbidities
+3rd salvage therapy
+plus avoidance of triggers
+plus lifestyle modifications and management
+of comorbidities
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Postural orthostatic tachycardia syndrome Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+all patients
+1st avoidance of triggers
+» A multidisciplinary approach is important to
+manage the widespread symptoms of POTS.[4]
+» Advise the patient to avoid triggers for POTS
+symptoms.[4] These triggers include:
+• Exposure to excessive heat[2]
+• Prolonged standing[2]
+• Medications that exacerbate intravascular
+depletion (e.g., diuretics), afterload
+reduction (e.g., ACE inhibitors,
+angiotensin-II receptor antagonists), or
+sinus and orthostatic tachycardia (e.g.,
+norepinephrine reuptake inhibitors such as
+atomoxetine)[1] [2] [4]
+• Excessive alcohol intake and exercise[1]
+[2]
+• Recreational drugs (e.g., cocaine,
+methamphetamines).[61]
+plus lifestyle modifications and management
+of comorbidities
+Treatment recommended for ALL patients in
+selected patient group
+» In addition to avoiding triggers, advise
+the patient to make the following lifestyle
+modifications:
+• Increase intake of water and salt to
+optimize intravascular volume.[1] [2] [4]
+[59] Advise the patient to aim to consume
+at least 2 to 3 liters of water and up to 10
+g of salt every day (1 teaspoon of salt is
+approximately equivalent to 2.3 g).[1] [2]
+[4] [59] However, in practice, increased
+salt intake is an inappropriate treatment
+for certain patients, such as those with
+hypertension, or kidney or cardiovascular
+disease.
+• Use waist-high compression stockings
+with an abdominal binder to reduce
+venous pooling in their lower extremities
+and splanchnic circulation.[1] [2] [60] If
+this is not tolerated, the patient could
+use waist-high compressions without
+abdominal binder or an abdominal binder
+alone.[1][4] [62]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Postural orthostatic tachycardia syndrome Management
+MANAGEMENT
+Acute
+• Undertake graded exercise training.[1] [2]
+[4] Advise the patient to start with supine
+progressive aerobic and leg resistance
+training then progress to upright exercises
+(e.g., rowing machines and static exercise
+bikes).[1] [2] However, be aware that some
+patients won’t tolerate graded exercise
+training until pharmacologic therapy has
+been started and adequate symptom
+control is achieved.[63] In practice, if a
+patient can’t tolerate graded exercise
+training as a first-line nonpharmacologic
+approach, reattempt this after starting
+pharmacologic treatment.
+• Physical counterpressure techniques (in
+children).[2]
+» Ensure any comorbidities are managed
+appropriately.[4] Treat any additional features,
+such as poor mental health, disturbed sleep, and
+headache, to improve the patient’s overall level
+of functioning and quality of life.
+2nd pharmacologic treatment
+Primary options
+» fludrocortisone: children: consult specialist
+for guidance on dose; adults: 0.1 to 0.2 mg
+orally once daily
+-or-
+» desmopressin: children: consult specialist
+for guidance on dose; adults: 0.1 to 0.2 mg
+orally once daily
+--AND/OR--
+» midodrine: children: consult specialist for
+guidance on dose; adults: 2.5 to 15 mg orally
+once to three times daily
+--AND/OR--
+» bisoprolol: children: consult specialist for
+guidance on dose; adults: 2.5 to 5 mg orally
+once daily
+-or-
+» propranolol hydrochloride: children: consult
+specialist for guidance on dose; adults: 10-20
+mg orally (immediate-release) up to four
+times daily
+-or-
+» labetalol: children: consult specialist for
+guidance on dose; adults: 100-200 mg orally
+twice daily
+-or-
+» ivabradine: children: consult specialist for
+guidance on dose; adults: 2.5 to 7.5 mg orally
+twice daily
+--AND/OR--
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Postural orthostatic tachycardia syndrome Management
+Acute
+» pyridostigmine: children: consult specialist
+for guidance on dose; adults: 30-60 mg orally
+once to three times daily
+--AND/OR--
+» clonidine: children: consult specialist for
+guidance on dose; adults: 0.1 to 0.3 mg orally
+twice daily
+--AND/OR--
+» modafinil: children: consult specialist for
+guidance on dose; adults: 50-200 mg orally
+once or twice daily
+» A multidisciplinary approach is important to
+manage the widespread symptoms of POTS.[4]
+» Start pharmacologic treatment if the patient’s
+symptoms persist despite nonpharmacologic
+measures.
+• Be aware that there are no medications
+that have been approved for the treatment
+of POTS.
+• Medication can be given as monotherapy,
+but a combination of medications is
+usually required.
+• In pregnancy, avoid pharmacologic
+therapy where possible and check the
+safety of specific drugs carefully.[53]
+ In particular, note that ivabradine is not
+recommended in pregnancy as it may
+cause fetal harm.
+• It is reasonable to treat children
+with the same interventions that are
+recommended for adults, with a focus
+on promoting salt and fluid intake,
+physical counterpressure techniques,
+and reassurance to the patient and their
+families.[2] Pharmacologic treatment
+may be used. However, erythropoietin,
+modafinil, octreotide, and beta-blockers
+are only used on rare occasions under
+specialist guidance.
+• Non-orthostatic symptoms (e.g.,
+gastrointestinal symptoms) do not usually
+improve with these pharmacologic
+treatments, so further symptomatic relief
+and involvement of other specialties
+as appropriate may also be required in
+practice.
+» Target pharmacologic treatment to manage
+the patient’s specific symptoms associated with
+POTS.[2] These include the following:
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Postural orthostatic tachycardia syndrome Management
+MANAGEMENT
+Acute
+» Intravascular volume expansion:
+• Options include fludrocortisone or
+desmopressin.[2] [4] [64][65] [66]
+• Note that evidence for efficacy of
+fludrocortisone for POTS is limited,
+but some trials have shown it can be
+effective for vasovagal syncope.[1] [2]
+[64] Ensure that patients are on a high
+sodium diet and that their potassium level
+is monitored.[1] Pharmacodynamic effects
+of fludrocortisone may only last 1 to 2
+days.[2]
+• A small randomized crossover study
+showed that desmopressin improved
+tachycardia and POTS symptoms in adult
+patients.[66]
+» Reduction of peripheral venous pooling:
+• Midodrine is an option.[2] [56] [57] Some
+small studies have shown benefit in
+patients with POTS, particularly if they
+have neuropathic POTS, and also for
+vasovagal syncope.[56] [57] [58]
+» Exertion of a negative chronotropic effect and
+lowering of heart rate:
+• Options include beta-blockers or
+ivabradine.[1] [2] [4] [67] These drugs are
+preferred in patients with hyperadrenergic
+POTS. 
+• A recent clinical trial found no difference
+in efficacy between the beta-blockers
+propranolol and bisoprolol.[68] In practice,
+labetalol is generally avoided as a
+standard treatment for POTS, except for
+patients with hyperadrenergic POTS.
+Labetalol is safe to use in pregnancy. 
+• Some evidence shows that ivabradine
+is an effective treatment for POTS, and
+lowers heart rate without affecting blood
+pressure.[54] [69] However, note that it is
+not recommended in pregnancy as it may
+cause fetal harm.
+» Neuroenhancement:
+• Pyridostigmine is an option.[2] [70] [71]
+ In practice, this may also be useful if the
+patient is experiencing constipation as a
+predominant non-orthostatic symptom of
+POTS.
+» Treatment of prominent hyperadrenergic
+features:
+• Clonidine is an option.[2] [4]
+» Treatment of fatigue and cognitive dysfunction:
+• Modafinil is an option.[2]
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Postural orthostatic tachycardia syndrome Management
+Acute
+» These drug options may be used alone
+or in combination depending on the clinical
+presentation. Concomitant use of beta-blockers
+and clonidine is usually avoided. If these drugs
+are used together, monitor heart rate and blood
+pressure.
+plus avoidance of triggers
+Treatment recommended for ALL patients in
+selected patient group
+» Advise the patient to avoid triggers for POTS
+symptoms.[4] These triggers include:
+• Exposure to excessive heat[2]
+• Prolonged standing[2]
+• Medications that exacerbate intravascular
+depletion (e.g., diuretics), afterload
+reduction (e.g., ACE inhibitors,
+angiotensin-II receptor antagonists), or
+sinus and orthostatic tachycardia (e.g.,
+norepinephrine reuptake inhibitors such as
+atomoxetine)[1] [2] [4]
+• Excessive alcohol intake and exercise[1]
+[2]
+• Recreational drugs (e.g., cocaine,
+methamphetamines).[61]
+plus lifestyle modifications and management
+of comorbidities
+Treatment recommended for ALL patients in
+selected patient group
+» In addition to avoiding triggers, advise
+the patient to make the following lifestyle
+modifications:
+• Increase intake of water and salt to
+optimize intravascular volume.[1] [2] [4]
+[59] Advise the patient to aim to consume
+at least 2 to 3 liters of water and up to 10
+g of salt every day (1 teaspoon of salt is
+approximately equivalent to 2.3 g).[1] [2]
+[4] [59] However, in practice, increased
+salt intake is an inappropriate treatment
+for certain patients, such as those with
+hypertension, or kidney or cardiovascular
+disease.
+• Use waist-high compression stockings
+with an abdominal binder to reduce
+venous pooling in their lower extremities
+and splanchnic circulation.[1] [2] [60] If
+this is not tolerated, the patient could
+use waist-high compressions without
+abdominal binder or an abdominal binder
+alone.[1][4] [62]
+• Undertake graded exercise training.[1] [2]
+[4] Advise the patient to start with supine
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Postural orthostatic tachycardia syndrome Management
+MANAGEMENT
+Acute
+progressive aerobic and leg resistance
+training then progress to upright exercises
+(e.g., rowing machines and static exercise
+bikes).[1] [2] However, be aware that some
+patients won’t tolerate graded exercise
+training until pharmacologic therapy has
+been started and adequate symptom
+control is achieved.[63] In practice, if a
+patient can’t tolerate graded exercise
+training as a first-line nonpharmacologic
+approach, reattempt this after starting
+pharmacologic treatment.
+• Physical counterpressure techniques (in
+children).[2]
+» Ensure any comorbidities are managed
+appropriately.[4] Treat any additional features,
+such as poor mental health, disturbed sleep, and
+headache, to improve the patient’s overall level
+of functioning and quality of life.
+3rd salvage therapy
+Primary options
+» bupropion hydrochloride: adults: 150-300
+mg orally (extended-release) once daily
+OR
+» epoetin alfa: children: consult specialist for
+guidance on dose; adults: 10,000 to 20,000
+units subcutaneously once weekly
+OR
+» octreotide: children: consult specialist for
+guidance on dose; adults: 50-200 micrograms
+subcutaneously three times daily
+OR
+» droxidopa: adults: 100-600 mg orally three
+times daily
+» A multidisciplinary approach is important to
+manage the widespread symptoms of POTS.[4]
+» If a patient’s symptoms do not improve with
+initial pharmacotherapy, they may benefit from
+adding one of the following treatments for
+salvage therapy:
+• Bupropion (but be aware that this should
+not be used in children because it can
+increase the risk of suicidal thoughts)[72]
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Postural orthostatic tachycardia syndrome Management
+Acute
+• Erythropoietin (epoetin alfa) (only used
+on rare occasions in children and under
+specialist guidance)[73] [74]
+• Octreotide (only used on rare occasions
+in children and under specialist
+guidance)[74] [75]
+• Droxidopa (not recommended in
+children)[74] [76]
+• Intermittent intravenous saline infusion.[2]
+[4] [77] Intravenous saline may be
+useful for patients who are clinically
+decompensated with worsening
+symptoms.[2] However, regular or long-
+term infusions are not recommended,
+because insertion of a chronic central
+venous catheter is usually required, which
+puts the patient at risk of catheter-related
+complications.[2]
+» Patients should continue on their initial
+pharmacologic treatment (see above).
+plus avoidance of triggers
+Treatment recommended for ALL patients in
+selected patient group
+» Advise the patient to avoid triggers for POTS
+symptoms.[4] These triggers include:
+• Exposure to excessive heat[2]
+• Prolonged standing[2]
+• Medications that exacerbate intravascular
+depletion (e.g., diuretics), afterload
+reduction (e.g., ACE inhibitors,
+angiotensin-II receptor antagonists), or
+sinus and orthostatic tachycardia (e.g.,
+norepinephrine reuptake inhibitors such as
+atomoxetine)[1] [2] [4]
+• Excessive alcohol intake and exercise[1]
+[2]
+• Recreational drugs (e.g., cocaine,
+methamphetamines).[61]
+plus lifestyle modifications and management
+of comorbidities
+Treatment recommended for ALL patients in
+selected patient group
+» In addition to avoiding triggers, advise
+the patient to make the following lifestyle
+modifications:
+• Increase intake of water and salt to
+optimize intravascular volume.[1] [2] [4]
+[59] Advise the patient to aim to consume
+at least 2 to 3 liters of water and up to 10
+g of salt every day (1 teaspoon of salt is
+approximately equivalent to 2.3 g).[1] [2]
+[4] [59] However, in practice, increased
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Postural orthostatic tachycardia syndrome Management
+MANAGEMENT
+Acute
+salt intake is an inappropriate treatment
+for certain patients, such as those with
+hypertension, or kidney or cardiovascular
+disease.
+• Use waist-high compression stockings
+with an abdominal binder to reduce
+venous pooling in their lower extremities
+and splanchnic circulation.[1] [2] [60] If
+this is not tolerated, the patient could
+use waist-high compressions without
+abdominal binder or an abdominal binder
+alone.[1][4] [62]
+• Undertake graded exercise training.[1] [2]
+[4] Advise the patient to start with supine
+progressive aerobic and leg resistance
+training then progress to upright exercises
+(e.g., rowing machines and static exercise
+bikes).[1] [2] However, be aware that some
+patients won’t tolerate graded exercise
+training until pharmacologic therapy has
+been started and adequate symptom
+control is achieved.[63] In practice, if a
+patient can’t tolerate graded exercise
+training as a first-line nonpharmacologic
+approach, reattempt this after starting
+pharmacologic treatment.
+• Physical counterpressure techniques (in
+children).[2]
+» Ensure any comorbidities are managed
+appropriately.[4] Treat any additional features,
+such as poor mental health, disturbed sleep, and
+headache, to improve the patient’s overall level
+of functioning and quality of life.
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Postural orthostatic tachycardia syndrome Management
+Emerging
+Intravenous immune globulin (IVIG)
+Some low-quality evidence has shown that IVIG may be beneficial for patients with refractory POTS by
+neutralizing pathogenic autoantibodies.[1] [78] [79] [80]
+Secondary prevention
+To prevent flares or recurrence of POTS symptoms, advise patients to continue to avoid triggers and
+undertake appropriate lifestyle medications.[4] See Patient discussions .
+Patient discussions
+Advise all patients to:
+• Avoid exposure to extreme heat, prolonged standing, medications that exacerbate intravascular
+depletion (e.g., diuretics) or sinus and orthostatic tachycardia (e.g., norepinephrine reuptake
+inhibitors such as atomoxetine), afterload reduction medications (e.g., ACE inhibitors, angiotensin-
+II receptor antagonists), excessive alcohol and exercise, and recreational drugs (e.g., cocaine,
+methamphetamines).[1] [2] [4] [61]
+• Drink at least 2 to 3 liters of water per day.[1] [2]
+• Increase their salt intake up to 10 g per day (1 teaspoon of salt is approximately equivalent to 2.3
+g).[1] [2] [4] [59] However, in practice, increased salt intake is an inappropriate treatment for certain
+patients, such as those with hypertension, or kidney or cardiovascular disease.
+• Use waist-high compression stockings and/or an abdominal binder to reduce venous pooling in
+their lower extremities and splanchnic circulation.[1] [2] [60]
+• Undertake graded exercise training, starting with supine progressive aerobic and leg resistance
+training then progressing to upright exercises.[1] [2] [4]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Postural orthostatic tachycardia syndrome Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+In the absence of robust evidence, monitoring in POTS is based on clinical practice, which may vary
+between organizations; check your local protocols.
+Organize a follow-up appointment 8 weeks after starting nonpharmacologic measures, or starting or
+changing pharmacologic treatment.
+Check:
+• Electrolytes at 1 week, and 1 month following initiation of fludrocortisone or desmopressin
+• CBC after 1 week, and then monthly after starting erythropoietin.
+Consider loop recorder implantation for certain patients. The purpose of loop recorder implantation is to
+look for causes of a patient’s symptoms other than POTS, and to monitor the patient for bradycardia or
+sinus pauses if the patient has syncope. Therefore, schedule loop recorder implantation if the patient:
+• Has ongoing symptoms that do not respond to treatment
+• Reports symptoms suggestive of supraventricular tachycardia or frequent syncope, without an
+identifiable cardiac rhythm abnormality on an event monitor.
+Consider 24-hour urinary sodium to assess for hypovolemia if the patient is not responding to treatment or
+supplemental salt intake is suspected to be suboptimal.[4]
+Complications
+Complications Timeframe Likelihood
+negative impact on daily life long term high
+Symptoms of POTS have a significant negative impact on a patient’s daily life, including:[1][8]
+• Decreased ability to participate in education and work
+• Reduced quality of life.
+adverse effects of high salt intake variable low
+Adverse effects of high salt intake, which is a treatment for POTS, include gastrointestinal upset,
+hypertension, and edema.[74]
+Prognosis
+POTS is not associated with increased mortality compared with the general population.[2]
+Around two-thirds of patients on pharmacologic treatment will experience an overall improvement in their
+symptoms, and orthostatic symptoms tend to improve as the patient gets older.[8]
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Postural orthostatic tachycardia syndrome Follow up
+The intensity of POTS symptoms commonly fluctuates. A flare in symptoms can be triggered by infections
+such as upper respiratory and urinary tract infections.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Postural orthostatic tachycardia syndrome Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+Position statement on postural orthostatic tachycardia syndrome (POTS) and
+related disorders of chronic orthostatic intolerance (https://ccs.ca/guidelines-
+and-position-statement-library)   [4]
+Published by: Canadian Cardiovascular Society Last published: 2020
+Guideline for the evaluation and management of patients with syncope
+ (https://www.acc.org/guidelines)   [3]
+Published by: American College of Cardiology; American Heart
+Association; Heart Rhythm Society
+Last published: 2017
+Expert consensus statement on the diagnosis and treatment of postural
+tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal
+syncope (https://www.hrsonline.org/guidance/clinical-resources)   [2]
+Published by: Heart Rhythm Society Last published: 2015
+Guidelines for diagnosis and management of syncope (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [52]
+Published by: European Society of Cardiology Last published: 2018
+Treatment guidelines
+International
+Position statement on postural orthostatic tachycardia syndrome (POTS) and
+related disorders of chronic orthostatic intolerance (https://ccs.ca/guidelines-
+and-position-statement-library)   [4]
+Published by: Canadian Cardiovascular Society Last published: 2020
+Expert consensus statement on the diagnosis and treatment of postural
+tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal
+syncope (https://www.hrsonline.org/guidance/clinical-resources)   [2]
+Published by: Heart Rhythm Society Last published: 2015
+Guidelines for diagnosis and management of syncope (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [52]
+Published by: European Society of Cardiology Last published: 2018
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Postural orthostatic tachycardia syndrome References
+Key articles
+• Vernino S, Bourne KM, Stiles LE, et al. Postural orthostatic tachycardia syndrome (POTS): state of the
+science and clinical care from a 2019 National Institutes of Health expert consensus meeting - part 1.
+Auton Neurosci. 2021 Nov;235:102828.  Full text (https://www.doi.org/10.1016/j.autneu.2021.102828)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34144933?tool=bestpractice.bmj.com)
+• Sheldon RS, Grubb BP 2nd, Olshansky B, et al. 2015 Heart Rhythm Society expert consensus
+statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus
+tachycardia, and vasovagal syncope. Heart Rhythm. 2015 Jun;12(6):e41-63.  Full text (https://
+www.doi.org/10.1016/j.hrthm.2015.03.029)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25980576?
+tool=bestpractice.bmj.com)
+• Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and
+management of patients with syncope: executive summary: a report of the American College of
+Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart
+Rhythm Society. Circulation. 2017 Aug 1;136(5):e25-e59.  Full text (https://www.doi.org/10.1161/
+CIR.0000000000000498)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28280232?
+tool=bestpractice.bmj.com)
+• Raj SR, Guzman JC, Harvey P, et al. Canadian Cardiovascular Society position statement on postural
+orthostatic tachycardia syndrome (POTS) and related disorders of chronic orthostatic intolerance. Can
+J Cardiol. 2020 Mar;36(3):357-72.  Full text (https://www.doi.org/10.1016/j.cjca.2019.12.024)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/32145864?tool=bestpractice.bmj.com)
+References
+1. Vernino S, Bourne KM, Stiles LE, et al. Postural orthostatic tachycardia syndrome (POTS): state of the
+science and clinical care from a 2019 National Institutes of Health expert consensus meeting - part 1.
+Auton Neurosci. 2021 Nov;235:102828.  Full text (https://www.doi.org/10.1016/j.autneu.2021.102828)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34144933?tool=bestpractice.bmj.com)
+2. Sheldon RS, Grubb BP 2nd, Olshansky B, et al. 2015 Heart Rhythm Society expert consensus
+statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus
+tachycardia, and vasovagal syncope. Heart Rhythm. 2015 Jun;12(6):e41-63.  Full text (https://
+www.doi.org/10.1016/j.hrthm.2015.03.029)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25980576?
+tool=bestpractice.bmj.com)
+3. Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and
+management of patients with syncope: executive summary: a report of the American College of
+Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart
+Rhythm Society. Circulation. 2017 Aug 1;136(5):e25-e59.  Full text (https://www.doi.org/10.1161/
+CIR.0000000000000498)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28280232?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Postural orthostatic tachycardia syndrome References
+REFERENCES
+4. Raj SR, Guzman JC, Harvey P, et al. Canadian Cardiovascular Society position statement on postural
+orthostatic tachycardia syndrome (POTS) and related disorders of chronic orthostatic intolerance. Can
+J Cardiol. 2020 Mar;36(3):357-72.  Full text (https://www.doi.org/10.1016/j.cjca.2019.12.024)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/32145864?tool=bestpractice.bmj.com)
+5. Fu Q, Vangundy TB, Galbreath MM, et al. Cardiac origins of the postural orthostatic
+tachycardia syndrome. J Am Coll Cardiol. 2010 Jun 22;55(25):2858-68.  Full text (https://
+www.doi.org/10.1016/j.jacc.2010.02.043)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20579544?
+tool=bestpractice.bmj.com)
+6. Raj SR, Biaggioni I, Yamhure PC, et al. Renin-aldosterone paradox and perturbed blood volume
+regulation underlying postural tachycardia syndrome. Circulation. 2005 Apr 5;111(13):1574-82. 
+Full text (https://www.doi.org/10.1161/01.CIR.0000160356.97313.5D)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15781744?tool=bestpractice.bmj.com)
+7. Jacob G, Biaggioni I, Mosqueda-Garcia R, et al. Relation of blood volume and blood pressure in
+orthostatic intolerance. Am J Med Sci. 1998 Feb;315(2):95-100. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9472908?tool=bestpractice.bmj.com)
+8. Arnold AC, Ng J, Raj SR. Postural tachycardia syndrome - diagnosis, physiology, and prognosis. Auton
+Neurosci. 2018 Dec;215:3-11.  Full text (https://www.doi.org/10.1016/j.autneu.2018.02.005)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29523389?tool=bestpractice.bmj.com)
+9. Freeman R, Wieling W, Axelrod FB, et al. Consensus statement on the definition of orthostatic
+hypotension, neurally mediated syncope and the postural tachycardia syndrome. Clin Auton Res. 2011
+Apr;21(2):69-72. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21431947?tool=bestpractice.bmj.com)
+10. Thieben MJ, Sandroni P, Sletten DM, et al. Postural orthostatic tachycardia syndrome: the Mayo
+clinic experience. Mayo Clin Proc. 2007 Mar;82(3):308-13. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17352367?tool=bestpractice.bmj.com)
+11. Boris JR, Bernadzikowski T. Demographics of a large paediatric postural orthostatic tachycardia
+syndrome program. Cardiol Young. 2018 May;28(5):668-74. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29357955?tool=bestpractice.bmj.com)
+12. Sandroni P, Opfer-Gehrking TL, McPhee BR, et al. Postural tachycardia syndrome: clinical features
+and follow-up study. Mayo Clin Proc. 1999 Nov;74(11):1106-10. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10560597?tool=bestpractice.bmj.com)
+13. Shaw BH, Stiles LE, Bourne K, et al. The face of postural tachycardia syndrome - insights from a
+large cross-sectional online community-based survey. J Intern Med. 2019 Oct;286(4):438-48.  Full text
+(https://www.doi.org/10.1111/joim.12895)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30861229?
+tool=bestpractice.bmj.com)
+14. Watari M, Nakane S, Mukaino A, et al. Autoimmune postural orthostatic tachycardia syndrome. Ann
+Clin Transl Neurol. 2018 Apr;5(4):486-92.  Full text (https://www.doi.org/10.1002/acn3.524)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29687025?tool=bestpractice.bmj.com)
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Postural orthostatic tachycardia syndrome References
+15. Low PA, Sandroni P, Joyner M, et al. Postural tachycardia syndrome (POTS). J
+Cardiovasc Electrophysiol. 2009 Mar;20(3):352-8.  Full text (https://www.doi.org/10.1111/
+j.1540-8167.2008.01407.x)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19207771?
+tool=bestpractice.bmj.com)
+16. Low PA, Opfer-Gehrking TL, Textor SC, et al. Postural tachycardia syndrome (POTS). Neurology.
+1995 Apr;45(4 suppl 5):S19-25. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7746369?
+tool=bestpractice.bmj.com)
+17. Mathias CJ, Low DA, Iodice V, et al. Postural tachycardia syndrome - current experience and
+concepts. Nat Rev Neurol. 2011 Dec 6;8(1):22-34. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22143364?tool=bestpractice.bmj.com)
+18. Ruzieh M, Grubb BP. Overview of the management of postural tachycardia syndrome in
+pregnant patients. Auton Neurosci. 2018 Dec;215:102-5.  Full text (https://www.doi.org/10.1016/
+j.autneu.2018.02.002)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29472161?
+tool=bestpractice.bmj.com)
+19. Garland EM, Winker R, Williams SM, et al. Endothelial NO synthase polymorphisms and
+postural tachycardia syndrome. Hypertension. 2005 Nov;46(5):1103-10.  Full text (https://
+www.doi.org/10.1161/01.HYP.0000185462.08685.da)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16203873?tool=bestpractice.bmj.com)
+20. Jacob G, Garland EM, Costa F, et al. Beta2-adrenoceptor genotype and function affect hemodynamic
+profile heterogeneity in postural tachycardia syndrome. Hypertension. 2006 Mar;47(3):421-7.  Full text
+(https://www.doi.org/10.1161/01.HYP.0000205120.46149.34)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16461848?tool=bestpractice.bmj.com)
+21. Penny HA, Aziz I, Ferrar M, et al. Is there a relationship between gluten sensitivity and postural
+tachycardia syndrome? Eur J Gastroenterol Hepatol. 2016 Dec;28(12):1383-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27606948?tool=bestpractice.bmj.com)
+22. Blitshteyn S. Autoimmune markers and autoimmune disorders in patients with postural tachycardia
+syndrome (POTS). Lupus. 2015 Nov;24(13):1364-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26038344?tool=bestpractice.bmj.com)
+23. Goodman BP, Crepeau A, Dhawan PS, et al. Spectrum of autonomic nervous system impairment
+in Sjögren syndrome. Neurologist. 2017 Jul;22(4):127-30. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28644253?tool=bestpractice.bmj.com)
+24. Tang S, Calkins H, Petri M. Neurally mediated hypotension in systemic lupus erythematosus
+patients with fibromyalgia. Rheumatology (Oxford). 2004 May;43(5):609-14.  Full text
+(https://www.doi.org/10.1093/rheumatology/keh132)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/14983104?tool=bestpractice.bmj.com)
+25. Fedorowski A, Li H, Yu X, et al. Antiadrenergic autoimmunity in postural tachycardia syndrome.
+Europace. 2017 Jul 1;19(7):1211-9.  Full text (https://www.doi.org/10.1093/europace/euw154)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27702852?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Postural orthostatic tachycardia syndrome References
+REFERENCES
+26. Li H, Yu X, Liles C, et al. Autoimmune basis for postural tachycardia syndrome. J Am Heart Assoc.
+2014 Feb 26;3(1):e000755.  Full text (https://www.doi.org/10.1161/JAHA.113.000755)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24572257?tool=bestpractice.bmj.com)
+27. Vernino S, Stiles LE. Autoimmunity in postural orthostatic tachycardia syndrome: current
+understanding. Auton Neurosci. 2018 Dec;215:78-82.  Full text (https://www.doi.org/10.1016/
+j.autneu.2018.04.005)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29909990?
+tool=bestpractice.bmj.com)
+28. Li H, Zhang G, Zhou L, et al. Adrenergic autoantibody-induced postural tachycardia
+syndrome in rabbits. J Am Heart Assoc. 2019 Oct;8(19):e013006.  Full text (https://
+www.doi.org/10.1161/JAHA.119.013006)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31547749?
+tool=bestpractice.bmj.com)
+29. Li J, Liao Y, Du J, et al. [Relationship between 24-hour urinary sodium and renin-angiotensin-
+aldosterone system in children with postural tachycardia syndrome]. [in chi]. Zhonghua Yi Xue
+Za Zhi. 2015 Sep 22;95(36):2928-32. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26814068?
+tool=bestpractice.bmj.com)
+30. Mustafa HI, Garland EM, Biaggioni I, et al. Abnormalities of angiotensin regulation in postural
+tachycardia syndrome. Heart Rhythm. 2011 Mar;8(3):422-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21266211?tool=bestpractice.bmj.com)
+31. Stewart JM, Medow MS, Glover JL, et al. Persistent splanchnic hyperemia during upright tilt in
+postural tachycardia syndrome. Am J Physiol Heart Circ Physiol. 2006 Feb;290(2):H665-73.  Full
+text (https://www.doi.org/10.1152/ajpheart.00784.2005)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16143646?tool=bestpractice.bmj.com)
+32. Reilly CC, Floyd SV, Lee K, et al. Breathlessness and dysfunctional breathing in patients with postural
+orthostatic tachycardia syndrome (POTS): The impact of a physiotherapy intervention. Auton Neurosci.
+2020 Jan;223:102601.  Full text (https://www.doi.org/10.1016/j.autneu.2019.102601)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31743851?tool=bestpractice.bmj.com)
+33. Deb A, Morgenshtern K, Culbertson CJ, et al. A survey-based analysis of symptoms in patients with
+postural orthostatic tachycardia syndrome. Proc (Bayl Univ Med Cent). 2015 Apr;28(2):157-9.  Full
+text (https://www.doi.org/10.1080/08998280.2015.11929217)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25829642?tool=bestpractice.bmj.com)
+34. Nayagam JS. Managing gastrointestinal manifestations in patients with PoTS: a UK DGH experience.
+Br J Cardiol. July 2019;26:101-4.  Full text (https://bjcardio.co.uk/2019/07/managing-gastrointestinal-
+manifestations-in-patients-with-pots-a-uk-dgh-experience)
+35. Faure Walker N, Gall R, Gall N, et al. The postural tachycardia syndrome (PoTS) bladder-urodynamic
+findings. Urology. 2021 Jul;153:107-12. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33676954?
+tool=bestpractice.bmj.com)
+36. Kaufman MR, Chang-Kit L, Raj SR, et al. Overactive bladder and autonomic dysfunction: lower
+urinary tract symptoms in females with postural tachycardia syndrome. Neurourol Urodyn.
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Postural orthostatic tachycardia syndrome References
+2017 Mar;36(3):610-3.  Full text (https://www.doi.org/10.1002/nau.22971)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26859225?tool=bestpractice.bmj.com)
+37. Benarroch EE. Postural tachycardia syndrome: a heterogeneous and multifactorial disorder. Mayo
+Clin Proc. 2012 Dec;87(12):1214-25.  Full text (https://www.doi.org/10.1016/j.mayocp.2012.08.013)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23122672?tool=bestpractice.bmj.com)
+38. Lewis I, Pairman J, Spickett G, et al. Clinical characteristics of a novel subgroup of chronic
+fatigue syndrome patients with postural orthostatic tachycardia syndrome. J Intern Med. 2013
+May;273(5):501-10.  Full text (https://www.doi.org/10.1111/joim.12022)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23206180?tool=bestpractice.bmj.com)
+39. Miller AJ, Stiles LE, Sheehan T, et al. Prevalence of hypermobile Ehlers-Danlos syndrome in
+postural orthostatic tachycardia syndrome. Auton Neurosci. 2020 Mar;224:102637. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31954224?tool=bestpractice.bmj.com)
+40. Roma M, Marden CL, De Wandele I, et al. Postural tachycardia syndrome and other forms of
+orthostatic intolerance in Ehlers-Danlos syndrome. Auton Neurosci. 2018 Dec;215:89-96.  Full
+text (https://www.doi.org/10.1016/j.autneu.2018.02.006)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29519641?tool=bestpractice.bmj.com)
+41. Kanjwal K, Karabin B, Kanjwal Y, et al. Autonomic dysfunction presenting as postural orthostatic
+tachycardia syndrome in patients with multiple sclerosis. Int J Med Sci. 2010 Mar 11;7(2):62-7. 
+Full text (https://www.doi.org/10.7150/ijms.7.62)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20309394?tool=bestpractice.bmj.com)
+42. Goodman BP. Evaluation of postural tachycardia syndrome (POTS). Auton Neurosci. 2018
+Dec;215:12-9.  Full text (https://www.doi.org/10.1016/j.autneu.2018.04.004)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29705015?tool=bestpractice.bmj.com)
+43. Robertson D. The epidemic of orthostatic tachycardia and orthostatic intolerance. Am J Med Sci. 1999
+Feb;317(2):75-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10037110?tool=bestpractice.bmj.com)
+44. Papierska L, Rabijewski M. Delay in diagnosis of adrenal insufficiency is a frequent cause of adrenal
+crisis. Int J Endocrinol. 2013;2013:482370.  Full text (https://www.doi.org/10.1155/2013/482370)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23864857?tool=bestpractice.bmj.com)
+45. Jacob G, Shannon JR, Black B, et al. Effects of volume loading and pressor agents in
+idiopathic orthostatic tachycardia. Circulation. 1997 Jul 15;96(2):575-80.  Full text (https://
+www.doi.org/10.1161/01.cir.96.2.575)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9244228?
+tool=bestpractice.bmj.com)
+46. DeSimone CV, Naksuk N, Asirvatham SJ. Supraventricular arrhythmias: clinical framework
+and common scenarios for the internist. Mayo Clin Proc. 2018 Dec;93(12):1825-41.  Full text
+(https://www.doi.org/10.1016/j.mayocp.2018.07.019)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30414732?tool=bestpractice.bmj.com)
+47. Bornstein SR, Allolio B, Arlt W, et al. Diagnosis and treatment of primary adrenal insufficiency: an
+Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2016 Feb;101(2):364-89. 
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Postural orthostatic tachycardia syndrome References
+REFERENCES
+Full text (https://www.doi.org/10.1210/jc.2015-1710)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26760044?tool=bestpractice.bmj.com)
+48. Husebye ES, Pearce SH, Krone NP, et al. Adrenal insufficiency. Lancet. 2021 Feb
+13;397(10274):613-29. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33484633?
+tool=bestpractice.bmj.com)
+49. Betterle C, Presotto F, Furmaniak J. Epidemiology, pathogenesis, and diagnosis of Addison's disease
+in adults. J Endocrinol Invest. 2019 Dec;42(12):1407-33. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31321757?tool=bestpractice.bmj.com)
+50. American Psychiatric Association. Diagnostic and statistical manual of mental disorders, 5th ed., text
+revision (DSM-5-TR). Washington, DC: American Psychiatric Publishing; 2022.
+51. National Institute for Health and Care Excellence. Sepsis: recognition, diagnosis and early
+management. Sep 2017 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng51)
+52. Brignole M, Moya A, de Lange FJ, et al. 2018 ESC Guidelines for the diagnosis and management of
+syncope. Eur Heart J. 2018 Jun 1;39(21):1883-948.  Full text (https://www.doi.org/10.1093/eurheartj/
+ehy037)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29562304?tool=bestpractice.bmj.com)
+53. Morgan K, Smith A, Blitshteyn S. POTS and pregnancy: a review of literature and recommendations
+for evaluation and treatment. Int J Womens Health. 2022 Dec 24;14:1831-47.  Full text (https://
+www.doi.org/10.2147/IJWH.S366667)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36590760?
+tool=bestpractice.bmj.com)
+54. Gee ME, Watkins AK, Brown JN, et al. Ivabradine for the treatment of postural orthostatic tachycardia
+syndrome: a systematic review. Am J Cardiovasc Drugs. 2018 Jun;18(3):195-204. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29330767?tool=bestpractice.bmj.com)
+55. Sutton R, Salukhe TV, Franzen-McManus AC, et al. Ivabradine in treatment of sinus
+tachycardia mediated vasovagal syncope. Europace. 2014 Feb;16(2):284-8.  Full text (https://
+www.doi.org/10.1093/europace/eut226)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24072450?
+tool=bestpractice.bmj.com)
+56. Lai CC, Fischer PR, Brands CK, et al. Outcomes in adolescents with postural orthostatic tachycardia
+syndrome treated with midodrine and beta-blockers. Pacing Clin Electrophysiol. 2009 Feb;32(2):234-8.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19170913?tool=bestpractice.bmj.com)
+57. Zhang F, Li X, Ochs T, et al. Midregional pro-adrenomedullin as a predictor for therapeutic response to
+midodrine hydrochloride in children with postural orthostatic tachycardia syndrome. J Am Coll Cardiol.
+2012 Jul 24;60(4):315-20.  Full text (https://www.doi.org/10.1016/j.jacc.2012.04.025)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22813609?tool=bestpractice.bmj.com)
+58. Ross AJ, Ocon AJ, Medow MS, et al. A double-blind placebo-controlled cross-over study of the
+vascular effects of midodrine in neuropathic compared with hyperadrenergic postural tachycardia
+syndrome. Clin Sci (Lond). 2014 Feb;126(4):289-96. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23978222?tool=bestpractice.bmj.com)
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Postural orthostatic tachycardia syndrome References
+59. Garland EM, Gamboa A, Nwazue VC, et al. Effect of high dietary sodium intake in patients with
+postural tachycardia syndrome. J Am Coll Cardiol. 2021 May 4;77(17):2174-84.  Full text (https://
+www.doi.org/10.1016/j.jacc.2021.03.005)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33926653?
+tool=bestpractice.bmj.com)
+60. Bourne KM, Sheldon RS, Hall J, et al. Compression garment reduces orthostatic tachycardia and
+symptoms in patients with postural orthostatic tachycardia syndrome. J Am Coll Cardiol. 2021
+Jan 26;77(3):285-96.  Full text (https://www.doi.org/10.1016/j.jacc.2020.11.040)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33478652?tool=bestpractice.bmj.com)
+61. Ricaurte GA, McCann UD. Recognition and management of complications of new recreational
+drug use. Lancet. 2005 Jun 18-24;365(9477):2137-45. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15964451?tool=bestpractice.bmj.com)
+62. Smith EC, Diedrich A, Raj SR, et al. Splanchnic venous compression enhances the effects of
+ß-blockade in the treatment of postural tachycardia syndrome. J Am Heart Assoc. 2020 Jul
+21;9(14):e016196.  Full text (https://www.doi.org/10.1161/JAHA.120.016196)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32673517?tool=bestpractice.bmj.com)
+63. Grubb AF, Grubb BP. Postural orthostatic tachycardia syndrome: new concepts in pathophysiology and
+management. Trends Cardiovasc Med. 2023 Feb;33(2):65-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34695573?tool=bestpractice.bmj.com)
+64. Sheldon R, Raj SR, Rose MS, et al. Fludrocortisone for the prevention of vasovagal syncope: a
+randomized, placebo-controlled trial. J Am Coll Cardiol. 2016 Jul 5;68(1):1-9.  Full text (https://
+www.doi.org/10.1016/j.jacc.2016.04.030)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27364043?
+tool=bestpractice.bmj.com)
+65. Gachoka D, Kanjwal K, Karabin B, et al. Desmopressin in the treatment of postural orthostatic
+tachycardia. J Innov Card Rhythm Manag. 2015 Dec;6(12):2222-6.  Full text (https://
+www.innovationsincrm.com/cardiac-rhythm-management/articles-2015/december/791-desmopressin-
+postural-orthostatic-tachycardia)
+66. Coffin ST, Black BK, Biaggioni I, et al. Desmopressin acutely decreases tachycardia and improves
+symptoms in the postural tachycardia syndrome. Heart Rhythm. 2012 Sep;9(9):1484-90. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/22561596?tool=bestpractice.bmj.com)
+67. Grubb BP. Postural tachycardia syndrome. Circulation. 2008 May 27;117(21):2814-7.  Full text (https://
+www.doi.org/10.1161/CIRCULATIONAHA.107.761643)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18506020?tool=bestpractice.bmj.com)
+68. Moon J, Kim DY, Lee WJ, et al. Efficacy of propranolol, bisoprolol, and pyridostigmine for postural
+tachycardia syndrome: a randomized clinical trial. Neurotherapeutics. 2018 Jul;15(3):785-95.  Full
+text (https://www.doi.org/10.1007/s13311-018-0612-9)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29500811?tool=bestpractice.bmj.com)
+69. Taub PR, Zadourian A, Lo HC, et al. Randomized trial of ivabradine in patients with hyperadrenergic
+postural orthostatic tachycardia syndrome. J Am Coll Cardiol. 2021 Feb 23;77(7):861-71.  Full
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Postural orthostatic tachycardia syndrome References
+REFERENCES
+text (https://www.doi.org/10.1016/j.jacc.2020.12.029)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33602468?tool=bestpractice.bmj.com)
+70. Raj SR, Black BK, Biaggioni I, et al. Acetylcholinesterase inhibition improves tachycardia in
+postural tachycardia syndrome. Circulation. 2005 May 31;111(21):2734-40.  Full text (https://
+www.doi.org/10.1161/CIRCULATIONAHA.104.497594)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15911704?tool=bestpractice.bmj.com)
+71. Kanjwal K, Karabin B, Sheikh M, et al. Pyridostigmine in the treatment of postural orthostatic
+tachycardia: a single-center experience. Pacing Clin Electrophysiol. 2011 Jun;34(6):750-5. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/21410722?tool=bestpractice.bmj.com)
+72. Vyas R, Nesheiwat Z, Ruzieh M, et al. Bupropion in the treatment of postural orthostatic tachycardia
+syndrome (POTS): a single-center experience. J Investig Med. 2020 Aug;68(6):1156-8. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/32606041?tool=bestpractice.bmj.com)
+73. Kanjwal K, Saeed B, Karabin B, et al. Erythropoietin in the treatment of postural orthostatic tachycardia
+syndrome. Am J Ther. 2012 Mar;19(2):92-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20838326?
+tool=bestpractice.bmj.com)
+74. Miller AJ, Raj SR. Pharmacotherapy for postural tachycardia syndrome. Auton Neurosci. 2018
+Dec;215:28-36.  Full text (https://www.doi.org/10.1016/j.autneu.2018.04.008)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29753556?tool=bestpractice.bmj.com)
+75. Hoeldtke RD, Bryner KD, Hoeldtke ME, et al. Treatment of postural tachycardia syndrome: a
+comparison of octreotide and midodrine. Clin Auton Res. 2006 Dec;16(6):390-5. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17036177?tool=bestpractice.bmj.com)
+76. Ruzieh M, Dasa O, Pacenta A, et al. Droxidopa in the treatment of postural orthostatic tachycardia
+syndrome. Am J Ther. 2017 Mar/Apr;24(2):e157-e161.  Full text (https://www.doi.org/10.1097/
+MJT.0000000000000468)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27563801?
+tool=bestpractice.bmj.com)
+77. Ruzieh M, Baugh A, Dasa O, et al. Effects of intermittent intravenous saline infusions in
+patients with medication-refractory postural tachycardia syndrome. J Interv Card Electrophysiol.
+2017 Apr;48(3):255-60. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28185102?
+tool=bestpractice.bmj.com)
+78. Schofield JR, Chemali KR. Intravenous immunoglobulin therapy in refractory autoimmune
+dysautonomias: a retrospective analysis of 38 patients. Am J Ther. 2019 Sep/Oct;26(5):570-82.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29781817?tool=bestpractice.bmj.com)
+79. Goodman BP. Treatment updates in postural tachycardia syndrome. Curr Treat Options Neurol. 2020
+Aug 25;22:35.  Full text (https://link.springer.com/article/10.1007/s11940-020-00643-3)
+80. ClinicalTrials.gov. IVIG (Gamunex-C) treatment study for POTS subjects (iSTAND). Jan 2023 [internet
+publication].  Full text (https://clinicaltrials.gov/ct2/show/study/NCT03919773)
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Postural orthostatic tachycardia syndrome Images
+Images
+Figure 1: Proposed framework for postural orthostatic tachycardia syndrome (POTS) and related disorders
+Raj SR et al. Can J Cardiol. 2020 Mar;36(3):357-72; used with permission
+Figure 2: ECG showing normal sinus rate and rhythm before the episode
+Cheema MA et al. BMJ Case Rep. 2019 Apr 20;12(4):e227789; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Postural orthostatic tachycardia syndrome Images
+IMAGES
+Figure 3: ECG showing sinus tachycardia during tilt-table testing
+Cheema MA et al. BMJ Case Rep. 2019 Apr 20;12(4):e227789; used with permission
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Postural orthostatic tachycardia syndrome Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Postural orthostatic tachycardia syndrome Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Contributors:
+// Authors:
+Blair Grubb, MD
+Distinguished Professor of Medicine
+University of Toledo, Toledo, OH
+DISCLOSURES: BG declares that he has no competing interests.
+Abdelmoniem Moustafa, MD
+Cardiology fellow PGY-5
+University of Toledo, Toledo, OH
+DISCLOSURES: AM declares that he has no competing interests.
+// Peer Reviewers:
+Brent P. Goodman, MD
+Director
+Autonomic Clinic and Laboratory, Mayo Clinic, Phoenix, AZ
+DISCLOSURES: BPG declares he has no competing interests.
+Nicholas Gall, BSc, MBBS, MSc, MD, FRCP
+Consultant Cardiologist
+King’s College Hospital, London, UK
+DISCLOSURES: NG declares that he has no competing interests.

@@ -1,0 +1,1732 @@
+# Pulmonary regurgitation
+
+=== Page 1 ===
+Pulmonary
+regurgitation
+Straight to the point of care
+Last updated: Mar 15, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Case history  5
+Diagnosis  6
+Approach  6
+History and exam  15
+Risk factors  16
+Tests  18
+Differentials  25
+Criteria  25
+Management  26
+Approach  26
+Treatment algorithm overview  28
+Treatment algorithm  29
+Secondary prevention  35
+Patient discussions  36
+Follow up  37
+Monitoring  37
+Complications  38
+Prognosis  38
+Guidelines  40
+Diagnostic guidelines  40
+Treatment guidelines  40
+Online resources  41
+References  42
+Images  46
+Disclaimer  56
+=== Page 3 ===
+Pulmonary regurgitation Overview
+Summary
+Pulmonary regurgitation is incompetency of the pulmonary valve, which results in leakage of blood from the
+pulmonary artery back into the right ventricle.
+Pulmonary regurgitation may be due to a congenital defect or may be acquired.
+Any disease of the left side of the heart or the lungs that results in significant pulmonary hypertension and
+dilated pulmonary arteries may lead to acquired pulmonary regurgitation. It may also result from surgical
+repair of tetralogy of Fallot, pulmonary stenosis, or atresia.
+Isolated pulmonary regurgitation is rarely symptomatic; however, large regurgitant volume in the presence
+of dilated right ventricle may be associated with exertional dyspnea, easy fatigability, and intermittent chest
+pain.
+Echocardiography is essential to determine the severity and mechanism of pulmonary regurgitation.
+In symptomatic patients with severe regurgitation, pulmonary valve replacement should be considered.
+Definition
+Pulmonary regurgitation is the leakage of blood from the pulmonary artery back into the right ventricle. It is
+rare and is infrequently symptomatic. It gradually develops over many years and results in volume overload
+and right ventricular (RV) dysfunction. It can be congenital or acquired, caused by conditions that increase
+pulmonary artery pressure, such as left ventricular dysfunction or severe lung disease.
+The acquired form occurs from any secondary cause that leads to pulmonary regurgitation through increased
+pulmonary pressure secondary to left-sided failure, or after surgical intervention for tetralogy of Fallot,
+pulmonary stenosis, or pulmonary atresia. Isolated pulmonary regurgitation occurs as a result of any cause
+that impacts the valve directly, such as endocarditis.
+The murmur of pulmonary regurgitation is diastolic and is associated with RV lift.[1]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Pulmonary regurgitation Theory
+THEORY
+Epidemiology
+Trace or mild pulmonary regurgitation is commonly detected on echocardiography in patients without
+structural heart disease. Nonsevere pulmonary regurgitation is usually asymptomatic and is most commonly
+secondary to pulmonary hypertension. Severe isolated pulmonary regurgitation is usually a manifestation
+of prior surgical repair or balloon pulmonary valvuloplasty, so patients may present later in life.[2] However,
+even with severe isolated pulmonary regurgitation, only 40% of the patients present with symptoms, so the
+true incidence and prevalence is unknown. There is no specific sex or ethnicity predominance; however, it is
+commonly associated with younger age.[3]
+Etiology
+Pulmonary regurgitation may be congenital or acquired. In the acquired form it may result from any left-sided
+cardiac condition, such as mitral stenosis, or severe pulmonary disease and pulmonary hypertension. Other
+known causes are dilation of the pulmonary annulus secondary to pulmonary hypertension or post balloon
+valvuloplasty for pulmonary valve stenosis. Endocarditis may destroy the integrity of the pulmonary valve
+leaflets, resulting in pulmonary regurgitation.[1] [3] Other conditions that may result in abnormal pulmonary
+valve leaflets are congenital anomalies, rheumatic heart disease, carcinoid heart disease, syphilis, and
+trauma (e.g., from a Swan-Ganz catheter).[4] Connective tissue disease, such as Marfan syndrome, may
+also be an associated cause.[4] Very rarely, it may be caused by primary or metastatic malignancies that
+involve the main pulmonary artery.
+In addition, the acquired form commonly results decades after surgical repair of tetralogy of Fallot, pulmonary
+stenosis, or atresia. It has also been associated with the Ross procedure (pulmonary autograft used for
+aortic valve replacement).[5]
+Pathophysiology
+Severe isolated pulmonary valve regurgitation is rare. However, when present, it results in volume overload
+and dilation of the right ventricle with compensatory right ventricular (RV) hypertrophy. Eventually, this results
+in equalization of the pulmonary artery pressure and the RV pressure in diastole. Furthermore, with severe
+progression and RV failure, right-sided stroke volume decreases, leading to peripheral edema, dyspnea, and
+easy fatigability.
+Pulmonary regurgitation associated with pulmonary hypertension is usually nonsignificant and has few to no
+hemodynamic consequences. It is the pulmonary hypertension that results in RV failure and dilation and low
+right-sided cardiac output.
+The regurgitant pulmonary volume depends on several factors:[3]
+• Diastolic filling period
+• The regurgitant orifice dimension
+• Pressure gradient across pulmonary valve
+• Pulmonary artery distensibility
+• RV compliance and function.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Pulmonary regurgitation Theory
+Case history
+Case history #1
+A 32-year-old woman with history of repaired tetralogy of Fallot in childhood presents with exertional
+dyspnea, easy fatigability, and nonexertional chest pain. On physical examination her jugular venous
+pressure is around 10 cm with prominent right ventricular anterior precordial lift. A short, low-pitched,
+grade 2/6 diastolic and a loud, grade 3/6 systolic murmur along the left sternal border are heard.
+Case history #2
+A 52-year-old woman with history of congenital pulmonic stenosis, for which she underwent open
+valvotomy at age 9, presents to the adult congenital heart disease clinic for a second opinion, after being
+followed by a general cardiologist for several years. She is asymptomatic and has excellent exercise
+capacity. Physical examination reveals no jugular venous distension. Auscultation reveals a short, low-
+pitched 2/6 diastolic and a loud 3/6 systolic murmur along the left sternal border.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Pulmonary regurgitation Diagnosis
+DIAGNOSIS
+Approach
+History and physical examination are nonspecific, and the patient is often asymptomatic.
+History
+In a symptomatic patient, exertional dyspnea, easy fatigability, and nonexertional chest pain are the most
+common symptoms. The patient may also complain of palpitations, diaphoresis, paroxysmal nocturnal
+dyspnea, and orthopnea. A history of left-sided heart failure and other valve pathologies such as mitral
+stenosis and endocarditis may be present.
+A thorough history regarding previous cardiac surgeries and pulmonary valvuloplasty should be obtained,
+including repair of tetralogy of Fallot and Ross procedure (with prosthetic pulmonary valve or homograft
+valve replacement).
+Physical examination
+Jugular venous pressure may be elevated and a prominent right ventricular (RV) anterior precordial lift
+present. Most commonly, a short, low-pitched diastolic decrescendo murmur and systolic murmur may be
+heard along the left sternal border.[6]
+Although the likelihood of isolated right-sided heart failure secondary to pulmonary regurgitation is low, it
+should be considered in patients with lower extremity edema, hepatomegaly, and ascites.
+Tests
+ECG may show incomplete right bundle branch block and right axis deviation, findings consistent
+with right ventricular dilation that occurs either while in a compensated volume overload state or in a
+decompensated pressure overload state. In a compensated state of pressure overload, right ventricular
+hypertrophy may be present by ECG criteria that include the following: tall R wave in V1 or qR in V1; R
+wave greater than S wave in V1; R wave progression reversal in the precordial leads; inverted T wave in
+the anterior precordial leads; right axis deviation and right atrial enlargement. In pulmonary regurgitation
+after repair of tetralogy of Fallot, QRS prolongation may be found.
+A transthoracic echocardiogram (TTE) can be used to assess severity, mechanism, etiology, RV size and
+function, other valvular abnormalities, and RV systolic pressure, and should be ordered in all patients in
+whom pulmonary regurgitation is suspected.[7] Although the pulmonary valve leaflets are often difficult
+to visualize by TTE, color flow imaging is most often used for detection of pulmonary regurgitation (PR).
+Severity of PR is usually assessed by the diameter of the jet at its origin immediately below the valve,
+in the right ventricular outflow tract (RVOT), on the parasternal short axis view. A jet width that occupies
+>65% of the RVOT is suggestive of severe PR.[8] The continuous-wave Doppler profile of the PR jet
+in the parasternal short axis view is also fundamental in assessing the presence and severity of PR by
+TTE. Where mild pulmonary regurgitation will have slow deceleration, the continuous-wave Doppler
+signal of severe pulmonary regurgitation will have a steep deceleration returning to baseline by the end
+of diastole.[9] Occasionally a transesophageal echocardiogram (TEE) may be needed to better assess
+the severity and etiology of pulmonary regurgitation.[7] In general, if TTE indicates severe pulmonary
+regurgitation, then a TEE would be recommended to better assess the degree and cause of regurgitation.
+TEE is also indicated in cases where pulmonary regurgitation is suspected but availability of TTE is
+limited. Rarely, the pulmonary valve leaflets may be difficult to visualize by TEE in the mid-esophageal
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Pulmonary regurgitation Diagnosis
+position as the valve lies in the far field, but may be better characterized from the transgastric views. The
+development of 3-dimensional TEE is also improving visualization of these areas.
+Catheterization and angiocardiography are less helpful in this setting because they may falsely elevate
+the quantity of pulmonary regurgitation as the catheter is crossing the pulmonary valve. Other imaging
+modalities, such as chest x-ray, magnetic resonance imaging (MRI), and computed tomography (CT), are
+also useful to identify pulmonary anatomy and the cause of pulmonary regurgitation and to quantify the
+degree of regurgitation. Additionally, MRI can measure pulmonary regurgitant fraction, RV end-diastolic
+and end-systolic volumes, and RV ejection fraction.[10] [11] In patients where the decision to treat
+pulmonary regurgitation is being considered, an MRI and/or CT may be extremely helpful. Cardiac MRI
+is now considered the reference standard for quantification of PR, RV size, and RV function in patients
+with repaired tetralogy of Fallot. The advantages of cardiac MRI over other imaging modalities in these
+patients include accurate and reproducible measurements of the above-mentioned parameters, excellent
+image quality in patients with a wide range of body sizes, and the absence of radiation making it a good
+choice for longitudinal follow-up.[7][12] CT may be an alternative in patients with contraindications to MRI,
+such as pacemakers or other metallic implants.[7]
+In patients with chronic pulmonary regurgitation, cardiopulmonary exercise testing may be a useful test to
+assess objective functional capacity and to follow patients longitudinally for changes over time related to
+worsening RV function.
+Short axis echocardiographic view in a patient with pulmonary regurgitation
+following repair of tetralogy of Fallot. The patient has a restrictive right ventricle,
+and short axis echocardiographic view reveals that the right ventricle is large
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Pulmonary regurgitation Diagnosis
+DIAGNOSIS
+Short axis echocardiographic view in a patient with pulmonary regurgitation following repair of tetralogy of Fallot.
+The patient has a restrictive right ventricle, and short axis echocardiographic view reveals a small right ventricle
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+Doppler echocardiogram in a patient with pulmonary regurgitation following repair of tetralogy of Fallot,
+revealing a non-obstructed right ventricular outflow tract. The patient has a restrictive right ventricle
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Pulmonary regurgitation Diagnosis
+Doppler echocardiogram in a patient with pulmonary regurgitation following repair of tetralogy of Fallot,
+revealing a nonobstructed right ventricular outflow tract. The patient has a nonrestrictive right ventricle
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Pulmonary regurgitation Diagnosis
+DIAGNOSIS
+Doppler in a patient with pulmonary regurgitation following repair of tetralogy of Fallot. The patient has
+a nonrestrictive right ventricle, and an ‘‘A’’ wave is not seen in the pulmonary artery Doppler spectrum
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Pulmonary regurgitation Diagnosis
+Doppler in a patient with pulmonary regurgitation following repair of tetralogy
+of Fallot. The patient has a restrictive right ventricle, and Doppler shows
+evidence of restriction with an antegrade "A" wave in the pulmonary artery
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Pulmonary regurgitation Diagnosis
+DIAGNOSIS
+Chest x-ray in a patient with pulmonary regurgitation following repair of tetralogy
+of Fallot. The patient has a restrictive right ventricle and the heart is small
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Pulmonary regurgitation Diagnosis
+Chest x-ray in a patient with pulmonary regurgitation following repair of tetralogy
+of Fallot. The patient has a nonrestrictive right ventricle and the heart is large
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Pulmonary regurgitation Diagnosis
+DIAGNOSIS
+Magnetic resonance imaging (MRI) in a patient with pulmonary regurgitation following repair of tetralogy
+of Fallot. The patient has a restrictive right ventricle, and MRI shows decreased right ventricular volume
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Pulmonary regurgitation Diagnosis
+Magnetic resonance imaging (MRI) in a patient with pulmonary regurgitation following repair of tetralogy
+of Fallot. The patient has a nonrestrictive right ventricle, and MRI shows that the right ventricle is dilated
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+History and exam
+Other diagnostic factors
+dyspnea (common)
+• Patients may experience dyspnea on exertion.
+• Worsening dyspnea associated with leg swelling may signify right heart failure.
+decreased exercise tolerance (common)
+• Important to determine if there is sensation of passing out with exertion. If tolerance is getting
+progressively worse this requires immediate attention.
+diastolic murmur (common)
+• Low-pitched decrescendo murmur along the left sternal border may be heard.
+orthopnea (uncommon)
+• If present, other valve pathologies that affect the left side of the heart should be sought.
+paroxysmal nocturnal dyspnea (uncommon)
+• If present, other valve pathologies that affect the left side of the heart should be sought.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Pulmonary regurgitation Diagnosis
+DIAGNOSIS
+palpitations (uncommon)
+• Atrial fibrillation, flutter, or supraventricular tachycardia are most common and should be ruled out with
+proper history.
+fatigue (uncommon)
+• Is common when there is pulmonary hypertension leading to decreased cardiac output.
+diaphoresis (uncommon)
+• In severe cases, usually with acute mitral regurgitation.
+displaced point of maximal apical impulse (uncommon)
+• Indicates severe and chronic mitral regurgitation.
+systolic murmur (uncommon)
+• Low-pitched murmur along the left sternal border may be heard.
+signs of right-sided heart failure (uncommon)
+• These are elevated jugular venous pressure, lower extremity edema, hepatomegaly, and ascites.
+Risk factors
+Strong
+pulmonary hypertension
+• Pulmonary hypertension, both primary and secondary, results in right ventricular failure and dilation
+and has been associated with pulmonary regurgitation.[1][3]
+surgical repair of tetralogy of Fallot, pulmonary stenosis, or pulmonary
+atresia
+• Repair of pulmonary atresia or stenosis is a known and significant risk factor for future pulmonary
+regurgitation.[1] [3] Details such as balloon size used at pulmonary valvuloplasty and degree of
+regurgitation post valvuloplasty should be determined.
+endocarditis
+• Any condition that may destroy the integrity of the valve leaflets may result in pulmonary
+regurgitation.[1] [3]
+left-sided heart disease
+• Any left-sided condition, such as severe left ventricular dysfunction, that results in pulmonary
+hypertension may cause pulmonary regurgitation.[1] [3]
+previous Ross procedure (with prosthetic pulmonary valve, homograft valve
+replacement)
+• Acquired pulmonary regurgitation has also been associated with the Ross procedure (pulmonary
+autograft used for aortic valve replacement).[5]
+Weak
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Pulmonary regurgitation Diagnosis
+collagen vascular disease
+• Conditions that result in pulmonary hypertension, such as scleroderma or CREST syndrome
+(calcinosis, Raynaud phenomenon, esophageal dysfunction, sclerodactyly, and telangiectasia), may be
+secondary causes of pulmonary hypertension.[1] [3]
+malignancies that involve the main pulmonary artery
+• Very rarely, pulmonary regurgitation may be caused by primary or metastatic malignancies that involve
+the main pulmonary artery.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Pulmonary regurgitation Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+ECG
+• Right ventricular (RV) dilation produces incomplete right bundle
+branch block and right axis deviation.
+• RV hypertrophy produces a tall R wave in V1 or qR in V1, an R
+wave greater than S wave in V1, R wave progression reversal in the
+precordial leads, and an inverted T wave in the anterior precordial
+leads.
+• Right atrial enlargement produces right axis deviation.
+• Pulmonary regurgitation after repair of tetralogy of Fallot may produce
+QRS prolongation.
+• Left ventricular size may also influence QRS duration.[13]
+variable nonspecific
+abnormalities
+transthoracic Doppler echocardiogram (TTE)
+• Should be ordered in any patient where pulmonary regurgitation is
+suspected.[7]
+• TTE is useful for determining severity, mechanism, etiology, right
+ventricular (RV) size and function, other valvular abnormalities, and
+RV systolic pressure.
+Short axis echocardiographic view in a patient with pulmonary
+regurgitation following repair of tetralogy of Fallot. The
+patient has a restrictive right ventricle, and short axis
+echocardiographic view reveals that the right ventricle is large
+From: Chaturvedi RR, Redington AN. Heart.
+2007 Jul;93(7):880-9; used with permission
+a regurgitant jet; RV
+dilation may be present;
+in mild pulmonary
+regurgitation, continuous
+wave Doppler will have
+slow deceleration,
+in severe pulmonary
+regurgitation, steep
+deceleration returning
+to baseline by end of
+diastole
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Pulmonary regurgitation Diagnosis
+Test Result
+Doppler in a patient with pulmonary regurgitation following repair of
+tetralogy of Fallot. The patient has a nonrestrictive right ventricle, and
+an ‘‘A’’ wave is not seen in the pulmonary artery Doppler spectrum
+From: Chaturvedi RR, Redington AN. Heart.
+2007 Jul;93(7):880-9; used with permission
+Doppler in a patient with pulmonary regurgitation following
+repair of tetralogy of Fallot. The patient has a restrictive
+right ventricle, and Doppler shows evidence of restriction
+with an antegrade "A" wave in the pulmonary artery
+From: Chaturvedi RR, Redington AN. Heart.
+2007 Jul;93(7):880-9; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Pulmonary regurgitation Diagnosis
+DIAGNOSIS
+Test Result
+Short axis echocardiographic view in a patient with pulmonary
+regurgitation following repair of tetralogy of Fallot. The
+patient has a restrictive right ventricle, and short axis
+echocardiographic view reveals a small right ventricle
+From: Chaturvedi RR, Redington AN. Heart.
+2007 Jul;93(7):880-9; used with permission
+Doppler echocardiogram in a patient with pulmonary regurgitation
+following repair of tetralogy of Fallot, revealing a non-obstructed right
+ventricular outflow tract. The patient has a restrictive right ventricle
+From: Chaturvedi RR, Redington AN. Heart.
+2007 Jul;93(7):880-9; used with permission
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Pulmonary regurgitation Diagnosis
+Test Result
+Doppler echocardiogram in a patient with pulmonary regurgitation
+following repair of tetralogy of Fallot, revealing a nonobstructed right
+ventricular outflow tract. The patient has a nonrestrictive right ventricle
+From: Chaturvedi RR, Redington AN. Heart.
+2007 Jul;93(7):880-9; used with permission
+Additionally, it is useful in identifying vegetations on the pulmonary
+valve. Evidence of tricuspid regurgitation should be taken into
+consideration.
+• Severity of pulmonary regurgitation (PR) is usually assessed by the
+diameter of the jet at its origin immediately below the valve, in the
+right ventricular outflow tract (RVOT), on the parasternal short axis
+view. A jet width that occupies >65% of the RVOT is suggestive of
+severe PR.[8] The continuous-wave Doppler profile of the PR jet in
+the parasternal short axis view is also fundamental in assessing the
+presence and severity of PR by TTE.[9]
+CXR
+• Appearance of the lung fields depends on the chronicity of the
+situation. A lot of patients with severe left ventricular dysfunction have
+normal lung fields because their heart failure is well compensated.
+pulmonary artery dilation
+with clear lung fields;
+right ventricular dilation
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Pulmonary regurgitation Diagnosis
+DIAGNOSIS
+Test Result
+Chest x-ray in a patient with pulmonary regurgitation
+following repair of tetralogy of Fallot. The patient
+has a restrictive right ventricle and the heart is small
+From: Chaturvedi RR, Redington AN. Heart.
+2007 Jul;93(7):880-9; used with permission
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Pulmonary regurgitation Diagnosis
+Other tests to consider
+Test Result
+transesophageal Doppler echocardiogram (TEE)
+• In general, if TTE indicates severe pulmonary regurgitation, then a
+TEE would be recommended to better assess the degree and cause
+of regurgitation. TEE is also indicated in cases where pulmonary
+regurgitation is suspected but availability of TTE is limited. Rarely, the
+pulmonary valve leaflets may be difficult to visualize by TEE as the
+valve lies in the far field from the esophageal position.
+• TEE is useful for determining severity, mechanism, etiology, right
+ventricular (RV) size and function, other valvular abnormalities,
+and RV systolic pressure. Additionally, it is useful in identifying
+vegetations on the pulmonary valve.[7] Evidence of tricuspid
+regurgitation should be taken into consideration.
+a regurgitant jet; RV
+dilation may be present
+cardiac MRI
+• Considered the reference standard for quantification of pulmonary
+regurgitation (PR), right ventricular size and function in people with
+repaired tetralogy of Fallot. The advantages of cardiac MRI over other
+imaging modalities in these people include accurate and reproducible
+measurements of these parameters, excellent image quality in people
+with a wide range of body sizes, and absence of radiation making it a
+good choice for longitudinal follow-up.[7][12]
+increased PR fraction,
+increased right
+ventricular (RV) end-
+diastolic and RV end-
+systolic volumes,
+diminished RV ejection
+fraction
+MRI chest
+• In patients where the decision to treat pulmonary regurgitation is
+being considered, an MRI chest may be very helpful.
+Magnetic resonance imaging (MRI) in a patient with
+pulmonary regurgitation following repair of tetralogy
+of Fallot. The patient has a restrictive right ventricle,
+and MRI shows decreased right ventricular volume
+From: Chaturvedi RR, Redington AN. Heart.
+2007 Jul;93(7):880-9; used with permission
+measurement of
+pulmonary regurgitant
+fraction, right ventricular
+(RV) end-diastolic and
+end-systolic volumes,
+and RV ejection fraction;
+anatomy of pulmonary
+valve and related
+structures demonstrated
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Pulmonary regurgitation Diagnosis
+DIAGNOSIS
+Test Result
+Magnetic resonance imaging (MRI) in a patient with
+pulmonary regurgitation following repair of tetralogy of
+Fallot. The patient has a nonrestrictive right ventricle,
+and MRI shows that the right ventricle is dilated
+From: Chaturvedi RR, Redington AN. Heart.
+2007 Jul;93(7):880-9; used with permission
+CT scan chest
+• In patients where the decision to treat pulmonary regurgitation is
+being considered, a CT scan chest may be very helpful. CT may
+be an alternative to MRI in patients with contraindications such as
+pacemakers or other metallic implants.[7]
+measurement of
+pulmonary regurgitant
+fraction, right ventricular
+(RV) end-diastolic and
+end-systolic volumes,
+and RV ejection fraction;
+anatomy of pulmonary
+valve and related
+structures demonstrated
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Pulmonary regurgitation Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Mitral stenosis • Malar flush, low volume
+pulse, a tapping and
+undisplaced apex beat, and
+loud S1 with an opening
+snap.
+• The murmur is rumbling and
+mid-diastolic.
+• CXR: pulmonary edema,
+enlarged left atrium, and
+mitral valve calcification.
+• ECG: can present with atrial
+fibrillation. Right ventricular
+hypertrophy may also be
+present.
+• Echocardiogram: diagnostic
+for mitral stenosis.
+Aortic regurgitation (AR) • In mild AR the murmur is
+early diastolic, and increases
+in duration to holodiastolic in
+severe AR.
+• A diastolic murmur may be
+absent in acute AR.
+• CXR: may show
+cardiomegaly in the leftward
+and inferior direction in
+chronic AR.
+• ECG: may show nonspecific
+ST-T wave changes, left
+axis deviation, or conduction
+abnormalities.
+• Echocardiogram:
+visualization of the origin of
+regurgitant jet and its width;
+detection of cause of aortic
+valve pathology.
+Atrial myxoma • The murmur is mid-late
+diastolic, and changes in
+character and intensity with
+alterations in position.
+• Echocardiogram:
+visualization of a mass,
+usually attached to the
+interatrial septum or free wall
+of the atrium.
+Criteria
+There are no specific criteria to grade severity of pulmonary regurgitation (PR). Severity of PR is usually
+assessed by the diameter of the jet at its origin immediately below the valve, in the right ventricular outflow
+tract (RVOT), on the parasternal short axis view. A jet width that occupies >65% of the RVOT is suggestive
+of severe PR.[8] Additionally, a dense continuous-wave Doppler signal with a sine wave appearance is
+suggestive of severe PR. Occasionally other modalities such as magnetic resonance imaging or computed
+tomography may need to be used to assess the right ventricular outflow tract and to identify the etiology of
+pulmonary regurgitation.
+NYHA functional classification for stages of heart failure
+• Class I: no limitation of activities; no symptoms from ordinary activities
+• Class II: slight, mild limitation of activity; comfortable with rest or with mild exertion
+• Class III: marked limitation of activity; comfortable only at rest
+• Class IV: confined to bed or chair; any physical activity brings on discomfort, and symptoms occur at
+rest.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Pulmonary regurgitation Management
+MANAGEMENT
+Approach
+Management of pulmonary regurgitation is different from that of aortic regurgitation and rarely requires
+surgery. Treatment should be directed at the underlying pathology (e.g., pulmonary hypertension, mitral
+stenosis, left ventricular (LV) dysfunction, and other underlying conditions). Longstanding pulmonary
+regurgitation can lead to severe right ventricular (RV) dilation and diminished RV systolic performance, which
+can lead to an inadequate ability to augment cardiac output with exercise and, in some cases, right-sided
+heart failure or congestive heart failure. While the likelihood of isolated right-sided heart failure secondary
+to pulmonary regurgitation is low, it should be considered in patients with lower extremity edema, elevated
+jugular venous pressure, hepatomegaly, or ascites. In severe cases where right-sided heart failure has
+occurred, diuretics may be used. Pulmonary valve replacement is required in patients post tetralogy of Fallot
+repair or Ross procedure who develop New York Heart Association (NYHA) class II or III symptoms, but may
+be considered earlier.
+There are no specific criteria to grade severity of pulmonary regurgitation (PR). Severity of PR is usually
+assessed by the diameter of the jet at its origin immediately below the valve, in the right ventricular outflow
+tract (RVOT), on the parasternal short axis view. A jet width that occupies >65% of the RVOT is suggestive
+of severe PR.[8] Symptoms and signs of severe pulmonary regurgitation include dyspnea on exertion,
+syncope, orthopnea, and lower extremity edema. In many situations (e.g., acute pulmonary regurgitation
+post valvuloplasty, post-tetralogy of Fallot repair patients with NYHA class II symptoms or higher) the clinical
+judgment of severity is more dependent on symptoms than on imaging.
+When valve replacement is indicated, transcatheter pulmonary valve replacement is a less invasive approach
+than surgery and may be considered in some select patients.[15] [16] Initially transcatheter pulmonary
+valve replacement was applied to those patients with prior surgical pulmonary valve replacement or RV
+outflow tract conduits, but with new devices this technique is also being successfully applied to patients
+with native RV outflow tracts. In those patients with large RV outflow tracts and/or main pulmonary arteries,
+surgical pulmonary valve replacement may be the only option, due to sizing of the available devices.[17]
+Transcatheter pulmonary valve replacement has been demonstrated to have comparable mortality and need
+for reintervention when compared to surgical pulmonary valve replacement, but with greater rates of infective
+endocarditis.[2] [18]
+Acute pulmonary regurgitation
+Acute pulmonary regurgitation is an almost unavoidable complication of balloon pulmonary valvuloplasty
+and can be managed conservatively in most cases. The clinical judgment of severity in these patients
+is more dependent on symptoms than on imaging. Severe pulmonary regurgitation post valvuloplasty
+is uncommon, affecting 17% of children in one study.[19] Treatment of even the most severe cases is
+directed at treating heart failure. Pulmonary valve replacement may be required, especially in a neonate
+with critical pulmonary stenosis following balloon dilation and a large patent ductus arteriosus. Fluid
+resuscitation and intravenous pressors such as dopamine or dobutamine may be necessary, acutely, for
+severe disease.
+Chronic pulmonary regurgitation in asymptomatic patients
+In most cases, no specific treatment is required for nonsevere pulmonary regurgitation, and treatment is
+directed at the underlying cause. There is growing recognition of the role of pulmonary valve replacement
+in the asymptomatic patient with evidence of hemodynamically significant pulmonary regurgitation.[20] In
+those patients with repaired tetralogy of Fallot, there are now guideline recommendations for pulmonary
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Pulmonary regurgitation Management
+valve replacement based on changes in objective exercise capacity, RV end-diastolic and end-systolic
+volumes, and RV systolic dysfunction.[15] [16] It is important to note that extrapolation of these criteria
+to those patients with isolated pulmonary regurgitation after intervention for pulmonary valve stenosis
+may not be appropriate. The typical situation in which pulmonary valve replacement may be considered
+is in patients who develop pulmonary regurgitation after repair of tetralogy of Fallot, patients with a
+dysfunctional RV to pulmonary valve conduit such as in repaired truncus arteriosus or following a Ross
+procedure (a procedure in which the diseased aortic valve is replaced with the patient's own pulmonary
+valve, and the pulmonary valve is then replaced with a cryopreserved cadaveric pulmonary valve). Many
+would share the concern that it may be unwise to wait until RV function deteriorates in these patients,
+and that valve replacement should be considered before irreversible damage to ventricular performance
+occurs.[20] [21]
+Chronic pulmonary regurgitation in patients with NYHA class I
+symptoms
+Patients are classed as NYHA class I if there is no limitation of physical activity and ordinary physical
+activity does not cause undue fatigue, palpitations, or dyspnea, but symptoms appear with more than
+ordinary activity.
+In most cases, no specific treatment is required. Underlying conditions such as LV failure, mitral stenosis,
+and pulmonary hypertension need to be treated. Heart failure should be managed using standard
+therapies.[22] Patients who develop pulmonary regurgitation after repair of tetralogy of Fallot or a Ross
+procedure may be considered for pulmonary valve replacement, as it may be better to perform valve
+replacement early in these patients.[23] If pulmonary regurgitation is severe and associated with right-
+sided heart failure, then pulmonary valve replacement may be necessary. There are, however, no
+definitive guidelines and the best course of action is unclear.
+Chronic pulmonary regurgitation in patients with NYHA class II
+or III symptoms
+Clinical judgment of disease severity is more dependent on symptoms than on imaging in this situation.
+Most patients with NYHA class II or III symptoms have developed pulmonary regurgitation as a
+complication of tetralogy of Fallot repair or a Ross procedure. Underlying and associated conditions
+such as LV failure, mitral stenosis, and pulmonary hypertension need to be treated. Pulmonary valve
+replacement, usually with a homograft or xenograft, has been performed with low risk of complications,
+and most specialists would perform pulmonary valve replacement in patients with NYHA class II or III
+symptoms.[21] [24]
+Chronic pulmonary regurgitation in patients with NYHA class IV
+symptoms
+Patients are defined as NYHA class IV if they are confined to their bed or chair, any physical activity
+brings on discomfort, and symptoms occur at rest. There are no guidelines or standard protocols on
+management of these patients. Specialist referral for individualized management is advised in all
+circumstances.
+Choice of valve replacement
+Traditionally bioprosthetic pulmonary valves have been implanted; however, they have the disadvantage
+of time-related structural valve failure.[14] Mechanical pulmonary valves have the advantage of long-
+term durability, but they have been infrequently used due to concerns regarding thrombosis and difficulty
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Pulmonary regurgitation Management
+MANAGEMENT
+performing invasive hemodynamic studies following mechanical valve replacement. Reports on long-term
+outcomes of mechanical pulmonary valves are available; however, there is a selection bias for patients
+with prior operations in such reports.[25] The appropriate valve used in pulmonary valve replacement
+needs to be tailored for the individual patient depending on age, multiple operations, and the need for
+long-term anticoagulation. All patients who receive a mechanical valve require lifelong anticoagulation.
+Anticoagulation may also be indicated due to the presence of other mechanical prostheses or as part of
+the treatment of comorbid conditions.[14]
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+acute pulmonary regurgitation
+nonsevere 1st medical management of heart failure
+severe 1st medical management of heart failure
+adjunct inotropic support + pulmonary valve
+replacement
+Ongoing ( summary )
+chronic pulmonary regurgitation
+asymptomatic 1st treatment of the underlying cause
+adjunct pulmonary valve replacement ±
+anticoagulation
+symptomatic with New
+York Heart Association
+(NYHA) class I
+1st treatment of the underlying cause +
+medical management of heart failure
+adjunct pulmonary valve replacement ±
+anticoagulation
+symptomatic with New
+York Heart Association
+(NYHA) class II or III
+1st treatment of the underlying cause +
+medical management of heart failure
+plus pulmonary valve replacement ±
+anticoagulation
+symptomatic with New
+York Heart Association
+(NYHA) class IV
+symptoms
+1st treatment of underlying cause +
+individualized medical and/or surgical
+treatment
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Pulmonary regurgitation Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+acute pulmonary regurgitation
+nonsevere 1st medical management of heart failure
+» An almost unavoidable complication of balloon
+pulmonary valvuloplasty.
+» The severity is more dependent on symptoms
+than on imaging in this setting. Severe
+symptoms and signs include dyspnea on
+exertion, syncope, orthopnea, and lower
+extremity edema. However, in general, a jet
+width that occupies >65% of the right ventricular
+outflow tract is suggestive of severe pulmonary
+regurgitation.[8]
+» In nonsevere cases, management is
+directed at treating heart failure using standard
+therapies.[22]
+severe 1st medical management of heart failure
+» A complication of balloon pulmonary
+valvuloplasty; it is rare for severe disease to
+occur.
+» The severity is more dependent on symptoms
+than on imaging in this setting. Severe
+symptoms and signs include dyspnea on
+exertion, syncope, orthopnea, and lower
+extremity edema. However, in general, a jet
+width that occupies >65% of the right ventricular
+outflow tract is suggestive of severe pulmonary
+regurgitation.[8]
+» Most severe cases can be managed
+conservatively, directing treatment toward heart
+failure using standard therapies.[22]
+adjunct inotropic support + pulmonary valve
+replacement
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» dopamine: 3 to 10 microgram/kg/min by
+intravenous infusion
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Pulmonary regurgitation Management
+MANAGEMENT
+Acute
+» dobutamine: 1 to 10 microgram/kg/min by
+intravenous infusion
+» Fluid resuscitation and intravenous pressors
+such as dopamine or dobutamine may be
+necessary. However, in most cases, pulmonary
+valve replacement may be needed to treat
+severe pulmonary regurgitation. Transcatheter
+pulmonary valve replacement is a less invasive
+approach than surgery and may be considered
+in some patients.[15] [16] Surgical valve
+replacement may be the only option in patients
+with large right ventricular outflow tracts and/
+or main pulmonary arteries, due to sizing of the
+available devices.[17] Transcatheter pulmonary
+valve replacement has been demonstrated
+to have comparable mortality and need for
+reintervention compared to surgical valve
+replacement, but with greater rates of infective
+endocarditis.[2] [18]
+» Traditionally bioprosthetic pulmonary valves
+have been implanted; however, they have
+the disadvantage of time-related structural
+valve failure.[14] Mechanical pulmonary valves
+have the advantage of long-term durability,
+but they have been infrequently used due to
+concerns regarding thrombosis and difficulty
+performing invasive hemodynamic studies
+following mechanical valve replacement.
+» Reports on long-term outcomes of mechanical
+pulmonary valves are emerging; however,
+there is a selection bias for patients with prior
+operations in such reports.[25]
+» The appropriate valve used in pulmonary
+valve replacement needs to be tailored
+for the individual patient depending on
+age, multiple operations, and the need for
+long-term anticoagulation. All patients who
+receive a mechanical valve require lifelong
+anticoagulation. Anticoagulation may also
+be indicated due to the presence of other
+mechanical prostheses or as part of the
+treatment of comorbid conditions.[14]
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Pulmonary regurgitation Management
+Ongoing
+chronic pulmonary regurgitation
+asymptomatic 1st treatment of the underlying cause
+» No specific treatment is required, and
+treatment is directed at the underlying cause.
+The only exception is in patients who develop
+pulmonary regurgitation following repair of
+tetralogy of Fallot or a Ross procedure (a
+procedure in which the diseased aortic valve is
+replaced with the patient's own pulmonary valve,
+and the pulmonary valve is then replaced with
+a cryopreserved cadaveric pulmonary valve), in
+whom valve replacement may be considered.
+adjunct pulmonary valve replacement ±
+anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target international
+normalized ratio
+Patients with a mechanical valve require
+lifelong anticoagulation. Starting dose can
+also be calculated using an online tool that
+takes patient characteristics and/or CYP2C9/
+VKORC1 genotype information (if available)
+into account.  [Warfarin dosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+» Replacement may be considered in patients
+who develop pulmonary regurgitation after repair
+of tetralogy of Fallot or a Ross procedure, as
+it may be unwise to wait until right ventricular
+(RV) function deteriorates with irreversible
+damage to ventricular performance.[20] [21]
+ In these patients, guidelines now recommend
+pulmonary valve replacement based on
+changes in objective exercise capacity, RV end-
+diastolic and end-systolic volumes, RV systolic
+dysfunction.[15] [16]
+» Extrapolation of these criteria to those patients
+with isolated pulmonary regurgitation after
+intervention for pulmonary valve stenosis may
+not be appropriate.
+» Transcatheter pulmonary valve replacement is
+a less invasive approach than surgery and may
+be considered in some patients.[15] [16] Surgical
+valve replacement may be the only option in
+patients with large RV outflow tracts and/or main
+pulmonary arteries, due to sizing of the available
+devices.[17] Transcatheter pulmonary valve
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Pulmonary regurgitation Management
+MANAGEMENT
+Ongoing
+replacement has been demonstrated to have
+comparable mortality and need for reintervention
+compared to surgical valve replacement, but with
+greater rates of infective endocarditis.[2] [18]
+» The appropriate valve used in pulmonary
+valve replacement needs to be tailored for
+the individual patient depending on age,
+multiple operations, and the need for long-
+term anticoagulation. Traditionally bioprosthetic
+pulmonary valves have been implanted;
+however, they have the disadvantage of time-
+related structural valve failure.[14] Mechanical
+pulmonary valves have the advantage of long-
+term durability, but they have been infrequently
+used due to concerns regarding thrombosis
+and difficulty performing invasive hemodynamic
+studies following mechanical valve replacement.
+» Reports on long-term outcomes of mechanical
+pulmonary valves are emerging; however,
+there is a selection bias for patients with prior
+operations in such reports.[25]
+» All patients who receive a mechanical valve
+require lifelong anticoagulation. Bioprosthetic
+valves do not require anticoagulation.
+Anticoagulation may also be indicated due to the
+presence of other mechanical prostheses or as
+part of the treatment of comorbid conditions.[14]
+symptomatic with New
+York Heart Association
+(NYHA) class I
+1st treatment of the underlying cause +
+medical management of heart failure
+» Longstanding pulmonary regurgitation can
+lead to severe right ventricular (RV) dilation and
+diminished RV systolic performance, which can
+lead to an inadequate ability to augment cardiac
+output with exercise and, in some cases, right-
+sided heart failure or congestive heart failure.
+Patients are classed as NYHA class I if they are
+in heart failure, there is no limitation of physical
+activity, and ordinary physical activity does not
+cause undue fatigue, palpitations, or dyspnea,
+but symptoms appear with more than ordinary
+activity.
+» No specific treatment is required. In general
+the underlying conditions such as left ventricular
+failure, mitral stenosis, and pulmonary
+hypertension need to be treated. Heart
+failure needs to be managed using standard
+therapies.[22]
+adjunct pulmonary valve replacement ±
+anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Pulmonary regurgitation Management
+Ongoing
+Primary options
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target international
+normalized ratio
+Patients with a mechanical valve require
+lifelong anticoagulation. Starting dose can
+also be calculated using an online tool that
+takes patient characteristics and/or CYP2C9/
+VKORC1 genotype information (if available)
+into account.  [Warfarin dosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+» Patients who develop pulmonary regurgitation
+after repair of tetralogy of Fallot or a Ross
+procedure may be considered for early
+pulmonary valve replacement.[23] If pulmonary
+regurgitation is severe and associated with
+right-sided heart failure, then pulmonary valve
+replacement may also be necessary. There are,
+however, no definitive guidelines and the best
+course of action is unclear.
+» Transcatheter pulmonary valve replacement
+is a less invasive approach than surgery and
+may be considered in some patients.[15] [16]
+ Surgical valve replacement may be the only
+option in patients with large right ventricular
+outflow tracts and/or main pulmonary arteries,
+due to sizing of the available devices.[17]
+ Transcatheter pulmonary valve replacement
+has been demonstrated to have comparable
+mortality and need for reintervention compared
+to surgical valve replacement, but with greater
+rates of infective endocarditis.[2] [18]
+» The appropriate valve used in pulmonary
+valve replacement needs to be tailored for
+the individual patient depending on age,
+multiple operations, and the need for long-
+term anticoagulation. Traditionally bioprosthetic
+pulmonary valves have been implanted;
+however, they have the disadvantage of time-
+related structural valve failure.[14] Mechanical
+pulmonary valves may be advantageous due
+to their structural stability, but they have been
+infrequently used due to concerns regarding
+thrombosis and difficulty performing invasive
+hemodynamic studies following mechanical
+valve replacement.
+» Reports on long-term outcomes of mechanical
+pulmonary valves are emerging; however,
+there is a selection bias for patients with prior
+operations in such reports.[25]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Pulmonary regurgitation Management
+MANAGEMENT
+Ongoing
+» All patients who receive a mechanical valve
+require lifelong anticoagulation. Bioprosthetic
+valves do not require anticoagulation.
+Anticoagulation may also be indicated due to the
+presence of other mechanical prostheses or as
+part of the treatment of comorbid conditions.[14]
+symptomatic with New
+York Heart Association
+(NYHA) class II or III
+1st treatment of the underlying cause +
+medical management of heart failure
+» Patients are classed as NYHA class II if they
+are in heart failure and have slight, mild limitation
+of activity. Patients are classed as NYHA class III
+if they are in heart failure, have marked limitation
+of activity, and are comfortable only at rest.
+» Pulmonary regurgitation commonly occurs
+after successful repair of tetralogy of Fallot or the
+Ross procedure.
+» In general, underlying and associated
+conditions such as left ventricular failure, mitral
+stenosis, and pulmonary hypertension need to
+be treated.
+» Heart failure needs to be managed using
+standard therapies.[22]
+plus pulmonary valve replacement ±
+anticoagulation
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target international
+normalized ratio
+Patients with a mechanical valve require
+lifelong anticoagulation. Starting dose can
+also be calculated using an online tool that
+takes patient characteristics and/or CYP2C9/
+VKORC1 genotype information (if available)
+into account.  [Warfarin dosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+» Pulmonary valve replacement, usually
+with a homograft or xenograft, has been
+performed with low risk of complications.[21]
+ Most specialists would perform pulmonary
+valve replacement in patients with NYHA
+class II or III symptoms and severe pulmonary
+regurgitation.[24]
+» Transcatheter pulmonary valve replacement
+is a less invasive approach than surgery and
+may be considered in some patients.[15] [16]
+ Surgical valve replacement may be the only
+option in patients with large right ventricular
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Pulmonary regurgitation Management
+Ongoing
+outflow tracts and/or main pulmonary arteries,
+due to sizing of the available devices.[17]
+ Transcatheter pulmonary valve replacement
+has been demonstrated to have comparable
+mortality and need for reintervention compared
+to surgical valve replacement, but with greater
+rates of infective endocarditis.[2] [18]
+» The appropriate valve used in pulmonary
+valve replacement needs to be tailored for
+the individual patient depending on age,
+multiple operations, and the need for long-
+term anticoagulation. Traditionally bioprosthetic
+pulmonary valves have been implanted;
+however, they have the disadvantage of time-
+related structural valve failure.[14] Mechanical
+pulmonary valves may be advantageous due
+to their structural stability, but they have been
+infrequently used due to concerns regarding
+thrombosis and difficulty performing invasive
+hemodynamic studies following mechanical
+valve replacement.
+» Reports on long-term outcomes of mechanical
+pulmonary valves are emerging; however,
+there is a selection bias for patients with prior
+operations in such reports.[25]
+» All patients who receive a mechanical valve
+require lifelong anticoagulation. Bioprosthetic
+valves do not require anticoagulation.
+Anticoagulation may also be indicated due to the
+presence of other mechanical prostheses or as
+part of the treatment of comorbid conditions.[14]
+symptomatic with New
+York Heart Association
+(NYHA) class IV
+symptoms
+1st treatment of underlying cause +
+individualized medical and/or surgical
+treatment
+» Patients are defined as NYHA class IV if they
+are confined to their bed or chair, any physical
+activity brings on discomfort, and symptoms
+occur at rest.
+» There are no guidelines or standard protocols
+on management of patients with NYHA class IV
+symptoms. Specialist referral for individualized
+management is advised in all circumstances.
+Secondary prevention
+The underlying cause, such as mitral stenosis, left ventricular dysfunction, and pulmonary hypertension,
+should be treated. All patients with prosthetic valves need antibiotics for prophylaxis against infective
+endocarditis when undergoing dental procedures that involve manipulation of either gingival tissue or the
+periapical region of teeth, or perforation of the oral mucosa.[14]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Pulmonary regurgitation Management
+MANAGEMENT
+Patient discussions
+If symptoms occur, patients should be reviewed by their physicians. As patients may be at increased
+risk of developing infective endocarditis, the risks and requirements for antibiotic prophylaxis should
+be discussed before any dental or urologic procedures. Current guidelines recommend prophylactic
+antibiotics for patients with prosthetic valves (biological and mechanical, surgical and transcatheter).[15]
+Due to increased risk of atherosclerotic cardiovascular disease (ASCVD) in the population of adults with
+congenital heart disease and increased ASCVD morbidity and mortality in this group, patient education
+regarding cardiovascular disease risk factors and modification of those risk factors where possible is
+recommended.[28]
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Pulmonary regurgitation Follow up
+Monitoring
+Monitoring
+Pulmonary regurgitation may worsen over time. Periodic echocardiogram with Doppler color flow studies
+will provide serial assessment of progression of pulmonary regurgitation and right ventricular size and
+function. In cases of significant pulmonary regurgitation, exercise capacity should be assessed and
+documented, observing for a change or decrease in function. The aim is to assess and accurately decide
+on the need and timing for pulmonary valve replacement.
+After pulmonary valve replacement, patients should be followed up at 30 days and then 6 months,
+followed by yearly visits. In general, all patients who receive a mechanical valve require lifelong
+anticoagulation. International normalized ratio should be monitored and kept between 2.5 and 3.5.
+Frequency of monitoring should be individualized according to the patient's need and response.
+Transition from pediatric to adult care warrants development of a healthcare transition program.[30]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Pulmonary regurgitation Follow up
+FOLLOW UP
+Complications
+Complications Timeframe Likelihood
+right-sided heart failure long term low
+In severe cases where right-sided heart failure has occurred, diuretics may be used. Decision to use
+a diuretic would depend on the clinical condition of the patient, and the choice of diuretic should be
+individualized by the treating specialist. When the condition is severe, patients may not tolerate any
+diuretics. Further information on treatment of heart failure is available in the topics on heart failure.
+heart failure with reduced ejection fraction long term low
+Longstanding pulmonary regurgitation can lead to severe right ventricular (RV) dilation and diminished RV
+systolic performance, which can lead to an inadequate ability to augment cardiac output with exercise and,
+in some cases, result in heart failure with reduced ejection fraction.
+valve failure long term low
+Patient needs to be re-evaluated and consideration given to repeat valve replacement.
+infective endocarditis variable low
+All patients with prosthetic valves need antibiotics for prophylaxis against infective endocarditis when
+undergoing dental procedures that involve manipulation of either gingival tissue or the periapical region of
+teeth, or perforation of the oral mucosa.[14]
+thromboembolic events variable low
+In general, all patients who receive a mechanical valve require lifelong anticoagulation. INR should be
+monitored and kept between 2.5 and 3.5. Frequency of monitoring should be individualized according to
+the patient's need and response.
+complications of valve replacement variable low
+Early mortality for isolated pulmonary valve replacement is 1% in children, and freedom from
+reoperation for bioprosthetic valve deterioration is approximately 90% at 10 years.[27] In patients with
+transcatheter pulmonary valve replacement, mortality, and reintervention at 8 years was 8.9% and 25.1%
+respectively.[29] Patients with mechanical pulmonary valve should be monitored for bleeding complications
+with warfarin.
+Prognosis
+In general, patients do well after pulmonary valve replacement.[6] [21][23] Early mortality for isolated
+pulmonary valve replacement is 1% in children and freedom from reoperation for bioprosthetic valve
+deterioration is approximately 90% at 10 years.[27] Patients with mechanical pulmonary valve should be
+monitored for bleeding complications with warfarin.
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Pulmonary regurgitation Follow up
+Prognosis in patients with severe pulmonary regurgitation who do not undergo surgery (although they may
+be candidates) depends on a number of factors, which include the primary disease causing pulmonary
+regurgitation, involvement of other valves, associated coronary artery disease, and right ventricular dilation
+and dysfunction. In patients with repaired tetralogy of Fallot and chronic pulmonary regurgitation, right
+ventricular dilation has been shown to correlate with an increased incidence of sudden death.[20]
+There are no large trials of prosthetic valves in patients with isolated pulmonary regurgitation to provide
+evidence for the prognosis in untreated patients.
+Patients may be at an excess risk of acquired cardiovascular disease and associated cardiovascular mortality
+compared to the general population, due to factors including abnormal anatomy, reperfusion injuries following
+surgical intervention, hypertension, ventricular hypertrophy, and associated genetic syndromes.[28]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Pulmonary regurgitation Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+ACR appropriateness criteria: known or suspected congenital heart disease
+ (https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [7]
+Published by: American College of Radiology Last published: 2023
+2020 ACC/AHA guideline for the management of patients with valvular heart
+disease (https://www.acc.org/Guidelines)   [14]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2020
+Treatment guidelines
+International
+ACR appropriateness criteria: known or suspected congenital heart disease
+ (https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [7]
+Published by: American College of Radiology Last published: 2023
+2020 ACC/AHA guideline for the management of patients with valvular heart
+disease (https://www.acc.org/guidelines)   [14]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2020
+2018 AHA/ACC guidelines for the management of adults with congenital heart
+disease (https://www.acc.org/guidelines)   [15]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2018
+Surgical management of valvular heart disease (http://www.ccs.ca/index.php/
+en/guidelines/guidelines-library)   [26]
+Published by: Canadian Cardiovascular Society Last published: 2004
+2020 ESC guidelines for the management of adult congenital heart disease
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [16]
+Published by: European Society of Cardiology Last published: 2020
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Pulmonary regurgitation Online resources
+Online resources
+1. Warfarin dosing (http://www.warfarindosing.org/Source/Home.aspx)  (external link)
+ONLINE RESOURCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Pulmonary regurgitation References
+REFERENCES
+Key articles
+• American College of Radiology. ACR appropriateness criteria: congenital or acquired heart disease.
+2023 [internet publication].  Full text (https://acsearch.acr.org/docs/3102389/Narrative)
+• Writing Committee Members, Otto CM, Nishimura RA, et al. 2020 ACC/AHA guideline for
+the management of patients with valvular heart disease: a report of the American College of
+Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll
+Cardiol. 2021 Feb 2;77(4):e25-197.  Full text (https://www.sciencedirect.com/science/article/pii/
+S0735109720377962?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33342586?
+tool=bestpractice.bmj.com)
+• Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on clinical practice guidelines. J Am Coll Cardiol. 2019 Apr 2;73(12):e81-192. 
+Full text (https://www.sciencedirect.com/science/article/pii/S0735109718368463)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30121239?tool=bestpractice.bmj.com)
+• Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32860028?tool=bestpractice.bmj.com)
+• Bokma JP, Geva T, Sleeper LA, et al. Improved outcomes after pulmonary valve replacement
+in repaired tetralogy of Fallot. J Am Coll Cardiol. 2023 May 30;81(21):2075-85.  Full text
+(https://www.sciencedirect.com/science/article/pii/S0735109723052324)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37225360?tool=bestpractice.bmj.com)
+References
+1. Ansari A. Isolated pulmonary valvular regurgitation: current perspectives. Prog Cardiovasc
+Dis. 1991 Mar-Apr;33(5):329-44. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2003147?
+tool=bestpractice.bmj.com)
+2. Tsao CW, Aday AW, Almarzooq ZI, et al. Heart disease and stroke statistics-2023 update: a report
+from the American Heart Association. Circulation. 2023 Feb 21;147(8):e93-621.  Full text (https://
+www.ahajournals.org/doi/10.1161/CIR.0000000000001123)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36695182?tool=bestpractice.bmj.com)
+3. Korbmacher B, Heusch A, Sunderdiek U, et al. Evidence for palliative enlargement of the
+right ventricular outflow tract in severe tetralogy of Fallot. Eur J Cardiothorac Surg. 2005
+Jun;27(6):945-8.  Full text (https://academic.oup.com/ejcts/article/27/6/945/510442)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15896599?tool=bestpractice.bmj.com)
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Pulmonary regurgitation References
+4. Waller BF, Howard J, Fess S. Pathology of pulmonic valve stenosis and pure regurgitation.
+Clin Cardiol. 1995 Jan;18(1):45-50.  Full text (https://onlinelibrary.wiley.com/doi/abs/10.1002/
+clc.4960180112)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7704986?tool=bestpractice.bmj.com)
+5. Price BO. Isolated incompetence of the pulmonic valve. Circulation. 1961 Apr;23:596-602. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/13737957?tool=bestpractice.bmj.com)
+6. Schmidtke C, Bechtel JF, Noetzold A, et al. Up to seven years of experience with the Ross
+procedure in patients >60 years of age. J Am Coll Cardiol. 2000 Oct;36(4):1173-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11028467?tool=bestpractice.bmj.com)
+7. American College of Radiology. ACR appropriateness criteria: congenital or acquired heart disease.
+2023 [internet publication].  Full text (https://acsearch.acr.org/docs/3102389/Narrative)
+8. Lancellotti P, Tribouilloy C, Hagendorff A, et al. European Association of Echocardiography
+recommendations for the assessment of valvular regurgitation. Part 1: aortic and pulmonary
+regurgitation (native valve disease). Eur J Echocardiogr. 2010 Apr;11(3):223-44. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20375260?tool=bestpractice.bmj.com)
+9. Zaidi A, Oxborough D, Augustine DX, et al. Echocardiographic assessment of the tricuspid and
+pulmonary valves: a practical guideline from the British Society of Echocardiography. Echo Res
+Pract. 2020 Dec;7(4):G95-G122.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8052586)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33339003?tool=bestpractice.bmj.com)
+10. Shaver JA. Cardiac auscultation: a cost-effective diagnostic skill. Curr Probl Cardiol. 1995
+Jul;20(7):441-530. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7555039?tool=bestpractice.bmj.com)
+11. Barakos JA, Brown JJ, Higgins CB. MR imaging of secondary cardiac and paracardiac lesions.
+AJR Am J Roentgenol. 1989 Jul;153(1):47-50.  Full text (http://www.ajronline.org/doi/pdf/10.2214/
+ajr.153.1.47)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2735297?tool=bestpractice.bmj.com)
+12. Valente AM, Cook S, Festa P, et al. Multimodality imaging guidelines for patients with repaired
+tetralogy of fallot: a report from the American Society of Echocardiography. J Am Soc
+Echocardiogr. 2014 Feb;27(2):111-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24468055?
+tool=bestpractice.bmj.com)
+13. Grothoff M, Spors B, Abdul-Khaliq H, et al. Pulmonary regurgitation is a powerful factor
+influencing QRS duration in patients after surgical repair of tetralogy of Fallot. Clin Res
+Cardiol. 2006 Dec;95(12):643-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17021680?
+tool=bestpractice.bmj.com)
+14. Writing Committee Members, Otto CM, Nishimura RA, et al. 2020 ACC/AHA guideline for
+the management of patients with valvular heart disease: a report of the American College of
+Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll
+Cardiol. 2021 Feb 2;77(4):e25-197.  Full text (https://www.sciencedirect.com/science/article/pii/
+S0735109720377962?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33342586?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Pulmonary regurgitation References
+REFERENCES
+15. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on clinical practice guidelines. J Am Coll Cardiol. 2019 Apr 2;73(12):e81-192. 
+Full text (https://www.sciencedirect.com/science/article/pii/S0735109718368463)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30121239?tool=bestpractice.bmj.com)
+16. Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32860028?tool=bestpractice.bmj.com)
+17. McElhinney DB, Hellenbrand WE, Zahn EM, et al. Short- and medium-term outcomes after
+transcatheter pulmonary valve placement in the expanded multicenter US melody valve trial.
+Circulation. 2010 Aug 3;122(5):507-16.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC4240270)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20644013?tool=bestpractice.bmj.com)
+18. Ribeiro JM, Teixeira R, Lopes J, et al. Transcatheter versus surgical pulmonary valve replacement:
+a systemic review and meta-analysis. Ann Thorac Surg. 2020 Nov;110(5):1751-61.  Full text
+(https://www.annalsthoracicsurgery.org/article/S0003-4975(20)30501-4/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32268142?tool=bestpractice.bmj.com)
+19. Harrild DM, Powell AJ, Tran TX, et al. Long-term pulmonary regurgitation following balloon
+valvuloplasty for pulmonary stenosis risk factors and relationship to exercise capacity and
+ventricular volume and function. J Am Coll Cardiol. 2010 Mar 9;55(10):1041-7.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4235281)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20202522?tool=bestpractice.bmj.com)
+20. Bokma JP, Geva T, Sleeper LA, et al. Improved outcomes after pulmonary valve replacement
+in repaired tetralogy of Fallot. J Am Coll Cardiol. 2023 May 30;81(21):2075-85.  Full text
+(https://www.sciencedirect.com/science/article/pii/S0735109723052324)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37225360?tool=bestpractice.bmj.com)
+21. Discigil B, Dearani JA, Puga FJ, et al. Late pulmonary valve replacement after repair of tetralogy
+of Fallot. J Thorac Cardiovasc Surg. 2001 Feb;121(2):344-51.  Full text (https://www.jtcvs.org/
+article/S0022-5223(01)38812-8/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11174741?
+tool=bestpractice.bmj.com)
+22. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure. J Am Coll Cardiol. 2022 May 3;79(17):e263-421.  Full text (https://www.jacc.org/
+doi/10.1016/j.jacc.2021.12.012)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35379503?
+tool=bestpractice.bmj.com)
+23. Therrien J, Siu SC, McLaughlin PR, et al. Pulmonary valve replacement in adults late after repair
+of tetralogy of Fallot: are we operating too late? J Am Coll Cardiol. 2000 Nov 1;36(5):1670-5.  Full
+text (https://www.sciencedirect.com/science/article/pii/S073510970000930X)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11079675?tool=bestpractice.bmj.com)
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Pulmonary regurgitation References
+24. Miyatake K, Okamoto M, Kinoshita N, et al. Pulmonary regurgitation studied with the ultrasonic
+pulsed Doppler technique. Circulation. 1982 May;65(5):969-76. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7074762?tool=bestpractice.bmj.com)
+25. Pragt H, van Melle JP, Javadikasgari H, et al. Mechanical valves in the pulmonary position: an
+international retrospective analysis. J Thorac Cardiovasc Surg. 2017 Oct;154(4):1371-8.  Full text
+(https://www.jtcvs.org/article/S0022-5223(17)31050-4/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28697893?tool=bestpractice.bmj.com)
+26. Jamieson WR, Cartier PC, Allard M, et al. Surgical management of valvular heart disease 2004.
+Can J Cardiol. 2004 Oct;20 Suppl E:7E-120E.  Full text (https://ccs.ca/app/uploads/2020/12/
+HD_CC_2004_Valv.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16804571?
+tool=bestpractice.bmj.com)
+27. Warnes CA, Williams RG, Bashore TM, et al. ACC/AHA 2008 guidelines for the management of
+adults with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on Practice Guidelines. Circulation. 2008 Dec 2;118(23):e714-833.  Full
+text (http://circ.ahajournals.org/cgi/content/full/118/23/e714)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18997169?tool=bestpractice.bmj.com)
+28. Brida M, De Rosa S, Legendre A, et al. Acquired cardiovascular disease in adults with congenital
+heart disease. Eur Heart J. 2023 Nov 14;44(43):4533-48.  Full text (https://academic.oup.com/
+eurheartj/article/44/43/4533/7284092)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37758198?
+tool=bestpractice.bmj.com)
+29. McElhinney DB, Zhang Y, Levi DS, et al. Reintervention and survival after transcatheter
+pulmonary valve replacement. J Am Coll Cardiol. 2022 Jan 4;79(1):18-32.  Full text
+(https://www.sciencedirect.com/science/article/pii/S0735109721080189)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34991785?tool=bestpractice.bmj.com)
+30. John AS, Jackson JL, Moons P, et al. Advances in managing transition to adulthood for adolescents
+with congenital heart disease: a practical approach to transition program design: a scientific statement
+from the American Heart Association. J Am Heart Assoc. 2022 Apr 5;11(7):e025278.  Full text
+(https://www.ahajournals.org/doi/10.1161/JAHA.122.025278)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35297271?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Pulmonary regurgitation Images
+IMAGES
+Images
+Figure 1: Short axis echocardiographic view in a patient with pulmonary regurgitation following repair of
+tetralogy of Fallot. The patient has a restrictive right ventricle, and short axis echocardiographic view reveals
+that the right ventricle is large
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Pulmonary regurgitation Images
+Figure 2: Short axis echocardiographic view in a patient with pulmonary regurgitation following repair of
+tetralogy of Fallot. The patient has a restrictive right ventricle, and short axis echocardiographic view reveals
+a small right ventricle
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Pulmonary regurgitation Images
+IMAGES
+Figure 3: Doppler echocardiogram in a patient with pulmonary regurgitation following repair of tetralogy of
+Fallot, revealing a non-obstructed right ventricular outflow tract. The patient has a restrictive right ventricle
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Pulmonary regurgitation Images
+Figure 4: Doppler echocardiogram in a patient with pulmonary regurgitation following repair of tetralogy of
+Fallot, revealing a nonobstructed right ventricular outflow tract. The patient has a nonrestrictive right ventricle
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Pulmonary regurgitation Images
+IMAGES
+Figure 5: Doppler in a patient with pulmonary regurgitation following repair of tetralogy of Fallot. The patient
+has a nonrestrictive right ventricle, and an ‘‘A’’ wave is not seen in the pulmonary artery Doppler spectrum
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Pulmonary regurgitation Images
+Figure 6: Doppler in a patient with pulmonary regurgitation following repair of tetralogy of Fallot. The patient
+has a restrictive right ventricle, and Doppler shows evidence of restriction with an antegrade "A" wave in the
+pulmonary artery
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Pulmonary regurgitation Images
+IMAGES
+Figure 7: Chest x-ray in a patient with pulmonary regurgitation following repair of tetralogy of Fallot. The
+patient has a restrictive right ventricle and the heart is small
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Pulmonary regurgitation Images
+Figure 8: Chest x-ray in a patient with pulmonary regurgitation following repair of tetralogy of Fallot. The
+patient has a nonrestrictive right ventricle and the heart is large
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Pulmonary regurgitation Images
+IMAGES
+Figure 9: Magnetic resonance imaging (MRI) in a patient with pulmonary regurgitation following repair of
+tetralogy of Fallot. The patient has a restrictive right ventricle, and MRI shows decreased right ventricular
+volume
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Pulmonary regurgitation Images
+Figure 10: Magnetic resonance imaging (MRI) in a patient with pulmonary regurgitation following repair of
+tetralogy of Fallot. The patient has a nonrestrictive right ventricle, and MRI shows that the right ventricle is
+dilated
+From: Chaturvedi RR, Redington AN. Heart. 2007 Jul;93(7):880-9; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Pulmonary regurgitation Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Pulmonary regurgitation Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 15, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Contributors:
+// Authors:
+Karen K. Stout, MD, FACC
+Professor of Medicine
+Adjunct Professor of Pediatrics and Cardiology, Division of Cardiology, University of Washington, Seattle,
+WA
+DISCLOSURES: KKS is former chair of a prior ACC/AHA guidelines committee and an author of a guideline
+cited in this topic.
+Andrew Pistner, MD
+Assistant Professor of Medicine
+Division of Cardiology, University of Washington, Seattle, WA
+DISCLOSURES: AP declares that he has no competing interests.
+// Acknowledgements:
+Dr Karen K. Stout and Dr Andrew Pistner would like to gratefully acknowledge Dr Sachin S. Goel, Dr Chetan
+P. Huded, Dr Samir Kapadia, and Dr Mehdi H. Shishehbor, previous contributors to this topic.
+DISCLOSURES: SSG, CPH, SK, and MHS declare that they have no competing interests.
+// Peer Reviewers:
+Satish Adwani, MD
+Consultant in Paediatric Cardiology and Adults with Congenital Heart Disease
+John Radcliffe Hospital, Oxford, UK
+DISCLOSURES: SA declares that he has no competing interests.
+Sarabjeet Singh, MD
+Cardiology Fellow
+Adult Cardiovascular Fellowship, Department of Cardiology, Chicago Medical School (CMS) and affiliated
+hospitals, Chicago, IL
+DISCLOSURES: SS declares that he has no competing interests.
+Debabrata Mukherjee, MD
+Gill Foundation Professor of Interventional Cardiology
+Director of Cardiac Catheterization Laboratories, Gill Heart Institute, Division of Cardiovascular Medicine,
+University of Kentucky, Lexington, KY
+DISCLOSURES: DM declares that he has no competing interests.
+Syed Wamique Yusuf, MD, MRCPI, FACC
+Associate Professor
+University of Texas MD Anderson Cancer Center, Department of Cardiology, Houston, TX
+DISCLOSURES: SWY declares that he has no competing interests.

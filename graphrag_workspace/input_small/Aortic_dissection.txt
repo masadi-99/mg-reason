@@ -1,0 +1,2179 @@
+# Aortic dissection
+
+=== Page 1 ===
+Aortic dissection
+Straight to the point of care
+Last updated: May 23, 2023
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  6
+Classification  7
+Case history  10
+Diagnosis  13
+Approach  13
+History and exam  19
+Risk factors  20
+Tests  24
+Differentials  28
+Management  29
+Approach  29
+Treatment algorithm overview  36
+Treatment algorithm  38
+Primary prevention  45
+Secondary prevention  45
+Patient discussions  45
+Follow up  46
+Monitoring  46
+Complications  47
+Prognosis  48
+Guidelines  50
+Diagnostic guidelines  50
+Treatment guidelines  51
+References  52
+Images  61
+Disclaimer  67
+=== Page 3 ===
+Aortic dissection Overview
+Summary
+Aortic dissection typically presents in men older than 50 years of age, with sudden onset of severe ripping or
+tearing substernal or interscapular pain. Patients typically describe the pain as severe “sharp” or “stabbing”,
+maximal at onset.
+May present with syncope, heart/renal failure, or mesenteric or limb ischemia; oxygen/advanced life support
+protocol and hemodynamic support should be instituted without delay when the condition is suspected.
+Diagnostic modalities include computed tomography scan, magnetic resonance imaging, or transthoracic/
+transesophageal echocardiography.
+Involvement of the ascending aorta and/or arch warrants urgent surgical repair. Dissections of the
+descending aorta are managed medically with beta blockade; surgery in this group is reserved for those with
+end-organ malperfusion, persistent pain, rapid aneurysmal degeneration, or rupture.
+Lifelong surveillance is needed with regular imaging to detect delayed aneurysmal degeneration of the
+remaining aorta, which may later require surgery.
+Definition
+Aortic dissection describes the condition when a separation has occurred in aortic wall intima, causing
+blood flow into a new false channel composed of the inner and outer layers of the media. Dissection most
+commonly occurs with a discrete intimal tear, but can occur without one. Type A dissection involves the
+ascending aorta, with or without involvement of the arch and descending aorta.[1] Type B does not involve
+the ascending aorta, and predominantly involves only the descending thoracic (distal to the left subclavian
+artery) and/or abdominal aorta.[1] The Society for Vascular Surgery and Society of Thoracic Surgeons have
+proposed that aortic dissection be divided into 4 phases, based on time from onset of symptoms: hyperacute
+(<24 hours), acute (1-14 days), subacute (15-90 days), and chronic (>90 days).[2]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Aortic dissection Theory
+THEORY
+Epidemiology
+Globally, reported incidences of aortic dissection range from 3 to 10 cases per 100,000 patients in the United
+States to 16 cases per 100,000 patients in Sweden.[6] One prospective UK-based population study derived
+an incidence of 6 cases per 100,000 when out-of-hospital deaths were included.[7] Men are predominantly
+affected, typically between the ages of 50 and 70 years; patients with Marfan syndrome, bicuspid aortic
+valve, Loeys-Dietz syndrome, and vascular Ehlers-Danhlos syndrome present at younger ages.[4] The true
+incidence of acute aortic dissection may be underrepresented by these population reports, given that many
+patients die before reaching a hospital, with the cause of death never proven.[6]
+Etiology
+Aortic dissection results from an intimal tear that extends into the media of the aortic wall. Cystic medial
+degeneration predisposes to intimal disruption and is characterized by elastin, collagen, and smooth muscle
+breakdown in the lamina media. Bleeding from the vasa vasorum can also lead to this condition.
+Inherited conditions that lead to medial degeneration provide a morphologic substrate for developing
+aortic dissection. Marfan syndrome and Ehlers-Danlos syndrome lead to weakening of the media, thus
+predisposing to aortic dilation and dissection. Bicuspid aortic valve may be associated with a nonspecific
+connective-tissue disease, predisposing to aortic aneurysm and/or dissection. Aortic atherosclerosis
+with dilation, and inflammatory or traumatic conditions or infections, may also predispose to aneurysmal
+degeneration and dissection. Although rare, iatrogenic causes of aortic dissection include aortic manipulation
+associated with cardiac surgery or interventional procedures.[8] It is unclear if these iatrogenic complications
+occur in patients already predisposed by the etiologies described above.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Aortic dissection Theory
+Transesophageal echocardiography (transverse aortic section) showing a circumferential
+dissection of the ascending aorta in a 30-year-old patient with features of Marfan syndrome
+Bouzas-Mosquera A, Solla-Buceta M, Fojón-Polanco S. Circumferential
+aortic dissection. BMJ Case Reports 2009; doi:10.1136/bcr.2007.049908
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Aortic dissection Theory
+THEORY
+CT scan showing dissecting aneurysm in a 45-year-old patient with Marfan syndrome experiencing chest pain
+Sanyal K, Sabanathan K. Chest pain in Marfan syndrome. BMJ Case Reports 2009; doi:10.1136/bcr.07.2008.0431
+Pathophysiology
+An intimal tear is the initial event, with subsequent degeneration of the medial layer of the aortic wall.
+Blood then passes through the media, propagating distally or proximally and creating a false lumen. As
+the dissection propagates, flow through the false lumen can occlude flow through branches of the aorta,
+including the coronary, brachiocephalic, intercostal, visceral and renal, or iliac vessels.
+The intimal tears of dissection most commonly occur just above the sinotubular junction or just distal to the
+left subclavian artery.[9] Regardless of where tears occur in the aorta, there may be both a retrograde and
+antegrade extension of the dissection.[6] Retrograde dissections starting in the ascending aorta can lead to
+aortic incompetence by separating the aortic valve from the aortic root.
+Static narrowing of side branches occurs when the line of dissection intersects the vessel origin and the
+aortic hematoma has propagated into the vessel wall, leading to stenosis or occlusion of the side branch.
+Dynamic compression occurs when the dissection flap is on the opposite side of the side-branch origin.
+Obstruction of the side branch occurs during diastole, when the true lumen collapses and the intimal flap
+closes over the ostium of the branch vessel. Flow is restored during systole. Both static and dynamic
+compression of a side branch or a combination of both can lead to total flow occlusion and end-organ
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Aortic dissection Theory
+ischemia.[6] Subsequent clinical manifestations occur depending on the extent of propagation of the
+dissection with subsequent organ malperfusion.[4][6]
+Laplace's law describes wall stress as directly proportional to pressure and radius, and inversely proportional
+to wall thickness. Thus, factors that weaken the aortic wall, particularly the lamina media, lead to increased
+risk of aneurysm formation and dissection, and a cycle of increasing wall stress.[6]
+Classification
+Stanford[1]
+• Type A: Dissection involves the ascending aorta with or without involvement of the arch and
+descending aorta.
+Proximal dissection
+From the collection of Dr Eric E. Roselli; used with permission
+• Type B: Dissection does not involve the ascending aorta. Predominantly involves only the descending
+thoracic (distal to the left subclavian artery) and/or abdominal aorta.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Aortic dissection Theory
+THEORY
+3D CT, distal dissection
+From the collection of Dr Eric E. Roselli; used with permission
+DeBakey[3]
+• Type 1: Tear originates in the ascending aorta and involves the ascending aorta and aortic arch, and
+variable amounts of the descending thoracic aorta.
+• Type 2: Dissection is confined to the ascending aorta.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Aortic dissection Theory
+CT of a 71-year-old man showing type II dissecting aneurysm of the ascending aorta. Hematoma
+around the proximal segment of the ascending aorta (panels A-D) compressed the right
+pulmonary artery, almost occluding its patency and limiting the perfusion of the reciprocal lung
+Stougiannos PN, Mytas DZ, Pyrgakis VN. The changing faces of aortic dissection: an unusual
+presentation mimicking pulmonary embolism. BMJ Case Reports 2009; doi:10.1136/bcr.2006.104414
+• Type 3: Tear originates distal to the left subclavian artery and extends through the thoracic aorta (3A)
+or extends beyond the visceral segment (3B).
+Society for Vascular Surgery/Society of Thoracic Surgeons
+chronicity classification[2]
+• Hyperacute (<24 hours from onset of symptoms)
+• Acute (1-14 days after onset)
+• Subacute (15-90 days after onset)
+• Chronic (>90 days after onset)
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Aortic dissection Theory
+THEORY
+Case history
+Case history #1
+A 59-year-old man presents to the emergency department with a sudden onset of excruciating chest pain,
+which he describes as "stabbing". There is a history of hypertension. On physical examination, his heart
+rate is 95 bpm. Blood pressure is 195/90 mmHg in the right arm and 160/80 mmHg in the left arm. Pulses
+are absent in the right leg and diminished in the left.
+Other presentations
+The pain of aortic dissection usually manifests as acute, tearing chest and back pain (Stanford Type A)
+or tearing back pain (Stanford Type B). It may also migrate through the thorax or abdomen. Although
+the classic textbook description is of acute tearing or ripping pain, patients more commonly describe the
+abrupt onset of severe “sharp” or “stabbing” pain, maximal at onset.[4]
+Symptoms of stroke or visceral or acute limb ischemia may be present. Patients may be hemodynamically
+stable or in hypovolemic shock. Occasionally, depressed mental status or neurologic changes, limb
+pain, paresthesias or weakness, paraplegia, or syncope are presenting symptoms. Infrequently (less
+than 10%), patients present atypically without pain.[5] There may be signs of heart failure, pericardial
+tamponade, or a left pleural effusion. Younger patients can present with a recent history of heavy lifting or
+cocaine use.
+Patients with connective-tissue disorders such as Marfan syndrome often present in their 30s, most often
+due to aortic root enlargement. Patients with Marfan syndrome with a normal diameter aorta may also be
+at risk.[4]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Aortic dissection Theory
+Transesophageal echocardiography (transverse aortic section) showing a circumferential
+dissection of the ascending aorta in a 30-year-old patient with features of Marfan syndrome
+Bouzas-Mosquera A, Solla-Buceta M, Fojón-Polanco S. Circumferential
+aortic dissection. BMJ Case Reports 2009; doi:10.1136/bcr.2007.049908
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Aortic dissection Theory
+THEORY
+CT scan showing dissecting aneurysm in a 45-year-old patient with Marfan syndrome experiencing chest pain
+Sanyal K, Sabanathan K. Chest pain in Marfan syndrome.
+BMJ Case Reports 2009; doi:10.1136/bcr.07.2008.0431
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Aortic dissection Diagnosis
+Approach
+Aortic dissection should be suspected when an abrupt onset of tearing or ripping chest, back or abdominal
+pain is reported.[10] [11] Patients typically describe the pain as severe “sharp” or “stabbing”, maximal at
+onset.[4] Missing the diagnosis may be catastrophic, hence the importance of acute history taking to prompt
+further investigation.[11] [27]
+The usual presentation is a male patient in their 50s, but the condition may occur in younger patients who
+have Marfan syndrome, Ehlers-Danlos syndrome, or other connective-tissue disorders.[14] [4] Other high-
+risk scenarios include a family history of aortic disease or connective-tissue disorder, known aortic disease
+or thoracic aortic aneurysm, and previous aortic manipulation (including cardiac surgery).[10] [11] Most
+patients have prior hypertension, often poorly controlled.[10] [11] Younger patients may have a connective-
+tissue disorder, or a recent history of heavy lifting or cocaine use. Because of the severity of the condition,
+the diagnosis should be considered in young patients, even when predisposing factors are absent.
+Signs and symptoms
+Acute onset of severe chest or back pain heralds acute aortic dissection in 80% to 90% of patients.[11]
+The pain associated with aortic dissection may be located retrosternally, interscapularly, or in the lower
+back.[10] [14] Although the classic textbook description is of acute “tearing” or “ripping” pain, patients
+more commonly report the abrupt onset of severe “sharp” or “stabbing” pain, maximal at onset.[4] Anterior
+chest pain is typically associated with an ascending dissection; interscapular pain usually occurs with a
+descending dissection.[10] [14] Pain may migrate through the thorax or abdomen, and the location of pain
+may change with time as the dissection extends.[10] [14] A minority of patients present with syncope and
+no pain.[11]
+It is important to recognize that no single symptom of aortic dissection is pathognomonic for the condition,
+as there is overlap with cardiac, pulmonary, abdominal, and musculoskeletal disorders.
+Patients may be hemodynamically stable or in hypovolemic shock.[4] Blood pressure differences in
+the upper extremities or pulse deficits in the lower extremities should be sought.[10] [4] A pulse deficit
+is particularly common in a proximal dissection affecting the aortic arch.[10] [11] The deficit may be
+unilateral or bilateral depending on the level of the intimal flap.[10] A pulse deficit may also be present
+in more distal aortic dissections (e.g., of the descending aorta) and, in some cases, may lead to acute
+limb ischemia. However, pulse deficits are less common than in more proximal dissections.[10] A
+difference in systolic blood pressure of greater than 20 mmHg between the two arms is a key sign of
+aortic dissection.[4]
+Neurologic deficits may indicate involvement of cerebral or intercostal vessels. There may be depressed
+mental status, limb pain, paresthesia, weakness, or paraplegia. Symptoms of visceral ischemia may be
+present. Occasionally, a diastolic decrescendo murmur may be discovered, indicating aortic insufficiency.
+There may be symptoms or signs of heart failure, pericardial tamponade, or a left pleural effusion.[11]
+See Pleural effusion .
+One systematic review identified neurologic deficit, hypotension, and a pulse deficit as the three clinical
+examination findings with the highest positive likelihood ratios for aortic dissection.[28]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Aortic dissection Diagnosis
+DIAGNOSIS
+Tests
+The choice of investigations for diagnostic work-up of acute dissection is based on the patient’s
+hemodynamic status, likelihood of aortic dissection, and local availability and expertise.[10] [4] Initial
+work-up includes ECG, and cardiac enzymes to exclude myocardial infarction.[4][10] [14] See ST-
+elevation myocardial infarction . 
+Myocardial ischemia or infarction may be present in 10% to 15% of patients with aortic dissection, which
+can mask the diagnosis of dissection.[10]
+Blood tests including a complete metabolic panel and complete blood count, including blood type and
+crossmatch, should also be requested. Despite a high sensitivity, D-dimer is not recommended as the
+sole screening tool for acute aortic dissection; while negative D-dimer may be helpful to rule out aortic
+dissection in low-risk patients, particularly when used within an integrated decision support tool, a
+positive D-dimer lacks specificity when used in isolation.[29] [30] However, D-dimer will be of value when
+considering the differential diagnosis (e.g., pulmonary embolus).[27] Other biomarkers with the potential
+to assist in the diagnosis of aortic dissection include C-reactive protein, elastin degradation products,
+calponin, and smooth muscle myosin heavy chain, but none of these have been validated.[31]
+In patients with a suspected aortic dissection, computed tomography angiography (CTA) is recommended
+for initial diagnostic imaging, given its wide availability, accuracy, and speed, as well as the extent of
+anatomic detail it provides.[4] [24] [10] [11] [14] [32] [33] [34] CTA has a sensitivity greater than 90% and
+specificity greater than 85% for acute aortic syndromes, including aortic dissection.[10] CTA also shows
+the full extent of the dissection and, in some cases, the entry tear site. CTA can detect the presence
+and mechanism of aortic branch vessel involvement as well as vessel patency, signs of malperfusion,
+pericardial effusion and hemopericardium, periaortic or mediastinal hematoma, and pleural effusion.[4]
+ For patients who cannot receive iodinated contrast, CT without contrast is an acceptable alternative. 
+The diagnosis of aortic dissection is made by imaging an intimal flap separating 2 lumens. If the false
+lumen is completely thrombosed, central displacement of the intimal flap, calcification, or separation
+of intimal layers are definitive signs of aortic dissection. CTA also allows visualization of the extent of
+dissection and involvement of side branches.
+A plain chest x-ray is neither sufficiently sensitive nor specific for aortic dissection to be used as a
+diagnostic tool. A chest x-ray may reveal other causes of acute chest pain.[4][10] [32] [33] [4] Widening
+of the mediastinum or pleural effusion can indicate aortic dissection but is of limited diagnostic value,
+particularly if the dissection is confined to the ascending aorta; chest x-ray is normal in up to 40% of
+patients with aortic dissection.[11] [14] [34] [35]
+Transthoracic echocardiography (TTE) may be used in the emergency department, intensive care unit
+(ICU), or operating room for acute proximal dissections if the patient is clinically unstable and there is any
+question about the diagnosis, or if CTA is unavailable or contraindicated.[11] [32] [36] [4] TTE can show
+pericardial effusion or aortic regurgitation, and a dissection flap can sometimes be visualized; however,
+more complete imaging of the aortic arch requires transesophageal echocardiography or CTA.[4]
+For type A dissections (ascending), transesophageal echocardiography may be done in the ICU or
+operating room to confirm the diagnosis and better evaluate the aortic valve.[11] Sensitivity and specificity
+are higher than for TTE.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Aortic dissection Diagnosis
+Magnetic resonance imaging (MRI) is most often used as a follow-up imaging modality in patients in
+which there is diagnostic uncertainty.[4] Magnetic resonance angiography is the most accurate, sensitive,
+and specific test for aortic dissection, but is rarely used in the acute setting because it is more difficult to
+obtain than CTA.[2] [10]
+In the setting of type B dissections (descending), if medical therapy fails and surgery is required,
+intraoperative intravascular ultrasound helps define the morphology of the dissection and assists in the
+treatment plan.
+If the patient presents with an incidental finding of chronic dissection (such as mediastinal widening or
+prominent aortic knob on chest x-ray), diagnosis is confirmed by cross-sectional imaging such as CTA,
+TTE, or MRI.[24] [10]
+Transesophageal echocardiography (transverse aortic section) showing a circumferential
+dissection of the ascending aorta in a 30-year-old patient with features of Marfan syndrome
+Bouzas-Mosquera A, Solla-Buceta M, Fojón-Polanco S. Circumferential
+aortic dissection. BMJ Case Reports 2009; doi:10.1136/bcr.2007.049908
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Aortic dissection Diagnosis
+DIAGNOSIS
+CT scan showing dissecting aneurysm in a 45-year-old patient with Marfan syndrome experiencing chest pain
+Sanyal K, Sabanathan K. Chest pain in Marfan syndrome.
+BMJ Case Reports 2009; doi:10.1136/bcr.07.2008.0431
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Aortic dissection Diagnosis
+3D CT, distal dissection
+From the collection of Dr Eric E. Roselli; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Aortic dissection Diagnosis
+DIAGNOSIS
+CT of a 71-year-old man showing type II dissecting aneurysm of the ascending aorta. Hematoma
+around the proximal segment of the ascending aorta (panels A-D) compressed the right
+pulmonary artery, almost occluding its patency and limiting the perfusion of the reciprocal lung
+Stougiannos PN, Mytas DZ, Pyrgakis VN. The changing faces of aortic dissection: an unusual
+presentation mimicking pulmonary embolism. BMJ Case Reports 2009; doi:10.1136/bcr.2006.104414
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Aortic dissection Diagnosis
+History and exam
+Key diagnostic factors
+acute severe chest pain (common)
+• Acute onset of a severe tearing or ripping chest pain suggests aortic dissection.[11] [4] Although this is
+the the classic textbook description of pain in aortic dissection, patients more commonly describe the
+pain as severe “sharp” or “stabbing”, maximal at onset.[4]
+• Pain may migrate through the thorax or abdomen, and the location of pain may change with time as
+the dissection extends.[10] [14] Anterior pain occurs with dissection of ascending aorta.
+acute severe interscapular and lower back pain (common)
+• Occurs with dissection of the descending aorta.[11] Pain may migrate through the thorax or abdomen,
+and the location of pain may change with time as the dissection extends.[10] [14] [4]
+features of Marfan syndrome (common)
+• Patients may exhibit typical marfanoid features including tall stature, arachnodactyly, pectus
+excavatum, hypermobile joints, high-arched palate, and narrow face.[10] [11]
+features of Ehlers-Danlos syndrome (common)
+• Vascular (type IV) Ehlers-Danlos syndrome predisposes to both aneurysms and/or dissections.[4]
+ Features include translucent skin, easy bruising, hypermobility of small joints, and premature aging of
+the skin (acrogeria).[10] [11] [37]
+left/right blood pressure differential (common)
+• A difference in systolic blood pressure of greater than 20 mmHg between the two arms is a key sign of
+aortic dissection.[4]
+pulse deficit (common)
+• A pulse deficit (reduction or absence of a pulse) is particularly common in a proximal dissection
+affecting the aortic arch.[10] [11] [4] The deficit may be unilateral or bilateral depending on the level of
+the intimal flap. Pulse deficits may be present in more distal aortic dissections (e.g., of the descending
+aorta) and, in some cases, may lead to acute limb ischemia. However, pulse deficits are less common
+than in more proximal dissections.[10]
+diastolic murmur (common)
+• Crescendo pattern, indicating aortic incompetence. Common in proximal dissections, but uncommon
+in distal dissections.
+syncope (uncommon)
+• Up to 10% of patients may present with syncope and no pain.[38]
+hypotension (uncommon)
+• Associated with cardiac tamponade and/or hypovolemic shock.[4]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Aortic dissection Diagnosis
+DIAGNOSIS
+Other diagnostic factors
+hypertension (common)
+• Due to pre-existing hypertensive condition or increased sympathetic drive.
+dyspnea (uncommon)
+• May indicate new-onset heart failure because of acute aortic insufficiency during proximal dissections,
+or cardiac tamponade.
+altered mental status (uncommon)
+• Due to cerebral ischemia.
+paraplegia (uncommon)
+• Due to compromise of intercostal vessels and subsequent spinal cord ischemia.[4]
+hemiparesis/paresthesia (uncommon)
+• Due to cerebral or peripheral ischemia.
+abdominal pain (uncommon)
+• Visceral ischemia resulting from compromised organ perfusion.
+limb pain/pallor (uncommon)
+• Due to compromised limb perfusion.
+left-sided decreased breath sounds/dullness (uncommon)
+• Left pleural effusion.
+Risk factors
+Strong
+hypertension
+• Most patients have prior hypertension, often poorly controlled.[10] [11] The International Registry of
+Acute Aortic Dissection found that 77% of patients with aortic dissection had a history of hypertension
+and 27% had a history of atherosclerosis.[12]
+atherosclerotic aneurysmal disease
+• Approximately 1% of sudden deaths are attributable to aortic rupture. Of these, two-thirds are due to
+dissection and one third to degenerative aneurysms.[13]
+Marfan syndrome
+• Predisposes to both aneurysms and/or dissections, presumably related to weakness of the aortic
+wall.[4][14]
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Aortic dissection Diagnosis
+Transesophageal echocardiography (transverse aortic section) showing a circumferential
+dissection of the ascending aorta in a 30-year-old patient with features of Marfan syndrome
+Bouzas-Mosquera A, Solla-Buceta M, Fojón-Polanco S. Circumferential
+aortic dissection. BMJ Case Reports 2009; doi:10.1136/bcr.2007.049908
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Aortic dissection Diagnosis
+DIAGNOSIS
+CT scan showing dissecting aneurysm in a 45-year-
+old patient with Marfan syndrome experiencing chest pain
+Sanyal K, Sabanathan K. Chest pain in Marfan syndrome.
+BMJ Case Reports 2009; doi:10.1136/bcr.07.2008.0431
+Ehlers-Danlos syndrome
+• Ehlers-Danlos syndrome type IV predisposes to both aneurysms and/or dissections, presumably
+related to weakness of the aortic wall.[4][14]
+bicuspid aortic valve
+• Predisposes to both aneurysms and/or dissections, presumably related to weakness of the aortic
+wall.[4]
+annuloaortic ectasia
+• Predisposes to both aneurysms and/or dissections, presumably related to weakness of the aortic wall.
+coarctation
+• Untreated coarctation in adults is associated with dissection and is probably related to longstanding
+hypertension.
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Aortic dissection Diagnosis
+smoking
+• Tobacco use is closely associated with atherosclerotic and vascular disease and therefore dissections.
+family history of aortic disease or connective-tissue disorder
+• Family history confers increased risk.[10] [11] [15]
+Weak
+older age
+• The usual presentation is a man in his 50s. However, aortic dissection can occur in younger patients,
+even in the absence of connective-tissue disorders, and should be considered given the severity of the
+process.[4]
+giant cell arteritis
+• Can weaken the media of the aorta and lead to expansion or dissection.
+overlap connective-tissue disorders
+• Clinical or laboratory features of several connective tissue diseases such as rheumatoid arthritis,
+systemic lupus erythematosus, systemic sclerosis, polymyositis, dermatomyositis, and Sjogren
+syndrome, without meeting the criteria for a specific diagnosis.
+surgical/catheter manipulation
+• Manipulation of at-risk aortas: examples of procedures include cardiac catheterization, aortic valve
+replacement, or thoracic stent-grafting.[8] [11] [16]
+cocaine/amphetamine use
+• Acute hypertension, vasoconstriction, increased stroke volume, and vasospasm as a result of the
+misuse of these agents may lead to aortic dissection. Younger age at presentation is typical.[17]
+heavy lifting
+• Typically confined to young patients and theoretically attributed to the elevated aortic pressure during
+straining.
+pregnancy
+• Case reports; for example, in conjunction with Marfan syndrome.[18] [19]
+nondiabetic
+• One systematic review and meta-analysis found that diabetes is associated with a lower prevalence
+of aortic dissection and abdominal aortic aneurysm.[20] Data from one observational Swedish study
+showed that type 2 diabetes reduces the relative risk of aortic dissection by 47% over 7 years.[21]
+There are some data suggesting that metformin therapy may be responsible for the lower abdominal
+aortic aneurysm rates seen in adults with diabetes,[22] [23] but the potential mechanism is yet to be
+determined. 
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Aortic dissection Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+ECG
+• Important first-line test to look for evidence of myocardial ischemia.
+[10] [14]
+ST segment depression
+may occur with acute
+dissection; ST elevation
+occurs rarely
+cardiac enzymes
+• Important to exclude myocardial infarction; however, myocardial
+ischemia and infarction can occur if the dissection extends to the
+coronary ostium. See ST-elevation myocardial infarction .
+cardiac enzymes usually
+negative
+computed tomography angiography (CTA)
+• Should be ordered as soon as diagnosis suspected because of the
+patient's history or widened mediastinum on chest x-ray.[24] [10]
+[11] [14] [34] [32] [33] CTA is the primary modality used to confirm
+the diagnosis, given its wide availability, accuracy, and speed, as
+well as the extent of anatomic detail it provides.[4] Also shows the
+full extent of the dissection and, in some cases, the entry tear site.
+CTA can detect the presence and mechanism of aortic branch
+vessel involvement, as well as vessel patency, signs of malperfusion,
+pericardial effusion and hemopericardium, periaortic or mediastinal
+hematoma, and pleural effusion.[4] For patients who cannot receive
+iodinated contrast, CT without contrast is an acceptable alternative.
+Should include chest, abdomen, and pelvis to visualize extent of the
+dissection. 
+CT scan showing dissecting aneurysm in a 45-year-old
+patient with Marfan syndrome experiencing chest pain
+Sanyal K, Sabanathan K. Chest pain in Marfan syndrome.
+BMJ Case Reports 2009; doi:10.1136/bcr.07.2008.0431
+intimal flap
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Aortic dissection Diagnosis
+Test Result
+CT of a 71-year-old man showing type II dissecting
+aneurysm of the ascending aorta. Hematoma around the
+proximal segment of the ascending aorta (panels A-D)
+compressed the right pulmonary artery, almost occluding
+its patency and limiting the perfusion of the reciprocal lung
+Stougiannos PN, Mytas DZ, Pyrgakis VN. The changing faces of
+aortic dissection: an unusual presentation mimicking pulmonary
+embolism. BMJ Case Reports 2009; doi:10.1136/bcr.2006.104414
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Aortic dissection Diagnosis
+DIAGNOSIS
+Test Result
+3D CT, distal dissection
+From the collection of Dr Eric E. Roselli; used with permission
+renal function tests
+• May show renal failure; either pre-existing, or developing if renal
+perfusion is compromised.[10]
+elevated creatinine and
+blood urea nitrogen
+liver function tests
+• May be elevated if hepatic perfusion is compromised.
+elevated aspartate
+transaminase and alanine
+transaminase
+lactate
+• Indicative of bowel ischemia or metabolic acidosis due to ischemia
+caused by aortic dissection
+elevated or normal
+complete blood count
+• Anemia may be present in the case of hemorrhage. May show signs
+of inflammation due to an inflammatory response (such as systemic
+inflammatory response syndrome [SIRS]) as a consequence of aortic
+dissection.[10] [39]
+reduced or normal
+type and cross
+• Surgical intervention/transfusion may be necessary in some cases.
+preparation for surgery
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Aortic dissection Diagnosis
+Other tests to consider
+Test Result
+chest x-ray
+• Neither sufficiently sensitive nor specific for aortic dissection to
+be used as a diagnostic tool. Excludes pneumonia and may also
+reveal other causes of chest pain.[4][10] [32] [33] Widening of the
+mediastinum or pleural effusion can indicate aortic dissection but is of
+limited diagnostic value for diagnosis of aortic dissection, particularly
+if the dissection is confined to the ascending aorta; chest x-ray is
+normal in up to 40% of patients with aortic dissection.[11] [14] [34]
+[35]
+may show widened
+mediastinum or pleural
+effusion, disruption of
+the normally distinct
+contour of the aortic
+knob, calcium sign
+(separation of the intimal
+calcification from the
+aortic wall of >5 mm,
+tracheal deviation to the
+right, double density
+appearance within the
+aorta, deviation of the
+nasogastric tube to the
+right)
+D-dimer
+• Despite a high sensitivity, D-dimer is not recommended as the sole
+screening tool for acute aortic dissection; while negative D-dimer may
+be helpful to rule out aortic dissection in low-risk patients, particularly
+when used within an integrated decision support tool, a positive D-
+dimer lacks specificity when used in isolation.[29] [30] However, D-
+dimer will be of value when considering the differential diagnosis
+(e.g., pulmonary embolus).[27]
+positive
+transthoracic echocardiography
+• Can be ordered as supplementary test, or in unstable patients
+when acute proximal dissection is suspected.[32] TTE can show
+pericardial effusion or aortic regurgitation, and a dissection flap can
+sometimes be visualized; however, more complete imaging of the
+aortic arch requires transesophageal echocardiography or CTA.[4]
+ Aids diagnosis if the patient presents with an incidental finding of
+chronic dissection (such as mediastinal widening or prominent aortic
+knob on chest x-ray).
+intimal flap
+transesophageal echocardiography
+• Can be used to confirm the diagnosis and better evaluate the aortic
+valve, or if computed tomography angiography is unavailable.
+Sensitivity and specificity are higher than for transthoracic
+echocardiography.[32] Aids diagnosis if the patient presents with an
+incidental finding of chronic dissection (such as mediastinal widening
+or prominent aortic knob on chest x-ray). 
+intimal flap
+MRI
+• MRI is most often used as a follow-up imaging modality where there
+is diagnostic uncertainty.[4] Magnetic resonance angiography is very
+accurate, but rarely used in the acute setting because it is difficult to
+obtain.[40]
+intimal flap
+intravascular ultrasound
+• In the setting of type B dissections, if medical therapy fails and
+surgery required, helps define morphology of the dissection and
+assists in treatment plan.
+intimal flap
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Aortic dissection Diagnosis
+DIAGNOSIS
+Test Result
+smooth muscle myosin heavy chain protein
+• A protein released from damaged aortic medial smooth muscle.[31]
+[41]
+elevated
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Acute coronary syndrome • Chest pain is typically central
+and crushing.
+• There may be a history of
+prior exertional chest pain.
+• ECG and troponin T may
+indicate myocardial infarction
+or ischemia.
+• ST segment depression may
+occur in acute dissection, but
+ST elevation rare.
+Pericarditis • Chest pain typically pleuritic. • ECG typically shows diffuse
+ST elevation.
+Aortic aneurysm • Stable (nondissecting and
+nonleaking) aneurysms are
+asymptomatic. Diagnosis is
+usually incidental to workup
+for another entity.
+• Computed tomography
+angiography of the chest
+does not show dissection.
+Musculoskeletal pain • Pain may be reproducible
+on palpation of the affected
+area.
+• Computed tomography
+angiography of the chest
+does not show dissection.
+Pulmonary embolus • Dyspnea, hypoxia, and
+pleuritic chest pain.
+• There may be evidence of
+deep vein thrombosis: for
+example, calf swelling or
+tenderness.
+• Computed tomography
+angiography of the chest
+shows pulmonary embolus.
+Mediastinal tumor • Possible cough or
+hemoptysis.
+• Computed tomography
+angiography of the chest
+shows evidence of tumor.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Aortic dissection Management
+Approach
+Appropriate treatment is determined by accurate diagnosis of aortic dissection according to the following
+criteria:
+• Type A (ascending)
+• Uncomplicated type B (descending)
+• Type B (descending) with end-organ ischemia.
+Proximal dissection
+From the collection of Dr Eric E. Roselli; used with permission
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Aortic dissection Management
+MANAGEMENT
+3D CT, distal dissection
+From the collection of Dr Eric E. Roselli; used with permission
+Initial management
+Local resuscitation protocols should be followed. Supplemental oxygen and hemodynamic support with
+intravenous fluid resuscitation and judicious use of inotropes is recommended in cases of incipient renal
+failure and hypovolemic shock. See Acute kidney injury  and Shock .
+Initial management of both type A and B dissections involves medical therapy, regardless of definitive
+treatment.[10] [14]
+Intravenous beta-blockers are used to achieve systolic blood pressure less than 120 mmHg, or to lowest
+blood pressure that maintains adequate end-organ perfusion and an appropriate target heart rate.[4]
+Recommendations for target heart rate vary and local protocols should be followed; the American College
+of Cardiology/American Heart Association (ACC/AHA) recommend a target heart rate of 60 to 80 bpm;
+the Society of Thoracic Surgeons/American Association for Thoracic Surgery (STS/AATS) recommend
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Aortic dissection Management
+maintaining a heart rate of <70 bpm; the European Society of Cardiology (ESC) recommends a heart rate
+of <60 bpm as the target for medical therapy.[6] [14] [4] 
+In patients with contraindications (e.g., acute aortic regurgitation, heart block, bradycardia) or intolerance
+to beta-blockers, initial management with an intravenous nondihydropyridine calcium-channel blocker is
+reasonable for heart rate control.[4]
+Invasive monitoring of BP with an arterial line in an ICU setting is recommended to decrease aortic wall
+stress.[4]
+If a beta-blocker (or nondihydropyridine calcium-channel blocker) alone fails, vasodilator therapy (e.g.,
+nitroprusside) should be added.[14] [4]
+To decrease sympathetic tone and facilitate hemodynamic stability, pain should also be controlled with
+intravenous opioids.[10] [14] It should be noted that morphine causes vasodilation and reduces the heart
+rate by increasing vagal tone. Intravenous nonsteroidal anti-inflammatory drugs (e.g., ketorolac) may not
+be suitable because of the risk of inducing hypertension and adverse renal effects.[4]
+Type A dissection
+In patients presenting with suspected or confirmed acute type A aortic dissection, emergency surgical
+consultation and evaluation with immediate surgical intervention is recommended, due to the high risk of
+associated life-threatening complications.[4] The mortality rate of medical management alone for acute
+type A aortic dissection is two to three times that of surgical intervention.[4] 
+In patients who are stable enough, transfer from a low- to high-volume aortic center is reasonable in order
+to improve survival.[4]
+Depending on the extent of retrograde extension, the aortic valve may or may not need to be repaired
+or replaced.[10] This is to prevent cardiac tamponade or fatal exsanguination from aortic rupture.
+Therapeutic options include: open aortic arch replacement; transposition of supra-aortic branches with
+subsequent endovascular repair; total endovascular repair; or the frozen elephant trunk repair technique,
+which combines open repair of the proximal aorta under deep hypothermic circulatory arrest, together with
+placement of thoracic stent grafts into the distal aortic arch and upper descending thoracic aorta.[34]
+In patients with renal, mesenteric, or lower extremity malperfusion, immediate operative repair of the
+ascending aorta is recommended.[4]
+In patients presenting with clinically significant mesenteric (e.g., celiac, superior mesenteric)
+malperfusion, immediate mesenteric revascularization via endovascular or open surgical intervention
+before ascending aortic repair is also reasonable.[4] Evidence of mesenteric malperfusion includes
+abdominal pain, bowel ischemia, lactic acidosis, elevation of liver function test results.[4]
+Of note, stent grafts designed for total endovascular aortic arch repair are currently only available as part
+of a clinical trial, and thus the use of this approach using off-the-shelf stent grafts is off-label.
+One meta-analysis of comparator observational studies reported lower stroke and mortality rates, but
+higher spinal cord ischemia events, with the frozen elephant trunk technique compared with conventional
+aortic arch surgery.[43] Longer term follow-up is necessary, and ideally evidence from randomized
+controlled trials; however, the technologies designed to treat aortic arch pathology continue to evolve.[44]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Aortic dissection Management
+MANAGEMENT
+Complicated acute type B dissection
+Urgent surgical or endovascular intervention is required if type B dissection is complicated by rupture,
+visceral or extremity ischemia, aneurysmal expansion, or persistent pain.[4]
+Although both open and endovascular therapies are acceptable options, the endovascular approach -
+including fenestration and stenting - is gaining preference over the open technique for patients presenting
+with complications.[10] [45] [46] [47] [48]
+ACC/AHA guidelines recommend endovascular stent grafting, rather than open surgical repair, in patients
+with acute type B aortic dissection with rupture in the presence of suitable anatomy.[4] The ACC/AHA
+note that an endovascular approach, rather than open surgical repair, is also reasonable in patients
+with other complications (e.g., branch artery occlusion and malperfusion, extension of dissection, aortic
+enlargement, intractable pain, or uncontrolled hypertension).[4]
+The STS/AATS state that TEVAR is indicated for complicated hyperacute, acute, or subacute type B
+dissection in patients with favorable anatomy for TEVAR.[6] However, open surgical repair is reasonable
+over TEVAR as a more durable treatment in patients with connective tissue disorders who have type B
+dissection with progression of disease despite optimal medical therapy.[6]
+Several studies have demonstrated high technical success rates for endovascular stenting to seal
+proximal entry tears. This promotes false lumen thrombosis and aortic remodeling. Static or dynamic side-
+branch obstruction can be relieved with additional endovascular stents. Compromised branches can be
+treated with ostial bare stents or stent grafts that enlarge the compressed true lumen. Survival rates and
+neurologic complications with endovascular treatment of type B dissections are favorable compared with
+those of open surgery.[6] [47] [48] [49]
+In the US, there is currently one endovascular stent specifically approved for placement in patients with
+type B aortic dissection. This is a modular system consisting of two components: a covered stent graft
+intended to seal the entry tear and to exclude aneurysms associated with chronic dissection, and an
+uncovered stent that is intended to provide support to distal delaminated segments of nonaneurysmal
+aorta with dissection.[50] The uncovered portion of the stent can be placed in the visceral segment of the
+aorta, which allows for the placement of stent grafts within individual visceral vessels as necessary. One
+prospective multicenter study using this device reported favorable clinical and anatomic outcomes for the
+treatment of rupture and malperfusion secondary to acute, complicated type B aortic dissection.[51] Long-
+term outcomes of this device remain to be determined.
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Aortic dissection Management
+Proximal dissection
+From the collection of Dr Eric E. Roselli; used with permission
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Aortic dissection Management
+MANAGEMENT
+3D CT, distal dissection
+From the collection of Dr Eric E. Roselli; used with permission
+Uncomplicated acute type B dissection
+Patients with uncomplicated type B aortic dissection (i.e., without end-organ malperfusion) are usually
+managed medically with blood pressure and pain control during the acute phase (less than 14 days).[24]
+[10] [14] [34] The ACC/AHA and STS/AATS state that optimal medical therapy remains the recommended
+treatment for patients with uncomplicated type B dissection.[6] [4]
+Thoracic endovascular aortic repair
+Thoracic endovascular aortic repair (TEVAR) is increasingly performed in patients with uncomplicated
+dissections in the subacute phase (14 days to 6 weeks) to promote false lumen thrombosis and prevent
+aneurysmal degeneration. However, there is considerable heterogeneity of published data; results from
+meta-analyses evaluating TEVAR in patients with type B aortic dissection should be interpreted with
+caution.
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Aortic dissection Management
+One meta-analysis found no evidence for survival benefit at 1 year for patients with acute uncomplicated
+type B aortic dissection (TBAD) treated with TEVAR compared with those receiving best medical
+therapy.[52] Another meta-analysis found that TEVAR did not prevent aneurysmal degeneration in
+patients treated for acute or chronic (including complicated) TBAD, noting that long-term data are
+lacking.[53] Results from one meta-analysis of a mixed patient population (complicated/uncomplicated,
+acute/subacute TBAD) and one randomized study of patients with stable TBAD, respectively, suggest
+that aneurysm-specific outcomes may be favorable over the longer term following TEVAR.[54] [55] Larger
+trials with longer-term data are still required.[4]
+There may be some benefit to early endovascular intervention in patients with uncomplicated acute
+type B aortic dissection with refractory pain and hypertension.[56] TEVAR in the subacute phase of
+type B dissection may be associated with a lower risk of complications, particularly retrograde type A
+dissection.[57]
+Chronic aortic dissection
+Aortic dissection is a lifelong condition and is defined as chronic at >90 days after the first onset of
+symptoms.[24] [10] [14] This includes patients with persisting type A dissection of the descending aorta
+following surgical repair of the aortic archery.[10] The patient may also be diagnosed with chronic aortic
+dissection if the first diagnosis of aortic dissection is picked up as an incidental finding at the chronic
+stage (e.g., an incidental finding of mediastinal widening or prominent aortic knob on chest x-ray).[10] The
+largest group of patients with chronic aortic dissection (approximately 60%) are patients with surgically
+corrected ascending (Stanford type A) dissection with a persistent false lumen distal to the surgical
+repair.[24] Patients with nonoperated type A dissection rarely live past the acute event; hence, chronic
+dissections of the ascending aorta are exceedingly rare.[24]
+Patients with chronic aortic dissection are managed with the same medical principles as those used in the
+acute phase. Blood pressure control is continued after discharge from the hospital.[58] Beta-blockers and
+ACE inhibitors are usually required, with additional antihypertensives such as diuretics or calcium-channel
+blockers, if necessary, to achieve a systolic blood pressure less than 120 mmHg and an appropriate
+target heart rate. In practice a specialist will aim for a target heart rate for chronic aortic dissection that
+is the same as for acute aortic dissection. Recommendations for target heart rate vary in acute aortic
+dissection and local protocols should be followed; the STS/AATS recommend maintaining heart rate <70
+bpm and the ESC recommends heart rate <60 bpm as the target for medical therapy.[6] [14] At least 40%
+of patients will require combination treatment to control blood pressure.
+Patients should be advised to avoid contact sports and strenuous physical activities (such as isometric
+heavy weight lifting, pushing, or straining that would require a Valsalva manoeuvre) to reduce aortic wall
+shear stress due to sudden rises in arterial blood pressure during exercise.[10] [14] However, activities
+with low static and dynamic stress (mild aerobic exercise and daily activities) can be continued.[10] [14]
+The patient should also avoid cocaine or other stimulating drugs such as methamphetamine.[14]
+Other interventions include management of risk factors for atherosclerotic disease; in particular: smoking
+cessation and lipid-lowering therapy (target of LDL-cholesterol <70 mg/dL).[14] 
+Patients with chronic aortic dissection may need open surgical repair or endovascular therapy
+(TEVAR) in their lifetime. Indications for surgery in uncomplicated chronic aortic dissections depend
+on aortic diameter, pathogenesis, and the presence of symptoms. Asymptomatic chronic thoracic and
+thoracoabdominal aortic dissections with a maximal orthogonal aortic diameter of 6.0 cm in patients
+without connective tissue disease warrant repair.[24] [10] [59] Rapid growth rate >0.5 cm per year also
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Aortic dissection Management
+MANAGEMENT
+may be an indication for repair.[24] Patients with connective tissue diseases and those with a family
+history warrant more careful consideration and may warrant earlier intervention (diameter of 5.0–5.5
+cm).[24] [60] [61]
+TEVAR has been increasingly used for thoracic and thoracoabdominal aortic aneurysm repair occuring
+after aortic dissection because of the low acute risk compared with open repair and the potential to
+reduce aortic mortality and reoperations compared with medical therapy.[24] However, TEVAR faces
+anatomic and morphological limitations to successfully treating this disease, particularly in the chronic
+stage.[24] [62] [63] [64] [65] TEVAR may be a viable rescue option for patients with type A dissection who
+are not eligible for open surgical repair.[66]
+The goals of TEVAR therapy are to:
+• cover the entry tear
+• treat or prevent impending rupture
+• re-establish organ perfusion
+• restore flow in the true lumen
+• induce the false lumen thrombosis.
+One Cochrane review noted a lack of randomized controlled trials (RCTs) and controlled clinical trials
+investigating the effectiveness and safety of TEVAR compared to open surgical repair for patients with
+complicated chronic type B aortic dissection. The investigators were therefore unable to provide any
+evidence to inform decision-making on the optimal intervention for these patients.[67]
+In a retrospective analysis of 80 patients who underwent TEVAR for chronic type B aortic dissections,
+complete false lumen thrombosis was achieved in 52% and aneurysm diameter was stabilized or reduced
+in 65%. Five-year overall survival was 70%.[62] In a prospective multicenter trial from China, TEVAR
+for chronic type B aortic dissection decreased the risk of aortic-related mortality compared with optimal
+medical therapy alone at 4 years, but failed to improve overall survival. The thoracic aorta diameter
+decreased significantly in the TEVAR group, but increased in the medical therapy group.[68] There
+currently are no longer-term data on the efficacy of TEVAR for chronic type B aortic dissection.
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial ( summary )
+hemodynamically unstable:
+suspected aortic dissection
+1st advanced life support with hemodynamic
+support
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Aortic dissection Management
+Acute ( summary )
+confirmed aortic dissection
+1st beta-blocker or nondihydropyridine
+calcium-channel blocker
+plus opioid analgesia
+beta-blocker or calcium-
+channel blocker
+insufficient
+plus vasodilator
+type A plus open surgery or endovascular stent-graft
+repair
+type B with complications
+(rupture, visceral/
+extremity ischemia,
+expansion, or persistent
+pain)
+plus endovascular stent-graft repair or open
+surgery
+type B uncomplicated adjunct endovascular stent-graft repair
+chronic (all types) adjunct open surgery or endovascular stent-graft
+repair
+Ongoing ( summary )
+after hospital discharge
+1st antihypertensive therapy
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Aortic dissection Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial
+hemodynamically unstable:
+suspected aortic dissection
+1st advanced life support with hemodynamic
+support
+» Local resuscitation protocols should be
+followed.
+» Supplemental oxygen and hemodynamic
+support with intravenous fluid resuscitation and
+judicious use of inotropes is recommended in
+cases of incipient renal failure and hypovolemic
+shock. See Acute kidney injury  and Shock .
+» Consult a specialist for guidance on suitable
+vasoactive drug regimens.
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Aortic dissection Management
+Acute
+confirmed aortic dissection
+1st beta-blocker or nondihydropyridine
+calcium-channel blocker
+Primary options
+» labetalol: 1-5 mg/min intravenous infusion
+Goal heart rate is 60-75 bpm and systolic BP
+90-120 mmHg.
+OR
+» esmolol: 500 micrograms/kg intravenously
+initially, followed by 50 micrograms/kg/min for
+4 min, may repeat loading dose and increase
+infusion up to 200 micrograms/kg/min if
+necessary
+Adjust maintenance infusion to achieve goal
+blood pressure.
+OR
+» metoprolol tartrate: 5 mg intravenously
+every 5-10 minutes, maximum 15 mg/total
+dose
+Secondary options
+» diltiazem: 0.25 mg/kg intravenously initially
+(may give another dose of 0.35 mg/kg after
+15 minutes), followed by 5-15 mg/hour
+infusion for <24 hours
+» Intravenous beta-blockers are used to
+achieve a systolic blood pressure less than
+120 mmHg or to lowest blood pressure that
+maintains adequate end-organ perfusion and an
+appropriate target heart rate.[4]
+» Recommendations for target heart rate vary
+and local protocols should be followed; the
+American College of Cardiology/American
+Heart Association recommend a target heart
+rate of 60 to 80 bpm; the Society of Thoracic
+Surgeons/American Association for Thoracic
+Surgery recommend maintaining a heart rate of
+<70 bpm; the European Society of Cardiology
+recommends a heart rate of <60 bpm as the
+target for medical therapy.[6] [14] [4]
+» In patients with contraindications (e.g.,
+acute aortic regurgitation, heart block, or
+bradycardia), or intolerance to beta-blockers,
+initial management with an intravenous
+nondihydropyridine calcium-channel blocker
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Aortic dissection Management
+MANAGEMENT
+Acute
+(e.g., diltiazem) is reasonable for heart rate
+control.[4] Invasive monitoring of BP with an
+arterial line in an ICU setting is recommended to
+decrease aortic wall stress.[4]
+plus opioid analgesia
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» morphine sulfate: 2-5 mg intravenously
+every 5-30 minutes as needed
+» Pain control is an important first-line therapy
+to reduce sympathetic tone and facilitate
+hemodynamic stability.[10] [14] It should be
+noted that morphine causes vasodilation and
+reduces the heart rate by increasing vagal tone.
+beta-blocker or calcium-
+channel blocker
+insufficient
+plus vasodilator
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» nitroprusside: 0.3 to 0.5 micrograms/kg/
+min intravenously initially, increase by 0.5
+micrograms/kg/min increments; maximum 10
+micrograms/kg/min
+» If first-line treatment with beta-blockers (or
+nondihydropyridine calcium-channel blockers
+in patients with contraindications or intolerance
+to beta-blockers) and analgesia fail to achieve
+a systolic blood pressure less than 120 mmHg
+and an appropriate target heart rate, then
+intravenous antihypertensive vasodilator therapy
+(such as nitroprusside) should be added.[14] [4]
+type A plus open surgery or endovascular stent-graft
+repair
+Treatment recommended for ALL patients in
+selected patient group
+» Type A dissection involves the ascending
+aorta with or without involvement of the arch
+and descending aorta. In patients presenting
+with suspected or confirmed acute type A aortic
+dissection, emergency surgical consultation and
+evaluation with immediate surgical intervention is
+recommended, due to the high risk of associated
+life-threatening complications.[4] The mortality
+rate of medical management alone for acute
+type A aortic dissection is two to three times
+that of surgical intervention.[38] In patients who
+are stable enough, transfer from a low- to high-
+volume aortic center is reasonable in order to
+improve survival.[4]
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Aortic dissection Management
+Acute
+» Depending on the extent of retrograde
+extension, the aortic valve may or may not need
+to be repaired or replaced.[10] This is to prevent
+cardiac tamponade or fatal exsanguination from
+aortic rupture.
+» Therapeutic options include: open aortic
+arch replacement; transposition of supra-
+aortic branches with subsequent endovascular
+repair; total endovascular repair; or the frozen
+elephant trunk repair technique, which combines
+open repair of the proximal aorta under deep
+hypothermic circulatory arrest, together with
+placement of thoracic stent grafts into the distal
+aortic arch and upper descending thoracic
+aorta.[34] 
+» In patients with renal, mesenteric, or
+lower extremity malperfusion, immediate
+operative repair of the ascending aorta is
+recommended.[4] In patients presenting with
+clinically significant mesenteric (e.g., celiac,
+superior mesenteric) malperfusion, immediate
+mesenteric revascularization via endovascular
+or open surgical intervention before ascending
+aortic repair is also reasonable.[4] Evidence of
+mesenteric malperfusion includes abdominal
+pain, bowel ischemia, lactic acidosis, elevation of
+liver function test results.[4]
+» One meta-analysis of comparator
+observational studies reported lower stroke
+and mortality rates, but higher spinal cord
+ischemia events, with the frozen elephant trunk
+technique compared with conventional aortic
+arch surgery.[43] Longer term follow-up is
+necessary.[44]
+type B with complications
+(rupture, visceral/
+extremity ischemia,
+expansion, or persistent
+pain)
+plus endovascular stent-graft repair or open
+surgery
+Treatment recommended for ALL patients in
+selected patient group
+» Type B dissection involves only the descending
+thoracic aorta (distal to the left subclavian artery)
+and/or abdominal aorta.
+» Urgent surgical or endovascular intervention
+is required if type B dissection is complicated
+by rupture, visceral or extremity ischemia,
+aneurysmal expansion, or persistent pain.[4]
+» For complicated type B dissections, the goal
+of open surgery is to resect/cover the entry
+tear and re-establish flow into compromised
+branch vessels. Although both open and
+endovascular therapies are acceptable
+options, the endovascular approach - including
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Aortic dissection Management
+MANAGEMENT
+Acute
+fenestration and stenting - is gaining preference
+over the open technique for patients presenting
+with complications.[10] [45] [46] [47] [48]
+» American College of Cardiology/American
+Heart Association (ACC/AHA) guidelines
+recommend endovascular stent grafting rather
+than open surgical repair in patients with acute
+type B aortic dissection with rupture, in the
+presence of suitable anatomy.[4] The ACC/AHA
+note that an endovascular approach, rather
+than open surgical repair, is also reasonable in
+patients with other complications (e.g., branch
+artery occlusion and malperfusion, extension of
+dissection, aortic enlargement, intractable pain,
+or uncontrolled hypertension).[4] The Society
+of Thoracic Surgeons/American Association
+for Thoracic Surgery (STS/AATS) state that
+TEVAR is indicated in patients with complicated
+hyperacute, acute, or subacute type B dissection
+and favorable anatomy for TEVAR.[6] However,
+open surgical repair is reasonable over TEVAR
+as a more durable treatment in patients with
+connective tissue disorders who have type B
+dissection with progression of disease despite
+optimal medical therapy.[6]
+type B uncomplicated adjunct endovascular stent-graft repair
+Treatment recommended for SOME patients in
+selected patient group
+» Patients with uncomplicated type B aortic
+dissection (i.e., without end-organ malperfusion)
+are usually managed medically with blood
+pressure and pain control during the acute
+phase (less than 14 days).[24] [10] [14] [34]
+ The American College of Cardiology/American
+Heart Association and the Society of Thoracic
+Surgeons/American Association for Thoracic
+Surgery state that optimal medical therapy
+remains the recommended treatment for patients
+with uncomplicated type B dissection.[6] 
+» Thoracic endovascular aortic repair (TEVAR)
+is increasingly performed in patients with
+uncomplicated dissections in the subacute
+phase (14 days to 6 weeks) to promote false
+lumen thrombosis and prevent aneurysmal
+degeneration. However, there is considerable
+heterogeneity of published data; results
+from meta-analyses evaluating TEVAR in
+patients with type B aortic dissection should be
+interpreted with caution.
+» One meta-analysis found no evidence for
+survival benefit at 1 year for patients with acute
+uncomplicated type B aortic dissection (TBAD)
+treated with TEVAR compared with those
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Aortic dissection Management
+Acute
+receiving best medical therapy.[52] Another
+meta-analysis found that TEVAR did not prevent
+aneurysmal degeneration in patients treated
+for acute or chronic (including complicated)
+TBAD, noting that long-term data are lacking.[53]
+Results from one meta-analysis of a mixed
+patient population (complicated/uncomplicated,
+acute/subacute TBAD) and one randomized
+study of patients with stable TBAD, respectively,
+suggest that aneurysm-specific outcomes may
+be favorable over the longer term following
+TEVAR.[54] [55] Larger trials with longer-term
+data are still required.[4]
+» There may be some benefit to early
+endovascular intervention in patients
+with uncomplicated acute type B aortic
+dissection with refractory pain and
+hypertension.[56] TEVAR in the subacute
+phase of type B dissection may be associated
+with a lower risk of complications, particularly
+retrograde type A dissection.[57]
+chronic (all types) adjunct open surgery or endovascular stent-graft
+repair
+Treatment recommended for SOME patients in
+selected patient group
+» Patients with chronic aortic dissection may
+need open surgical repair or endovascular
+therapy (TEVAR) in their lifetime; some will not
+have open surgical repair or TEVAR previously
+while others might have one of the procedures
+for the second time.
+» Indications for surgery in uncomplicated
+chronic aortic dissections depend on aortic
+diameter, pathogenesis, and the presence of
+symptoms. Asymptomatic chronic thoracic and
+thoracoabdominal aortic dissections with a
+maximal orthogonal aortic diameter of 6.0 cm
+in patients without connective tissue disease
+warrant repair.[24] [10] [59] Rapid growth rate
+>0.5 cm per year also may be an indication
+for repair.[24] Patients with connective tissue
+diseases and those with a family history warrant
+more careful consideration and may warrant
+earlier intervention (diameter of 5.0–5.5 cm).[24]
+[60] [61]
+» The use of thoracic endovascular aortic repair
+(TEVAR) has been increasingly used for thoracic
+and thoracoabdominal aortic aneurysm repair
+occuring after aortic dissection because of
+the low acute risk compared with open repair
+and the potential to reduce aortic mortality
+and reoperations compared with medical
+therapy.[24] However, TEVAR faces anatomic
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Aortic dissection Management
+MANAGEMENT
+Acute
+and morphological limitations to successfully
+treating this disease, particularly in the chronic
+stage.[24] [62] [63] [64] [65] TEVAR may be a
+viable rescue option for patients with type A
+dissection who are not eligible for open surgical
+repair.[66]
+» The goals of TEVAR therapy are to: cover the
+entry tear; treat or prevent impending rupture; re-
+establish organ perfusion; restore flow in the true
+lumen; and induce the false lumen thrombosis.
+» One Cochrane review noted a lack of
+randomized controlled trials (RCTs) and
+controlled clinical trials investigating the
+effectiveness and safety of TEVAR compared
+to open surgical repair for patients with
+complicated chronic type B aortic dissection.
+The investigators were therefore unable to
+provide any evidence to inform decision-making
+on the optimal intervention for these patients.[67]
+In a retrospective analysis of 80 patients who
+underwent TEVAR for chronic type B aortic
+dissections, complete false lumen thrombosis
+was achieved in 52% and aneurysm diameter
+was stabilized or reduced in 65%. Five-year
+overall survival was 70%. 
+» In a prospective multicenter trial from China,
+TEVAR for chronic type B aortic dissection
+decreased the risk of aortic-related mortality
+compared with optimal medical therapy
+alone at 4 years, but failed to improve overall
+survival. The thoracic aorta diameter decreased
+significantly in the TEVAR group, but increased
+in the medical therapy group.[68] 
+» There currently are no longer-term data on
+the efficacy of TEVAR for chronic type B aortic
+dissection.
+Ongoing
+after hospital discharge
+1st antihypertensive therapy
+» No patient is considered cured. Blood
+pressure control is continued after discharge
+from the hospital.[58] Beta-blockers and ACE
+inhibitors are usually required, with additional
+antihypertensives such as diuretics or calcium-
+channel blockers used if necessary.[10] [14]
+» At least 40% of patients will require
+combination treatment to control blood pressure.
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Aortic dissection Management
+Primary prevention
+Hypertension should be assessed for and treated appropriately in all patients.[24] Other cardiovascular
+risk factors (e.g., dyslipidemia and diabetes mellitus) should be intensively managed. Smokers should be
+encouraged to cease smoking, and offered counseling and/or smoking cessation therapy if they are willing.
+Drug use (specifically cocaine) is associated with aortic dissection, even without other risk factors, and
+should be strongly discouraged in patients with concomitant risk factors.[11] [17] [25] [26]
+Secondary prevention
+Patients with known Marfan or Ehlers-Danlos syndrome should be regularly monitored with
+echocardiography for aortic root aneurysm (predisposing to dissection).[4]
+Blood pressure control to less than 150 mmHg (preferably less than 120 mmHg) systolic and less than 90
+mmHg is recommended. No data support exact goals, but shear forces are excessive when systolic blood
+pressure exceeds 150 mmHg. Heart rate should be maintained less than 80 bpm. Beta blockade is first-line
+treatment.
+Patient discussions
+Patients should be advised to avoid contact sports and strenuous physical activities (such as isometric
+heavy weight lifting, pushing, or straining that would require a Valsalva manoeuvre) to reduce aortic wall
+shear stress due to sudden rises in arterial blood pressure during exercise.[10] [14] However, activities
+with low static and dynamic stress (mild aerobic exercise and daily activities) can be continued.[10] [14]
+The patient should also avoid cocaine or other stimulating drugs such as methamphetamine.[14]
+Patients should follow up for surveillance imaging and blood pressure control.[24] Smoking cessation
+and control of hyperlipidemia is important for overall vascular health.[14] It is recommended that patients
+maintain a heart-healthy diet.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Aortic dissection Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+Imaging of the aorta should be performed before discharge.[24] The time intervals suggested for
+surveillance imaging with computed tomography angiography (CTA) or magnetic resonance angiography
+(MRA) in patients with chronic aortic dissection vary across guidelines and should be tailored for
+individual patients.[24]
+The American Heart Association notes that several reasonable follow-up regimens have been proposed
+for different treatment groups.[24] After surgical repair, patients should be followed up after 6 and
+12 months, and annually thereafter.[24] If a moderate-sized aneurysm remains relatively stable over
+time, subsequent longer follow-up intervals of 1.5 to 3 years are reasonable. In medically managed
+uncomplicated type B dissection, one additional earlier scan, for example, at 3 months, may reveal
+important changes occurring in the subacute phase, when the dissected aorta remains amenable to
+early TEVAR. Earlier follow-up imaging at 30 days is sometimes recommended to identify potential early
+complications, followed by routine 6-month and 12-month follow-up.[24] [10] [79] Continued annual
+imaging is suggested thereafter. If growth or other complications are detected, shorter follow-up intervals
+may be required in all treatment groups.[24] [4] CTA is recommended as the imaging of choice for follow-
+up of patients who have undergone TEVAR.[10] However, MRI is preferred in younger patients to reduce
+radiation exposure.[10] [14]
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Aortic dissection Follow up
+Complications
+Complications Timeframe Likelihood
+pericardial tamponade short term high
+Occurs when an ascending aortic dissection extends proximally with rupture into the pericardial space.[11]
+Emergency surgical repair of the aortic dissection is required. The team may wish to prepare the patient's
+chest for incision while the patient is awake in the event that the patient sustains cardiac arrest during the
+induction of anesthesia.
+aortic incompetence short term high
+Occurs when dissection propagates proximally, leading to loss of commissural support for the valve
+leaflets. Urgent surgical repair of the dissected aorta with aortic valve repair or replacement is required.
+myocardial infarction short term low
+Occurs when the dissection propagates proximally and coronary ostial occlusion occurs.[11] Urgent
+surgical repair of the aortic dissection with coronary reconstruction and/or coronary bypass grafting is
+required.
+aneurysmal degeneration/rupture variable medium
+Aneurysms develop in 34% to 38% of patients with chronic type B aortic dissection and in up to 49% of
+patients with residual chronic aortic dissection in the distal aorta after type A aortic repair.[24]
+Complications from distal aortic dissection occur in 20% to 50% of patients. This occurs due to continued
+pulsatile force (dP/dt) on already-thinned walls of the false channel or new dissection.
+A multidrug antihypertensive regimen including beta blockade to maintain systolic pressure less than 120
+mmHg may alter the natural history of chronic dissection by diminishing the rate of aneurysmal dilation.[4]
+[73]
+Open surgical repair remains the dominant method of managing chronic aneurysmal thoracoabdominal
+aortic dissections.[24]
+regional ischemia variable low
+Cerebral, renal, visceral, spinal cord, or lower-extremity ischemia occur when the dissection propagates
+distally and true lumen occlusion occurs.
+Emergency surgical or endovascular repair of the dissected aorta with or without additional
+revascularization of compromised branch vessels is required.[4]
+left arm ischemia/subclavian steal syndrome variable low
+Occurs when the left subclavian artery is covered after endovascular aortic repair in approximately 15%
+of patients. The Society for Vascular Surgeons Practice Guidelines recommends routine preoperative
+revascularization of the left subclavian artery for patients who need elective stent-graft repair where
+achievement of a proximal seal necessitates coverage of the left subclavian artery, and selective
+revascularization in urgent indications.[74] [75] This can result in subclavian steal syndrome.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Aortic dissection Follow up
+FOLLOW UP
+Complications Timeframe Likelihood
+endoleak variable low
+The risk of endoleak following thoracic endovascular aortic repair is low (estimated at 4.7%).[76]
+Depending on the location and type of endoleak, it may require reintervention.[77] [78]
+Endoleak is not a complication following open repair.
+Prognosis
+Syncope at presentation is usually associated with worse outcomes. A deadly triad of hypotension/shock
+(not syncope), lack of chest or back pain (presumably related to delay in diagnosis), and branch vessel
+involvement is also described.[69]
+Left untreated, the natural history of proximal acute aortic dissection is of false channel rupture with fatal
+exsanguination in 50% to 60% of patients within 24 hours.[70]
+Patients with nonoperated type A dissection rarely live past the acute event.[24] In tertiary high-volume
+referral centers for aortic diseases, the surgical mortality for ascending and hemiarch replacement with
+or without root replacement is as low as 10% to 20%.[24] The midterm survival of surgically corrected
+ascending dissections at 1, 3, and 5 years is 95%, 93%, and 89%, respectively.[24] The 10-year survival
+after surgery of ascending aortic dissection is 52%. Freedom from re-operation at both 5 and 10 years
+ranges from 59% to 95%.[46]
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Aortic dissection Follow up
+Dissection status post proximal repair with late distal aneurysm
+From the collection of Dr Eric E. Roselli; used with permission
+ 
+Patients with uncomplicated type B dissection (i.e., those without signs of rupture, rapid expansion, or branch
+vessel malperfusion; approximately 60% to 70% of type B dissections) can be safely managed medically.
+Almost all patients with initially uncomplicated type B dissection therefore progress to the chronic phase with
+a 20% to 50% risk of late adverse events.[24] Complicated type B dissections (ie, those requiring urgent
+endovascular or surgical repair for aortic rupture, rapid expansion, or branch vessel malperfusion, as well
+as those patients too sick to undergo an acute intervention) represent approximately 30% to 40% of type
+B dissections. The in-hospital mortality of these patients is approximately 20%.[24] Late degeneration of
+the dissected aorta into a false lumen aneurysm occurs in 30% to 50% of patients.[71] Following treatment,
+patients remain at risk for further aneurysmal degeneration of remaining diseased aorta.  
+The 5-year survival after thoracic endovascular aortic repair (TEVAR) for acute type B aortic dissection is
+81%.[72]
+Longer term outcomes after TEVAR for the treatment of either acute or chronic type B aortic dissection are
+currently unknown.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Aortic dissection Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+ACC/AHA guideline for the diagnosis and management of aortic disease: a
+report of the American Heart Association/American College of Cardiology
+Joint Committee on Clinical Practice Guidelines (https://www.acc.org/
+guidelines)   [4]
+Published by: American College of Cardiology/American Heart
+Association
+Last published: 2022
+2021 AHAA/ACC/ASE/CHEST/SAEM/SCCT/SCMR guideline for the evaluation
+and diagnosis of chest pain: a report of the Joint Committee on Clinical
+Practice Guidelines (https://www.acc.org/guidelines)   [11]
+Published by: American College of Cardiology/American Heart
+Association
+Last published: 2021
+ACR appropriateness criteria: suspected acute aortic syndrome
+(https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [32]
+Published by: American College of Radiology Last published: 2021
+ACR appropriateness criteria: nontraumatic aortic disease (https://
+www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [40]
+Published by: American College of Radiology Last published: 2021
+ESVS guidelines on the management of descending thoracic aorta diseases
+(http://www.esvs.org/journal/guidelines)   [42]
+Published by: European Society for Vascular Surgery Last published: 2017
+2014 ESC guidelines on the diagnosis and treatment of aortic diseases
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Aortic-
+Diseases)   [10]
+Published by: European Society of Cardiology Last published: 2014
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Aortic dissection Guidelines
+Treatment guidelines
+International
+ACC/AHA guideline for the diagnosis and management of aortic disease: a
+report of the American Heart Association/American College of Cardiology
+Joint Committee on Clinical Practice Guidelines (https://www.acc.org/
+guidelines)   [4]
+Published by: American College of Cardiology/American Heart
+Association
+Last published: 2022
+Clinical practice guidelines on the management of Type B aortic dissection
+(https://www.aats.org/resources)   [6]
+Published by: The Society of Thoracic Surgeons/American Association
+for Thoracic Surgery
+Last published: 2022
+Clinical practice guidelines of thoracic endovascular aortic repair for
+descending thoracic aortic aneurysms (https://vascular.org/vascular-
+specialists/practice-and-quality/clinical-guidelines/clinical-guidelines-and-
+reporting)   [33]
+Published by: Society for Vascular Surgery Last published: 2021
+ESVS guidelines on the management of descending thoracic aorta diseases
+(http://www.esvs.org/journal/guidelines)   [42]
+Published by: European Society for Vascular Surgery Last published: 2017
+2014 ESC guidelines on the diagnosis and treatment of aortic diseases
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Aortic-
+Diseases)   [10]
+Published by: European Society of Cardiology Last published: 2014
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Aortic dissection References
+REFERENCES
+Key articles
+• Isselbacher EM, Preventza O, Hamilton Black J, et al. 2022 ACC/AHA guideline for the diagnosis
+and management of aortic disease: a report of the American Heart Association/American
+College of Cardiology Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol.
+2022 Dec 13;80(24):e223-e393. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36334952?
+tool=bestpractice.bmj.com)
+• Erbel R, Aboyans V, Boileau C, et al; ESC Committee for Practice Guidelines. 2014 ESC guidelines
+on the diagnosis and treatment of aortic diseases: document covering acute and chronic aortic
+diseases of the thoracic and abdominal aorta of the adult. Eur Heart J. 2014 Nov 1;35(41):2873-926. 
+Full text (https://academic.oup.com/eurheartj/article/35/41/2873/407693/2014-ESC-Guidelines-
+on-the-diagnosis-and-treatment)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25173340?
+tool=bestpractice.bmj.com)
+• Bossone E, LaBounty TM, Eagle KA. Acute aortic syndromes: diagnosis and management, an update.
+Eur Heart J. 2018 Mar 1;39(9):739-49d.  Full text (https://www.doi.org/10.1093/eurheartj/ehx319)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29106452?tool=bestpractice.bmj.com)
+• Fleischmann D, Afifi RO, Casanegra AI, et al. Imaging and surveillance of chronic aortic dissection:
+a scientific statement from the American Heart Association. Circ Cardiovasc Imaging. 2022
+Mar;15(3):e000075.  Full text (https://www.doi.org/10.1161/HCI.0000000000000075)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35172599?tool=bestpractice.bmj.com)
+References
+1. Crawford ES, Svensson LG, Coselli JS, et al. Surgical treatment of aneurysm and/or dissection of
+the ascending aorta, transverse aortic arch, and ascending aorta and transverse aortic arch. Factors
+influencing survival in 717 patients. J Thorac Cardiovasc Surg. 1989 Nov;98(5 Pt 1):659-73. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/2811404?tool=bestpractice.bmj.com)
+2. Lombardi JV, Hughes GC, Appoo JJ, et al. Society for Vascular Surgery (SVS) and Society of
+Thoracic Surgeons (STS) reporting standards for type B aortic dissections. J Vasc Surg. 2020
+Mar;71(3):723-47.  Full text (https://www.doi.org/10.1016/j.jvs.2019.11.013)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32001058?tool=bestpractice.bmj.com)
+3. DeBakey ME, McCollum CH, Crawford ES, et al. Dissection and dissecting aneurysms of
+the aorta: twenty-year follow-up of five hundred twenty-seven patients treated surgically.
+Surgery. 1982 Dec;92(6):1118-34. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7147190?
+tool=bestpractice.bmj.com)
+4. Isselbacher EM, Preventza O, Hamilton Black J, et al. 2022 ACC/AHA guideline for the diagnosis
+and management of aortic disease: a report of the American Heart Association/American
+College of Cardiology Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol.
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Aortic dissection References
+2022 Dec 13;80(24):e223-e393. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36334952?
+tool=bestpractice.bmj.com)
+5. Ayrik C, Cece H, Aslan O, et al. Seeing the invisible: painless aortic dissection in the emergency
+setting. Emerg Med J. 2006 Mar;23(3):e24.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC2464426)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16498148?tool=bestpractice.bmj.com)
+6. MacGillivray TE, Gleason TG, Patel HJ, et al. The Society of Thoracic Surgeons/American
+Association for Thoracic Surgery clinical practice guidelines on the management of type B aortic
+dissection. Ann Thorac Surg. 2022 Apr;113(4):1073-92.  Full text (https://www.doi.org/10.1016/
+j.athoracsur.2021.11.002)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35090687?
+tool=bestpractice.bmj.com)
+7. Howard DP, Sideso E, Handa A, et al. Incidence, risk factors, outcome and projected future
+burden of acute aortic dissection. Ann Cardiothorac Surg. 2014 May;3(3):278-84.  Full text
+(https://www.annalscts.com/article/view/3876/4790)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24967167?tool=bestpractice.bmj.com)
+8. Jonker FH, Schlosser FJ, Indes JE, et al. Management of type A aortic dissections: a meta-analysis
+of the literature. Ann Thorac Surg. 2010 Jun;89(6):2061-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20494094?tool=bestpractice.bmj.com)
+9. Nathan DP, Xu C, Gorman JH 3rd, et al. Pathogenesis of acute aortic dissection: a finite element
+stress analysis. Ann Thorac Surg. 2011 Feb;91(2):458-63. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21256291?tool=bestpractice.bmj.com)
+10. Erbel R, Aboyans V, Boileau C, et al; ESC Committee for Practice Guidelines. 2014 ESC guidelines
+on the diagnosis and treatment of aortic diseases: document covering acute and chronic aortic
+diseases of the thoracic and abdominal aorta of the adult. Eur Heart J. 2014 Nov 1;35(41):2873-926. 
+Full text (https://academic.oup.com/eurheartj/article/35/41/2873/407693/2014-ESC-Guidelines-
+on-the-diagnosis-and-treatment)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25173340?
+tool=bestpractice.bmj.com)
+11. Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline
+for the evaluation and diagnosis of chest pain: a report of the American College of Cardiology/
+American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021 Nov
+30;144(22):e368-e454.  Full text (https://www.doi.org/10.1161/CIR.0000000000001029)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/34709879?tool=bestpractice.bmj.com)
+12. Evangelista A, Isselbacher EM, Bossone E, et al. Insights from the International Registry of
+Acute Aortic Dissection: a 20-year experience of collaborative clinical research. Circulation.
+2018 Apr 24;137(17):1846-60.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIRCULATIONAHA.117.031264)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29685932?
+tool=bestpractice.bmj.com)
+13. Erbel R, Alfonso F, Boileau C, et al. Diagnosis and management of aortic dissection. Eur Heart
+J. 2001 Sep;22(18):1642-81.  Full text (https://academic.oup.com/eurheartj/article-lookup/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Aortic dissection References
+REFERENCES
+doi/10.1053/euhj.2001.2782)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11511117?
+tool=bestpractice.bmj.com)
+14. Bossone E, LaBounty TM, Eagle KA. Acute aortic syndromes: diagnosis and management, an update.
+Eur Heart J. 2018 Mar 1;39(9):739-49d.  Full text (https://www.doi.org/10.1093/eurheartj/ehx319)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29106452?tool=bestpractice.bmj.com)
+15. Ma WG, Chou AS, Mok SCM, et al. Positive family history of aortic dissection dramatically
+increases dissection risk in family members. Int J Cardiol. 2017 Aug 1;240:132-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28502736?tool=bestpractice.bmj.com)
+16. Williams ML, Sheng S, Gammie JS, et al. Aortic dissection as a complication of cardiac
+surgery: report from the Society of Thoracic Surgeons database. Ann Thorac Surg. 2010
+Dec;90(6):1812-6; discussion 1816-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21095316?
+tool=bestpractice.bmj.com)
+17. Westover AN, Nakonezny PA. Aortic dissection in young adults who abuse amphetamines. Am
+Heart J. 2010 Aug;160(2):315-21. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20691838?
+tool=bestpractice.bmj.com)
+18. Sakaguchi M, Kitahara H, Seto T, et al. Surgery for acute type A aortic dissection in pregnant patients
+with Marfan syndrome. Eur J Cardiothorac Surg. 2005 Aug;28(2):280-3; discussion 283-5. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15939618?tool=bestpractice.bmj.com)
+19. Smith K, Gros B. Pregnancy-related acute aortic dissection in Marfan syndrome: A review of the
+literature. Congenit Heart Dis. 2017 May;12(3):251-60. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28371362?tool=bestpractice.bmj.com)
+20. Takagi H, Umemoto T, ALICE (All-Literature Investigation of Cardiovascular Evidence)
+Group. Negative association of diabetes with thoracic aortic dissection and aneurysm.
+Angiology. 2017 Mar;68(3):216-24. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27166380?
+tool=bestpractice.bmj.com)
+21. Avdic T, Franzén S, Zarrouk M, et al. Reduced long-term risk of aortic aneurysm and aortic dissection
+among individuals with type 2 diabetes mellitus: a nationwide observational study. J Am Heart Assoc.
+2018 Jan 24;7(3):e007618.  Full text (https://www.ahajournals.org/doi/10.1161/JAHA.117.007618)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29367416?tool=bestpractice.bmj.com)
+22. Fujimura N, Xiong J, Kettler EB, et al. Metformin treatment status and abdominal aortic aneurysm
+disease progression. J Vasc Surg. 2016 Jul;64(1):46-54.e8.  Full text (https://www.jvascsurg.org/
+article/S0741-5214(16)00246-9/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27106243?
+tool=bestpractice.bmj.com)
+23. Itoga NK, Rothenberg KA, Suarez P, et al. Metformin prescription status and abdominal
+aortic aneurysm disease progression in the US veteran population. J Vasc Surg. 2019
+Mar;69(3):710-6;e3.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6706071)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/30197158?tool=bestpractice.bmj.com)
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Aortic dissection References
+24. Fleischmann D, Afifi RO, Casanegra AI, et al. Imaging and surveillance of chronic aortic dissection:
+a scientific statement from the American Heart Association. Circ Cardiovasc Imaging. 2022
+Mar;15(3):e000075.  Full text (https://www.doi.org/10.1161/HCI.0000000000000075)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35172599?tool=bestpractice.bmj.com)
+25. Daniel JC, Huynh TT, Zhou W, et al. Acute aortic dissection associated with use of cocaine. J Vasc
+Surg. 2007 Sep;46(3):427-33.  Full text (https://www.jvascsurg.org/article/S0741-5214(07)00969-X/
+fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17826227?tool=bestpractice.bmj.com)
+26. Dean JH, Woznicki EM, O'Gara P, et al. Cocaine-related aortic dissection: lessons from the
+International Registry of Acute Aortic Dissection. Am J Med. 2014 Sep;127(9):878-85. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24835037?tool=bestpractice.bmj.com)
+27. Sutherland A, Escano J, Coon TP. D-dimer as the sole screening test for acute aortic dissection: a
+review of the literature. Ann Emerg Med. 2008 Oct;52(4):339-43. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18819176?tool=bestpractice.bmj.com)
+28. Ohle R, Kareemi HK, Wells G, et al. Clinical examination for acute aortic dissection: a systematic
+review and meta-analysis. Acad Emerg Med. 2018 Apr;25(4):397-412.  Full text (https://
+onlinelibrary.wiley.com/doi/10.1111/acem.13360)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29265487?tool=bestpractice.bmj.com)
+29. Asha SE, Miers JW. A systematic review and meta-analysis of D-dimer as a rule-out test
+for suspected acute aortic dissection. Ann Emerg Med. 2015 Oct;66(4):368-78.  Full text
+(http://www.annemergmed.com/article/S0196-0644(15)00118-3/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25805111?tool=bestpractice.bmj.com)
+30. Baez AA, Cochon L. Improved rule-out diagnostic gain with a combined aortic dissection detection risk
+score and D-dimer Bayesian decision support scheme. J Crit Care. 2017 Feb;37:56-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27632799?tool=bestpractice.bmj.com)
+31. Ranasinghe AM, Bonser RS. Biomarkers in acute aortic dissection and other aortic syndromes. J Am
+Coll Cardiol. 2010 Nov 2;56(19):1535-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21029872?
+tool=bestpractice.bmj.com)
+32. Expert Panel on Cardiac Imaging., Kicska GA, Hurwitz Koweek LM, et al. ACR Appropriateness
+Criteria® Suspected acute aortic syndrome. J Am Coll Radiol. 2021 Nov;18(11s):S474-S481. 
+Full text (https://www.doi.org/10.1016/j.jacr.2021.09.004)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34794601?tool=bestpractice.bmj.com)
+33. Upchurch GR Jr, Escobar GA, Azizzadeh A, et al. Society for Vascular Surgery clinical practice
+guidelines of thoracic endovascular aortic repair for descending thoracic aortic aneurysms. J Vasc
+Surg. 2021 Jan;73(1s):55S-83S.  Full text (https://www.doi.org/10.1016/j.jvs.2020.05.076)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/32628988?tool=bestpractice.bmj.com)
+34. Czerny M, Schmidli J, Adler S, et al. Editor's Choice - current options and recommendations for the
+treatment of thoracic aortic pathologies involving the aortic arch: an expert consensus document of
+the European Association for Cardio-Thoracic Surgery (EACTS) & the European Society for Vascular
+Surgery (ESVS). Eur J Vasc Endovasc Surg. 2019 Feb;57(2):165-98.  Full text (https://www.ejves.com/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Aortic dissection References
+REFERENCES
+article/S1078-5884(18)30692-0/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30318395?
+tool=bestpractice.bmj.com)
+35. von Kodolitsch Y, Nienaber CA, Dieckmann C, et al. Chest radiography for the diagnosis of acute
+aortic syndrome. Am J Med. 2004 Jan 15;116(2):73-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/14715319?tool=bestpractice.bmj.com)
+36. Nazerian P, Vanni S, Morello F, et al. Diagnostic performance of focused cardiac ultrasound performed
+by emergency physicians for the assessment of ascending aorta dilation and aneurysm. Acad
+Emerg Med. 2015 May;22(5):536-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25899650?
+tool=bestpractice.bmj.com)
+37. Germain DP. Ehlers-Danlos syndrome type IV. Orphanet J Rare Dis. 2007 Jul 19;2:32.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1971255)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17640391?tool=bestpractice.bmj.com)
+38. Hagan PG, Nienaber CA, Isselbacher EM, et al. The International Registry of Acute Aortic Dissection
+(IRAD): new insights into an old disease. JAMA. 2000 Feb 16;283(7):897-903.  Full text (http://
+jamanetwork.com/journals/jama/fullarticle/192401)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10685714?tool=bestpractice.bmj.com)
+39. Inoue Arita Y, Akutsu K, Yamamoto T, et al. A fever in acute aortic dissection is caused by endogenous
+mediators that influence the extrinsic coagulation pathway and do not elevate procalcitonin. Intern
+Med. 2016;55(14):1845-52.  Full text (https://www.doi.org/10.2169/internalmedicine.55.5924)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/27432091?tool=bestpractice.bmj.com)
+40. Expert Panel on Vascular Imaging., Gunn AJ, Kalva SP, et al. ACR Appropriateness Criteria®
+Nontraumatic aortic disease. J Am Coll Radiol. 2021 May;18(5s):S106-S118.  Full text (https://
+www.doi.org/10.1016/j.jacr.2021.02.004)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33958105?
+tool=bestpractice.bmj.com)
+41. Ince H, Nienaber CA. Diagnosis and management of patients with aortic dissection.
+Heart. 2007 Feb;93(2):266-70. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17228080?
+tool=bestpractice.bmj.com)
+42. Riambau V, Böckler D, Brunkwall J, et al. Management of descending thoracic aorta diseases: clinical
+practice guidelines of the European Society for Vascular Surgery (ESVS). Eur J Vasc Endovasc
+Surg. 2017 Jan;53(1):4-52.  Full text (https://www.ejves.com/article/S1078-5884(16)30178-2/fulltext)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28081802?tool=bestpractice.bmj.com)
+43. Hanif H, Dubois L, Ouzounian M, et al. Aortic arch reconstructive surgery with conventional
+techniques vs frozen elephant trunk: a systematic review and meta-analysis. Can J
+Cardiol. 2018 Mar;34(3):262-73. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29395709?
+tool=bestpractice.bmj.com)
+44. Cao P, De Rango P, Czerny M, et al. Systematic review of clinical outcomes in hybrid
+procedures for aortic arch dissections and other arch diseases. J Thorac Cardiovasc Surg. 2012
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Aortic dissection References
+Dec;144(6):1286-300, 1300.e1-2. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22789301?
+tool=bestpractice.bmj.com)
+45. Zeeshan A, Woo EY, Bavaria JE, et al. Thoracic endovascular aortic repair for acute complicated
+type B aortic dissection: superiority relative to conventional open surgical and medical therapy. J
+Thorac Cardiovasc Surg. 2010 Dec;140(6 Suppl):S109-15; discussion S142-46. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21092775?tool=bestpractice.bmj.com)
+46. Subramanian S, Roselli EE. Thoracic aortic dissection: long-term results of endovascular and
+open repair. Semin Vasc Surg. 2009 Jun;22(2):61-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19573743?tool=bestpractice.bmj.com)
+47. Parker JD, Golledge J. Outcome of endovascular treatment of acute type B aortic dissection. Ann
+Thorac Surg. 2008 Nov;86(5):1707-12. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19049790?
+tool=bestpractice.bmj.com)
+48. Wang J, Li Y, Li Y, et al. Endovascular stent-graft placement in patients with Stanford Type B aortic
+dissection in China: a systematic review. Ann Vasc Surg. 2016 Oct;36:298-309.  Full text (https://
+www.annalsofvascularsurgery.com/article/S0890-5096(16)30481-2/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27421201?tool=bestpractice.bmj.com)
+49. Eggebrecht H, Nienaber CA, Neuhauser M, et al. Endovascular stent-graft placement in
+aortic dissection: a meta-analysis. Eur Heart J. 2006 Feb;27(4):489-98. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16227309?tool=bestpractice.bmj.com)
+50. Spanos K, Kölbel T. Device profile of the Zenith Dissection Endovascular System for aortic
+dissection. Expert Rev Med Devices. 2019 Jul;16(7):541-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31155976?tool=bestpractice.bmj.com)
+51. Lombardi JV, Gleason TG, Panneton JM, et al; STABLE II Investigators. STABLE II clinical trial on
+endovascular treatment of acute, complicated type B aortic dissection with a composite device design.
+J Vasc Surg. 2020 Apr;71(4):1077-87;e2. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31477479?
+tool=bestpractice.bmj.com)
+52. Enezate TH, Omran J, Al-Dadah AS, et al. Thoracic endovascular repair versus medical
+management for acute uncomplicated type B aortic dissection. Catheter Cardiovasc Interv. 2018 May
+1;91(6):1138-43. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29152822?tool=bestpractice.bmj.com)
+53. Famularo M, Meyermann K, Lombardi JV. Aneurysmal degeneration of type B aortic dissections after
+thoracic endovascular aortic repair: A systematic review. J Vasc Surg. 2017 Sep;66(3):924-930. 
+Full text (https://www.doi.org/10.1016/j.jvs.2017.06.067)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28736120?tool=bestpractice.bmj.com)
+54. Nienaber CA, Kische S, Rousseau H, et al; INSTEAD-XL Trial. Endovascular repair of
+type B aortic dissection: long-term results of the randomized investigation of stent grafts
+in aortic dissection trial. Circ Cardiovasc Interv. 2013 Aug;6(4):407-16.  Full text (http://
+circinterventions.ahajournals.org/content/6/4/407.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23922146?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Aortic dissection References
+REFERENCES
+55. Li FR, Wu X, Yuan J, et al. Comparison of thoracic endovascular aortic repair, open surgery and best
+medical treatment for type B aortic dissection: A meta-analysis. Int J Cardiol. 2018 Jan 1;250:240-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29066151?tool=bestpractice.bmj.com)
+56. Trimarchi S, Eagle KA, Nienaber CA, et al. Importance of refractory pain and hypertension
+in acute type B aortic dissection: insights from the International Registry of Acute Aortic
+Dissection (IRAD). Circulation. 2010 Sep 28;122(13):1283-9.  Full text (http://circ.ahajournals.org/
+content/122/13/1283.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20837896?
+tool=bestpractice.bmj.com)
+57. Desai ND, Gottret JP, Szeto WY, et al. Impact of timing on major complications after thoracic
+endovascular aortic repair for acute type B aortic dissection. J Thorac Cardiovasc Surg. 2015
+Feb;149(2 Suppl):S151-6.  Full text (https://www.jtcvs.org/article/S0022-5223(14)01627-4/fulltext)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25466855?tool=bestpractice.bmj.com)
+58. Braverman AC. Acute aortic dissection: clinician update. Circulation. 2010 Jul 13;122(2):184-8. 
+Full text (http://circ.ahajournals.org/content/122/2/184.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20625143?tool=bestpractice.bmj.com)
+59. Coady MA, Rizzo JA, Hammond GL, et al. What is the appropriate size criterion for resection
+of thoracic aortic aneurysms? J Thorac Cardiovasc Surg. 1997 Mar;113(3):476-91; discussion
+489-91.  Full text (https://www.doi.org/10.1016/S0022-5223(97)70360-X)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9081092?tool=bestpractice.bmj.com)
+60. Coselli JS, LeMaire SA. Current status of thoracoabdominal aortic aneurysm repair in Marfan
+syndrome. J Card Surg. 1997 Mar-Apr;12(2 suppl):167-72. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9271742?tool=bestpractice.bmj.com)
+61. LeMaire SA, Carter SA, Volguina IV, et al. Spectrum of aortic operations in 300 patients with confirmed
+or suspected Marfan syndrome. Ann Thorac Surg. 2006 Jun;81(6):2063-78; discussion 2078.  Full
+text (https://www.doi.org/10.1016/j.athoracsur.2006.01.070)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16731131?tool=bestpractice.bmj.com)
+62. Scali ST, Feezor RJ, Chang CK, et al. Efficacy of thoracic endovascular stent repair for chronic type
+B aortic dissection with aneurysmal degeneration. J Vasc Surg. 2013 Jul;58(1):10-7.e1.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4170732)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23561433?tool=bestpractice.bmj.com)
+63. Parsa CJ, Williams JB, Bhattacharya SD, et al. Midterm results with thoracic endovascular aortic
+repair for chronic type B aortic dissection with associated aneurysm. J Thorac Cardiovasc Surg.
+2011 Feb;141(2):322-7.  Full text (https://www.doi.org/10.1016/j.jtcvs.2010.10.043)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21241855?tool=bestpractice.bmj.com)
+64. Andacheh ID, Donayre C, Othman F, et al. Patient outcomes and thoracic aortic volume and
+morphologic changes following thoracic endovascular aortic repair in patients with complicated chronic
+type B aortic dissection. J Vasc Surg. 2012 Sep;56(3):644-50; discussion 650.  Full text (https://
+www.doi.org/10.1016/j.jvs.2012.02.050)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22640467?
+tool=bestpractice.bmj.com)
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Aortic dissection References
+65. Mani K, Clough RE, Lyons OT, et al. Predictors of outcome after endovascular repair for
+chronic type B dissection. Eur J Vasc Endovasc Surg. 2012 Apr;43(4):386-91.  Full text (https://
+www.doi.org/10.1016/j.ejvs.2012.01.016)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22326695?
+tool=bestpractice.bmj.com)
+66. Shah A, Khoynezhad A. Thoracic endovascular repair for acute type A aortic dissection:
+operative technique. Ann Cardiothorac Surg. 2016 Jul;5(4):389-96.  Full text (https://
+www.doi.org/10.21037/acs.2016.07.08)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27563553?
+tool=bestpractice.bmj.com)
+67. Jordan F, FitzGibbon B, Kavanagh EP, et al. Endovascular versus open surgical repair for complicated
+chronic Type B aortic dissection. Cochrane Database Syst Rev. 2021 Dec 14;(12):CD012992.  Full
+text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8670553)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34905228?tool=bestpractice.bmj.com)
+68. Zhang MH, Du X, Guo W, et al. Early and midterm outcomes of thoracic endovascular aortic repair
+(TEVAR) for acute and chronic complicated type B aortic dissection. Medicine (Baltimore). 2017
+Jul;96(28):e7183.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5515739)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28700467?tool=bestpractice.bmj.com)
+69. Suzuki T, Mehta RH, Ince H, et al. Clinical profiles and outcomes of acute type B aortic dissection in
+the current era: lessons from the International Registry of Aortic Dissection (IRAD). Circulation. 2003
+Sep 9;108 Suppl 1:II312-7.  Full text (http://circ.ahajournals.org/content/108/10_suppl_1/II-312.long)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12970252?tool=bestpractice.bmj.com)
+70. Svensson LG, Kouchoukos NT, Miller DC, et al. Expert consensus document on the treatment of
+descending thoracic aortic disease using endovascular stent-grafts. Ann Thorac Surg. 2008 Jan;85(1
+Suppl):S1-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18083364?tool=bestpractice.bmj.com)
+71. Crawford ES. The diagnosis and management of aortic dissection. JAMA. 1990
+Nov 21;264(19):2537-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2232021?
+tool=bestpractice.bmj.com)
+72. Yoshitake A, Okamoto K, Yamazaki M, et al. Comparison of aortic arch repair using the endovascular
+technique, total arch replacement and staged surgery. Eur J Cardiothorac Surg. 2017 Jun
+1;51(6):1142-8.  Full text (https://academic.oup.com/ejcts/article/51/6/1142/3061960)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28329146?tool=bestpractice.bmj.com)
+73. Genoni M, Paul M, Jenni R, et al. Chronic beta-blocker therapy improves outcome and reduces
+treatment costs in chronic type B aortic dissection. Eur J Cardiothorac Surg. 2001 May;19(5):606-10.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11343940?tool=bestpractice.bmj.com)
+74. Matsumura JS, Lee WA, Mitchell RS, et al; Society for Vascular Surgery. The Society for Vascular
+Surgery Practice Guidelines: management of the left subclavian artery with thoracic endovascular
+aortic repair. J Vasc Surg. 2009 Nov;50(5):1155-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19878791?tool=bestpractice.bmj.com)
+75. Rehman SM, Vecht JA, Perera R, et al. How to manage the left subclavian artery during
+endovascular stenting for thoracic aortic dissection? An assessment of the evidence. Ann
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Aortic dissection References
+REFERENCES
+Vasc Surg. 2010 Oct;24(7):956-65. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20832002?
+tool=bestpractice.bmj.com)
+76. Andersen ND, Keenan JE, Ganapathi AM, et al. Current management and outcome of chronic type B
+aortic dissection: results with open and endovascular repair since the advent of thoracic endografting.
+Ann Cardiothorac Surg. 2014 May;3(3):264-74.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC4052409)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24967165?tool=bestpractice.bmj.com)
+77. White SB, Stavropoulos SW. Management of endoleaks following endovascular aneurysm repair.
+Semin Intervent Radiol. 2009 Mar;26(1):33-8.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC3036461)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21326529?tool=bestpractice.bmj.com)
+78. Boufi M, Patterson BO, Grima MJ, et al. Systematic review of reintervention after thoracic
+endovascular repair for chronic type B dissection. Ann Thorac Surg. 2017 Jun;103(6):1992-2004.  Full
+text (https://www.annalsthoracicsurgery.org/article/S0003-4975(17)30004-8/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28434549?tool=bestpractice.bmj.com)
+79. Zierler RE, Jordan WD, Lal BK, et al. The Society for Vascular Surgery practice guidelines on follow-
+up after vascular surgery arterial procedures. J Vasc Surg. 2018 Jul;68(1):256-84.  Full text (https://
+www.doi.org/10.1016/j.jvs.2018.04.018)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29937033?
+tool=bestpractice.bmj.com)
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Aortic dissection Images
+Images
+Figure 1: Proximal dissection
+From the collection of Dr Eric E. Roselli; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Aortic dissection Images
+IMAGES
+Figure 2: 3D CT, distal dissection
+From the collection of Dr Eric E. Roselli; used with permission
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Aortic dissection Images
+Figure 3: CT of a 71-year-old man showing type II dissecting aneurysm of the ascending aorta. Hematoma
+around the proximal segment of the ascending aorta (panels A-D) compressed the right pulmonary artery,
+almost occluding its patency and limiting the perfusion of the reciprocal lung
+Stougiannos PN, Mytas DZ, Pyrgakis VN. The changing faces of aortic dissection: an unusual presentation
+mimicking pulmonary embolism. BMJ Case Reports 2009; doi:10.1136/bcr.2006.104414
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Aortic dissection Images
+IMAGES
+Figure 4: Transesophageal echocardiography (transverse aortic section) showing a circumferential dissection
+of the ascending aorta in a 30-year-old patient with features of Marfan syndrome
+Bouzas-Mosquera A, Solla-Buceta M, Fojón-Polanco S. Circumferential aortic dissection. BMJ Case Reports
+2009; doi:10.1136/bcr.2007.049908
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Aortic dissection Images
+Figure 5: CT scan showing dissecting aneurysm in a 45-year-old patient with Marfan syndrome experiencing
+chest pain
+Sanyal K, Sabanathan K. Chest pain in Marfan syndrome. BMJ Case Reports 2009; doi:10.1136/
+bcr.07.2008.0431
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+65
+=== Page 66 ===
+Aortic dissection Images
+IMAGES
+Figure 6: Dissection status post proximal repair with late distal aneurysm
+From the collection of Dr Eric E. Roselli; used with permission
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 67 ===
+Aortic dissection Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+67
+=== Page 68 ===
+Aortic dissection Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: May 23, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 69 ===
+Contributors:
+// Authors:
+Caitlin W. Hicks, MD, MS
+Assistant Professor of Surgery
+Division of Vascular Surgery and Endovascular Therapy, The Johns Hopkins University School of Medicine,
+Baltimore, MD
+DISCLOSURES: CWH receives grant funding from NIH/NIDDK, the Society for Vascular Surgery, and the
+American College of Surgeons; and has been reimbursed by W.L. Gore and Cook Medical for speaker
+engagements.
+James H. Black III, MD, FACS
+Chief
+Vascular Surgery and Endovascular Therapy, Department of Surgery, The Johns Hopkins University School
+of Medicine, Baltimore, MD
+DISCLOSURES: JHB declares that he has no competing interests.
+// Acknowledgements:
+Dr Caitlin W. Hicks and Dr James H. Black III would like to gratefully acknowledge Professor Hazim J. Safi,
+Dr Jeffrey Wu, and Dr Eric E. Roselli, previous contributors to this topic.
+DISCLOSURES: HJS, JW, and EER declare that they have no competing interests.
+// Peer Reviewers:
+Evan Lipsitz, MD
+Associate Professor of Surgery
+Acting Chief, Division of Vascular and Endovascular Surgery, Montefiore Medical Center and the Albert
+Einstein College of Medicine, Bronx, NY
+DISCLOSURES: EL declares that he has no competing interests.

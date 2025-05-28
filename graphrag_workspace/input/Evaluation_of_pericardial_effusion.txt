@@ -1,0 +1,2333 @@
+# Evaluation of pericardial effusion
+
+=== Page 1 ===
+Evaluation of
+pericardial effusion
+Straight to the point of care
+Last updated: Jul 16, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Theory  6
+Etiology  6
+Emergencies  11
+Urgent considerations  11
+Diagnosis  12
+Approach  12
+Differentials overview  21
+Differentials  22
+References  38
+Images  46
+Disclaimer  51
+=== Page 3 ===
+Evaluation of pericardial effusion Overview
+Summary
+Pericardial effusion is present when the fluid in the pericardial space exceeds its physiologic amount (≤50
+mL). In the clinical setting, pericardial effusion is relatively common. It may be detected incidentally on a
+cardiac or chest imaging study, or manifest on the background of a cardiac or systemic disease.
+The significance of effusions lies in their relationship to an underlying disease state and in their potential to
+affect a patient's hemodynamics.
+Epidemiology
+Data from the Framingham cohort suggest that pericardial effusion may be present in up to 6.5% of the
+general adult population.[1] Prevalence increased with age, from <1% in patients ages 20 to 30 years to
+more than 15% in patients ages 80 years and over. Most people in the study had small effusions and no
+recognizable cardiac disease.[1]
+In the clinical setting, the prevalence of pericardial effusion depends on the patient population studied. Over
+a 6-year period, the mean annual prevalence and incidence of pericardial effusion in an echocardiography
+laboratory of a large Italian hospital was 3% and 9%, respectively.[2] In high-risk emergency department
+patients, the prevalence of pericardial effusion has been reported in the range of 13% to 20%.[3] One meta-
+analysis reported pooled pericardial effusion prevalence of 19.5% across studies that included patients with
+pulmonary arterial hypertension, chronic heart failure, myocardial infarction, and malignancy.[4]
+Pericardial anatomy and physiology
+The normal pericardium consists of both fibrous and serous components. The fibrous layer forms a sac that
+contains the heart and the roots of the great vessels. The serous part is further divided into a layer that is
+adherent to the heart and epicardial fat (epicardium or visceral pericardium) and a layer that lines the internal
+surface of the fibrous layer (parietal pericardium). The pericardial space enclosed between the visceral and
+the parietal pericardium normally contains up to 50 mL of serous fluid. A pericardial effusion is present when
+accumulated fluid in the pericardial space exceeds this physiologic amount.[5]
+The pericardium serves as a protective barrier, promotes efficient cardiac function, and prohibits excessive
+displacement of the heart.
+Under normal conditions, a pericardial reserve volume exists to accommodate physiologic changes in
+ventricular filling conditions. However, if this reserve volume is exceeded, pericardial pressure increases
+rapidly and significantly limits cardiac filling. The relatively inelastic pericardium is able to stretch under
+conditions of chronic stress such as left ventricular dilation or a slowly accumulating pericardial effusion.
+However, once the pericardial pressure-volume relationship reaches its noncompliant stage, expansion is
+limited and small increases in volume produce a dramatic increase in pericardial pressure, severely impairing
+ventricular filling.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Evaluation of pericardial effusion Overview
+OVERVIEW
+Diagram showing the anatomy of the pericardium.
+Marchand P. Thorax. 1951;6:359-368
+Classification of pericardial effusion
+Pericardial effusion can be classified by:
+• Onset (acute or subacute vs. chronic [when lasting >3 months])
+• Distribution (circumferential or loculated)
+• Hemodynamic impact (cardiac tamponade or no cardiac tamponade)
+• Composition (serous fluid, blood, rarely air, or gas from bacterial infections)
+• Size based on a simple semiquantitative echocardiographic assessment.
+The size of the effusion on echocardiography indicates the volume of pericardial fluid as follows:[5] [6] [7]
+• Trivial (seen only in systole)
+• Small (<10 mm), which corresponds to 50-100 mL pericardial fluid
+• Moderate (10-20 mm), corresponding to 100-500 mL pericardial fluid
+• Large (>20 mm), corresponding to >500 mL pericardial fluid
+• Very large (>25 mm); usually indicates >700 mL pericardial fluid.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Evaluation of pericardial effusion Overview
+The development of a pericardial effusion often has important implications for the diagnosis and/or prognosis
+of the underlying disease.[5]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Evaluation of pericardial effusion Theory
+THEORY
+Etiology
+The most common causes of pericardial effusion include malignancy (25% to 32%), infection (7% to 24%),
+and iatrogenic (15% to 21%). In addition, a substantial proportion of pericardial effusions is considered
+idiopathic (16% to 26%).[8] [9] [10]
+Etiology varies between populations and is affected by factors such as demographic characteristics, clinical
+settings, or geographic distribution. For example, tuberculosis is one of the leading causes of pericardial
+effusion in endemic regions, and especially in areas where coinfection with HIV is common, but is a rare
+cause of pericardial effusion in developed countries.[11]
+Malignancy
+Malignant effusions
+• Malignant pericardial effusion is a common and serious manifestation of cancer.[12]
+• Most malignant pericardial effusions are caused by solid tumors, including lung cancer and breast
+cancer, or hematologic malignancies such as lymphoma or leukemia. Lung cancer is the most
+common malignancy involving the pericardium, in both men and women.[13]
+• The effusion may result from direct local tumor extension to the pericardium, hematogenous or
+lymphangitic tumor spread, or mediastinal lymphatic drainage obstruction.[13]
+• In patients with malignancy, pericardial effusion is most likely to be malignant. Occasionally, pericardial
+effusion is the first manifestation of malignancy. Therefore, malignancy should be excluded in patients
+with pericardial effusion with cardiac tamponade at presentation, with rapidly accumulating pericardial
+effusion, and/or with a persistent or recurrent course.[12]
+• Accumulation of pericardial fluid may be gradual, or rapid if erosion into the pericardial blood vessels
+occurs.
+Effusion associated with antineoplastic therapies
+• Antineoplastic therapies such as anthracyclines, cyclophosphamide, cytarabine, and all-trans retinoic
+acid are associated with pericardial effusion.[14]
+• There is increasing evidence that immune checkpoint inhibitors are associated with pericardial effusion
+and cardiac tamponade.[15]
+Infectious
+Viral
+• Viral pericarditis rarely produces effusions large enough to cause tamponade, but it can be associated
+with constrictive physiology.
+• Causes of viral pericarditis include Coxsackie virus, echovirus, Epstein-Barr virus (EBV),
+cytomegalovirus (CMV), and parvovirus-B19.[16]
+• In 259 patients with moderate to large pericardial effusions, polymerase chain reaction detected
+viral genomes (including parvovirus-B19, EBV, human herpes virus [HHV]-6, CMV, hepatitis C and
+influenza) in 51 (19.7%) of patients.[17]
+• The clinical course of pericardial effusion associated with viral pericarditis is usually self-limited and
+benign.
+Bacterial
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Evaluation of pericardial effusion Theory
+• Bacterial pericarditis is a life-threatening condition that presents as an acute febrile illness and is
+commonly complicated by cardiac tamponade.
+• Purulent pericarditis is the most serious manifestation of bacterial pericarditis, with purulent fluid,
+ranging from a thin layer to large quantities of gross pus, accumulating in the pericardial space.[18]
+• The most likely causes of bacterial pericarditis include  Staphylococcus aureus  (typically
+hematogenous spread) and  Streptococcus pneumoniae  (often direct extension from an adjacent
+pneumonia).[19]
+• Patients at higher risk for bacterial pericarditis include those on dialysis, immunosuppressed
+people, people dependent on alcohol, and people who have recently had cardiac surgery.
+Tuberculous
+• Tuberculous pericarditis is responsible for less than 5% of cases in developed countries, but is one of
+the leading causes of pericarditis in developing countries, especially in areas where HIV infection is
+common.[20]
+• Tuberculosis (TB) is the most common cause of pericardial diseases in Africa. Patients with
+tuberculous pericarditis present with effusive pericarditis (approximately 80%) or effusive-constrictive
+pericarditis (15%); up to 20% of patients with tuberculous pericarditis present with cardiac
+tamponade.[21]
+• An increased level of adenosine deaminase (ADA) >40 units/L in pericardial effusion is 93% sensitive
+and 90% to 97% specific for TB.[22] [23]
+Fungal
+• Fungal pericarditis is rare, but cases of pericardial effusion or tamponade associated with fungal
+infection have been reported.[24]
+• Fungal pericarditis in immune-competent individuals has been documented in endemic areas for 
+Histoplasma capsulatum and  Coccidioides immitis . In patients with immune deficiency, candidiasis,
+aspergillosis, and blastomyces infections are the major fungal pathogens.[25] [26]
+Parasitic
+• Chagas disease caused by  Trypanosoma cruzi , which is endemic in Latin America, is the most
+common parasitic infection that involves the heart.
+• Chagas myocarditis is rare, but pericardial effusion is common (42%) when it occurs.[27]
+Iatrogenic
+Post cardiac surgery
+• Postsurgery pericardial effusion has been reported in up to three-quarters of patients undergoing
+cardiac surgery.[28] [29]
+• The effusion tends to reach its maximum size around day 10 postoperatively, after which it usually
+resolves without intervention. However, postcardiac surgery effusions can also persist or progress and
+ultimately lead to cardiac tamponade (approximately 4% of patients).[30]
+• Postcardiac surgery pericardial effusion is more likely to be loculated (50% of posterior effusions)
+compared with pericardial effusion of other etiologies, and therefore less accessible for
+pericardiocentesis.[31]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Evaluation of pericardial effusion Theory
+THEORY
+• Early postoperative cardiac tamponade is caused by bleeding, while late cardiac tamponade is
+commonly related to postpericardiotomy syndrome (an inflammatory response of the pericardium to
+the surgical procedure). However, postoperative infection must always be considered.
+• Pericardial constriction post surgery is rare, and the underlying mechanisms are not well understood.
+Although reported data are not entirely consistent, evidence suggests a relationship with prior
+postpericardiotomy syndrome.[32]
+Post cardiac intervention
+• The incidence of percutaneous cardiac intervention (PCI)-related effusions has increased significantly
+in recent decades, consistent with the increase in the frequency of coronary intervention, and
+newer interventional techniques such as atrial fibrillation ablation, left atrial appendage closure, and
+transcatheter valve replacement.
+• Some of these procedures require intraprocedural anticoagulation and/or transseptal puncture, which
+increase the risk of pericardial effusion and cardiac tamponade.
+• The incidence of pericardial complications has been reported as <0.5% after PCI, <1.5% after atrial
+fibrillation ablation, and 1% to 5% for pacemaker insertion.[33]
+Idiopathic
+• A pericardial effusion is considered idiopathic once thorough evaluation does not result in a diagnosis.
+• It is generally assumed that most cases are due to viral infection, either acute or chronic.
+• As in viral pericarditis, patients generally present with features typical of acute pericarditis and
+experience a self-limited, benign course.
+• However, idiopathic effusions may persist, recur, and, when large, progress to tamponade.[34]
+Cardiac
+Congestive heart failure
+• Transudative pericardial effusion is not uncommon in congestive heart failure; however, cardiac
+tamponade is not a recognized complication.[35]
+• In a small study of patients with heart failure requiring diuresis, 20% had a small or moderate
+pericardial effusion. More than 90% of these patients were found to also have pleural effusion.[35]
+• In patients with pulmonary arterial hypertension, the presence of pericardial effusion is an indicator of
+right heart failure. Its persistence despite vasoactive therapy is associated with poor prognosis.[36]
+Aortic dissection
+• Pericardial effusion is a common complication of acute type A aortic dissection.
+• The dissected aorta can rupture directly into the pericardial space, resulting in cardiac tamponade.
+• Cardiac tamponade is diagnosed in <20% of patients presenting with acute type A aortic dissection,
+and is associated with an approximately two- to three-fold increase in in-hospital mortality in this
+patient population.[37] [38] [39] [40] Presence of cardiac tamponade mandates urgent aortic repair.[38]
+Post-myocardial infarction syndrome
+• Also known as Dressler phenomenon, this condition is caused by the development of antibodies to
+heart antigens following myocardial infarction (MI). Patients develop fever and chest discomfort in the
+weeks or months following an infarct.[41]
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Evaluation of pericardial effusion Theory
+• The occurrence of pericardial effusion after MI has been declining in the era of primary percutaneous
+coronary intervention (PCI).
+• A study of 1732 patients with ST-segment elevation MI treated with primary PCI demonstrated a 14.2%
+occurrence rate of pericardial effusion assessed by echocardiography.[42]
+• Pericardial effusion in the setting of acute MI may represent contained left ventricular free wall rupture
+that can progress to cardiac tamponade and sudden cardiac death.[43]
+Traumatic
+• Direct penetrating injuries of the heart are usually the result of stab wounds or gunshots and have a
+high prehospital mortality.
+• For patients who reach a hospital, emergency department echocardiography is 96% accurate in the
+diagnosis of traumatic effusion.[44]
+Renal
+• Pericardial effusion in renal disease can occur due to uremic pericarditis or dialysis pericarditis. The
+latter may be associated with inadequate dialysis and/or fluid overload.
+• In a study of 44 patients with uremic pericardial effusion, echocardiography showed small, moderate,
+and large effusions in 38%, 32%, and 30% of patients, respectively. Tamponade signs were observed
+in 16% of patients.[45]
+Radiation-related
+• In the course of radiation therapy for thoracic malignancies, such as Hodgkin lymphoma, breast
+cancer, or lung cancer, the heart and pericardium may be exposed to high doses of radiation.
+• Advances in radiation oncology, including better shielding strategies, have resulted in a decreasing
+occurrence of radiation-associated pericarditis and pericardial effusion.[46]
+• Pericarditis related to radiation may be acute or delayed. Chronic pericardial effusion is one of the
+delayed complications after radiation therapy.[47]
+• In a study of patients with non-small cell lung cancer undergoing radiation therapy, the cumulative
+incidence rates of pericardial effusion were 31% at 1 year and 45% at 2 years, with a median time to
+pericardial effusion of 9 months.[48]
+• The underlying mechanisms are thought to be impaired ability of the venous and lymphatic system of
+the heart to drain fluid, resulting in a pericardial effusion of either hemorrhagic or serous composition
+with a fibrin-rich exudate.[47]
+Amyloidosis
+• Pericardial effusion was reported in approximately 50% of patients with cardiac amyloidosis (including
+acquired monoclonal light-chain, hereditary transthyretin, and senile amyloidosis).[49]
+• In all but a few cases, the size of the effusion is small or moderate and cardiac tamponade is rare.
+Systemic inflammatory diseases
+• Pericardial disease is common in many connective tissue diseases, but especially in systemic lupus
+erythematosus (SLE).
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Evaluation of pericardial effusion Theory
+THEORY
+• Pericardial effusion is the most common echocardiographic finding in SLE. Pericardial effusion occurs
+in >50% of patients and it is usually asymptomatic.[50] Large effusion or cardiac tamponade is rare.
+• Pericardial effusion and pericarditis have been reported in patients with IgG4-related disease.[51] [52]
+Endocrine
+Hypothyroidism
+• Pericardial effusions are most commonly found in states of severe hypothyroidism. Most are
+asymptomatic, even if large (up to 30% of cases).[53]
+• Typically, effusions resolve within weeks to months following institution of hormone replacement
+therapy.
+Ovarian hyperstimulation
+• In a Belgian multicenter study, the occurrence of pericardial effusion was 3% in patients with ovarian
+hyperstimulation syndrome.[54]
+• Development of cardiac tamponade is a very rare, but life‐threatening, complication of ovarian
+hyperstimulation syndrome.[55]
+Drug-induced
+• Hydralazine, procainamide, and isoniazid are the most common drugs associated with drug-induced
+lupus erythematosus, causing pericarditis and pericardial effusion.[56]
+• Antineoplastic drugs can also be associated with pericardial effusion.[14]
+• Typically, the disease and its manifestations resolve following cessation of the offending agent and
+cardiac tamponade is extremely rare.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Evaluation of pericardial effusion Emergencies
+Urgent considerations
+(See  Differentials  for more details)
+Cardiac tamponade
+Cardiac tamponade occurs when pericardial pressure increases and limits cardiac filling.
+The clinical presentation and the hemodynamic effect of cardiac tamponade depend on the size of
+the pericardial effusion, the time over which the fluid accumulated, and the clinical circumstances. It
+encompasses a hemodynamic spectrum from trivial compression with minimal effects on cardiac output to
+fatal cardiovascular collapse.
+When pericardial fluid accumulates rapidly, impaired cardiac filling quickly progresses to cardiogenic
+shock followed by pulseless electrical activity. Causes of acute tamponade include chest trauma, chamber
+perforation during transcutaneous cardiac procedure, or type A aortic dissection. Symptoms include dyspnea
+and chest pain.
+Examination findings suggestive of cardiac tamponade include:[6]
+• Tachycardia
+• Tachypnea
+• Hypotension
+• Elevated jugular venous pressure
+• Distended neck veins
+• Kussmaul sign (a rise in venous pressure with inspiration)
+• Pulsus paradoxus.
+ECG may show low QRS voltages and electrical alternans (alternating QRS amplitude in any lead, caused by
+the heart swinging in the pericardial sac).
+Urgent echocardiography is indicated to establish the effusion size, location, and hemodynamic effect.[6]
+The treatment of tamponade is emergency drainage of the pericardial fluid using needle pericardiocentesis.
+Pericardiocentesis is performed under echocardiographic guidance. Surgical drainage may be indicated in
+cases of hemopericardium due to trauma, type A aortic dissection, or ventricular free wall rupture following
+myocardial infarction.[57]
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Approach
+The evaluation of pericardial effusion entails:
+• Diagnosing pericardial effusion with clinical history and exam; confirmed by imaging
+• Assessing the hemodynamic significance of the effusion
+• Determining etiology by clinical assessment, imaging, and laboratory investigations.
+Clinical assessment
+The following signs and symptoms should prompt further evaluation for pericardial effusion:
+• Otherwise unexplained chest discomfort, pleuritic pain, and dyspnea.[16] Acute pericarditis
+typically causes sharp, pleuritic chest pain, which is improved by sitting up and leaning forward and
+exacerbated by coughing and lying supine.[6] The pain may radiate to the trapezius ridge which, like
+the pericardium, is innervated by the phrenic nerve.[58]
+• Patients who have any systemic disorder known to involve the pericardium and a raised jugular venous
+pressure.[5]
+• Unexplained cardiomegaly without pulmonary congestion on chest x-ray.[5]
+• Chest pain and/or hemodynamic instability after recent blunt trauma to the chest, cardiac surgery, or
+cardiac intervention.
+• Cardiac arrest with pulseless electrical activity or asystole.
+Timing
+Onset of symptoms is typically subacute. Symptoms may develop acutely if effusion is related to trauma, free
+wall rupture, iatrogenic causes, or aortic dissection.
+Associated symptoms
+• Patients with viral pericarditis often have an abrupt onset of symptoms and other features of a viral
+illness, such as cough and sore throat. A low-grade fever is common, but a fever >100°F (>38°C) is
+not typical and should prompt consideration of bacterial pericarditis.
+• Symptoms suggesting tuberculosis include fever, night sweats, weight loss, fatigue, cough, and
+hemoptysis.
+• Fatigue, arthralgia, photosensitive rash, alopecia, and oral ulcers suggest systemic lupus
+erythematosus (SLE).[59]
+• Cold intolerance, fatigue, constipation, decreased memory, dry skin, weight gain, depression,
+oligomenorrhea or amenorrhea, and reduced scalp and body hair may occur in hypothyroidism.
+Past medical history
+• Previous myocardial infarction (MI). Pericardial effusion following MI (post-myocardial infarction
+syndrome or Dressler phenomenon) is a rare complication that can occur in the weeks or months
+following an MI.
+• Recent cardiac surgery or intervention. Post-cardiac surgery effusion occurs in up to 85% of
+patients.[60] These patients are also at higher risk of bacterial pericarditis.
+• Chronic heart failure. There may be a history of hypertension, coronary artery disease, valvular
+disease, or cardiomyopathy. Symptoms include dyspnea, decreased exercise tolerance, orthopnea,
+and paroxysmal nocturnal dyspnea.
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Evaluation of pericardial effusion Diagnosis
+• Chronic renal failure, particularly if the patient is dependent on dialysis. These patients are also at
+higher risk of bacterial pericarditis. Symptoms of uremia include nausea, vomiting, and mental status
+changes.
+• History of malignancy, particularly lung cancer, breast cancer, hematologic malignancies, and
+mesothelioma. Metastatic infiltration of the pericardium and radiation therapy can cause pericardial
+effusion.
+• Secondary amyloidosis can develop in patients with chronic inflammatory conditions, such as
+bronchiectasis, osteomyelitis, and rheumatoid arthritis.
+• Pericardial effusions may occur in severe hypothyroidism.
+• Immunosuppression increases susceptibility to bacterial, fungal, and tuberculous pericarditis.
+Drug history
+• Hydralazine, procainamide, and isoniazid are the most common drugs identified as a cause of drug-
+induced lupus erythematosus.[56]
+• Chemotherapy drugs such as anthracyclines, cyclophosphamide, cytarabine, all-trans retinoic acid,
+and immune checkpoint inhibitors are all associated with pericardial effusion.[14]
+• Pericardial effusion may occur in patients with ovarian hyperstimulation syndrome following
+administration of injectable gonadotropins.[54]
+Exam
+Physical exam may be normal if the patient does not have hemodynamic compromise.
+Exam findings suggestive of pericardial effusion include:
+• Pericardial friction rub: a high-pitched scratching sound best heard over the left sternal border with the
+patient leaning forward at end-expiration.[6] Rubs may be 1, 2, or 3 parts, corresponding to the periods
+of greatest heart movement in the cardiac cycle. The pericardial friction rub may also be transient, and
+thus it is useful to examine patients suspected of pericarditis on multiple occasions.
+• Distant heart sounds with a quiet precordium is a common finding in pericardial effusion.
+• Pulsus paradoxus: a decrease in systolic blood pressure during inspiration of >12 mmHg has a
+sensitivity of 98% and a specificity of 83% for the detection of tamponade.[61]
+• In cardiac tamponade, the accumulating pericardial effusion has a restrictive effect on the filling
+of the heart, which results in a more pronounced and interdependent respiratory variation in
+the right and left ventricular filling and an inspiratory drop of the systolic arterial pressure of 10
+mmHg or more.
+• To measure pulsus paradoxus, the blood pressure cuff is inflated above systolic blood pressure.
+The cuff is deflated slowly, listening for the first Korotkoff sound, which will be intermittent and
+heard during quiet expiration. The difference (in mmHg) between this first Korotkoff sound and
+the pressure at which a Korotkoff sound is heard with each beat is the pulsus paradoxus.
+Pericardial constriction may produce similar examination findings to tamponade with pulsus paradoxus and
+elevated jugular venous pressure. A pericardial knock may be evident during palpation and/or auscultation,
+and constriction is also often associated with gross liver enlargement and ascites.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Auscultation of the pericardium: to elicit pericardial rubs the patient is invited to lean forward (A) or rest on elbows
+and knees (B). Both physical manoeuvres aim to increase the contact of visceral and parietal pericardium.
+Imazio M. Pericardial involvement in systemic inflammatory diseases. Heart 2011;97:1882-92.
+Electrocardiography
+Patients with suspected pericardial effusion should have an electrocardiogram. ECG changes include:
+• Sinus tachycardia.
+• Low QRS voltage.
+• Electrical alternans. This occurs when the heart's swinging motion in the pericardial fluid results in
+beat-to-beat variation of the ventricular, and occasionally the atrial, axis on the ECG.
+When inflammation involves the epicardium, such as in acute pericarditis, the ECG may show diffuse ST-
+segment elevation and PR depression signaling generalized epicardial injury. Up to 60% of patients with
+acute pericarditis have typical ECG findings.[62]
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Evaluation of pericardial effusion Diagnosis
+ECG in acute pericarditis. Nearly ubiquitous ST segment elevation corresponding to ST depression in
+aVR (lead augmented vector right). Height of ST elevation is about 25% of height of T waves peak in V5–
+V6. Most PR segments are slightly depressed with respect to the T-P baseline (atrial current of injury).
+Imazio M. Pericardial involvement in systemic inflammatory diseases. Heart 2011;97:1882-92.
+Imaging
+Echocardiography
+Transthoracic echocardiography is the investigation of choice for a suspected pericardial effusion. It is a
+noninvasive and effective diagnostic modality. As well as confirming the diagnosis, echocardiography allows
+the operator to evaluate the size and hemodynamic effects of the effusion.[7]
+An echo-free space between the two layers of the pericardium indicates the presence of an effusion.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Parasternal long-axis view of a pericardial effusion (PE); LA = left atrium, LV = left ventricle, RV = right ventricle
+From the collection of Dr Rajdeep Khattar
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Evaluation of pericardial effusion Diagnosis
+Apical 4- chamber view of a 2-dimensional echocardiogram of a patient with tuberculous pericardial effusion;
+LA = left atrium, LV = left ventricle, Per eff = pericardial effusion; RA = right atrium, RV = right ventricle
+From: George S, Salama AL, Uthaman B, et al. Heart. 2004;90:1338-1339
+General echocardiographic assessment of pericardial effusion includes:
+Size
+The maximum end-diastolic effusion thickness (distance between epicardial and parietal layers of the
+pericardium) is measured and the effusion size is graded as:
+• Trivial (seen only in systole)
+• Small (<10 mm)
+• Moderate (10-20 mm)
+• Large (>20 mm)
+• Very large (>25 mm)
+Location
+• Circumferential
+• Loculated
+Consistency
+• Clear
+• Partly organized (with strands spanning the two layers of the pericardium)
+• Fully organized.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Transesophageal echocardiography can be helpful to diagnose loculated and complex effusions and in cases
+where transthoracic echocardiography is inconclusive.
+Chest radiography
+A chest x-ray may show a water-bottle-shaped cardiac silhouette with a distinct pericardial fat stripe,
+suggesting a large pericardial effusion. Pleural effusions may also be present.
+CXR in a patient with a pericardial effusion showing typical findings of a water-
+bottle-shaped cardiac silhouette with a distinct, fat, pericardial fat stripe
+From the collection of Dr Rajdeep Khattar
+Computed tomography
+Transthoracic echocardiography has limited spatial resolution and cannot reliably visualize the pericardium,
+unless there is pronounced thickness (>5 mm; normal thickness of 0.5 to 1.0 mm). Cardiac computed
+tomography (CT) has higher spatial resolution and is therefore more reliable in detecting an abnormally
+thickened pericardium (defined as >2 mm). It can provide quantitative and qualitative information on
+pericardial effusion and is the most sensitive imaging modality to detect pericardial calcification.
+Owing to its high spatial resolution, cardiac CT is most helpful in providing anatomic information and for
+the planning of pericardiotomy or surgical drainage of loculated or complex effusions. High attenuation
+fluid suggests hemopericardium, particularly in cases of trauma, postsurgical effusion, or aortic dissection.
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Evaluation of pericardial effusion Diagnosis
+Nodularity of the pericardium may indicate malignancy.[63] CT angiography is the preferred test to diagnose
+aortic dissection in hemodynamically stable patients.
+Magnetic resonance imaging
+Cardiac magnetic resonance imaging (MRI) is the most comprehensive modality to assess the
+pericardium.[6] [64] [65][66] It allows qualitative and quantitative assessment of pericardial effusion.
+Transudative pericardial effusions appear dark on T1-weighted sequences; exudative effusions are of low to
+medium intensity on T1 and medium to bright on T2-weighted sequences.[66] [67][68] Hemorrhagic effusions
+are bright on T1- and T2-weighted sequences, but they can evolve to a chronic hematoma (>15 days) with
+low signal intensity.[66] [67] Proteinaceous effusions are bright on T1-weighted sequences.[66] [67]
+Cardiac MRI can detect abnormally thickened pericardium on T1-weighted black-blood sequences (<4
+mm is considered normal), and constrictive physiology (e.g., respirophasic septal shift).[6][65] [66] [67]
+ Delayed gadolinium enhancement can provide important information on the presence and grade of ongoing
+pericardial inflammation and therefore guide anti-inflammatory therapies.[65] [66][67]
+Note that cardiac MRI sequences are susceptible to cardiac motion artifacts that can obscure or be
+misinterpreted as pathology.[69]
+Laboratory evaluation
+In 60% of cases, a pericardial effusion is due to a known underlying disease or condition.[70] Thus, all
+patients require a thorough history and physical exam.
+If an underlying cause is not identified, initial testing includes inflammatory markers. Raised inflammatory
+markers support a diagnosis of acute idiopathic pericarditis, severe effusions without inflammatory signs are
+associated with chronic idiopathic pericarditis, and tamponade without inflammatory signs is associated with
+malignancy.[70]
+Initial tests
+• Complete blood count: leukocyte count is typically mildly elevated in acute idiopathic pericarditis; a
+substantially elevated leukocyte count may suggest bacterial pericarditis.[58]
+• Serum C-reactive protein: is elevated in most cases of acute pericarditis and so may not be helpful in
+determining the underlying etiology. However, it is useful for monitoring the response to treatment and
+is recommended for all patients with suspected acute pericarditis.[6]
+• Erythrocyte sedimentation rate: is often elevated in acute pericarditis.
+• Blood urea nitrogen, electrolytes, and creatinine: may demonstrate uremia in chronic kidney disease,
+or acute kidney injury if there is an acute infection, trauma, or lupus nephritis.
+• Troponin: performed to detect concomitant myocarditis. The magnitude of elevation correlates with the
+extent of ST-segment elevation. Levels may be in the range considered diagnostic of an acute MI in
+some patients. Levels return to normal within 1 to 2 weeks of diagnosis. Elevated levels do not appear
+to confer prognostic significance in acute pericarditis.
+• Coagulation studies.
+Further blood tests may be indicated depending on the suspected etiology of the effusion.
+• Thyroid-stimulating hormone: elevated in hypothyroidism.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+• Antinuclear antibody (ANA), anti-double-stranded DNA antibody, and anti-Smith antibody: suspected
+SLE.
+• Antihistone antibodies: suspected drug-induced lupus.
+• Serum and urine immunoglobulins: suspected amyloidosis.
+• Blood cultures: essential when bacterial pericarditis is suspected, to identify causative organisms.
+Viral cultures for cytomegalovirus may be ordered in selected immunocompromised patients. In other
+circumstances there is little clinical utility in ordering them, as most cases of viral pericarditis are
+benign and self-limited, and a positive test would not change management.[71]
+• HIV: order when evidence of immunosuppression is present on exam, or the patient has risk factors for
+HIV infection.
+• Thick blood smear for microscopy: if Chagas disease is suspected.
+Pericardiocentesis
+Pericardial fluid sampling can include Gram and acid-fast bacilli stains and cultures, polymerase chain
+reaction, tuberculosis-specific testing (e.g., adenosine deaminase, lysozyme, and gamma-interferon), tumor
+markers, and cytology, and may be useful in the following scenarios:
+• Suspected purulent or tuberculous pericarditis
+• Suspected malignant pericardial effusion
+• Moderate to large pericardial effusion in patients with HIV and/or immune suppression
+• Moderate to large or progressive pericardial effusion in patients not responding to initial therapy and
+when diagnostic workup is inconclusive.[72]
+Cytologic evaluation is the gold standard for diagnosis of neoplastic pericardial effusion, with a sensitivity of
+71% to 92% and a specificity approaching 100%.[13]
+Contrary to common practice, and unlike pleural effusion evaluation, differentiating between an exudate
+and transudate based on cell count, lactate dehydrogenase, and protein and glucose levels is not generally
+helpful for the differential diagnosis and management of patients with pericardial effusion.[73]
+Pericardial biopsy
+Pericardial biopsy may be considered in the course of surgical drainage, when large effusions recur
+without a previous diagnosis, and when tuberculous or malignant etiologies are suspected.[6] Although
+the diagnostic yield is historically low and complicated by a high degree of false-negative results, recent
+advances in pericardioscopy, which allows direct visualization of the pericardium, have improved the yield
+(40% diagnostic yield) and reduced the incidence of false-negative findings (6.7% false-negatives).[74]
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Evaluation of pericardial effusion Diagnosis
+Differentials overview
+Common
+Malignancy
+Viral pericarditis
+Iatrogenic
+Idiopathic
+Congestive heart failure
+Uremia
+Uncommon
+Bacterial pericarditis
+Tuberculous pericarditis
+Fungal pericarditis
+Chagas disease
+Systemic lupus erythematosus
+Post-myocardial infarction syndrome (Dressler phenomenon)
+Drug-induced
+Cardiac amyloidosis
+Hypothyroidism
+Ovarian hyperstimulation syndrome
+Aortic dissection
+Trauma
+Radiation exposure
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Differentials
+Common
+Malignancy
+History Exam 1st Test Other tests
+history of lung
+cancer, breast
+cancer, hematologic
+malignancies, less
+frequently primary
+pericardial neoplasms
+(e.g., mesothelioma),
+previous pericardial
+effusion
+lymphadenopathy,
+cachexia, pericardial
+rub, distant heart
+sounds
+»echocardiography:
+pericardial effusion;
+clear or organized
+Presentation with
+tamponade and without
+inflammatory markers
+is more likely to be
+malignant.
+»chest x-ray: normal
+or water-bottle-
+shaped enlarged
+cardiac silhouette;
+may show lung
+lesion or mediastinal
+lymphadenopathy
+Usually normal, unless
+a large pericardial
+effusion (>300 mL) is
+present, in which case
+the cardiothoracic ratio
+will be increased.[6]
+»ECG: sinus
+tachycardia, low QRS
+voltage, electrical
+alternans in tamponade
+»CBC: normal white
+blood cell count
+»CRP: usually normal
+»erythrocyte
+sedimentation rate:
+usually normal
+»pericardial fluid
+cytology: positive
+Cytologic evaluation is
+the gold standard for
+diagnosis of neoplastic
+pericardial effusion,
+with a sensitivity of 71%
+to 92% and a specificity
+approaching 100%.[13]
+»cardiac CT:
+pericardial calcification;
+nodular pericardium;
+further characterization
+of effusion; staging of
+malignancy
+Owing to its high
+spatial resolution,
+cardiac CT is most
+helpful in providing
+anatomic information
+and for the planning
+of pericardiotomy or
+surgical drainage of
+loculated or complex
+effusions.
+»cardiac MRI: further
+characterization of
+effusion; constrictive
+physiology; active
+inflammation
+Most comprehensive
+imaging modality to
+assess the pericardium.
+◊ Viral pericarditis
+History Exam 1st Test Other tests
+acute or recent
+infection, chest
+pleuritic pain,
+pericardial rub, a low-
+»echocardiography:
+pericardial effusion;
+»blood cultures:
+causative organism
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Evaluation of pericardial effusion Diagnosis
+Common
+◊ Viral pericarditis
+History Exam 1st Test Other tests
+discomfort that varies
+with a change in
+position
+grade temperature
+<100°F (<38°C), and
+specific viral-related
+findings such as a rash
+or pharyngeal exudate
+rarely large enough to
+cause tamponade
+»ECG: diffuse ST-
+segment elevation and
+PR depression
+This suggests
+pericardial inflammation
+and is often seen in
+early pericarditis. It
+does not distinguish
+viral etiologies from
+other inflammatory
+conditions.
+»CBC: neutrophilia,
+elevated total white
+blood cell count
+»CRP: usually elevated
+»erythrocyte
+sedimentation rate:
+usually elevated
+»serum troponin:
+mildly elevated
+The magnitude of
+elevation correlates
+with the extent of ST-
+segment elevation.
+»chest x-ray: normal
+or water-bottle-shaped
+enlarged cardiac
+silhouette
+Usually normal, unless
+a large pericardial
+effusion (>300 mL) is
+present, in which case
+the cardiothoracic ratio
+will be increased.[6]
+Viral culture is not
+routinely obtained,
+since yield is low and
+results rarely alter
+management.[71]
+An exception is
+immunocompromised
+patients, where culture
+of cytomegalovirus
+might prompt specific
+antiviral therapy in
+selected patients.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Common
+Iatrogenic
+History Exam 1st Test Other tests
+post-cardiac surgery
+or cardiac intervention,
+malaise, chest pain,
+dyspnea; any change
+in postoperative clinical
+status should prompt
+consideration of an
+effusion
+chest pain, dyspnea,
+hypotension,
+tachycardia, elevated
+jugular venous
+pressure, pulsus
+paradoxus, diminished
+heart sounds in
+tamponade
+»echocardiography:
+pericardial effusion;
+more likely to be
+loculated, hemorrhagic,
+organized
+»ECG: sinus
+tachycardia, low QRS
+voltage, electrical
+alternans in tamponade
+»chest x-ray: normal
+or water-bottle-shaped
+enlarged cardiac
+silhouette
+Usually normal, unless
+a large pericardial
+effusion (>300 mL) is
+present, in which case
+the cardiothoracic ratio
+will be increased.[6]
+◊ Idiopathic
+History Exam 1st Test Other tests
+chest pain or
+discomfort that varies
+with change of position,
+low-grade fever, cough,
+dyspnea
+fever, pericardial rub,
+distant heart sounds
+»echocardiography:
+pericardial effusion;
+rarely large enough
+to cause tamponade,
+course of pericardial
+effusion usually self-
+limited and benign
+»ECG: diffuse ST-
+segment elevation and
+PR depression
+»CBC: usually normal
+»CRP: usually normal
+»erythrocyte
+sedimentation rate:
+usually normal
+»serum troponin:
+mildly elevated
+The magnitude of
+elevation correlates
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Evaluation of pericardial effusion Diagnosis
+Common
+◊ Idiopathic
+History Exam 1st Test Other tests
+with extent of ST-
+segment elevation.
+»chest x-ray: normal
+or water-bottle-shaped
+enlarged cardiac
+silhouette
+Usually normal, unless
+a large pericardial
+effusion (>300 mL) is
+present, in which case
+the cardiothoracic ratio
+will be increased.[6]
+◊ Congestive heart failure
+History Exam 1st Test Other tests
+history of
+hypertension, coronary
+atherosclerotic
+heart disease,
+valvular disease,
+or cardiomyopathy;
+shortness of breath,
+decreased exercise
+tolerance, orthopnea,
+and paroxysmal
+nocturnal dyspnea
+elevated jugular venous
+pressure, pulmonary
+crackles, peripheral
+edema, palpable pulsus
+alternans, S3 gallop
+»echocardiography:
+systolic heart failure:
+depressed and
+dilated left and/or
+right ventricle with
+low ejection fraction;
+diastolic heart failure:
+left ventricular ejection
+fraction normal but left
+ventricular hypertrophy
+and abnormal diastolic
+filling patterns
+»chest x-ray: evidence
+of pulmonary edema,
+pleural effusion, or
+cardiomegaly
+»ECG: sinus
+tachycardia, low
+QRS voltage; may
+show evidence of
+underlying coronary
+artery disease, left
+ventricular hypertrophy,
+or atrial enlargement;
+may be conduction
+abnormalities and
+abnormal QRS duration
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Common
+◊ Uremia
+History Exam 1st Test Other tests
+known end-stage renal
+failure, dialysis; pleuritic
+thoracic pain consistent
+with acute pericarditis;
+associated symptoms
+of uremia such as
+nausea, vomiting,
+mental status changes,
+and uremic frost may
+be present
+dyspnea, signs of fluid
+overload, a pericardial
+friction rub indicates
+pericardial inflammation
+»echocardiography:
+pericardial effusion
+30% of patients have
+a large effusion and
+16% have signs of
+tamponade.[45]
+»chest x-ray:
+pleural effusion;
+may show signs of
+pulmonary edema and
+cardiomegaly
+Pleural effusion is
+common in patients
+with uremic pericardial
+effusion.
+»ECG: peaked T
+waves, increased PR
+interval, widened QRS
+Uremic patients often
+do not display the
+typical ECG findings
+associated with acute
+pericarditis despite
+similar presentation.
+»serum BUN and
+creatinine: elevated
+BUN, creatinine levels
+These are sensitive
+markers of acute renal
+failure and chronic
+kidney disease.
+Uncommon
+Bacterial pericarditis
+History Exam 1st Test Other tests
+history of concomitant
+infection, e.g., pleural
+empyema/adjacent
+pneumonia/bacteremia;
+toxic appearance with
+high fever, tachypnea,
+»echocardiography:
+pericardial effusion,
+partly or fully organized
+»pericardial fluid:
+culture and Gram
+stain: positive
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Evaluation of pericardial effusion Diagnosis
+Uncommon
+Bacterial pericarditis
+History Exam 1st Test Other tests
+history of direct
+cardiac trauma,
+immunosuppression,
+chronic disease, and
+alcoholism; high-grade
+fever; absence of chest
+pain
+tachycardia, pericardial
+friction rub
+»blood cultures:
+positive
+Positive cultures in the
+setting of suspected
+bacterial pericarditis
+are very helpful in
+establishing the
+diagnosis and choosing
+antibiotics.
+»ECG: diffuse ST-
+segment elevation and
+PR depression
+Suggests pericardial
+inflammation and is
+often seen in early
+pericarditis.
+»CBC: neutrophilia,
+elevated total white
+blood cell count
+»CRP: elevated
+»erythrocyte
+sedimentation rate:
+elevated
+»serum troponin:
+mildly elevated
+The magnitude of
+elevation correlates
+with extent of ST-
+segment elevation.
+»chest x-ray: normal
+or water-bottle-shaped
+enlarged cardiac
+silhouette
+Usually normal, unless
+a large pericardial
+effusion (>300 mL) is
+present, in which case
+the cardiothoracic ratio
+will be increased.[6]
+Culture is more
+sensitive than Gram
+stain, but when either
+reveals a specific
+pathogen it is very
+helpful.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Uncommon
+Tuberculous pericarditis
+History Exam 1st Test Other tests
+history of tuberculosis,
+patient from high-
+incidence country, HIV
+infection; subacute
+onset in conjunction
+with constitutional
+complaints, including
+fever, cough, dyspnea,
+night sweats, weight
+loss, and fatigue
+distant heart sounds,
+cardiac dullness,
+elevated neck veins,
+hepatomegaly,
+pericardial knock
+»echocardiography:
+pericardial effusion
+»chest x-ray:
+pulmonary
+tuberculosis; may show
+cardiomegaly
+Active pulmonary
+tuberculosis is found on
+chest x-ray in 30% of
+patients with pericardial
+tuberculosis, although
+the incidence may
+be higher in patients
+coinfected with HIV.[75]
+[76]
+»ECG: sinus
+tachycardia, low QRS
+voltage, electrical
+alternans if there is
+cardiac tamponade
+»sputum microscopy
+and culture: positive
+for acid-fast bacilli
+»pericardial
+fluid: adenosine
+deaminase activity
+(ADA): adenosine
+deaminase (ADA) >40
+U/L
+The sensitivity is 93%
+and specificity at least
+90%.[22]
+»pericardial fluid:
+interferon-gamma
+(IFN-gamma):
+IFN-gamma >200
+picograms/L
+»pericardial fluid
+culture: positive for
+acid-fast bacilli
+Sensitivity is 35% in
+conventional cultures,
+but up to 75% when
+bedside cultures are
+obtained in double-
+strength liquid Kirchner
+culture medium.[75]
+Fungal pericarditis
+History Exam 1st Test Other tests
+history of chronic
+disease or suppressed
+immune system;
+endemic area
+for  Histoplasma
+capsulatum  and 
+Coccidioides immitis ;
+fever
+may be normal or
+reveal pericardial
+friction rub, distant
+heart sounds; there
+are no specific signs
+suggestive of a fungal
+etiology
+»blood culture:
+positive
+A positive blood culture
+for fungus may suggest
+the diagnosis.
+»echocardiography:
+pericardial effusion
+»ECG: sinus
+tachycardia, low QRS
+voltage, electrical
+»pericardial fluid
+culture: positive
+A positive pericardial
+fluid culture confirms
+the diagnosis and
+provides guidance
+when selecting
+antifungal medication.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Evaluation of pericardial effusion Diagnosis
+Uncommon
+Fungal pericarditis
+History Exam 1st Test Other tests
+alternans if there is
+cardiac tamponade
+◊ Chagas disease
+History Exam 1st Test Other tests
+history of exposure
+to  Triatoma  species,
+blood transfusion,
+organ transplantation,
+immunosuppression,
+health care or
+laboratory occupations,
+travel to or residence in
+endemic areas in Latin
+America, ingestion
+of contaminated food
+or drink; symptoms
+of myocarditis:
+palpitations, syncope or
+presyncope
+prolonged fever (7
+to 30 days) with
+nocturnal elevation,
+hepatosplenomegaly,
+lymphadenopathy,
+tachycardia
+»echocardiography:
+pericardial effusion
+»CBC: leukopenia
+or leukocytosis
+with a left shift and
+lymphocytosis;
+hypochromic anemia;
+low platelets
+Lymphocytosis with
+atypical lymphocytes is
+a significant marker.
+»ECG: T wave
+alteration, prolonged
+PR interval, sinus
+tachycardia, low QRS
+voltage
+»chest x-ray:
+enlargement of cardiac
+area, pleural effusion
+»microscopy of fresh
+blood or thick blood
+smear: visualization of
+trypomastigotes
+»culture of blood
+and cerebrospinal
+fluid: culture of
+epimastigotes
+The sensitivity of this
+method is limited by the
+level of parasitemia,
+and false negative
+results are common,
+but specificity is
+high. Involves the
+use of a specialized
+liquid culture medium
+that is not available
+commercially.
+»xenodiagnosis:
+presence of
+epimastigotes
+An indirect parasitologic
+method. A group of 30
+to 40 laboratory-reared
+insects (triatomines)
+are allowed to feed
+directly (or indirectly)
+on the blood of a
+person suspected to
+have Chagas disease.
+After 1 month, the
+intestinal contents
+of the insects are
+extracted and examined
+microscopically for the
+presence of parasites.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Systemic lupus erythematosus
+History Exam 1st Test Other tests
+fatigue, arthralgia,
+malar rash, oral ulcers,
+and synovitis
+malar rash, oral
+ulcers, arthritis,
+photosensitivity rash,
+discoid rash, and
+seizures may be
+present
+»echocardiography:
+pericardial effusion
+Large effusion or
+cardiac tamponade is
+rare.
+»chest x-ray: pleural
+effusion
+Pleural effusion
+is present in 75%
+of patients with
+pericarditis as part of
+general serositis.
+»ECG: diffuse ST-
+segment elevation and
+PR depression
+Suggests pericardial
+inflammation and is
+often seen in early
+pericarditis.
+»antinuclear
+antibodies: positive
+Antinuclear antibody
+(ANA) is positive in
+virtually all patients
+with systemic lupus
+erythematosus. It is
+not specific because
+it may be positive in
+other connective tissue
+diseases.
+»anti-double-
+stranded DNA
+antibodies: positive
+Highly specific for
+systemic lupus
+erythematosus.
+»anti-Smith
+antibodies: positive
+Highly specific for
+systemic lupus
+erythematosus.
+◊ Post-myocardial infarction syndrome (Dressler phenomenon)
+History Exam 1st Test Other tests
+recent myocardial
+infarction
+chest pain, dyspnea,
+hypotension,
+tachycardia, elevated
+jugular venous
+pressure, pulsus
+paradoxus and
+diminished heart
+sounds in tamponade
+»echocardiography:
+pericardial effusion;
+cardiac tamponade
+is associated with left
+ventricular free wall
+rupture
+»ECG: sinus
+tachycardia, low QRS
+voltage, electrical
+alternans in tamponade
+»chest x-ray: normal
+or water-bottle-
+shaped enlarged
+cardiac silhouette;
+may show lung
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Evaluation of pericardial effusion Diagnosis
+Uncommon
+◊ Post-myocardial infarction syndrome (Dressler phenomenon)
+History Exam 1st Test Other tests
+lesion or mediastinal
+lymphadenopathy
+Usually normal, unless
+a large pericardial
+effusion (>300 mL) is
+present, in which case
+the cardiothoracic ratio
+will be increased.[6]
+◊ Drug-induced
+History Exam 1st Test Other tests
+treatment with
+hydralazine,
+procainamide,
+isoniazid, or certain
+antineoplastic drugs
+such as anthracyclines,
+cyclophosphamide, or
+immune checkpoint
+inhibitors
+may be normal or
+reveal pericardial
+friction rub, distant
+heart sounds
+»echocardigraphy:
+pericardial effusion;
+signs of tamponade are
+rare
+»ECG: diffuse ST-
+segment elevation and
+PR depression
+Suggests pericardial
+inflammation and is
+often seen in early
+pericarditis.
+»chest x-ray: pleural
+effusion
+Pleural effusion
+is present in 75%
+of patients with
+pericarditis as part of
+general serositis.
+»serum antihistone
+antibodies: positive
+antihistone antibody
+This is a very sensitive
+though nonspecific
+finding that is helpful
+when the diagnosis is
+suggested clinically.
+The presence of
+antihistone antibodies
+is up to 90% sensitive
+for drug-induced
+lupus.[35]
+Cardiac amyloidosis
+History Exam 1st Test Other tests
+history of known
+amyloid, multiple
+myeloma, monoclonal
+gammopathy, or
+chronic illness such as
+rheumatoid arthritis;
+signs of congestive
+heart failure: elevated
+jugular venous
+pressure, pulmonary
+crackles, peripheral
+edema, palpable pulsus
+»echocardiography:
+pericardial effusion; left
+ventricular hypertrophy
+≥12 nm; reduced tissue
+Doppler s', e', and a'
+wave velocities (<5
+cm/s); decreased
+»serum and
+urine protein
+electrophoresis with
+immunofixation:
+monoclonal
+immunoglobulin light
+chain spike
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Uncommon
+Cardiac amyloidosis
+History Exam 1st Test Other tests
+easy bruising, fatigue,
+and weight loss
+alternans, S3 gallop,
+hepatomegaly
+global longitudinal left
+ventricular strain
+In most cases the
+effusion is small to
+moderate size; signs of
+tamponade are rare.
+Presence of left
+ventricular hypertrophy
+in the absence of any
+other plausible cause
+suggests infiltrative
+disease.
+»ECG: low-
+voltage ECG with a
+pseudoinfarct pattern
+»chest x-ray: normal
+or water-bottle-
+shaped enlarged
+cardiac silhouette;
+may show lung
+lesion or mediastinal
+lymphadenopathy
+Usually normal, unless
+a large pericardial
+effusion (>300 mL) is
+present, in which case
+the cardiothoracic ratio
+will be increased.[6]
+The combination
+of serum protein
+electrophoresis
+with immunofixation
+(SPIE), urine protein
+electrophoresis with
+immunofixation (UPIE),
+and quantification of
+serum free light-chains
+has a sensitivity of 99%
+for identifying abnormal
+pro-amyloidotic
+precursor in light-
+chain amyloidosis
+(AL).[77] Therefore,
+this screening test is
+highly sensitive for AL
+amyloidosis and is very
+helpful in suggesting
+the diagnosis of cardiac
+amyloid when it is
+clinically suspected.[77]
+[78]
+»bone scan: Grade
+2 or 3 cardiac uptake
+of radiotracer in
+99mTc-pyrophosphate
+(PYP), 99mTc-3,3-
+diphosphono-1,2-
+propanodicarboxylic
+acid (DPD) or 99mTc-
+hydroxymethylene
+diphosphonate (HMDP)
+scintigraphy
+When the disease
+is suspected, if
+monoclonal protein
+is undetectable and
+the serum free light-
+chain ratio is normal,
+the specificity of Grade
+2 or 3 cardiac uptake
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Evaluation of pericardial effusion Diagnosis
+Uncommon
+Cardiac amyloidosis
+History Exam 1st Test Other tests
+for cardiac transthyretin
+amyloidosis (ATTR) is
+almost 100%.[79]
+»cardiac magnetic
+resonance: diffuse
+subendocardial
+or transmural
+late gadolinium
+enhancement,
+abnormal gadolinium
+kinetics, extracellular
+volume ≥0.40%
+(strongly supportive,
+but not essential/
+diagnostic)
+»endomyocardial
+biopsy: amyloid on
+Congo red stain
+Endomyocardial biopsy
+is the gold standard
+test for cardiac
+amyloidosis.[78]
+»abdominal fat
+biopsy: birefringent
+green on Congo red
+stain
+Pathognomonic
+histologic property of
+extracellular deposition
+of misfolded proteins
+after staining with
+Congo red and then
+viewed under cross
+polarized light. This is
+a relatively noninvasive
+way to confirm the
+diagnosis of systemic
+amyloid.[77]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Hypothyroidism
+History Exam 1st Test Other tests
+history of
+hypothyroidism, thyroid
+surgery, lethargy,
+constipation, cold
+intolerance
+evidence of thyroid
+surgery, myxedematous
+skin changes,
+bradycardia, diminished
+tendon reflexes
+»echocardiography:
+pericardial effusion; in
+most cases small or
+moderate
+»chest x-ray: normal
+or water-bottle-
+shaped enlarged
+cardiac silhouette;
+may show lung
+lesion or mediastinal
+lymphadenopathy
+Usually normal, unless
+a large pericardial
+effusion (>300 mL) is
+present, in which case
+the cardiothoracic ratio
+will be increased.[6]
+»ECG: may show sinus
+bradycardia, low QRS
+voltage
+»TSH: elevated
+Confirms the diagnosis
+of hypothyroidism.
+Ovarian hyperstimulation syndrome
+History Exam 1st Test Other tests
+history of ovarian
+stimulation
+with injectable
+gonadotropins; chest
+pain, dyspnea
+muffled heart sounds,
+pericardial friction rub
+»echocardiography:
+pericardial effusion
+»chest x-ray: normal
+or water-bottle-
+shaped enlarged
+cardiac silhouette;
+may show lung
+lesion or mediastinal
+lymphadenopathy
+Usually normal, unless
+a large pericardial
+effusion (>300 mL) is
+present, in which case
+the cardiothoracic ratio
+will be increased.[6]
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Evaluation of pericardial effusion Diagnosis
+Uncommon
+Ovarian hyperstimulation syndrome
+History Exam 1st Test Other tests
+»ECG: sinus
+tachycardia, low QRS
+voltage, electrical
+alternans in tamponade
+Aortic dissection
+History Exam 1st Test Other tests
+tearing chest pain
+radiating to the back
+with sudden onset,
+stroke symptoms due to
+accompanying carotid
+artery dissection;
+history of aortic root
+dilation, connective
+tissue disease such as
+Marfan or Loeys-Dietz
+syndrome
+blowing diastolic
+murmur, pulse
+differential between
+right and left arms;
+hypotension,
+tachycardia, elevated
+jugular venous
+pressure, pulsus
+paradoxus and
+diminished heart
+sounds in tamponade
+»echocardiography:
+pericardial effusion;
+signs of tamponade,
+aortic dissection flap,
+aortic root dilation
+The preferred test in
+patients who are unable
+to undergo CT scan
+either for concerns
+regarding contrast
+or because they are
+unstable.
+»CT angiography:
+aortic dissection,
+intramural hematoma,
+pericardial effusion
+The preferred test to
+establish the diagnosis
+in stable patients
+with suspected aortic
+dissection.
+»chest x-ray: widened
+mediastinum
+Suggests the diagnosis
+and in the appropriate
+clinical setting requires
+immediate advanced
+imaging study.
+»ECG: sinus
+tachycardia, low QRS
+voltage, electrical
+alternans in tamponade
+»transesophageal
+echo: aortic dissection,
+intramural hematoma,
+pericardial effusion
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+Uncommon
+Trauma
+History Exam 1st Test Other tests
+gunshot, stab wounds,
+or blunt trauma to the
+thorax
+gunshot entrance
+wounds, stab wounds,
+hypotension often
+without elevated
+neck veins, or pulsus
+paradoxus
+»echocardiography:
+pericardial fluid
+The best emergency
+department test for
+evaluating traumatic
+pericardial effusion.
+»ECG: sinus
+tachycardia, low QRS
+voltage, electrical
+alternans in tamponade
+»chest x-ray: widened
+mediastinum
+»CT chest: findings
+of direct penetrating
+or indirect injury to the
+heart
+◊ Radiation exposure
+History Exam 1st Test Other tests
+history of chest
+radiation
+fever, chest pain, and
+pericardial rub in acute
+pericarditis during
+or after radiation,
+dyspnea, hypotension,
+tachycardia, elevated
+jugular venous
+pressure, pulsus
+paradoxus and
+diminished heart
+sounds in tamponade
+»echocardiography:
+pericardial effusion;
+either clear or partly
+organized, signs of
+tamponade in some
+cases
+»chest x-ray: normal
+or water-bottle-
+shaped enlarged
+cardiac silhouette;
+may show lung
+lesion or mediastinal
+lymphadenopathy
+Usually normal, unless
+a large pericardial
+effusion (>300 mL) is
+present, in which case
+the cardiothoracic ratio
+will be increased.[6]
+»ECG: diffuse ST-
+segment elevation and
+PR depression
+Suggests pericardial
+inflammation and is
+often seen in early
+pericarditis.
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Evaluation of pericardial effusion Diagnosis
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Evaluation of pericardial effusion References
+REFERENCES
+Key articles
+• Adler Y, Charron P, Imazio M, et al. 2015 ESC guidelines on the diagnosis and management of
+pericardial diseases. Eur Heart J. 2015;36:2921-64.  Full text (https://academic.oup.com/eurheartj/
+article/36/42/2921/2293375)   Abstract
+• Klein AL, Abbara S, Agler DA, et al. American Society of Echocardiography clinical recommendations
+for multimodality cardiovascular imaging of patients with pericardial disease: endorsed by the Society
+for Cardiovascular Magnetic Resonance and Society of Cardiovascular Computed Tomography. J
+Am Soc Echocardiogr. 2013 Sep;26(9):965-1012.e15.  Full text (https://www.onlinejase.com/article/
+S0894-7317(13)00533-6/fulltext)   Abstract
+• Isselbacher EM, Preventza O, Black JH 3rd, et al. 2022 ACC/AHA guideline for the diagnosis and
+management of aortic disease: a report of the American Heart Association/American College of
+Cardiology Joint Committee on clinical practice guidelines. Circulation. 2022 Nov 2 [Epub ahead of
+print].  Full text (https://www.ahajournals.org/doi/epdf/10.1161/CIR.0000000000001106)   Abstract
+References
+1. Savage DD, Garrison RJ, Brand F, et al. Prevalence and correlates of posterior extra
+echocardiographic spaces in a free-living population based sample (the Framingham study).
+Am J Cardio. 1983;51:1207-12. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6220597?
+tool=bestpractice.bmj.com)
+2. Imazio M, Mayosi BM, Brucato A, et al. Triage and management of pericardial effusion. J
+Cardiovasc Med (Hagerstown). 2010 Dec;11(12):928-35. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20814314?tool=bestpractice.bmj.com)
+3. Arntfield RT, Millington SJ. Point of care cardiac ultrasound applications in the emergency
+department and intensive care unit - a review. Curr Cardiol Rev. 2012 May;8(2):98-108.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3406278)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22894759?tool=bestpractice.bmj.com)
+4. De Filippo O, Gatti P, Rettegno S, et al. Is pericardial effusion a negative prognostic marker? Meta-
+analysis of outcomes of pericardial effusion. J Cardiovasc Med (Hagerstown). 2019 Jan;20(1):39-45.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30480582?tool=bestpractice.bmj.com)
+5. Hoit BD. Pericardial effusion and cardiac tamponade in the new millennium. Curr Cardiol Rep. 2017
+Jul;19(7):57. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28493085?tool=bestpractice.bmj.com)
+6. Adler Y, Charron P, Imazio M, et al. 2015 ESC guidelines on the diagnosis and management
+of pericardial diseases. Eur Heart J. 2015;36:2921-64.  Full text (https://academic.oup.com/
+eurheartj/article/36/42/2921/2293375)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26320112?
+tool=bestpractice.bmj.com)
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Evaluation of pericardial effusion References
+7. Klein AL, Abbara S, Agler DA, et al. American Society of Echocardiography clinical recommendations
+for multimodality cardiovascular imaging of patients with pericardial disease: endorsed by the Society
+for Cardiovascular Magnetic Resonance and Society of Cardiovascular Computed Tomography.
+J Am Soc Echocardiogr. 2013 Sep;26(9):965-1012.e15.  Full text (https://www.onlinejase.com/
+article/S0894-7317(13)00533-6/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23998693?
+tool=bestpractice.bmj.com)
+8. Strobbe A, Adriaenssens T, Bennett J, et al. Etiology and long-term outcome of patients
+undergoing pericardiocentesis. J Am Heart Assoc. 2017 Dec 23;6(12):e007598.  Full text (https://
+www.ahajournals.org/doi/10.1161/JAHA.117.007598)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29275375?tool=bestpractice.bmj.com)
+9. Agarwal V, El Hayek G, Chavez P, et al. A structured, parsimonious approach to establish the cause
+of moderate-to-large pericardial effusion. Am J Cardiol. 2014 Aug 1;114(3):479-82. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24931288?tool=bestpractice.bmj.com)
+10. Sánchez-Enrique C, Nuñez-Gil IJ, Viana-Tejedor A, et al. Cause and long-term outcome of cardiac
+tamponade. Am J Cardiol. 2016 Feb 15;117(4):664-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26718232?tool=bestpractice.bmj.com)
+11. Ntsekhe M, Mayosi BM. Tuberculous pericarditis with and without HIV. Heart Fail Rev. 2013
+May;18(3):367-73.  Full text (https://link.springer.com/article/10.1007%2Fs10741-012-9310-6)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22427006?tool=bestpractice.bmj.com)
+12. Burazor I, Imazio M, Markel G, et al. Malignant pericardial effusion. Cardiology. 2013;124(4):224-32.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23571453?tool=bestpractice.bmj.com)
+13. Imazio M, Colopi M, De Ferrari GM. Pericardial diseases in patients with cancer: contemporary
+prevalence, management and outcomes. Heart. 2020 Apr;106(8):569-74. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31980441?tool=bestpractice.bmj.com)
+14. Chang HM, Okwuosa TM, Scarabelli T, et al. Cardiovascular complications of cancer therapy:
+best practices in diagnosis, prevention, and management: Part 2. J Am Coll Cardiol. 2017 Nov
+14;70(20):2552-65.  Full text (https://www.onlinejacc.org/content/70/20/2552)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29145955?tool=bestpractice.bmj.com)
+15. Saade A, Mansuet-Lupo A, Arrondeau J, et al. Pericardial effusion under nivolumab: case-
+reports and review of the literature. J Immunother Cancer. 2019 Oct 18;7(1):266.  Full text (https://
+jitc.bmj.com/content/7/1/266.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31627742?
+tool=bestpractice.bmj.com)
+16. Imazio M, Adler Y. Management of pericardial effusion. Eur Heart J. 2013 Apr;34(16):1186-97. 
+Full text (https://academic.oup.com/eurheartj/article/34/16/1186/452092)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23125278?tool=bestpractice.bmj.com)
+17. Pankuweit S, Stein A, Karatolios K, et al. Viral genomes in the pericardial fluid and in peri- and
+epicardial biopsies from a German cohort of patients with large to moderate pericardial effusions.
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Evaluation of pericardial effusion References
+REFERENCES
+Heart Fail Rev. 2013 May;18(3):329-36. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23420041?
+tool=bestpractice.bmj.com)
+18. Patel H, Patel C, Soni M, et al. Acute primary pneumococcal purulent pericarditis with
+cardiac tamponade: a case report and literature review. Medicine (Baltimore). 2015
+Oct;94(41):e1709.  Full text (https://journals.lww.com/md-journal/Fulltext/2015/10020/
+Acute_Primary_Pneumococcal_Purulent_Pericarditis.22.aspx)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26469910?tool=bestpractice.bmj.com)
+19. Sotoudeh Anvari M, Kianinejad R, Boroumand MA, et al. Bacterial pericarditis and antimicrobial
+resistance at the Tehran Heart Center, Iran. J Infect Dev Ctries. 2015 Jul 30;9(7):780-4.  Full text
+(https://jidc.org/index.php/journal/article/view/26230130/1348)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26230130?tool=bestpractice.bmj.com)
+20. Ntsekhe M. Pericardial disease in the developing world. Can J Cardiol. 2023 Aug;39(8):1059-66.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37201721?tool=bestpractice.bmj.com)
+21. Noubiap JJ, Agbor VN, Ndoadoumgue AL, et al. Epidemiology of pericardial diseases in Africa: a
+systematic scoping review. Heart. 2019 Feb;105(3):180-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30415206?tool=bestpractice.bmj.com)
+22. Porcel JM, Esquerda A, Bielsa S. Diagnostic performance of adenosine deaminase activity
+in pleural fluid: a single-center experience with over 2100 consecutive patients. Eur J Intern
+Med. 2010 Oct;21(5):419-23. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20816597?
+tool=bestpractice.bmj.com)
+23. Koh KK, Kim EJ, Cho CH, et al. Adenosine deaminase and carcinoembryonic antigen in
+pericardial effusion diagnosis, especially in suspected tuberculous pericarditis. Circulation. 1994
+Jun;89(6):2728-35.  Full text (https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.89.6.2728)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8205688?tool=bestpractice.bmj.com)
+24. Liu J, Mouhayar E, Tarrand JJ, et al. Fulminant Cryptococcus neoformans infection with fatal
+pericardial tamponade in a patient with chronic myelomonocytic leukaemia who was treated with
+ruxolitinib: case report and review of fungal pericarditis. Mycoses. 2018 Apr;61(4):245-55. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29280197?tool=bestpractice.bmj.com)
+25. Biso S, Lekkham R, Climaco A. Aspergillus pericarditis with tamponade in a renal transplant patient.
+Case Rep Cardiol. 2017;2017:7134586.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC5337835)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28316844?tool=bestpractice.bmj.com)
+26. Rabinovici R, Szewczyk D, Ovadia P, et al. Candida pericarditis: clinical profile and treatment.
+Ann Thorac Surg. 1997 Apr;63(4):1200-4.  Full text (https://www.annalsthoracicsurgery.org/article/
+S0003-4975(97)00086-6/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9124944?
+tool=bestpractice.bmj.com)
+27. Acquatella H. Echocardiography in Chagas heart disease. Circulation. 2007;115:1124-31.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/circulationaha.106.627323)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17339570?tool=bestpractice.bmj.com)
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Evaluation of pericardial effusion References
+28. Pepi M, Muratori M, Barbier P, et al. Pericardial effusion after cardiac surgery: incidence, site, size,
+and haemodynamic consequences. Br Heart J. 1997;72:327-31.  Full text (https://heart.bmj.com/
+content/heartjnl/72/4/327.full.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7833189?
+tool=bestpractice.bmj.com)
+29. Ikäheimo MJ, Huikuri HV, Airaksinen KE, et al. Pericardial effusion after cardiac surgery: incidence,
+relation to the type of surgery, antithrombotic therapy, and early coronary bypass graft patency.
+Am Heart J. 1988 Jul;116(1 pt 1):97-102. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3260740?
+tool=bestpractice.bmj.com)
+30. Khan NK, Järvelä KM, Loisa EL, et al. Incidence, presentation and risk factors of late postoperative
+pericardial effusions requiring invasive treatment after cardiac surgery. Interact Cardiovasc Thorac
+Surg. 2017 Jun 1;24(6):835-40.  Full text (https://academic.oup.com/icvts/article/24/6/835/3003191)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28329077?tool=bestpractice.bmj.com)
+31. Jaussaud N, Boignard A, Durand M, et al. Percutaneous drainage of postoperative pericardial effusion
+in cardiac surgery. J Interv Cardiol. 2012 Feb;25(1):95-101.  Full text (https://onlinelibrary.wiley.com/
+doi/full/10.1111/j.1540-8183.2011.00680.x)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21981588?tool=bestpractice.bmj.com)
+32. Gaudino M, Anselmi A, Pavone N, et al. Constrictive pericarditis after cardiac surgery. Ann
+Thorac Surg. 2013 Feb;95(2):731-6.  Full text (https://www.annalsthoracicsurgery.org/article/
+S0003-4975(12)01891-7/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23266135?
+tool=bestpractice.bmj.com)
+33. Natanzon A, Kronzon I. Pericardial and pleural effusions in congestive heart failure-anatomical,
+pathophysiologic, and clinical considerations. Am J Med Sci. 2009 Sep;338(3):211-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19574887?tool=bestpractice.bmj.com)
+34. Sagristà-Sauleda J, Angel J, Permanyer-Miralda G, et al. Long-term follow-up of idiopathic chronic
+pericardial effusion. N Engl J Med. 1999 Dec 30;341(27):2054-9.  Full text (https://www.nejm.org/
+doi/10.1056/NEJM199912303412704)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10615077?
+tool=bestpractice.bmj.com)
+35. Kataoka H. Pericardial and pleural effusions in decompensated chronic heart failure. Am
+Heart J. 2000;139:918-23. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10783228?
+tool=bestpractice.bmj.com)
+36. Batal O, Dardari Z, Costabile C, et al. Prognostic value of pericardial effusion on serial
+echocardiograms in pulmonary arterial hypertension. Echocardiography. 2015 Oct;32(10):1471-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25682779?tool=bestpractice.bmj.com)
+37. Isselbacher EM, Preventza O, Black JH 3rd, et al. 2022 ACC/AHA guideline for the diagnosis and
+management of aortic disease: a report of the American Heart Association/American College of
+Cardiology Joint Committee on clinical practice guidelines. Circulation. 2022 Nov 2 [Epub ahead of
+print].  Full text (https://www.ahajournals.org/doi/epdf/10.1161/CIR.0000000000001106)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/36322642?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Evaluation of pericardial effusion References
+REFERENCES
+38. Gilon D, Mehta RH, Oh JK, et al. Characteristics and in-hospital outcomes of patients with cardiac
+tamponade complicating type A acute aortic dissection. Am J Cardiol. 2009 Apr 1;103(7):1029-31.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19327436?tool=bestpractice.bmj.com)
+39. Di Eusanio M, Trimarchi S, Patel HJ, et al. Clinical presentation, management, and short-term
+outcome of patients with type A acute dissection complicated by mesenteric malperfusion:
+observations from the International Registry of Acute Aortic Dissection. J Thorac Cardiovasc Surg.
+2013 Feb;145(2):385-90.e1.  Full text (https://www.jtcvs.org/article/S0022-5223(12)00090-6/fulltext)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22341418?tool=bestpractice.bmj.com)
+40. Erbel R, Aboyans V, Boileau C, et al; ESC Committee for Practice Guidelines. 2014 ESC guidelines
+on the diagnosis and treatment of aortic diseases: document covering acute and chronic aortic
+diseases of the thoracic and abdominal aorta of the adult. The Task Force for the Diagnosis and
+Treatment of Aortic Diseases of the European Society of Cardiology (ESC). Eur Heart J. 2014 Nov
+1;35(41):2873-926.  Full text (https://academic.oup.com/eurheartj/article/35/41/2873/407693)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25173340?tool=bestpractice.bmj.com)
+41. Imazio M, Brucato A, Rovere ME, et al. Contemporary features, risk factors, and prognosis of
+the post-pericardiotomy syndrome. Am J Cardiol. 2011 Oct 15;108(8):1183-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21798503?tool=bestpractice.bmj.com)
+42. Albani S, Fabris E, Stolfo D, et al. Prognostic relevance of pericardial effusion in STEMI patients
+treated by primary percutaneous coronary intervention: a 10-year single-centre experience. Eur Heart
+J Acute Cardiovasc Care. 2019 Nov 7 [Epub ahead of print].  Full text (https://academic.oup.com/
+ehjacc/article/10/1/71/6145502)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31696727?
+tool=bestpractice.bmj.com)
+43. Bière L, Mateus V, Clerfond G, et al. Predictive factors of pericardial effusion after a first acute
+myocardial infarction and successful reperfusion. Am J Cardiol. 2015 Aug 15;116(4):497-503. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/26070221?tool=bestpractice.bmj.com)
+44. Harris DG, Janson JT, Van Wyk J, et al. Delayed pericardial effusion following stab wounds
+to the chest. Eur J Cardiothorac Surg. 2003;23:473-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12694762?tool=bestpractice.bmj.com)
+45. Bataille S, Brunet P, Decourt A, et al. Pericarditis in uremic patients: serum albumin and size of
+pericardial effusion predict drainage necessity. J Nephrol. 2015 Feb;28(1):97-104. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24840780?tool=bestpractice.bmj.com)
+46. Cuomo JR, Sharma GK, Conger PD, et al. Novel concepts in radiation-induced cardiovascular
+disease. World J Cardiol. 2016 Sep 26;8(9):504-19.  Full text (https://www.wjgnet.com/1949-8462/full/
+v8/i9/504.htm)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27721934?tool=bestpractice.bmj.com)
+47. Szpakowski N, Desai MY. Radiation-associated pericardial disease. Curr Cardiol Rep. 2019 Jul
+27;21(9):97. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31352541?tool=bestpractice.bmj.com)
+48. Ning MS, Tang L, Gomez DR, et al. Incidence and predictors of pericardial effusion after
+chemoradiation therapy for locally advanced non-small cell lung cancer. Int J Radiat Oncol
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Evaluation of pericardial effusion References
+Biol Phys. 2017 Sep 1;99(1):70-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28816165?
+tool=bestpractice.bmj.com)
+49. Mohty D, Damy T, Cosnay P, et al. Cardiac amyloidosis: updates in diagnosis and management. Arch
+Cardiovasc Dis. 2013 Oct;106(10):528-40.  Full text (https://www.sciencedirect.com/science/article/
+pii/S187521361300274X?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24070600?
+tool=bestpractice.bmj.com)
+50. Imazio M. Pericardial involvement in systemic inflammatory diseases. Heart. 2011
+Nov;97(22):1882-92. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22016400?
+tool=bestpractice.bmj.com)
+51. Ratwatte S, Day M, Ridley LJ, et al. Cardiac manifestations of IgG4-related disease: a case series.
+Eur Heart J Case Rep. 2022 Apr 8;6(4):ytac153.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC9036079)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35481260?tool=bestpractice.bmj.com)
+52. Gorecka MM, Armstrong R, Daly C. Unusual cause of pericardial effusion: IgG4-related disease.
+BMJ Case Rep. 2019 Jun 29;12(6):e230505.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC6605922)
+53. Chahine J, Ala CK, Gentry JL, et al. Pericardial diseases in patients with hypothyroidism.
+Heart. 2019 Jul;105(13):1027-33. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30948517?
+tool=bestpractice.bmj.com)
+54. Delvigne A, Demoulin A, Smitz J, et al. The ovarian hyperstimulation syndrome in in-vitro fertilization:
+a Belgian multicentric study. I. Clinical and biological features. Hum Reprod. 1993 Sep;8(9):1353-60.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8253917?tool=bestpractice.bmj.com)
+55. Le Saché F, Dibie A, Lamer C. Cardiac tamponade after ovarian stimulation. N Engl J Med. 2007 Jan
+25;356(4):425-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17251546?tool=bestpractice.bmj.com)
+56. Vasoo S. Drug-induced lupus: an update. Lupus. 2006;15:757-61. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17153847?tool=bestpractice.bmj.com)
+57. Ristić AD, Imazio M, Adler Y, et al. Triage strategy for urgent management of cardiac tamponade:
+a position statement of the European Society of Cardiology Working Group on Myocardial and
+Pericardial Diseases. Eur Heart J. 2014 Sep 7;35(34):2279-84.  Full text (https://academic.oup.com/
+eurheartj/article/35/34/2279/524762)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25002749?
+tool=bestpractice.bmj.com)
+58. LeWinter MM. Clinical practice. Acute pericarditis. N Engl J Med. 2014 Dec 18;371(25):2410-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25517707?tool=bestpractice.bmj.com)
+59. Aringer M, Costenbader K, Daikh D, et al. 2019 European League Against Rheumatism/American
+College of Rheumatology classification criteria for systemic lupus erythematosus. Ann Rheum Dis.
+2019 Sep;78(9):1151-9.  Full text (https://ard.bmj.com/content/78/9/1151.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31383717?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Evaluation of pericardial effusion References
+REFERENCES
+60. Weitzman LB, Tinker WP, Kronzon I, et al. The incidence and natural history of pericardial effusion
+after cardiac surgery - an echocardiographic study. Circulation. 1984;69:506-11. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/6692512?tool=bestpractice.bmj.com)
+61. Roy CL, Minor MA, Brookhart MA, et al. Does this patient with a pericardial effusion have
+cardiac tamponade? JAMA. 2007 Apr 25;297(16):1810-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17456823?tool=bestpractice.bmj.com)
+62. Xanthopoulos A, Skoularigis J. Diagnosis of acute pericarditis. E-J Cardiol Pract. 2017;15:15.  Full text
+(https://www.escardio.org/Journals/E-Journal-of-Cardiology-Practice/Volume-15/Diagnosis-of-acute-
+pericarditis)
+63. Kligerman S. Imaging of pericardial disease. Radiol Clin North Am. 2019 Jan;57(1):179-99. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/30454812?tool=bestpractice.bmj.com)
+64. American College of Radiology. Practice parameter for the performance and interpretation of cardiac
+magnetic resonance imaging (MRI). 2022 [internet publication].  Full text (https://www.acr.org/Clinical-
+Resources/Practice-Parameters-and-Technical-Standards)
+65. Wang TKM, Ayoub C, Chetrit M, et al. Cardiac magnetic resonance imaging techniques and
+applications for pericardial diseases. Circ Cardiovasc Imaging. 2022 Jul;15(7):e014283.  Full
+text (https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.122.014283)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35861978?tool=bestpractice.bmj.com)
+66. Antonopoulos AS, Vrettos A, Androulakis E, et al. Cardiac magnetic resonance imaging of pericardial
+diseases: a comprehensive guide. Eur Heart J Cardiovasc Imaging. 2023 Jul 24;24(8):983-98. 
+Full text (https://academic.oup.com/ehjcimaging/article/24/8/983/7173358)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37207354?tool=bestpractice.bmj.com)
+67. Chetrit M, Xu B, Kwon DH, et al. Imaging-guided therapies for pericardial diseases. JACC Cardiovasc
+Imaging. 2020 Jun;13(6):1422-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31734199?
+tool=bestpractice.bmj.com)
+68. Bogaert J, Francone M. Cardiovascular magnetic resonance in pericardial diseases. J
+Cardiovasc Magn Reson. 2009 May 4;11(1):14.  Full text (https://www.sciencedirect.com/science/
+article/pii/S1097664723004957)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19413898?
+tool=bestpractice.bmj.com)
+69. Ferreira PF, Gatehouse PD, Mohiaddin RH, et al. Cardiovascular magnetic resonance artefacts. J
+Cardiovasc Magn Reson. 2013 May 22;15(1):41.  Full text (https://www.sciencedirect.com/science/
+article/pii/S1097664723007573)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23697969?
+tool=bestpractice.bmj.com)
+70. Sagristà-Sauleda J, Mercé J, Permanyer-Miralda G, et al. Clinical clues to the causes of large
+pericardial effusions. Am J Med. 2000 Aug 1;109(2):95-101. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10967149?tool=bestpractice.bmj.com)
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 45 ===
+Evaluation of pericardial effusion References
+71. Permanyer-Miralda G, Sagrista-Sauleda J, Soler-Soler J. Primary acute pericardial disease: a
+prospective series of 231 consecutive patients. Am J Cardiol. 1985;56:623-30. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/4050698?tool=bestpractice.bmj.com)
+72. Argulian E, Makani H, Herzog E. Pericardial effusion and tamponade. In: Herzog E (ed). Management
+of pericardial disease. Switzerland: Springer International Publishing; 2014:129-37.
+73. Ben-Horin S, Bank I, Shinfeld A, et al. Diagnostic value of the biochemical composition of pericardial
+effusions in patients undergoing pericardiocentesis. Am J Cardiol. 2007;99:1294-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17478160?tool=bestpractice.bmj.com)
+74. Seferović PM, Ristić AD, Maksimović R, et al. Diagnostic value of pericardial biopsy: improvement
+with extensive sampling enabled by pericardioscopy. Circulation. 2003;107:978-83.  Full text
+(https://www.ahajournals.org/doi/10.1161/01.cir.0000051366.97361.ea)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12600910?tool=bestpractice.bmj.com)
+75. Mayosi BM, Burgess LJ, Doubell AF. Tuberculous pericarditis. Circulation. 2005;112:3608-16.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/circulationaha.105.543066)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16330703?tool=bestpractice.bmj.com)
+76. Mayosi BM, Wiysonge CS, Ntsekhe M, et al. Clinical characteristics and initial management
+of patients with tuberculous pericarditis in the HIV era: the Investigation of the Management
+of Pericarditis in Africa (IMPI Africa) registry. BMC Infect Dis. 2006;6:2.  Full text (https://
+bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-6-2)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16396690?tool=bestpractice.bmj.com)
+77. Garcia-Pavia P, Rapezzi C, Adler Y, et al. Diagnosis and treatment of cardiac amyloidosis: a position
+statement of the ESC Working Group on Myocardial and Pericardial Diseases. Eur Heart J. 2021
+Apr 21;42(16):1554-68.  Full text (https://www.doi.org/10.1093/eurheartj/ehab072)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33825853?tool=bestpractice.bmj.com)
+78. Dorbala S, Ando Y, Bokhari S, et al. ASNC/AHA/ASE/EANM/HFSA/ISA/SCMR/SNMMI expert
+consensus recommendations for multimodality imaging in cardiac amyloidosis: part 1 of 2 - evidence
+base and standardized methods of imaging. Circ Cardiovasc Imaging. 2021 Jul;14(7):e000029.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/HCI.0000000000000029)
+79. Gillmore JD, Maurer MS, Falk RH, et al. Nonbiopsy diagnosis of cardiac transthyretin
+amyloidosis. Circulation. 2016 Jun 14;133(24):2404-12.  Full text (https://www.doi.org/10.1161/
+CIRCULATIONAHA.116.021612)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27143678?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+45
+=== Page 46 ===
+Evaluation of pericardial effusion Images
+IMAGES
+Images
+Figure 1: Diagram showing the anatomy of the pericardium.
+Marchand P. Thorax. 1951;6:359-368
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 47 ===
+Evaluation of pericardial effusion Images
+Figure 2: Auscultation of the pericardium: to elicit pericardial rubs the patient is invited to lean forward (A) or
+rest on elbows and knees (B). Both physical manoeuvres aim to increase the contact of visceral and parietal
+pericardium.
+Imazio M. Pericardial involvement in systemic inflammatory diseases. Heart 2011;97:1882-92.
+Figure 3: ECG in acute pericarditis. Nearly ubiquitous ST segment elevation corresponding to ST depression
+in aVR (lead augmented vector right). Height of ST elevation is about 25% of height of T waves peak in V5–
+V6. Most PR segments are slightly depressed with respect to the T-P baseline (atrial current of injury).
+Imazio M. Pericardial involvement in systemic inflammatory diseases. Heart 2011;97:1882-92.
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+47
+=== Page 48 ===
+Evaluation of pericardial effusion Images
+IMAGES
+Figure 4: Parasternal long-axis view of a pericardial effusion (PE); LA = left atrium, LV = left ventricle, RV =
+right ventricle
+From the collection of Dr Rajdeep Khattar
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 49 ===
+Evaluation of pericardial effusion Images
+Figure 5: Apical 4- chamber view of a 2-dimensional echocardiogram of a patient with tuberculous pericardial
+effusion; LA = left atrium, LV = left ventricle, Per eff = pericardial effusion; RA = right atrium, RV = right
+ventricle
+From: George S, Salama AL, Uthaman B, et al. Heart. 2004;90:1338-1339
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+49
+=== Page 50 ===
+Evaluation of pericardial effusion Images
+IMAGES
+Figure 6: CXR in a patient with a pericardial effusion showing typical findings of a water-bottle-shaped
+cardiac silhouette with a distinct, fat, pericardial fat stripe
+From the collection of Dr Rajdeep Khattar
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 51 ===
+Evaluation of pericardial effusion Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+51
+=== Page 52 ===
+Evaluation of pericardial effusion Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 53 ===
+Contributors:
+// Authors:
+Edgar Argulian, MD, MPH
+Assistant Professor
+Department of Cardiology, Mount Sinai St Luke's Hospital, New York, NY
+DISCLOSURES: EA is an author of one of the references cited in this topic. EA declares that he has no
+competing interests.
+Birgit Vogel, MD
+Cardiovascular Imaging Fellow
+Mount Sinai St Luke's Hospital, New York, NY
+DISCLOSURES: BV declares that she has no competing interests.
+// Acknowledgements:
+Dr Edgar Argulian and Dr Birgit Vogel would like to gratefully acknowledge Dr Rajdeep Khattar, Dr David
+Liff, and Dr Vasilis Babaliaros, the previous contributors to this topic, and Dr Oliver Ziff for his assistance
+with this topic.
+DISCLOSURES: RK, DL, VB, and OZ declare that they have no competing interests.
+// Peer Reviewers:
+Stephen Archer, MD
+Professor of Medicine
+Section of Cardiology, Department of Medicine, University of Chicago, Division of Biological Science,
+Chicago, IL
+DISCLOSURES: SA declares that he has no competing interests.
+Shrilla Banerjee, MBChB, MD, MRCP
+Consultant Cardiologist
+East Surrey Hospital, Surrey and Sussex NHS Healthcare Trust, Redhill, Surrey, Heart Hospital, University
+College London Hospitals NHS Trust, London, UK
+DISCLOSURES: SB declares that she has no competing interests.

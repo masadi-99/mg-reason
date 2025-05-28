@@ -1,0 +1,2672 @@
+# Brugada syndrome
+
+=== Page 1 ===
+Brugada syndrome
+Straight to the point of care
+Last updated: Mar 19, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  5
+Classification  6
+Case history  8
+Diagnosis  9
+Approach  9
+History and exam  17
+Risk factors  18
+Investigations  20
+Differentials  24
+Criteria  29
+Screening  30
+Management  32
+Approach  32
+Treatment algorithm overview  36
+Treatment algorithm  37
+Patient discussions  45
+Follow up  46
+Monitoring  46
+Complications  46
+Prognosis  46
+Guidelines  47
+Diagnostic guidelines  47
+Treatment guidelines  48
+Online resources  49
+References  50
+Images  61
+Disclaimer  73
+=== Page 3 ===
+Brugada syndrome Overview
+Summary
+Brugada syndrome (BrS) (also known as sudden unexplained [or unexpected] nocturnal death syndrome and
+as idiopathic ventricular fibrillation) should be suspected in any patient with a past history of any one or more
+of unexplained cardiac arrest, ventricular arrhythmia (e.g., documented polymorphic ventricular tachycardia
+or ventricular fibrillation) of unknown cause, or cardiogenic syncope. Be aware that patients may also present
+asymptomatically with incidental findings of Brugada pattern on ECG, or through family screening.
+Diagnosis of BrS is considered probable or definite if spontaneous type 1 Brugada pattern is recorded on
+ECG from the 2nd to 4th intercostal spaces. Induced type 1 Brugada pattern (e.g., by fever, medications such
+as sodium-channel blockers, or by psychotropic drugs, alcohol, or illicit drugs) or type 2 or 3 Brugada pattern
+on the ECG is not diagnostic, and requires further investigation. However, diagnosis of BrS should be made
+by a specialist, and requires synthesis of ECG findings and features of the history (which should include
+relevant family history) and physical exam.
+Treatment consists of conservative management and primary and secondary prevention of serious
+arrhythmic events. This aims to prevent serious arrhythmic events, while avoiding potential complications
+of any treatments. Nonconservative treatments include implantable cardioverter defibrillator (ICD),
+pharmacologic therapy, and radiofrequency catheter ablation.
+Definition
+Brugada syndrome (BrS) (also known as sudden unexplained [or unexpected] nocturnal death syndrome and
+as idiopathic ventricular fibrillation) is an inherited channelopathy characterized by a typical pattern of ST-
+segment elevation in the precordial leads V1-V3, and is associated with increased risk of serious arrhythmic
+events such as ventricular arrhythmias and cardiac arrest.[1] BrS is typically first diagnosed in young- to
+middle-aged patients and is rare in children.[1] [2] [3]
+The diagnosis and management of BrS in children is not covered in this topic.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Brugada syndrome Theory
+THEORY
+Epidemiology
+The true prevalence of Brugada syndrome (BrS) is difficult to determine because the diagnosis requires
+specific ECG findings (which are often intermittent), and many patients are asymptomatic.[1] [7] [8] [9]
+However, prevalence of BrS with type 1 Brugada pattern on the ECG is thought to be around 1 in 2000.[1] [4]
+[8][9] [10] Prevalence of a type 2 or type 3 Brugada pattern on the ECG (which is not diagnostic of BrS, but
+requires further investigation) is around 1 in 500.[1]
+BrS is most commonly diagnosed in young- to middle-aged men; it is around 8 to 10 times more prevalent in
+men than in women.[1] [10] [11] The phenotypic expression of BrS appears to be age dependent because it
+is rare in children, with a prevalence of around 1 in 20,000.[1] [2] [3] However, BrS is thought to be the cause
+of around 4% to 12% of sudden cardiac deaths in children and young athletes, and around 20% of sudden
+explained deaths in young people in general.[12] Note that children are not covered elsewhere in this topic.
+BrS occurs more commonly in Asia than in Europe and the US.[1] [13] It is particularly common in Southeast
+Asia, where nocturnal sudden death syndrome in young men was clinically reported by a variety of local
+names (e.g., bangungut, lai-tai, pokkuri, bei gui ya) in countries such as Philippines, Thailand, Japan, and
+China, prior to the formal classification of BrS.[14] It is the leading cause of death in men under age 40 years
+in Southeast Asia.[4]
+Etiology
+Brugada syndrome (BrS) is a condition that is inherited through an autosomal dominant pattern of
+transmission with variable expression.[1] [4] [15] [9] Mutations of many genes have been implicated in BrS,
+but only SCN5A gene variants are considered definitely disease-causing.[1] [7] However, identifiable SCN5A
+variants are only found in approximately 20% to 30% of patients with BrS.[1] [16][17] [18] Mutations of other
+genes may account for around 2% to 5% of cases.[14] [16] [17][19]
+Features of BrS may be apparent only when induced by certain factors.[1] [7] Inducible features of BrS
+are particularly important to identify in asymptomatic patients (i.e., those who do not have a past history of
+unexplained cardiac arrest, ventricular arrhythmias, or syncope), but may also be present in symptomatic
+patients. These include:[1] [7]
+• Febrile illness. This is known to induce type 1 Brugada pattern on ECG and precipitate arrhythmic
+events.[1] [7] In endemic regions, the prevalence of BrS in patients presenting with febrile illness for
+any reason has been reportedly as high as 4%, around 20-fold greater than a nonfebrile control group
+in one Thai cross-sectional study of 401 patients.[20] [21] While in isolation fever is not specific for
+BrS, in a patient with suspected BrS, it has implications for both diagnosis and management.[1] [7]
+• Medications.[1] [7] [18] These include sodium-channel blockers (e.g., flecainide, procainamide),
+psychotropic medications (e.g., tricyclic or tetracyclic antidepressants, lithium), and local anesthetics.
+These are known to induce type 1 Brugada ECG changes and may also precipitate arrhythmic
+events.[1] [7] [18]
+• Illicit drugs or alcohol.[1] [7] These are known to induce type 1 Brugada ECG changes and may also
+precipitate arrhythmic events.[1] [7] [18]
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Brugada syndrome Theory
+Pathophysiology
+The underlying pathophysiology of Brugada syndrome (BrS) remains unclear.[1] It is likely that there are
+a number of contributing factors that lead to the typical Brugada pattern on ECG, rather than a single
+mechanism, because of the range of clinical manifestations and phenocopies.[1]
+Around 20% to 30% of people with BrS have identifiable inherited mutations of the SCN5A gene, which
+causes dysfunctional cardiac voltage gated NaV1.5 sodium channels.[1] [7] [16] [17] [18] These defective
+sodium channels shorten the duration of the cardiac action potential, leading to a reduction of the peak influx
+of sodium ions and a slowing in the upstroke (phase 0) of the cardiac action potential.[1] Over 300 mutations
+of the SCN5A gene have been discovered so far.[22] This range of genetic mutations may cause differences
+in electrophysiologic abnormalities, which could explain the different clinical manifestations of BrS.[23] [24]
+Experimental studies have shown that the function of NaV1.5 sodium channels is also affected by changes in
+temperature, with additional shortening of the cardiac action potential at higher temperatures.[1]
+Cardiac action potential in Brugada syndrome. Blue line indicates normal ventricular action potential;
+red line indicates delayed upstroke of action potential in Brugada syndrome. Action potential phases: 0,
+rapid depolarization; 1, rapid/early repolarization; 2, plateau; 3, terminal repolarization; 4, resting potential
+Krahn AD et al. JACC Clin Electrophysiol 2022 Mar;8(3):386-405; used with permission
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Brugada syndrome Theory
+THEORY
+Other genes that have been implicated in BrS (although their significance is disputed; only SCN5A gene
+variants are considered definitely disease-causing) include SCN10A (which encodes for the a-subunit of the
+NaV1.8 sodium channel), those that encode for NaV1.5 b-subunits, those involved in NaV1.5 trafficking or
+expression, and potassium and calcium channel genes.[1] [17] [19][25] [26] [27] [28] [29] [30] [31]
+There is debate about whether BrS is due to a primary repolarization disorder, a primary depolarization
+disorder, or both.[1] [32] [33] The argument for a primary repolarization disorder is supported by the fact
+that patients with BrS have a conduction delay in the right ventricular outflow tract, which is associated
+with late action potentials.[1] This conduction delay results in heterogeneity of depolarization around the
+right ventricular outflow tract, which is thought to predispose the patient to arrhythmias.[1] The argument
+for a primary depolarization disorder is supported by evidence that has shown a dispersion of transmural
+(epicardial-endocardial gradient) action potentials in canine models of pharmacologically induced BrS.[1]
+[33] [34] Heterogeneity of repolarization between the epicardium and endocardium is thought to cause
+arrhythmias by phase 2 re-entry.[1] [34] In addition, both repolarization and depolarization abnormalities have
+been demonstrated in people with BrS, although it is suggested that these repolarization changes occur
+secondary to a primary depolarization disorder.[1]
+Some studies have shown that people with BrS have functional changes in the epicardial aspect of the
+right ventricle.[1] [35] [36] There have also been histologic changes identified in the anterior right ventricular
+outflow tract that are associated with areas of low voltage and the presence of abnormal fractionated
+electrograms on electrophysiologic studies.[1] These changes include increased collagen and fibrosis,
+presence of inflammatory infiltrates, and a reduction in connexin-43 (a gap junction protein that provides
+electrical coupling between myocytes).[1] [37][38] Ablation that is targeted to these areas can result in
+correction of the typical Brugada pattern ECG changes and prevention of ventricular arrhythmias.[1] [22] [37]
+[38]
+Classification
+ECG classification
+Type 1
+Coved ST-segment elevation (J-point elevation with a gradual down-sloping ST-segment) ≥2 mm with a
+negative T-wave in the right precordial leads.[1] [4] [5] [6] Type 1 Brugada pattern may be spontaneous, or
+induced (e.g., by factors such as fever or sodium-channel blockers).[1] [5] [7]
+Type 2 or 3
+Saddleback ST-segment configuration with variable levels of ST-segment elevation.[1] [4] [6]
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Brugada syndrome Theory
+Electrocardiographic patterns in Brugada syndrome showing type 1 (diagnostic) and types 2 and 3 (non-
+diagnostic) patterns. Type-1 (diagnostic): coved STT morphology in lead V2 with J-point elevation (dark gray
+line) of ≥0.2 mV (≥2 mm) and a terminal ST-segment elevation (light gray line, J+60 ms) also ≥0.2 mV (≥2
+mm). Note the PR interval and wider QRS complex, wide and deep S in lead I, and fractionation in the right
+precordial ECG leads. Type-2 (non-diagnostic): saddleback STT morphology in lead V2 with J-point elevation
+(dark gray line) of ≥0.2 mV (≥2 mm) and a terminal ST-segment elevation (light gray line, J+60 ms) ≥0.1
+mV (≥1 mm), followed by a positive T wave. Note the less wide and deep S-wave in lead I, less prominent
+fractionation. Type-3 (non-diagnostic): saddleback STT morphology in lead V2 with J-point elevation (dark gray
+line) of ≥0.2 mV (≥2 mm) and a terminal ST-segment elevation (light gray line, J+60 ms) <0.1 mV (<1 mm)
+Marsman EMJ et al. Heart 2022 May;108(9):668-75; used with permission
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Brugada syndrome Theory
+THEORY
+Case history
+Case history #1
+A 33-year-old man presents with palpitations and a recent episode of fainting while at the gym. An ECG
+with standard lead positions is unremarkable, aside from occasional premature ventricular complexes.
+Repeat ECG with high precordial leads shows ST segment elevation that is coved-type and >2 mm in
+amplitude, and inverted T-waves in the right precordial leads. The patient reports that his uncle passed
+away unexpectedly in his early 40s when his car went off the road unexpectedly while driving during
+the daytime. The patient has a past medical history of depression, for which he is taking a selective
+serotonin-reuptake inhibitor, but no other medical problems. He is a non-smoker but occasionally drinks
+5-10 alcoholic beverages in one sitting while watching sports.
+Case history #2
+A 19-year old student who is a college athlete is undergoing preparticipation evaluation and noted to have
+a type I Brugada pattern pattern on ECG. The student is asymptomatic, but states that his uncle died
+aged 38 in his sleep in Southeast Asia.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Brugada syndrome Diagnosis
+Approach
+Brugada syndrome is usually diagnosed through a combination of clinical features, risk factors, and ECG
+findings, although the diagnosis is considered probable or definite if spontaneous type 1 Brugada pattern is
+recorded on ECG from the 2nd to 4th intercostal spaces.[1] [4][7] [51] Refer all patients with type 1 Brugada
+pattern (spontaneous or induced) to a cardiologist or cardiac electrophysiologist for further investigation. Key
+differentials, such as acute coronary syndrome, should be excluded. The proposed Shanghai score may also
+be used to aid diagnosis.[1]
+Proposed Shanghai Score for diagnosis of Brugada syndrome
+Adapted from Peltenburg PJ et al. Neth Heart J. 31. 10.1007/s12471-022-01723-6; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Brugada syndrome Diagnosis
+DIAGNOSIS
+Diagnosis summary for Brugada syndrome [IMAGE KEY: EP = Electrophysiology; ICD = Implantable cardioverter
+defibrillator; ICS = Intercostal space; MRI = Magnetic resonance imaging; SCB = Sodium-channel blocker]
+Krahn AD, et al. Brugada syndrome. JACC Clin Electrophysiol 2022 Mar;8(3):386-405; used with permission
+History
+Take a detailed history of any patient with suspected BrS to identify clinical features of BrS, risk factors
+for BrS and sudden cardiac death, and other potential differentials. This is particularly important for the
+diagnosis of BrS in patients with type 1 Brugada pattern on ECG that is induced by triggers (e.g., fever,
+medications such as sodium-channel blockers or psychotropic drugs, alcohol, or illicit drugs), and in
+asymptomatic patients with type 2 or 3 Brugada pattern on ECG.[1] [7]
+Clinical features
+Consider a diagnosis of symptomatic BrS if a patient has a past history of any one or more of the
+following:
+• Unexplained cardiac arrest, or documented polymorphic ventricular tachycardia (PMVT), or
+ventricular fibrillation (VF)[1] [5] [7]
+• There are many causes of sudden cardiac arrest, PMVT and VF, but BrS should be
+considered as a differential, particularly if there is Brugada pattern on ECG and one or more
+risk factors for BrS (see below).
+• Patients may also present with monomorphic VT, but this is rare and should prompt
+investigation of other arrhythmogenic cardiomyopathies.[5] [52] [53]
+• Cardiogenic syncope
+• Up to one third of patients with BrS present with, or have a history of, syncope at the time of
+diagnosis.[54]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Brugada syndrome Diagnosis
+• Take a careful history to differentiate cardiogenic from noncardiogenic causes of syncope.[1]
+[7] The Shanghai score for the diagnosis of BrS assigns 2 points to patients with suspected
+cardiogenic syncope, and 1 point to those with an unclear cause of syncope.[1] [49]
+• Patients with BrS who have a history of cardiogenic syncope are also at 2.5 to 5-fold greater
+risk of serious arrhythmic events compared with those with noncardiogenic syncope.[47]
+[48] [55] [56] [57] Patients with noncardiogenic syncope have not been shown to have an
+increased risk for serious arrhythmic events.[58]
+Other clinical features of BrS may include:
+• Atrial fibrillation or flutter in a patient <30 years.[1] [59] [60]
+• Concomitant atrial arrhythmias are common in patients with BrS, with a prevalence of
+approximately 10%, although these are not specific for diagnosis of BrS.[61]
+• Use of sodium-channel blockers may unmask the Brugada pattern in some of these
+patients.[61]
+• Nocturnal agonal respirations.[1] [7]
+• The Shanghai score for BrS assigns 2 points to patients with nocturnal agonal
+respirations.[1] [49]
+• In a Danish national survey, prevalence of nocturnal agonal respirations in patients with BrS
+was 14%, but this is likely to be greater in endemic areas.[62]
+• Nocturnal agonal respirations were described in early reports from Southeast Asia
+(Philippines, Thailand, Japan, China, and others) of sudden unexpected nocturnal death
+syndrome (SUNDS), a syndrome which is thought to be genetically, phenotypically, and
+functionally the same as BrS.[63]
+Risk factors
+Identify any of the following risk factors which are associated with, or increase the risk of, BrS and
+subsequent sudden cardiac death:[1]
+• Age 30 to 50 years[1]
+• BrS is typically first diagnosed in young to middle-aged patients.[1]
+• Patients ages 30 to 50 years with BrS are also at high risk of serious arrhythmic events.[39]
+ This is also typically the age at which patients with BrS may present with their first serious
+arrhythmic event.[1] However, serious arrhythmic events have also been reported in children
+as young as <1 year old.[21] [40] [41] Women in particular may be more likely to have their
+first SAE in childhood, or later in life.[1] [39]
+• Patients >50 years who have BrS experience significantly fewer serious arrhythmic events
+compared with younger patients, and for those ≥55 years at the time of BrS diagnosis,
+annual mortality is similar to that of the general population.[41] [42] [43] However, it remains
+unclear whether these observations are due to protective effects acquired through aging or
+simply represent selection bias.
+• Male sex[1]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Brugada syndrome Diagnosis
+DIAGNOSIS
+• BrS is more common in men compared with women.[1] [39] Men account for up to 90% of
+cases of BrS in some cohorts.[1] [39]
+• Evidence has shown that men with BrS are also at increased risk of serious arrhythmic
+events.[44] [45] [46] However, this finding remains controversial, and has not been confirmed
+with complete adjustment for potential confounding factors.[47] [48]
+• Asian ancestry[1]
+• BrS occurs more commonly in Asia compared with Europe and the US.[1] [13] BrS is
+particularly common in Southeast Asia, where a nocturnal sudden death syndrome in young
+men was clinically reported by a variety of local names in countries such as Philippines,
+Thailand, Japan, and China, prior to the formal classification of BrS.[14]
+• Positive family history
+• Determine the following features (which form part of the Shanghai score) in any first or
+second degree relative of the patient:[1] [49]
+• Definite BrS
+• Suspicious sudden cardiac death (febrile, nocturnal, confounded by BrS-associated
+drug)
+• Unexplained sudden cardiac death <45 years with noncontributory autopsy.
+• Bear in mind that, although family history is a standard and important part of any diagnostic
+evaluation, limited evidence exists to support a family history of sudden death as a risk factor
+for BrS-associated arrhythmic events.[50]
+Asymptomatic patients
+Features of BrS may only be apparent when induced by certain factors.[1] [7] Inducible features are
+particularly important to identify in asymptomatic patients (i.e., those who do not have a past history of
+unexplained cardiac arrest, ventricular arrhythmias, or syncope), but may also be present in symptomatic
+patients. These include:[1] [7]
+• Febrile illness
+• Known to induce type 1 Brugada pattern on ECG and precipitate arrhythmic events.[1] In
+endemic regions, the prevalence of BrS in patients presenting with febrile illness for any
+reason has been reportedly as high as 4%, around 20 times greater than a non-febrile
+control group in one Thai cross-sectional study of 401 patients.[20] [21] While in isolation
+fever is not specific for BrS, in a patient with suspected BrS, it has implications for both
+diagnosis and management.[1]
+• Medications
+• These include sodium-channel blockers (e.g., flecainide, procainamide), psychotropic
+medications (e.g., tricyclic or tetracyclic antidepressants, lithium), and local anesthetics.
+• Known to induce type 1 Brugada ECG changes, and may also precipitate arrhythmic
+events.[1] [18]
+• Illicit drugs or alcohol
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Brugada syndrome Diagnosis
+• Known to induce type 1 Brugada ECG changes and may also precipitate arrhythmic
+events.[1] [18]
+Physical examination
+Perform a full cardiovascular examination to identify other causes of the patient’s clinical presentation.
+These include:
+• Acute coronary syndrome
+• Arrhythmogenic cardiomyopathy
+• Athlete’s heart
+• Hemodynamically significant valvular disease
+• Pectus excavatum
+• Incomplete right bundle branch block.
+Although the physical examination is valuable in the overall evaluation of any patient, it is not useful to rule
+out or rule in a diagnosis of BrS.
+Check whether the patient has a fever, which may unmask features of BrS.[1]
+Initial investigations
+ECG
+Perform an ECG as the first line investigation for any patient with suspected BrS.[1][5] [7] [18] [64] Look
+for the following patterns that may indicate BrS:[1] [7]
+• Type 1: coved ST-segment elevation (J-point elevation with a gradual down-sloping ST-segment) ≥2
+mm with a negative T-wave in the right precordial leads.[1] [4] [5] [7] [51]
+• Type 1 Brugada pattern may be spontaneous, or induced (e.g., by factors such as fever or
+sodium-channel blockers).[1] [5] [7]
+• Type 2 or 3: saddleback ST-segment configuration with variable levels of ST-segment elevation.[1]
+[4] [51]
+Consider high precordial lead testing if ECG using standard lead placement is not conclusive and you
+have a high clinical suspicion of BrS. High precordial lead testing increases diagnostic yield by accounting
+for anatomic variations in right ventricular outflow tract anatomy.[1] [4] [5] [65] [66] [67]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Brugada syndrome Diagnosis
+DIAGNOSIS
+Electrocardiographic patterns in Brugada syndrome showing type 1 (diagnostic) and types 2 and 3 (non-
+diagnostic) patterns. Type-1 (diagnostic): coved STT morphology in lead V2 with J-point elevation (dark gray
+line) of ≥0.2 mV (≥2 mm) and a terminal ST-segment elevation (light gray line, J+60 ms) also ≥0.2 mV (≥2
+mm). Note the PR interval and wider QRS complex, wide and deep S in lead I, and fractionation in the right
+precordial ECG leads. Type-2 (non-diagnostic): saddleback STT morphology in lead V2 with J-point elevation
+(dark gray line) of ≥0.2 mV (≥2 mm) and a terminal ST-segment elevation (light gray line, J+60 ms) ≥0.1
+mV (≥1 mm), followed by a positive T wave. Note the less wide and deep S-wave in lead I, less prominent
+fractionation. Type-3 (non-diagnostic): saddleback STT morphology in lead V2 with J-point elevation (dark gray
+line) of ≥0.2 mV (≥2 mm) and a terminal ST-segment elevation (light gray line, J+60 ms) <0.1 mV (<1 mm)
+Marsman EMJ et al. Heart 2022 May;108(9):668-75; used with permission
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Brugada syndrome Diagnosis
+Standard- and high-lead electrocardiogram positions. (Top) Standard-lead ECG positions
+and corresponding precordial ECG in a patient with Brugada syndrome. (Bottom) High-
+lead ECG positions and corresponding ECG in the same patient. Note that hV5 and
+hV6 on the high-lead ECG correspond with V1 and V2 on the standard-lead ECG.
+Krahn AD, et al. Brugada syndrome. JACC Clin Electrophysiol 2022 Mar;8(3):386-405; used with permission
+Refer all patients with type 1 Brugada pattern (spontaneous or induced) to a cardiologist or cardiac
+electrophysiologist.
+• The diagnosis of BrS is considered probable or definite if spontaneous type 1 Brugada pattern is
+recorded on ECG from the 2nd to 4th intercostal spaces.[1] [4] [7] [51] However, these patients
+require diagnostic evaluation by a specialist.
+• Ensure you establish the patient’s clinical history in all patients with type 1 Brugada pattern.[4] 
+• This is essential, because distinguishing type 1 Brugada pattern from other causes of ST elevation
+using ECG alone can be difficult, even for an experienced cardiologist.[4]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Brugada syndrome Diagnosis
+DIAGNOSIS
+• If the patient has induced type 1 Brugada pattern, additional information is key to aid diagnosis of
+BrS (e.g., relevant clinical history or family history, and/or genetic testing).[1]
+If the patient has type 2 or 3 Brugada pattern, consider provocative drug testing with sodium channel
+blockade (see below).[1] [18]
+Echocardiogram
+Organize an echocardiogram for any patient being evaluated for BrS to assess for underlying structural
+heart disease and to rule out other causes of their presentation.[1] [49] Echocardiogram is often normal in
+BrS or may demonstrate mild structural abnormalities in the right ventricle or right ventricular outflow tract.
+Other investigations
+Provocative drug testing with sodium channel blockade
+Consider provocative drug testing with sodium-channel blockers (e.g., procainamide, flecainide) for any
+patient with both:[1] [7] [13] [18][49]
+• Type 2 or 3 Brugada pattern on ECG
+AND
+• Suspected BrS due to relevant clinical signs, symptoms, or family history.
+The diagnosis of BrS is considered probable in these patients if type 1 Brugada ECG pattern is provoked
+during drug testing with sodium-channel blockers; this scores two points on the Shanghai score.[1] Refer
+these patients to a cardiologist or cardiac electrophysiologist.
+Due to an associated risk of inducing life-threatening ventricular arrhythmias, provocative drug testing
+should only be performed by experts under optimal circumstances.[68]
+Sodium-channel blocker test is not recommended in patients with a prior type I Brugada pattern.[7]
+Genetic testing
+Arrange genetic testing in patients with type 1 Brugada pattern on ECG (spontaneous or induced);
+this helps facilitate family screening of first degree relatives.[1] [18] [69] However, the presence of a
+susceptible gene mutation is not diagnostic of BrS. This is in part due to only 50% penetrance of genetic
+variants. Clinical presentation remains central to diagnosing Brugada syndrome.[1]
+Probable pathogenic mutation in a BrS susceptibility gene also scores 0.5 points on the Shanghai
+score.[1] Mutations of many genes have been implicated in BrS, but only SCN5A gene variants are
+considered definitely disease-causing.[1] [7] However, identifiable SCN5A variants are only found in
+approximately 20% to 30% of patients with BrS.[1] [7] [16] [17] [18][64] Mutations of other genes only
+account for around 2% to 5% of cases.[14] [16] [17][19]
+Advanced cardiac imaging (MRI or CT)
+Consider other advanced imaging modalities, such as cardiac MRI or CT, if the diagnosis of BrS is
+uncertain to help differentiate BrS from other differentials, such as arrhythmogenic cardiomyopathy.[36]
+[70] See Differentials .
+Invasive electrophysiological (EP) study with inducibility testing for ventricular arrhythmias
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Brugada syndrome Diagnosis
+Invasive EP studies with inducibility testing (including measurement of baseline intervals, programmed
+electrical stimulation [PES], and electroanatomic mapping) may be considered following consultation with
+an electrophysiologist or cardiologist with expertise in managing BrS if the patient has asymptomatic BrS
+and is deemed intermediate risk on risk stratification. See Management approach  for more information
+about risk stratification.[7] [64] Although there is debate regarding the prognostic value of PES in primary
+electrical diseases, there is some evidence to consider its use in BrS.[64] [71]
+Invasive EP assessments have demonstrated voltage abnormalities recorded from the right ventricular
+epicardium of patients with BrS in the absence of cardiac MR or CT structural abnormalities.[38] This
+highlights the importance of expert consultation if you suspect BrS, but the diagnosis is unclear.
+History and exam
+Key diagnostic factors
+past history of unexplained cardiac arrest or documented PMVT or VF
+(common)
+• Consider a diagnosis of symptomatic Brugada syndrome (BrS) if a patient has a past history of
+unexplained cardiac arrest, or documented polymorphic ventricular tachycardia (PMVT), or ventricular
+fibrillation (VF).[1] [5] [7]
+• • There are many causes of sudden cardiac arrest, PMVT and VF, but BrS should be considered
+as a differential, particularly if there is Brugada pattern on ECG and one or more risk factors for
+BrS.
+• Patients may also present with monomorphic VT, but this is rare and should prompt investigation
+of other arrhythmogenic cardiomyopathies.[5] [52] [53]
+cardiogenic syncope (common)
+• Consider a diagnosis of symptomatic Brugada syndrome (BrS) if a patient presents with, or has a past
+history of cardiogenic syncope.
+• • Up to one third of patients with BrS present with, or have a history of, syncope at the time of
+diagnosis.[54]
+• Take a careful history to differentiate cardiogenic from noncardiogenic causes of syncope.[1] [7]
+The published Shanghai score for BrS assigns two points to patients with suspected cardiogenic
+syncope, and one point to those with an unclear cause of syncope (see Criteria ).[1] [49]
+• Patients with BrS who have a history of cardiogenic syncope are also at 2.5 to 5-fold greater
+risk of serious arrhythmic events compared with those with noncardiogenic syncope.[48] [47]
+[56] [57] Patients with cardiogenic syncope have not been shown to have an increased risk for
+serious arrhythmic events.[58]
+Other diagnostic factors
+inducible features of Brugada syndrome (common)
+• Features of Brugada syndrome (BrS) may only be apparent when induced by certain factors.[1] [7]
+Inducible features are particularly important to identify in asymptomatic patients (i.e., those who do not
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Brugada syndrome Diagnosis
+DIAGNOSIS
+have a past history of unexplained cardiac arrest, ventricular arrhythmias, or syncope), but may also
+be present in symptomatic patients. These include:[1] [7]
+• • Febrile illness. This is known to induce type 1 Brugada pattern on ECG and precipitate
+arrhythmic events.[1] In endemic regions, the prevalence of BrS in patients presenting with
+febrile illness for any reason has been reportedly as high as 4%, approximately 20-fold greater
+than a nonfebrile control group in one Thai cross-sectional study of 401 patients.[20] [21] While
+in isolation fever is not specific for BrS, in a patient with suspected BrS, it has implications for
+both diagnosis and management.[1]
+• Medications. These include sodium-channel blockers (e.g., flecainide, procainamide),
+psychotropic medications (e.g., tricyclic or tetracyclic antidepressants, lithium), and local
+anesthetics. These are known to induce type 1 Brugada ECG changes and may also precipitate
+arrhythmic events.[1] [18]
+• Illicit drugs or alcohol. These are known to induce type 1 Brugada ECG changes and may also
+precipitate arrhythmic events.[1] [18]
+atrial arrhythmias (uncommon)
+• Consider a diagnosis of Brugada syndrome (BrS) in a patient <30 years who has atrial fibrillation or
+flutter.[1] [59] [60] Concomitant atrial arrhythmias are common in patients with BrS, with a prevalence
+of approximately 10%, although these are not specific for diagnosis of BrS.[61] [64] Use of sodium-
+channel blockers may unmask Brugada pattern on ECG in some of these patients.[61]
+nocturnal agonal respirations (uncommon)
+• Can be a feature of Brugada syndrome (BrS).[1] [7]
+• The Shanghai score for BrS assigns 2 points to patients with nocturnal agonal respirations
+(see Criteria ).[1] [49]
+• In a Danish national survey, prevalence of nocturnal agonal respirations in patients with BrS was 14%,
+but this is likely to be greater in endemic areas.[61]
+• Nocturnal agonal respirations were described in early reports from Southeast Asia (Philippines,
+Thailand, Japan, China, and others) of sudden unexpected nocturnal death syndrome (SUNDS), a
+syndrome which is thought to be genetically, phenotypically, and functionally the same as BrS.[63]
+Risk factors
+Weak
+age 30 to 50 years
+• Brugada syndrome (BrS) is typically first diagnosed in young to middle-aged patients.[1]
+• Patients aged 30-50 years with BrS are also at high risk of serious arrhythmic events.[39] This is also
+typically the age at which patients with BrS may present with their first serious arrhythmic event.[1]
+ However, serious arrhythmic events have also been reported in children as young as <1 year old.[21]
+[40] [41] Women in particular may be more likely to have their first SAE in childhood, or later in life.[1]
+[39]
+• Patients >50 years who have BrS experience significantly fewer serious arrhythmic events compared
+with younger patients, and for those ≥55 years at the time of BrS diagnosis, annual mortality is similar
+to that of the general population.[41] [42] [43] However, it remains unclear whether these observations
+are due to protective effects acquired through aging or simply represent selection bias.
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Brugada syndrome Diagnosis
+male sex
+• Brugada syndrome (BrS) is more common in men compared with women.[1] [39] Men account for up
+to 90% of cases of BrS in some cohorts.[1] [39]
+• Evidence has shown that men with BrS are also at increased risk of serious arrhythmic events.[44] [45]
+[46] However, this finding remains controversial, and has not been confirmed with complete adjustment
+for potential confounding factors.[47] [48]
+Asian ancestry
+• Brugada syndrome (BrS) occurs more commonly in Asia compared with Europe and the US.[1] [13]
+ BrS is particularly common in Southeast Asia, where a nocturnal sudden death syndrome in young
+men was clinically reported by a variety of local names in countries such as Philippines, Thailand,
+Japan, and China, prior to the formal classification of BrS.[14]
+family history of BrS or suspicious or unexplained cardiac death
+• Determine the following features (which form part of the Shanghai score; see Criteria ) in any first- or
+second- degree relative of the patient.[1] [49]
+• • Definite Brugada syndrome (BrS)
+• Suspicious sudden cardiac death (febrile, nocturnal, confounded by BrS-associated drug)
+• Unexplained sudden cardiac death <45 years with non-contributory autopsy.
+• Bear in mind that, although family history is a standard and important part of any diagnostic evaluation,
+limited evidence exists to support a family history of sudden cardiac death as a risk factor for BrS-
+associated arrhythmic events.[50]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Brugada syndrome Diagnosis
+DIAGNOSIS
+Investigations
+1st test to order
+Test Result
+ECG
+• Perform an ECG as the first line investigation for any patient with
+suspected Brugada syndrome (BrS).[1][5] [7] [18] [64] Look for type
+1, 2, or 3 Brugada patterns, which may indicate BrS.[1]
+• Type 1 Brugada pattern may be spontaneous or induced (e.g., by
+factors such as fever or sodium-channel blockers).[1] [5] [7]
+• Consider high precordial lead testing if ECG using standard lead
+placement is not conclusive and you have high clinical suspicion
+of BrS. High precordial lead testing increases diagnostic yield by
+accounting for anatomic variations in right ventricular outflow tract
+anatomy.[1] [4] [5] [65] [66] [67]
+•
+Electrocardiographic patterns in Brugada syndrome showing
+type 1 (diagnostic) and types 2 and 3 (non-diagnostic) patterns.
+Type-1 (diagnostic): coved STT morphology in lead V2 with J-
+point elevation (dark gray line) of ≥0.2 mV (≥2 mm) and a terminal
+ST-segment elevation (light gray line, J+60 ms) also ≥0.2 mV (≥2
+mm). Note the PR interval and wider QRS complex, wide and deep
+S in lead I, and fractionation in the right precordial ECG leads.
+Type-2 (non-diagnostic): saddleback STT morphology in lead V2
+with J-point elevation (dark gray line) of ≥0.2 mV (≥2 mm) and a
+terminal ST-segment elevation (light gray line, J+60 ms) ≥0.1 mV
+(≥1 mm), followed by a positive T wave. Note the less wide and
+deep S-wave in lead I, less prominent fractionation. Type-3 (non-
+diagnostic): saddleback STT morphology in lead V2 with J-point
+elevation (dark gray line) of ≥0.2 mV (≥2 mm) and a terminal ST-
+segment elevation (light gray line, J+60 ms) <0.1 mV (<1 mm)
+Marsman EMJ et al. Heart 2022
+May;108(9):668-75; used with permission
+Type 1 Brugada pattern:
+coved ST-segment
+elevation (J-point
+elevation with a gradual
+down-sloping ST-
+segment) ≥2 mm with
+a negative T-wave in
+the right precordial
+leads.[1] [4] [5] [7] [51]
+ Type 2 or 3 Brugada
+pattern: saddleback ST-
+segment configuration
+with variable levels of ST-
+segment elevation.[1] [4]
+[51]
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Brugada syndrome Diagnosis
+Test Result
+Standard- and high-lead electrocardiogram positions. (Top) Standard-
+lead ECG positions and corresponding precordial ECG in a patient
+with Brugada syndrome. (Bottom) High-lead ECG positions and
+corresponding ECG in the same patient. Note that hV5 and hV6 on the
+high-lead ECG correspond with V1 and V2 on the standard-lead ECG.
+Krahn AD, et al. Brugada syndrome. JACC Clin
+Electrophysiol 2022 Mar;8(3):386-405; used with permission
+• Refer all patients with type 1 Brugada pattern (spontaneous or
+induced) to a cardiologist or cardiac electrophysiologist.
+• • The diagnosis of BrS is considered probable or definite if
+spontaneous type 1 Brugada pattern is recorded on ECG from
+the 2nd to 4th intercostal spaces.[1][4] [51] [7] However, these
+patients require diagnostic evaluation by a specialist.
+• Ensure you establish the patient’s clinical history in all patients
+with type 1 Brugada pattern.[4] This is essential, because
+distinguishing type 1 Brugada pattern from other causes of
+ST elevation using ECG alone can be difficult, even for an
+experienced cardiologist.[4]
+• If the patient has induced type 1 Brugada pattern, additional
+information is key to aid diagnosis of BrS (e.g., relevant clinical
+history or family history, and/or genetic testing).[1] [7]
+• If the patient has type 2 or 3 Brugada pattern, consider provocative
+drug testing with sodium channel blockade (see below).[1]
+echocardiogram
+• Organize an echocardiogram for any patient being evaluated for
+Brugada syndrome (BrS) to assess for underlying structural heart
+disease and to rule out other causes of their presentation.[1] [49]
+normal; mild structural
+abnormalities in the
+right ventricle or right
+ventricular outflow tract
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Brugada syndrome Diagnosis
+DIAGNOSIS
+Other tests to consider
+Test Result
+provocative drug testing with sodium channel blockade
+• Consider provocative drug testing with sodium-channel blockers (e.g.,
+procainamide, flecainide) for any patient with both:[1] [7] [13] [49]
+• • Type 2 or 3 Brugada pattern (Brugada pattern) on
+AND
+• Suspected BrS due to relevant clinical signs, symptoms, or
+family history.
+• The diagnosis of BrS is considered probable if type 1 Brugada
+pattern is provoked on ECG during drug testing with sodium-channel
+blockers; this scores 2 points on the Shanghai score (see Criteria ).[1]
+ Refer these patients to a cardiologist or cardiac electrophysiologist.
+• Due to an associated risk of inducing life-threatening ventricular
+arrhythmias, provocative drug testing should only be performed by
+experts under optimal circumstances.[68]
+• Sodium channel blocker testing is not recommended in patients with
+a prior type I Brugada pattern.[7]
+development of type
+1 Brugada pattern
+on ECG: coved ST-
+segment elevation (J-
+point elevation with a
+gradual down-sloping
+ST-segment) ≥2 mm with
+a negative T-wave in the
+right precordial leads.[1]
+[4] [5] [51]
+genetic testing for BrS
+• Arrange genetic testing in patients with type 1 Brugada ECG pattern
+(spontaneous or induced); this helps facilitate family screening of first
+degree relatives.[1] [18] [69] However, the presence of a susceptible
+gene mutation is not diagnostic of BrS. This is in part due to only 50%
+penetrance of genetic variants. Clinical presentation remains central
+to diagnosing Brugada syndrome.[1] Probable pathogenic mutation
+in a BrS susceptibility gene also scores 0.5 points on the Shanghai
+score (see Criteria ).[1]
+• Mutations of many genes have been implicated in BrS, but
+only SCN5A gene variants are considered definitely disease-
+causing.[1] [7] However, identifiable SCN5A variants are only found
+in approximately 20% to 30% of patients with BrS.[1] [7] [16] [17] [18]
+[64] Mutations of other genes only account for around 2% to 5% of
+cases.[14] [16] [17][19]
+positive for known
+pathogenic mutation
+associated with Brugada
+syndrome (e.g., SCN5A)
+advanced cardiac imaging (MRI or CT)
+• Consider other advanced imaging modalities, such as cardiac MRI or
+CT if the diagnosis of Brugada syndrome (BrS) is uncertain to help
+differentiate BrS from other differentials, such as arrhythmogenic
+cardiomyopathy.[36] [70] See Differentials .
+may demonstrate cardiac
+structural changes,
+particularly in the right
+ventricular outflow tract
+invasive electrophysiological (EP) study with inducibility
+testing for ventricular arrhythmias
+• Invasive EP studies (including measurement of baseline intervals,
+programmed electrical stimulation [PES], and electroanatomical
+mapping) with inducibility testing may be considered following
+consultation with an electrophysiologist or cardiologist with expertise
+in managing BrS if the patient has asymptomatic Brugada syndrome
+(BrS) and is deemed intermediate risk on risk stratification -
+see Management approach  for more information about risk
+stratification.[7] [64] Although there is debate regarding the prognostic
+inducible ventricular
+tachycardia or fibrillation
+in patients with
+asymptomatic BrS
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Brugada syndrome Diagnosis
+Test Result
+value of PES in primary electrical diseases, there is some evidence
+to consider its use in BrS.[64] [71]
+• Invasive EP assessments have demonstrated voltage abnormalities
+recorded from the right ventricular epicardium of patients with BrS in
+the absence of cardiac MR or CT structural abnormalities.[38] This
+highlights the importance of expert consultation if you suspect BrS,
+but the diagnosis is unclear.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Brugada syndrome Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Acute coronary syndrome • A careful history is key to
+determine features of acute
+coronary syndrome such
+as chest pain, sweating, or
+nausea.
+• In addition, the patient may
+have risk factors for coronary
+artery disease such as
+smoking, hypertension, or
+diabetes.
+• Right coronary artery or left
+anterior descending artery
+ischemia in particular may
+produce precordial lead
+changes with ST segment
+elevation on ECG which may
+be confused for Brugada
+pattern (BrP).
+• Cardiac biomarkers will be
+elevated with ST-elevation
+myocardial infarction (MI)
+and non-ST elevation MI.
+•
+12-Lead ECG with
+ST-segment elevation
+lead V1 to V4
+From the personal
+collection of Dr
+Mahi Ashwath; used
+with permission
+Arrhythmogenic
+cardiomyopathy
+• Inherited cardiomyopathy
+resulting from defective
+desmosomal proteins[49]
+• • Fibrofatty replacement
+of myocytes lead to
+scar-related ventricular
+arrhythmias, often in
+the young
+• Up to 16% of patients
+with had a positive
+sodium-channel
+blocker challenge in
+one study.[72]
+• Cardiac MRI assessment
+may show structural right
+ventricular or right ventricular
+outflow tract changes
+with arrhythmogenic right
+ventricular cardiomyopathy
+(AVRC), whereas in Brugada
+syndrome (BrS) structural
+abnormalities may not be
+easily detected.
+• There may also be
+differences seen in the
+precordial leads on ECG,
+particularly leads V1 and
+V2. With ARVC T-wave
+inversion in right precordial
+leads usually has no
+preceding or mildly upward
+ST-segment, with BrS
+there is characteristically
+a high take off and ST
+segment elevation that is
+downsloping.[73] There may
+also be epsilon waves with
+ARVC. ECG changes are
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Brugada syndrome Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+typically fixed with AVRC,
+rather than dynamic.
+•
+3-lead ECG showing
+findings suggestive of
+arrhythmogenic right
+ventricular cardiomyopathy
+Bayés de Luna A et
+al. J Electrocardiol.
+2012 Sep;45(5):433-42;
+used with permission
+Athlete’s heart • Typically seen in male
+endurance athletes without
+cardiac symptoms.
+• No family history of HCM or
+sudden death.
+• Hypertrophy will regress with
+cessation of exercise.[74]
+• ECG: There will be
+upsloping ST segment
+elevation of early
+repolarization whereas in
+type 1 Brugada syndrome
+coved ST segment elevation
+would be seen, resulting in a
+broad R wave. The "Corrado
+index" measures the ST
+elevation at the start of the
+ST segment/J-point (STJ)
+and 80 ms after the start of
+the ST segment (ST80). The
+downsloping ST segment will
+have a STJ/ST80 ratio >1 in
+type 1 Brugada syndrome,
+but <1 in the athlete.[75]
+• Echocardiography: Will
+characteristically show
+increased left ventricular
+(LV) chamber dimension (LV
+end-diastolic dimension or
+LV end-diastolic >55 mm),
+symmetric left ventricular
+hypertrophy (LVH) with a
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Brugada syndrome Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+homogeneous-appearing
+myocardium.
+• • Wall thicknesses may
+occasionally exceed
+upper normal limits
+(12 mm).
+• LV filling pattern is
+most often normal.[74]
+Brugada type
+1 ECG (left) in
+comparison to
+early repolarization
+with "convex" ST
+segment elevation
+in a trained athlete
+(right). [Vertical
+lines mark the J-
+point (STJ) and 80
+ms after the J-
+point (ST80). The
+"downsloping" ST
+segment elevation
+in Brugada pattern
+has an STJ/ST80
+ratio >1. Early
+repolarization
+patterns in the
+athlete shows an
+initial "upsloping"
+ST segment
+elevation with STJ/
+ST80 ratio <1].
+Drezner JA et al. Br
+J Sports Med 2017
+May;51(9):704-31;
+used with
+permission
+Pectus excavatum • A congenital chest wall
+deformity may be seen on
+examination.
+• ECG findings in pectus
+excavatum may include
+a negative P wave in
+V1 (with V1 lead in the
+standard position i.e., fourth
+intercostal space to the
+right of the sternum), a well
+defined, peaked R wave in
+V1 which may be followed
+by a mildly elevated ST
+segment. The T wave is
+usually negative or biphasic
+in V1 and positive in V2 with
+pectus excavatum.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Brugada syndrome Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+• CT scan will show
+depression of the sternum.
+•
+3-lead ECG showing
+findings suggestive
+of pectus excavatum
+Bayés de Luna A et
+al. J Electrocardiol.
+2012 Sep;45(5):433-42;
+used with permission
+Incomplete right bundle
+branch block (RBBB)
+• Diagnosis is primarily
+distinguished from Brugada
+syndrome (BrS) on ECG
+rather than clinical findings.
+• On ECG look for the
+following features of RBBB:
+• • Peaked positive
+terminal R wave.
+In type 2 Brugada
+pattern, the R wave
+is rounded, wide, and
+usually of relatively
+low voltage compared
+with RBBB.
+• Identical QRS
+complex duration in
+leads V1-V2 to that
+observed in lead V6.
+• Characteristic widened
+S wave, which is
+absent in most
+cases of Brugada
+syndrome.[76]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Brugada syndrome Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+3-lead ECG
+showing right
+bundle branch block
+Bayés de
+Luna A et al. J
+Electrocardiol. 2012
+Sep;45(5):433-42;
+used with
+permission
+Hypokalemia • Hypokalemia can produce
+ECG patterns that
+mimic the Brugada ECG
+patterns but is clinically
+distinct from BrS.[77] The
+cause of hypokalemia
+is often apparent from
+the history, this may
+include the use of known
+causative medications
+(such as diuretics,
+corticosteroids, beta-2
+agonists, amphotericin B,
+chloroquine or theophylline
+toxicity, laxatives), a history
+of gastrointestinal losses
+(such as vomiting or
+diarrhea), or underlying
+medical conditions leading
+to urinary loss of potassium
+(such as renal tubular
+acidosis).
+• Serum potassium levels <3.5
+mmol/L (<3.5 mEq/L).
+• The ECG in patients
+with hypokalemia may
+typically show ST segment
+depression, decrease in the
+amplitude of the T wave, and
+an increase in the amplitude
+of U waves (often seen in the
+lateral precordial leads V4 to
+V6).
+•
+12-lead ECG
+demonstrating prominent
+U-waves in a patient
+with hypokalemia
+From: Lin HW, Chau
+T, Lin CS, Lin SH,
+Recurring paralysis,
+BMJ Case Reports
+2009; doi:10.1136/
+bcr.07.2008.0577
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Brugada syndrome Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Other patterns of
+arrhythmias with
+hypokalemia, include sinus
+bradycardia, premature
+atrial and ventricular
+beats, paroxysmal atrial
+or junctional tachycardia,
+atrioventricular block,
+ventricular tachycardia, or
+fibrillation.[78]
+Criteria
+Shanghai score[49]
+Consider using the proposed Shanghai score to aid diagnosis of Brugada syndrome.[1]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Brugada syndrome Diagnosis
+DIAGNOSIS
+Proposed Shanghai Score for diagnosis of Brugada syndrome
+Adapted from Peltenburg PJ et al. Neth Heart J. 31. 10.1007/s12471-022-01723-6; used with permission
+Screening
+Screen all first-degree relatives of patients diagnosed with Brugada syndrome (BrS) or unexplained sudden
+cardiac death.[1] [79] Be aware that familial screening is primarily done through clinical rather than genetic
+screening.[1] This is because:[1]
+• The presence of a pathogenic variant in a BrS susceptibility gene in isolation is not diagnostic for BrS
+• If a pathogenic variant is identified in a family, the penetrance is approximately 50%, and conversely
+family members who do not have the variant may still have BrS.
+Clinical screening should include standard- and high-lead ECG testing and consideration of provocative drug
+testing with sodium channel blockade.[1] [7]
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Brugada syndrome Diagnosis
+• For adult family members, screening does not usually need to be repeated if provocative sodium
+channel blockade testing is negative.[1]
+• Pediatric family members should undergo standard- and high-lead ECG screening at age 3 years.[1]
+If this is negative, they should undergo additional screening every 3 years until age 15 years.[1]
+Provocative sodium channel blockade testing should not be used until they are age >15 years due to
+higher risk of adverse events compared with adults.[1] If provocative sodium channel blockade testing
+is negative in a person >15 years, screening does not need to be repeated.[1]
+Arrange genetic testing in all patients with type 1 Brugada pattern on ECG (spontaneous or induced) to
+facilitate family screening.[1] [18] [69][79] However, the presence of a susceptible gene mutation is not
+diagnostic of Brugada syndrome. This is in part due to only 50% penetrance of genetic variants. Clinical
+presentation remains central to diagnosing Brugada syndrome.[1]
+• Probable pathogenic mutation in a BrS susceptibility gene also scores 0.5 points on the Shanghai
+score (see Criteria ).[1]
+• Mutations of many genes have been implicated in BrS, but only SCN5A gene variants are considered
+definitely disease-causing.[1] [7][79] However, identifiable SCN5A variants are only found in
+approximately 20% to 30% of patients with BrS.[1] [7][16] [17] [18]
+• Mutations of other genes only account for around 2% to 5% of cases.[14] [16] [17][19]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Brugada syndrome Management
+MANAGEMENT
+Approach
+Treatment for patients with Brugada syndrome (BrS) consists of conservative management and primary and
+secondary prevention of serious arrhythmic events.[1] This aims to prevent serious arrhythmic events, while
+avoiding potential complications of any treatments.[1] Potential treatments include implantable cardioverter
+defibrillator (ICD), pharmacologic therapy, and radiofrequency catheter ablation.[1] [7]
+Note that the distinction between confirmed and probable BrS is not significant in determining the
+management; this is guided by the patient’s presentation, particularly whether they are symptomatic or
+asymptomatic. Most patients who are asymptomatic require conservative management only.[1] [18]
+Management summary for Brugada syndrome
+Adapted from Krahn AD et al. J Am Coll Cardiol EP. 2022 Mar, 8 (3) 386-405; used with permission
+Acute ventricular arrhythmia
+Intravenous isoproterenol should be given during an acute ventricular arrhythmia, including electrical
+storm (>2 episodes of ventricular tachycardia or ventricular fibrillation in 24 hours) if the mechanism is due
+to short-coupled premature ventricular complex-induced ventricular fibrillation.[1] [18] [51]
+Quinidine should also be considered for patients who experience electrical storm.[1] [5] [51] [80] In
+practice, this is given once they have been stabilized with isoproterenol.
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Brugada syndrome Management
+• Difficulty in obtaining quinidine can limit its use; phosphodiesterase-III inhibitors (cilostazol or
+milrinone) may be considered as an alternative, although supportive data are limited.[1] [7]
+Risk stratification
+Risk stratify all patients to identify those who are at increased risk of serious arrhythmic events.[1] Risk
+stratification can aid decision making for the management of Brugada syndrome, particularly when
+considering an ICD for primary prevention of serious arrhythmic events.[1] [64]
+There are currently no risk stratification tools that have proved effective in clinical practice.[1] The
+Sieira risk score has been proposed for predicting sudden death in patients with BrS, but has not been
+externally validated.[57] [81] [82][83] However, established features that are associated with the greatest
+risk of serious arrhythmic events are:[1] [84] [85] [86] [87]
+• Resuscitated cardiac arrest
+• History of cardiogenic syncope
+• Spontaneous type 1 Brugada pattern on ECG.
+Other features that are associated with increased risk of serious arrhythmic events are:[1]
+• Sudden cardiac death in a young (<35 years) first-degree relative
+• Greater "Brugada burden" on ECG, which includes:
+• Presence of type 1 Brugada pattern ECG in the peripheral leads in addition to the right
+precordial leads
+• Higher proportion of spontaneous type 1 Brugada pattern on ECGs during follow-up
+• Other ECG markers such as early repolarization pattern and QRS fragmentation.[7] [64] [88]
+Age and sex have limited effect on risk of serious arrhythmic events, although age ≥55 at diagnosis
+is associated with a more benign prognosis, with no increased mortality compared with the general
+population.[1]
+Consider an electrophysiological study with programmed ventricular stimulation using up to two
+extrastimuli for further risk stratification in some patients, although this remains controversial.[1][7] [18]
+• It should not be used routinely because it is invasive and puts the patient at risk of complications,
+as well as having issues around reproducibility of results.[1] One multicenter pooled analysis
+showed that in patients with BrS, arrhythmias induced with electrophysiologic studies were
+associated with a higher future risk of ventricular arrhythmia.[89]
+• However, it may be useful in certain circumstances (e.g., where the decision to use an implantable
+cardioverter defibrillator for primary prevention is unequivocal).[1] [18]
+Conservative management
+Use conservative management for all patients with definite/probable or suspected BrS, although some
+patients may need other additional treatments alongside this.[1] [7] Asymptomatic patients with inducible
+(particularly drug-induced) Brugada pattern on ECG usually require conservative management only.[1]
+[18]
+Conservative management includes:[1] [7]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Brugada syndrome Management
+MANAGEMENT
+• Avoidance of drugs that could exacerbate the Brugada pattern (for further information see:  
+[BrugadaDrugs.org: safe drug use and the Brugada syndrome] (https://www.brugadadrugs.org)
+).[18] [51] These include:
+• Antiarrhythmics (particularly sodium-channel blockers)
+• Psychotropic drugs
+• Anesthetics
+• Certain over-the-counter drugs (e.g., antihistamines)
+• Illicit drugs (e.g., cannabis, cocaine).
+• Prompt treatment of fever[18] [51]
+• Avoidance of metabolic disturbance (e.g., hypokalemia, hyperkalemia, metabolic acidosis)
+• Avoidance of alcohol intoxication[18] [51]
+Implantable cardioverter defibrillator (ICD)
+An ICD is recommended for all patients with BrS who have been resuscitated from cardiac arrest for
+secondary prevention of sudden cardiac death.[1] [7] [18] [51]
+However, the decision to use an ICD for primary prevention of sudden cardiac death due to BrS is
+less clear cut and needs to weigh up the risk of serious arrhythmic events with the risk of ICD-related
+complications.[1]
+• ICD is generally recommended for patients who have:
+• Spontaneous type 1 Brugada pattern on ECG and a history of cardiogenic syncope,
+particularly if this is likely to be due to ventricular arrhythmias[1][7] [18]
+• Documented spontaneous sustained ventricular tachycardia with or without syncope.[7] [18]
+[51]
+• ICD should be considered in patients who:
+• Have provoked type 1 Brugada pattern on ECG and a history of cardiogenic syncope[1] [7]
+[18]
+• Are asymptomatic and have a type 1 Brugada pattern on ECG, with high-risk features that
+are considered relevant after consultation with an expert.[1] [7] In general, ICD should be
+avoided in those patients without high risk features.[1] [51]
+• Develop ventricular fibrillation during electrophysiological study with programmed ventricular
+stimulation.[7] [51]
+The patient’s life expectancy should also be taken into account; ICD may not be appropriate if meaningful
+survival is <1 year.[18]
+Regarding choice of ICD, a dual chamber system is recommended in most patients, particularly
+those prone to atrial arrhythmias (e.g., those carrying the SN5CA gene).[1] However, a subcutaneous
+device may be preferred in young patients who don’t require pacing, because this has a lower risk of
+intravascular infection.[1]
+Pharmacologic therapy
+Quinidine
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Brugada syndrome Management
+Quinidine is a class 1a antiarrhythmic agent that has many effects.[1] The most significant of these is
+inhibition of the cardiac transient outward potassium current, which prolongs the refractory period.[1]
+Quinidine is useful to suppress ventricular arrhythmias, and may also be used for medical management of
+atrial arrhythmias.[1] [51] It should be considered in patients who:[1] [5]
+• Have an ICD and experience recurrent shocks[7] [18]
+• Decline or are unsuitable for an ICD[7] [18] [51]
+• Experience electrical storm (>2 episodes of ventricular tachycardia or ventricular fibrillation in 24
+hours).[51] See "Acute ventricular arrhythmia" above
+• Are asymptomatic but have a spontaneous type I Brugada pattern on ECG[51]
+• Experience asymptomatic ventricular arrhythmia.[68]
+Be aware that significant adverse effects and difficulty in obtaining the drug can limit its use.[1] [5]
+• Monitor the patient's CBC for anemia and thrombocytopenia.[1]
+Phosphodiesterase-III inhibitors
+Phosphodiesterase-III inhibitors (cilostazol or milrinone) may be considered for patients with BrS (as an
+alternative to quinidine); however, supportive data are limited.[1] [7]
+Radiofrequency catheter ablation
+Radiofrequency catheter ablation is indicated in patients who:
+• Have recurrent ICD shocks, particularly if these are refractory to medical therapy[1] [5] [7] [18] [51]
+• Experience serious arrhythmic events despite optimized medical therapy[1] [5]
+• Are intolerant to, or would prefer not to have, medical therapy, or medical therapy is ineffective[1] [5]
+• Have spontaneous type 1 Brugada pattern on ECG and symptomatic ventricular arrhythmias who
+are unsuitable for, or decline an ICD[18]
+• Have a history of electrical storms.[51]
+Significant contraindications to ablation include:[38]
+• Ventricular tachycardia or fibrillation caused by myocardial ischemia, fever, or hypokalemia
+• Presence of structural heart disease
+• Brain anoxic encephalopathy from cardiac arrests caused by ventricular tachycardia or fibrillation.
+A combined endocardial and epicardial approach has been shown to modify triggers and substrate for
+ventricular arrhythmias.[1]
+Genetic counseling
+Arrange genetic counseling for all patients to facilitate screening of relatives.[1] [7] [18] [79] See
+Screening .
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Brugada syndrome Management
+MANAGEMENT
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial ( summary )
+with acute ventricular arrhythmia
+1st isoproterenol
+adjunct quinidine or phosphodiesterase-III
+inhibitor
+Acute ( summary )
+asymptomatic
+1st conservative management
+plus genetic counseling
+adjunct implantable cardioverter defibrillator (ICD)
+adjunct quinidine or phosphodiesterase-III
+inhibitor
+symptomatic
+with previous cardiac
+arrest
+1st conservative management
+plus genetic counseling
+plus implantable cardioverter defibrillator (ICD)
+adjunct quinidine or phosphodiesterase-III
+inhibitor
+adjunct radiofrequency catheter ablation
+without previous cardiac
+arrest
+1st conservative management
+plus genetic counseling
+adjunct implantable cardioverter defibrillator (ICD)
+adjunct quinidine or phosphodiesterase-III
+inhibitor
+adjunct radiofrequency catheter ablation
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Brugada syndrome Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial
+with acute ventricular arrhythmia
+1st isoproterenol
+Primary options
+» isoproterenol: consult specialist for
+guidance on dose
+» Intravenous isoproterenol should be given
+during an acute ventricular arrhythmia, including
+electrical storm (>2 episodes of ventricular
+tachycardia or ventricular fibrillation in 24
+hours) if the mechanism is due to short-
+coupled premature ventricular complex-induced
+ventricular fibrillation.[1] [7][18][51]
+adjunct quinidine or phosphodiesterase-III
+inhibitor
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» quinidine sulfate: consult specialist for
+guidance on dose
+Secondary options
+» cilostazol: consult specialist for guidance on
+dose
+OR
+» milrinone: consult specialist for guidance on
+dose
+» Quinidine should be considered in addition
+to isoproterenol for patients who experience
+electrical storm.[1][5] [51] [80] In practice, this
+is given once they have been stabilized with
+isoproterenol.
+» Phosphodiesterase-III inhibitors (cilostazol or
+milrinone) may be considered for patients with
+BrS (as an alternative to quinidine), however,
+supportive data are limited.[1] [7]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Brugada syndrome Management
+MANAGEMENT
+Acute
+asymptomatic
+1st conservative management
+» Conservative management includes:[1] [7]
+• Avoidance of drugs that could exacerbate
+the Brugada pattern (for further
+information see:  [BrugadaDrugs.org: safe
+drug use and the Brugada syndrome]
+(https://www.brugadadrugs.org) ).[18] [51]
+These include antiarrhythmics (particularly
+sodium-channel blockers), psychotropic
+drugs, anesthetics, certain over-the-
+counter drugs (e.g., antihistamines), illicit
+drugs (e.g., cannabis, cocaine)
+• Prompt treatment of fever[18] [51]
+• Avoidance of metabolic disturbance (e.g.,
+hypokalemia, hyperkalemia, metabolic
+acidosis)
+• Avoidance of alcohol intoxication.[18] [51]
+plus genetic counseling
+Treatment recommended for ALL patients in
+selected patient group
+» Arrange genetic counseling for all patients to
+facilitate screening of relatives.[1] [7] [18] [79]
+ See Screening .
+adjunct implantable cardioverter defibrillator (ICD)
+Treatment recommended for SOME patients in
+selected patient group
+» An ICD may be considered in asymptomatic
+patients if they have high-risk features that are
+considered relevant after consultation with an
+expert and who:
+• Have a type 1 Brugada pattern on ECG[7]
+[1]
+• Experience one or more episodes of
+documented spontaneous sustained
+ventricular tachycardia[51] [18] [7][68]
+• Develop ventricular fibrillation during
+electrophysiologic study with programmed
+ventricular stimulation.[51] [7]
+» The patient’s life expectancy should also be
+taken into account; ICD may not be appropriate if
+meaningful survival is <1 year.[18]
+» In general, ICDs should be avoided in patients
+without high risk features.[1] [51]
+adjunct quinidine or phosphodiesterase-III
+inhibitor
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Brugada syndrome Management
+Acute
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» quinidine sulfate: consult specialist for
+guidance on dose
+Secondary options
+» cilostazol: consult specialist for guidance on
+dose
+OR
+» milrinone: consult specialist for guidance on
+dose
+» Quinidine is a class 1a antiarrhythmic agent
+that has many effects.[1] The most significant
+of these is inhibition of the cardiac transient
+outward potassium current, which prolongs the
+refractory period.[1]
+» Quinidine is useful to suppress ventricular
+arrhythmias.[1] [51] It should be considered in
+asymptomatic patients who:[1] [5]
+• Have an ICD and experience recurrent
+shocks[7] [18]
+• Decline or are unsuitable for an ICD[7]
+[18] [51]
+• Have a spontaneous type I Brugada
+pattern on ECG[51]
+• Experience asymptomatic ventricular
+arrhythmia.[68]
+» Monitor the patient's CBC for anemia and
+thrombocytopenia.[1]
+» Be aware that significant adverse effects and
+difficulty in obtaining the drug can limit its use.[1]
+[5]
+» Phosphodiesterase-III inhibitors (cilostazol or
+milrinone) may be considered for patients with
+BrS (as an alternative to quinidine), however,
+supportive data are limited.[1] [7]
+symptomatic
+with previous cardiac
+arrest
+1st conservative management
+» Conservative management includes:[1] [7]
+• Avoidance of drugs that could exacerbate
+the Brugada pattern (for further
+information see:   [BrugadaDrugs.org:
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Brugada syndrome Management
+MANAGEMENT
+Acute
+safe drug use and the Brugada syndrome]
+(https://www.brugadadrugs.org) ).[18] [51]
+These include antiarrhythmics (particularly
+sodium-channel blockers), psychotropic
+drugs, anesthetics, certain over-the-
+counter drugs (e.g., antihistamines), illicit
+drugs (e.g., cannabis, cocaine)
+• Prompt treatment of fever[18] [51]
+• Avoidance of metabolic disturbance (e.g.,
+hypokalemia, hyperkalemia, metabolic
+acidosis)
+• Avoidance of alcohol intoxication.[18] [51]
+plus genetic counseling
+Treatment recommended for ALL patients in
+selected patient group
+» Arrange genetic counseling for all patients to
+facilitate screening of relatives.[1] [7] [18] [79]
+ See Screening .
+plus implantable cardioverter defibrillator (ICD)
+Treatment recommended for ALL patients in
+selected patient group
+» An ICD is recommended for all patients with
+BrS who have been resuscitated from cardiac
+arrest for secondary prevention of sudden
+cardiac death.[1] [7] [18] [51]
+• The patient’s life expectancy should also
+be taken into account; ICD may not be
+appropriate if meaningful survival is <1
+year.[18]
+» Regarding choice of ICD, a dual chamber
+system is recommended in most patients,
+particularly those prone to atrial arrhythmias
+(e.g., those carrying the SN5CA gene).[1]
+However, a subcutaneous device may be
+preferred in young patients who don’t require
+pacing, because this has a lower risk of
+intravascular infection.[1]
+adjunct quinidine or phosphodiesterase-III
+inhibitor
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» quinidine sulfate: consult specialist for
+guidance on dose
+Secondary options
+» cilostazol: consult specialist for guidance on
+dose
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Brugada syndrome Management
+Acute
+OR
+» milrinone: consult specialist for guidance on
+dose
+» Quinidine is a class 1a antiarrhythmic agent
+that has many effects.[1] The most significant
+of these is inhibition of the cardiac transient
+outward potassium current, which prolongs the
+refractory period.[1]
+» Quinidine is useful to suppress ventricular
+arrhythmias, and may also be used for medical
+management of atrial arrhythmias.[1] [51] It
+should be considered in patients who:[1] [5]
+• Have an ICD and experience recurrent
+shocks[7] [18]
+• Decline, or are unsuitable for, an ICD[7]
+[18] [51]
+• Experience electrical storm (>2 episodes
+of ventricular tachycardia or ventricular
+fibrillation in 24 hours).[51] See "Acute
+ventricular arrhythmia" above.
+• Experience asymptomatic ventricular
+arrhythmia.[68]
+» Monitor the patient's CBC for anemia and
+thrombocytopenia.[1]
+» Be aware that significant adverse effects and
+difficulty in obtaining the drug can limit its use.[1]
+[5]
+» Phosphodiesterase-III inhibitors (cilostazol or
+milrinone) may be considered for patients with
+BrS (as an alternative to quinidine), however,
+supportive data are limited.[1] [7]
+»
+adjunct radiofrequency catheter ablation
+Treatment recommended for SOME patients in
+selected patient group
+» Indicated in patients who:
+• Have recurrent ICD shocks, particularly if
+these are refractory to medical therapy[1]
+[5] [7] [18] [51]
+• Experience serious arrhythmic events
+despite optimized medical therapy[1] [5]
+• Are intolerant to or would prefer not to
+have medical therapy, or medical therapy
+is ineffective[1] [5]
+• Have spontaneous type 1 Brugada pattern
+on ECG and symptomatic ventricular
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Brugada syndrome Management
+MANAGEMENT
+Acute
+arrhythmias who are unsuitable for, or
+decline an ICD[18]
+• Have a history of electrical storms.[51]
+» Significant contraindications to ablation
+include:[38]
+• Ventricular tachycardia or fibrillation
+caused by myocardial ischemia, fever, or
+hypokalemia
+• Presence of structural heart disease
+• Brain anoxic encephalopathy from cardiac
+arrests caused by ventricular tachycardia
+or fibrillation.
+» A combined endocardial and epicardial
+approach has been shown to modify triggers and
+substrate for ventricular arrhythmias.[1]
+without previous cardiac
+arrest
+1st conservative management
+» Conservative management includes:[1] [7]
+• Avoidance of drugs that could exacerbate
+the Brugada pattern (for further
+information see:   [BrugadaDrugs.org:
+safe drug use and the Brugada syndrome]
+(https://www.brugadadrugs.org) ).[18] [51]
+These include antiarrhythmics (particularly
+sodium-channel blockers), psychotropic
+drugs, anesthetics, certain over-the-
+counter drugs (e.g., antihistamines), illicit
+drugs (e.g., cannabis, cocaine)
+• Prompt treatment of fever[18] [51]
+• Avoidance of metabolic disturbance (e.g.,
+hypokalemia, hyperkalemia, metabolic
+acidosis)
+• Avoidance of alcohol intoxication.[18] [51]
+plus genetic counseling
+Treatment recommended for ALL patients in
+selected patient group
+» Arrange genetic counseling for all patients to
+facilitate screening of relatives.[1] [7] [18] [79]
+ See Screening .
+adjunct implantable cardioverter defibrillator (ICD)
+Treatment recommended for SOME patients in
+selected patient group
+» The decision to use an ICD for primary
+prevention of sudden cardiac death due to BrS is
+less clear cut than in patients with BrS who have
+been resuscitated from cardiac arrest, and needs
+to weigh up the risk of serious arrhythmic events
+with the risk of ICD-related complications.[1]
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Brugada syndrome Management
+Acute
+» An ICD is generally recommended for patients
+who have:
+• Spontaneous type 1 Brugada pattern
+on ECG and a history of cardiogenic
+syncope, particularly if this is likely to be
+due to ventricular arrhythmias[1][7] [18]
+• Documented spontaneous sustained
+ventricular tachycardia with or without
+syncope.[7] [18][51]
+» An ICD should be considered in patients who:
+• Have provoked type 1 Brugada pattern
+on ECG and a history of cardiogenic
+syncope[1] [18] [7]
+• Develop ventricular fibrillation during
+electrophysiologic study with programmed
+ventricular stimulation.[7] [51]
+» The patient’s life expectancy should also be
+taken into account; ICD may not be appropriate if
+meaningful survival is <1 year.[18]
+» Regarding choice of ICD, a dual chamber
+system is recommended in most patients,
+particularly those prone to atrial arrhythmias
+(e.g., those carrying the SN5CA gene).[1]
+However, a subcutaneous device may be
+preferred in young patients who don’t require
+pacing, because this has a lower risk of
+intravascular infection.[1]
+adjunct quinidine or phosphodiesterase-III
+inhibitor
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» quinidine sulfate: consult specialist for
+guidance on dose
+Secondary options
+» cilostazol: consult specialist for guidance on
+dose
+OR
+» milrinone: consult specialist for guidance on
+dose
+» Quinidine is a class 1a antiarrhythmic agent
+that has many effects.[1] The most significant
+of these is inhibition of the cardiac transient
+outward potassium current, which prolongs the
+refractory period.[1]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Brugada syndrome Management
+MANAGEMENT
+Acute
+» Quinidine is useful to suppress ventricular
+arrhythmias, and may also be used for medical
+management of atrial arrhythmias.[1] [51] It
+should be considered in patients who:[1] [5]
+• Have an ICD and experience recurrent
+shocks[7] [18]
+• Decline or are unsuitable for an ICD[7]
+[18] [51]
+• Experience electrical storm (>2 episodes
+of ventricular tachycardia or ventricular
+fibrillation in 24 hours)[51] See "Acute
+ventricular arrhythmia" above.
+• Experience asymptomatic ventricular
+arrhythmia.[68]
+» Monitor the patient's CBC for anemia and
+thrombocytopenia.[1]
+» Be aware that significant adverse effects and
+difficulty in obtaining the drug can limit its use.[1]
+[5]
+» Phosphodiesterase-III inhibitors (cilostazol or
+milrinone) may be considered for patients with
+BrS (as an alternative to quinidine), however,
+supportive data are limited.[1] [7]
+adjunct radiofrequency catheter ablation
+Treatment recommended for SOME patients in
+selected patient group
+» Indicated in patients who:
+• Have recurrent ICD shocks, particularly if
+these are refractory to medical therapy[1]
+[5] [7] [18] [51]
+• Experience serious arrhythmic events
+despite optimized medical therapy[1] [5]
+• Are intolerant to or would prefer not to
+have medical therapy, or medical therapy
+is ineffective[1] [5]
+• Have spontaneous type 1 Brugada pattern
+on ECG and symptomatic ventricular
+arrhythmias who are unsuitable for or
+decline an ICD[18]
+• Have a history of electrical storms.[51]
+» Significant contraindications to ablation
+include:[38]
+• Ventricular tachycardia or fibrillation
+caused by myocardial ischemia, fever, or
+hypokalemia
+• Presence of structural heart disease.
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 45 ===
+Brugada syndrome Management
+Acute
+» A combined endocardial and epicardial
+approach has been shown to modify triggers and
+substrate for ventricular arrhythmias.[1]
+Patient discussions
+As part of conservative management, advise the patient to:[1] [7]
+• Avoid drugs that could exacerbate the Brugada ECG pattern (for further information see: 
+[BrugadaDrugs.org: safe drug use and the Brugada syndrome] (https://www.brugadadrugs.org)
+).[18] [51]
+• Antiarrhythmics (particularly sodium-channel blockers)
+• Psychotropic drugs
+• Anesthetics
+• Certain over-the-counter drugs (e.g., antihistamines)
+• Illicit drugs (e.g., cannabis, cocaine).
+• Treat any fever promptly[18] [51]
+• Avoid alcohol intoxication.[18] [51]
+In addition, patients should discuss new medications with their cardiologist as appropriate.
+Reassure patients that exercise is not a normal trigger for ventricular arrhythmias in Brugada syndrome.
+However, a post-vagal state following exercise has been reported.
+Advise patients to contact their care team urgently if they have palpitations, syncope, or seizures. In
+addition, if they have an implantable cardioverter defibrillator (ICD) they should also report any syncope or
+ICD shocks.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+45
+=== Page 46 ===
+Brugada syndrome Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+Arrange yearly follow up with a cardiologist or electrophysiologist with expertise in Brugada syndrome.[1]
+ In particular, symptoms such as palpitations, syncope, and seizures must be evaluated.
+If a patient is taking quinidine, monitor their CBC for anemia and thrombocytopenia.[1]
+Complications
+Complications Timeframe Likelihood
+atrial arrhythmias variable medium
+Atrial arrhythmias occur in about 10% of patients with Brugada syndrome.[61] [93] [94]
+serious arrhythmic events variable low
+Brugada syndrome (BrS) is the cause of around 28% of cases of sudden cardiac death in patients with an
+apparently normal heart and around 5% to 10% of cases of resuscitated cardiac arrest.[1] [91] [92] Around
+1 in 25 patients with BrS have a history of cardiac arrest at time of initial diagnosis.[1] [54] Incidence of
+sudden cardiac death in those without an ICD is approximately 0.19%.[83] Patients who have BrS and
+cardiogenic syncope have an annual incidence of a serious arrhythmic event of about 1.4%.[1] The most
+likely mechanism of serious arrhythmic events is ventricular fibrillation initiated by short-coupled premature
+ventricular complexes.[1]
+implantable cardioverter defibrillator (ICD)-related
+complications
+variable low
+Patients who require an ICD tend to be <50 years old and are at risk of ICD-related complications (e.g.,
+lead fracture, infection) and unnecessary ICD shocks. One meta-analysis found a 4.5% annual rate of
+ICD-related complications and a 3.5% annual rate of inappropriate shocks.[95]
+Prognosis
+Patients with Brugada syndrome (BrS) who have genetic mutations of SCN5A tend to develop symptoms at a
+younger age, and have more pronounced electrophysiologic defects (e.g., higher rate of spontaneous type 1
+ECG pattern, significant conduction or repolarization abnormalities, increased atrial vulnerability) and a more
+severe prognosis.[90]
+Age ≥55 at diagnosis is associated with a more benign prognosis, with no increased mortality compared with
+the general population.[1]
+Established features that are associated with the greatest risk of serious arrhythmic events in patients with
+BrS are:[1][40][85][86][87]
+• Resuscitated cardiac arrest
+• History of cardiogenic syncope
+• Spontaneous type 1 Brugada pattern on ECG.
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 47 ===
+Brugada syndrome Guidelines
+Diagnostic guidelines
+International
+2022 ESC guidelines for the management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Ventricular-
+Arrhythmias-and-the-Prevention-of-Sudden-Cardiac-Death)   [7]
+Published by: European Society of Cardiology Last published: 2022
+Genetic testing for inherited cardiovascular diseases: a scientific statement
+from the American Heart Association (https://www.ahajournals.org/doi/
+full/10.1161/HCG.0000000000000067)   [79]
+Published by: American Heart Association Last published: 2020
+Expert consensus on risk assessment in cardiac arrhythmias: use the right
+tool for the right outcome, in the right population (https://www.hrsonline.org/
+guidance/clinical-resources/ehrahrsaphrslahrs-expert-consensus-risk-
+assessment-cardiac-arrhythmias-use-right-tool-right-outcome)   [64]
+Published by: European Heart Rhythm Association; Heart Rhythm
+Society; Asia Pacific Heart Rhythm Society; Latin American Heart Rhythm
+Society
+Last published: 2020
+2013 Executive summary: HRS/EHRA/APHRS expert consensus statement on
+the diagnosis and management of patients with inherited primary arrhythmia
+syndromes (https://academic.oup.com/europace/article/15/10/1389/532177)  
+[51]
+Published by: Heart Rhythm Society; European Heart Rhythm
+Association; Asia Paciﬁc Heart Rhythm Society
+Last published: 2013
+Current electrocardiographic criteria for diagnosis of Brugada pattern: a
+consensus report (https://www.sciencedirect.com/science/article/abs/pii/
+S0022073612002026?via%3Dihub)   [4]
+Published by: International Society for Holter and Noninvasive
+Electrocardiology
+Last published: 2012
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+47
+=== Page 48 ===
+Brugada syndrome Guidelines
+GUIDELINES
+Treatment guidelines
+International
+2022 ESC guidelines for the management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Ventricular-
+Arrhythmias-and-the-Prevention-of-Sudden-Cardiac-Death)   [7]
+Published by: European Society of Cardiology Last published: 2022
+2019 HRS/EHRA/APHRS/LAHRS expert consensus statement on catheter
+ablation of ventricular arrhythmias (https://www.heartrhythmjournal.com/
+article/S1547-5271(19)30210-3/fulltext)   [5]
+Published by: Heart Rhythm Society, European Heart Rhythm
+Association; Asia Pacific Heart Rhythm Society; Latin American Heart
+Rhythm Society
+Last published: 2019
+Management of asymptomatic arrhythmias: a European Heart Rhythm
+Association (EHRA) consensus document (https://academic.oup.com/
+europace/article/21/6/844/5382236?login=false)   [68]
+Published by: European Heart Rhythm Association (endorsed by: Heart
+Failure Association; Heart Rhythm Society; Asia Pacific Heart Rhythm
+Society; Cardiac Arrhythmia Society of Southern Africa; Latin America
+Heart Rhythm Society)
+Last published: 2019
+2017 AHA/ACC/HRS guideline for management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+www.ahajournals.org/doi/10.1161/CIR.0000000000000549)   [18]
+Published by: American Heart Association; American College of
+Cardiology; Heart Rhythm Society
+Last published: 2017
+2013 Executive summary: HRS/EHRA/APHRS expert consensus statement on
+the diagnosis and management of patients with inherited primary arrhythmia
+syndromes (https://academic.oup.com/europace/article/15/10/1389/532177)  
+[51]
+Published by: Heart Rhythm Society; European Heart Rhythm
+Association; Asia Paciﬁc Heart Rhythm Society
+Last published: 2013
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 49 ===
+Brugada syndrome Online resources
+Online resources
+1. BrugadaDrugs.org: safe drug use and the Brugada syndrome (https://www.brugadadrugs.org) 
+(external link)
+ONLINE RESOURCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+49
+=== Page 50 ===
+Brugada syndrome References
+REFERENCES
+Key articles
+• Krahn AD, Behr ER, Hamilton R, et al. Brugada syndrome. JACC Clin Electrophysiol. 2022
+Mar;8(3):386-405.  Full text (https://www.sciencedirect.com/science/article/pii/S2405500X2101080X?
+via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35331438?tool=bestpractice.bmj.com)
+• Cronin EM, Bogun FM, Maury P, et al. 2019 HRS/EHRA/APHRS/LAHRS expert consensus statement
+on catheter ablation of ventricular arrhythmias. Europace. 2019 Aug 1;21(8):1143-4.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7967791)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31075787?tool=bestpractice.bmj.com)
+• Priori SG, Wilde AA, Horie M, et al. HRS/EHRA/APHRS expert consensus statement on the
+diagnosis and management of patients with inherited primary arrhythmia syndromes: document
+endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in
+June 2013. Heart Rhythm. 2013;10(12):1932-63.  Full text (https://www.heartrhythmjournal.com/
+article/S1547-5271(13)00552-3/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24011539?
+tool=bestpractice.bmj.com)
+• Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC Guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://academic.oup.com/eurheartj/article/43/40/3997/6675633?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+• Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management of
+patients with ventricular arrhythmias and the prevention of sudden cardiac death: Executive summary:
+A report of the American College of Cardiology/American Heart Association Task Force on Clinical
+Practice Guidelines and the Heart Rhythm Society. Heart Rhythm. 2018 Oct;15(10):e190-e252.  Full
+text (https://www.heartrhythmjournal.com/article/S1547-5271(17)31249-3/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29097320?tool=bestpractice.bmj.com)
+• Priori SG, Wilde AA, Horie M, et al. Executive summary: HRS/EHRA/APHRS expert
+consensus statement on the diagnosis and management of patients with inherited primary
+arrhythmia syndromes. Heart Rhythm. 2013;10(12):e85-108.  Full text (https://core.ac.uk/
+reader/82269654?utm_source=linkout)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23916535?
+tool=bestpractice.bmj.com)
+• Nielsen JC, Lin YJ, de Oliveira Figueiredo MJ, et al. European Heart Rhythm Association (EHRA)/
+Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart
+Rhythm Society (LAHRS) expert consensus on risk assessment in cardiac arrhythmias: use the right
+tool for the right outcome, in the right population. J Arrhythm. 2020 Jun 15;36(4):553-607.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7411224)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32782627?tool=bestpractice.bmj.com)
+References
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 51 ===
+Brugada syndrome References
+1. Krahn AD, Behr ER, Hamilton R, et al. Brugada syndrome. JACC Clin Electrophysiol. 2022
+Mar;8(3):386-405.  Full text (https://www.sciencedirect.com/science/article/pii/S2405500X2101080X?
+via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35331438?tool=bestpractice.bmj.com)
+2. Oe H, Takagi M, Tanaka A, et al. Prevalence and clinical course of the juveniles with Brugada-
+type ECG in Japanese population. Pacing Clin Electrophysiol. 2005;28(6):549-54. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15955188?tool=bestpractice.bmj.com)
+3. Yamakawa Y, Ishikawa T, Uchino K, et al. Prevalence of right bundle-branch block and
+right precordial ST-segment elevation (Brugada-type electrocardiogram) in Japanese
+children. Circ J. 2004;68(4):275-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15056820?
+tool=bestpractice.bmj.com)
+4. Bayés de Luna A, Brugada J, Baranchuk A, et al. Current electrocardiographic criteria for diagnosis
+of Brugada pattern: a consensus report. J Electrocardiol. 2012;45(5):433-42. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22920782?tool=bestpractice.bmj.com)
+5. Cronin EM, Bogun FM, Maury P, et al. 2019 HRS/EHRA/APHRS/LAHRS expert consensus statement
+on catheter ablation of ventricular arrhythmias. Europace. 2019 Aug 1;21(8):1143-4.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7967791)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31075787?tool=bestpractice.bmj.com)
+6. Priori SG, Wilde AA, Horie M, et al. HRS/EHRA/APHRS expert consensus statement on the
+diagnosis and management of patients with inherited primary arrhythmia syndromes: document
+endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in
+June 2013. Heart Rhythm. 2013;10(12):1932-63.  Full text (https://www.heartrhythmjournal.com/
+article/S1547-5271(13)00552-3/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24011539?
+tool=bestpractice.bmj.com)
+7. Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC Guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://academic.oup.com/eurheartj/article/43/40/3997/6675633?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+8. Benito B, Brugada J, Brugada R, Brugada P. Brugada syndrome. Rev Esp Cardiol.
+2009;62(11):1297-315. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19889341?
+tool=bestpractice.bmj.com)
+9. Antzelevitch C, Brugada P, Borggrefe M, et al. Brugada syndrome: report of
+the second consensus conference: endorsed by the Heart Rhythm Society and
+the European Heart Rhythm Association. Circulation. 2005;111(5):659-70.  Full
+text (https://www.ahajournals.org/doi/10.1161/01.CIR.0000152479.54298.51?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15655131?tool=bestpractice.bmj.com)
+10. Jellins J, Milanovic M, Taitz DJ, Wan SH, Yam PW. Brugada syndrome. Hong Kong Med J.
+2013;19(2):159-67.  Full text (https://www.hkmj.org/abstracts/v19n2/159.htm)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23535677?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+51
+=== Page 52 ===
+Brugada syndrome References
+REFERENCES
+11. Quan XQ, Li S, Liu R, Zheng K, Wu XF, Tang Q. A meta-analytic review of prevalence for Brugada
+ECG patterns and the risk for death. Medicine (Baltimore). 2016 Dec;95(50):e5643.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5268056)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27977610?tool=bestpractice.bmj.com)
+12. Behere SP, Weindling SN. Brugada syndrome in children - Stepping into unchartered territory. Ann
+Pediatr Cardiol. 2017 Sep-Dec;10(3):248-58.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC5594936)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28928611?tool=bestpractice.bmj.com)
+13. Mizusawa Y, Wilde AA. Brugada syndrome. Circ Arrhythm Electrophysiol.
+2012;5(3):606-16.  Full text (https://www.ahajournals.org/doi/10.1161/CIRCEP.111.964577?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22715240?tool=bestpractice.bmj.com)
+14. Sarquella-Brugada G, Campuzano O, Arbelo E, Brugada J, Brugada R. Brugada syndrome: clinical
+and genetic findings. Genet Med. 2016;18(1):3-12.  Full text (https://www.gimjournal.org/article/
+S1098-3600(21)04299-4/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25905440?
+tool=bestpractice.bmj.com)
+15. Priori SG, Wilde AA, Horie M, et al. HRS/EHRA/APHRS expert consensus statement on the
+diagnosis and management of patients with inherited primary arrhythmia syndromes: document
+endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in
+June 2013. Heart Rhythm. 2013;10(12):1932-63.  Full text (https://www.heartrhythmjournal.com/
+article/S1547-5271(13)00552-3/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24011539?
+tool=bestpractice.bmj.com)
+16. Kapplinger JD, Tester DJ, Alders M, et al. An international compendium of mutations in the SCN5A-
+encoded cardiac sodium channel in patients referred for Brugada syndrome genetic testing. Heart
+Rhythm. 2010 Jan;7(1):33-46.   Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2822446)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20129283?tool=bestpractice.bmj.com)
+17. Hu D, Barajas-Martínez H, Pfeiffer R, et al. Mutations in SCN10A are responsible for a large
+fraction of cases of Brugada syndrome. J Am Coll Cardiol. 2014;64(1):66-79.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4116276)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24998131?tool=bestpractice.bmj.com)
+18. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management of
+patients with ventricular arrhythmias and the prevention of sudden cardiac death: Executive summary:
+A report of the American College of Cardiology/American Heart Association Task Force on Clinical
+Practice Guidelines and the Heart Rhythm Society. Heart Rhythm. 2018 Oct;15(10):e190-e252.  Full
+text (https://www.heartrhythmjournal.com/article/S1547-5271(17)31249-3/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29097320?tool=bestpractice.bmj.com)
+19. Hosseini SM, Kim R, Udupa S, etal. Reappraisal of reported genes for sudden arrhythmic
+death: Evidence-based evaluation of gene validity for Brugada syndrome. Circulation. 2018 Sep
+18;138(12):1195-205.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147087)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29959160?tool=bestpractice.bmj.com)
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 53 ===
+Brugada syndrome References
+20. Adler A, Topaz G, Heller K, et al. Fever-induced Brugada pattern: how common is it and what does
+it mean?. Heart Rhythm. 2013;10(9):1375-82.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC3832740)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23872691?tool=bestpractice.bmj.com)
+21. Rattanawong P, Vutthikraivit W, Charoensri A, et al. Fever-induced Brugada syndrome is more
+common than previously suspected: A cross-sectional study from an endemic area. Ann Noninvasive
+Electrocardiol. 2016;21(2):136-41.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6931454)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26178440?tool=bestpractice.bmj.com)
+22. Attard A, Stanniland C, Attard S,et al. Brugada syndrome: should we be screening patients
+before prescribing psychotropic medication? Ther Adv Psychopharmacol. 2022 Jan
+28;12:20451253211067017.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8801628)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35111298?tool=bestpractice.bmj.com)
+23. Deschênes I, Baroudi G, Berthet M, et al. Electrophysiological characterization of SCN5A mutations
+causing long QT (E1784K) and Brugada (R1512W and R1432G) syndromes. Cardiovasc Res.
+2000;46(1):55-65.  Full text (https://academic.oup.com/cardiovascres/article/46/1/55/333556?
+login=true)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10727653?tool=bestpractice.bmj.com)
+24. Clancy CE, Kass RS. Defective cardiac ion channels: from mutations to clinical syndromes. J Clin
+Invest. 2002;110(8):1075-7.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC150807)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12393842?tool=bestpractice.bmj.com)
+25. Behr ER, Savio-Galimberti E, Barc J, et al. Role of common and rare variants in SCN10A: results
+from the Brugada syndrome QRS locus gene discovery collaborative study. Cardiovasc Res.
+2015;106(3):520-9.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4447806)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/25691538?tool=bestpractice.bmj.com)
+26. Fukuyama M, Ohno S, Makiyama T, Horie M. Novel SCN10A variants associated with Brugada
+syndrome. Europace. 2016;18(6):905-11.  Full text (https://academic.oup.com/europace/
+article/18/6/905/2467006?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25842276?
+tool=bestpractice.bmj.com)
+27. Riuró H, Beltran-Alvarez P, Tarradas A, et al. A missense mutation in the sodium channel β2 subunit
+reveals SCN2B as a new candidate gene for Brugada syndrome. Hum Mutat. 2013;34(7):961-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23559163?tool=bestpractice.bmj.com)
+28. Cerrone M, Lin X, Zhang M, et al. Missense mutations in plakophilin-2 cause sodium current deficit
+and associate with a Brugada syndrome phenotype. Circulation. 2014;129(10):1092-103.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3954430)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24352520?tool=bestpractice.bmj.com)
+29. Belbachir N, Portero V, Al Sayed ZR, et al. RRAD mutation causes electrical and cytoskeletal
+defects in cardiomyocytes derived from a familial case of Brugada syndrome. Eur Heart J. 2019 Oct
+1;40(37):3081-94.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6769825)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31114854?tool=bestpractice.bmj.com)
+30. Giudicessi JR, Ye D, Tester DJ, et al. Transient outward current (I(to)) gain-of-function mutations
+in the KCND3-encoded Kv4.3 potassium channel and Brugada syndrome. Heart Rhythm.
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+53
+=== Page 54 ===
+Brugada syndrome References
+REFERENCES
+2011;8(7):1024-32.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3150551)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/21349352?tool=bestpractice.bmj.com)
+31. Burashnikov E, Pfeiffer R, Barajas-Martinez H, et al. Mutations in the cardiac L-type calcium
+channel associated with inherited J-wave syndromes and sudden cardiac death. Heart Rhythm.
+2010;7(12):1872-82.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999985)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/20817017?tool=bestpractice.bmj.com)
+32. Behr ER, Ben-Haim Y, Ackerman MJ, et al. Brugada syndrome and reduced right ventricular outflow
+tract conduction reserve: a final common pathway? Eur Heart J. 2021 Mar 14;42(11):1073-81.  Full
+text (https://academic.oup.com/eurheartj/article/42/11/1073/6076711?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33421051?tool=bestpractice.bmj.com)
+33. Wilde AA, Postema PG, Di Diego JM, et al. The pathophysiological mechanism underlying Brugada
+syndrome: depolarization versus repolarization. J Mol Cell Cardiol. 2010;49(4):543-53.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2932806)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20659475?tool=bestpractice.bmj.com)
+34. Yan GX, Antzelevitch C. Cellular basis for the Brugada syndrome and other
+mechanisms of arrhythmogenesis associated with ST-segment elevation. Circulation.
+1999;100(15):1660-6.  Full text (https://www.ahajournals.org/doi/10.1161/01.cir.100.15.1660?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10517739?tool=bestpractice.bmj.com)
+35. Iacoviello M, Forleo C, Puzzovivo A, et al. Altered two-dimensional strain measures of the right
+ventricle in patients with Brugada syndrome and arrhythmogenic right ventricular dysplasia/
+cardiomyopathy. Eur J Echocardiogr. 2011;12(10):773-81. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21865227?tool=bestpractice.bmj.com)
+36. Bastiaenen R, Cox AT, Castelletti S, et al. Late gadolinium enhancement in Brugada syndrome: A
+marker for subtle underlying cardiomyopathy? Heart Rhythm. 2017 Apr;14(4):583-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27919765?tool=bestpractice.bmj.com)
+37. Pieroni M, Notarstefano P, Oliva A, et al. Electroanatomic and pathologic right ventricular outflow tract
+abnormalities in patients with Brugada syndrome. J Am Coll Cardiol. 2018 Dec 4;72(22):2747-57.  Full
+text (https://www.sciencedirect.com/science/article/pii/S0735109718386637?via%3Dihub)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/30497561?tool=bestpractice.bmj.com)
+38. Nademanee K, Veerakul G, Chandanamattha P, et al. Prevention of ventricular fibrillation
+episodes in Brugada syndrome by catheter ablation over the anterior right ventricular outflow tract
+epicardium. Circulation. 2011;123(12):1270-9.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIRCULATIONAHA.110.972612?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21403098?
+tool=bestpractice.bmj.com)
+39. Milman A, Andorin A, Gourraud JB, et al. Age of first arrhythmic event in Brugada syndrome: Data
+from the SABRUS (Survey on Arrhythmic Events in Brugada Syndrome) in 678 patients. Circ Arrhythm
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 55 ===
+Brugada syndrome References
+Electrophysiol. 2017 Dec;10(12):e005222.  Full text (https://iris.unito.it/handle/2318/1660808)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29254945?tool=bestpractice.bmj.com)
+40. Gonzalez Corcia MC, Sieira J, Sarkozy A, et al. Brugada syndrome in the young: an assessment
+of risk factors predicting future events. Europace. 2017 Nov 1;19(11):1864-73.  Full text (https://
+academic.oup.com/europace/article/19/11/1864/2194460?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27738063?tool=bestpractice.bmj.com)
+41. Minier M, Probst V, Berthome P, et al. Age at diagnosis of Brugada syndrome: Influence on clinical
+characteristics and risk of arrhythmia. Heart Rhythm. 2020 May;17(5 Pt A):743-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31790831?tool=bestpractice.bmj.com)
+42. Juang JM, Chen CY, Chen YH, et al. Prevalence and prognosis of Brugada electrocardiogram
+patterns in an elderly Han Chinese population: a nation-wide community-based study (HALST cohort).
+Europace. 2015 Oct;17(Suppl 2):ii54-62.  Full text (https://academic.oup.com/europace/article/17/
+suppl_2/ii54/2802554?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26842116?
+tool=bestpractice.bmj.com)
+43. Kitamura T, Fukamizu S, Kawamura I, et al. Clinical characteristics and long-term prognosis of senior
+patients with Brugada syndrome. JACC Clin Electrophysiol. 2017 Jan;3(1):57-67.  Full text (https://
+www.sciencedirect.com/science/article/pii/S2405500X16301062?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29759696?tool=bestpractice.bmj.com)
+44. Yuan M, Tian C, Li X, et al. Gender differences in prognosis and risk stratification of Brugada
+syndrome: A pooled analysis of 4,140 patients from 24 clinical trials. Front Physiol. 2018 Aug
+22;9:1127.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6113678)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30246798?tool=bestpractice.bmj.com)
+45. Sieira J, Brugada P. Brugada syndrome: Defining the risk in asymptomatic patients. Arrhythm
+Electrophysiol Rev. 2016;5(3):164-9.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC5248661)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28116080?tool=bestpractice.bmj.com)
+46. Berthome P, Tixier R, Briand J, et al. Clinical presentation and follow-up of women affected by
+Brugada syndrome. Heart Rhythm. 2019 Feb;16(2):260-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30193851?tool=bestpractice.bmj.com)
+47. Probst V, Veltmann C, Eckardt L, et al. Long-term prognosis of patients diagnosed with Brugada
+syndrome: Results from the FINGER Brugada Syndrome Registry. Circulation. 2010;121(5):635-43. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.109.887026?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20100972?tool=bestpractice.bmj.com)
+48. Delise P, Allocca G, Marras E, et al. Risk stratification in individuals with the Brugada type 1 ECG
+pattern without previous cardiac arrest: usefulness of a combined clinical and electrophysiologic
+approach. Eur Heart J. 2011;32(2):169-76.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC3021386)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20978016?tool=bestpractice.bmj.com)
+49. Antzelevitch C, Yan GX, Ackerman MJ, et al. J-Wave syndromes expert consensus conference report:
+Emerging concepts and gaps in knowledge. Heart Rhythm. 2016 Oct;13(10):e295-324.  Full text
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+55
+=== Page 56 ===
+Brugada syndrome References
+REFERENCES
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035208)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27423412?tool=bestpractice.bmj.com)
+50. Kamakura S, Ohe T, Nakazawa K, et al. Long-term prognosis of probands with
+Brugada-pattern ST-elevation in leads V1-V3. Circ Arrhythm Electrophysiol.
+2009;2(5):495-503.  Full text (https://www.ahajournals.org/doi/10.1161/CIRCEP.108.816892?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19843917?tool=bestpractice.bmj.com)
+51. Priori SG, Wilde AA, Horie M, et al. Executive summary: HRS/EHRA/APHRS expert
+consensus statement on the diagnosis and management of patients with inherited primary
+arrhythmia syndromes. Heart Rhythm. 2013;10(12):e85-108.  Full text (https://core.ac.uk/
+reader/82269654?utm_source=linkout)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23916535?
+tool=bestpractice.bmj.com)
+52. Rodríguez-Mañero M, Sacher F, de Asmundis C, et al. Monomorphic ventricular
+tachycardia in patients with Brugada syndrome: A multicenter retrospective study. Heart
+Rhythm. 2016;13(3):669-682. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26538325?
+tool=bestpractice.bmj.com)
+53. Eckhardt LL. Monomorphic ventricular tachycardia in Brugada syndrome: True-true but related?.
+Heart Rhythm. 2016;13(3):683-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26632641?
+tool=bestpractice.bmj.com)
+54. Casado-Arroyo R, Berne P, Rao JY, Rodriguez-Mañero M, et al. Long-term trends in newly diagnosed
+Brugada syndrome: Implications for risk stratification. J Am Coll Cardiol. 2016 Aug 9;68(6):614-23. 
+Full text (https://pubmed.ncbi.nlm.nih.gov/27491905)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27491905?tool=bestpractice.bmj.com)
+55. Okamura H, Kamakura T, Morita H, et al. Risk stratification in patients with Brugada syndrome without
+previous cardiac arrest – prognostic value of combined risk factors. Circ J. 2015;79(2):310-17.  Full
+text (https://www.jstage.jst.go.jp/article/circj/79/2/79_CJ-14-1059/_html/-char/en)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25428522?tool=bestpractice.bmj.com)
+56. Kawazoe H, Nakano Y, Ochi H, et al. Risk stratification of ventricular fibrillation in Brugada syndrome
+using noninvasive scoring methods. Heart Rhythm. 2016 Oct;13(10):1947-54. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27424075?tool=bestpractice.bmj.com)
+57. Honarbakhsh S, Providencia R, Garcia-Hernandez J, et al. A Primary prevention clinical risk score
+model for patients with Brugada syndrome (BRUGADA-RISK). JACC Clin Electrophysiol. 2021
+Feb;7(2):210-2.  Full text (https://www.sciencedirect.com/science/article/pii/S2405500X20308197?via
+%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33602402?tool=bestpractice.bmj.com)
+58. Olde Nordkamp LR, Vink AS, Wilde AA, et al. Syncope in Brugada syndrome: prevalence, clinical
+significance, and clues from history taking to distinguish arrhythmic from nonarrhythmic causes.
+Heart Rhythm. 2015;12(2):367-75. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25311410?
+tool=bestpractice.bmj.com)
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 57 ===
+Brugada syndrome References
+59. Schimpf R, Giustetto C, Eckardt L, et al. Prevalence of supraventricular tachyarrhythmias in a cohort
+of 115 patients with Brugada syndrome. Ann Noninvasive Electrocardiol. 2008;13(3):266-9.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6932135)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18713327?tool=bestpractice.bmj.com)
+60. Kusano KF, Taniyama M, Nakamura K, et al. Atrial fibrillation in patients with Brugada syndrome
+relationships of gene mutation, electrophysiology, and clinical backgrounds. J Am Coll
+Cardiol. 2008;51(12):1169-75.  Full text (https://www.sciencedirect.com/science/article/pii/
+S0735109708000648?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18355654?
+tool=bestpractice.bmj.com)
+61. Giustetto C, Cerrato N, Gribaudo E, et al. Atrial fibrillation in a large population with Brugada
+electrocardiographic pattern: prevalence, management, and correlation with prognosis. Heart
+Rhythm. 2014;11(2):259-65. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24513919?
+tool=bestpractice.bmj.com)
+62. Holst AG, Jensen HK, Eschen O, et al. Low disease prevalence and inappropriate implantable
+cardioverter defibrillator shock rate in Brugada syndrome: a nationwide study. Europace.
+2012;14(7):1025-9.  Full text (https://core.ac.uk/reader/50680417?utm_source=linkout)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/22286273?tool=bestpractice.bmj.com)
+63. Vatta M, Dumaine R, Antzelevitch C, et al. Novel mutations in domain I of SCN5A cause
+Brugada syndrome. Mol Genet Metab. 2002;75(4):317-24. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12051963?tool=bestpractice.bmj.com)
+64. Nielsen JC, Lin YJ, de Oliveira Figueiredo MJ, et al. European Heart Rhythm Association (EHRA)/
+Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart
+Rhythm Society (LAHRS) expert consensus on risk assessment in cardiac arrhythmias: use the right
+tool for the right outcome, in the right population. J Arrhythm. 2020 Jun 15;36(4):553-607.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7411224)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32782627?tool=bestpractice.bmj.com)
+65. Veltmann C, Papavassiliu T, Konrad T, et al. Insights into the location of type I ECG in patients
+with Brugada syndrome: correlation of ECG and cardiovascular magnetic resonance imaging.
+Heart Rhythm. 2012;9(3):414-21. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22119454?
+tool=bestpractice.bmj.com)
+66. Sangwatanaroj S, Prechawat S, Sunsaneewitayakul B, et al. New electrocardiographic leads and
+the procainamide test for the detection of the Brugada sign in sudden unexplained death syndrome
+survivors and their relatives. Eur Heart J. 2001;22(24):2290-6.  Full text (https://academic.oup.com/
+eurheartj/article/22/24/2290/512888?login=true)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11728150?tool=bestpractice.bmj.com)
+67. Govindan M, Batchvarov VN, Raju H, et al. Utility of high and standard right precordial leads during
+ajmaline testing for the diagnosis of Brugada syndrome. Heart. 2010;96(23):1904-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20962343?tool=bestpractice.bmj.com)
+68. Arnar DO, Mairesse GH, Boriani G, et al. Management of asymptomatic arrhythmias: a European
+Heart Rhythm Association (EHRA) consensus document, endorsed by the Heart Failure Association
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+57
+=== Page 58 ===
+Brugada syndrome References
+REFERENCES
+(HFA), Heart Rhythm Society (HRS), Asia Pacific Heart Rhythm Society (APHRS), Cardiac Arrhythmia
+Society of Southern Africa (CASSA), and Latin America Heart Rhythm Society (LAHRS). Europace.
+2019 Mar 18;21(6):844–5.  Full text (https://academic.oup.com/europace/article/21/6/844/5382236?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30882141?tool=bestpractice.bmj.com)
+69. Gollob MH, Blier L, Brugada R, et al. Recommendations for the use of genetic testing in the clinical
+evaluation of inherited cardiac arrhythmias associated with sudden cardiac death: Canadian
+Cardiovascular Society/Canadian Heart Rhythm Society joint position paper. Can J Cardiol. 2011 Mar-
+Apr;27(2):232-45.  Full text (https://www.onlinecjc.ca/article/S0828-282X(10)00094-2/fulltext)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/21459272?tool=bestpractice.bmj.com)
+70. Heermann P, Fritsch H, Koopmann M, et al. Biventricular myocardial strain analysis using
+cardiac magnetic resonance feature tracking (CMR-FT) in patients with distinct types of right
+ventricular diseases comparing arrhythmogenic right ventricular cardiomyopathy (ARVC),
+right ventricular outflow-tract tachycardia (RVOT-VT), and Brugada syndrome (BrS). Clin Res
+Cardiol. 2019 Oct;108(10):1147-62. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30868222?
+tool=bestpractice.bmj.com)
+71. Borgquist R, Haugaa KH, Gilljam T, et al. The diagnostic performance of imaging methods in ARVC
+using the 2010 Task Force criteria. Eur Heart J Cardiovasc Imaging. 2014;15(11):1219-25.  Full text
+(https://academic.oup.com/ehjcimaging/article/15/11/1219/2399659?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24939949?tool=bestpractice.bmj.com)
+72. Peters S, Trümmel M, Denecke S, et al. Results of ajmaline testing in patients with arrhythmogenic
+right ventricular dysplasia-cardiomyopathy. Int J Cardiol. 2004 Jun;95(2-3):207-10.  Full text (https://
+www.doi.org/10.1016/j.ijcard.2003.04.032)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15193821?
+tool=bestpractice.bmj.com)
+73. Wilde AA, Antzelevitch C, Borggrefe M, et al. Proposed diagnostic criteria for
+the Brugada syndrome: consensus report. Circulation. 2002;106(19):2514-9. 
+Full text (https://www.ahajournals.org/doi/10.1161/01.cir.0000034169.45752.4a?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12417552?tool=bestpractice.bmj.com)
+74. Pelliccia A, Maron BJ. Outer limits of the athlete's heart, the effect of gender, and relevance to the
+differential diagnosis with primary cardiac diseases. Cardiol Clin. 1997;15(3):381-96. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9276164?tool=bestpractice.bmj.com)
+75. Drezner JA, Sharma S, Baggish A, et al. International criteria for electrocardiographic interpretation
+in athletes: Consensus statement. Br J Sports Med. 2017 May;51(9):704-31.  Full text (https://
+bjsm.bmj.com/content/51/9/704.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28258178?
+tool=bestpractice.bmj.com)
+76. Alings M, Wilde A. "Brugada" syndrome: clinical data and suggested pathophysiological mechanism.
+Circulation. 1999;99(5):666-73.  Full text (https://www.ahajournals.org/doi/10.1161/01.cir.99.5.666?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9950665?tool=bestpractice.bmj.com)
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 59 ===
+Brugada syndrome References
+77. Anselm DD, Evans JM, Baranchuk A. Brugada phenocopy: A new electrocardiogram phenomenon.
+World J Cardiol. 2014;6(3):81-6.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964189)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24669289?tool=bestpractice.bmj.com)
+78. Rose BD, Post TW. Clinical physiology of acid-base and electrolyte disorders, 5th ed. New York, NY:
+McGraw-Hill; 2001:836-56.
+79. Musunuru K, Hershberger RE, Day SM, et al. Genetic testing for inherited cardiovascular diseases:
+A scientific statement from the American Heart Association. Circ Genom Precis Med. 2020
+Aug;13(4):e000067.  Full text (https://www.ahajournals.org/doi/full/10.1161/HCG.0000000000000067?
+rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32698598?tool=bestpractice.bmj.com)
+80. Eifling M, Razavi M, Massumi A. The evaluation and management of electrical storm. Tex Heart Inst
+J. 2011;38(2):111-21.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3066819)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/21494516?tool=bestpractice.bmj.com)
+81. Sieira J, Conte G, Ciconte G, et al. A score model to predict risk of events in patients with Brugada
+Syndrome. Eur Heart J. 2017 Jun 7;38(22):1756-63.  Full text (https://academic.oup.com/eurheartj/
+article/38/22/1756/3098019?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28379344?
+tool=bestpractice.bmj.com)
+82. Chow JJ, Leong KMW, Yazdani M, et al. A multicenter external validation of a score model to predict
+risk of events in patients with Brugada syndrome. Am J Cardiol. 2021 Dec 1;160:53-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34610873?tool=bestpractice.bmj.com)
+83. Probst V, Goronflot T, Anys S, et al. Robustness and relevance of predictive score in sudden cardiac
+death for patients with Brugada syndrome. Eur Heart J. 2021 May 1;42(17):1687-95.  Full text
+(https://academic.oup.com/eurheartj/article/42/17/1687/6027696?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33289793?tool=bestpractice.bmj.com)
+84. Gonzalez Corcia MC, Sieira J, Pappaert G, de Asmundis C, Chierchia GB, Sarkozy A, Brugada P.
+A Clinical Score Model to Predict Lethal Events in Young Patients (≤19 Years) With the Brugada
+Syndrome. Am J Cardiol. 2017 Sep 1;120(5):797-802. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28728742?tool=bestpractice.bmj.com)
+85. Andorin A, Behr ER, Denjoy I, et al. Impact of clinical and genetic findings on the management of
+young patients with Brugada syndrome. Heart Rhythm. 2016 Jun;13(6):1274-82. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26921764?tool=bestpractice.bmj.com)
+86. Priori SG, Gasparini M, Napolitano C, et al. Risk stratification in Brugada syndrome: results of
+the PRELUDE (PRogrammed ELectrical stimUlation preDictive valuE) registry. J Am Coll Cardiol.
+2012;59(1):37-45.  Full text (https://www.sciencedirect.com/science/article/pii/S073510971104530X?
+via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22192666?tool=bestpractice.bmj.com)
+87. Priori SG, Napolitano C, Gasparini M, et al. Natural history of Brugada syndrome:
+insights for risk stratification and management. Circulation. 2002;105(11):1342-7. 
+Full text (https://www.ahajournals.org/doi/10.1161/hc1102.105288?
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+59
+=== Page 60 ===
+Brugada syndrome References
+REFERENCES
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11901046?tool=bestpractice.bmj.com)
+88. Conte G, de Asmundis C, Sieira J, et al. Prevalence and clinical impact of early repolarization
+pattern and QRS-fragmentation in high-risk patients with Brugada syndrome. Circ J.
+2016 Sep 23;80(10):2109-16. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27558008?
+tool=bestpractice.bmj.com)
+89. Sroubek J, Probst V, Mazzanti A, et al. Programmed Ventricular Stimulation for Risk Stratification
+in the Brugada Syndrome: A Pooled Analysis. Circulation. 2016;133(7):622-30.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4758872)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26797467?tool=bestpractice.bmj.com)
+90. Chen C, Tan Z, Zhu W, et al. Brugada syndrome with SCN5A mutations exhibits more
+pronounced electrophysiological defects and more severe prognosis: A meta-analysis. Clin
+Genet. 2020 Jan;97(1):198-208.  Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30963536?
+tool=bestpractice.bmj.com)
+91. Papadakis M, Papatheodorou E, Mellor G, et al. The diagnostic yield of Brugada syndrome after
+sudden death with normal autopsy. J Am Coll Cardiol. 2018 Mar 20;71(11):1204-14.  Full text (https://
+www.sciencedirect.com/science/article/pii/S0735109718302420?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29544603?tool=bestpractice.bmj.com)
+92. van der Werf C, Hofman N, Tan HL, et al. Diagnostic yield in sudden unexplained death and
+aborted cardiac arrest in the young: the experience of a tertiary referral center in The Netherlands.
+Heart Rhythm. 2010;7(10):1383-1389 Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20646679?
+tool=bestpractice.bmj.com)
+93. Sacher F, Probst V, Iesaka Y, et al. Outcome after implantation of a cardioverter-defibrillator
+in patients with Brugada syndrome: a multicenter study. Circulation. 2006;114(22):2317-24. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.106.628537?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17116772?tool=bestpractice.bmj.com)
+94. Kewcharoen J, Rattanawong P, Kanitsoraphan C, et al. Atrial fibrillation and risk of major
+arrhythmic events in Brugada syndrome: A meta-analysis. Ann Noninvasive Electrocardiol. 2019
+Nov;24(6):e12676.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6931417)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/31353765?tool=bestpractice.bmj.com)
+95. Dereci A, Yap SC, Schinkel AFL. Meta-analysis of clinical outcome after implantable cardioverter-
+defibrillator implantation in patients with Brugada syndrome. JACC Clin Electrophysiol. 2019
+Feb;5(2):141-8.  Full text (https://www.sciencedirect.com/science/article/pii/S2405500X18307424?via
+%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30784682?tool=bestpractice.bmj.com)
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 61 ===
+Brugada syndrome Images
+Images
+Figure 1: Electrocardiographic patterns in Brugada syndrome showing type 1 (diagnostic) and types 2 and
+3 (non-diagnostic) patterns. Type-1 (diagnostic): coved STT morphology in lead V2 with J-point elevation
+(dark gray line) of ≥0.2 mV (≥2 mm) and a terminal ST-segment elevation (light gray line, J+60 ms) also ≥0.2
+mV (≥2 mm). Note the PR interval and wider QRS complex, wide and deep S in lead I, and fractionation
+in the right precordial ECG leads. Type-2 (non-diagnostic): saddleback STT morphology in lead V2 with J-
+point elevation (dark gray line) of ≥0.2 mV (≥2 mm) and a terminal ST-segment elevation (light gray line, J
++60 ms) ≥0.1 mV (≥1 mm), followed by a positive T wave. Note the less wide and deep S-wave in lead I,
+less prominent fractionation. Type-3 (non-diagnostic): saddleback STT morphology in lead V2 with J-point
+elevation (dark gray line) of ≥0.2 mV (≥2 mm) and a terminal ST-segment elevation (light gray line, J+60 ms)
+<0.1 mV (<1 mm)
+Marsman EMJ et al. Heart 2022 May;108(9):668-75; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+61
+=== Page 62 ===
+Brugada syndrome Images
+IMAGES
+Figure 2: Cardiac action potential in Brugada syndrome. Blue line indicates normal ventricular action
+potential; red line indicates delayed upstroke of action potential in Brugada syndrome. Action potential
+phases: 0, rapid depolarization; 1, rapid/early repolarization; 2, plateau; 3, terminal repolarization; 4, resting
+potential
+Krahn AD et al. JACC Clin Electrophysiol 2022 Mar;8(3):386-405; used with permission
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 63 ===
+Brugada syndrome Images
+Figure 3: Proposed Shanghai Score for diagnosis of Brugada syndrome
+Adapted from Peltenburg PJ et al. Neth Heart J. 31. 10.1007/s12471-022-01723-6; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+63
+=== Page 64 ===
+Brugada syndrome Images
+IMAGES
+Figure 4: Diagnosis summary for Brugada syndrome [IMAGE KEY: EP = Electrophysiology; ICD =
+Implantable cardioverter defibrillator; ICS = Intercostal space; MRI = Magnetic resonance imaging; SCB =
+Sodium-channel blocker]
+Krahn AD, et al. Brugada syndrome. JACC Clin Electrophysiol 2022 Mar;8(3):386-405; used with permission
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 65 ===
+Brugada syndrome Images
+Figure 5: Standard- and high-lead electrocardiogram positions. (Top) Standard-lead ECG positions and
+corresponding precordial ECG in a patient with Brugada syndrome. (Bottom) High-lead ECG positions and
+corresponding ECG in the same patient. Note that hV5 and hV6 on the high-lead ECG correspond with V1
+and V2 on the standard-lead ECG.
+Krahn AD, et al. Brugada syndrome. JACC Clin Electrophysiol 2022 Mar;8(3):386-405; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+65
+=== Page 66 ===
+Brugada syndrome Images
+IMAGES
+ Figure 6: 12-Lead ECG with ST-segment elevation lead V1 to V4
+From the personal collection of Dr Mahi Ashwath; used with permission
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 67 ===
+Brugada syndrome Images
+Figure 7: 3-lead ECG showing findings suggestive of arrhythmogenic right ventricular cardiomyopathy
+Bayés de Luna A et al. J Electrocardiol. 2012 Sep;45(5):433-42; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+67
+=== Page 68 ===
+Brugada syndrome Images
+IMAGES
+Figure 8: Brugada type 1 ECG (left) in comparison to early repolarization with "convex" ST segment elevation
+in a trained athlete (right). [Vertical lines mark the J-point (STJ) and 80 ms after the J-point (ST80). The
+"downsloping" ST segment elevation in Brugada pattern has an STJ/ST80 ratio >1. Early repolarization
+patterns in the athlete shows an initial "upsloping" ST segment elevation with STJ/ST80 ratio <1].
+Drezner JA et al. Br J Sports Med 2017 May;51(9):704-31; used with permission
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 69 ===
+Brugada syndrome Images
+Figure 9: 3-lead ECG showing findings suggestive of pectus excavatum
+Bayés de Luna A et al. J Electrocardiol. 2012 Sep;45(5):433-42; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+69
+=== Page 70 ===
+Brugada syndrome Images
+IMAGES
+Figure 10: 3-lead ECG showing right bundle branch block
+Bayés de Luna A et al. J Electrocardiol. 2012 Sep;45(5):433-42; used with permission
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 71 ===
+Brugada syndrome Images
+Figure 11: 12-lead ECG demonstrating prominent U-waves in a patient with hypokalemia
+From: Lin HW, Chau T, Lin CS, Lin SH, Recurring paralysis, BMJ Case Reports 2009; doi:10.1136/
+bcr.07.2008.0577
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+71
+=== Page 72 ===
+Brugada syndrome Images
+IMAGES
+Figure 12: Management summary for Brugada syndrome
+Adapted from Krahn AD et al. J Am Coll Cardiol EP. 2022 Mar, 8 (3) 386-405; used with permission
+72 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 73 ===
+Brugada syndrome Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+73
+=== Page 74 ===
+Brugada syndrome Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+74 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 19, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 75 ===
+Contributors:
+// Authors:
+Eugene H Chung, MD, MPH
+Professor of Internal Medicine
+Director of Sports Electrophysiology Clinic, Massachusetts General Hospital, Harvard Medical School,
+Boston, MA
+DISCLOSURES: EHC declares that he has no competing interests.
+// Acknowledgements:
+Professor Eugene H Chung would like to gratefully acknowledge Dr Mohammed-Ali Jazayeri for his
+contribution to the initial drafts of this topic.
+DISCLOSURES: MAJ declares that he has no competing interests.
+// Peer Reviewers:
+Sei Iwai, MD
+Section Chief, Cardiac Electrophysiology
+Department of Cardiology, Westchester Medical Center Health Network, Valhalla, NY
+DISCLOSURES: SI declares that he has no competing interests.
+Amanda Varnava, MA(Hons), MD, FRCP
+Consultant Cardiologist
+Imperial College Healthcare Trust, London, UK
+DISCLOSURES: AV declares that she has no competing interests.

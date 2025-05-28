@@ -1,0 +1,951 @@
+# Preoperative cardiac risk assessment
+
+=== Page 1 ===
+Preoperative cardiac
+risk assessment
+Straight to the point of care
+Last updated: Oct 19, 2023
+=== Page 2 ===
+Table of Contents
+Overview  3
+Introduction  3
+Contents  4
+Stepwise management approach  4
+History and physical examination  4
+Functional capacity assessment  5
+Cardiac risk stratification using clinical predictors and risk models  5
+Risk stratification according to type of noncardiac surgery  7
+Diagnostic tests  7
+Cardiac risk stratification using stress testing  8
+ACS NSQIP universal surgical risk calculator  9
+Perioperative therapy  9
+Preoperative revascularization with coronary artery bypass grafting or
+percutaneous coronary intervention  9
+Beta-blockers  10
+Statins  10
+Surveillance  11
+Special circumstances  11
+American College of Cardiology/American Heart Association (ACC/AHA) guidelines
+synopsis  12
+European Society of Cardiology (ESC) guideline synopsis  14
+Canadian Cardiovascular Society guidelines on perioperative cardiac risk
+assessment synopsis  15
+Guidelines  
+References  17
+Images  20
+Disclaimer  22
+=== Page 3 ===
+Preoperative cardiac risk assessment Overview
+Introduction
+Approximately 27 million patients undergo noncardiac surgery every year in the US.[1] Of those,
+about 50,000 have a perioperative myocardial infarction (MI). Furthermore, over one half of the 40,000
+perioperative deaths each year are caused by cardiac events.[2] Most perioperative cardiac morbidity and
+mortality is related to MI, heart failure, or arrhythmias. Patients over 65 years of age are at higher risk of
+cardiac disease, cardiac morbidity, and death. Considering that this patient population will greatly increase
+over the coming decades, the number of patients with significant perioperative cardiac risk undergoing
+noncardiac surgery can be expected to increase globally. Patients with congenital heart disease, especially
+those with unrepaired lesions or a residual lesion burden and compromised cardiovascular status, also
+require individualized perioperative management.
+Preoperative cardiac risk assessment and perioperative management emphasize the detection,
+characterization, and treatment of coronary artery disease (CAD), left ventricular (LV) systolic dysfunction,
+and significant arrhythmias in appropriate patients. The American Heart Association/American College of
+Cardiology (AHA/ACC) guidelines for managing adults with congenital heart disease recommend a stepwise
+approach to preoperative cardiac assessment, but there are currently no guidelines for comprehensive
+perioperative care of children with congenital heart disease undergoing noncardiac surgery.[3] [4] Patients
+with known or suspected CAD, arrhythmias, history of heart failure, or current symptoms consistent with
+these conditions should also undergo assessment. In people ages ≥50 years, a more extensive history and
+physical exam is warranted.
+The purpose of individual preoperative cardiac risk assessment is to:[5][6] [7]
+• Assess the medical status of the patient and the cardiac risks posed by the planned noncardiac
+surgery
+• Recommend appropriate strategies to reduce the risk of cardiac problems over the entire perioperative
+period, and to improve long-term cardiac outcomes.
+The main overall goals of assessment are to:
+• Identify patients at increased risk of an adverse perioperative cardiac event
+• Identify patients with a poor long-term prognosis due to cardiovascular disease. Even though the risk
+at the time of noncardiac surgery may not be prohibitive, appropriate treatment will affect long-term
+prognosis.
+The nature of the evaluation should be individualized to the patient and the specific clinical scenario:
+• Patients presenting with an acute surgical emergency require only a rapid preoperative assessment,
+with subsequent management directed at preventing or minimizing cardiac morbidity and death. Such
+patients can often be more thoroughly evaluated after surgery.
+• Patients undergoing an elective procedure with no surgical urgency can undergo a more thorough
+preoperative evaluation.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Preoperative cardiac risk assessment Contents
+CONTENTS
+Stepwise management approach
+Eight steps to optimize perioperative outcomes:[8]
+1. Assess clinical features
+• The history and physical exam should help to identify markers of cardiac risk and assess the patient's
+cardiac status.
+• High-risk cardiac conditions include recent myocardial infarction (MI), decompensated heart failure,
+unstable angina, symptomatic arrhythmias, and symptomatic valvular heart disease.[9]
+2. Evaluate functional status
+• Patients who are able to exercise on a regular basis without limitations generally have sufficient
+cardiovascular reserve to withstand stressful operations.
+3. Consider surgery-specific risk
+• The type of surgery has important implications for perioperative risk. Noncardiac surgery can be
+stratified into high-risk, intermediate-risk, and low-risk categories (see below 'risk stratification
+according to type of noncardiac surgery').
+4. Decide whether further noninvasive evaluation is needed
+• Patients who are at low cardiac risk based on clinical features and functional status, and are
+undergoing low-risk surgery, do not generally require further evaluation.
+• Patients who are at high cardiac risk based on clinical features, have poor functional status, and are
+being considered for high-risk noncardiac surgery may benefit from further evaluation.
+5. Decide when to recommend invasive evaluation
+• Indications for preoperative coronary angiography are similar to those in the nonoperative setting and
+include patients with evidence of high cardiac risk based on noninvasive testing, angina unresponsive
+to adequate medical therapy, unstable angina, and proposed intermediate-risk or high-risk noncardiac
+surgery after equivocal noninvasive test results.
+• Angiography and revascularization are not routinely indicated for patients with stable coronary artery
+disease (CAD).
+6. Optimize cardiovascular risk factors, lifestyle interventions, and medical therapy
+• Control of cardiovascular risk factors, including hypertension, dyslipidemia, and diabetes, is important
+before noncardiac surgery.[5]
+• Patients should be given optimal medical therapy, both perioperatively and in the long term, based on
+their underlying cardiac condition.
+• Lifestyle modifications before noncardiac surgery may reduce the risk of perioperative complications,
+but their impact on cardiovascular complications has not been adequately studied. Smoking cessation
+prior to surgery has the most robust evidence base.[5]
+7. Perform appropriate perioperative surveillance
+• In patients with known or suspected CAD, the possibility of perioperative ischemia or MI can be
+estimated based on the magnitude of biomarker elevation, new ECG abnormalities, hemodynamic
+instability, and the quality and intensity of chest pain or other symptoms.
+8. Design maximal long-term therapy
+• Assessment for hypercholesterolemia, smoking, hypertension, diabetes mellitus, physical inactivity,
+peripheral vascular disease, cardiac murmurs, arrhythmias, conduction abnormalities, and/or
+perioperative ischemia may lead to evaluation and treatments that reduce future cardiovascular risk.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Preoperative cardiac risk assessment Contents
+History and physical examination
+The patient history should aim to:
+• Identify cardiac conditions (e.g., recent or past myocardial infarction, decompensated heart failure,
+prior unstable angina, significant arrhythmias, valvular heart disease)
+• Identify serious comorbid conditions (e.g., diabetes mellitus, peripheral vascular disease, stroke, renal
+insufficiency, pulmonary disease)
+• Determine patient's functional capacity
+• Document all current medications, allergies, tobacco use, and physical exercise habits.
+On physical exam, patients with severe aortic stenosis, elevated jugular venous pressure, pulmonary edema,
+and/or third heart sound are at high surgical risk.
+Functional capacity assessment
+The functional capacity of the patient to perform common daily activities has been shown to correlate
+well with maximum oxygen uptake by treadmill testing.[6] On assessment, patients with <4 metabolic
+equivalents (METS) are considered to have poor functional capacity and are at relatively high risk of a
+perioperative event, while patients with >10 METS have excellent functional capacity and are at very low risk
+of perioperative events, even if they have known coronary artery disease. Patients with a functional capacity
+of 4 to 10 METS are considered to have fair functional capacity and are generally considered at low risk of
+perioperative events.
+1 MET
+• Eat, dress, use the toilet
+• Walk indoors around the house
+• Walk on level ground at 2 mph (3.2 km/hour)
+• Perform light housework such as washing dishes.
+4 METs
+• Climb a flight of stairs (usually 18-21 steps)
+• Walk on level ground at 4 mph (6.4 km/hour)
+• Run short distances
+• Perform vacuuming or lift heavy furniture
+• Play golf or doubles tennis.
+>10 METs
+• Swimming
+• Singles tennis
+• Basketball
+• Skiing.
+Cardiac risk stratification using clinical predictors
+and risk models
+The presence of ≥1 of the following active cardiac conditions is considered high risk, mandates intensive
+management, and may result in delay or cancellation of surgery unless the surgery is urgent.[6]
+• Unstable coronary syndromes
+◊ Unstable or severe angina
+◊ Recent myocardial infarction (MI)
+• Decompensated heart failure
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Preoperative cardiac risk assessment Contents
+CONTENTS
+• Significant arrhythmias
+◊ Mobitz II atrioventricular block
+◊ Third-degree atrioventricular block
+◊ Symptomatic ventricular arrhythmias
+◊ Supraventricular arrhythmias (including atrial fibrillation) with uncontrolled ventricular rate (heart
+rate >100 bpm at rest)
+◊ Symptomatic bradycardia
+◊ Newly recognized ventricular tachycardia.
+• Severe valvular disease
+◊ Severe aortic stenosis (mean pressure gradient >40 mmHg, aortic valve area <1.0 cm², or
+symptomatic)
+◊ Symptomatic mitral stenosis (progressive dyspnea on exertion, exertional presyncope, or heart
+failure).
+Patients are considered at intermediate risk if there are no active cardiac conditions as defined above, but the
+patient has 1 or more of the following clinical risk factors:[6]
+• History of heart disease
+• History of compensated or prior heart failure
+• History of cerebrovascular disease
+• Diabetes mellitus
+• Renal insufficiency.
+Patients are considered at low risk if the active cardiac conditions and clinical risk factors defined above are
+absent.[6]
+Diagnostic tests can be used to refine the risk assessment. Some allow for risk stratification to be
+reassessed based on the test results (e.g., stress testing).
+Revised cardiac risk index (RCRI):
+The revised cardiac risk index uses 6 variables to predict perioperative cardiovascular risk:[10]
+• High-risk surgery (intrathoracic, intra-abdominal, or suprainguinal vascular)
+• Ischemic heart disease (defined as a history of MI, pathologic Q waves on the ECG, use of nitrates,
+abnormal stress test, or chest pain secondary to ischemic causes)
+• Presence of congestive heart failure
+• History of cerebrovascular disease
+• Diabetes mellitus requiring insulin therapy
+• Preoperative serum creatinine level higher than 2 mg/dL.
+Each of the 6 risk variables are assigned 1 point. Patients with 0, 1, or 2 risk factor(s) are assigned to RCRI
+classes I, II, and III, respectively. Patients with 3 or more risk factors are class IV and considered at high risk.
+Each class translates into 0.4% (class I), 0.9% (class II), 6.6% (class III), and 11% (class IV) risk for major
+cardiac events. Overall, the RCRI performs well in stratifying patients at low compared with high risk for all
+types of noncardiac surgery, but appears less accurate in patients undergoing vascular surgery.
+Vascular Study Group of New England cardiac risk index (VSG-CRI):
+The VSG-CRIVSGNE risk index was developed specifically for patients undergoing vascular surgery and
+applies to carotid endarterectomy, lower extremity bypass, and endovascular and open repair of nonruptured
+abdominal aortic aneurysms.[11] The independent predictors of adverse cardiac events (MI, arrhythmia, and
+heart failure, but not mortality) were increasing age, smoking, insulin-dependent diabetes mellitus, coronary
+artery disease, coronary heart failure, abnormal cardiac stress test, long-term beta-blocker therapy, chronic
+obstructive pulmonary disease, and creatinine ≥1.8 mg/dL. Prior cardiac revascularization was protective.
+The VSG-CRI predicted increasing levels of risk for cardiac events, ranging from 2.6% for the lowest risk
+scores (0-3) up to 14.3% for the highest risk score (7-8). This risk index performs better than RCRI for those
+undergoing vascular surgery.[11]
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Preoperative cardiac risk assessment Contents
+Risk stratification according to type of noncardiac
+surgery
+High-risk surgery
+• Emergency major operations, particularly in older people (>70 years)
+• Aortic or peripheral vascular
+• Extensive operations with large volume shifts.
+Intermediate-risk surgery
+• Intraperitoneal or intrathoracic
+• Carotid endarterectomy
+• Head and neck
+• Orthopedic
+• Prostate.
+Low-risk surgery
+• Endoscopic procedures
+• Superficial biopsy
+• Cataract
+• Breast.
+Diagnostic tests
+Patients at risk of an adverse perioperative cardiac event can typically be identified following history and
+examination. Patients at low risk generally require no additional testing before noncardiac surgery. However,
+those with intermediate or high risk undergoing elective noncardiac surgery may require additional testing.
+1. Preoperative resting 12-lead ECG
+• Not indicated in asymptomatic persons undergoing low-risk surgical procedures (unless the patient
+has a family history of genetic cardiomyopathy).
+• Recommended for patients with:
+◊ At least 1 clinical risk factor and undergoing vascular surgical procedures (clinical risk factors
+include history of ischemic heart disease, compensated or prior heart failure, cerebrovascular
+disease, diabetes mellitus, renal insufficiency).
+◊ Known coronary heart disease, peripheral arterial disease, or cerebrovascular disease, who are
+undergoing intermediate-risk surgical procedures.[6]
+◊ A family history of genetic cardiomyopathy undergoing any noncardiac surgery, regardless of
+age or symptoms.[5]
+2. Biomarkers
+• Brain natriuretic peptide or N-terminal pro-brain natriuretic peptide (BNP/NT-proBNP)
+◊ BNP appears to be independently predictive for major adverse cardiac events following elective
+vascular surgery.[12]
+◊ Use of BNP to predict cardiovascular events in the first 30 days after vascular surgery can
+significantly improve the predictive performance of the revised cardiac risk index.[13]
+◊ Indicated in patients with cardiovascular disease, cardiovascular risk factors (including age ≥65
+years), or symptoms suggestive of cardiovascular disease, before intermediate- or high-risk
+noncardiac surgery.[5]
+• High-sensitivity cardiac troponin T/I (hs-cTn T/I)
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Preoperative cardiac risk assessment Contents
+CONTENTS
+◊ Can be used to rule out myocardial ischemia prior to noncardiac surgery, and as part of
+surveillance after surgery.[5]
+◊ Indicated in patients with cardiovascular disease, cardiovascular risk factors (including age ≥65
+years), or symptoms suggestive of cardiovascular disease, before intermediate- or high-risk
+noncardiac surgery.[5]
+3. Echocardiography or nuclear testing
+• Preoperative noninvasive evaluation of left ventricular (LV) function with echocardiography or nuclear
+testing is reasonable or recommended for patients with:[6]
+◊ Dyspnea of unknown origin.
+◊ Current or prior heart failure with worsening dyspnea or other change in clinical status if LV
+function has not been evaluated within 12 months.
+• Other indications for transthoracic echocardiography (TTE):
+◊ Recommended for patients with poor functional capacity and/or high NT-proBNP/BNP.
+◊ Recommended for patients with murmurs detected prior to high-risk noncardiac surgery.
+◊ Before high-risk noncardiac surgery, also consider TTE for patients with suspected new
+cardiovascular disease or unexplained signs or symptoms.
+◊ Before intermediate-risk noncardiac surgery, consider for patients with poor functional capacity,
+abnormal ECG, high NT-proBNP/BNP, or ≥1 clinical risk factor.
+◊ Family history of genetic cardiomyopathy.
+• A focused cardiac ultrasound (FOCUS) exam may be considered as an alternative to TTE to avoid
+delaying surgery.[5]
+• Routine perioperative evaluation of LV function is not recommended.[5] [6]
+4. Stress testing
+• Useful to detect myocardial ischemia and functional capacity.
+• Indicated in patients with active cardiac conditions (e.g., unstable angina, decompensated heart
+failure, or severe valvular heart disease) who typically need further evaluation.
+• Reasonable for patients with ≥3 clinical predictors of cardiac risk and poor functional capacity (<4
+metabolic equivalents [METs]) who require vascular surgery, if the test will change the patient's
+management.
+• Not useful for patients undergoing low-risk noncardiac surgery.
+5. Coronary angiography
+• Indicated in patients with:
+◊ Evidence of high cardiac risk, based on noninvasive testing
+◊ Angina unresponsive to adequate medical therapy or unstable angina
+◊ Proposed intermediate-risk or high-risk noncardiac surgery after equivocal noninvasive test
+results.
+• Contraindicated in patients with stable angina.[9] [14]
+Cardiac risk stratification using stress testing
+1. Exercise ECG
+• Provides an estimate of functional capacity, detects myocardial ischemia, and assesses hemodynamic
+performance during stress. Exercise ECG is the preferred choice when noninvasive testing is indicated
+and the patient can walk.
+• Perioperative risk stratification based on exercise ECG:
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Preoperative cardiac risk assessment Contents
+◊ Low risk: ability to exercise moderately (4-5 METs) without symptoms; patients who can achieve
+>75% of maximum predicted heart rate without ECG changes.
+◊ Intermediate risk: patients with abnormal ECG response at >75% of predicted heart rate.
+◊ High risk: patients with abnormal ECG response at <75% of predicted heart rate.
+2. Stress imaging
+• Indicated in patients with abnormal baseline ECG (e.g., left ventricular hypertrophy [LVH], digitalis
+effect, left bundle branch block). Pharmacologic perfusion imaging is indicated in patients undergoing
+orthopedic, neurosurgical. or vascular surgery and who are unable to exercise, or who have left bundle
+branch block or have a pacemaker.
+◊ Dipyridamole is contraindicated in patients treated with theophylline and patients with severe
+obstructive lung disease or critical carotid stenosis.
+◊ Dobutamine stress echocardiography is comparable to dipyridamole thallium testing as a
+preoperative evaluation tool, but it should be avoided in patients with severe hypertension,
+significant arrhythmias, or poor echocardiographic images.
+Perioperative risk stratification based on stress imaging:
+• More than 4 myocardial segments of redistribution indicates significant risk for perioperative events.
+• Redistribution in 3 coronary artery territories and reversible left ventricular cavity dilation indicates
+higher risk of events.
+• Total area of ischemia is more predictive than severity of ischemia in a given segment.
+ACS NSQIP universal surgical risk calculator
+A surgical risk calculator has been developed by the American College of Surgeons National Surgical
+Quality Improvement Program (ACS NSQIP) using 21 preoperative factors.[15] These factors include 20
+patient characteristics (age, sex, functional class, emergency case, American Society of Anaesthesiologists
+[ASA] class, corticosteroid use, presence of ascites within 30 days, systemic sepsis, ventilator dependence,
+presence of disseminated cancer, diabetes mellitus, hypertension, heart failure within 30 days, presence of
+dyspnea, current smoking status, history of severe COPD, need for dialysis, presence of acute renal failure,
+height, and weight) and type of procedure. This model had excellent performance for mortality (c-statistic =
+0.944; Brier score = 0.011 [where scores approaching 0 are better]), morbidity (c-statistic = 0.816; Brier score
+= 0.069), and 6 additional complications (c-statistics >0.8).[15] The ACS NSQIP surgical risk calculator offers
+surgeons the ability to quickly and easily estimate important, patient-specific postoperative risks and present
+the information in a patient-friendly format.
+Perioperative therapy
+Perioperative therapy includes:
+• Preoperative revascularization with coronary artery bypass grafting or percutaneous coronary
+intervention
+• Beta-blockers
+• Statins.
+Alpha-2 agonists are not recommended for perioperative cardiac risk reduction.[16] In one blinded,
+randomized trial comparing low-dose clonidine with placebo in 10,010 people with, or at risk of,
+atherosclerotic disease who were undergoing noncardiac surgery, clonidine did not reduce the rate of
+the composite outcome of death or nonfatal myocardial infarction.[17] In addition, clonidine was found to
+increase the risk of clinically important hypotension and nonfatal cardiac arrest.
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Preoperative cardiac risk assessment Contents
+CONTENTS
+Preoperative revascularization with coronary
+artery bypass grafting or percutaneous coronary
+intervention
+Angiography and revascularization before noncardiac surgery[6]
+• Indicated in patients with stable angina who have significant left main coronary artery stenosis; 3-
+vessel disease (survival benefit is greater when left ventricular ejection fraction <0.50); or 2-vessel
+disease with significant proximal left anterior descending stenosis and either an ejection fraction <0.50
+or a demonstrable ischemia on noninvasive evaluation.
+• Recommended in patients with unstable angina or non-ST-segment elevation myocardial infarction
+(MI), or with acute ST-elevation MI.
+• Not routinely indicated in patients with stable coronary artery disease (CAD). Several randomized
+trials have shown that preoperative coronary artery revascularization before elective major vascular
+surgery does not alter the long-term outcome in patients with stable CAD. Furthermore, preoperative
+percutaneous coronary intervention did not reduce the risk of death, MI, or other major cardiovascular
+events when added to optimal medical therapy.[9] [14]
+A coronary stent is used in most percutaneous revascularization procedures. In this case, further delay
+in noncardiac surgery may be beneficial. Elective noncardiac surgery is not recommended within 4 to 6
+weeks of bare metal coronary stent implantation or within 6 to 12 months of drug-eluting coronary stent
+implantation; or in patients who will need to discontinue P2Y12 inhibitor therapy (e.g., clopidogrel, prasugrel,
+ticagrelor) or aspirin and thienopyridine therapy perioperatively.[6] The incremental risk of noncardiac
+surgery on adverse cardiac events among post-stent patients is highest in the initial 6 months following stent
+implantation and stabilizes at 1.0% after 6 months. Elective, high-risk, inpatient surgery, and patients with a
+drug-eluting stent, may benefit most from a 6-month delay after stent placement.[18]
+Beta-blockers
+The perioperative use of beta-blocker therapy during noncardiac surgery may be beneficial in reducing
+ischemia, risk of myocardial infarction (MI), and death in patients with known coronary artery disease.[6] [19]
+Beta-blocker therapy
+• Should be continued in patients being treated for angina, symptomatic arrhythmias, hypertension,
+or other American College of Cardiology/American Heart Association (ACC/AHA) class I guideline
+indications.
+• In patients with intermediate- or high-risk myocardial ischemia noted in preoperative risk stratification
+tests, it may be reasonable to begin perioperative beta-blockers.
+• Routinely giving high-dose beta-blockers in the absence of dose titration is not useful and may be
+harmful to patients not taking beta-blockers who are undergoing noncardiac surgery.
+• In patients in whom beta-blocker therapy is initiated, it may be reasonable to begin perioperative beta-
+blockers long enough in advance to assess safety and tolerability, preferably 2 or more days (up to 30
+days) before surgery. Beta-blocker therapy should not be started on the day of surgery.
+Therapy can be started with metoprolol 25 mg orally given twice daily, and increased to maintain the heart
+rate <60 bpm, or bisoprolol 5 to 10 mg orally once daily. It should be started 2 to 30 days before elective
+surgery and continued for 48 hours to 7 days after surgery.
+Perioperative extended-release metoprolol has been shown to reduce the risk of MI, cardiac
+revascularization, and clinically significant atrial fibrillation 30 days after randomization, compared with
+placebo. However, available evidence suggests that the use of beta-blockers in patients with, or at risk
+of, atherosclerotic disease may result in significant excess risk of death, stroke, and clinically significant
+hypotension and bradycardia. Caution is therefore recommended with the routine use of beta-blockers.[5]
+[19] [20]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Preoperative cardiac risk assessment Contents
+Statins
+• The available evidence suggests a protective effect of perioperative statin use on cardiac
+complications during noncardiac surgery. Statin therapy results in a 44% reduction in mortality after
+noncardiac surgery.[21]
+• Therapy should be continued in patients treated with statins who are scheduled for noncardiac
+surgery.
+• Statin therapy is reasonable in patients undergoing vascular surgery regardless of the cardiac risk. For
+patients not on statin therapy who are undergoing urgent or emergent major vascular surgery, statins
+should be initiated before surgery if possible.[6] However, the European Society of Cardiology (ESC)
+only recommends perioperative statins for patients with an existing indication for statins due to unclear
+evidence for their routine use.[5]
+Surveillance
+For perioperative myocardial ischemia
+• Intraoperative and postoperative ST-segment monitoring can be useful to monitor patients with known
+coronary artery disease or those undergoing vascular surgery.
+For perioperative myocardial infarction:
+• Postoperative troponin measurement is recommended in patients with ECG changes, or with chest
+pain typical of acute coronary syndrome.[6]
+• The ESC recommends surveillance with high-sensitivity cardiac troponin T/I (hs-cTn T/I) in patients
+with cardiovascular disease, cardiovascular risk factors (including age ≥65 years), or symptoms
+suggestive of cardiovascular disease undergoing intermediate- or high-risk noncardiac surgery. Hs-
+cTn T/I should be measured before surgery and at 24 hours and 48 hours after surgery.[5]
+Special circumstances
+Symptomatic aortic stenosis
+• Severe aortic stenosis poses a significant risk for noncardiac surgery. Guidelines suggest that elective
+noncardiac surgery should generally be postponed or cancelled in such patients.[6]
+• Patients require aortic valve replacement before elective but necessary noncardiac surgery.
+Asymptomatic aortic stenosis
+• If the aortic stenosis is severe but asymptomatic, the surgery should preferably be postponed or
+cancelled if the valve has not been evaluated within the previous year.
+• In patients who refuse cardiac surgery, or who are otherwise not candidates for aortic valve
+replacement, noncardiac surgery has a mortality risk of approximately 10%. If a patient is not a
+candidate for valve replacement, percutaneous balloon aortic valvuloplasty may be reasonable as a
+bridge to surgery: in hemodynamically unstable adult patients with aortic stenosis, who are at high
+risk for aortic valve replacement surgery; and adult patients with aortic stenosis in whom aortic valve
+replacement cannot be performed because of serious comorbid conditions. Percutaneous valve
+replacement is available as a therapeutic modality.
+Pulmonary hypertension
+• Guidelines recommend assessing patients for intermediate-risk and high-risk features of pulmonary
+hypertension that increase the risk of perioperative complications. Patients should be assessed by an
+anesthesiologist and an expert in pulmonary hypertension, where feasible.[22]
+Patients on psychotropic medications[23]
+• Antidepressant treatment for chronically depressed patients should not be discontinued prior to
+anesthesia.
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Preoperative cardiac risk assessment Contents
+CONTENTS
+• Patients chronically treated with a tricyclic antidepressant should undergo cardiac evaluation prior to
+anesthesia.
+• Irreversible monoamine oxidase inhibitors (MAOIs) should be discontinued at least 2 weeks prior
+to anesthesia. In order to avoid relapse of underlying disease, medication should be changed to a
+reversible MAOI.
+• The incidence of postoperative confusion is significantly higher in schizophrenic patients if medication
+is discontinued prior to surgery. Thus, antipsychotic medication should be continued perioperatively in
+patients with chronic schizophrenia.
+• Lithium administration should be stopped 72 hours before surgery. It can be restarted afterward if the
+patient has normal ranges of electrolytes, is hemodynamically stable, and is able to eat and drink.
+Preoperative assessment of older surgical patient[24]
+• Data from the National Hospital Discharge Survey demonstrate increasing hospital utilization by older
+people.[25] [26] Responding to the need for quality improvement in perioperative geriatric surgical
+care, the American College of Surgeons National Surgical Quality Improvement Program and the
+American Geriatrics Society formulated best practice guidelines to ensure optimal care of the geriatric
+surgical patient.[24] The guideline development panel prioritized a number of preoperative domains
+specific to older individuals (e.g., cognitive impairment, frailty, polypharmacy) and, additionally, issues
+commonly encountered in this population (e.g., risk of malnutrition, lack of family or social support).
+Consensus statements and evidence-based recommendations for improving the preoperative
+assessment of the geriatric surgical patient were summarized in a checklist:[24]
+◊ Perform a complete history and physical examination
+◊ Assess cognitive ability and capacity to understand the anticipated surgery
+◊ Screen for depression
+◊ Identify and document risk factors for developing postoperative delirium
+◊ Screen for alcohol and other substance abuse/dependence
+◊ Perform a preoperative cardiac evaluation according to the American College of Cardiology/
+American Heart Association algorithm for patients undergoing noncardiac surgery[6]
+◊ Identify risk factors for postoperative pulmonary complications and implement preventive
+strategies
+◊ Document functional status and history of falls
+◊ Determine baseline frailty score
+◊ Evaluate nutritional status and consider preoperative interventions if the patient is at severe
+nutritional risk
+◊ Document medication history and consider appropriate perioperative adjustments. Monitor for
+polypharmacy
+◊ Determine the patient's treatment goals and expectations in the context of the possible
+treatment outcomes
+◊ Determine the patient's family and social support system
+◊ Order appropriate preoperative diagnostic tests focused on older patients.
+American College of Cardiology/American Heart
+Association (ACC/AHA) guidelines synopsis
+Urgency of noncardiac surgery[6]
+• It is important to determine the urgency of noncardiac surgery. In many cases, patient- or surgery-
+specific factors dictate immediate surgery and may not allow for further cardiac assessment or
+treatment. Perioperative medical management, surveillance, and postoperative risk stratification is
+appropriate in these cases.
+Cardiac testing not required[6]
+• Patients with bypass surgery in the previous 5 years or percutaneous coronary intervention from
+6 months to 5 years previously, and no clinical evidence of ischemia, generally have low risk of
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Preoperative cardiac risk assessment Contents
+cardiac complications from surgery. They may proceed without further testing, particularly if they are
+functionally very active and asymptomatic.
+• Patients with favorable invasive/noninvasive testing in the previous 2 years generally require no further
+cardiac workup, if they have been asymptomatic since the test and are functionally active.
+Noninvasive cardiac testing[6]
+• Results of noninvasive testing can be used to define further management, including intensified
+medical therapy or the decision to proceed directly with surgery or cardiac catheterization. Cardiac
+catheterization may lead to coronary revascularization and is particularly justifiable when it is likely
+to improve the patient's long-term prognosis (e.g., in those with left main stem stenosis, or 3-vessel
+disease and impaired left ventricular function).
+• Poor functional capacity or a combination of high-risk surgery and moderate functional capacity, in
+a patient with intermediate clinical predictors of cardiac risk, may mean there are benefits to further
+noninvasive cardiac testing.
+• In highly functional asymptomatic patients, management will rarely be changed on the basis of results
+of any further cardiovascular testing. It is therefore appropriate to proceed with the planned surgery.
+Estimation of functional status is an important aspect of the guidelines.
+Risk of noncardiac surgery according to clinical predictors of cardiac risk, functional capacity, and type of
+surgery[6]
+• Patients with minor or no clinical predictors of cardiac risk and moderate or excellent functional
+capacity can safely undergo noncardiac surgery.
+• Patients with intermediate clinical predictors of cardiac risk and moderate or excellent functional
+capacity can generally undergo low- or intermediate-risk surgery with low event rates.
+• Patients with unstable coronary syndrome, decompensated heart failure, symptomatic arrhythmias, or
+severe valvular heart disease who are scheduled for elective noncardiac surgery should have surgery
+canceled or delayed until the cardiac problem is clarified and treated.
+• The type of surgery may itself identify a patient with a greater likelihood of underlying heart disease
+and higher perioperative morbidity and mortality. Perhaps the most extensively studied example is
+vascular surgery, in which underlying coronary and cerebrovascular disease is present in a substantial
+portion of patients. If the patient is undergoing vascular surgery, studies suggest that testing should be
+considered only if it will change management. Other types of surgery may be associated with similar
+risks to vascular surgery, but have not been studied extensively.
+• Routine coronary revascularization is not recommended before noncardiac surgery to reduce
+perioperative cardiac events.
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Preoperative cardiac risk assessment Contents
+CONTENTS
+Cardiac evaluation and care algorithm for noncardiac surgery
+Adapted from Fleisher LA, et al. J Am Coll Cardiol. 2014;64:e77-e137
+European Society of Cardiology (ESC) guideline
+synopsis
+The ESC recommends an accurate focused history, physical examination, and preoperative risk assessment
+for all patients. The urgency of the surgery and patient and surgery-related risk factors determine the
+extent of further preoperative testing.[5] If time allows, treatment of cardiovascular disease (CVD) and
+cardiovascular risk factors should be optimized before noncardiac surgery.
+Assess urgency of surgical procedure[5]
+• In urgent cases, patient- or surgery-specific factors dictate the strategy and do not allow further
+cardiac testing or treatment. In these cases, the attending physician provides recommendations
+on perioperative medical management, surveillance for cardiac events, and continuation of chronic
+cardiovascular medical therapy.
+• If the procedure is time-sensitive but not urgent, cardiac testing should be individualized with
+multidisciplinary consultation. If time allows, assess as per elective noncardiac surgery.
+Elective noncardiac surgery: patients aged <65 years with no CVD or cardiovascular risk factors[5]
+• If the procedure is low- or intermediate-risk, no further assessment is needed.
+• If the procedure is high-risk, consider ECG and biomarkers in patients aged >45 years.
+• Patients with a family history of genetic cardiomyopathy should be evaluated with an ECG and
+echocardiogram, regardless of symptoms or age.
+Elective noncardiac surgery: patients aged ≥65 years, or patients with cardiovascular risk factors or
+established CVD[5]
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Preoperative cardiac risk assessment Contents
+• If the procedure is low-risk, no further assessment is needed. Consider disease-specific
+recommendations in patients with established CVD.
+• If the procedure is intermediate- or high-risk, perform ECG and measure biomarkers. Consider
+assessing functional capacity.
+• In patients with established CVD undergoing a high-risk procedure, decision on whether to proceed
+with surgery should be made with following multidisciplinary consultation, including cardiology, taking
+into account individual patient goals and preferences. Noncardiac surgery should probably be avoided
+in patients with severe heart failure, cardiogenic shock, severe pulmonary hypertension, or severe
+frailty.
+Further assessment for patients with signs or symptoms suggestive of CVD[5]
+• Newly detected murmurs: perform echocardiogram in patients with murmur suggestive of significant
+pathology prior to high-risk noncardiac surgery, regardless of symptoms, and prior to any noncardiac
+surgery in a patient with murmur and symptoms of CVD.
+• Chest pain: further diagnostic workup is recommended prior to elective noncardiac surgery for patients
+with chest pain or other symptoms suggestive of coronary artery disease. If the patient needs acute
+surgery, multidisciplinary assessment is used to choose treatment with the lowest overall risk.
+• Unexplained dyspnea and/or peripheral edema: perform ECG and measure NT-proBNP/BNP before
+noncardiac surgery. If NT-proBNP/BNP is elevated, perform echocardiogram.
+• Management of new or pre-existing cardiovascular conditions should be individualized, taking into
+account the preoperative risk and recommendations of relevant specialty guidelines.
+Canadian Cardiovascular Society guidelines on
+perioperative cardiac risk assessment synopsis
+These guidelines make the following recommendations for people ≥45 years of age (or adults 18 to 44 years
+of age with known significant cardiovascular disease) undergoing noncardiac surgery:
+• Not delaying surgery for a preoperative cardiac risk assessment in patients who require emergency
+surgery.[27]
+• Undertaking preoperative cardiac risk assessment only if the patients' history or physical examination
+suggests there is a potential undiagnosed severe obstructive intracardiac abnormality, severe
+pulmonary hypertension, or an unstable cardiovascular condition in those requiring urgent or semi-
+urgent surgery.[27]
+• Preoperative cardiac risk assessment in patients who undergoing elective noncardiac surgery.[27]
+• Measuring N-terminal pro-brain natriuretic peptide (NT-proBNP) or BNP before noncardiac surgery to
+enhance perioperative cardiac risk estimation in patients ages 65 years or older, are 45 to 64 years
+of age with significant cardiovascular disease, or have an Revised Cardiac Risk Index (RCRI) score ≥
+1.[27]
+• Withholding ACE inhibitor/angiotensin receptor blockers (ARBs) starting 24 hours before noncardiac
+surgery in patients treated chronically with an ACE inhibitor/ARB.[27]
+In addition, these guidelines recommend against:
+• Performing preoperative resting echocardiography, preoperative coronary computed tomography
+angiography, or preoperative exercise stress to enhance perioperative cardiac risk estimation.[27]
+• The continuation of aspirin to prevent perioperative cardiac events, except in patients with a recent
+coronary artery stent and patients undergoing carotid endarterectomy.[27]
+• Beta-blocker initiation within 24 hours before noncardiac surgery, which is consistent with other
+national guidelines.[27]
+• Preoperative prophylactic coronary revascularization for patients with stable coronary artery disease
+who undergo noncardiac surgery.[27]
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Preoperative cardiac risk assessment Contents
+CONTENTS
+Preoperative risk assessment and postoperative monitoring flow diagram. If suspected undiagnosed
+severe obstructive intracardiac abnormality or severe PHTN a preoperative echocardiogram is
+recommended. If possible unstable cardiac condition (e.g., unstable angina) then risks and benefits
+of delaying, canceling, or proceeding with surgery need to be discussed with the patient. RCRI
+score (each worth 1 point): history of coronary artery disease, cerebrovascular disease, congestive
+heart failure, preoperative insulin use, preoperative creatinine > 177 micromoles/L, and high-risk
+surgery (i.e., intraperitoneal, intrathoracic, or suprainguinal vascular surgery). BNP, brain natriuretic
+peptide; ECG, electrocardiogram; NT-proBNP, N-terminal pro-brain natriuretic peptide; PACU,
+postanesthesia care unit; PHTN, pulmonary hypertension; RCRI, Revised Cardiac Risk Index
+Adapted from Duceppe E, et al. Can J Cardiol. 2017;33(1):17-32
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Preoperative cardiac risk assessment References
+Key articles
+• Halvorsen S, Mehilli J, Cassese S, et al. 2022 ESC guidelines on cardiovascular assessment and
+management of patients undergoing non-cardiac surgery. Eur Heart J. 2022 Oct 14;43(39):3826-924. 
+Full text (https://www.doi.org/10.1093/eurheartj/ehac270)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36017553?tool=bestpractice.bmj.com)
+• Fleisher LA, Fleischmann KE, Auerbach AD, et al. 2014 ACC/AHA guideline on perioperative
+cardiovascular evaluation and management of patients undergoing noncardiac surgery: a report of the
+American College of Cardiology/American Heart Association Task Force on practice guidelines. J Am
+Coll Cardiol. 2014;64:e77-e137.  Full text (http://circ.ahajournals.org/content/130/24/e278.full.pdf+html)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25091544?tool=bestpractice.bmj.com)
+• Duceppe E, Parlow J, MacDonald P, et al. Canadian Cardiovascular Society guidelines on
+perioperative cardiac risk assessment and management for patients who undergo noncardiac surgery.
+Can J Cardiol. 2017 Jan;33(1):17-32.  Full text (https://www.doi.org/10.1016/j.cjca.2016.09.008)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27865641?tool=bestpractice.bmj.com)
+References
+1. Gregoratos G. Current guideline-based preoperative evaluation provides the best management
+of patients undergoing noncardiac surgery. Circulation. 2008;117:3134-3144.  Full text (http://
+circ.ahajournals.org/content/117/24/3134.full.pdf+html)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18559713?tool=bestpractice.bmj.com)
+2. National Center for Health Statistics. Vital statistics of the United States: 1988, 3. DHHS pub no (PHS)
+89-1232. Washington, DC: NCHS US Public Health Services; 1989:10-17,66,67,100,101.
+3. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines. Circulation. 2019 Apr 2;139(14):e698-800. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000603)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30586767?tool=bestpractice.bmj.com)
+4. Nasr VG, Markham LW, Clay M, et al. Perioperative considerations for pediatric patients with
+congenital heart disease presenting for noncardiac procedures: a scientific statement from the
+American Heart Association. Circ Cardiovasc Qual Outcomes. 2023 Jan;16(1):e000113.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/HCQ.0000000000000113)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36519439?tool=bestpractice.bmj.com)
+5. Halvorsen S, Mehilli J, Cassese S, et al. 2022 ESC guidelines on cardiovascular assessment and
+management of patients undergoing non-cardiac surgery. Eur Heart J. 2022 Oct 14;43(39):3826-924. 
+Full text (https://www.doi.org/10.1093/eurheartj/ehac270)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36017553?tool=bestpractice.bmj.com)
+6. Fleisher LA, Fleischmann KE, Auerbach AD, et al. 2014 ACC/AHA guideline on perioperative
+cardiovascular evaluation and management of patients undergoing noncardiac surgery: a report of the
+American College of Cardiology/American Heart Association Task Force on practice guidelines. J Am
+Coll Cardiol. 2014;64:e77-e137.  Full text (http://circ.ahajournals.org/content/130/24/e278.full.pdf+html)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25091544?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Preoperative cardiac risk assessment References
+REFERENCES
+7. Anderson JL, Antman EM, Harold JG, et al. Clinical practice guidelines on perioperative cardiovascular
+evaluation: collaborative efforts among the collaborative efforts among the ACC, AHA, and ESC.
+Circulation. 2014;130:2213-2214.  Full text (http://circ.ahajournals.org/content/130/24/2213)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/25085963?tool=bestpractice.bmj.com)
+8. Mukherjee D, Eagle KA. Perioperative cardiac assessment for noncardiac surgery: eight steps to
+the best possible outcome. Circulation. 2003;107:2771-2774.  Full text (http://circ.ahajournals.org/
+cgi/reprint/107/22/2771.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12796413?
+tool=bestpractice.bmj.com)
+9. McFalls EO, Ward HB, Moritz TE, et al. Coronary-artery revascularization before elective
+major vascular surgery. N Engl J Med. 2004;351:2795-2804.  Full text (http://www.nejm.org/
+doi/pdf/10.1056/NEJMoa041905)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15625331?
+tool=bestpractice.bmj.com)
+10. Lee TH, Marcantonio ER, Mangione CM, et al. Derivation and prospective validation of a simple index
+for prediction of cardiac risk of major noncardiac surgery. Circulation 1999; 100:1043–1049  Full
+text (http://circ.ahajournals.org/content/100/10/1043.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10477528?tool=bestpractice.bmj.com)
+11. Bertges DJ, Goodney PP, Zhao Y et al. The Vascular Study Group of New England Cardiac Risk Index
+(VSG-CRI) predicts cardiac complications more accurately than the Revised Cardiac Risk Index in
+vascular surgery patients. J Vasc Surg. 2010; 52(3):674.  Full text (http://www.sciencedirect.com/
+science/article/pii/S0741521410007743?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20570467?tool=bestpractice.bmj.com)
+12. Biccard BM, Naidoo P, de Vasconcellos K. What is the best pre-operative risk stratification tool
+for major adverse cardiac events following elective vascular surgery? A prospective observational
+cohort study evaluating pre-operative myocardial ischaemia monitoring and biomarker analysis.
+Anaesthesia. 2012;67:389-395. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22324824?
+tool=bestpractice.bmj.com)
+13. Rodseth RN, Lurati Buse GA, Bolliger D, et al. The predictive ability of pre-operative B-type natriuretic
+peptide in vascular patients for major adverse cardiac events: an individual patient data meta-analysis.
+J Am Coll Cardiol. 2011;58:522-529. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21777751?
+tool=bestpractice.bmj.com)
+14. Boden WE, O'Rourke RA, Teo KK, et al; COURAGE Trial Research Group. Optimal medical
+therapy with or without PCI for stable coronary disease. N Engl J Med. 2007;356:1503-16.  Full
+text (http://www.nejm.org/doi/pdf/10.1056/NEJMoa070829)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17387127?tool=bestpractice.bmj.com)
+15. Bilimoria KY, Liu Y, Paruch JL, et al. Development and evaluation of the universal ACS NSQIP surgical
+risk calculator: a decision aid and informed consent tool for patients and surgeons. J Am Coll Surg.
+2013;217:833-842.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3805776)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24055383?tool=bestpractice.bmj.com)
+16. Duncan D, Sankar A, Beattie WS, et al. Alpha-2 adrenergic agonists for the prevention of cardiac
+complications among adults undergoing surgery. Cochrane Database Syst Rev. 2018 Mar
+6;3:CD004126.  Full text (http://cochranelibrary-wiley.com/doi/10.1002/14651858.CD004126.pub3/full) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29509957?tool=bestpractice.bmj.com)
+17. Devereaux PJ, Sessler DI, Leslie K, et al. Clonidine in patients undergoing noncardiac surgery.
+N Engl J Med. 2014;370:1504-1513. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24679061?
+tool=bestpractice.bmj.com)
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Preoperative cardiac risk assessment References
+18. Holcomb CN, Graham LA, Richman JS, et al. The incremental risk of noncardiac surgery on adverse
+cardiac events following coronary stenting. J Am Coll Cardiol. 2014;64:2730-2739. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25541124?tool=bestpractice.bmj.com)
+19. Wijeysundera DN, Duncan D, Nkonde-Price C, et al. Perioperative beta blockade in noncardiac
+surgery: a systematic review for the 2014 ACC/AHA guideline on perioperative cardiovascular
+evaluation and management of patients undergoing noncardiac surgery: a report of the American
+College of Cardiology/American Heart Association Task Force on Practice Guidelines. Circulation.
+2014;130:2246-2264.  Full text (http://circ.ahajournals.org/content/130/24/2246.full.pdf+html)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/25085964?tool=bestpractice.bmj.com)
+20. POISE Study Group, Devereaux PJ, Yang H, et al. Effects of extended-release metoprolol
+succinate in patients undergoing non-cardiac surgery (POISE trial): a randomized controlled
+trial. Lancet. 2008;371:1839-1847. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18479744?
+tool=bestpractice.bmj.com)
+21. Hindler K, Shaw AD, Samuels J, et al. Improved postoperative outcomes associated with preoperative
+statin therapy. Anesthesiology. 2006;105:1260-1272. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17122590?tool=bestpractice.bmj.com)
+22. Rajagopal S, Ruetzler K, Ghadimi K, et al. Evaluation and Management of Pulmonary Hypertension
+in Noncardiac Surgery: A Scientific Statement From the American Heart Association. Circulation.
+2023 Mar 16.  Full text (https://www.doi.org/10.1161/CIR.0000000000001136)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36924225?tool=bestpractice.bmj.com)
+23. De Hert S, Imberger G, Carlisle J, et al. Preoperative evaluation of the adult patient undergoing
+non-cardiac surgery: guidelines from the European Society of Anaesthesiology. Eur J
+Anaesthesiol. 2011;28:684-722. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21885981?
+tool=bestpractice.bmj.com)
+24. Chow WB, Rosenthal RA, Merkow RP, et al. Optimal preoperative assessment of the geriatric surgical
+patient: a best practices guideline from the American College of Surgeons National Surgical Quality
+Improvement Program and the American Geriatrics Society. J Am Coll Surg. 2012;215:453-466.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22917646?tool=bestpractice.bmj.com)
+25. DeFrances CJ, Lucas CA, Buie VC, et al. 2006 national hospital discharge survey. Natl
+Health Stat Report. 2008;(5):1-20. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18841653?
+tool=bestpractice.bmj.com)
+26. Hall MJ, DeFrances CJ, Williams SN, et al. National hospital discharge survey: 2007 summary. Natl
+Health Stat Report. 2010;(29):1-20, 24. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21086860?
+tool=bestpractice.bmj.com)
+27. Duceppe E, Parlow J, MacDonald P, et al. Canadian Cardiovascular Society guidelines on
+perioperative cardiac risk assessment and management for patients who undergo noncardiac surgery.
+Can J Cardiol. 2017 Jan;33(1):17-32.  Full text (https://www.doi.org/10.1016/j.cjca.2016.09.008)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27865641?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Preoperative cardiac risk assessment Images
+IMAGES
+Images
+Figure 1: Cardiac evaluation and care algorithm for noncardiac surgery
+Adapted from Fleisher LA, et al. J Am Coll Cardiol. 2014;64:e77-e137
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Preoperative cardiac risk assessment Images
+Figure 2: Preoperative risk assessment and postoperative monitoring flow diagram. If suspected undiagnosed
+severe obstructive intracardiac abnormality or severe PHTN a preoperative echocardiogram is recommended.
+If possible unstable cardiac condition (e.g., unstable angina) then risks and benefits of delaying, canceling,
+or proceeding with surgery need to be discussed with the patient. RCRI score (each worth 1 point): history
+of coronary artery disease, cerebrovascular disease, congestive heart failure, preoperative insulin use,
+preoperative creatinine > 177 micromoles/L, and high-risk surgery (i.e., intraperitoneal, intrathoracic, or
+suprainguinal vascular surgery). BNP, brain natriuretic peptide; ECG, electrocardiogram; NT-proBNP, N-
+terminal pro-brain natriuretic peptide; PACU, postanesthesia care unit; PHTN, pulmonary hypertension; RCRI,
+Revised Cardiac Risk Index
+Adapted from Duceppe E, et al. Can J Cardiol. 2017;33(1):17-32
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Preoperative cardiac risk assessment Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Preoperative cardiac risk assessment Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 19, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Contributors:
+// Authors:
+Debabrata Mukherjee, MD, FACC
+Chairman
+Department of Internal Medicine, Professor of Internal Medicine, Texas Tech University Health Sciences
+Center, El Paso, TX
+DISCLOSURES: DM declares that he has no competing interests.
+// Peer Reviewers:
+Martin Bocks, MD
+Clinical Lecturer
+University of Michigan Congenital Heart Center, Ann Arbor, MI
+DISCLOSURES: MB declares that he has no competing interests.
+Andrew Turley, MB ChB
+Cardiology Specialist Registrar
+The James Cook University Hospital, Middlesbrough, UK
+DISCLOSURES: AT declares that he has no competing interests.

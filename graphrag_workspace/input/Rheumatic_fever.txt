@@ -1,0 +1,2973 @@
+# Rheumatic fever
+
+=== Page 1 ===
+Rheumatic fever
+Straight to the point of care
+Last updated: Apr 10, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  5
+Classification  6
+Case history  6
+Diagnosis  8
+Approach  8
+History and exam  14
+Risk factors  18
+Tests  20
+Differentials  24
+Criteria  27
+Screening  29
+Management  30
+Approach  30
+Treatment algorithm overview  33
+Treatment algorithm  35
+Primary prevention  45
+Secondary prevention  45
+Patient discussions  46
+Follow up  48
+Monitoring  48
+Complications  48
+Prognosis  48
+Guidelines  50
+Diagnostic guidelines  50
+Treatment guidelines  51
+Online resources  52
+References  53
+Images  66
+Disclaimer  71
+=== Page 3 ===
+Rheumatic fever Overview
+Summary
+Acute rheumatic fever (ARF) continues to cause a large burden of mortality and morbidity in low- and middle-
+income countries. It is less common in high-income countries, but continues to be seen in indigenous
+communities and during outbreaks.
+Currently, no single test can diagnose ARF. Diagnosis is clinical and relies on the Jones criteria.
+The 5 major manifestations of ARF are carditis, arthritis, chorea, erythema marginatum, and subcutaneous
+nodules, of which the most common are carditis and arthritis.
+The Jones criteria were revised in 2015 to include separate criteria for low-risk and moderate- to high-risk
+populations and introduce the use of Doppler echocardiography to diagnose subclinical carditis.
+While all other manifestations of ARF resolve without sequelae, carditis can lead to chronic rheumatic heart
+disease (RHD).
+Secondary prophylaxis is thought to ameliorate the progression of ARF to chronic RHD, but even the mildest
+forms of carditis can result in chronic RHD and decreased survival.
+The prognosis of established rheumatic valvular disease remains guarded, especially with severe disease.
+Definition
+Acute rheumatic fever (ARF) is an autoimmune disease that mostly occurs following group A streptococcal
+throat infection, although there is growing evidence of ARF following skin infection in certain regions of the
+world. It can affect multiple systems, including the joints, heart, brain, and skin. Only the effects on the heart
+can lead to permanent illness; chronic changes to the heart valves are referred to as chronic rheumatic heart
+disease (RHD). Without long-term penicillin secondary prophylaxis, ARF can recur, leading to cumulative
+damage to the cardiac valvular tissue.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Rheumatic fever Theory
+THEORY
+Epidemiology
+Primary episodes of acute rheumatic fever (ARF) occur mainly in children aged 5 to 14 years and are rare in
+people over 30 years old.[4] Recurrent episodes remain relatively common in adolescents and young adults
+but uncommon in those over 35 years old.[1] Overall, it is estimated that in 2019, 40.5 million people were
+affected by rheumatic heart disease (RHD), accounting for 10.7 million disability-adjusted life years lost and
+leading to 306,000 deaths.[5] [6]
+Global prevalence and mortality rates. Source: data derived from Global Burden of Disease data 2010/2013.
+Zühlke, L.J., Beaton, A., Engel, M.E. et al. Group A streptococcus, acute
+rheumatic fever and rheumatic heart disease: epidemiology and clinical
+considerations. Curr Treat Options Cardio Med 19, 15 (2017). Used with permission.
+The greatest burden of ARF and RHD is in people in low- and middle-income countries and in populations
+of indigenous people living in poverty in high-income countries.[4] The highest prevalence and age-
+standardized mortality of RHD are in Oceania, South Asia, and central sub-Saharan Africa.[5] [6] There is no
+clear sex predilection for ARF, although RHD tends to be more common in females. ARF is most common in
+tropical countries with no seasonal variation. The highest rates of ARF have been documented in Aboriginal
+children in the Northern Territory of Australia and Pacific peoples, including those living in the US and New
+Zealand.[7] [8] However, data from Uganda describe a higher incidence of ARF in populations with co-
+existing malaria, suggesting under-recognition of ARF and the value of surveillance.[9]
+ARF was common in high-income countries including the US until the first half of the 20th century, when
+the incidence decreased because of improvements in living conditions and hygiene, which in turn led to
+decreased transmission of group A streptococci.[10] In the 1980s there was a resurgence of ARF in the
+intermountain regions of the US, thought to be related to the emergence of virulent group A streptococci
+belonging to M serotypes 1, 3, and 18.[11] [12] [13] In addition, changing patterns of antibiotic use, in
+particular the movement away from using antibiotics for treating group A streptococcal pharyngitis in
+countries with low rates of ARF, may also have affected the epidemiology of group A streptococcal diseases.
+However, overall the incidence of ARF in the US is unknown, as it is no longer a nationally notifiable
+disease.[14]
+Etiology
+Acute rheumatic fever (ARF) is an autoimmune disease. It is the result of group A streptococcal infection
+triggering an autoimmune response in a susceptible host.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Rheumatic fever Theory
+It is estimated that between 3% and 6% of any population may be susceptible to ARF and this proportion
+appears to be fairly consistent across different population groups around the world.[1] [15] Familial clustering
+has been reported and twin studies indicate high heritability.[16] [17]
+Expression of D8/17 antigen has been observed to be associated with ARF in a number of populations,
+including Australia, Israel, Russia, Mexico, and Chile.[18] [19] [20] However, this association is not universal
+and no such association has been found in the US.[21]
+Particular ethnic groups appear to be at higher risk of ARF than others. This is particularly evident in high-
+income countries, where indigenous populations experience dramatically higher rates of ARF compared with
+their non-indigenous counterparts, including Maori children in New Zealand, Aboriginal children in Australia,
+and Polynesian children in Hawaii.[22] [23] [24] [25] However, it remains unclear whether these associations
+are related to environmental factors or an underlying inherited susceptibility.
+Genome-wide association studies have identified genetic determinants of susceptibility to rheumatic heart
+disease, with novel loci identified in studies in Africa, Australia, and Oceania.[26] [27] [28] Studies are
+ongoing that may further identify target genes or interventions.
+Pathophysiology
+Although it is clear that acute rheumatic fever (ARF) is an autoimmune disease, the exact nature of the
+pathogenesis of ARF is still uncertain.
+It has previously been considered that ARF follows group A streptococcal pharyngitis but not pyoderma,
+although this has long been questioned.[29] Studies now show that group A streptococcus-positive throat or
+skin swab is strongly associated with subsequent ARF, suggesting that group A streptococcal skin infection
+can also trigger ARF.[30]
+The interaction between group A streptococci and a susceptible host leads to an autoimmune response
+directed against cardiac, synovial, subcutaneous, epidermal, and neuronal tissues.
+It is believed that both cross-reactive antibodies and cross-reactive T cells play a role in the disease.
+Molecular mimicry between group A  Streptococcus pyogenes  antigens and human host tissue is thought
+to be the basis of this cross-reactivity.[31] [32] Putative cross-reactive epitopes on  S pyogenes  include the
+M-protein and N-acetyl glucosamine. Monoclonal antibodies against these antigens cross-react with cardiac
+myosin and other alpha-helical cardiac proteins such as laminin, tropomyosin, keratin, and vimentin, as well
+as proteins in other target organs and tissues such as synovium, neuronal tissue, subcutaneous, and dermal
+tissues.
+It has been proposed that the carditis of ARF is initiated by cross-reactive antibodies that recognize the
+valve endothelium and laminin.[33] Vascular cell adhesion-molecule-1 is up-regulated at the valve and
+aids in recruitment and infiltration of these T cells. The T cells initiate a predominantly TH1 response with
+the release of beta-interferon. Inflammation leads to neovascularization, which allows further recruitment
+of T cells. It is believed that epitope spreading may occur in the valve whereby T cells respond against
+other cardiac tissues such as vimentin and tropomyosin, leading to granulomatous inflammation and the
+establishment of chronic rheumatic heart disease. Th17 cells (unique T helper cells) also appear to play an
+important role in the pathogenesis of ARF.[34]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Rheumatic fever Theory
+THEORY
+Rheumatic inflammation in the heart may affect the pericardium (often asymptomatic), the myocardium
+(rarely contributes to cardiac failure), or the endocardium and valvular tissue (the most commonly
+affected). Rheumatic granulomatous inflammation manifests in the myocardium as Aschoff bodies.[35]
+These may disrupt cardiac electrical conduction pathways leading to prolongation of the PR interval on
+electrocardiogram, and occasionally more advanced arrhythmias.
+Classification
+World Health Organization Expert Consultation: rheumatic fever
+and rheumatic heart disease, 2004[1]
+This commonly used schema classifies rheumatic fever into categories based on whether it is the first
+episode (primary), whether the patient has had an episode of rheumatic fever previously (recurrent), or
+whether the patient has established rheumatic heart disease (chronic rheumatic heart disease [RHD]).
+• Primary episode of acute rheumatic fever (ARF): a patient without a prior episode of rheumatic fever
+and without evidence of established RHD presents with a clinical illness that meets the requirements
+of the Jones criteria for diagnosis of ARF.
+• Recurrent episode of ARF: a patient who has had documented rheumatic fever in the past, but without
+evidence of established RHD, who presents with a new clinical illness that meets the requirements of
+the Jones criteria for diagnosis of ARF.
+• Recurrent episode of ARF in patients with RHD: a patient who has evidence of established RHD, who
+presents with a new clinical illness that meets the requirements of the Jones criteria for diagnosis of
+ARF.
+Note that the 2015 Jones criteria differ for low-risk and moderate- to high-risk populations. The criteria also
+allow for diagnosis of possible ARF (i.e., patients, generally in high-incidence settings, in whom the clinician
+is highly suspicious of the diagnosis of ARF, but who do not quite meet the Jones criteria, perhaps because
+full testing facilities are not available).[2] See Criteria .
+Case history
+Case history #1
+A 10-year-old Samoan girl presents with a 2-day history of fever and sore joints. Further questioning
+reveals that she had a sore throat 3 weeks ago but did not seek medical help at this time. Her current
+illness began with fever and a sore and swollen right knee that was very painful. The following day her
+knee improved but her left elbow became sore and swollen. While in the waiting room her left knee is now
+also becoming sore and swollen.
+Other presentations
+Patients, often females, may present with isolated chorea, following a latent period of up to 6 months
+after the initial group A streptococcal infection. The history may be of a child who becomes fidgety at
+school, followed by apparent clumsiness along with uncoordinated and erratic movements, often with
+an associated history of emotional lability and other personality changes. Choreiform movements can
+affect the whole body, or just one side of the body (hemi-chorea). The head is often involved, with erratic
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Rheumatic fever Theory
+movements of the face that resemble grimaces, grins, and frowns. The tongue, if affected, can resemble a
+"bag of worms" when protruded. In severe cases chorea may impair the ability to eat, write legibly, or walk
+unaided, leading to injury. Chorea disappears with sleep and is made more pronounced by purposeful
+movements. Recurrence of rheumatic chorea is common, often associated with intercurrent illness,
+stress, pregnancy, or oral contraception. Rheumatic heart disease is commonly associated with chorea.
+Mild cases may present with a murmur detected on medical examination; more severe cases may present
+in cardiac failure. Neuropsychiatric symptoms have also been associated with chorea.[3]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Rheumatic fever Diagnosis
+DIAGNOSIS
+Approach
+Acute rheumatic fever (ARF) is a clinical diagnosis and there is no single diagnostic test for the disease.
+While the most common presentation is fever and arthritis, careful consideration of all of the manifestations
+of ARF is required, along with consideration of alternative diagnoses for each manifestation.
+Diagnostic criteria for rheumatic fever have evolved since the publication of the original Jones criteria
+in 1944.[57] In the modern era, diagnostic criteria have evolved to be more sensitive in high-incidence
+rheumatic fever populations, and to acknowledge the role of echocardiography and a broader spectrum of
+joint manifestations.
+A useful guide to diagnosis can be found within the 2015 update of the Jones criteria, which outlines a
+diagnostic approach from 4 presenting symptoms/signs: chorea, arthritis, clinical carditis, and subcutaneous
+nodules/erythema marginatum.[2]
+Similarly useful algorithmic approaches are contained within guidelines published in Australia and New
+Zealand.  [Australian guideline for prevention, diagnosis and management of acute rheumatic fever and
+rheumatic heart disease] (https://www.rhdaustralia.org.au/arf-rhd-guideline)   [Heart Foundation of New
+Zealand: diagnosis, management and secondary prevention of acute rheumatic fever and rheumatic heart
+disease] (https://www.heartfoundation.org.nz/resources/acute-rheumatic-fever-and-rheumatic-heart-disease-
+guideline)
+Diagnosis of a primary episode: Jones criteria
+The diagnosis of ARF is made on the basis of identification of major and minor clinical manifestations of
+the disease as detailed by the Jones criteria. The latest revision of the Jones criteria, published in 2015,
+provides 2 separate sets of criteria: one for low-risk settings (i.e., those with a rheumatic fever incidence
+≤2 in 100,000 school-aged children or all-age rheumatic heart disease [RHD] prevalence ≤1 in 1000
+population per year) and one for moderate- to high-risk populations.[2]
+The diagnosis of a primary episode of ARF can be made if any of the following criteria are met.
+• Evidence of a recent group A streptococcal infection with at least 2 major manifestations or 1 major
+plus 2 minor manifestations present.
+• Rheumatic chorea: can be diagnosed without the presence of other features (which is described
+as "lone chorea") and without evidence of preceding streptococcal infection. It can occur up to 6
+months after the initial infection.
+• Chronic RHD: established mitral valve disease or mixed mitral/aortic valve disease, presenting for
+the first time (in the absence of any symptoms suggestive of ARF).
+The 2015 criteria also allow for the diagnosis of possible rheumatic fever. This category of diagnosis
+allows for the situation when a given clinical presentation may not fulfil the revised Jones criteria but the
+clinician may still have good reason to suspect the diagnosis.
+Major and minor manifestations
+Five manifestations are considered major manifestations of ARF:[2]
+• Carditis: includes carditis demonstrated only by echocardiogram (i.e., subclinical carditis).
+• Arthritis: polyarthritis (low-risk populations) or monoarthritis or polyarthritis or polyarthralgia
+(moderate- to high-risk populations).
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Rheumatic fever Diagnosis
+• Chorea.
+• Erythema marginatum: pink serpiginous rash with a well-defined edge. It begins as a macule and
+expands with central clearing. The rash may appear and then disappear before the examiner's
+eyes, leading to the descriptive term of patients having "smoke rings" beneath the skin.
+• Subcutaneous nodules.
+Four manifestations are considered minor manifestations of ARF:[2]
+• Fever: ≥101.3°F (≥38.5°C; low-risk populations) or ≥100.4°F (≥38.0°C; moderate- to high-risk
+populations).
+• Arthralgia: polyarthralgia (low-risk populations) or monoarthralgia (moderate- to high-risk
+populations).
+• Elevated inflammatory markers: erythrocyte sedimentation rate (ESR) ≥60 mm/hour and/or C-
+reactive protein (CRP) ≥3.0 mg/dL (low-risk populations) or ESR ≥30 mm/hour and/or CRP ≥3.0
+mg/dL (moderate- to high-risk populations).
+• Prolonged PR interval on electrocardiogram after accounting for age variability: a prolonged
+PR interval that resolves over 2 to 3 weeks may be a useful diagnostic feature in cases when
+clinical features are not definitive. First-degree heart block sometimes leads to a junctional rhythm.
+Second-degree and even complete block are less common but can occur. In a resurgence of ARF
+in the US, 32% of patients had abnormal atrioventricular conduction.
+It is important to note that, in a patient in whom arthritis is considered a major manifestation, arthralgia
+cannot be counted as a minor manifestation. In a patient in whom carditis is considered as a major
+manifestation, a prolonged PR interval cannot be counted as a minor manifestation. See Criteria .
+Carditis: clinical presentation
+Rheumatic carditis refers to the active inflammation of the myocardium, endocardium, and pericardium
+that occurs in rheumatic fever. While myocarditis and pericarditis may occur in rheumatic fever, the
+predominant manifestation of carditis is involvement of the endocardium presenting as a valvulitis,
+especially of the mitral and aortic valves. Carditis is diagnosed by the presence of a significant murmur, or
+the development of cardiac enlargement with unexplained cardiac failure, or the presence of a pericardial
+rub. In addition, evidence of valvulitis on echocardiogram (using published criteria) is now considered a
+manifestation of carditis.[2] [58]
+Mitral regurgitation is the most common clinical manifestation of carditis and can be heard as a
+pansystolic murmur loudest at the apex. Cardiac failure occurs in <10% of primary episodes of rheumatic
+fever.[59] [60] Shortness of breath may be related to cardiac failure. Pericarditis is uncommon in ARF,
+and when it occurs, is usually accompanied by significant valvulitis. Pericarditis should be suspected in
+patients with chest pain, diminished pulses, a pericardial rub on auscultation, or an enlarged heart on
+chest x-ray. Individuals with rheumatic carditis may experience palpitations in association with advanced
+heart block.
+Echocardiographic evidence in the absence of clinical findings of carditis (i.e., subclinical carditis) is now
+considered sufficient as a major manifestation of ARF. There are specific Doppler and morphological
+findings on echocardiography that must be met.[2]
+Recurrent carditis can be difficult to diagnose but is more likely if the first episode of rheumatic fever
+included carditis and the patient has not been receiving continuous penicillin secondary prophylaxis. It
+may be suspected by a new murmur, new signs of congestive heart failure, radiographic evidence of
+cardiac enlargement, or worsening echocardiographic changes.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Rheumatic fever Diagnosis
+DIAGNOSIS
+Joint involvement: clinical presentation
+Joint involvement occurs in upward of 75% of cases of primary rheumatic fever, and may be a major
+manifestation or a minor manifestation.[60] [61] The classic history of joint involvement in ARF is
+one of large joint migratory polyarthritis, which may be either migratory or additive. If the patient has
+monoarthritis and is suspected to have ARF, but does not meet the criteria for diagnosis, the patient
+should withhold from nonsteroidal anti-inflammatory drug (NSAID) treatment so that the appearance of
+migratory polyarthritis (a major manifestation) is not masked. The arthritis of ARF is very sensitive to
+salicylates such as aspirin (as well as other NSAIDs), and joint symptoms typically respond within several
+days of treatment with these anti-inflammatory drugs in ARF.
+Chorea: clinical presentation
+In 5% to 10% of patients, chorea features as part of the acute presentation.[60] [62] It may also occur
+as an isolated finding up to 6 months after the initial group A streptococcal infection. It is also known as
+Sydenham chorea (named after the physician who described St. Vitus Dance in the 17th century).
+The history may be of a child who becomes fidgety at school, followed by apparent clumsiness along
+with uncoordinated and erratic movements, often with an associated history of emotional lability and
+other personality changes. Choreiform movements can affect the whole body, or just one side of the body
+(hemichorea). The head is often involved with erratic movements of the face that resemble grimaces,
+grins, and frowns; and the tongue, if affected, can resemble a "bag of worms" when protruded, and
+protrusion cannot be maintained. In severe cases of chorea, this may impair the ability to eat, write, or
+walk, placing the person at risk of injury. Chorea disappears with sleep and is made more pronounced
+by purposeful movements. Typically, when asked to grip the physician's hand, the patient will be unable
+to maintain grip and rhythmical squeezing results. This is known as the milkmaid's sign. Other signs of
+chorea include spooning (flexion at the wrist with finger extension when the hand is extended) and the
+pronator sign (when the palms turn outwards when held above the head). Recurrence and fluctuations
+of rheumatic chorea are not uncommon, often associated with pregnancy, intercurrent illness, or the oral
+contraceptive pill.
+Investigations
+The diagnosis of rheumatic fever requires a series of investigations. The minimum set of investigations
+required for suspected ARF is:[63]
+• ESR, CRP, and white blood cell count: Australian data found that CRP and ESR were commonly
+elevated in patients with confirmed ARF (excluding chorea), whereas the leukocyte count usually
+was not elevated.[64] Therefore the authors do not recommend including white cell count in the
+diagnosis of rheumatic fever.
+• Blood cultures if febrile: helps to exclude other infectious causes, particularly bone and joint
+infection and infective endocarditis.
+• Electrocardiogram: to look for lengthening of the PR interval.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Rheumatic fever Diagnosis
+ECG showing heart block in acute rheumatic fever
+Aust N Z J Med. 1996 Apr;26(2):241-2; used with permission
+• Chest x-ray if clinical or echocardiographic evidence of carditis.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Rheumatic fever Diagnosis
+DIAGNOSIS
+Chest x-ray of biventricular heart failure due to acute carditis in rheumatic fever
+Lancet. 2006 Jun 24;367(9528):2118; used with permission
+• Echocardiogram: to look for evidence of acute carditis and/or RHD. The role of echocardiography
+in the diagnosis of ARF was once controversial;[65] [66] however, it is now accepted that
+echocardiography is more sensitive and specific than cardiac auscultation for the identification
+of rheumatic valvular disease.[67] [68] It is recommended that all patients with suspected ARF,
+with or without clinical evidence of carditis, should have an echocardiogram. If initially negative,
+it may be repeated after 2-4 weeks as carditis can evolve over several weeks and its presence or
+absence may have major implications for diagnosis and ongoing management. There are published
+morphological and Doppler findings that are typical of rheumatic fever (see below).[2] In addition,
+echocardiography is useful in grading severity of rheumatic carditis and differentiating congenital
+from acquired valvular pathology, and can be used to investigate suspected valve damage.
+• Throat culture: culture for group A  Streptococcus  (preferably prior to starting antibiotic therapy).
+Less than 10% of throat cultures are positive for group A streptococci, reflecting the post-infectious
+nature of the disease.[69] Group A streptococci have usually been eradicated before onset of the
+disease.
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Rheumatic fever Diagnosis
+• Anti-streptococcal serology: anti-streptolysin O and anti-DNase B titers. If the first test is not
+confirmatory, it should be repeated 10 to 14 days later. This is recommended in all cases of ARF, as
+throat cultures and rapid antigen tests are often negative.
+Normal values for antistreptolysin O (ASO) and anti-DNase B titers
+Table compiled by contributors.
+• Rapid antigen tests: for group A  Streptococcus  (if available). It is important to note that rapid
+antigen tests may have poorer positive and negative predictive value for group A streptococcal
+pharyngitis compared with throat culture. Their use depends on the epidemiologic context and rapid
+antigen tests may not be appropriate for use in high-incidence rheumatic fever populations when
+cultures can be performed.[70] [71] Rapid antigen tests need local sensitivity and specificity testing.
+• Rapid molecular tests: for group A  Streptococcus  (if available). Polymerase chain reaction (PCR)
+assays can be used at the point-of-care with sensitivity and specificity comparable to throat
+culture.[72] [73] [74] Use of molecular point-of-care testing has potential for wide application,
+especially in rural high-incidence settings.[75]
+Echocardiogram
+There are published morphological and Doppler findings that are typical of acute rheumatic carditis.[2]
+Doppler findings in rheumatic valvulitis
+• Pathological mitral regurgitation (all 4 criteria met):
+• Seen in at least two views
+• Jet length ≥2 cm in at least one view
+• Peak velocity >3 m/s
+• Pansystolic jet in at least one envelope.
+• Pathological aortic regurgitation (all 4 criteria met):
+• Seen in at least two views
+• Jet length ≥1 cm in at least one view
+• Peak velocity >3 m/s
+• Pan diastolic jet in at least one envelope.
+Morphological findings on echocardiogram in rheumatic valvulitis
+• Acute mitral valve changes
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Rheumatic fever Diagnosis
+DIAGNOSIS
+• Annular dilation
+• Chordal elongation
+• Chordal rupture resulting in flail leaflet with severe mitral regurgitation
+• Anterior (or less commonly posterior) leaflet tip prolapse
+• Beading/nodularity of leaflet tips.
+• Chronic mitral valve changes (not seen in acute carditis)
+• Leaflet thickening
+• Chordal thickening and fusion
+• Restricted leaflet motion
+• Calcification.
+• Aortic valve changes in either acute or chronic carditis
+• Irregular or focal leaflet thickening
+• Coaptation defect
+• Restricted leaflet motion
+• Leaflet prolapse.
+Diagnosing recurrent rheumatic fever
+Recurrence of rheumatic fever, with or without evidence of established RHD, requires the same criteria
+as a primary episode (i.e., 2 major manifestations, or 1 major plus 2 minor manifestations) or can be
+diagnosed with the presence of 3 minor manifestations. Diagnosis of recurrence requires evidence of a
+recent group A streptococcal infection. As with primary episodes, it is important that other diagnoses have
+been excluded.[1]
+Demonstrating antecedent group A streptococcal infection
+Evidence of antecedent group A streptococcal infection can be shown by demonstrating one of the
+following:
+• Elevated or rising streptococcal antibody titer
+• Positive throat culture
+• Positive rapid antigen test for group A streptococci (see comments above)
+• Recent scarlet fever.
+History and exam
+Key diagnostic factors
+fever (common)
+• Occurs in nearly all cases at the onset of the illness. Historically, most cases will have fever >102.2°F
+(>39°C), but many experts suggest that 100.4°F (38°C) measured orally, rectally, or tympanic is
+significant.
+• The Jones criteria also recognize fever as a minor manifestation of disease: ≥101.3°F (≥38.5°C; low-
+risk populations) or ≥100.4°F (≥38.0°C; moderate- to high-risk populations).[2]
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Rheumatic fever Diagnosis
+joint pain (common)
+• The pain is often extreme, and if the lower limbs are affected the patient often cannot walk. The most
+commonly affected joints are the knees, ankles, wrists, elbows, and hips. Typically asymmetrical and
+usually but not always migratory. A joint may be affected for a period of hours or a couple of days.
+• If the patient has monoarthritis and is suspected to have acute rheumatic fever (ARF), but does not
+meet the criteria for diagnosis, the patient should withhold from treatment with nonsteroidal anti-
+inflammatory drugs (NSAIDs) so that the appearance of migratory polyarthritis (a major manifestation)
+is not masked.
+• The arthritis of ARF is very sensitive to salicylates such as aspirin (as well as other NSAIDs), and joint
+symptoms typically respond within several days of treatment with anti-inflammatory drugs.
+Other diagnostic factors
+recent sore throat or scarlet fever (common)
+• May suggest recent group A streptococcal pharyngitis.
+recent skin infection (common)
+• May suggest recent group A streptococcal pyoderma.
+chest pain (common)
+• This can be a symptom of severe carditis.
+shortness of breath (common)
+• This can be a symptom of severe carditis.
+palpitations (common)
+• Individuals with rheumatic carditis may experience palpitations in association with advanced heart
+block. Those with longstanding rheumatic heart disease and left atrial dilatation are also predisposed
+to atrial fibrillation.
+heart murmur (common)
+• Mitral regurgitation is the most common clinical manifestation of carditis as a pansystolic murmur
+heard loudest at apex, radiating to axilla, and accentuated when the patient is rolled over on their left
+side.
+• A Carey-Coombs murmur may be heard, caused by pseudo-mitral stenosis because of the increased
+flow of the regurgitant volume of blood over the mitral valve during diastolic filling of the left ventricle.
+• Aortic valvulitis manifests as aortic regurgitation and is characterized by an early diastolic murmur
+heard at the base of the heart, accentuated by the patient sitting forward in held expiration.
+• The regurgitant murmurs are heard more commonly in children and young adolescents.
+• Chronic rheumatic mitral stenosis produces an apical diastolic murmur, a low-pitched mid-diastolic
+rumble that may be preceded by an opening snap.
+•
+pericardial rub (common)
+• If there is pericardial involvement during the acute phase of acute rheumatic fever, a pericardial rub
+may be heard.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Rheumatic fever Diagnosis
+DIAGNOSIS
+signs of cardiac failure (common)
+• Patients with severe carditis may exhibit signs of congestive heart failure due to severe regurgitation
+and impaired cardiac function.
+swollen joints (common)
+• Joint swelling, accompanied by tenderness, warmth, and restricted movement, indicates arthritis rather
+than arthralgia. The most commonly affected joints are the knees, ankles, wrists, elbows, and hips.
+Detection of arthritis of the hip joint can be more difficult than detection of arthritis involving other large
+joints, and careful attention should be paid to limitation of movement and inability to bear weight. The
+arthritis of acute rheumatic fever (ARF) is typically asymmetrical and usually but not always migratory.
+A joint may be affected for a period of hours or a couple of days. Additional joints may flare up as one
+or others improve.
+• The arthritis of ARF is very sensitive to salicylates such as aspirin (as well as other nonsteroidal anti-
+inflammatory drugs), and joint symptoms usually respond within several days of treatment with these
+anti-inflammatory drugs. Some patients may present with pain and swelling affecting a single joint
+(monoarthritis). Polyarthralgia is defined as arthritic pain and aches in the joints, joint pains, arthralgia
+of multiple joints, and multiple joint pain. Arthralgia is a criterion in the revised Jones criteria.
+restlessness (uncommon)
+• May suggest chorea. Chorea is more common in females and may occur up to 6 months after group A
+streptococcal throat infection. Chorea always disappears with sleep, and is made more pronounced by
+purposeful movements.
+clumsiness (uncommon)
+• May suggest chorea, which more commonly affects females after a latency period of up to 6 months
+after group A streptococcal throat infection. Chorea always disappears with sleep, and is made more
+pronounced by purposeful movements.
+emotional lability and personality changes (uncommon)
+• May suggest chorea, which typically affects females after a latency period of up to 6 months after
+group A streptococcal infection. Chorea always disappears with sleep, and is made more pronounced
+by purposeful movements.
+jerky, uncoordinated choreiform movements (uncommon)
+• Can affect the whole body, or just one side of the body (hemichorea). The head is often involved, with
+erratic movements of the face that resemble grimaces, grins, and frowns. Chorea always disappears
+with sleep, and is made more pronounced by purposeful movements.
+inability to maintain protrusion of the tongue (uncommon)
+• Consistent with chorea affecting the tongue. May resemble a "bag of worms" when protruded.
+milkmaid's grip (uncommon)
+• Rhythmic squeezing when the patient grasps the examiner's hands, consistent with chorea.
+spooning sign (uncommon)
+• Flexion of the wrists and extension of the fingers when the hands are extended, seen with chorea.
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Rheumatic fever Diagnosis
+pronator sign (uncommon)
+• Turning outwards of the arms and palms when held above the head, seen with chorea.
+erythema marginatum (uncommon)
+• Pink serpiginous rash with a well-defined edge. It begins as a macule and expands with central
+clearing. The rash may appear and then disappear before the examiner's eyes, leading to the
+descriptive term of patients having "smoke rings" beneath the skin. Rare, occurring in <5% of cases.
+Usually appears during the acute phase of rheumatic fever but may recur for weeks or even months
+after the acute phase has subsided. Difficult to detect in dark skinned people.
+Typical appearance of erythema marginatum on the back of a child with acute rheumatic fever
+Courtesy of Professor Mike South, Royal Children’s Hospital Melbourne; used with permission
+May be accentuated by warmth and so is often noted during a bath or shower.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Rheumatic fever Diagnosis
+DIAGNOSIS
+subcutaneous nodules (uncommon)
+• Firm and painless lumps, 0.5 cm to 2 cm in diameter, found mainly over the extensor surfaces or bony
+protuberances, particularly on the extensor surfaces of the elbows, hands, feet, and over the occiput
+and upper back. Rare, occurring in <5% of cases. Often appear after the onset of acute rheumatic
+fever and last from a few days to 3 weeks.
+pregnancy or taking oral contraceptive pill (uncommon)
+• May be associated with recurrence of rheumatic chorea. Increased cardiac demands during pregnancy
+may also lead to deterioration in cardiac status. In particular, pregnant women with rheumatic mitral
+stenosis may develop breathlessness, fatigue, or palpitations.
+Risk factors
+Strong
+poverty
+• Acute rheumatic fever is a disease of poverty. The reduction in rates of rheumatic fever in high-
+income countries was mostly due to changes in socioeconomic status and access to health care.[10]
+[36] Although there are conflicting data from prevalence surveys regarding the association between
+socioeconomic indicators and rheumatic heart disease (RHD), most surveys do confirm an association
+with low socioeconomic conditions. For example, in a prevalence survey of RHD in children in
+Rajasthan, India, the prevalence of RHD in the lowest socioeconomic status group was 3.9 in 1000,
+in the middle socioeconomic status group it was 2.1 in 1000, and in the highest socioeconomic status
+group no cases of RHD were detected.[37]
+• An ecologic study from New Zealand that matched hospitalization data with census area unit data
+(summated data for population parcels of approximately 5000 people) found rheumatic fever rates in
+the most crowded quintile to be 23 times greater than that in the least crowded quintile.[38]
+overcrowded living quarters
+• Perhaps the most important environmental factor is household overcrowding.[36] [39] The classical
+studies during the 1950s in US Air Force Base barracks found that rates of acquisition of streptococcal
+infections increased when beds were moved closer together, thus providing a biological basis for
+a relationship between overcrowding and the incidence of acute rheumatic fever.[40] Household
+crowding has been shown to be strongly associated with rheumatic fever in New Zealand.[38]
+family history of rheumatic fever
+• An inherited susceptibility to acute rheumatic fever (ARF) is likely. Familial clustering of cases of ARF
+has been described.[16] Earlier twin studies found weak concordance in monozygotic twins,[41] but a
+more recent meta-analysis found that the risk of rheumatic fever in a monozygotic twin with a history
+of rheumatic fever in the co-twin was 6 times greater than in dizygotic twins, suggesting that rheumatic
+fever is a disorder with a high heritability.[17]
+HLA association
+• Particular HLA class II alleles appear to be associated with rheumatic fever susceptibility. HLA
+DRB1, DQA1, and DQB1 haplotypes were associated with rheumatic heart disease in Egyptian
+populations.[42]
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Rheumatic fever Diagnosis
+genetic susceptibility
+• Genome-wide association studies have identified susceptibility signals in immune loci. In Oceania
+populations, an association has been observed between one common immunoglobulin heavy chain
+allele (IGHV4-61*02) and rheumatic heart disease (RHD), with each copy of IGHV4-61*02 associated
+with a 1.4-fold increase in the risk of RHD.[26] A second study found that variation at HLA-DQA1-
+DQB1 was the major genetic risk factor for RHD among Aboriginal Australians.[27]
+• Among peoples of Maori and Pacific ancestry in New Zealand, polymorphisms on the IL-6 gene have
+been shown to be associated with increased incidence of RHD.[43] A multicenter study across 8
+African countries identified a single RHD risk locus, 11q24.1, which reached genome-wide significance
+in black African individuals.[28] Further multicountry data have solidified the genetic hypothesis
+associated with developing RHD and unique proteomic signatures associated with severe RHD have
+been identified.[44]
+indigenous populations; Aboriginal Australian, Asian, and Pacific Islanders
+• Particular racial and ethnic groups appear to be at higher risk of acute rheumatic fever than others.
+This is particularly evident in countries where indigenous populations are at increased risk compared
+with non-indigenous populations, including Maori children in New Zealand, Aboriginal children in
+Australia, and Polynesian children in Hawaii.[22] [23] [24] [25] This appears to be a combination of
+environmental factors such as overcrowding, poor access to health care (primary prevention), and an
+underlying inherited susceptibility.
+Weak
+D8/17 B cell antigen positivity
+• The D8/17 antigen is expressed on B cells and may act as a binding site for group A streptococci
+on these cells.[45] There is a strong association in a number of populations between the expression
+of D8/17 antigen and rheumatic fever, including in the US, Australia, Israel, Russia, Mexico, and
+Chile.[18] [19] [20] However, this association is not universal as there has been no association found in
+other populations including in the US,[21] and less strong associations in populations in India.[46]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Rheumatic fever Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+erythrocyte sedimentation rate (ESR)
+• The World Health Organization criteria include only elevated ESR or
+leukocyte count as acute-phase reactants. The Jones criteria include
+only elevated CRP or elevated ESR.[2]
+• Australian data found that CRP and ESR were commonly elevated
+in patients with confirmed acute rheumatic fever (excluding chorea),
+whereas the leukocyte count usually was not elevated.[64] By
+contrast <4% of patients had both a serum CRP level of <3 mg/dL
+and an ESR of <30 mm/hour.[60] [64]
+≥60 mm/hour (low-risk
+populations) or ≥30 mm/
+hour (moderate- to high-
+risk populations) is taken
+as evidence of elevated
+inflammatory markers
+(minor criterion)
+CRP
+• The World Health Organization criteria include only elevated
+erythrocyte sedimentation rate (ESR) or leukocyte count as acute-
+phase reactants. The Jones criteria include only elevated CRP or
+elevated ESR.[2]
+• Australian data found that CRP and ESR were commonly elevated
+in patients with confirmed acute rheumatic fever (excluding chorea),
+whereas the leukocyte count usually was not elevated.[64] By
+contrast <4% of patients had both a serum CRP level of <3 mg/dL
+and an ESR of <30 mm/hour.[60] [64]
+≥3 mg/dL is taken as
+evidence of elevated
+inflammatory markers
+(minor criterion)
+WBC count
+• The World Health Organization criteria include only elevated
+erythrocyte sedimentation rate (ESR) or leukocyte count as acute-
+phase reactants. The Jones criteria include only elevated CRP or
+elevated ESR.[2]
+• Australian data found that CRP and ESR were commonly elevated
+in patients with confirmed acute rheumatic fever (excluding chorea),
+whereas the leukocyte count usually was not elevated.[64] Only
+25% of patients with acute rheumatic fever had a leukocyte count
+>15 x 10⁹/L, and only 7% had a count >20 x 10⁹/L. The authors do
+not suggest including elevated leukocyte count as an acute-phase
+reactant.
+may be elevated, but not
+recommended as meeting
+the minor criterion
+blood cultures
+• Useful, if patient is febrile, to exclude bacteremia. Both osteoarticular
+infection and infective endocarditis may present in similar patterns to
+acute rheumatic fever.
+no growth
+electrocardiogram
+• The duration of the PR interval increases with age; therefore, it is
+important to use age-standardized values.
+• Some healthy people have benign and incidental first-degree heart
+block, but a prolonged PR interval that resolves over 2-3 weeks
+may be a useful diagnostic feature in cases when the other clinical
+features are not definitive. First-degree heart block sometimes
+leads to a junctional rhythm, usually with a heart rate similar to the
+sinus rate. Second-degree and even complete block (also known as
+advanced atrioventricular block) are less common but can occur. In
+a resurgence of acute rheumatic fever in the US, 32% of patients
+prolonged PR interval is
+a minor criterion of acute
+rheumatic fever
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Rheumatic fever Diagnosis
+Test Result
+had abnormal atrioventricular conduction, usually a prolonged PR
+interval.[11]
+ECG showing heart block in acute rheumatic fever
+Aust N Z J Med. 1996 Apr;26(2):241-2; used with permission
+chest x-ray
+• A chest x-ray should be performed in all cases in which carditis is
+suspected. Cardiomegaly and/or congestive heart failure in acute
+rheumatic fever as seen on chest x-ray, results from severe valvular
+dysfunction secondary to valvulitis. Pericardial effusion should also
+be considered in cases where significant cardiomegaly is present.[77]
+may demonstrate
+chamber enlargement
+and congestive cardiac
+failure
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Rheumatic fever Diagnosis
+DIAGNOSIS
+Test Result
+Chest x-ray of biventricular heart failure
+due to acute carditis in rheumatic fever
+Lancet. 2006 Jun 24;367(9528):2118; used with permission
+echocardiogram
+• An echocardiogram improves the specificity of the clinical diagnosis
+(e.g., suspected mitral regurgitation may in fact be a flow murmur or
+even congenital heart disease on echocardiography).[58]
+• It may also improve sensitivity, as increasing recognition is being
+given to the phenomenon of subclinical carditis (pathological
+regurgitation detected on echocardiography in the absence of clinical
+findings) occurring in approximately 17% of cases of acute rheumatic
+fever.[67] [68] [78] [79]
+• In addition to improving specificity and sensitivity, echocardiography
+also enables more accurate grading of the severity of carditis and can
+evaluate cardiac dimensions and function.
+• The interpretation of echocardiography in patients with rheumatic
+fever requires a great deal of expertise.
+• There are published morphological and Doppler findings that are
+characteristic of rheumatic carditis.[2]
+may reveal morphological
+changes to the mitral and/
+or aortic valves; severity
+of regurgitation (mitral,
+aortic, and tricuspid);
+pericardial effusion if
+pericarditis present
+throat culture
+• A throat culture should be sent in all patients with acute rheumatic
+fever. However, <10% of throat cultures are positive for group A
+streptococci, reflecting the postinfectious nature of the disease; group
+A streptococci have usually been eradicated before onset of the
+disease.[69]
+growth of beta-hemolytic
+group A streptococci
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Rheumatic fever Diagnosis
+Test Result
+rapid antigen test for group A streptococci
+• If available, a rapid antigen test can be performed; however, data
+from New Zealand suggest that some of the tests may perform poorly
+compared with throat cultures.[80]
+positive
+anti-streptococcal serology
+• Positive serology is the most important means of demonstrating
+antecedent infection. The most commonly used tests are the anti-
+streptolysin O titer and the anti-deoxyribonuclease B titer. It is
+generally recommended that paired titers be taken: an acute titer
+and a convalescent titer (usually taken 14-28 days after the initial
+sample). Elevated titers and/or a 4-fold rise or fall in titers are
+required as proof of a recent immunologic response to group A
+streptococcal infection. The upper limit of normal is different between
+regions, but has been defined for the US and Australian pediatric
+population.[81] [82]
+above normal range
+(region dependent)
+rapid molecular test
+• If available, rapid polymerase chain reaction (PCR) assays can be
+used at the point-of-care. Sensitivity and specificity is comparable to
+throat culture.[72] [73] [74]
+positive
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Rheumatic fever Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Septic arthritis • Usually only one joint
+involved; not migratory;
+patient looks toxic.
+• Positive Gram stain from
+synovial fluid aspirate.
+• Culture of an organism from
+aspirate.
+• Elevated white cell count in
+blood and on microscopy of
+synovial fluid.
+• May have positive blood
+cultures. Imaging may show
+features of infection (e.g.,
+synovial enhancement,
+periosteal collection,
+intramedullary abscess).
+Juvenile arthritis • Joint involvement persists
+for many weeks, may have
+small joint involvement.
+May not have joint pain;
+eye inflammation may be
+present. Light pink rash
+in systemic form. Other
+systemic features such as
+serositis may be present.
+• Positive connective
+tissue testing such as
+positive rheumatoid factor,
+antinuclear antibody,
+anti-dsDNA, anticyclic
+citrullinated peptide (anti-
+CCP) IgG.
+Post-infectious reactive
+arthropathy
+• History of preceding viral or
+gastrointestinal illness.
+• Positive infectious serology
+(cytomegalovirus, Epstein-
+Barr virus,  Yersinia ,
+hepatitis B or C, parvovirus,
+influenza).
+• In young adults, urine
+culture/nucleic acid
+amplification test may
+reveal recent gonorrhea or
+chlamydia infection.
+Lyme disease • Only applies to people from
+Lyme endemic regions.
+Early Lyme disease is
+characterized by a circular
+expanding rash with central
+clearing (erythema migrans).
+Later, Lyme disease
+can cause influenza-like
+symptoms; acute neurologic
+problems, including cranial
+nerve palsies; arthritis
+usually affecting the knees;
+heart block.
+• Positive  Borrelia burgdoferi 
+serology (may take 4-6
+weeks to develop a serologic
+response) or polymerase
+chain reaction, together
+with history of being in a
+Lyme endemic region and
+exposure to ticks.
+Sickle cell anemia bone
+crisis
+• Family history; signs and
+symptoms of anemia;
+not usually febrile unless
+• Anemia and sickle cells on
+blood film.
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Rheumatic fever Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+infection has precipitated
+bone crisis. May involve
+small joints, back, dactylitis
+(painful inflammation of
+entire digit).
+Infective endocarditis • Signs of sepsis. Peripheral
+stigmata of endocarditis
+(Janeway lesions, Osler
+nodes, and splinter
+hemorrhages) are relatively
+uncommon in children.
+• Positive blood culture
+for organism causing
+endocarditis.
+• Echocardiogram may reveal
+vegetations on valve leaflets,
+intracardiac abscess.
+Leukemia • History may include lethargy,
+weight loss, night sweats,
+and bone pain. Bruising or
+spontaneous bleeding may
+be present.
+• Blast cells on film. Anemia or
+thrombocytopenia.
+Gout and pseudogout • First metacarpophalangeal
+joint often affected; pain
+excruciating and often flaky
+red skin over affected joint.
+• Polarizing microscopy of
+synovial fluid or presence of
+gouty tophi.
+• Elevated uric acid level.
+Innocent murmur • Otherwise normal child;
+quiet murmur; never purely
+diastolic.
+• Normal echocardiogram.
+Congenital mitral valve
+prolapse
+• Mid-systolic click on cardiac
+auscultation.
+• Echocardiogram reveals
+characteristic billowing of
+one or both of the mitral
+valve leaflets into the left
+atrium during/towards the
+end of systole.
+Congenital heart disease • Murmurs may be not
+characteristic for mitral and/
+or aortic incompetence.
+Murmurs may have been
+previously documented in
+infancy.
+• Echocardiography will reveal
+abnormalities.
+Hypertrophic
+cardiomyopathy
+• Afebrile; may be
+asymptomatic.
+• Echocardiography shows
+hypertrophy of the left
+ventricle without dilatation of
+cavity.
+Myocarditis • Usually follows a viral illness;
+chest pain and shortness of
+breath are common features.
+• Troponin and creatine kinase
+elevated.
+• ECG may show saddle-
+shaped ST segments or T-
+wave changes.
+• Cardiac MRI will
+demonstrate myocarditic
+inflammation.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Rheumatic fever Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+• Cardiac muscle biopsy will
+demonstrate cardiac muscle
+inflammation.
+• Viral pathogens may be
+detected on cardiac tissue
+via polymerase chain
+reaction.
+Pericarditis • Pleuritic chest pain;
+pericardial friction rubs on
+auscultation.
+• Echocardiography may show
+a pericardial effusion.
+Systemic lupus
+erythematosus
+• Malar "butterfly" rash; joint
+pain typically affects hands
+and wrists; renal involvement
+is common, may have
+anemia.
+• Positive connective tissue
+testing such as positive
+antinuclear antibody, anti-
+dsDNA, and anti-Smith
+antibodies.
+Drug intoxication • History of recent ingestion;
+use of illicit drugs.
+• Drug screen, including
+phenytoin, amitriptyline, and
+metoclopramide.
+Wilson disease • Hepatosplenomegaly and
+Kayser-Fleischer rings; may
+have a family history.
+• Decreased ceruloplasmin
+level; genetic testing.
+• 24-hour urinary copper
+excretion.
+Tic disorder • Can be motor or phonic tics;
+absence of fever or any other
+signs of acute rheumatic
+fever.
+• Psychiatric evaluation may
+reveal underlying cause.
+Encephalitis • Seizures, headache, fever;
+sometimes photophobia and
+neck stiffness.
+• Electroencephalogram
+may show temporal lobe
+changes.
+• MRI brain: features depend
+on cause of encephalitis but
+may include temporal lobe
+hemorrhage or white matter
+lesions.
+• Polymerase chain reaction of
+cerebrospinal fluid to detect
+viral DNA/RNA.
+Choreoathetoid cerebral
+palsy
+• Wide spectrum of symptoms
+depending on severity;
+features include difficulty
+maintaining posture, scissor
+walking, seizures, and
+learning difficulties. Long-
+term chronic features.
+• Clinical diagnosis. CT may
+help to identify cerebral
+hemorrhage, and MRI can
+be useful to look for changes
+in cerebral white matter in
+older children.
+Huntington chorea • May have associated
+symptoms of weight loss,
+depression, facial tics,
+impairment of rapid eye
+• Genetic testing (triplet
+repeat).
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Rheumatic fever Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+movement, and dementia.
+More likely if a parent is
+affected.
+Intracranial tumor • May have headache,
+typically worse in the
+morning, with or without
+vomiting; may have
+papilledema; cranial nerve
+involvement possible.
+• CT/MRI of the brain.
+Hyperthyroidism • Tachycardia, tremor, weight
+loss.
+• Eye signs: exophthalmia, lid
+lag and retraction, proptosis.
+• Thyroid function tests;
+typically elevated thyroxine
+(T4) and triiodothyronine
+(T3) with suppression
+of thyroid-stimulating
+hormone (TSH) in primary
+hyperthyroidism. Secondary
+hyperthyroidism will show
+elevated TSH levels.
+Osteomyelitis • May have history of open
+fracture or recent orthopedic
+surgery.
+• Imaging (plain x-ray),
+surgical findings, histology,
+and cultures.
+Criteria
+Jones criteria[2]
+The Jones criteria were established in 1944 to help clinicians make the diagnosis of acute rheumatic fever
+(ARF), as there is no single gold standard diagnostic test.[57] The criteria have been revised several times by
+the American Heart Association in response to falling rates of ARF in the US. Early revisions increased the
+specificity but reduced the sensitivity of the criteria.[83] [84] [85] [86] The 1992 update specified for the first
+time that the criteria apply only to the initial diagnosis of ARF.
+The 2015 revision of the criteria provide two different sets of criteria: one for low-risk populations (i.e., those
+with a rheumatic fever incidence ≤2 in 100,000 school-aged children or all-age rheumatic heart disease
+prevalence ≤1 in 1000 population per year) and one for moderate- to high-risk populations where increased
+sensitivity is important.[2] Patients not clearly from a low-risk population are deemed to be at moderate-to-
+high risk depending on their reference population.
+Low-risk populations
+• Five manifestations are considered major manifestations of ARF:
+• Carditis (clinical and/or subclinical)
+• Polyarthritis
+• Chorea
+• Erythema marginatum
+• Subcutaneous nodules.
+• Four manifestations are considered minor manifestations of ARF:
+• Fever (≥101.3°F [≥38.5°C ])
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Rheumatic fever Diagnosis
+DIAGNOSIS
+• Polyarthralgia
+• Elevated inflammatory markers (erythrocyte sedimentation rate [ESR] ≥60mm/hour and/or C-
+reactive protein [CRP] ≥3.0 mg/dL)
+• Prolonged PR interval on electrocardiogram.
+Moderate- to high-risk populations
+• Five manifestations are considered major manifestations of ARF:
+• Carditis (clinical and/or subclinical)
+• Arthritis (monoarthritis or polyarthritis; polyarthralgia can be considered as a major
+manifestation if other causes are ruled out)
+• Chorea
+• Erythema marginatum
+• Subcutaneous nodules.
+• Four manifestations are considered minor manifestations of ARF:
+• Fever (100.4°F [≥38.0°C])
+• Monoarthralgia
+• Elevated inflammatory markers (ESR ≥30 mm/hour and/or CRP ≥3.0 mg/dL)
+• Prolonged PR interval on electrocardiogram.
+Chorea does not require evidence of a preceding group A streptococcal infection. In a patient in whom
+arthritis is considered a major manifestation, arthralgia cannot be counted as a minor manifestation. In a
+patient in whom carditis is considered as a major manifestation, prolonged PR interval cannot be counted as
+a minor manifestation.
+Doppler echocardiogram findings in rheumatic valvulitis
+• Pathological mitral regurgitation (all 4 criteria met):
+• Seen in at least two views
+• Jet length ≥2 cm in at least one view
+• Peak velocity >3 m/s
+• Pansystolic jet in at least one envelope.
+• Pathological aortic regurgitation (all 4 criteria met):
+• Seen in at least two views
+• Jet length ≥1 cm in at least one view
+• Peak velocity >3 m/s
+• Pan diastolic jet in at least one envelope.
+Morphological findings on echocardiogram in rheumatic valvulitis
+• Acute mitral valve changes
+• Annular dilation
+• Chordal elongation
+• Chordal rupture resulting in flail leaflet with severe mitral regurgitation
+• Anterior (or less commonly posterior) leaflet tip prolapse
+• Beading/nodularity of leaflet tips.
+• Chronic mitral valve changes (not seen in acute carditis)
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Rheumatic fever Diagnosis
+• Leaflet thickening
+• Chordal thickening and fusion
+• Restricted leaflet motion
+• Calcification.
+• Aortic valve changes in either acute or chronic carditis
+• Irregular or focal leaflet thickening
+• Coaptation defect
+• Restricted leaflet motion
+• Leaflet prolapse.
+Recurrent ARF
+• Patients who have had a single episode of rheumatic fever are at high risk of subsequent episodes of
+recurrent rheumatic fever. The Jones criteria allow diagnosis of recurrent rheumatic fever if there are:
+• 2 major manifestations, or
+• 1 major and 2 minor manifestations, or
+• 3 minor manifestations.
+All other likely diagnoses should be excluded before a diagnosis of recurrent rheumatic fever, especially in
+patients presenting with 3 minor manifestations.
+Screening
+Screening, also known as active case-finding, of asymptomatic populations in high-risk regions has the
+potential to identify patients with mild rheumatic heart disease (RHD) who may receive the greatest benefit
+from secondary prophylaxis.[87] Auscultation-based standard screening protocols were first developed
+by the World Health Organization and focused on screening of school-aged children.[88] In these early
+screening programs, follow-up echocardiography was recommended for suspected cases with pathologic
+murmurs. However, a landmark 2007 study conducted in Cambodia and Mozambique demonstrated that
+echocardiography was more sensitive and more specific than cardiac auscultation, and detected RHD 10
+times more than auscultation alone. The authors concluded that echocardiography should be the initial
+procedure.[89] Multiple studies since then have implemented echocardiographic screening.[90] Standardized
+guidelines for the diagnosis of RHD on echocardiogram were developed by an expert panel and published in
+2012.[58] Data on outcomes of children with echocardiographically detected RHD show differential medium-
+term outcomes, from regression of lesions (improvement) to progression (worsening); the GOAL study
+demonstrated that secondary prophylaxis given for 24 months was associated with less progression of
+valve lesions.[91] The study also noted no association between the prophylaxis group and no prophylaxis
+group in improvement of lesions, and so the role of widespread echocardiographic screening in public health
+surveillance is unclear and an integrated approach into the healthcare system is preferred.[92]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Rheumatic fever Management
+MANAGEMENT
+Approach
+No treatments affect the outcome of acute rheumatic fever (ARF). While treatment can shorten the acute
+inflammation, all of the various manifestations will resolve spontaneously, except for carditis. The degree of
+valvular regurgitation usually improves but may occasionally progress in the months following a diagnosis
+of rheumatic fever. No treatment used in the acute phase is effective at modifying the acute course of
+carditis, and good adherence with secondary prophylaxis is the only treatment known to ameliorate the long-
+term progression to rheumatic heart disease (RHD); the major role of secondary prevention after ARF is
+prevention of rheumatic fever recurrences and cumulative subsequent repeat valve damage.[96]
+Aims of acute management
+The aims of management are to:
+• Confirm the diagnosis of ARF
+• Provide symptomatic treatment and shorten the acute inflammatory phase, particularly polyarthritis,
+which can be very painful
+• Provide education for the patient and the patient's family
+• Begin secondary prophylaxis and emphasize its importance
+• Offer dental treatment and education regarding prevention of infective endocarditis
+• Ensure follow-up.
+All patients with suspected ARF should be admitted to the hospital so diagnosis can be confirmed, and
+clinical features and severity of the attack can be assessed. Some patients with a confirmed diagnosis
+and mild illness may be managed as outpatients after an initial period of stabilization.
+Unconfirmed diagnosis, presenting with monoarthritis
+If ARF is suspected, admission to the hospital for observation and further investigation is indicated.
+Nonsteroidal anti-inflammatory drugs (NSAIDs) and salicylates such as aspirin should be withheld
+pending confirmation of the diagnosis, and simple analgesics, such as acetaminophen, are recommended
+in the interim. NSAIDs and aspirin are withheld to facilitate diagnosis; they reduce arthritic pain but do
+not affect the long-term outcome of the disease. For example, if there is doubt about the diagnosis in
+a patient with monoarthritis, the appearance of migratory polyarthritis will confirm rheumatic fever. A
+preferable strategy in patients with suspected rheumatic fever is bed rest and regular acetaminophen
+while performing investigations to confirm the diagnosis as quickly as possible. Once the diagnosis is
+confirmed, start the patient on regular NSAIDs.
+Opioid analgesics are generally not recommended, especially in children. They should be avoided
+wherever possible. If they are necessary, they should be used with extreme caution. Codeine is
+contraindicated in children younger than 12 years of age, and it is not recommended in adolescents 12
+to 18 years of age who are obese or have conditions such as obstructive sleep apnea or severe lung
+disease as it may increase the risk of breathing problems.[97] It is generally recommended only for the
+treatment of acute moderate pain, which cannot be successfully managed with other analgesics, in
+children 12 years of age and older. It should be used at the lowest effective dose for the shortest period
+and treatment limited to 3 days.[98] [99]
+Confirmed ARF
+The outcome of rheumatic valvular lesions has not been shown to be affected by the administration of
+penicillin during an episode of ARF.[100] However, penicillin is recommended to ensure eradication of
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Rheumatic fever Management
+streptococci in the throat whether there has been a positive throat culture or not. A single injection of
+penicillin G benzathine is the recommended primary option. Oral penicillin is an option if intramuscular
+penicillin is refused; however, adherence needs to be closely monitored. Intravenous penicillin is not
+necessary. In general, penicillin G benzathine is recommended as this also serves the purpose of acting
+as the first dose of secondary prophylaxis. Oral erythromycin is an option for patients allergic to penicillin
+and adherence should be closely monitored. As penicillin is the first-line choice for secondary prophylaxis,
+it is recommended that a patient with reported penicillin allergy be carefully evaluated. Referral to an
+allergist may be necessary and desensitization may be appropriate in some circumstances, under careful
+medical supervision. Education is a second key component of the acute management of all patients with
+rheumatic fever because of the necessity of ongoing long-term preventive measures.
+Particular management approaches are needed for the three main manifestations of ARF.
+• Arthritis
+• Carditis
+• Chorea
+With arthritis
+Historically, the first-line treatment for rheumatic arthritis has been salicylate therapy (aspirin).[57] [101]
+[102] [103] Increasingly, clinicians are recommending NSAID treatment. Naproxen has been used
+successfully, and some experts recommend naproxen as first-line treatment because of its twice-daily
+dosing, superior side-effect profile, and reduced risk of Reye syndrome.[104] [105]
+Ibuprofen has also been successfully used in children, although there are no specific data regarding its
+effectiveness in children with rheumatic fever.[63]
+If the patient has monoarthritis and is suspected to have ARF, but does not meet the criteria for diagnosis,
+the patient should withhold from salicylate therapy or NSAID treatment so that the appearance of
+migratory polyarthritis (a major manifestation) is not masked. Acetaminophen can be given in the interim.
+Aspirin and NSAIDs usually have a dramatic effect on the arthritis and fever of rheumatic fever, and
+typically this improves within 2 to 3 days after the initiation of regular treatment. Persisting rheumatic
+arthritis can occasionally occur, usually this is in children with ongoing significant systemic inflammation.
+With carditis
+Most patients with mild or moderate carditis without cardiac failure are asymptomatic and do not require
+specific cardiac medications.
+A subset of patients with carditis who develop cardiac failure do require treatment:
+• Bed rest with ambulation as tolerated
+• Medical management of heart failure; first-line therapy consists of diuretics and angiotensin-
+converting enzyme (ACE) inhibitors.
+Despite the absence of high-quality evidence to support the use of glucocorticoid therapy for patients
+with severe carditis and heart failure, many clinicians treating rheumatic fever think that the use of
+glucocorticoids can speed recovery. Two meta-analyses have failed to show any benefit of glucocorticoids
+over placebo, although contributing studies were old and generally of low quality.[96] [106]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Rheumatic fever Management
+MANAGEMENT
+There is no evidence that salicylates or intravenous immunoglobulin (IVIG) improve the outcome from
+carditis in rheumatic fever and their use is not recommended.[107] Rarely, a patient with atrial fibrillation
+may require anti-arrhythmic treatment with amiodarone or digoxin.
+Carditis can progress over weeks to months, and serial echocardiography is recommended for individuals
+with severe carditis, changing murmurs, and/or persistent inflammation.
+For patients with severe carditis requiring surgery, surgery is deferred wherever possible, until systemic
+inflammation has settled. In rare circumstances, urgent and life-saving surgery may be necessary for
+complications such as acute valve leaflet rupture or chordae tendineae rupture.
+Wherever feasible, cardiac valve repair is the preferred surgical procedure for established RHD, as it
+spares the patient the considerable additional risks associated with lifelong anticoagulation. Repair may
+not be possible in some situations where valvular tissues are extremely friable or severely chronically
+damaged.
+With chorea
+Most patients with chorea do not require treatment, as chorea is benign and self-limiting. Most symptoms
+resolve within weeks and almost all within 6 months. Reassurance and a quiet and calm environment
+often suffice.
+Treatment is reserved for severe chorea that puts the person at risk of injury or is extremely disabling
+or distressing. Valproic acid or carbamazepine may be used. Valproic acid may be more effective than
+carbamazepine, but carbamazepine is preferred as first-line treatment because of the potential for
+liver toxicity with valproic acid.[63] [108] Valproic acid and its derivatives may cause major congenital
+malformations, including neurodevelopmental disorders and neural tube defects, after in utero exposure.
+These agents must not be used in female patients of childbearing potential unless other options
+are unsuitable, there is a pregnancy prevention program in place, and certain conditions are met.
+Precautionary measures may also be required in male patients owing to a potential risk that use in the
+3 months leading up to conception may increase the likelihood of neurodevelopmental disorders in their
+children. Regulations and precautionary measures for female and male patients may vary between
+countries and you should consult your local guidance for more information.
+Treatment may ameliorate symptoms of chorea completely, or simply reduce them. Usually it takes 1-2
+weeks for medication to have an effect, and it is recommended that treatment continue for 2-4 weeks after
+chorea has subsided. Haloperidol and combinations of agents should be avoided.
+A number of small studies have suggested that IVIG treatment can allow a more rapid recovery from
+rheumatic chorea.[109] [110] However, until further evidence is available, IVIG should not be considered
+as standard treatment and should be reserved for consideration in patients with severe chorea that is
+refractory to other treatments.
+Secondary prophylaxis
+The role of secondary prophylaxis is to prevent further group A streptococcal infections and recurrent
+episodes of overt or silent rheumatic fever leading to worsening of heart valve damage. Although some
+mild cases of carditis do heal completely, the progression to severe RHD is poorly understood. Secondary
+prophylaxis may reduce the clinical severity and thus mortality of RHD and lead to regression of RHD if
+patients are adherent over a decade.[111] [112] The most effective antibiotic is penicillin and the most
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Rheumatic fever Management
+effective method of delivery is intramuscular injection of long-acting penicillin G benzathine every 3-4
+weeks.[113] [114] Patients with proven penicillin allergy can be managed with oral erythromycin.[1]
+In patients with possible rheumatic fever (i.e., patients, generally in high-incidence settings, in whom
+the clinician is highly suspicious of the diagnosis of ARF but who do not quite meet the Jones criteria,
+perhaps because full testing facilities are not available),[2] it is reasonable to offer a shorter period
+of secondary prophylaxis followed by re-evaluation (including an echocardiogram). This should be
+done in consultation with the child and family, and with careful consideration of the patient's individual
+circumstances and family history. In patients with recurrent and/or atypical joint symptoms despite good
+adherence with penicillin prophylaxis, it is also important to consider the possibility of other rheumatologic
+diagnoses, such as juvenile idiopathic arthritis.
+Following growing evidence that patients with RHD who have severe valvular heart disease with or
+without reduced ventricular function may be dying from cardiovascular compromise following penicillin
+G benzathine injections, the American Heart Association (AHA) now strongly advises that patients with
+RHD at elevated risk receive oral antibiotic prophylaxis, preferably oral penicillin, if readily available.[115]
+The AHA notes that patients with elevated risk include those with severe mitral stenosis, aortic stenosis,
+and aortic insufficiency, those with decreased left ventricular systolic dysfunction, and those with no
+symptoms; for these patients, the AHA believes the risk of adverse reaction to penicillin G benzathine,
+specifically cardiovascular compromise, may outweigh its theoretical benefit.[115]
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial ( summary )
+monoarthritis in unconfirmed
+rheumatic fever
+1st analgesia
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Rheumatic fever Management
+MANAGEMENT
+Acute ( summary )
+possible rheumatic fever
+1st secondary prophylaxis
+confirmed rheumatic fever
+1st antibiotic therapy
+with arthritis plus salicylate therapy or NSAID
+with heart failure plus diuretic ± ACE inhibitors
+adjunct glucocorticoids
+with atrial fibrillation plus amiodarone or digoxin
+with valve leaflet or
+chordae tendineae
+rupture
+plus assessment for emergency valve surgery
+with severe or disabling
+chorea
+adjunct anticonvulsants
+Ongoing ( summary )
+all patients following acute
+treatment
+1st secondary prophylaxis
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Rheumatic fever Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial
+monoarthritis in unconfirmed
+rheumatic fever
+1st analgesia
+Primary options
+» acetaminophen: children: 10-15 mg/kg
+every 4-6 hours when required, maximum 75
+mg/kg/day; adults: 325-1000 mg orally every
+4-6 hours when required, maximum 4000 mg/
+day
+Secondary options
+» codeine sulfate: children: contraindicated
+in children <12 years of age and use caution
+in children 12-18 years of age; adults: 15-60
+mg orally every 4-6 hours when required,
+maximum 360 mg/day
+» If a diagnosis of rheumatic fever has not
+been established, aspirin and nonsteroidal anti-
+inflammatory drugs (NSAIDs) should be withheld
+and simple analgesics, such as acetaminophen,
+are recommended.
+» Aspirin and NSAIDs are withheld to facilitate
+diagnosis; they reduce arthritic pain but do not
+affect the long-term outcome of the disease. For
+example, if there is doubt about the diagnosis
+in a patient with monoarthritis, the appearance
+of migratory polyarthritis will confirm rheumatic
+fever.
+» A preferable strategy in patients with
+suspected rheumatic fever is bed rest and
+regular acetaminophen while performing
+investigations to confirm the diagnosis as quickly
+as possible. Once the diagnosis is confirmed,
+start the patient on regular NSAIDs.
+» Opioid analgesics are generally not
+recommended, especially in children. They
+should be avoided wherever possible. If they
+are necessary, they should be used with
+extreme caution. Codeine is contraindicated
+in children aged younger than 12 years, and
+it is not recommended in adolescents aged
+12-18 years who are obese or have conditions
+such as obstructive sleep apnea or severe lung
+disease as it may increase the risk of breathing
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Rheumatic fever Management
+MANAGEMENT
+Initial
+problems.[97] It is generally recommended only
+for the treatment of acute moderate pain, which
+cannot be successfully managed with other
+analgesics, in children aged 12 years and older.
+It should be used at the lowest effective dose
+for the shortest period and treatment limited to 3
+days.[98] [99]
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Rheumatic fever Management
+Acute
+possible rheumatic fever
+1st secondary prophylaxis
+Primary options
+» penicillin G benzathine: children ≤27 kg
+body weight: 600,000 units intramuscularly
+every 3-4 weeks; children >27 kg body weight
+and adults: 1.2 million units intramuscularly
+every 3-4 weeks
+Secondary options
+» penicillin V potassium: children and adults:
+250 mg orally twice daily
+OR
+» erythromycin base: children and adults: 250
+mg orally twice daily
+» In patients with possible rheumatic fever (i.e.,
+patients, generally in high-incidence settings,
+in whom the clinician is highly suspicious of
+the diagnosis of acute rheumatic fever but who
+do not quite meet the Jones criteria, perhaps
+because full testing facilities are not available),[2]
+it is reasonable to offer a shorter period of
+secondary prophylaxis followed by re-evaluation
+(including an echocardiogram). This should be
+done in consultation with the child and family,
+and with careful consideration of the patient's
+individual circumstances and family history.
+» The most effective antibiotic is penicillin
+and the most effective method of delivery is
+intramuscular injection of long-acting penicillin
+G benzathine every 3-4 weeks.[113] [114]
+Intramuscular penicillin G benzathine reduces
+streptococcal pharyngitis by 71% to 91% and
+reduces recurrent rheumatic fever by 87% to
+96%.[114]
+» Oral penicillin is an option reserved for
+patients who refuse intramuscular penicillin G
+benzathine; however, it is less effective and
+associated with a higher risk of recurrence.[63]
+[114]
+» Patients with proven penicillin allergy can be
+managed with oral erythromycin.[1] Penicillin is
+safe in pregnancy.[1] Anticoagulation is not a
+contraindication to intramuscular injections of
+penicillin G benzathine. Penicillin allergy should
+be thoroughly investigated. Refer to a specialist
+if required, as penicillin remains first choice for
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Rheumatic fever Management
+MANAGEMENT
+Acute
+secondary prophylaxis and desensitization may
+be appropriate in some circumstances.
+» In patients with recurrent or atypical joint
+symptoms despite being adherent to the
+secondary prophylaxis regimen, particularly
+for those without echocardiographic evidence
+of valvulitis, other rheumatologic diagnoses
+should be considered, such as juvenile idiopathic
+arthritis.
+confirmed rheumatic fever
+confirmed rheumatic fever 1st antibiotic therapy
+Primary options
+» penicillin G benzathine: children ≤27 kg:
+600,000 units intramuscularly as a single
+dose; children >27 kg and adults: 1.2 million
+units intramuscularly as a single dose
+Secondary options
+» penicillin V potassium: children ≤27 kg: 250
+mg orally two to three times daily for 10 days;
+children >27 kg and adults: 500 mg orally two
+to three times daily for 10 days
+OR
+» erythromycin base: children: 30-50 mg/kg/
+day orally given in 3-4 divided doses for 10
+days, maximum 1000-2000 mg/day; adults:
+250-500 mg orally four times daily for 10 days
+» A single injection of penicillin G benzathine
+is the recommended primary option. Oral
+penicillin is an option if intramuscular penicillin is
+refused; however, adherence needs to be closely
+monitored.
+» Oral erythromycin is an option for patients
+allergic to penicillin; adherence should be closely
+monitored.
+» Penicillin allergy should be thoroughly
+investigated; refer to a specialist if required as
+penicillin remains first choice for secondary
+prophylaxis.
+with arthritis plus salicylate therapy or NSAID
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» aspirin: children: 50-60 mg/kg/day orally
+given in divided doses every 4 hours, may
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Rheumatic fever Management
+Acute
+increase to 80-100 mg/kg/day if required;
+adults: 4000 mg/day orally given in divided
+doses every 4-6 hours
+OR
+» naproxen: children >2 years of age: 10-20
+mg/kg/day orally given in divided doses every
+12 hours, maximum 1000 mg/day; adults:
+250-500 mg orally twice daily, maximum 1250
+mg/day
+OR
+» ibuprofen: children >6 months of age: 5-10
+mg/kg orally every 8 hours, maximum 40
+mg/kg/day; adults 400-800 mg orally every 8
+hours, maximum 2400 mg/day
+» Aspirin or nonsteroidal anti-inflammatory drugs
+(NSAIDs) usually have a dramatic effect on
+the arthritis of rheumatic fever. Increasingly,
+clinicians are recommending NSAID treatment.
+Naproxen has been used successfully, and
+some experts recommend naproxen as first-
+line treatment because of its twice-daily dosing,
+superior side-effect profile, and reduced risk
+of Reye syndrome.[105] Ibuprofen has been
+successfully used in children, although there are
+no specific data regarding its effectiveness in
+children with rheumatic fever.
+» Most patients will only require treatment for 1-2
+weeks, although some patients need it for up to
+6-8 weeks.
+» Very high and prolonged doses of aspirin
+should be avoided due to the risk of salicylate
+toxicity. Toxic effects of aspirin include tinnitus,
+headache, and tachypnea, and may start to
+occur above levels of 20 mg/100 dL. They will
+usually resolve within a few days of stopping
+aspirin. Salicylate levels should be monitored if
+facilities are available.
+» As the dose is reduced, joint symptoms may
+recur (so-called “rebound phenomenon”). This
+does not represent a recurrence of rheumatic
+fever, and can be simply treated with another
+brief course of high-dose aspirin.
+» Stopping aspirin therapy should be considered
+in the setting of a concurrent viral illness
+because of the risk of Reye syndrome. If
+aspirin is given during the influenza season,
+then influenza vaccine may be given as a
+precautionary measure.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Rheumatic fever Management
+MANAGEMENT
+Acute
+with heart failure plus diuretic ± ACE inhibitors
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» furosemide: children (intravenous): 1-2 mg/
+kg intravenously every 6-12 hours initially,
+increase by 1 mg/kg every 2 hours according
+to response, maximum 6 mg/kg/dose;
+children (oral): 1-2 mg/kg orally every 6-8
+hours initially, increase by 1-2 mg/kg every
+6-8 hours according to response, maximum
+6 mg/kg/dose; adults (intravenous): 20-40
+mg intravenously initially, increase by 20 mg/
+dose every 2 hours according to response;
+adults (oral): 20-80 mg orally every 6-8 hours,
+increase by 20-40 mg/dose every 6-8 hours
+according to response, maximum 600 mg/day
+Dose should be titrated according to
+response and lowest effective dose used
+once stable.
+OR
+» spironolactone: children: 1-3 mg/kg/day
+orally given in divided doses every 6-12
+hours; adults: 25-200 mg/day orally given in
+1-2 divided doses
+Secondary options
+» enalapril: children: consult specialist for
+guidance on dose; adults: 2.5 mg orally twice
+daily initially, increase gradually according to
+response, maximum 40 mg/day
+-or-
+» lisinopril: children: consult specialist for
+guidance on dose; adults: 2.5 to 5 mg
+orally once daily initially, increase gradually
+according to response, maximum 40 mg/day
+-or-
+» captopril: children: consult specialist for
+guidance on dose; adults: 6.25 mg orally
+three times daily initially, increase gradually
+according to response, maximum 450 mg/day
+--AND--
+» furosemide: children (intravenous): 1-2 mg/
+kg intravenously every 6-12 hours initially,
+increase by 1 mg/kg every 2 hours according
+to response, maximum 6 mg/kg/dose;
+children (oral): 1-2 mg/kg orally every 6-8
+hours initially, increase by 1-2 mg/kg every
+6-8 hours according to response, maximum
+6 mg/kg/dose; adults (intravenous): 20-40
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Rheumatic fever Management
+Acute
+mg intravenously initially, increase by 20 mg/
+dose every 2 hours according to response;
+adults (oral): 20-80 mg orally every 6-8 hours,
+increase by 20-40 mg/dose every 6-8 hours
+according to response, maximum 600 mg/day
+Dose should be titrated according to
+response and lowest effective dose used
+once stable.
+» Diuretics are usually used first and are
+effective in mild to moderate heart failure.
+Furosemide and spironolactone are the most
+commonly used diuretics.
+» For severe heart failure, particularly when
+aortic regurgitation is present, then angiotensin-
+converting enzyme (ACE) inhibitors can be given
+in addition to furosemide. Enalapril, captopril,
+and lisinopril are the most commonly used
+ACE inhibitors. Spironolactone is not usually
+used in combination with ACE inhibitors as the
+combination can result in hyperkalemia.
+adjunct glucocorticoids
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» prednisone: children and adults: 1-2 mg/kg/
+day orally for 7 days, maximum 80 mg/day
+» Corticosteroids are not indicated for patients
+with mild and moderate carditis, but may be
+indicated for a subset of patients with severe
+carditis, cardiac failure, and/or pericardial
+effusion.
+» The side effects of glucocorticoids include
+gastrointestinal bleeding and fluid retention,
+both of which can worsen heart failure.
+Glucocorticoids also have immunosuppressive
+effects.
+» Concurrent administration of omeprazole
+should be considered to reduce the risk of
+gastrointestinal bleeding.
+» Glucocorticoids will usually also control joint
+pain and fever, and so anti-inflammatory drugs
+may not be required while the patient is being
+treated with glucocorticoids. Nonsteroidal anti-
+inflammatory drugs (NSAIDs) may need to be
+restarted after the patient completes the course
+of glucocorticoids, particularly if this course is
+short.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Rheumatic fever Management
+MANAGEMENT
+Acute
+» If more than 1 week of treatment is required,
+taper by 20% to 25% each week.
+» Despite the absence of high-quality evidence
+to support the use of glucocorticoid therapy for
+patients with carditis and severe heart failure,
+some clinicians treating rheumatic fever believe
+that the use of glucocorticoids can speed
+recovery. Two meta-analyses have failed to show
+any benefit of glucocorticoids over placebo,
+although contributing studies were old and
+generally of low quality.[96] [106]
+with atrial fibrillation plus amiodarone or digoxin
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» digoxin: children and adults: consult
+specialist for guidance on dose
+OR
+» amiodarone: children and adults: consult
+specialist for guidance on dose
+» Rarely, a patient with atrial fibrillation
+may require antiarrhythmic treatment with
+amiodarone or digoxin. The advice of a
+cardiologist is recommended before starting
+therapy.
+» Thyroid function should be monitored with
+amiodarone therapy.
+» Digoxin is very rarely used in children. It has
+a narrow therapeutic window and its use is
+associated with increased mortality in patients
+with rheumatic heart disease.[116] Serum levels
+should be monitored during treatment.
+with valve leaflet or
+chordae tendineae
+rupture
+plus assessment for emergency valve surgery
+Treatment recommended for ALL patients in
+selected patient group
+» This may be necessary in patients with acute
+decompensated heart and/or multiorgan failure.
+Valve repair surgery is normally preferred for
+elective surgery of a rheumatic valve, but may
+not be possible in acute rupture due to the
+friability of inflamed tissue.
+with severe or disabling
+chorea
+adjunct anticonvulsants
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Rheumatic fever Management
+Acute
+» carbamazepine: children and adults:
+consult specialist for guidance on dose
+Secondary options
+» valproic acid: children and adults: consult
+specialist for guidance on dose
+» Treatment is not usually required unless the
+chorea is severe and puts the person at risk of
+injury, or is extremely disabling or distressing for
+the patient.
+» Valproic acid or carbamazepine may be
+used. Valproic acid may be more effective than
+carbamazepine, but carbamazepine is preferred
+as first-line treatment because of the potential
+for liver toxicity with valproic acid.[63] [108]
+ Valproic acid and its derivatives may cause
+major congenital malformations, including
+neurodevelopmental disorders and neural
+tube defects, after in utero exposure. These
+agents must not be used in female patients of
+childbearing potential unless other options are
+unsuitable, there is a pregnancy prevention
+program in place, and certain conditions are met.
+Precautionary measures may also be required in
+male patients owing to a potential risk that use
+in the 3 months leading up to conception may
+increase the likelihood of neurodevelopmental
+disorders in their children. Regulations and
+precautionary measures for female and male
+patients may vary between countries and you
+should consult your local guidance for more
+information.
+» Treatment may ameliorate symptoms of chorea
+completely or simply reduce them. Usually it
+takes 1-2 weeks for medication to have an effect
+and it is recommended that treatment continue
+for 2-4 weeks after chorea has subsided.
+» Liver transaminases should be monitored with
+carbamazepine.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Rheumatic fever Management
+MANAGEMENT
+Ongoing
+all patients following acute
+treatment
+1st secondary prophylaxis
+Primary options
+» penicillin G benzathine: children ≤27 kg
+body weight: 600,000 units intramuscularly
+every 3-4 weeks; children >27 kg body weight
+and adults: 1.2 million units intramuscularly
+every 3-4 weeks
+Secondary options
+» penicillin V potassium: children and adults:
+250 mg orally twice daily
+OR
+» erythromycin base: children and adults: 250
+mg orally twice daily
+» The most effective antibiotic is penicillin
+and the most effective method of delivery is
+intramuscular injection of long-acting penicillin
+G benzathine every 3-4 weeks.[113] [114]
+Intramuscular penicillin G benzathine reduces
+streptococcal pharyngitis by 71% to 91% and
+reduces rheumatic fever recurrences by 87% to
+96%.[114]
+» Secondary prophylaxis can reduce the clinical
+severity and mortality of rheumatic heart disease
+(RHD) and lead to regression of RHD by about
+50% to 70% if patients are adherent over a
+decade.[111] [112]
+» The duration of secondary prophylaxis is
+determined by a number of factors, including
+age, time since last episode of acute rheumatic
+fever, and severity of cardiac disease.
+Recommended duration of prophylaxis also
+varies across clinical guidelines.[1] [63] [95]
+[117]
+» Following growing evidence that patients with
+RHD who have severe valvular heart disease
+with or without reduced ventricular function
+may be dying from cardiovascular compromise
+following penicillin G benzathine injections, the
+American Heart Association (AHA) now strongly
+advises that patients with RHD at elevated risk
+receive oral antibiotic prophylaxis, preferably
+oral penicillin, if readily available.[115] The AHA
+notes that patients with elevated risk include
+those with severe mitral stenosis, aortic stenosis,
+and aortic insufficiency, those with decreased
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Rheumatic fever Management
+Ongoing
+left ventricular systolic dysfunction, and those
+with no symptoms; for these patients, the AHA
+believes the risk of adverse reaction to penicillin
+G benzathine, specifically cardiovascular
+compromise, may outweigh its theoretical
+benefit.[115]
+» Patients with proven penicillin allergy can be
+managed with oral erythromycin.[1] Penicillin is
+safe in pregnancy.[1]
+» Penicillin allergy should be thoroughly
+investigated. Refer to a specialist if required,
+as penicillin remains first choice for secondary
+prophylaxis and desensitization may be possible.
+Anticoagulation is not a contraindication
+to intramuscular injections of penicillin G
+benzathine.
+Primary prevention
+Primary prevention of rheumatic fever refers to the appropriate and timely antibiotic treatment of group A
+streptococcal pharyngitis and skin infections. This is recommended in populations at high risk of rheumatic
+fever/chronic rheumatic heart disease, and for individuals who may have personal risk factors for rheumatic
+fever (e.g., family history of rheumatic fever).[47] If commenced within 9 days of the onset of sore throat
+symptoms, intramuscular or oral administration of penicillin will usually prevent the development of acute
+rheumatic fever (ARF).[48] [49]
+Shorter courses of oral antibiotics may have comparable efficacy to standard 10-day courses of oral penicillin
+in treating pediatric patients with acute streptococcal pharyngitis.[50]
+However, there are no data regarding the prevention of rheumatic fever with shorter courses.
+A meta-analysis of studies of community-based primary prevention programs reported a reduction in risk
+of ARF by 59%.[51] However, only 1 of the 6 studies included in the meta-analysis was a randomized
+controlled trial, and this did not demonstrate a statistically significant treatment effect.[52] In New Zealand,
+one large-scale national rheumatic fever prevention program, centered around sore throat case finding,
+was implemented in 2011.[53] In one particular high-risk area, investigators observed a 58% reduction in
+rheumatic fever incidence among 5- to 13-year olds from 88 in 100,000 (95% CI 79 to 111) to 37 in 100,000
+(95% CI 15 to 83).[54]
+In low-income and middle-income countries where ARF is common, some experts assert that intensive sore
+throat surveillance and treatment programs cannot currently be recommended as coordinated public health
+programs because they have substantial cost implications.[55] However, local reports have demonstrated
+cost-effectiveness of primary prevention strategies, with one study also suggesting tailored approaches
+to reduce ARF in Africa.[56] Investigation and treatment of sore throat should continue to be promoted in
+settings where this strategy is feasible.
+Secondary prevention
+The main priority of long-term management is to ensure secondary prophylaxis is adhered to. Secondary
+prophylaxis is clinically effective to prevent recurrent episodes of group A streptococcal infection and is cost-
+effective.[122] [123]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Rheumatic fever Management
+MANAGEMENT
+The World Health Organization (WHO) defines secondary prophylaxis for rheumatic fever as "the continuous
+administration of specific antibiotics to patients with a previous attack of rheumatic fever, or well-documented
+rheumatic heart disease (RHD). The purpose is to prevent colonization or infection of the upper respiratory
+tract with group A streptococci and the development of recurrent attacks of rheumatic fever."[1] Use of
+secondary prophylaxis in children with latent RHD (detected by echocardiography) was associated with less
+progression of valve lesions.[91]
+The most effective antibiotic is penicillin and the most effective method of delivery of penicillin is by
+intramuscular injection of long-acting penicillin G benzathine every 3 to 4 weeks.[113] [114]
+Intramuscular penicillin G benzathine reduces streptococcal pharyngitis by 71% to 91% and reduces
+recurrent rheumatic fever by 87% to 96%.[114]
+The internationally accepted dosage of penicillin G benzathine is the same as that for eradication of
+streptococci used during the acute attack.[1] [124] Recommendations on the frequency of intramuscular
+injections and the duration of secondary prophylaxis vary between authorities. The WHO does not specify
+whether injections should be administered every 3 weeks or every 4 weeks. Some experts recommend
+injections every 3 weeks for patients at high risk (moderate to severe carditis or previous breakthrough
+case of acute rheumatic fever [ARF]), based on evidence that suggests that fewer recurrent episodes of
+ARF occur with this regimen.[125] The duration of secondary prophylaxis is determined by a number of
+factors, including age, time since last episode of ARF, and severity of disease. Recommended duration
+of prophylaxis varies across clinical guidelines.[1] [63] [95] [117] Following growing evidence that patients
+with RHD who have severe valvular heart disease with or without reduced ventricular function may be
+dying from cardiovascular compromise following penicillin G benzathine injections, the American Heart
+Association (AHA) now strongly advises that patients with RHD at elevated risk receive oral antibiotic
+prophylaxis, preferably oral penicillin, if readily available.[115] The AHA notes that patients with elevated
+risk include those with severe mitral stenosis, aortic stenosis, and aortic insufficiency, those with decreased
+left ventricular systolic dysfunction, and those with no symptoms; for these patients, the AHA believes the
+risk of adverse reaction to penicillin G benzathine, specifically cardiovascular compromise, may outweigh its
+theoretical benefit.[115]
+Patients with proven penicillin allergy should be managed with twice-daily oral erythromycin.[1] Penicillin is
+safe in pregnancy.[1] Intramuscular injections of penicillin G benzathine are considered sufficiently safe for
+anticoagulated patients.
+Endocarditis prophylaxis
+There is a lack of international consensus regarding the effectiveness of antibiotic prophylaxis for
+endocarditis. While this is not recommended in the UK, current guidelines from the American Heart
+Association conclude that it is reasonable to recommend antibiotic prophylaxis for individuals with certain
+forms of valvular heart disease (including prosthetic heart valves, annuloplasty rings) prior to dental
+procedures that involve manipulation of gingival tissue, manipulation of the periapical region of teeth, or
+perforation of the oral mucosa, for the prevention of infective endocarditis.[126] [127] In Australia and New
+Zealand, patients with RHD have been found to have a substantially increased risk of endocarditis.[128]
+Australian guidelines recommend antibiotic prophylaxis if patients are having a procedure associated with
+a high risk of bacteremia that is associated with endocarditis and they have a cardiac condition associated
+with an increased risk of developing infective endocarditis and the highest risk of adverse outcomes from
+endocarditis.[63] New Zealand guidelines recommend antibiotic prophylaxis for those with established RHD
+or prosthetic valves if they are having procedures expected to produce bacteremia.[95]
+Pneumococcal and influenza vaccination are recommended for patients with RHD, particularly those with
+severe heart involvement and heart failure.
+Patient discussions
+The most crucial advice for patients is the importance of adhering to secondary prophylaxis. A first attack
+not involving the heart does not necessarily mean that subsequent attacks will also spare the heart.
+[64] This should include education about rheumatic fever and rheumatic heart disease, underlining the
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Rheumatic fever Management
+importance of treating sore throats early and recommending a nonpenicillin antibiotic for streptococcal
+pharyngitis if the patient is taking penicillin prophylaxis.
+Oral health is very important in these patients and patients should receive education about dental care.
+Patients with carditis should be encouraged to inform their doctor or dentist prior to any interventional
+procedure so appropriate antibiotic prophylaxis against infective endocarditis can be given.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Rheumatic fever Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+Most patients respond well to treatment and can be discharged from hospital within 2 weeks. Patients with
+progressive or severe carditis often require a longer admission with careful monitoring of clinical condition
+based on clinical examination, serial echocardiography, ECG, and chest x-ray.
+The erythrocyte sedimentation rate and C-reactive protein should be measured weekly initially, and then
+every 1 to 2 weeks until they normalize, when possible. Echocardiography should be repeated after 2-4
+weeks if the initial diagnosis is unclear or if the initial episode was severe.
+All patients who have had carditis should be seen in follow-up by their primary medical practitioner at 6-
+monthly intervals and by a specialist cardiologist with echocardiography every 1 to 2 years. If moderate
+to severe rheumatic valve disease is present, more frequent review is advised. The importance of
+prophylaxis can be emphasized at follow-up. Patients with valvular involvement will need a full dental
+assessment, prior to elective valve surgery.
+Complications
+Complications Timeframe Likelihood
+rheumatic heart disease long term high
+Around 30% to 50% of all patients with rheumatic fever will develop rheumatic heart disease, and this
+risk increases to more than 70% if the initial attack is severe or if there has been at least one recurrence.
+Typically this affects the mitral valve, but mixed aortic and mitral disease can occur. This may be detected
+through routine follow-up or if the patient develops symptoms of breathlessness or decreased exercise
+tolerance. The extent of valve damage can be monitored by echocardiography, and valve repair or
+replacement surgery may be required. Mitral valve repair is preferred to replacement as patients are young
+and a replacement tissue valve is only likely to last up to 15 years. The alternative is a mechanical valve
+requiring lifelong anticoagulation. Additional complications include atrial fibrillation and congestive heart
+failure.[121]
+Prognosis
+Acute recovery without treatment
+Without treatment, the symptoms of acute rheumatic fever (ARF) usually resolve within several weeks, but
+unrecognized cardiac inflammation can last weeks to months and progress to rheumatic heart disease
+(RHD).
+Acute recovery with treatment
+With treatment, the symptoms of ARF usually resolve within several weeks, but cardiac inflammation
+lasts weeks to months. It is not uncommon for patients to have recurrent symptoms early after the first
+attack, particularly as they are weaned away from nonsteroidal anti-inflammatory medication, salicylates,
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Rheumatic fever Follow up
+or glucocorticoids; this may include return of arthritis or arthralgia, with fever and elevated inflammatory
+markers. This does not indicate a recurrence, and can be managed with reinstitution of anti-inflammatory
+medication from which patients can be weaned at a slower pace.
+Long-term sequelae
+Patients with ARF should expect to make a complete recovery from the arthritis, fever, and chorea. Patients
+should be warned that, in the long term, they are at risk of repeated episodes of ARF and consequently of
+chronic RHD. The likelihood of developing RHD depends upon the severity of the initial attack of ARF and
+the number of recurrent episodes of rheumatic fever.[113] Around 30% to 50% of all patients with rheumatic
+fever will develop chronic RHD, and this risk increases to more than 70% if the initial attack is severe or if
+there has been at least one recurrence. Therefore, secondary prophylaxis to prevent recurrent attacks is
+very important, particularly as 75% of recurrences occur within 2 years of the first attack and more than 90%
+occur within the first 5 years. A first attack not involving the heart does not necessarily mean that subsequent
+attacks will also spare the heart.[64] The proportion of patients with a primary episode of ARF that develop
+a recurrence varies depending upon adherence with secondary prophylaxis; in areas where compliance is
+poor, up to 45% of cases of rheumatic fever are recurrent episodes. Conversely, in populations with excellent
+secondary prophylaxis delivery and adherence, recurrence rates are very low.[120]
+Intramuscular penicillin G benzathine reduces streptococcal pharyngitis by 71% to 91% and reduces
+recurrent rheumatic fever by 87% to 96%.[114] Secondary prophylaxis can reduce the clinical severity
+and mortality of RHD and lead to regression of RHD by about 50% to 70% if patients are adherent over a
+decade.[111] [112]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Rheumatic fever Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+Recommendations for the use of echocardiography in the evaluation
+of rheumatic heart disease: a report from the American Society of
+Echocardiography (https://www.asecho.org/guidelines-search)   [93]
+Published by: American Society of Echocardiography Last published: 2023
+Revision of the Jones criteria for the diagnosis of acute rheumatic fever
+in the era of Doppler echocardiography (https://professional.heart.org/en/
+guidelines-and-statements/guidelines-and-statements-search)   [2]
+Published by: American Heart Association Last published: 2015
+Prevention of rheumatic fever and diagnosis and treatment of acute
+streptococcal pharyngitis (https://professional.heart.org/en/guidelines-and-
+statements/guidelines-and-statements-search)   [49]
+Published by: American Heart Association Last published: 2009
+Criteria for echocardiographic diagnosis of rheumatic heart disease (https://
+www.nature.com/articles/nrcardio.2012.7)   [58]
+Published by: World Heart Federation Last published: 2012
+Rheumatic fever and rheumatic heart disease (https://apps.who.int/iris/
+handle/10665/42898)   [1]
+Published by: World Health Organization Last published: 2004
+Australian guideline for prevention, diagnosis and management
+of acute rheumatic fever and rheumatic heart disease (https://
+www.rhdaustralia.org.au/arf-rhd-guideline)   [63]
+Published by: RHDAustralia Last published: 2022
+New Zealand guidelines for rheumatic fever: group A streptococcal sore
+throat management guideline: update (https://www.heartfoundation.org.nz/
+resources)   [94]
+Published by: Heart Foundation of New Zealand Last published: 2019
+Guidelines for rheumatic fever: diagnosis, management and secondary
+prevention of acute rheumatic fever and rheumatic heart disease (https://
+www.heartfoundation.org.nz/resources)   [95]
+Published by: Heart Foundation of New Zealand Last published: 2014
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Rheumatic fever Guidelines
+Treatment guidelines
+International
+Prevention of rheumatic fever and diagnosis and treatment of acute
+streptococcal pharyngitis (https://professional.heart.org/en/guidelines-and-
+statements/guidelines-and-statements-search)   [49]
+Published by: American Heart Association Last published: 2009
+Rheumatic fever and rheumatic heart disease (https://apps.who.int/iris/
+handle/10665/42898)   [1]
+Published by: World Health Organization Last published: 2004
+Guidelines for the secondary prevention of rheumatic heart disease (http://
+www.spids.org.sa/resources)   [118]
+Published by: Saudi Pediatric Infectious Diseases Society Last published: 2017
+Consensus guidelines on pediatric acute rheumatic fever and rheumatic
+heart disease (https://www.indianpediatrics.net/july2008/current.htm)   [117]
+Published by: Working Group on Pediatric Acute Rheumatic Fever;
+Cardiology Chapter of the Indian Academy of Pediatrics
+Last published: 2008
+Australian guideline for prevention, diagnosis and management
+of acute rheumatic fever and rheumatic heart disease (https://
+www.rhdaustralia.org.au/arf-rhd-guideline)   [63]
+Published by: RHDAustralia Last published: 2022
+New Zealand guidelines for rheumatic fever: group A streptococcal sore
+throat management guideline: update (https://www.heartfoundation.org.nz/
+resources)   [94]
+Published by: Heart Foundation of New Zealand Last published: 2019
+Guidelines for rheumatic fever: diagnosis, management and secondary
+prevention of acute rheumatic fever and rheumatic heart disease (https://
+www.heartfoundation.org.nz/resources)   [95]
+Published by: Heart Foundation of New Zealand Last published: 2014
+Group A streptococcal infections: guidance and data (https://www.gov.uk/
+government/collections/group-a-streptococcal-infections-guidance-and-data) 
+[119]
+Published by: UK Health Security Agency Last published: 2022
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Rheumatic fever Online resources
+ONLINE RESOURCES
+Online resources
+1. Australian guideline for prevention, diagnosis and management of acute rheumatic fever and
+rheumatic heart disease (https://www.rhdaustralia.org.au/arf-rhd-guideline)  (external link)
+2. Heart Foundation of New Zealand: diagnosis, management and secondary prevention of acute
+rheumatic fever and rheumatic heart disease (https://www.heartfoundation.org.nz/resources/acute-
+rheumatic-fever-and-rheumatic-heart-disease-guideline)  (external link)
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Rheumatic fever References
+Key articles
+• World Health Organization. Rheumatic fever and rheumatic heart disease: report of a WHO Expert
+Consultation. 2004 [internet publication].  Full text (https://apps.who.int/iris/handle/10665/42898)
+• Gewitz MH, Baltimore RS, Tani LY, et al. Revision of the Jones criteria for the diagnosis of acute
+rheumatic fever in the era of Doppler echocardiography: a scientific statement from the American
+Heart Association. Circulation. 2015 May 19;131(20):1806-18.  Full text (http://circ.ahajournals.org/
+content/131/20/1806.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25908771?
+tool=bestpractice.bmj.com)
+• Carapetis JR, Beaton A, Cunningham MW, et al. Acute rheumatic fever and rheumatic heart disease.
+Nat Rev Dis Primers. 2016 Jan 14;2:15084.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC5810582)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27188830?tool=bestpractice.bmj.com)
+• Denny F, Wannamaker LW, Brink WR, et al. Prevention of rheumatic fever; treatment of
+preceding streptococci infection. J Am Med Assoc. 1950 May 13;143(2):151-3. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15415234?tool=bestpractice.bmj.com)
+• Gerber MA, Baltimore RS, Eaton CB, et al. Prevention of rheumatic fever and diagnosis and treatment
+of acute streptococcal pharyngitis: a scientific statement from the American Heart Association
+Rheumatic Fever, Endocarditis, and Kawasaki Disease Committee of the Council on Cardiovascular
+Disease in the Young, the Interdisciplinary Council on Functional Genomics and Translational
+Biology, and the Interdisciplinary Council on Quality of Care and Outcomes Research: endorsed
+by the American Academy of Pediatrics. Circulation. 2009 Mar 24;119(11):1541-51.  Full text
+(http://circ.ahajournals.org/content/119/11/1541.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19246689?tool=bestpractice.bmj.com)
+• RHDAustralia (ARF/RHD writing group). The 2020 Australian guideline for prevention, diagnosis and
+management of acute rheumatic fever and rheumatic heart disease (3.2 edition, March 2022). 2022
+[internet publication].  Full text (https://www.rhdaustralia.org.au/arf-rhd-guideline)
+• Heart Foundation of New Zealand. New Zealand guidelines for rheumatic fever: diagnosis,
+management and secondary prevention of acute rheumatic fever and rheumatic heart disease: 2014
+update. 2014 [internet publication].  Full text (https://www.heartfoundation.org.nz/resources/acute-
+rheumatic-fever-and-rheumatic-heart-disease-guideline)
+• Manyemba J, Mayosi BM. Penicillin for secondary prevention of rheumatic fever. Cochrane
+Database Syst Rev. 2002;(3):CD002227.  Full text (https://www.cochranelibrary.com/cdsr/
+doi/10.1002/14651858.CD002227/full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12137650?
+tool=bestpractice.bmj.com)
+References
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Rheumatic fever References
+REFERENCES
+1. World Health Organization. Rheumatic fever and rheumatic heart disease: report of a WHO Expert
+Consultation. 2004 [internet publication].  Full text (https://apps.who.int/iris/handle/10665/42898)
+2. Gewitz MH, Baltimore RS, Tani LY, et al. Revision of the Jones criteria for the diagnosis of acute
+rheumatic fever in the era of Doppler echocardiography: a scientific statement from the American
+Heart Association. Circulation. 2015 May 19;131(20):1806-18.  Full text (http://circ.ahajournals.org/
+content/131/20/1806.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25908771?
+tool=bestpractice.bmj.com)
+3. Punukollu M, Mushet N, Linney M, et al. Neuropsychiatric manifestations of Sydenham's
+chorea: a systematic review. Dev Med Child Neurol. 2016 Jan;58(1):16-28.  Full text (http://
+onlinelibrary.wiley.com/doi/10.1111/dmcn.12786/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25926089?tool=bestpractice.bmj.com)
+4. Carapetis JR, Steer AC, Mulholland EK, et al. The global burden of group A streptococcal diseases.
+Lancet Infect Dis. 2005 Nov;5(11):685-94. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16253886?
+tool=bestpractice.bmj.com)
+5. Watkins DA, Johnson CO, Colquhoun SM, et al. Global, regional, and national burden of
+rheumatic heart disease, 1990-2015. N Engl J Med. 2017 Aug 24;377(8):713-22.  Full text (http://
+www.nejm.org/doi/full/10.1056/NEJMoa1603693#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28834488?tool=bestpractice.bmj.com)
+6. Roth GA, Mensah GA, Johnson CO, et al. Global burden of cardiovascular diseases and risk factors,
+1990-2019: update from the GBD 2019 study. J Am Coll Cardiol. 2020 Dec 22;76(25):2982-3021. 
+Full text (https://www.sciencedirect.com/science/article/pii/S0735109720377755)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33309175?tool=bestpractice.bmj.com)
+7. Miyake CY, Gauvreau K, Tani LY, et al. Characteristics of children discharged from hospitals in the
+United States in 2000 with the diagnosis of acute rheumatic fever. Pediatrics. 2007 Sep;120(3):503-8.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17766522?tool=bestpractice.bmj.com)
+8. Milne RJ, Lennon DR, Stewart JM, et al. Incidence of acute rheumatic fever in New Zealand children
+and youth. J Paediatr Child Health. 2012 Aug;48(8):685-91. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22494483?tool=bestpractice.bmj.com)
+9. Okello E, Ndagire E, Atala J, et al. Active case finding for rheumatic fever in an endemic country.
+J Am Heart Assoc. 2020 Aug 4;9(15):e016053.  Full text (https://www.ahajournals.org/doi/
+full/10.1161/JAHA.120.016053)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32750303?
+tool=bestpractice.bmj.com)
+10. Quinn RW. Comprehensive review of morbidity and mortality trends for rheumatic fever, streptococcal
+disease, and scarlet fever: the decline of rheumatic fever. Rev Infect Dis. 1989 Nov-Dec;11(6):928-53.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2690288?tool=bestpractice.bmj.com)
+11. Veasy LG, Tani LY, Hill HR. Persistence of acute rheumatic fever in the intermountain area
+of the United States. J Pediatr. 1994 Jan;124(1):9-16. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7802743?tool=bestpractice.bmj.com)
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Rheumatic fever References
+12. Veasy LG, Wiedmeier SE, Orsmond GS, et al. Resurgence of acute rheumatic fever in the
+intermountain area of the United States. N Engl J Med. 1987 Feb 19;316(8):421-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3807984?tool=bestpractice.bmj.com)
+13. Johnson DR, Stevens DL, Kaplan EL. Epidemiologic analysis of group A streptococcal serotypes
+associated with severe systemic infections, rheumatic fever, or uncomplicated pharyngitis. J
+Infect Dis. 1992 Aug;166(2):374-82. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1634809?
+tool=bestpractice.bmj.com)
+14. Centers for Disease Control and Prevention. Group A streptococcal disease. Acute rheumatic fever.
+Jun 2022 [internet publication].  Full text (https://www.cdc.gov/groupastrep/diseases-hcp/acute-
+rheumatic-fever.html)
+15. Carapetis JR, Currie BJ, Mathews JD. Cumulative incidence of rheumatic fever in an endemic region:
+a guide to the susceptibility of the population? Epidemiol Infect. 2000 Apr;124(2):239-44.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2810907)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10813149?tool=bestpractice.bmj.com)
+16. Wilson MG, Schweitzer MD, Lubschez R. The familial epidemiology of rheumatic fever: genetic and
+epidemiologic studies. J Peds. 1943;22:468-92.
+17. Engel ME, Stander R, Vogel J, et al. Genetic susceptibility to acute rheumatic fever: a
+systematic review and meta-analysis of twin studies. PLoS One. 2011;6(9):e25326.  Full text
+(http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3184125/?tool=pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21980428?tool=bestpractice.bmj.com)
+18. Harel L, Zeharia A, Kodman Y, et al. Presence of the d8/17 B-cell marker in children with
+rheumatic fever in Israel. Clin Genet. 2002 Apr;61(4):293-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12030895?tool=bestpractice.bmj.com)
+19. Harrington Z, Visvanathan K, Skinner NA, et al. B-cell antigen D8/17 is a marker of rheumatic fever
+susceptibility in Aboriginal Australians and can be tested in remote settings. Med J Aust. 2006 May
+15;184(10):507-10.  Full text (http://www.mja.com.au/public/issues/184_10_150506/har10968_fm.html)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16719750?tool=bestpractice.bmj.com)
+20. Khanna AK, Buskirk DR, Williams RC Jr, et al. Presence of a non-HLA B cell antigen in
+rheumatic fever patients and their families as defined by a monoclonal antibody. J Clin Invest.
+1989 May;83(5):1710-6.  Full text (http://www.jci.org/articles/view/114071)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2785121?tool=bestpractice.bmj.com)
+21. Weisz JL, McMahon WM, Moore JC, et al. D8/17 and CD19 expression on lymphocytes of patients
+with acute rheumatic fever and Tourette's disorder. Clin Diagn Lab Immunol. 2004 Mar;11(2):330-6. 
+Full text (http://cvi.asm.org/cgi/content/full/11/2/330?view=long&pmid=15013984)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15013984?tool=bestpractice.bmj.com)
+22. Chun LT, Reddy DV, Yamamoto LG. Rheumatic fever in children and adolescents in Hawaii.
+Pediatrics. 1987 Apr;79(4):549-52. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3822672?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Rheumatic fever References
+REFERENCES
+23. Chun LT, Reddy V, Rhoads GG. Occurrence and prevention of rheumatic fever among ethnic
+groups of Hawaii. Am J Dis Child. 1984 May;138(5):476-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/6711504?tool=bestpractice.bmj.com)
+24. Pearce N, Pomare E, Marshall S, et al. Mortality and social class in Maori and nonMaori New Zealand
+men: changes between 1975-7 and 1985-7. N Z Med J. 1993 May 26;106(956):193-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8341437?tool=bestpractice.bmj.com)
+25. Carapetis JR, Wolff DR, Currie BJ. Acute rheumatic fever and rheumatic heart disease in the
+top end of Australia's Northern Territory. Med J Aust. 1996 Feb 5;164(3):146-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8628132?tool=bestpractice.bmj.com)
+26. Parks T, Mirabel MM, Kado J, et al; Pacific Islands Rheumatic Heart Disease Genetics Network.
+Association between a common immunoglobulin heavy chain allele and rheumatic heart disease risk
+in Oceania. Nat Commun. 2017 May 11;8:14946.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC5437274)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28492228?tool=bestpractice.bmj.com)
+27. Gray LA, D'Antoine HA, Tong SYC, et al. Genome-wide analysis of genetic risk factors for rheumatic
+heart disease in Aboriginal Australians provides support for pathogenic molecular mimicry. J Infect
+Dis. 2017 Dec 12;216(11):1460-70. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29029143?
+tool=bestpractice.bmj.com)
+28. Machipisa T, Chong M, Muhamed B, et al. Association of novel locus with rheumatic heart disease in
+black African individuals: findings from the RHDGen study. JAMA Cardiol. 2021 Sep 1;6(9):1000-11. 
+Full text (https://jamanetwork.com/journals/jamacardiology/fullarticle/2780387)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34106200?tool=bestpractice.bmj.com)
+29. McDonald M, Currie BJ, Carapetis JR. Acute rheumatic fever: a chink in the chain that links the
+heart to the throat? Lancet Infect Dis. 2004 Apr;4(4):240-5. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15050943?tool=bestpractice.bmj.com)
+30. Oliver J, Bennett J, Thomas S, et al. Preceding group A streptococcus skin and throat infections are
+individually associated with acute rheumatic fever: evidence from New Zealand. BMJ Glob Health.
+2021 Dec;6(12):e007038.  Full text (https://gh.bmj.com/content/6/12/e007038.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34887304?tool=bestpractice.bmj.com)
+31. Guilherme L, Kalil J, Cunningham M. Molecular mimicry in the autoimmune pathogenesis of
+rheumatic heart disease. Autoimmunity. 2006 Feb;39(1):31-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16455580?tool=bestpractice.bmj.com)
+32. Carapetis JR, Beaton A, Cunningham MW, et al. Acute rheumatic fever and rheumatic heart disease.
+Nat Rev Dis Primers. 2016 Jan 14;2:15084.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC5810582)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27188830?tool=bestpractice.bmj.com)
+33. Galvin JE, Hemric ME, Ward K, et al. Cytotoxic mAb from rheumatic carditis recognizes heart valves
+and laminin. J Clin Invest. 2000 Jul;106(2):217-24.  Full text (http://www.jci.org/articles/view/7132)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10903337?tool=bestpractice.bmj.com)
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Rheumatic fever References
+34. Martin WJ, Steer AC, Smeesters PR, et al. Post-infectious group A streptococcal autoimmune
+syndromes and the heart. Autoimmun Rev. 2015 Aug;14(8):710-25. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25891492?tool=bestpractice.bmj.com)
+35. Kumar V, Fausto N, Abbas A. Robbins & Cotran Pathologic Basis of Disease. 7th ed. Philadelphia, PA:
+Saunders; 2004.
+36. Coffey PM, Ralph AP, Krause VL. The role of social determinants of health in the risk and
+prevention of group A streptococcal infection, acute rheumatic fever and rheumatic heart
+disease: A systematic review. PLoS Negl Trop Dis. 2018 Jun;12(6):e0006577.  Full text
+(https://www.doi.org/10.1371/journal.pntd.0006577)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29897915?tool=bestpractice.bmj.com)
+37. Kumar P, Garhwal S, Chaudhary V. Rheumatic heart disease: a school survey in a rural area
+of Rajasthan. Indian Heart J. 1992 Jul-Aug;44(4):245-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/1289223?tool=bestpractice.bmj.com)
+38. Jaine R, Baker M, Venugopal K. Acute rheumatic fever associated with household crowding in a
+developed country. Pediatr Infect Dis J. 2011 Apr;30(4):315-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20948456?tool=bestpractice.bmj.com)
+39. Steer AC, Carapetis JR, Nolan TM, et al. Systematic review of rheumatic heart disease prevalence
+in children in developing countries: the role of environmental factors. J Paediatr Child Health. 2002
+Jun;38(3):229-3. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12047688?tool=bestpractice.bmj.com)
+40. Wannamaker LW. The epidemiology of streptococcal infections. In: McCarty M, ed. Streptococcal
+infections. New York: Columbia University Press; 1954.
+41. Taranta A, Torodsag S, Metrakoset, et al. Rheumatic fever in monozygotic and dizygotic twins.
+Circulation. 1959;20:778.
+42. Guedez Y, Kotby A, El-Demellawy M, et al. HLA class II associations with rheumatic heart disease
+are more evident and consistent among clinically homogeneous patients. Circulation. 1999 Jun
+1;99(21):2784-90.  Full text (http://circ.ahajournals.org/cgi/content/full/99/21/2784)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10351973?tool=bestpractice.bmj.com)
+43. Azevedo PM, Merriman TR, Topless RK, et al. Association study involving polymorphisms in
+IL-6, IL-1RA, and CTLA4 genes and rheumatic heart disease in New Zealand population of
+Māori and Pacific ancestry. Cytokine. 2016 Sep;85:201-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27400406?tool=bestpractice.bmj.com)
+44. Salie MT, Yang J, Ramírez Medina CR, et al. Data-independent acquisition mass spectrometry
+in severe rheumatic heart disease (RHD) identifies a proteomic signature showing ongoing
+inflammation and effectively classifying RHD cases. Clin Proteomics. 2022 Mar 22;19(1):7.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8939134)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35317720?tool=bestpractice.bmj.com)
+45. Kemeny E, Husby GW, Williams RC Jr, et al. Tissue distribution of antigen(s) defined by monoclonal
+antibody D8/17 reacting with B lymphocytes of patients with rheumatic heart disease. Clin Immunol
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Rheumatic fever References
+REFERENCES
+Immunopathol. 1994 Jul;72(1):35-43. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8020192?
+tool=bestpractice.bmj.com)
+46. Kaur S, Kumar D, Grover A, et al. Ethnic differences in expression of susceptibility marker(s) in
+rheumatic fever/rheumatic heart disease patients. Int J Cardiol. 1998 Mar 13;64(1):9-14. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/9579811?tool=bestpractice.bmj.com)
+47. Spinks A, Glasziou PP, Del Mar CB. Antibiotics for treatment of sore throat in children and adults.
+Cochrane Database Syst Rev. 2021 Dec 9;(12):CD000023.  Full text (https://www.cochranelibrary.com/
+cdsr/doi/10.1002/14651858.CD000023.pub5/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34881426?tool=bestpractice.bmj.com)
+48. Denny F, Wannamaker LW, Brink WR, et al. Prevention of rheumatic fever; treatment of
+preceding streptococci infection. J Am Med Assoc. 1950 May 13;143(2):151-3. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15415234?tool=bestpractice.bmj.com)
+49. Gerber MA, Baltimore RS, Eaton CB, et al. Prevention of rheumatic fever and diagnosis and treatment
+of acute streptococcal pharyngitis: a scientific statement from the American Heart Association
+Rheumatic Fever, Endocarditis, and Kawasaki Disease Committee of the Council on Cardiovascular
+Disease in the Young, the Interdisciplinary Council on Functional Genomics and Translational
+Biology, and the Interdisciplinary Council on Quality of Care and Outcomes Research: endorsed
+by the American Academy of Pediatrics. Circulation. 2009 Mar 24;119(11):1541-51.  Full text
+(http://circ.ahajournals.org/content/119/11/1541.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19246689?tool=bestpractice.bmj.com)
+50. Altamimi S, Khalil A, Khalaiwi KA, et al. Short-term late-generation antibiotics versus
+longer term penicillin for acute streptococcal pharyngitis in children. Cochrane Database
+Syst Rev. 2012 Aug 15;(8):CD004872.  Full text (https://www.cochranelibrary.com/cdsr/
+doi/10.1002/14651858.CD004872.pub3/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22895944?tool=bestpractice.bmj.com)
+51. Lennon D, Kerdemelidis M, Arroll B. Meta-analysis of trials of streptococcal throat treatment
+programs to prevent rheumatic fever. Pediatr Infect Dis J. 2009 Jul;28(7):e259-64. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19561421?tool=bestpractice.bmj.com)
+52. Lennon D, Stewart J, Farrell E, et al. School-based prevention of acute rheumatic fever: a group
+randomized trial in New Zealand. Pediatr Infect Dis J. 2009 Sep;28(9):787-94. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19710585?tool=bestpractice.bmj.com)
+53. Health New Zealand. Rheumatic fever guidance [internet publication].  Full text (https://
+www.tewhatuora.govt.nz/for-the-health-sector/health-sector-guidance/rheumatic-fever-guidance)
+54. Lennon D, Anderson P, Kerdemelidis M, et al. First presentation acute rheumatic fever is preventable
+in a community setting: a school-based intervention. Pediatr Infect Dis J. 2017 Dec;36(12):1113-8.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28230706?tool=bestpractice.bmj.com)
+55. Carapetis J, Steer A. Prevention of rheumatic fever. Pediatr Infect Dis J. 2010 Jan;29(1):91-2;author
+reply 92. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20035211?tool=bestpractice.bmj.com)
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Rheumatic fever References
+56. Coates MM, Sliwa K, Watkins DA, et al. An investment case for the prevention and management
+of rheumatic heart disease in the African Union 2021-30: a modelling study. Lancet Glob
+Health. 2021 Jul;9(7):e957-66.  Full text (https://www.thelancet.com/journals/langlo/article/
+PIIS2214-109X(21)00199-6/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33984296?
+tool=bestpractice.bmj.com)
+57. Jones TD. The diagnosis of rheumatic fever. J Am Med Assoc. 1944;126:481-4.
+58. Reményi B, Wilson N, Steer A, et al. World Heart Federation criteria for echocardiographic
+diagnosis of rheumatic heart disease - an evidence-based guideline. Nat Rev Cardiol. 2012 Feb
+28;9(5):297-309.  Full text (https://www.world-heart-federation.org/wp-content/uploads/2017/05/
+WHFechoCriteriaForDxRHDnrcardio.2012.7.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22371105?tool=bestpractice.bmj.com)
+59. Vasan RS, Shrivastava S, Vijayakumar M, et al. Echocardiographic evaluation of patients with
+acute rheumatic fever and rheumatic carditis. Circulation. 1996 Jul 1;94(1):73-82.  Full text (http://
+circ.ahajournals.org/content/94/1/73.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8964121?
+tool=bestpractice.bmj.com)
+60. Steer AC, Kado J, Jenney AW, et al. Acute rheumatic fever and rheumatic heart disease in Fiji:
+prospective surveillance, 2005-2007. Med J Aust. 2009 Feb 2;190(3):133-5. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19203310?tool=bestpractice.bmj.com)
+61. Feinstein AR, Spagnuolo M, Wood HF, et al. Rheumatic fever in children and adolescents. A
+long-term epidemiologic study of subsequent prophylaxis, streptococcal infections, and clinical
+sequelae. VI. Clinical features of streptococcal infections and rheumatic recurrences. Ann Intern
+Med. 1964 Feb;60(suppl 5):68-86. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14118549?
+tool=bestpractice.bmj.com)
+62. Carapetis JR, Currie BJ. Rheumatic chorea in northern Australia: a clinical and epidemiological study.
+Arch Dis Child. 1999 Apr;80(4):353-8.  Full text (http://adc.bmj.com/content/80/4/353.long)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/10086943?tool=bestpractice.bmj.com)
+63. RHDAustralia (ARF/RHD writing group). The 2020 Australian guideline for prevention, diagnosis and
+management of acute rheumatic fever and rheumatic heart disease (3.2 edition, March 2022). 2022
+[internet publication].  Full text (https://www.rhdaustralia.org.au/arf-rhd-guideline)
+64. Carapetis JR, Currie BJ. Rheumatic fever in a high incidence population: the importance of
+monoarthritis and low grade fever. Arch Dis Child. 2001 Sep;85(3):223-7.  Full text (https://
+adc.bmj.com/content/85/3/223.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11517105?
+tool=bestpractice.bmj.com)
+65. Veasy LG. Time to take soundings in acute rheumatic fever. Lancet. 2001 Jun 23;357(9273):1994-5.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11438128?tool=bestpractice.bmj.com)
+66. Narula J, Kaplan EL. Echocardiographic diagnosis of rheumatic fever. Lancet. 2001
+Dec 8;358(9297):2000. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11747959?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Rheumatic fever References
+REFERENCES
+67. Abernethy M, Bass N, Sharpe N, et al. Doppler echocardiography and the early diagnosis of carditis in
+acute rheumatic fever. Aust N Z J Med. 1994 Oct;24(5):530-5. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7848157?tool=bestpractice.bmj.com)
+68. Vijayalakshmi IB, Vishnuprabhu RO, Chitra N, et al. The efficacy of echocardiographic criterions for the
+diagnosis of carditis in acute rheumatic fever. Cardiol Young. 2008 Dec;18(6):586-92. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18845020?tool=bestpractice.bmj.com)
+69. Martin DR, Voss LM, Walker SJ, et al. Acute rheumatic fever in Auckland, New Zealand: spectrum of
+associated group A streptococci different from expected. Pediatr Infect Dis J. 1994 Apr;13(4):264-9.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8036041?tool=bestpractice.bmj.com)
+70. Upton A, Lowe C, Stewart J, et al. In vitro comparison of four rapid antigen tests for group
+A streptococcus detection. N Z Med J. 2014 Jul 18;127(1398):77-83. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25146863?tool=bestpractice.bmj.com)
+71. Cohen JF, Bertille N, Cohen R, et al. Rapid antigen detection test for group A streptococcus in
+children with pharyngitis. Cochrane Database Syst Rev. 2016 Jul 4;7:CD010502.  Full text (https://
+www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010502.pub2/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27374000?tool=bestpractice.bmj.com)
+72. Wang F, Tian Y, Chen L, et al. Accurate detection of Streptococcus pyogenes at the point of care using
+the Cobas Liat Strep A nucleic acid test. Clin Pediatr (Phila). 2017 Oct;56(12):1128-34. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28006981?tool=bestpractice.bmj.com)
+73. Parker KG, Gandra S, Matushek S, et al. Comparison of 3 nucleic acid amplification tests and a rapid
+antigen test with culture for the detection of group A streptococci from throat swabs. J Appl Lab Med.
+2019 Sep;4(2):164-9.  Full text (https://academic.oup.com/jalm/article/4/2/164/5636909)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/31639661?tool=bestpractice.bmj.com)
+74. Ferrieri P, Thonen-Kerr E, Nelson K, et al. Prospective evaluation of Xpert® Xpress strep A automated
+PCR assay vs. Solana® group A streptococcal nucleic acid amplification testing vs. conventional
+throat culture. Curr Microbiol. 2021 Aug;78(8):2956-60.  Full text (https://link.springer.com/
+article/10.1007/s00284-021-02547-0)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34085100?
+tool=bestpractice.bmj.com)
+75. Barth DD, Cinanni G, Carapetis JR, et al. Roadmap to incorporating group A Streptococcus molecular
+point-of-care testing for remote Australia: a key activity to eliminate rheumatic heart disease. Med
+J Aust. 2022 Aug 28 [Epub ahead of print].  Full text (https://onlinelibrary.wiley.com/doi/10.5694/
+mja2.51692)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36030483?tool=bestpractice.bmj.com)
+76. Simundic AM, Bölenius K, Cadamuro J, et al. Joint EFLM-COLABIOCLI recommendation for venous
+blood sampling. Clin Chem Lab Med. 2018;56(12):2015-38. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30004902?tool=bestpractice.bmj.com)
+77. Gentles TL, Colan SD, Wilson NJ, et al. Left ventricular mechanics during and after acute rheumatic
+fever: contractile dysfunction is closely related to valve regurgitation. J Am Coll Cardiol. 2001
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Rheumatic fever References
+Jan;37(1):201-7.  Full text (http://www.sciencedirect.com/science/article/pii/S0735109700010585?via
+%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11153739?tool=bestpractice.bmj.com)
+78. Tubridy-Clark M, Carapetis JR. Subclinical carditis in rheumatic fever: a systematic review. Int
+J Cardiol. 2007 Jun 25;119(1):54-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17034886?
+tool=bestpractice.bmj.com)
+79. Wilson NJ, Neutze JM. Echocardiographic diagnosis of subclinical carditis in acute rheumatic
+fever. Int J Cardiol. 1995 Jun 2;50(1):1-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7558460?
+tool=bestpractice.bmj.com)
+80. Upton A, Farrell E, Stewart J, e al. Disappointing performance of rapid antigen detection tests
+for group A streptococcus in the Auckland school-based sore throat programme. N Z Med
+J. 2014 Feb 14;127(1389):103-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24548967?
+tool=bestpractice.bmj.com)
+81. Kaplan EL, Rothermel CD, Johnson DR. Antistreptolysin O and anti-deoxyribonuclease B titers: normal
+values for children ages 2 to 12 in the United States. Pediatrics. 1998 Jan;101(1 Pt 1):86-8. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/9417157?tool=bestpractice.bmj.com)
+82. Danchin MH, Carlin JB, Devenish W, et al. New normal ranges of antistreptolysin O and anti-
+deoxyribonuclease B titres for Australian children. J Paediatr Child Health. 2005 Nov;41(11):583-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16398843?tool=bestpractice.bmj.com)
+83. American Heart Association. Guidelines for the diagnosis of rheumatic fever. Jones Criteria, 1992
+update. Special Writing Group of the Committee on Rheumatic Fever, Endocarditis, and Kawasaki
+Disease of the Council on Cardiovascular Disease in the Young of the American Heart Association.
+JAMA. 1992 Oct 21;268(15):2069-73. [Erratum in: JAMA. 1993 Jan 27;269(4):476.] Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1404745?tool=bestpractice.bmj.com)
+84. Rutstein DD. Report of the committee on standards and criteria for programs of care of the council
+of rheumatic fever and congenital heart disease of the American Heart Association: Jones criteria
+(modified) for guidance in the diagnosis of rheumatic fever. Circulation. 1956 Apr;13(4):617-20. 
+Full text (http://circ.ahajournals.org/content/13/4/617.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/13356420?tool=bestpractice.bmj.com)
+85. Stollerman GH, Markowitz M, Taranta A, et al. Committee report: Jones criteria (revised) for
+guidance in the diagnosis of rheumatic fever. Circulation. 1965 Oct;32(4):664-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/5825556?tool=bestpractice.bmj.com)
+86. Committee of rheumatic fever and bacterial endocarditis of the American Heart Association: Jones
+criteria (revised) for guidance in the diagnosis of rheumatic fever. Circulation. 1984 Jan;69(1):204A-8A.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6357537?tool=bestpractice.bmj.com)
+87. Carapetis JR. Rheumatic heart disease in developing countries. N Engl J Med. 2007 Aug
+2;357(5):439-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17671252?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Rheumatic fever References
+REFERENCES
+88. WHO global programme for the prevention of rheumatic fever/rheumatic heart disease in sixteen
+developing countries (AGFUND supported). Meeting of national programme managers. 4-6 November,
+1986. Geneva: World Health Organisation; 1987. Report No.: WHO/CVD/87.1.
+89. Marijon E, Ou P, Celermajer DS, et al. Prevelance of rheumatic heart disease detected by
+echocardiographic screening. N Engl J Med. 2007 Aug 2;357(5):470-6.  Full text (http://www.nejm.org/
+doi/full/10.1056/NEJMoa065085#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17671255?
+tool=bestpractice.bmj.com)
+90. Rothenbühler M, O'Sullivan CJ, Stortecky S, et al. Active surveillance for rheumatic heart disease
+in endemic regions: a systematic review and meta-analysis of prevalence among children and
+adolescents. Lancet Glob Health. 2014 Dec;2(12):e717-26.  Full text (http://www.thelancet.com/
+journals/langlo/article/PIIS2214-109X(14)70310-9/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25433627?tool=bestpractice.bmj.com)
+91. Beaton A, Okello E, Rwebembera J, et al. Secondary antibiotic prophylaxis for latent rheumatic
+heart disease. N Engl J Med. 2022 Jan 20;386(3):230-40.  Full text (https://www.nejm.org/
+doi/10.1056/NEJMoa2102074)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34767321?
+tool=bestpractice.bmj.com)
+92. Yacoub M, Mayosi B, ElGuindy A, et al. Eliminating acute rheumatic fever and rheumatic
+heart disease. Lancet. 2017 Jul 15;390(10091):212-3. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28721865?tool=bestpractice.bmj.com)
+93. Pandian NG, Kim JK, Arias-Godinez JA, et al. Recommendations for the use of echocardiography in
+the evaluation of rheumatic heart disease: a report from the American Society of Echocardiography.
+J Am Soc Echocardiogr. 2023 Jan;36(1):3-28.  Full text (https://onlinejase.com/article/
+S0894-7317(22)00521-1/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36428195?
+tool=bestpractice.bmj.com)
+94. Heart Foundation of New Zealand. New Zealand guidelines for rheumatic fever: group A streptococcal
+sore throat management guideline - 2019 update. 2019 [internet publication].  Full text (https://
+www.heartfoundation.org.nz/resources/group-a-streptococcal-sore-throat-management)
+95. Heart Foundation of New Zealand. New Zealand guidelines for rheumatic fever: diagnosis,
+management and secondary prevention of acute rheumatic fever and rheumatic heart disease: 2014
+update. 2014 [internet publication].  Full text (https://www.heartfoundation.org.nz/resources/acute-
+rheumatic-fever-and-rheumatic-heart-disease-guideline)
+96. Cilliers A, Adler AJ, Saloojee H. Anti-inflammatory treatment for carditis in acute rheumatic
+fever. Cochrane Database Syst Rev. 2015 May 28;(5):CD003176.  Full text (https://
+www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003176.pub3/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26017576?tool=bestpractice.bmj.com)
+97. US Food and Drug Administration. FDA drug safety communication: FDA requires labeling changes for
+prescription opioid cough and cold medicines to limit their use to adults 18 years and older. Jan 2018
+[internet publication].  Full text (https://www.fda.gov/Drugs/DrugSafety/ucm590435.htm)
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Rheumatic fever References
+98. Medicines and Healthcare Products Regulatory Agency. Codeine: restricted use as analgesic in
+children and adolescents after European safety review. Drug Safety Update. 2013;6:S1.  Full text
+(http://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON287006)
+99. European Medicines Agency. Restrictions on use of codeine for pain relief in children
+- CMDh endorses PRAC recommendation. Jun 2013 [internet publication].  Full text
+(http://www.ema.europa.eu/ema/index.jsp?curl=pages/news_and_events/news/2013/06/
+news_detail_001829.jsp&mid=WC0b01ac058004d5c1)
+100. Mortimer EA Jr, Vaisman S, Vigneau A, et al. The effect of penicillin on acute rheumatic
+fever and valvular heart disease. N Engl J Med. 1959 Jan 15;260(3):101-12. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/13622930?tool=bestpractice.bmj.com)
+101. Illingworth RS, Lorber J, Holt KS, et al. Acute rheumatic fever in children: a comparison of six forms of
+treatment in 200 cases. Lancet. 1957 Oct 5;273(6997):653-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/13476677?tool=bestpractice.bmj.com)
+102. Bywaters EG, Thomas GT. Bed rest, salicylates, and steroid in rheumatic fever. Br Med J. 1961 Jun
+10;1(5240):1628-34.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1954279)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/13689614?tool=bestpractice.bmj.com)
+103. Dorfman A, Gross JI, Lorincz AE. The treatment of acute rheumatic fever. Pediatrics. 1961
+May;27:692-706. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/13723875?tool=bestpractice.bmj.com)
+104. Çetin İİ, Ekici F, Kocabaş A, et al. The efficacy and safety of naproxen in acute rheumatic
+fever: The comparative results of 11-year experience with acetylsalicylic acid and naproxen.
+Turk J Pediatr. 2016;58(5):473-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28621087?
+tool=bestpractice.bmj.com)
+105. Hashkes PJ, Tauber T, Somekh E, et al; Pediatric Rheumatlogy Study Group of Israel. Naproxen
+as an alternative to aspirin for the treatment of arthritis of rheumatic fever: a randomized trial. J
+Pediatr. 2003 Sep;143(3):399-401. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14517527?
+tool=bestpractice.bmj.com)
+106. Albert DA, Harel L, Karrison T. The treatment of rheumatic carditis: a review and meta-analysis.
+Medicine (Baltimore). 1995 Jan;74(1):1-12. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7837966?
+tool=bestpractice.bmj.com)
+107. Voss LM, Wilson NJ, Neutze JM, et al. Intravenous immunoglobulin in acute rheumatic
+fever: a randomized controlled trial. Circulation. 2001 Jan 23;103(3):401-6.  Full text (http://
+circ.ahajournals.org/cgi/content/full/103/3/401)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11157692?tool=bestpractice.bmj.com)
+108. Pena J, Mora E, Cardozo J, et al. Comparison of the efficacy of carbamazepine, haloperidol
+and valproic acid in the treatment of children with Sydenham's chorea: clinical follow-up of 18
+patients. Arq Neuropsiquiatr. 2002 Jun;60(2-B):374-7.  Full text (http://www.scielo.br/scielo.php?
+script=sci_arttext&pid=S0004-282X2002000300006&lng=en&nrm=iso&tlng=en)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12131934?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Rheumatic fever References
+REFERENCES
+109. Walker K, Brink A, Lawrenson J, et al. Treatment of sydenham chorea with intravenous
+immunoglobulin. J Child Neurol. 2012 Feb;27(2):147-55. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21868369?tool=bestpractice.bmj.com)
+110. Mohammad SS, Nosadini M, Grattan-Smith P, et al. Intravenous immunoglobulin in acute Sydenham's
+chorea: a systematic review. J Paediatr Child Health. 2015 Dec;51(12):1235-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26633611?tool=bestpractice.bmj.com)
+111. Feinstein AR, Stern EK, Spagnuolo M. The prognosis of acute rheumatic fever. Am Heart J. 1964
+Dec;68:817-34. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14235961?tool=bestpractice.bmj.com)
+112. Sanyal SK, Berry AM, Duggal S, et al. Sequelae of the initial attack of acute rheumatic fever in children
+from north India. A prospective 5-year follow-up study. Circulation. 1982 Feb;65(2):375-9. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/7053897?tool=bestpractice.bmj.com)
+113. Stollerman GH. Rheumatic fever and streptococcal infection. New York: Grune & Stratton; 1975.
+114. Manyemba J, Mayosi BM. Penicillin for secondary prevention of rheumatic fever. Cochrane
+Database Syst Rev. 2002;(3):CD002227.  Full text (https://www.cochranelibrary.com/cdsr/
+doi/10.1002/14651858.CD002227/full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12137650?
+tool=bestpractice.bmj.com)
+115. Sanyahumbi A, Ali S, Benjamin IJ, et al. Penicillin reactions in patients with severe rheumatic heart
+disease: a presidential advisory from the American Heart Association. J Am Heart Assoc. 2022
+Mar;11(5):e024517.  Full text (https://www.ahajournals.org/doi/full/10.1161/JAHA.121.024517)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35049336?tool=bestpractice.bmj.com)
+116. Karthikeyan G, Devasenapathy N, Zühlke L, et al. Digoxin and clinical outcomes in the
+Global Rheumatic Heart Disease Registry. Heart. 2019 Mar;105(5):363-69. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30209123?tool=bestpractice.bmj.com)
+117. Working Group on Pediatric Acute Rheumatic Fever and Cardiology Chapter of Indian Academy
+of Pediatrics, Saxena A, Kumar RK, et al. Consensus guidelines on pediatric acute rheumatic
+fever and rheumatic heart disease. Indian Pediatr. 2008 Jul;45(7):565-73.  Full text (http://
+www.indianpediatrics.net/july2008/565.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18695275?
+tool=bestpractice.bmj.com)
+118. Al-Jazairi A, Al-Jaser R, Al-Halees Z, et al. Guidelines for the secondary prevention of rheumatic
+heart disease: Endorsed by Saudi Pediatric Infectious Diseases Society (SPIDS). Int J Pediatr
+Adolesc Med. 2017 Mar;4(1):47-50.  Full text (https://www.sciencedirect.com/science/article/pii/
+S2352646717300327)
+119. UK Health Security Agency. Group A streptococcal infections: guidance and data. 2022 [internet
+publication].  Full text (https://www.gov.uk/government/collections/group-a-streptococcal-infections-
+guidance-and-data)
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Rheumatic fever References
+120. Spinetto H, Lennon D, Horsburgh M. Rheumatic fever recurrence prevention: a nurse-led programme
+of 28-day penicillin in an area of high endemnicity. J Paediatr Child Health. 2011 Apr;47(4):228-34.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21470327?tool=bestpractice.bmj.com)
+121. Kumar RK, Antunes MJ, Beaton A, et al. Contemporary diagnosis and management of rheumatic
+heart disease: implications for closing the gap: a scientific statement from the American Heart
+Association. Circulation. 2020 Nov 17;142(20):e337-57.  Full text (https://www.doi.org/10.1161/
+CIR.0000000000000921)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33073615?
+tool=bestpractice.bmj.com)
+122. Tompkins DG, Boxerbaum B, Liebman J. Long-term prognosis of rheumatic fever patients receiving
+regular intramuscular benzathine penicillin. Circulation. 1972 Mar;45(3):543-51.  Full text (http://
+circ.ahajournals.org/content/45/3/543.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/5012243?
+tool=bestpractice.bmj.com)
+123. Tompkins RK, Burnes DC, Cable WE. An analysis of the cost-effectiveness of pharyngitis
+management and acute rheumatic fever prevention. Ann Intern Med. 1977 Apr;86(4):481-92. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/403842?tool=bestpractice.bmj.com)
+124. Dajani A, Taubert K, Ferrieri P, et al. Treatment of acute streptococcal pharyngitis and prevention of
+rheumatic fever: a statement for health professionals. Committee on Rheumatic Fever, Endocarditis,
+and Kawasaki Disease of the Council on Cardiovascular Disease in the Young, the American
+Heart Association. Pediatrics. 1995 Oct;96(4 Pt 1):758-64. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7567345?tool=bestpractice.bmj.com)
+125. Lue HC, Wu MH, Hsieh KH, et al, Rheumatic fever recurrences: controlled study of 3-week versus 4-
+week benzathine penicillin prevention programs. J Pediatr. 1986 Feb;108(2):299-304. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3511209?tool=bestpractice.bmj.com)
+126. National Institute for Health and Care Excellence. Prophylaxis against infective endocarditis:
+antimicrobial prophylaxis against infective endocarditis in adults and children undergoing interventional
+procedures. Jul 2016 [internet publication].  Full text (https://www.nice.org.uk/guidance/cg64)
+127. Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of
+patients with valvular heart disease: a report of the American College of Cardiology/American
+Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021 Feb
+2;143(5):e72-227.  Full text (https://www.doi.org/10.1161/CIR.0000000000000923)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33332150?tool=bestpractice.bmj.com)
+128. Baskerville CA, Hanrahan BB, Burke AJ, et al. Infective endocarditis and rheumatic heart disease in
+the north of Australia. Heart Lung Circ. 2012 Jan;21(1):36-41. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21924682?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+65
+=== Page 66 ===
+Rheumatic fever Images
+IMAGES
+Images
+Figure 1: Global prevalence and mortality rates. Source: data derived from Global Burden of Disease data
+2010/2013.
+Zühlke, L.J., Beaton, A., Engel, M.E. et al. Group A streptococcus, acute rheumatic fever and rheumatic heart
+disease: epidemiology and clinical considerations. Curr Treat Options Cardio Med 19, 15 (2017). Used with
+permission.
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 67 ===
+Rheumatic fever Images
+Figure 2: ECG showing heart block in acute rheumatic fever
+Aust N Z J Med. 1996 Apr;26(2):241-2; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+67
+=== Page 68 ===
+Rheumatic fever Images
+IMAGES
+Figure 3: Chest x-ray of biventricular heart failure due to acute carditis in rheumatic fever
+Lancet. 2006 Jun 24;367(9528):2118; used with permission
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 69 ===
+Rheumatic fever Images
+Figure 4: Normal values for antistreptolysin O (ASO) and anti-DNase B titers
+Table compiled by contributors.
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+69
+=== Page 70 ===
+Rheumatic fever Images
+IMAGES
+Figure 5: Typical appearance of erythema marginatum on the back of a child with acute rheumatic fever
+Courtesy of Professor Mike South, Royal Children’s Hospital Melbourne; used with permission
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 71 ===
+Rheumatic fever Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+71
+=== Page 72 ===
+Rheumatic fever Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+72 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 73 ===
+Contributors:
+// Authors:
+Liesl Zühlke, MBChB DCH FCPaeds Cert Card (Paeds) MPH FACC FESC MSc PhD
+Vice-President South African Medical Research Council - Extramural Research and Internal Portfolio
+Director Children's Heart Disease Research Unit, Paediatric Cardiologist, Division of Paediatric Cardiology,
+Department of Paediatrics, Red Cross Children's Hospital, Cape Heart Institute and Institute of Infectious
+Diseases and Molecular Medicine, Faculty of Health Sciences, University of Cape Town, Cape Town, South
+Africa
+DISCLOSURES: LZ has been funded by the South African Medical Research Council, NRF, and through
+the African Research Leader award jointly by the UK Medical Research Council (MRC) and the UK
+Department for International Development (DFID) under the MRC/DFID Concordat agreement. LZ is a
+board member of the World Heart Federation, the NCD Alliance, and FoodForward South Africa. LZ an
+author of the UpToDate rheumatic heart disease topic. None of the above are competing interests.
+John Lawrenson,
+Head of Clinical Unit
+Paediatric Cardiology Service of the Western Cape, Red Cross Children's and Tygerberg Hospital,
+Stellenbosch University and University of Cape Town, Cape Town, South Africa
+DISCLOSURES: JL declares that he has no competing interests.
+// Acknowledgements:
+Professor Liesl Zühlke and Professor John Lawrenson would like to gratefully acknowledge Dr Rachel
+Webb, Dr Andrew C. Steer, and Dr Jonathan Carapetis, previous contributors to this topic.
+DISCLOSURES: RW declares that she has no competing interests; she is an active researcher and clinician
+in acute rheumatic fever/rheumatic heart disease and is a co-investigator on a (non-industry) grant funded
+by the Health Research Council of New Zealand and gives educational talks and has prepared manuscripts
+on rheumatic fever solely in capacity as a University of Auckland academic and Paediatric Infectious
+Diseases Specialist. ACS and JC declare that they have no competing interests.
+// Peer Reviewers:
+Salah Zaher, MD
+Professor of Pediatrics
+Division of Pediatric Cardiology, Faculty of Medicine, University of Alexandria, Cardiologist, El Shatby
+Children's Hospital, Alexandria, Egypt
+DISCLOSURES: SZ declares that she has no competing interests.
+Nigel Wilson, FRACP
+Paediatric Cardiologist/Interventional Cardiologist
+Paediatric and Congenital Cardiac Services, Green Lane Clinical Services, Starship Children's Hospital,
+Auckland, New Zealand
+DISCLOSURES: NW declares that he has no competing interests.
+Andrea Summer, MD
+Assistant Professor of Pediatrics
+Medical University of South Carolina, Charleston, SC
+=== Page 74 ===
+Contributors:
+DISCLOSURES: AS declares that she has no competing interests.

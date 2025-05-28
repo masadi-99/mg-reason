@@ -1,0 +1,2849 @@
+# Neurally mediated reflex syncope
+
+=== Page 1 ===
+Neurally mediated
+reflex syncope
+Straight to the point of care
+Last updated: Dec 17, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  5
+Case history  9
+Diagnosis  10
+Approach  10
+History and exam  18
+Risk factors  20
+Tests  21
+Differentials  26
+Criteria  34
+Management  36
+Approach  36
+Treatment algorithm overview  38
+Treatment algorithm  39
+Emerging  44
+Secondary prevention  44
+Patient discussions  44
+Follow up  45
+Monitoring  45
+Complications  45
+Prognosis  45
+Guidelines  46
+Diagnostic guidelines  46
+Treatment guidelines  46
+References  47
+Images  57
+Disclaimer  60
+=== Page 3 ===
+Neurally mediated reflex syncope Overview
+Summary
+Neurally mediated reflex syncope (NMRS) refers to a group of related conditions or scenarios in which
+symptomatic hypotension occurs as a result of neural reflex vasodilation and/or bradycardia.
+Vasovagal syncope (VS) refers to a particular type of NMRS also known as the common faint.
+VS has many manifestations and is generally considered to encompass faints triggered by emotional upset,
+fear, and pain, as well as other less well-defined circumstances.
+Patient education is the foundation of treatment for most NMRS syndromes, including VS.
+Patients must be informed that, while reflex faints are almost never life-threatening, they tend to recur (often
+in clusters), and injury can result if preventive measures are not taken seriously.
+Strategies for reducing syncope recurrences in the long term comprise 1) physical techniques to improve
+orthostatic tolerance, 2) pharmacologic interventions to prevent depletion of intravascular volume and/or
+enhance arterial and venous tone, 3) cardiac pacing to avert bradycardia.
+Definition
+Syncope is a syndrome characterized by a relatively sudden, temporary, and self-terminating loss of
+consciousness, associated with the inability to maintain postural tone, with rapid and spontaneous
+recovery.[1] The causes vary widely from patient to patient, but they have a common underlying
+pathophysiology.[2] [3] The transient loss of consciousness with syncope is the result of a temporary
+inadequacy of cerebral nutrient flow, most often triggered by a fall in systemic arterial pressure below the
+minimum needed to sustain cerebral blood flow. Neurally mediated reflex syncope (NMRS) refers to a group
+of related conditions or scenarios in which symptomatic hypotension occurs as a result of neural reflex
+vasodilation and/or bradycardia.[1] Vasovagal syncope (VS) refers to a particular type of NMRS also known
+as the common faint.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Neurally mediated reflex syncope Theory
+THEORY
+Epidemiology
+Syncope is estimated to account for approximately 1% of emergency department visits in the US and
+Europe.[11] [12] [13] The estimated cumulative lifetime incidence of syncope is 35%.[14] It tends to peak in
+frequency in young adults and then again in older people.[15]
+Vasovagal syncope is the most common cause of syncope.[16] Most studies suggest that women (especially
+younger women) are more susceptible to vasovagal faints, although reporting bias may play a role, as young
+men may be less inclined to report such events.
+The highest frequency of syncope is in patients with cardiovascular comorbidity and in older patients
+ages >70 years.[17] [18] In older people, the quoted prevalence figures for syncope are probably an
+underestimate, because historic features may be less clear-cut and up to 20% of these patients have
+amnesia.
+Etiology
+Syncope has many possible causes, which are commonly categorized into three main groups: neurally
+mediated reflex syncopal syndromes, orthostatic, or cardiovascular. However, even after a thorough
+assessment, it may not be possible to assign a single cause for fainting. Patients often have multiple
+comorbidities and as a consequence they may have several equally probable causes of fainting. For
+example, while people with severe heart disease may experience transient tachyarrhythmias, high-grade
+atrioventricular block, or even adverse effects from the use of multiple medications, they are also potential
+candidates for vasovagal faints.[19]
+NMRS syndromes include vasovagal faint (common faint), carotid sinus syncope, situational faint, and
+glossopharyngeal and trigeminal neuralgia. These neurally mediated reflex faints, especially the vasovagal
+faint, are the most common causes of syncope overall, and are particularly prevalent in people without
+evidence of underlying heart disease or vascular disease.
+In susceptible people, vasovagal syncope may be triggered by prolonged periods of upright posture, relative
+dehydration, excessively warm closed-in environments, or extreme emotions. Common places for these
+events are churches, restaurants, and long queues.
+Pathophysiology
+Transient insufficiency of global cerebral nutrient flow is the common thread underlying the mechanism
+of all forms of syncope.[2] Thus, transient reduction of blood oxygen content (e.g., as in acute aircraft
+decompression) may cause a faint. However, by far the most common etiology is diminished cerebral
+perfusion resulting from a transient decrease in arterial blood pressure (BP), such as might occur at the
+onset of a tachycardia or in conjunction with a prolonged pause in the cardiac rhythm. Loss of postural tone
+is an inevitable consequence of loss of consciousness, and if the patient is not restrained, the person will
+slump over or fall to the ground. Furthermore, on occasion, control of nonskeletal muscles may be affected,
+resulting for instance in bladder (common) or bowel (rare) incontinence. Only later in the faint, as cerebral
+oxygen deprivation reaches its most severe state, do jerky muscular movements occur in many (but not all)
+patients who faint. These movements start after the loss of consciousness, are brief in duration, and are
+erratic, thereby being distinguishable from the tonic-clonic movements of a classic epileptic seizure.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Neurally mediated reflex syncope Theory
+In healthy young people, cerebral blood flow represents 12% to 15% of resting cardiac output. (i.e., 50 to 60
+mL/100 g of brain tissue per minute).[20] [21] A flow of this magnitude readily meets the minimum oxygen
+requirement to sustain consciousness (3.0 to 3.5 mL oxygen/100 g tissue per minute). However, the safety
+factor for oxygen delivery may be lower in older people and those with diabetes mellitus or hypertension.[22]
+A sudden cessation of cerebral blood flow for only 6 to 10 seconds is sufficient to cause complete loss of
+consciousness. Further, experience with tilt-table testing has indicated that a sustained decrease in systolic
+BP to ≤60 mmHg leads to syncope.
+Cerebral blood flow is normally well autoregulated but, nevertheless, integrity of cerebral nutrient flow
+depends on mechanisms that maintain systemic pressure. The most important of these are:
+• Arterial baroreceptor-induced adjustments of systemic vascular resistance, cardiac contractility, and
+heart rate
+• Intravascular volume regulation, incorporating renal and hormonal influences to maintain central blood
+volume
+• Autonomic control over systemic BP
+• Cerebrovascular autoregulation, which permits cerebral blood flow to be maintained over a relatively
+wide range of perfusion pressures.
+Transient failure of protective mechanisms, often aggravated by iatrogenic factors such as vasodilator
+drugs, diuretics, or by medical issues such as dehydration or hemorrhage, may reduce systemic BP
+below the autoregulatory range, and could induce a syncopal episode. Risk of failure of normal protective
+compensatory mechanisms is greatest in patients who are older or ill and those with various forms of
+autonomic failure.
+Classification
+Causes of syncope
+Syncope has many possible causes, which are commonly categorized into three main groups: neurally
+mediated reflex syncopal (NMRS) syndromes, orthostatic, or cardiovascular.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Neurally mediated reflex syncope Theory
+THEORY
+Classification of syncope
+From personal collection of Dr David Benditt; used with permission
+NMRS syndromes
+NMRS syndromes include vasovagal faint (common faint), carotid sinus syncope, situational faint, and
+glossopharyngeal and trigeminal neuralgia.
+Orthostatic syncope (postural or orthostatic intolerance syncope
+syndromes)
+Orthostatic (postural) faints are common, and are most often associated with movement from lying or sitting
+to a standing position.
+While orthostatic hypotension (OH) is not considered part of the NMRS, a neural component is a major
+contributor to its pathophysiology; differentiating OH from NMRS in the clinic is a common problem.[2] [3] [4]
+Cardiac arrhythmias as primary cause of syncope
+Cardiac arrhythmias as the primary cause of syncope (i.e., those not secondary to neural-reflex events) are
+less frequent than either neurally mediated reflex faints or OH.[2] However, they are an important differential
+as they are often associated with a poorer prognosis.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Neurally mediated reflex syncope Theory
+Ambulatory monitoring recording obtained during a spontaneous faint associated
+with marked bradycardia. Baseline movement reflects the patient's distress
+From personal collection of Dr David Benditt; used with permission
+ECG trace revealing an episode of torsades de pointes in a
+patient with recurrent faints and evident long-QT syndrome
+From personal collection of Dr David Benditt; used with permission
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Neurally mediated reflex syncope Theory
+THEORY
+Structural cardiac or cardiopulmonary disease
+Structural cardiopulmonary diseases are relatively infrequent causes of faints compared with the neural-
+reflex, orthostatic faints, or syncope due to arrhythmia.[2] [3] However, it is important to recognize faints
+associated with structural heart disease or vascular disease because they warn of potentially life-threatening
+conditions.[2] [5] [6]
+Cerebrovascular disease and related conditions
+Cerebrovascular disease is almost never the cause of a true faint, meaning loss of consciousness due to
+cerebral hypoperfusion without focal neurologic deficit. In fact, transient ischemic attacks (TIAs) are the
+opposite: focal deficit without loss of consciousness.[2] [7]
+Subclavian steal is the best example in this class but is uncommon.[2] As a rule, this category should be
+considered only after other causes have been eliminated.
+Migraine-related syncope might also be included in this category. However, most syncope in patients with
+migraine is vasovagal in origin, possibly triggered by pain.[2] [8] Syncope due to massive cerebrovascular
+spasm appears to be very rare.
+Syncope mimics and pseudosyncope
+There are two important groups of conditions that may present with real or apparent transient loss of
+consciousness (T-LOC) but that should not be regarded as syncope.[2] First of this group are conditions
+that cause true T-LOC, but their mechanism differs from true syncope. Second are conditions in which
+consciousness is never really lost, known as pseudosyncope.
+Nonsyncope T-LOC includes:[2]
+• Epilepsy (temporal lobe seizures are most commonly confused with syncope)
+• Metabolic and endocrine disturbances
+• Diabetic coma
+• Hypoglycemia
+• Hypercapnia.
+Pseudosyncope is a relatively common problem that is unassociated with any change in heart rate or blood
+pressure.[2] [3] As the name implies, true T-LOC does not occur in these cases, although the history from the
+patient and witnesses may suggest that it had. The cause of pseudosyncope is most commonly psychiatric
+and may include:[9]
+• Generalized anxiety disorder
+• Panic disorder
+• Somatic symptom disorder
+• Major depression
+• Conversion disorders
+• Factitious disorders
+• Malingering.
+Clinical experience suggests that many patients with pseudosyncope have a history of true syncope as well,
+which can complicate management.[2] Medications used to treat psychiatric conditions (e.g., phenothiazines,
+tricyclic and newer antidepressants, monoamine oxidase inhibitors) can also increase the risk of true
+syncope by prolonging the QT interval and predisposing to torsades de pointes or hypotension.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Neurally mediated reflex syncope Theory
+Drop attacks (sudden fall without loss of consciousness) also belong in the pseudosyncope group, as true
+loss of consciousness does not occur.[2] [10]
+Case history
+Case history #1
+An 18-year-old man presents to clinic reporting two episodes of loss of consciousness. The first episode
+occurred 1 year earlier while playing dodgeball in gym class. He recalls diving to the ground to avoid
+being hit. On getting up quickly, he noticed feeling lightheaded, sweaty, and nauseated. Apparently
+he fell to the ground, but does not recall having done so. He later recalls waking up in the emergency
+department. Witnesses reported shaking and clenching of both hands after he had fallen. In the
+emergency department, he was given phenytoin intravenously because of concern that he may have
+had a seizure. After a negative workup in the hospital, he was prescribed carbamazepine, despite no
+abnormalities on an EEG. A year later, he had a second episode of loss of consciousness while doing
+bicep curls. He denies palpitations, tongue biting, or incontinence. He experienced a similar prodrome of
+warmth and lightheadedness. He has no history of seizures outside of these two episodes.
+Case history #2
+A 60-year-old man presents with syncope while walking outside with his wife. His wife recalls the patient
+looking at the sky to point out an airplane. He then appeared pale and collapsed to the ground, suffering
+a head laceration in the process. The history suggested the possibility of carotid sinus syndrome (CSS).
+In the laboratory, carotid sinus massage was undertaken while the patient was in the upright posture on a
+tilt table. The massage induced 10 seconds of asystole with near loss of consciousness. A dual-chamber
+pacemaker was implanted on the basis of a presumptive diagnosis of CSS; there was no recurrence of
+syncope during the next year. This patient has had no further faints but occasionally becomes dizzy when
+turning his head abruptly.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+Approach
+The initial evaluation of patients with suspected syncope usually occurs in the emergency department or
+acute-care clinic. After determining as far as possible that the patient has experienced true syncope, the
+initial evaluation should then focus on the following key points:
+• A detailed description of symptomatic events
+• Ascertaining whether clinically important structural heart disease is present (with an ECG and often an
+echocardiogram)
+• Clinical features of the history that suggest a diagnosis.
+In experienced hands, the cause of syncope can be established by a comprehensive medical history and
+physical exam alone in approximately 60% of patients.[23] [24] However, up to one third of patients with
+syncope have an undetermined cause after initial evaluation.[25] Further investigations are individualized so
+that the workup is cost effective and appropriate.[1] Ultimately, the goal is to rule out more serious conditions
+and efficiently establish the cause(s) of syncope with sufficient confidence.[19]
+History and physical exam
+The medical history is the most valuable tool in the initial syncope assessment. In some cases, the history
+alone is diagnostic and no further testing is needed. The most common example is when the history is
+indicative of a classic vasovagal faint or a situational neurally mediated reflex faint. However, in other
+cases, the history may be unreliable, and patients (especially older adults) or witnesses may not be able
+to remember details. Patients often have multiple comorbidities, and as a consequence they may have
+several equally probable causes of fainting. If the history is suggestive but inconclusive, subsequent steps
+in the evaluation can be focused, efficient, and cost effective.
+Spend time eliciting all details of the event as best as possible. Look for patterns that may help narrow
+the diagnosis: document the preceding circumstances, premonitory symptoms, and subsequent outcome,
+and make careful note of comorbidities (e.g., diabetic neuropathy, autonomic dysfunction). A pre-prepared
+patient questionnaire may help save time while acquiring the needed detail.
+Although the focus of this topic is NMRS, always consider the possibility of other causes of syncope (e.g.,
+orthostatic, cardiovascular). The American College of Cardiology (ACC)/American Heart Association
+(AHA)/Heart Rhythm Society (HRS) recommend the physical exam include orthostatic blood pressure
+(BP) and heart rate changes in lying and sitting positions, on immediate standing, and after 3 minutes of
+upright posture.[1] Perform a basic neurologic exam; sensory, motor, speech, or vision deficits suggest an
+underlying neurologic problem requiring further investigation or referral.[1]
+The diagnostic flow pathway illustrated (modified after that devised by the European Society of Cardiology
+Syncope Guidelines Task Force) may prove helpful.[2]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Neurally mediated reflex syncope Diagnosis
+Initial evaluation and further management strategy of syncope based on European Society
+of Cardiology Task Force Guidelines. AECG, ambulatory ECG; CSM, carotid sinus massage;
+EP, electrophysiologic; ILR, implantable loop recorder; SMU, syncope management unit
+From personal collection of Dr David Benditt; used with permission
+Rule out structural heart disease
+Underlying structural heart disease is among the most important factors to identify in a patient with
+suspected syncope. Obtain a 12-lead ECG in all patients to rule out atrioventricular (AV) block,
+bradycardia, asystole, long QT, or a bundle branch block. An echocardiogram can also be useful.
+However, do not order an echocardiogram for the routine evaluation of syncope unless cardiac etiology is
+suspected as a result of the history, physical exam or ECG.[1] [26] The presence of heart disease is an
+independent predictor of a cardiac cause for syncope (i.e., a primary arrhythmic cause or a cause based
+on a structural cardiac abnormality leading to a transient hemodynamic disturbance), with a sensitivity
+of 95% and a specificity of 45%; by contrast, the absence of heart disease excludes a cardiac cause of
+syncope in 97% of the patients.[23]
+Patients with structural abnormalities of the heart (such as left ventricular dysfunction) or ECG
+abnormalities (such as a prolonged QT or QRS interval) should be referred for immediate further
+evaluation.
+Syncope in conjunction with exertion raises special concerns. In particular, if the faint occurs in "full flight,"
+consider the possibility of structural and/or dynamic heart lesions that produce a relatively fixed cardiac
+output in the setting of vascular dilation (e.g., severe aortic or mitral valvular stenosis, hypertrophic
+cardiomyopathy). However, syncope during or early after exercise (even moderate exertion such as
+climbing stairs) can also occur in patients with severe autonomic dysfunction (e.g., pure autonomic failure)
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+in whom vascular control is unable to maintain adequate cerebral perfusion pressure. On rare occasions
+syncope accompanying exertion may occur as a consequence of a neurally mediated reflex faint (i.e.,
+postexertional variant of vasovagal faint); however, in these cases the faint typically occurs shortly after
+completion of, not during, the exercise.
+Risk stratification
+Assesses whether further hospital evaluation and treatment is necessary, establishes urgency, and
+estimates prognosis.[2] [27]
+The ACC/AHA/HRS guideline recommends evaluating short-term risk related to syncope (necessary
+for immediate decision making in the acute setting) as well as long-term adverse events (most likely
+associated with underlying medical conditions, many of which are cardiac).[1] The use of risk stratification
+scores may be reasonable.[1] However, the key determinant for further hospital evaluation and treatment
+is the presence of a serious medical condition potentially relevant to the cause of syncope.[1]
+Serious medical conditions that may require further hospital evaluation and treatment include:
+• Cardiac arrhythmic conditions
+• Cardiac or vascular nonarrhythmic conditions
+• Noncardiac conditions (e.g., gastrointestinal bleeding or severe anemia).
+Patients with documented severe bradyarrhythmias, ventricular tachycardia, acute aortic dissection,
+abrupt hemorrhage, or pulmonary embolism should be admitted. Similarly, it is prudent to admit patients
+with moderate to severe left ventricular dysfunction (e.g., ejection fraction ≤35%), valvular disease of
+clinical concern, or hypertrophic cardiomyopathy.
+One study found a high prevalence of pulmonary embolism among patients hospitalized for their first
+episode of syncope (approximately 1 in 6 patients); this may be important to consider in patients without
+an alternative explanation, but further research is required.[28]
+Where a serious medical condition is absent, it is reasonable to manage presumptive reflex-mediated
+syncope in the outpatient setting.[1]
+Rules and criteria that may help to risk stratify patients presenting to the emergency department include:
+the San Francisco Syncope Rule (SFSR), the Canadian Risk Syncope Score (CSRS), the Osservatorio
+Epidemiologico sulla Sincope nel Lazio (OESIL) score, the Evaluation of Guidelines in Syncope Study
+(EGSYS) score, and the Risk Stratification of Syncope in the Emergency Department (ROSE) study.[29]
+[30] [31] [32] [33] The two most commonly used criteria are the SFSR and the ROSE study.
+The SFSR has been implemented and validated in many emergency departments across the US and can
+be remembered using the mnemonic "CHESS":[29]
+• Congestive heart failure (CHF)
+• Hematocrit <30%
+• ECG abnormal
+• Shortness of breath
+• Systolic BP <90 mm Hg.
+The newer ROSE study includes B-type natriuretic peptide (BNP) as part of the decision criteria and can
+be remembered using the mnemonic "BRACES":[30]
+• BNP level ≥300 picograms/mL
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Neurally mediated reflex syncope Diagnosis
+• Bradycardia ≤50 in emergency department or pre-hospital
+• Rectal exam positive for fecal occult blood
+• Anemia (Hb ≤90 g/L)
+• Chest pain associated with syncope
+• ECG showing Q-waves (but not in lead III)
+• Saturation ≤94% on room air.
+Other initial investigations
+Consider targeted blood tests to rule out other causes of syncope, including:
+• Cortisol (to evaluate adrenal insufficiency)
+• BUN and creatinine (to evaluate for dehydration)
+• Hemoglobin (to rule out anemia)
+• Blood glucose (to rule out hypoglycemia)
+• Beta-hCG (human chorionic gonadotropin; to rule out pregnancy)
+• Cardiac enzymes (to rule out myocardial infarction)
+• D-dimer (to rule out pulmonary embolism) and/or CT pulmonary angiogram.
+Guidelines recommend against broad testing; only order investigations relevant to the clinical
+situation.[27] [34]
+Patients with recurrent syncope, or those who have experienced trauma due to syncope, warrant further
+evaluation with an ambulatory ECG monitor (i.e., Holter monitor), loop, or event monitor, or possibly tilt
+table testing. Noncardiovascular causes can be examined through appropriate blood tests (e.g., glucose,
+cortisol), electroencephalogram (EEG), magnetic resonance imaging (MRI) of the brain, or autonomic
+testing. However, do not routinely order EEG as part of initial syncope assessment.[1] [35][36] This is
+because EEG will be negative in a large portion of patients with epilepsy, and may be positive in patients
+without epilepsy. False positive EEG findings commonly lead to unnecessary use of antiepileptic drugs
+and may delay the syncope diagnosis and treatment. EEGs are most helpful in specific situations when
+there is high pre-test probability for epilepsy based on history and exam, and clinical presentation.[36]
+Neurologic imaging (MRI, CT) may be indicated if significant head trauma is suspected or there are
+findings that support further evaluation (e.g., symptoms of stroke); but do not routinely order CT or MRI in
+patients with syncope in absence of neurologic findings.[1] [37] CT and MRI rarely establish a diagnosis in
+patients with syncope and are expensive. CT scans may unnecessarily expose patients to radiation.
+Do not perform imaging of the carotid arteries for simple syncope without other neurologic symptoms.
+Occlusive carotid artery disease does not cause fainting but rather causes focal neurologic deficits such
+as unilateral weakness. Therefore, carotid artery imaging will not identify the cause of the fainting in cases
+of simple syncope.[1] [38]
+Vasovagal syncope
+Establishing the diagnosis of vasovagal faint relies heavily on obtaining a detailed medical history,
+including eyewitness accounts.
+Classic features that suggest vasovagal syncope include:
+• Triggering factors:
+• Unpleasant sights
+• Pain from physical injury
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+• Fatigue
+• Palpitations or bradycardia (consistent with but not diagnostic of vasovagal syncope)
+• Emotional stress (especially in warm, crowded environments)
+• Prolonged standing
+• Dehydration
+• Vigorous exercise (if syncope occurs post exercise)
+• Warning (prodromal) symptoms:
+• Feeling hot or cold
+• Sweating
+• Tachycardia (consistent with but not diagnostic of vasovagal syncope)
+• Shortness of breath
+• Loss of hearing or vision
+• Nausea
+• Change in breathing pattern
+• Physical signs reported by witnesses:
+• Marked pallor (white as a ghost, death-like)
+• Clammy skin
+• Confusion.
+Recovery is typically rapid after a vasovagal faint if the patient remains recumbent, but a subsequent
+period of fatigue is common.
+However, the classic features of vasovagal faint are often absent, only incompletely present, or not
+recollected (especially in older people). Patients may also experience symptoms (e.g., erratic muscle
+movements while unconscious, urinary or rarely bowel incontinence) that can result in confusion with
+seizure disorders and necessitate a neurologic consultation. Family history of sudden death should trigger
+concern about other diagnoses (e.g., structural heart disease, long QT syndrome, Brugada syndrome).
+Perform additional tests when the history alone is unclear. Head-up tilt-table testing is the most common
+confirmatory test for vasovagal syncope.[39] [40] [41] [42] [43]
+Other NMRSs
+These include carotid sinus syncope, situational faint, and glossopharyngeal and trigeminal neuralgia.
+In carotid sinus syndrome (CSS), there is a history of accidental manipulation of the neck that results in
+external pressure on the carotid sinus baroreceptors. There are three types of CSS: bradycardic CSS,
+dominant vasodepressor CSS (predominant sign is a relative hypotension), or mixed (bradycardia and
+hypotension). Deliberate diagnostic carotid sinus massage (CSM) applied by a suitably experienced
+physician may reproduce symptoms and confirm the diagnosis in patients with CSS.[22] [44] ECG in
+these cases will show CSS bradycardia.
+Situational syncope can be triggered by acute hemorrhage, a cough, a sneeze, gastrointestinal
+stimulation (swallow, defecation, visceral pain), micturition, post exercise, or other situations including
+brass instrument playing, weightlifting, or eating a meal (postprandial). Diagnosing situational syncope
+relies on the history; it is not easily assessed in the laboratory. Cough syncope may be an exception, but
+diagnostic criteria for hemodynamic response to induced cough have yet to be determined.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Neurally mediated reflex syncope Diagnosis
+Glossopharyngeal neuralgia is an unusual pain syndrome associated with syncope. The hallmarks of this
+syndrome are episodic sensations of usually left-sided pharyngeal pain that frequently result in syncope.
+The pathogenesis relating the pain and syncope is unclear but is thought to be due to connections
+between the glossopharyngeal and vagus nerves.[45]
+Trigeminal neuralgia is a somewhat more common facial pain syndrome presenting with pain at one of
+the divisions of the trigeminal nerve. However, syncope resulting from trigeminal neuralgia is unusual and
+the pathogenesis is unclear. Trigeminal neuralgia has been associated with syncope, seizures, and even
+cardiac arrest.[46]
+Laboratory studies: basic autonomic assessment
+1. Head-up tilt-table testing (HUT)
+The HUT is a widely available and well studied diagnostic tool that can unmask susceptibility to vasovagal
+syncope.[4] [22] [39] [40] [41] [42] [43] It is indicated when vasovagal syncope is suspected but the clinical
+history is equivocal. If the history is classic, HUT is not necessary. The most common test protocols are:
+HUT with nitroglycerin; HUT with isoproterenol; or drug-free HUT. The drugs may be used to increase
+susceptibility to the test.[47]
+Detailed discussion of tilt-table testing protocols can be found in the ACC expert consensus report and
+guideline documents from the European Society of Cardiology and the ACC/AHA/HRS.[1] [2] [39] In brief,
+the first step is passive head-up tilt at 60° to 70°, during which the patient is supported by a footplate and
+gently applied body straps, for 20-45 minutes (protocols vary). If needed, tilt testing is repeated with a
+drug challenge. Until recently, the most frequently used provocative drug was isoproterenol, usually given
+in escalating doses. However, intravenous or sublingual nitroglycerin has gained favor, in part because it
+expedites the procedure without adversely affecting diagnostic use.[48] The so-called Italian protocol, in
+which a 20-minute passive tilt is followed if necessary by sublingual nitroglycerin, has become the most
+popular protocol.
+An important clinical attribute of HUT is that it provides the opportunity to precipitate a typical vasovagal
+attack in the presence of the physician. This enhances the patient's confidence in the diagnosis. A
+positive test can also help patients learn to recognize symptoms and prevent an impending faint.
+Tilt-table testing without pharmacologic provocation exhibits a sensitivity of 37% and specificity of 99%;
+with pharmacologic provocation (nitroglycerin administration), the sensitivity is 66% and the specificity is
+89%.[48] Nonetheless, HUT is imperfect and there is controversy regarding its optimal use. The false-
+positive rate is approximately 10%.[2] Acute reproducibility, in terms of whether syncope is induced, is
+80% to 90%. Longer-term reproducibility (i.e., >1 year) is about 60%.[49] Experience of the practitioner
+can be a major limitation.
+Another major weakness of HUT is that it does not always result in the same hemodynamic picture
+when repeated in the same patient, and thus is not appropriate for directing treatment strategy. A
+cardioinhibitory picture (i.e., bradycardia) may predominate on one occasion, whereas vasodepressor
+responses (vasodilation being principally responsible for the hypotension) may occur at other times.[7]
+[50] [51] In the International Study of Syncope of Unknown Etiology (ISSUE) study, even when tilt testing
+indicated a prominent vasodilatory component to the faint, the subsequent recording of spontaneous
+faints by an implantable loop recorder often revealed bradycardic events.[7] Further study of this
+phenomenon with devices that can monitor systemic BP, or a surrogate of BP, as well as heart rate is
+needed.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+A positive tilt-table test (especially if it reproduces the patient's spontaneous symptoms) can be
+considered diagnostic for patients without severe structural heart disease, and no further tests are
+needed. However, for patients with significant structural heart disease, cardiac arrhythmias and iatrogenic
+factors (e.g., drug effects) should be excluded before relying on a positive tilt-test result.[48]
+2. Carotid sinus massage (CSM)
+Pressure at the site where the common carotid artery bifurcates produces a reflex slowing in heart rate
+and decrease in BP. This observation is the basis of the technique of CSM.
+CSM is used to diagnose CSS in patients with a history of syncope. However, CSM can be positive
+in some people with no history of syncope (up to 40% of older adults); this is known as carotid sinus
+hypersensitivity.[2] Requiring reproduction of symptoms increases the specificity of CSM: in a study of
+1855 patients with unexplained syncope, 24% demonstrated carotid sinus hypersensitivity, but only about
+one third of these (8.8%) had CSS when symptoms were required to make the diagnosis.[52]
+Consensus opinion is that CSS may be diagnosed when CSM reproduces symptoms as a result of ≥1
+of the following being induced: >3 seconds of asystole, paroxysmal atrioventricular (AV) block, a marked
+decrease in systemic arterial pressure (usually a drop in systolic BP ≥50 mmHg), or a combination of
+these.[1] [2] [35] CSM should be performed in both upright and supine positions, with pressure applied for
+5 seconds in each position.[1] The European Society of Cardiology recommends applying pressure for 10
+seconds to allow time for symptoms to develop.[35]
+The most convincing results from CSM are obtained when it is undertaken with the patient in the upright
+position, because the impact of gravity exaggerates the hemodynamic effects of induced bradycardia or
+vasodilation. The diagnosis may be missed in about one third of cases if only supine CSM is performed.
+Arterial pressure and ECG should be recorded throughout. For measurement of arterial pressure, a
+noninvasive BP measurement device may be suitable, but satisfactory recordings are often difficult to
+obtain. A conventional sphygmomanometer is not appropriate.
+CSM should not be performed in patients who have experienced transient ischemic attack or stroke within
+the past 3 months or in patients with carotid bruits (unless carotid Doppler studies convincingly exclude
+significant carotid artery narrowing).[2]
+On a rare occasion CSM may elicit self-limited atrial fibrillation of little clinical significance. Finally, findings
+recorded in the period after an acute myocardial infarction may not be representative and should not be
+used to make a diagnosis of CSS.
+3. Adenosine triphosphate (ATP) test
+The value of bolus administration of ATP remains controversial.[2] The ATP test may be useful to identify
+a form of syncope associated with neurally mediated paroxysmal AV block in certain older people in
+whom other causes have been excluded, and may guide a decision to initiate permanent pacing by
+unmasking occult AV nodal disease in susceptible people.[1] The diagnostic and predictive value of the
+test remains to be confirmed by prospective studies. In the absence of sufficient data, the test may be
+considered at the end of the diagnostic workup. 
+The most thoroughly tested protocol involves injection of a 20-mg bolus of ATP into a brachial vein in
+a supine patient who is undergoing continuous ECG monitoring.[53] BP is monitored noninvasively.
+The outcome of the test (positive or negative) depends on the duration of the ATP-induced cardiac
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Neurally mediated reflex syncope Diagnosis
+pause. A pause >10 seconds, even if interrupted by escape beats, is defined as abnormal. Some reports
+suggest that a pause >6 seconds is sufficient to declare the test abnormal.[54] For patients with abnormal
+responses, reproducibility is approximately 80% both in the short and the long term.
+Because of the possibility of bronchospastic reactions, the ATP test is contraindicated in patients with
+known asthma.
+4. Insertable loop recorder
+An insertable loop recorder can be used to rule out brady- or tachyarrhythmia if events are relatively
+infrequent (<1 or 2 per month) and an arrhythmia is suspected.[27]
+5. Electrophysiologic study
+Electrophysiologic study is infrequently indicated.[1] It may be used if structural heart disease is present
+and a tachyarrhythmia is suspected, and in patients who may be experiencing intermittent high-grade
+conduction block. It is also warranted if there is suspicion of paroxysmal supraventricular tachycardia as
+the cause of symptoms, especially if the patient describes palpitations prior to syncope.
+Miscellaneous autonomic system tests
+1. Valsalva maneuver
+The Valsalva maneuver is used to assess the integrity of the arterial baroreceptor reflex arc and may
+indicate the presence of autonomic failure that can cause syncope through orthostatic hypotension.[2] In
+itself, however, the Valsalva maneuver does not directly implicate a mechanism for syncope. The Valsalva
+response is typically tested under continuous ECG and BP monitoring in addition to monitoring the patient
+for clinical symptoms.
+2. Active standing test
+As its name implies, the active standing test assesses a patient's response to active movement from
+supine to upright posture. It can be considered to rule out orthostatic hypotension.[55]
+Active muscle movement is expected to propel more blood toward the central circulation to provide the
+increase in cardiac output required for upright posture. However, active use of leg muscles may also
+aggravate peripheral vascular dilation and, as a result, induce greater hypotension. The balance between
+these effects determines the net effect on systemic BP.
+A 3-minute active standing test is useful to assess initial orthostatic hypotension (first 30 seconds of
+upright posture).[2] The initial hypotension occurs on active standing but not on tilting. To detect the
+pressure decrease, beat-to-beat pressure monitoring (usually noninvasive) is essential. A ≥3-minute
+period of active standing may also demonstrate later diminution of BP indicative of classic orthostatic
+hypotension (delayed orthostatic hypotension).[1] [35]
+3. Cold pressor test
+The cold pressor test is performed by immersing the hand into a container of ice-cold water, usually for
+1 minute. Any changes in blood pressure and heart rate are recorded. Like the Valsalva maneuver, this
+test provides insight into the integrity of the autonomic reflex. It has not been used to identify a specific
+diagnosis.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+4. Cough test
+Induced cough may help assess susceptibility to cough (tussive) syncope, but few data are available.[56]
+Like CSM, it may be best undertaken with the patient in the upright posture. Diagnostic criteria for
+hemodynamic response to induced cough have yet to be determined.
+History and exam
+Other diagnostic factors
+history of recurrent faints (common)
+• Patients with NMRS often have a many-year history of recurrent faints, especially beginning before the
+age of 40 years.[2]
+absence of structural heart disease (common)
+• The presence of heart disease is an independent predictor of a cardiac cause for syncope (i.e., a
+primary arrhythmic cause or a cause based on a structural cardiac abnormality leading to a transient
+hemodynamic disturbance), with a sensitivity of 95% and a specificity of 45%; by contrast, the
+absence of heart disease excludes a cardiac cause of syncope in 97% of the patients.[23]
+provocative factor (common)
+• In vasovagal syncope provocative factors include: unpleasant sights, pain from physical injury, fatigue,
+palpitations or bradycardia (consistent with but not diagnostic of vasovagal syncope), emotional stress,
+prolonged standing, dehydration, vigorous exercise (if syncope occurs post exercise).
+• In carotid sinus syndrome, there is a history of accidental manipulation of the neck that results in
+external pressure on the carotid sinus baroreceptors. Accidental manipulation of the neck can be as
+simple as a tight shirt collar or tie.
+• Situational syncope can be triggered by acute hemorrhage, a cough, a sneeze, gastrointestinal
+stimulation (swallow, defecation, visceral pain), micturition, post exercise, or other situations including
+brass instrument playing, weightlifting, or eating a meal (postprandial).
+nausea (common)
+• A common premonitory symptom possibly of central nervous system origin, but also may be due to
+splanchnic bed venous dilation.
+low risk for adverse outcomes (common)
+• Patients with symptoms strongly suggestive of vasovagal, situational, or orthostatic faints (excluding
+perhaps older people with excessive injury risk) are considered low risk. After initial emergency room
+assessment for syncope in the absence of evidence for structural heart disease, they can be referred
+for outpatient evaluation (preferably to a syncope clinic).
+lightheadedness (common)
+• A nonspecific complaint suggesting a foggy sensation in the head. This may reflect some diminution
+of cerebral blood flow but not sufficient to cause a syncope. It is also a complaint that may have no
+relevance to syncope, being a common symptom particularly in older people. Lightheadedness occurs
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Neurally mediated reflex syncope Diagnosis
+in many conditions and may not prove helpful. In addition it tends to mean different things to different
+people.
+pallor (common)
+• Characteristic of vasovagal faints; its absence should therefore make one question the diagnosis.
+However, the finding tends to be more apparent in white people and is less helpful in people with dark
+skin.
+diaphoresis (common)
+• The sensation of feeling sweaty and experiencing a coldness and/or clammy sensation is
+characteristic of vasovagal and closely related situational faints.
+diminished vision or hearing (common)
+• These are often early symptoms and, while not diagnostic of vasovagal syncope per se, they are
+essential in order to consider that the patient's spell was indeed a true faint.
+• Typically, these symptoms occur immediately preceding (prodromal) or during a syncopal episode and
+are transient in nature.
+physical injury (common)
+• Pain of an injury may induce a vasovagal faint. In addition, signs of a traumatic injury (e.g., head
+laceration) may indicate true syncope rather than near-syncope.
+fatigue after episode (common)
+• The presence of fatigue or tiredness after recovery from the event is an important clue to a vasovagal
+cause.
+palpitations (common)
+• Although slow (or relatively slow) heart rates are thought to be most characteristic of vasovagal events,
+the episodes typically begin with an early phase of sinus tachycardia. Consequently, palpitations at
+an early stage before collapse are common. Palpitations may occur before collapse in patients with
+tachyarrhythmia-induced faints as well. Thus, palpitations are consistent with, but not diagnostic of,
+vasovagal syncope.
+bradycardia (common)
+• Slow heart rates are a common finding at the time of vasovagal syncope. At times the bradycardia
+may be dramatic (e.g., pauses of 5-25 seconds or longer), whereas at other times the heart rate
+may seem reasonable but is in fact much slower than appropriate for the degree of hypotension
+(i.e., predominantly vasodepressor form of vasovagal syncope). Bradycardia is common in neurally
+mediated reflex vasovagal syncope but may also indicate conduction system disease or excess drug
+effects.
+absence of family history of sudden death (common)
+• Vasovagal syncope is not usually associated with sudden death. Family history of sudden death
+should trigger concern about other diagnoses (e.g., structural heart disease, long QT syndrome,
+Brugada syndrome).
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+neuralgia (uncommon)
+• Glossopharyngeal neuralgia is an unusual pain syndrome associated with syncope. The hallmarks of
+this syndrome are episodic sensations of usually left-sided pharyngeal pain that frequently result in
+syncope.[45]
+• Trigeminal neuralgia is a somewhat more common facial pain syndrome presenting with pain at one of
+the divisions of the trigeminal nerve. However, syncope resulting from trigeminal neuralgia is unusual
+and the pathogenesis is unclear.[46]
+Risk factors
+Strong
+prior syncope
+• Patients with NMRS often have a many-year history of recurrent faints, especially beginning before the
+age of 40 years.[2]
+prior history of arrhythmias, myocardial infarction, heart failure, or
+cardiomyopathy
+• Patients with a known history of symptomatic bradycardiac and ventricular tachyarrhythmias,
+myocardial infarction, heart failure, or cardiomyopathy are at elevated risk for syncope.
+severe aortic stenosis
+• Patients with severe aortic stenosis (with a large pressure gradient) are likely to be at an increased risk
+of syncope.
+Weak
+prolonged standing
+• Associated with neurally mediated types of syncope.
+emotional stress (especially in a warm, crowded environment)
+• Associated with neurally mediated types of syncope.
+dehydration/hypovolemia
+• Associated with neurally mediated types and orthostatic syncope.
+preceding episode of nausea and/or vomiting
+• Associated with neurally mediated types of syncope.
+preceding episode of severe pain
+• Associated with neurally mediated types of syncope.
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Neurally mediated reflex syncope Diagnosis
+Tests
+1st test to order
+Test Result
+12-lead ECG
+• Should be obtained in all patients.
+• Patients with recurrent syncope, or those who have experienced
+trauma due to syncope, warrant further evaluation with an ambulatory
+ECG monitor (i.e., Holter monitor).
+rules out atrioventricular
+block, bradycardia,
+asystole, long QT, bundle
+branch block
+serum hemoglobin
+• Obtained to rule out syncope caused by anemia.
+normal; low in anemia
+plasma blood glucose
+• Obtained to rule out syncope caused by hypoglycemia.
+normal; low in
+hypoglycemia
+serum beta-hCG (human chorionic gonadotropin)
+• Obtained to rule out syncope caused by pregnancy.
+negative; positive in
+pregnancy
+cardiac enzymes
+• Obtained to rule out myocardial infarction if there is clinical suspicion.
+normal; elevated in
+myocardial infarction
+D-dimer level
+• Obtained to rule out pulmonary embolism if there is clinical suspicion.
+normal; elevated in
+pulmonary embolism
+serum cortisol
+• Obtained to rule out syncope caused by adrenal insufficiency.
+normal or decreased
+BUN and serum creatinine
+• Obtained to rule out syncope caused by dehydration.
+normal or elevated
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+Test to avoid
+Recommendations Rationale
+electroencephalogram (EEG)
+• Do not routinely order EEG as part of initial syncope work-up in the
+absence of neurological features suggestive of a seizure.[1] [2] [36]
+• EEG will be negative
+in a large portion
+of patients with
+epilepsy, and may be
+positive in patients
+without epilepsy.
+False positive EEG
+findings commonly
+lead to unnecessary
+use of antiepileptic
+drugs and may delay
+the syncope diagnosis
+and treatment. EEGs
+are most helpful in
+specific situations
+when there is high
+pre-test probability
+for epilepsy based
+on history and
+exam, and clinical
+presentation.[36]
+carotid artery imaging
+• Do not perform imaging of the carotid arteries for syncope without
+focal neurologic findings.[1] [38]
+• Occlusive carotid
+artery disease does
+not cause fainting
+but rather causes
+focal neurologic
+deficits such as
+unilateral weakness.
+Therefore, carotid
+artery imaging will not
+identify the cause of
+the fainting in cases
+of syncope without
+focal neurological
+findings.[1] [38]
+neurologic imaging (CT, MRI)
+• Do not routinely order CT or MRI in patients with syncope in absence
+of neurological findings.[1] [37] Neurological imaging may be
+indicated if significant head trauma is suspected or there are findings
+that support further evaluation (e.g., symptoms of stroke).
+• CT and MRI rarely
+establish a diagnosis
+in patients with
+syncope and are
+expensive. CT scans
+may unnecessarily
+expose patients to
+radiation.[1] [37]
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Neurally mediated reflex syncope Diagnosis
+Other tests to consider
+Test Result
+echocardiogram
+• Should be obtained if there is any concern that structural heart
+disease is present or needs to be excluded. Do not order an
+echocardiogram for the routine evaluation of syncope unless cardiac
+etiology is suspected as a result of the history, physical exam or
+ECG.[1] [26]
+rules out hypertrophic
+cardiomyopathy, aortic
+stenosis, poor ventricular
+function
+tilt-table test
+• Used only if there is suspicion of vasovagal syncope (VS) but the
+medical history is not convincing on its own. May be used to teach
+patients about premonitory symptoms in VS syndrome or to assure a
+patient that the physician has had an opportunity to witness an event.
+• Detailed discussion of tilt-table testing protocols can be found in the
+American College of Cardiology (ACC) expert consensus report and
+guideline documents from the European Society of Cardiology and
+the ACC/American Heart Association/Heart Rhythm Society.[1] [2]
+[39]
+• The first step is passive head-up tilt at 60° to 70°, during which the
+patient is supported by a footplate and gently applied body straps, for
+20-45 minutes (protocols vary).
+• If needed, tilt testing is repeated with a drug challenge. Until recently,
+the most frequently used provocative drug was isoproterenol usually
+given in escalating doses. However, intravenous or sublingual
+nitroglycerin has gained favor, in part because it expedites the
+procedure without adversely affecting diagnostic use.
+• The so-called Italian protocol, in which a 20-minute passive tilt is
+followed if necessary by sublingual nitroglycerin, has become the
+most popular protocol as a result of its relatively short duration with
+well-preserved specificity and sensitivity.
+reproduction of
+symptoms/syncope,
+bradycardia, hypotension
+carotid sinus massage (CSM)
+• Used to diagnose carotid sinus syndrome (CSS) in patients with a
+history of syncope.
+• CSS may be diagnosed when CSM reproduces symptoms as a
+result of ≥1 of the following being induced: >3 seconds of asystole,
+paroxysmal atrioventricular (AV) block, a marked decrease in
+systemic arterial pressure (usually a drop in systolic BP ≥50 mmHg),
+or a combination of these.[1] [2] [35] CSM should be performed
+in both upright and supine positions, with pressure applied for 5
+seconds in each position.[1] The European Society of Cardiology
+recommends applying pressure for 10 seconds to allow time for
+symptoms to develop.[35]
+• Abnormal responses can also be frequently observed in patients
+without syncope. The diagnosis may be missed in about one third of
+cases if only supine CSM is performed.
+• CSM should not be performed in patients who have experienced
+transient ischemic attack or stroke within the past 3 months or
+in patients with carotid bruits (unless carotid Doppler studies
+convincingly exclude significant carotid artery narrowing).[2]
+reproduction of
+symptoms and at least
+one of the following:
+>3 seconds of asystole,
+paroxysmal AV block,
+or a marked decrease in
+systemic arterial pressure
+(usually a drop in systolic
+BP ≥50 mmHg)
+insertable loop recorder
+• Used if events are relatively infrequent (<1 or 2 per month) and an
+arrhythmia is suspected.
+rules out brady- or
+tachyarrhythmia
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+Test Result
+electrophysiologic study
+• Infrequently indicated.[1] May be used if structural heart disease
+is present and a tachyarrhythmia is suspected or in patients who
+may be experiencing intermittent high-grade conduction block. It is
+also warranted if there is suspicion of paroxysmal supraventricular
+tachycardia as the cause of symptoms, especially if the patient
+describes palpitations prior to syncope.
+rules out long sinus node
+recovery time, infrahisian
+conduction disease,
+inducible ventricular
+tachycardia
+Valsalva maneuver
+• The Valsalva maneuver is used to assess the integrity of the arterial
+baroreceptor reflex arc and may indicate the presence of autonomic
+failure that can cause syncope through orthostatic hypotension.[2] In
+itself, however, the Valsalva maneuver does not directly implicate a
+mechanism for syncope.
+• The Valsalva response is typically tested under continuous ECG
+and BP monitoring in addition to monitoring the patient for clinical
+symptoms.
+normal in NMRS; may
+indicate the presence of
+autonomic failure that can
+cause syncope through
+orthostatic hypotension
+active standing test
+• The active standing test assesses patient response to active
+movement from supine to upright posture. Active muscle movement
+is expected to propel more blood toward the central circulation to
+provide the increase in cardiac output required for upright posture.
+The initial hypotension occurs on active standing but not on tilting.
+To detect the pressure decrease, beat-to-beat pressure monitoring
+(usually noninvasive) is essential. A ≥3-minute period of active
+upright standing may also demonstrate later diminution of BP
+indicative of classic orthostatic hypotension (delayed orthostatic
+hypotension).[1] [35]
+to rule out orthostatic
+hypotension
+cold pressor test
+• The cold pressor test is performed by immersing the hand into a
+container of ice-cold water, usually for 1 minute. Any changes in
+blood pressure and heart rate are recorded. It has not been used to
+identify a specific diagnosis.
+may provide insight into
+autonomic reflex integrity
+cough test
+• Induced cough may help assess susceptibility to cough (tussive)
+syncope, but few data are available.[56] Like carotid sinus massage,
+it may be best undertaken with the patient in the upright posture.
+• Diagnostic criteria for hemodynamic response to induced cough have
+yet to be determined.
+to rule out susceptibility
+to cough syncope
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Neurally mediated reflex syncope Diagnosis
+Emerging tests
+Test Result
+adenosine triphosphate (ATP) test
+• The value of bolus administration of ATP remains controversial.[2]
+The ATP test may be useful to identify a form of syncope associated
+with neurally mediated paroxysmal atrioventricular (AV) block in
+certain older people in whom other causes have been excluded, and
+may guide a decision to initiate permanent pacing by unmasking
+occult AV nodal disease in susceptible people.[1] The diagnostic and
+predictive value of the test remains to be confirmed by prospective
+studies. In the absence of sufficient data, the test may be considered
+at the end of the diagnostic workup.
+• The most thoroughly tested protocol involves injection of a 20-
+mg bolus of ATP into a brachial vein in a supine patient who is
+undergoing continuous ECG monitoring.[53] BP is monitored
+noninvasively.
+• The outcome of the test (positive or negative) depends on the
+duration of the ATP-induced cardiac pause. A pause >10 seconds,
+even if interrupted by escape beats, is defined as abnormal. Some
+reports suggest that a pause >6 seconds is sufficient to declare
+the test abnormal.[54] For patients with abnormal responses,
+reproducibility is approximately 80% both in the short and the long
+term.
+• Because of the possibility of bronchospastic reactions, the ATP test is
+contraindicated in patients with known asthma.
+identifies form of syncope
+associated with presumed
+neurally mediated
+paroxysmal AV block in
+certain older people
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Orthostatic syncope
+(postural or orthostatic
+intolerance syncope
+syndromes)
+• History of fainting with
+concomitant dehydration,
+antihypertensive medication
+or vasodilator use, people
+who are older, frail, or
+have underlying conditions
+associated with autonomic
+failure.
+• Symptoms that are
+reproduced with carotid
+sinus massage (CSM)
+are not consistent with
+orthostatic syncope.
+• Orthostatic BP
+measurement: a fall in BP
+(usually >50 mmHg systolic),
+associated with symptoms
+of syncope or near-syncope.
+The patient may exhibit the
+hypotension immediately
+after standing or it may
+evolve over the subsequent
+3-5 minutes of upright
+quiet posture. Notably,
+this observation may not
+be reliably reproduced,
+especially in older people.
+Repeated or 24-hour
+ambulatory measurements
+may be necessary to
+elucidate this diagnosis.
+• Tilt-table test: hypotension
+on standing.
+Bradycardia • Syncope is possible with
+long sinoatrial nodal pauses
+or very slow heart rates.
+• Occurs owing to
+bradycardia-induced cerebral
+hypoperfusion, especially in
+the setting of left ventricular
+(LV) dysfunction.
+• Common in patients with
+complete heart block and a
+very slow ventricular escape
+rhythm with LV dysfunction,
+and in patients with second-
+degree atrioventricular (AV)
+block.
+• ECG: may show sinus
+bradycardia with or without
+sinus arrhythmia, AV block
+with junctional or ventricular
+escape, His-Purkinje system
+disease, bradycardia, and
+AV block in a setting of
+myocardial infarction; deep
+T-wave inversions across the
+precordium indicative of a
+neurologic event may occur
+in conjunction with sinus
+bradycardia.
+• Electrophysiologic testing:
+may be helpful in some
+cases but the findings
+are usually nonspecific.
+It may show quantitative
+measurement of sinus node,
+AV node, or His-Purkinje
+system dysfunction.
+Bradycardia: AV
+conduction disorders
+• Paroxysmal or persistent
+atrioventricular (AV)
+block can cause severe
+bradycardia and thereby lead
+to syncope.
+• ECG: patient may have
+Mobitz type II second-degree
+AV block, third-degree AV
+block, or alternating left and
+right bundle branch block;
+other observations that
+suggest an AV conduction
+disorder as the cause of
+syncope, but are at best
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Neurally mediated reflex syncope Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+considered to be only
+indirect evidence, include
+1) bifascicular block (left
+bundle branch block, right
+bundle branch block with
+left anterior or left posterior
+fascicular block), 2) Mobitz
+type I second-degree AV
+block in older people (usually
+defined as >70 years old).
+• Mobile cardiac outpatient
+telemetry: provides long-term
+ECG monitoring and thereby
+increases the chance of
+detecting ECG abnormality
+(i.e., AV block, possibly
+transient) if an arrhythmia is
+the cause of symptoms.
+• Implantable loop recording:
+shows evidence of AV block.
+• Electrophysiologic (EP)
+testing: in the absence of a
+direct symptom-arrhythmia
+correlation, a tentative
+diagnosis can be made in
+case of ventricular pauses
+>3 seconds in duration
+when the patient is awake
+or if Mobitz type II second-
+degree or third-degree (i.e.,
+complete or high-grade)
+AV block is discovered. In
+the setting of nothing more
+than bifascicular block or
+nonspecific intraventricular
+conduction delay, invasive
+EP study may be helpful.
+On the other hand, these
+patients often also have
+underlying structural heart
+disease, so it is equally
+important to look for both the
+conduction abnormalities
+and susceptibility to
+tachyarrhythmias.
+Supraventricular
+tachycardias
+• Very rapid heart rates;
+infrequently causes a
+sufficient period of prolonged
+hypotension to cause
+syncope. Patients may
+complain of near-syncope.
+• Associated with reduced
+circulating volume status
+(i.e., relative dehydration),
+upright posture, presence
+• ECG: shows heart rate
+variability and microvolt T-
+wave alternans.
+• Holter monitoring,
+loop-recording, or
+electrophysiologic studies:
+may demonstrate findings
+of supraventricular
+tachycardias.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+of structural heart disease
+(especially with diminished
+ejection fraction or significant
+valvular or other outflow
+obstruction), and abnormal
+reflexes of the peripheral
+vasculature.
+Ventricular tachycardia
+(VT)
+• Usually occurs in setting
+of ischemic heart
+disease, valvular heart
+disease, or certain dilated
+cardiomyopathies that
+may result in symptomatic
+hypotension; VT in
+obstructive cardiomyopathies
+and arrhythmogenic right-
+ventricular dysplasia may
+cause syncope; torsades de
+pointes VT is a characteristic
+feature of the long QT
+syndromes, arrhythmia may
+be very fast and often is self-
+terminating.
+• ECG: shows wide QRS
+complex (≥120 milliseconds),
+rate >120 bpm lasting for
+≥3 beats, spontaneously
+resolving in <30 seconds.
+• Echocardiogram: shows
+compromised left ventricular
+function, evidence of
+structural heart disease, or
+hypertrophic or idiopathic
+cardiomyopathy.
+Nonsustained VT (NSVT) • NSVT is a common
+finding during evaluation
+of syncope (whether by
+Holter or extended-duration
+ambulatory ECG monitoring)
+but is diagnostically a much
+less specific finding than
+sustained VT.
+• ECG: shows wide QRS
+complex (≥120 milliseconds),
+rate >120 bpm lasting for
+≥3 beats, spontaneously
+resolving in <30 seconds.
+• Echocardiogram: absence of
+structural cardiac disease.
+• The isolated presence of
+NSVT, particularly in the
+absence of evident structural
+cardiac disease or ECG
+evidence of a channelopathy,
+should not be considered
+a causative diagnosis.
+However, if hypotension
+occurs with NSVT during
+electrophysiologic study, or
+if monomorphic sustained
+VT is reproducibly inducible,
+a basis for syncope seems
+likely.[5]
+Bradycardia or
+tachycardia: sinus node
+dysfunction
+• Lightheadedness, weakness,
+palpitations, dyspnea,
+angina; bradycardia; CSM
+provokes a sinus pause >3
+seconds; heart rate does
+not change with Valsalva
+maneuver.
+• ECG: shows sinus pauses
+>3 seconds.
+• Holter monitoring: indicates
+sinus pauses >3 seconds,
+which would indicate
+bradycardia or tachycardia-
+bradycardia syndrome. Used
+for patients with paroxysmal
+symptoms.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Neurally mediated reflex syncope Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+• Loop recorder: shows sinus
+pauses >3 seconds, which
+would indicate bradycardia
+or tachycardia-bradycardia
+syndrome. Used for patients
+with paroxysmal symptoms.
+• Electrophysiologic study:
+measures sinus nodal
+recovery time by overdrive
+suppression of the sinus
+node and sinoatrial
+conduction time.
+Acute coronary
+syndromes (ACS)
+• Chest pain, palpitations,
+dyspnea, weakness, and
+lightheadedness.
+• Pale, diaphoretic; may
+have low BP; heart
+rate may be brady- or
+tachycardic; audible S3
+or S4; jugular venous
+distension if right ventricular
+failure from inferior wall
+myocardial infarction; signs
+of congestive heart failure
+(CHF) such as peripheral
+edema and bibasilar rales.
+• ECG: may show ST-segment
+elevation or depression,
+dynamic T-wave changes.
+• Cardiac enzymes: may show
+elevated troponin and CK-
+MB.
+• CXR: may show increased
+alveolar markings;
+cardiomegaly. Pulmonary
+edema causes increased
+alveolar markings and can
+be caused by ischemia
+secondary to ACS.
+Cardiomegaly suggests
+concomitant CHF.
+• Echocardiography:
+may show wall motion
+abnormalities, decreased
+ejection fraction.
+• Coronary angiography: may
+show vessel obstruction or
+coronary anomalies.
+Acute aortic dissection • Chest and back pain, tearing
+in nature; hypotension;
+unequal pulses or BP in
+2 arms; acute pulmonary
+edema; focal neurologic sign
+of weakness, dysarthria,
+or cranial nerve defects if
+carotid arteries involved.
+• ECG: shows ST- and T-
+wave ischemic changes.
+Cardiac ischemia occurs if
+low dissection involving the
+coronary arteries.
+• CXR: will indicate widened
+mediastinum.
+• Transesophageal
+echocardiography: may
+show false lumen or
+flap in the ascending or
+descending aorta, new aortic
+regurgitation, or pericardial
+tamponade.
+• CT chest with contrast: may
+show false lumen or flap in
+the ascending or descending
+aorta.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Severe pulmonary
+hypertension
+• Dyspnea, fatigue, chest
+pain, palpitations, leg
+edema, right-sided third
+heart sound, right-sided
+fourth heart sound, pulmonic
+regurgitation, palpable left
+parasternal heave, jugular
+vein distension, peripheral
+edema, cyanosis.
+• CXR: shows attenuated
+peripheral vascular markings
+(pruning), enlarged
+pulmonary artery shadows,
+and opacification of the
+retrosternal space on the
+lateral view.
+• ECG findings of right
+ventricular hypertrophy: tall
+R wave and small S wave
+(R/S ratio >1) in lead V1,
+qR complex in V1, rSR'
+in V1, a large S wave and
+small R wave (R/S ratio <1)
+in V5 or V6, or a S1S2S3
+pattern; right-axis deviation:
+mean frontal plane QRS
+axis >100°; right atrial
+enlargement: P wave ≥2.5
+mm in leads II, III, and aVF.
+Pulmonary embolism • Dizziness, shortness of
+breath, pleuritic chest pain,
+tachycardia, tachypnea,
+hypotension, loud P2, jugular
+venous distension, right
+ventricular lift.
+• ECG: shows sinus
+tachycardia; presence of
+S1, Q3, and T3; usually
+nonspecific.
+• D-dimer: nonspecific
+if positive; pulmonary
+embolism excluded if
+negative. Utility is in its
+negative predictive value.
+• CXR: shows decreased
+perfusion in a segment
+of pulmonary vasculature
+(Westermark sign) and/or
+presence of pleural effusion.
+• CT pulmonary angiography:
+identifies any thrombus in
+the pulmonary circulation.
+Aortic stenosis • Exertional dyspnea, angina,
+dizziness, and syncope;
+in late stages develops
+into congestive heart
+failure (CHF) (dyspnea,
+paroxysmal nocturnal
+dyspnea, peripheral edema);
+harsh ejection systolic
+murmur that radiates to
+carotids, murmur loudest
+at the left sternal edge and
+on squatting, and softer
+with Valsalva and isometric
+exercises; slow rising pulse;
+low carotid volume; S4 with
+systolic thrill; signs of CHF
+• ECG: shows left ventricular
+(LV) hypertrophy and/or ST
+depression from LV strain.
+• CXR: indicates cardiomegaly
+and/or pulmonary edema.
+Aortic stenosis can cause LV
+hypertrophy and pulmonary
+edema.
+• Echocardiography:
+evaluates the valve area
+(severity of stenosis), mean
+atrioventricular gradient,
+LV hypertrophy, ejection
+fraction.
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Neurally mediated reflex syncope Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+(pulmonary rales, lower
+extremity edema, jugular
+venous distension, and
+hepatomegaly).
+Hypertrophic obstructive
+cardiomyopathy
+• Systolic ejection murmur
+(audible at the lower left
+edge; accentuated by
+exercise and standing;
+lessened by lying supine or
+squatting), dyspnea, angina.
+• ECG: shows left-axis
+deviation and prominent Q
+waves in inferior and lateral
+leads.
+• Echocardiography:
+shows asymmetric septal
+hypertrophy; systolic anterior
+motion of anterior mitral
+valve leaflet; reversed
+E:A ratio with diastolic
+dysfunction; left atrial
+enlargement.
+• Electrophysiologic studies:
+show inducible ventricular
+arrhythmias and/or
+conduction abnormalities.
+• Cardiac catheterization:
+will show increased left
+ventricular (LV) outflow tract
+gradient directly related
+to severity of obstruction
+and increased LV filling
+pressures.
+Vertebrobasilar transient
+ischemic attack (TIA)
+• Vertebrobasilar TIA is
+more likely than carotid-
+distribution TIAs to present
+as apparent syncopal
+episodes but, overall, is
+extremely rare. Furthermore,
+vertebrobasilar TIAs are
+usually marked by other
+symptoms (e.g., vertigo)
+indicative of posterior
+circulation compromise.
+• MRI: shows brainstem
+infarction.
+• Carotid Doppler
+ultrasonography: shows
+vertebrobasilar stenosis.
+• CT head: brainstem not
+well visualized; may have
+chronic ischemic changes
+or evidence of previous
+infarction. Not a sensitive
+test for detecting brainstem
+ischemia. Commonly
+used modality because
+of widespread availability
+and ease of detecting
+hemorrhage.
+• Magnetic resonance
+angiography (MRA): shows
+stenosis of vertebrobasilar
+artery.
+Subclavian steal • Subclavian steal is a
+rare condition and a very
+rare cause of syncope.
+Symptoms tend to occur
+when patients are exercising
+using the affected arm, and
+• Duplex ultrasonography:
+shows retrograde blood flow
+in the vertebral artery.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+BP differs between the two
+arms. Because of its rarity,
+it should be considered only
+when other causes have
+been eliminated.
+Migraine • Associated with basilar
+artery migraine; premonitory
+aura terminates in loss
+of consciousness, which
+is slow in onset; occipital
+headache associated
+with diplopia, vertigo,
+tinnitus, visual changes, and
+syncope; strong association
+with menstrual cycle; no
+significant physical finding on
+examination.
+• MRI and MRA: should be
+normal and are used to
+exclude other pathologies.
+Nonsyncope transient
+loss of consciousness (T-
+LOC)
+• This category mainly
+comprises three conditions:
+epilepsy, metabolic, and
+endocrine disturbances.
+• Epilepsy is predominated by
+abnormal movements and
+complex behavior patterns;
+epileptic seizures do not
+depend on the posture
+and can occur while the
+patient is supine; epilepsy
+is often preceded by an
+aura or strange sensations,
+which is not the case with
+true syncope; after an
+epileptic seizure, the patient
+is typically confused or may
+have a focal weakness,
+whereas after a syncopal
+episode the patient promptly
+regains their mental and
+physical faculties (although
+they may feel fatigued).
+Temporal lobe seizures
+are the form of epilepsy
+most often confused with
+syncope because they
+can either mimic or cause
+reflex bradycardia and
+hypotension.
+• Metabolic and endocrine
+disturbances that can
+cause nonsyncope T-
+LOC include diabetic
+coma, hypoglycemia, and
+hypercapnia.
+• Interictal
+electroencephalogram: may
+be normal.
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Neurally mediated reflex syncope Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+• In patients with epilepsy, an
+implantable loop recorder
+may be able to identify
+bradycardia or asystole as
+a cause of syncope. Video
+recordings on smart phones
+recorded by friends and
+relatives may be able to
+help differentiate between
+reflex syncope with tonic-
+clonic movements and true
+epileptic attacks.[57]
+Adrenal insufficiency,
+adrenal crisis
+• Hyperpigmentation of
+the skin, abdominal pain,
+hypotension; related to
+stressors such as surgery.
+• Cortisol and
+adrenocorticotropic hormone
+stimulation test: must
+be interpreted by an
+endocrinology specialist.
+Diabetic hypoglycemia • Known diabetes with
+neuroglycopenic and
+sympathoadrenal signs and/
+or symptoms (irritability,
+shaking, sweating, tremor,
+palpitations, tachycardia,
+anxiety, nausea, hunger,
+pallor).
+• Seizure and loss of
+consciousness are signs of
+severe hypoglycemia.
+• Serum glucose: low.
+Non-diabetic
+hypoglycemia
+• Neuroglycopenic and
+sympathoadrenal signs and/
+or symptoms (irritability,
+shaking, sweating, tremor,
+palpitations, tachycardia,
+anxiety, nausea, hunger,
+pallor).
+• Seizure and loss of
+consciousness are signs of
+severe hypoglycemia.
+• No history of diabetes, but
+may have other known
+condition associated with
+hypoglycemia, or use of
+non-diabetic, hypoglycemic
+medication.
+• Serum glucose: low.
+Seizures • Prolonged jerky movements,
+tongue biting, urinary or fecal
+incontinence, prolonged
+postictal period.
+• Electroencephalogram:
+shows epileptiform activity or
+focal, localizing abnormality.
+• Prolactin level: must be
+interpreted by a neurology
+specialist.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Neurally mediated reflex syncope Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Alcohol ingestion • Vomiting, staggering gait,
+slurred speech.
+• Alcohol level: high or
+positive.
+Stroke • Focal neurologic deficit,
+slurred speech, prolonged
+reduction in awareness.
+• Head CT: shows
+hypoattenuation (darkness)
+of the brain parenchyma;
+loss of gray/white matter
+differentiation and sulcal
+effacement; hyperattenuation
+(brightness) in an artery
+indicates clot within the
+vessel lumen.
+• MRI brain: shows acute
+ischemic infarct.
+Narcolepsy • Excessive daytime
+sleepiness despite adequate
+sleep.
+• Overnight polysomnogram:
+often shows snoring,
+frequent awakenings,
+reduced sleep efficiency,
+periods of rapid eye
+movement (REM) sleep
+within the first 20 minutes of
+sleep, and multiple arousals.
+• Sleep latency test: shows
+sleep latency ≤8 minutes
+plus ≥2 sleep-onset REM
+periods.
+Cataplexy • Loss of muscle tone, often
+triggered by strong emotions,
+slurred speech, knee
+buckling, without loss of
+awareness.
+• Sleep history.
+• Sleep actigraphy.
+• Polysomnogram.
+• Sleep latency test.
+• All must be interpreted by
+specialists in the relevant
+field.
+Pseudosyncope • Generalized anxiety disorder,
+panic disorder, somatization
+disorder, and major
+depression can present with
+apparent syncope; usually
+young; no known cardiac
+problems; frequent episodes
+of recurrent syncope (as high
+as many episodes per day or
+per week); no specific exam
+findings.
+• Tilt-table test: negative.
+• Video
+electroencephalogram: result
+must be interpreted by a
+neurology specialist.[48]
+Criteria
+Syncope
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Neurally mediated reflex syncope Diagnosis
+Syncope is transient loss of consciousness (T-LOC) resulting from cerebral hypoperfusion. It is usually
+characterized by complete, rapid, and spontaneous recovery, without long-lasting focal neurologic deficits.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Neurally mediated reflex syncope Management
+MANAGEMENT
+Approach
+The foundation for treatment of most NMRS syndromes is patient education.[1] Provide patients with advice
+on physical techniques to abort imminent NMRS or prevent recurrence.
+There is insufficient evidence to support the use of most pharmacologic treatments for NMRS. Several drugs
+have been proposed, but there are few randomized clinical trials to rely on.[58] Consequently no agent,
+except perhaps midodrine, can be strongly recommended in the treatment of neurally mediated faints.[59]
+Patient education
+Patient education is an important factor in treatment for all types of NMRS.[1] Inform patients that
+although NMRS is rarely life-threatening, these types of faints tend to recur and injury can result if
+preventive measures are not taken.[2] Patients need to recognize and respond to warning symptoms,
+and may benefit from knowledge of basic pathophysiology; such understanding reduces injury risk and
+may ultimately enhance treatment compliance. Educate patients on the avoidance of triggers such as
+prolonged standing, warm environments, and coping with dental and medical settings.[1]
+Medications that cause hypotension may be reduced or withdrawn where appropriate and safe.[1]
+Patients susceptible to recurrent vasovagal faints should learn techniques for both aborting attacks
+and reducing susceptibility to future episodes (e.g., physical maneuvers, hydration with electrolyte-
+rich fluids). These patients should also be taught the value and possible risks of increased salt intake.
+In situational faints, inform patients of the potential for ameliorating or entirely avoiding triggers. For
+instance, suppression by smoking cessation in cough syncope, and sitting to void in micturition syncope.
+In some cases, desensitization techniques (e.g., syncope associated with fear of air flight) may help.
+Those with carotid sinus syndrome (CSS) should avoid wearing tight collars or neckties, although cardiac
+pacing is also usually recommended.
+Physical techniques
+1. Physical counter-pressure maneuvers (PCM)
+• PCM are advocated to abort imminent NMRS or orthostatic faints when warning symptoms are
+first recognized. Useful techniques include squatting, arm tensing, leg crossing, and leg crossing
+with tensing of the lower body muscles.[60] [61] In the Physical Counterpressure Manoeuvres
+Trial, physical maneuvers reduced total burden and recurrence rate of syncopal events.[62]
+Consequently, PCM should be an essential part of the treatment strategy for vasovagal faints. Data
+are lacking for the role of PCM in patients with situational faints or carotid sinus syncope, but may
+have been used in selected cases.
+2. Tilt training (standing training)
+• The principal goal of tilt training (more accurately termed standing training) is to enhance the
+neurovascular response to orthostatic stress.[63] The favored method entails standing training
+(usually at home) for progressively longer periods of time over 10-12 weeks. The recommended
+starting duration is 3-5 minutes twice daily; standing duration is then gradually lengthened every 3
+or 4 days to 30-40 minutes twice daily.
+• The American College of Cardiology (ACC)/American Heart Association (AHA)/Heart Rhythm
+Society (HRS) advise that the usefulness of orthostatic training is uncertain in patients with
+frequent vasovagal syncope.[1] Nonrandomized studies suggest that standing training reduces
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Neurally mediated reflex syncope Management
+susceptibility to reflex syncope if undertaken consistently.[64] [65] [66] However, compliance is
+often a problem because the process is time consuming and boring.[13] Randomized controlled
+trials have been less encouraging, suggesting that the method may not be as effective as originally
+thought; further study is needed.[67] [68]
+Pharmacotherapy
+Volume expansion is an essential recommendation for most patients who require medical therapy for
+vasovagal faints, but evidence is limited.[1] [27] Conventional approaches include increased dietary salt
+and electrolyte-rich sports drinks. The primary safety concern is initiation of hypertension. Fortunately, this
+is rare in younger patients, but it is a concern in older patients. Contraindications to increased salt and
+fluid intake include history of hypertension, renal disease, heart failure, or cardiac dysfunction.
+If a prescription drug is needed for volume expansion, fludrocortisone can be used.[1] Adverse effects
+include hypertension and hypokalemia. However, clinical evidence for the efficacy of fludrocortisone is
+weak.[69] [70] The Second Prevention of Syncope Trial (POST II) reported a nonsignificant decrease in
+episodes of vasovagal syncope in the fludrocortisone group compared with placebo.[71]
+Among other drugs suggested for preventing vasovagal faints, beta-blockers remain widely used despite
+absence of strong supporting evidence. Beta-blockers were initially advocated to prevent reflex syncope
+by diminishing the impact of the adrenergic surge that commonly precedes and may be part of the
+vasovagal trigger. The positive supportive evidence is derived largely from small observational studies
+and one single small randomized controlled trial.[72] One large randomized controlled trial (POST I)
+showed no statistically significant benefit with beta-blockers in patients of all age ranges.[73]
+Vaso- and venoconstrictors have also been of interest for preventing faints associated with orthostatic
+intolerance. Midodrine is the principal drug in this class used for this indication. While midodrine has
+been studied most extensively in patients with orthostatic hypotension, research suggests it is also
+effective in vasovagal syncope.[74] [75] [76] In one multicenter randomized controlled trial (POST IV),
+midodrine reduced the recurrence of syncope compared with placebo in healthy, younger patients.[77]
+Methylphenidate has also been proposed for midodrine-intolerant patients, although its value has not
+been established.[78] Etilephrine, which is a modest alpha- and beta-agonist, was found to be ineffective
+at preventing vasovagal faints in the Vasovagal International Study.[79]
+Several other drug classes have been advocated but remain of uncertain value at best. The most
+important among these are the selective serotonin-reuptake inhibitors (SSRIs).[80] SSRI pretreatment is
+thought to blunt a hypothesized hypersensitive serotonin response in the central nervous system that may
+contribute to triggering NMRS. However, clinical trial results have been mixed.
+Disopyramide, pure anticholinergics (e.g., scopolamine), and theophylline were also advocated in the
+past, but the evidence is unconvincing.
+Data are lacking for the role of volume expansion, fludrocortisone, and midodrine in patients with
+situational faints or carotid sinus syncope, but may have been used in selected cases.
+Cardiac pacing
+Cardiac pacing may play a role in the treatment of carotid sinus syndrome with documented bradycardia
+to prevent bradycardia-induced faint. However, patients may remain symptomatic because of persistent
+vasodepressor response.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Neurally mediated reflex syncope Management
+MANAGEMENT
+The usefulness of pacing in patients with refractory vasovagal syncope is less certain. Intuitively, it was
+thought that preventing severe bradycardia (cardioinhibitory syncope) by pacing would be desirable.
+Three unblinded trials showed efficacy for pacing, whereas two subsequent trials that used pacemakers
+in both treatment arms did not show benefit.[42] [79] [81] [82] [83] In a randomized crossover study of
+otherwise healthy patients with refractory vasovagal syncope, dual-chamber closed-loop stimulation (CLS
+on) reduced syncope recurrence compared with regular pacing (CLS off).[84] However, a systematic
+review found insufficient evidence to support the use of pacemaker treatments.[58] The ACC/AHA/HRS
+guidelines recommend consideration of dual-chamber pacing in a narrow group of patients who are "40
+years of age or older with recurrent vasovagal syncope and prolonged spontaneous pauses".[1]
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+vasovagal faint
+1st patient education + avoiding triggering
+factors
+plus physical techniques
+plus volume expansion with conventional
+measures
+adjunct fludrocortisone
+adjunct midodrine
+situational faint
+1st patient education + reducing or avoiding
+triggering factors
+carotid sinus syndrome
+1st patient education + avoiding triggering
+factors
+plus cardiac pacing
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Neurally mediated reflex syncope Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+vasovagal faint
+1st patient education + avoiding triggering
+factors
+» The foundation for treatment of most NMRS
+syndromes is careful patient education.[1]
+Inform patients that although NMRS is rarely
+life-threatening, these types of faints tend
+to recur and injury can result if preventive
+measures are not taken.[2] Patients need to
+recognize and respond to warning symptoms,
+and may benefit from some knowledge of basic
+pathophysiology; such understanding reduces
+injury risk and may ultimately enhance treatment
+compliance. Educate patients on the avoidance
+of triggers such as prolonged standing, warm
+environments, and coping with dental and
+medical settings.[1]
+» Patients susceptible to recurrent vasovagal
+faints should learn techniques for both aborting
+attacks and reducing susceptibility to future
+episodes (e.g., physical maneuvers, hydration
+with electrolyte-rich fluids). These patients
+should also be taught the value and possible
+risks of increased salt intake.
+» Medications that cause hypotension may be
+reduced or withdrawn where appropriate and
+safe.[1]
+plus physical techniques
+Treatment recommended for ALL patients in
+selected patient group
+» Physical techniques such as physical counter-
+pressure maneuvers (PCM) and tilt training
+(standing training) are advocated to abort
+imminent NMRS or orthostatic faints when
+warning symptoms are first recognized.
+» Useful PCM techniques include squatting,
+arm tensing, leg crossing, and leg crossing
+with tensing of the lower body muscles.[60] [61]
+In the Physical Counterpressure Manoeuvres
+Trial, physical maneuvers reduced total burden
+and recurrence rate of syncopal events.[62]
+Consequently, PCM should be an essential part
+of the treatment strategy.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Neurally mediated reflex syncope Management
+MANAGEMENT
+Acute
+» The principal goal of tilt training (more
+accurately termed standing training) is to
+enhance the neurovascular response to
+orthostatic stress.[63] The favored method
+entails standing training (usually at home) for
+progressively longer periods of time over 10-12
+weeks. The recommended starting duration is
+3-5 minutes twice daily; standing duration is then
+gradually lengthened every 3 or 4 days to 30-40
+minutes twice daily.
+» The American College of Cardiology
+(ACC)/American Heart Association (AHA)/
+Heart Rhythm Society (HRS) advise that the
+usefulness of orthostatic training is uncertain
+in patients with frequent vasovagal syncope.[1]
+Nonrandomized studies suggest that standing
+training reduces susceptibility to reflex syncope
+if undertaken consistently.[64] [65] [66] However,
+compliance is often a problem because the
+process is time-consuming and boring.[13]
+Randomized controlled trials have been less
+encouraging, suggesting that the method may
+not be as effective as originally thought; further
+study is therefore needed.[67] [68]
+plus volume expansion with conventional
+measures
+Treatment recommended for ALL patients in
+selected patient group
+» Volume expansion is an essential
+recommendation for most patients who require
+medical therapy for vasovagal faints, but
+evidence is limited.[1] [27]
+» Conventional approaches include increased
+dietary salt and electrolyte-rich sports drinks.
+The primary safety concern is initiation of
+hypertension. Fortunately, this is rare in younger
+patients, but it is a concern in older patients.
+Contraindications to increased salt and fluid
+intake include history of hypertension, renal
+disease, heart failure, or cardiac dysfunction.
+adjunct fludrocortisone
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» fludrocortisone: 0.1 to 0.2 mg orally once
+daily
+» If a prescription drug is needed for volume
+expansion, fludrocortisone can be used.[1]
+Adverse effects include hypertension and
+hypokalemia. However, clinical evidence for the
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Neurally mediated reflex syncope Management
+Acute
+efficacy of fludrocortisone is weak.[69] [70] The
+Second Prevention of Syncope Trial (POST II)
+reported a nonsignificant decrease in episodes
+of vasovagal syncope in the fludrocortisone
+group compared with placebo.[71]
+» Treatment duration varies in clinical practice
+from months to years.
+adjunct midodrine
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» midodrine: 2.5 to 10 mg orally three times
+daily
+» There is insufficient evidence to support
+the use of most pharmacologic treatments for
+NMRS. Several drugs have been proposed, but
+there are few randomized clinical trials to rely
+on.[58] Consequently no agent, except perhaps
+midodrine, can be strongly recommended in
+treatment of neurally mediated faints.[59]
+» While midodrine has been studied most
+extensively in patients with orthostatic
+hypotension, research suggests it is also
+effective in vasovagal syncope.[74] [75] [76]
+In one multicenter randomized controlled trial
+(POST IV), midodrine reduced the recurrence
+of syncope compared with placebo in healthy,
+younger patients.[77]
+» Treatment duration varies in clinical practice
+from months to years.
+situational faint
+1st patient education + reducing or avoiding
+triggering factors
+» The foundation for treatment of most NMRS
+syndromes is careful patient education.[1]
+Inform patients that although NMRS is rarely life-
+threatening, these types of faints tend to recur
+and injury can result if preventive measures are
+not taken.[2] Patients need to recognize and
+respond to warning symptoms, and may benefit
+from some knowledge of basic pathophysiology;
+such understanding reduces injury risk and may
+ultimately enhance treatment compliance.
+» In situational faints, inform patients of the
+potential for ameliorating or entirely avoiding
+triggers; for instance, suppression by smoking
+cessation in cough syncope, and sitting to
+void in micturition syncope. In some cases,
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Neurally mediated reflex syncope Management
+MANAGEMENT
+Acute
+desensitization techniques (e.g., syncope
+associated with fear of air flight) may help.
+» Data are lacking for the role of physical
+techniques, volume expansion, fludrocortisone,
+and midodrine in patients with situational faints,
+but may have been used in selected cases.
+carotid sinus syndrome
+1st patient education + avoiding triggering
+factors
+» The foundation for treatment of most NMRS
+syndromes is careful patient education.[1]
+Inform patients that although NMRS is rarely life-
+threatening, these types of faints tend to recur
+and injury can result if preventive measures are
+not taken.[2] Patients need to recognize and
+respond to warning symptoms, and may benefit
+from some knowledge of basic pathophysiology;
+such understanding reduces injury risk and may
+ultimately enhance treatment compliance.
+» Patients with carotid sinus syndrome should
+avoid wearing tight collars or neckties.
+» Data are lacking for the role of physical
+techniques, volume expansion, fludrocortisone,
+and midodrine in patients with dominant
+vasodepressor or mixed carotid sinus syncope,
+but may have been used in selected cases.
+plus cardiac pacing
+Treatment recommended for ALL patients in
+selected patient group
+» Cardiac pacing may play a role in the
+treatment of carotid sinus syndrome with
+documented bradycardia to prevent bradycardia-
+induced faint. However, patients may
+remain symptomatic because of persistent
+vasodepressor response.
+» The usefulness of pacing in patients with
+refractory vasovagal syncope is less certain.
+Intuitively, it was thought that preventing severe
+bradycardia (cardioinhibitory syncope) by
+pacing would be desirable. Three unblinded
+trials showed efficacy for pacing, whereas two
+subsequent trials that used pacemakers in
+both treatment arms did not show benefit.[42]
+[79] [81] [82] [83] In a randomized crossover
+study of otherwise healthy patients with
+refractory vasovagal syncope, dual-chamber
+closed-loop stimulation (CLS on) reduced
+syncope recurrence compared with regular
+pacing (CLS off).[84] However, a systematic
+review found insufficient evidence to support
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Neurally mediated reflex syncope Management
+Acute
+the use of pacemaker treatments.[58] The
+American College of Cardiology/American Heart
+Association/Heart Rhythm Society guidelines
+recommend consideration of dual-chamber
+pacing in a narrow group of patients who are "40
+years of age or older with recurrent vasovagal
+syncope and prolonged spontaneous pauses".[1]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Neurally mediated reflex syncope Management
+MANAGEMENT
+Emerging
+Catheter-based ablation
+Reserved for syncope related to tachyarrhythmias.[2] Some research suggests a possible role for treatment
+of recurrent vasovagal syncope refractory to conventional treatment. In one retrospective cohort study, 91.2%
+(52/57) patients with vasovagal syncope treated with catheter ablation were free from syncope after 12-102
+months' follow-up.[85]
+Secondary prevention
+Strategies for reducing syncope recurrences in the long term comprise physical techniques to improve
+orthostatic tolerance, pharmacologic interventions to prevent depletion of intravascular volume and/or
+enhance arterial and venous tone, and cardiac pacing to avert bradycardia.
+Patient discussions
+Patients should contact their physician if there is a change in frequency or presentation of symptoms.
+Patient education is an important factor in treatment for all types of NMRS.[1] Patients should avoid or
+mitigate situations where syncope has occurred in the past (e.g., prolonged standing, pain, emotional
+distress, defecation, dehydration).[1] If they experience prodromal symptoms (e.g., dizziness, changes
+in vision/hearing), advise patients to lie down if possible (and if safe to do so) with their legs elevated.
+Patients may try arm counter-pulsation (pulling contralateral hands against each other, hooking the hands
+together, and pulling with the arms), leg tensing, and leg crossing to try to improve venous return to the
+heart and therefore perfusion of the brain.[60] [61] For prevention, patients can try support stockings that
+extend to the thigh. 
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Neurally mediated reflex syncope Follow up
+Monitoring
+Monitoring
+Early follow-up should be scheduled for patients with vasovagal syncope discharged after the initial
+evaluation. Patients should visit their physician annually for monitoring.
+Complications
+Complications Timeframe Likelihood
+injuries and fractures short term high
+A particular concern in older and infirm patients due to recurrent falls. In one meta-analysis, injury due to
+vasovagal syncope occurred in one third of patients; the rate of major injury was 13.9%.[89]
+Falls due to syncope can result in significant trauma and should be evaluated as clinically warranted.
+extradural or cerebral hemorrhage secondary to
+trauma
+short term medium
+Often unrecognized initially but may account for later onset of neurologic symptoms, including diminished
+mental status.
+The presence of neurologic signs/symptoms may necessitate a visit to the emergency department, where
+a CT scan of the head is ordered to evaluate for a cerebral hemorrhage or subdural hematoma.
+Prognosis
+Recurrences are common but often occur in clusters.[86] In one meta-analysis, 36% of patients in
+randomized and cohort studies fainted during the study follow-up period (median follow-up 2 years).[87]
+The estimated 1-year mortality rate after syncope (all causes) is 8.4%.[88] The mortality risk is mainly related
+to cardiovascular causes.[25] Patients with NMRS typically have a better prognosis than patients with cardiac
+syncope, but injury is a concern due to recurrent falls, especially in older people.[13] In one meta-analysis,
+injury due to vasovagal syncope occurred in one third of patients; the rate of major injury was 13.9%.[89]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Neurally mediated reflex syncope Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+ACC/AHA/HRS guideline for the evaluation and management of patients with
+syncope (https://www.acc.org/guidelines)   [1]
+Published by: American College of Cardiology; American Heart
+Association; Heart Rhythm Society
+Last published: 2017
+Recommendations for tilt table testing and other provocative cardiovascular
+autonomic tests in conditions that may cause transient loss of
+consciousness (https://www.efasweb.com/web/index.php/consensus-
+guideline)   [48]
+Published by: European Federation of Autonomic Societies; American
+Autonomic Society; European Academy of Neurology
+Last published: 2021
+2018 ESC guidelines for the diagnosis and management of syncope (https://
+www.escardio.org/Guidelines)   [2]
+Published by: European Society of Cardiology Last published: 2018
+Treatment guidelines
+International
+ACC/AHA/HRS guideline for the evaluation and management of patients with
+syncope (https://www.acc.org/guidelines)   [1]
+Published by: American College of Cardiology; American Heart
+Association; Heart Rhythm Society
+Last published: 2017
+2018 ESC guidelines for the diagnosis and management of syncope (https://
+www.escardio.org/Guidelines)   [2]
+Published by: European Society of Cardiology Last published: 2018
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Neurally mediated reflex syncope References
+Key articles
+• Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and
+management of patients with syncope: a report of the American College of Cardiology/American
+Heart Association Task Force on clinical practice guidelines, and the Heart Rhythm Society.
+Heart Rhythm. 2017 Aug;14(8):e155-217.  Full text (https://www.heartrhythmjournal.com/article/
+S1547-5271(17)30297-7/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28286247?
+tool=bestpractice.bmj.com)
+• Brignole M, Moya A, de Lange FJ, et al; ESC Scientific Document Group. 2018 ESC guidelines for the
+diagnosis and management of syncope. Eur Heart J. 2018 Jun 1;39(21):1883-948.  Full text (https://
+academic.oup.com/eurheartj/article/39/21/1883/4939241)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29562304?tool=bestpractice.bmj.com)
+• Moya A, Brignole M, Menozzi C, et al; International Study on Syncope of Uncertain Etiology (ISSUE)
+Investigators. Mechanism of syncope in patients with isolated syncope and in patients with tilt-
+positive syncope. Circulation. 2001 Sep 11;104(11):1261-7.  Full text (https://www.ahajournals.org/
+doi/10.1161/hc3601.095708)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11551877?
+tool=bestpractice.bmj.com)
+• Sandhu RK, Raj SR, Manlucu J, et al; Primary Writing Committee. Canadian Cardiovascular Society
+clinical practice update on the assessment and management of syncope. Can J Cardiol. 2020
+Aug;36(8):1167-77.  Full text (https://www.onlinecjc.ca/article/S0828-282X(19)31549-1/fulltext)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32624296?tool=bestpractice.bmj.com)
+• Reed MJ, Newby DE, Coull AJ, et al. The ROSE (risk stratification of syncope in the emergency
+department) study. J Am Coll Cardiol. 2010 Feb 23;55(8):713-21.  Full text (https://www.jacc.org/
+doi/10.1016/j.jacc.2009.09.049)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20170806?
+tool=bestpractice.bmj.com)
+• Benditt DG, Ferguson DW, Grubb BP, et al. Tilt table testing for assessing syncope. American College
+of Cardiology. J Am Coll Cardiol. 1996 Jul;28(1):263-75. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8752825?tool=bestpractice.bmj.com)
+• Raviele A, Giada F, Menozzi C, et al; Vasovagal Syncope and Pacing Trial Investigators.
+A randomized, double-blind, placebo-controlled study of permanent cardiac pacing for the
+treatment of recurrent tilt-induced vasovagal syncope. The Vasovagal Syncope and Pacing
+Trial (SYNPACE). Eur Heart J. 2004 Oct;25(19):1741-8.  Full text (https://academic.oup.com/
+eurheartj/article/25/19/1741/528715)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15451153?
+tool=bestpractice.bmj.com)
+References
+1. Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and
+management of patients with syncope: a report of the American College of Cardiology/American
+Heart Association Task Force on clinical practice guidelines, and the Heart Rhythm Society.
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Neurally mediated reflex syncope References
+REFERENCES
+Heart Rhythm. 2017 Aug;14(8):e155-217.  Full text (https://www.heartrhythmjournal.com/article/
+S1547-5271(17)30297-7/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28286247?
+tool=bestpractice.bmj.com)
+2. Brignole M, Moya A, de Lange FJ, et al; ESC Scientific Document Group. 2018 ESC guidelines for the
+diagnosis and management of syncope. Eur Heart J. 2018 Jun 1;39(21):1883-948.  Full text (https://
+academic.oup.com/eurheartj/article/39/21/1883/4939241)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29562304?tool=bestpractice.bmj.com)
+3. Blanc J-J, Benditt DG. Syncope: definition, classification, and multiple potential causes. In: Benditt
+DG, Blanc J-J, Brignole M, et al, eds. The evaluation and treatment of syncope: a handbook for clinical
+practice. Elmsford, NY: Futura/Blackwell; 2003:3-10.
+4. Kenny RA, Ingram A, Bayliss J, et al. Head-up tilt: a useful test for investigating unexplained syncope.
+Lancet. 1986 Jun 14;1(8494):1352-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2872472?
+tool=bestpractice.bmj.com)
+5. Olshansky B, Poole JE, Johnson G, et al; SCD-HeFT Investigators. Syncope predicts the outcome
+of cardiomyopathy patients: analysis of the SCD-HeFT study. J Am Coll Cardiol. 2008 Apr
+1;51(13):1277-82.  Full text (https://www.jacc.org/doi/10.1016/j.jacc.2007.11.065)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18371559?tool=bestpractice.bmj.com)
+6. Prasad K, Williams L, Campbell R, et al. Episodic syncope in hypertrophic cardiomyopathy: evidence
+for inappropriate vasodilation. Heart. 2008 Oct;94(10):1312-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18653581?tool=bestpractice.bmj.com)
+7. Moya A, Brignole M, Menozzi C, et al; International Study on Syncope of Uncertain Etiology (ISSUE)
+Investigators. Mechanism of syncope in patients with isolated syncope and in patients with tilt-
+positive syncope. Circulation. 2001 Sep 11;104(11):1261-7.  Full text (https://www.ahajournals.org/
+doi/10.1161/hc3601.095708)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11551877?
+tool=bestpractice.bmj.com)
+8. Thijs RD, Kruit MC, van Buchem MA, et al. Syncope in migraine: the population-based
+CAMERA study. Neurology. 2006 Apr 11;66(7):1034-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16606915?tool=bestpractice.bmj.com)
+9. Alciati A, Shiffer D, Dipaola F, et al. Psychogenic pseudosyncope: clinical features, diagnosis
+and management. J Atr Fibrillation. 2020 Jun-Jul;13(1):2399.  Full text (http://jafib.com/
+published.php?type=full&id=2399)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33024500?
+tool=bestpractice.bmj.com)
+10. Mathias CJ, Bannister R. Clinical features and evaluation of the primary chronic autonomic failure
+syndromes. In: Bannister R, Mathias CJ, eds. Autonomic failure: a textbook of clinical disorders of the
+autonomic nervous system. 4th ed. New York, NY: Oxford University Press; 1999:562.
+11. Blanc JJ, L'Her C, Touiza A, et al. Prospective evaluation and outcome of patients admitted
+for syncope over a 1 year period. Eur Heart J. 2002 May;23(10):815-20.  Full text (https://
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Neurally mediated reflex syncope References
+academic.oup.com/eurheartj/article/23/10/815/451506)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12009722?tool=bestpractice.bmj.com)
+12. Disertori M, Brignole M, Menozzi C, et al. Management of patients with syncope referred urgently
+to general hospitals. Europace. 2003 Jul;5(3):283-91.  Full text (https://academic.oup.com/
+europace/article/5/3/283/599679)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12842645?
+tool=bestpractice.bmj.com)
+13. Runser LA, Gauer RL, Houser A. Syncope: evaluation and differential diagnosis. Am Fam Physician.
+2017 Mar 1;95(5):303-12.  Full text (https://www.aafp.org/pubs/afp/issues/2017/0301/p303.html)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28290647?tool=bestpractice.bmj.com)
+14. Ganzeboom KS, Mairuhu G, Reitsma JB, et al. Lifetime cumulative incidence of syncope
+in the general population: a study of 549 Dutch subjects aged 35-60 years. J Cardiovasc
+Electrophysiol. 2006 Nov;17(11):1172-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17074006?
+tool=bestpractice.bmj.com)
+15. Ruwald MH, Hansen ML, Lamberts M, et al. The relation between age, sex, comorbidity,
+and pharmacotherapy and the risk of syncope: a Danish nationwide study. Europace. 2012
+Oct;14(10):1506-14.  Full text (https://academic.oup.com/europace/article/14/10/1506/448196)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22588456?tool=bestpractice.bmj.com)
+16. Saklani P, Krahn A, Klein G. Syncope. Circulation. 2013 Mar 26;127(12):1330-9.  Full text
+(https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.112.138396)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23529534?tool=bestpractice.bmj.com)
+17. Lipsitz LA, Wei JY, Rowe JW. Syncope in an elderly institutionalised population: prevalence, incidence,
+and associated risk. Q J Med. 1985 Apr;55(216):45-54. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/4011842?tool=bestpractice.bmj.com)
+18. Soteriades ES, Evans JC, Larson MG, et al. Incidence and prognosis of syncope. N Engl J Med. 2002
+Sep 19;347(12):878-85.  Full text (https://www.nejm.org/doi/full/10.1056/NEJMoa012407)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/12239256?tool=bestpractice.bmj.com)
+19. Benditt DG, Brignole M. Syncope: is a diagnosis a diagnosis? J Am Coll Cardiol. 2003 Mar
+5;41(5):791-4.  Full text (https://www.jacc.org/doi/10.1016/S0735-1097%2802%2902928-5)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/12628724?tool=bestpractice.bmj.com)
+20. Van Lieshout JJ, Wieling W, Karemaker JM, et al. Syncope, cerebral perfusion, and oxygenation.
+J Appl Physiol. 2003 Mar;94(3):833-48.  Full text (https://journals.physiology.org/doi/full/10.1152/
+japplphysiol.00260.2002)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12571122?
+tool=bestpractice.bmj.com)
+21. Rowell LB. Cerebral and coronary circulations. In: Rowell LB, ed. Human cardiovascular control. New
+York, NY: Oxford University Press; 1993:117-36.
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Neurally mediated reflex syncope References
+REFERENCES
+22. Brignole M, Menozzi C, Gianfranchi L, et al. Neurally mediated syncope detected by carotid sinus
+massage and head-up tilt test in sick sinus syndrome. Am J Cardiol. 1991 Oct 15;68(10):1032-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1927916?tool=bestpractice.bmj.com)
+23. Sarasin FP, Louis-Simonet M, Carballo D, et al. Prospective evaluation of patients with syncope: a
+population-based study. Am J Med. 2001 Aug 15;111(3):177-84. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11530027?tool=bestpractice.bmj.com)
+24. Farwell D, Sulke N. How do we diagnose syncope? J Cardiovasc Electrophysiol. 2002 Jan;13(1
+Suppl):S9-13. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11843472?tool=bestpractice.bmj.com)
+25. D'Ascenzo F, Biondi-Zoccai G, Reed MJ, et al. Incidence, etiology and predictors of adverse
+outcomes in 43,315 patients presenting to the Emergency Department with syncope: an
+international meta-analysis. Int J Cardiol. 2013 Jul 15;167(1):57-62.  Full text (https://iris.unimore.it/
+retrieve/handle/11380/793892/171529/1-s2.0-S0167527311021401-main.pdf)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22192287?tool=bestpractice.bmj.com)
+26. American Academy of Pediatrics – Section on Cardiology and Cardiac Surgery. Five things physicians
+and patients should question. Choosing Wisely, an initiative of the ABIM Foundation. 2022 [internet
+publication].  Full text (https://web.archive.org/web/20230320224131/https://www.choosingwisely.org/
+societies/american-academy-of-pediatrics-section-on-cardiology-and-cardiac-surgery)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/insert id?tool=bestpractice.bmj.com)
+27. Sandhu RK, Raj SR, Manlucu J, et al; Primary Writing Committee. Canadian Cardiovascular Society
+clinical practice update on the assessment and management of syncope. Can J Cardiol. 2020
+Aug;36(8):1167-77.  Full text (https://www.onlinecjc.ca/article/S0828-282X(19)31549-1/fulltext)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32624296?tool=bestpractice.bmj.com)
+28. Prandoni P, Lensing AW, Prins MH, et al; PESIT Investigators. Prevalence of pulmonary embolism
+among patients hospitalized for syncope. N Engl J Med. 2016 Oct 20;375(16):1524-31.  Full text
+(https://www.nejm.org/doi/full/10.1056/NEJMoa1602172)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27797317?tool=bestpractice.bmj.com)
+29. Quinn JV, Stiell IG, McDermott DA, et al. Derivation of the San Francisco Syncope Rule to predict
+patients with short-term serious outcomes. Ann Emerg Med. 2004 Feb;43(2):224-32. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/14747812?tool=bestpractice.bmj.com)
+30. Reed MJ, Newby DE, Coull AJ, et al. The ROSE (risk stratification of syncope in the emergency
+department) study. J Am Coll Cardiol. 2010 Feb 23;55(8):713-21.  Full text (https://www.jacc.org/
+doi/10.1016/j.jacc.2009.09.049)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20170806?
+tool=bestpractice.bmj.com)
+31. Zimmermann T, du Fay de Lavallaz J, Nestelberger T, et al. International validation of the canadian
+syncope risk score: a cohort study. Ann Intern Med. 2022 Jun;175(6):783-94. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35467933?tool=bestpractice.bmj.com)
+32. Colivicchi F, Ammirati F, Melina D, et al. Development and prospective validation of a risk stratification
+system for patients with syncope in the emergency department: the OESIL risk score. Eur Heart J.
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Neurally mediated reflex syncope References
+2003 May;24(9):811-9.  Full text (https://academic.oup.com/eurheartj/article/24/9/811/2733957)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12727148?tool=bestpractice.bmj.com)
+33. Del Rosso A, Ungar A, Maggi R, et al. Clinical predictors of cardiac syncope at initial evaluation in
+patients referred urgently to a general hospital: the EGSYS score. Heart. 2008 Dec;94(12):1620-6. 
+Full text (https://heart.bmj.com/content/94/12/1620.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18519550?tool=bestpractice.bmj.com)
+34. National Institute for Health and Care Excellence. Transient loss of consciousness ('blackouts') in over
+16s. Sep 2014 [internet publication].  Full text (https://www.nice.org.uk/guidance/cg109/chapter/1-
+Guidance)
+35. Brignole M, Moya A, de Lange FJ, et al; ESC Scientific Document Group. Practical instructions for
+the 2018 ESC guidelines for the diagnosis and management of syncope. Eur Heart J. 2018 Jun
+1;39(21):e43-80.  Full text (https://academic.oup.com/eurheartj/article/39/21/e43/4939242)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29562291?tool=bestpractice.bmj.com)
+36. American Epilepsy Society. Five things physicians and patients should question. Choosing Wisely, an
+initiative of the ABIM Foundation. 2023 [internet publication].  Full text (https://aesnet.org/clinical-care/
+running-your-practice/practice-tools)
+37. American College of Emergency Physicians. Thirty five things physicians and patients should
+question. Choosing Wisely, an initiative of the ABIM Foundation, 2014 [internet publication].  Full text
+(https://web.archive.org/web/20230131173532/https://www.choosingwisely.org/clinician-lists/acep-
+avoid-head-ct-for-asymptomatic-adults-with-syncope)
+38. American Academy of Neurology. Five things physicians and patients should question. Choosing
+Wisely, an initiative of the ABIM Foundation. 2022 [internet publication].  Full text (https://
+web.archive.org/web/20221205215637/https://www.choosingwisely.org/societies/american-academy-
+of-neurology)
+39. Benditt DG, Ferguson DW, Grubb BP, et al. Tilt table testing for assessing syncope. American College
+of Cardiology. J Am Coll Cardiol. 1996 Jul;28(1):263-75. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8752825?tool=bestpractice.bmj.com)
+40. Almquist A, Goldenberg IF, Milstein S, et al. Provocation of bradycardia and hypotension by
+isoproterenol and upright posture in patients with unexplained syncope. N Engl J Med. 1989 Feb
+9;320(6):346-51. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2913492?tool=bestpractice.bmj.com)
+41. Fitzpatrick AP, Theodorakis G, Vardas P, et al. Methodology of head-up tilt testing in patients
+with unexplained syncope. J Am Coll Cardiol. 1991 Jan;17(1):125-30. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1987214?tool=bestpractice.bmj.com)
+42. Raviele A, Giada F, Menozzi C, et al; Vasovagal Syncope and Pacing Trial Investigators.
+A randomized, double-blind, placebo-controlled study of permanent cardiac pacing for the
+treatment of recurrent tilt-induced vasovagal syncope. The Vasovagal Syncope and Pacing
+Trial (SYNPACE). Eur Heart J. 2004 Oct;25(19):1741-8.  Full text (https://academic.oup.com/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Neurally mediated reflex syncope References
+REFERENCES
+eurheartj/article/25/19/1741/528715)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15451153?
+tool=bestpractice.bmj.com)
+43. Kapoor WN, Smith MA, Miller NL. Upright tilt testing in evaluating syncope: a comprehensive literature
+review. Am J Med. 1994 Jul;97(1):78-88. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8030660?
+tool=bestpractice.bmj.com)
+44. Morley CA, Sutton R. Carotid sinus syncope. Int J Cardiol. 1984 Sep;6(3):287-93. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/6480160?tool=bestpractice.bmj.com)
+45. Dandy WE. Glossopharyngeal neuralgia (tic douloureux): its diagnosis and treatment. Arch Surg. 1927
+Aug;15(2):198-214.
+46. Gottesman MH, Ibrahim B, Elfenbein AS, et al. Cardiac arrest caused by trigeminal neuralgia.
+Headache. 1996 Jun;36(6):392-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8707560?
+tool=bestpractice.bmj.com)
+47. Morillo CA, Leitch JW, Yee R, et al. A placebo-controlled trial of intravenous and oral disopyramide
+for prevention of neurally mediated syncope induced by head-up tilt. J Am Coll Cardiol. 1993
+Dec;22(7):1843-8.  Full text (https://www.sciencedirect.com/science/article/pii/S221053952300144X)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8245337?tool=bestpractice.bmj.com)
+48. Thijs RD, Brignole M, Falup-Pecurariu C, et al. Recommendations for tilt table testing and
+other provocative cardiovascular autonomic tests in conditions that may cause transient loss of
+consciousness: consensus statement of the European Federation of Autonomic Societies (EFAS)
+endorsed by the American Autonomic Society (AAS) and the European Academy of Neurology
+(EAN). Auton Neurosci. 2021 Jul;233:102792.  Full text (https://www.autonomicneuroscience.com/
+article/S1566-0702(21)00022-9/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33752997?
+tool=bestpractice.bmj.com)
+49. Raviele A, Gasparini G, Di Pede F, et al. Usefulness of head-up tilt test in evaluating patients
+with syncope of unknown origin and negative electrophysiologic study. Am J Cardiol. 1990 Jun
+1;65(20):1322-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1971497?tool=bestpractice.bmj.com)
+50. Menozzi C, Brignole M, Garcia-Civera R, et al; International Study on Syncope of Uncertain
+Etiology (ISSUE) Investigators. Mechanism of syncope in patients with heart disease
+and negative electrophysiologic test. Circulation. 2002 Jun 11;105(23):2741-5.  Full text
+(https://www.ahajournals.org/doi/10.1161/01.CIR.0000018125.31973.87)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12057988?tool=bestpractice.bmj.com)
+51. Brignole M, Menozzi C, Moya A, et al; International Study on Syncope of Uncertain Etiology
+(ISSUE) Investigators. Mechanism of syncope in patients with bundle branch block and
+negative electrophysiological test. Circulation. 2001 Oct 23;104(17):2045-50.  Full text (https://
+www.ahajournals.org/doi/10.1161/hc4201.097837)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11673344?tool=bestpractice.bmj.com)
+52. Solari D, Maggi R, Oddone D, et al. Clinical context and outcome of carotid sinus syndrome diagnosed
+by means of the 'method of symptoms'. Europace. 2014 Jun;16(6):928-34.  Full text (https://
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Neurally mediated reflex syncope References
+academic.oup.com/europace/article/16/6/928/559723)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24058183?tool=bestpractice.bmj.com)
+53. Flammang D, Church T, Waynberger M, et al. Can adenosine 5'-triphosphate be used to select
+treatment in severe vasovagal syndrome? Circulation. 1997 Aug 19;96(4):1201-8.  Full text (https://
+www.ahajournals.org/doi/10.1161/01.CIR.96.4.1201)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9286950?tool=bestpractice.bmj.com)
+54. Flammang D, Chassing A, Donal E, et al. Reproducibility of the adenosine-5'-triphosphate test
+in vasovagal syndrome. J Cardiovasc Electrophysiol. 1998 Nov;9(11):1161-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9835259?tool=bestpractice.bmj.com)
+55. Blanc JJ. Clinical laboratory testing: what is the role of tilt-table testing, active standing test, carotid
+massage, electrophysiological testing and ATP test in the syncope evaluation? Prog Cardiovasc
+Dis. 2013 Jan-Feb;55(4):418-24. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23472780?
+tool=bestpractice.bmj.com)
+56. Benditt DG, Samniah N, Pham S, et al. Effect of cough on heart rate and blood pressure in patients
+with "cough syncope". Heart Rhythm. 2005 Aug;2(8):807-13. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16051114?tool=bestpractice.bmj.com)
+57. Kulakowski P. Reflex syncope: assessment and management. Heart. 2023 Nov 10;109(23):1785-92.
+58. Jacobus JR, Johannes BR, Catherine NB, et al. Drugs and pacemakers for vasovagal, carotid
+sinus and situational syncope. Cochrane Database Syst Rev. 2011 Oct 5;(10):CD004194.  Full text
+(https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004194.pub3/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21975744?tool=bestpractice.bmj.com)
+59. Izcovich A, González Malla C, Manzotti M, et al. Midodrine for orthostatic hypotension and recurrent
+reflex syncope: a systematic review. Neurology. 2014 Sep 23;83(13):1170-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25150287?tool=bestpractice.bmj.com)
+60. Krediet CT, van Dijk N, Linzer M, et al. Management of vasovagal syncope: controlling or aborting
+faints by leg crossing and muscle tensing. Circulation. 2002 Sep 24;106(13):1684-9.  Full text
+(https://www.ahajournals.org/doi/10.1161/01.CIR.0000030939.12646.8F)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12270863?tool=bestpractice.bmj.com)
+61. Brignole M, Croci F, Menozzi C, et al. Isometric arm counter-pressure maneuvers to abort
+impending vasovagal syncope. J Am Coll Cardiol. 2002 Dec 4;40(11):2053-9.  Full text (https://
+www.jacc.org/doi/10.1016/S0735-1097%2802%2902683-9)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12475469?tool=bestpractice.bmj.com)
+62. van Dijk N, Quartieri F, Blanc JJ, et al; PC-Trial Investigators. Effectiveness of physical
+counterpressure maneuvers in preventing vasovagal syncope: the Physical Counterpressure
+Manoeuvres Trial (PC-Trial). J Am Coll Cardiol. 2006 Oct 17;48(8):1652-7.  Full text (https://
+www.jacc.org/doi/10.1016/j.jacc.2006.06.059)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17045903?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Neurally mediated reflex syncope References
+REFERENCES
+63. Ector H, Reybrouck T, Heidbüchel H, et al. Tilt training: a new treatment for recurrent neurocardiogenic
+syncope and severe orthostatic intolerance. Pacing Clin Electrophysiol. 1998 Jan;21(1 Pt 2):193-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9474671?tool=bestpractice.bmj.com)
+64. Di Girolamo E, Di Iorio C, Leonzio L, et al. Usefulness of a tilt training program for the prevention
+of refractory neurocardiogenic syncope in adolescents: a controlled study. Circulation. 1999 Oct
+26;100(17):1798-801.  Full text (https://www.ahajournals.org/doi/10.1161/01.CIR.100.17.1798)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10534467?tool=bestpractice.bmj.com)
+65. Reybrouck T, Heidbüchel H, Van De Werf F, et al. Long-term follow-up results of tilt training therapy in
+patients with recurrent neurocardiogenic syncope. Pacing Clin Electrophysiol. 2002 Oct;25(10):1441-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12418741?tool=bestpractice.bmj.com)
+66. Kinay O, Yazici M, Nazli C, et al. Tilt training for recurrent neurocardiogenic syncope:
+effectiveness, patient compliance, and scheduling the frequency of training sessions. Jpn
+Heart J. 2004 Sep;45(5):833-43. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15557724?
+tool=bestpractice.bmj.com)
+67. On YK, Park J, Huh J, et al. Is home orthostatic self-training effective in preventing neurally mediated
+syncope? Pacing Clin Electrophysiol. 2007 May;30(5):638-43. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17461874?tool=bestpractice.bmj.com)
+68. Gurevitz O, Barsheshet A, Bar-Lev D, et al. Tilt training: does it have a role in preventing
+vasovagal syncope? Pacing Clin Electrophysiol. 2007 Dec;30(12):1499-505. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18070305?tool=bestpractice.bmj.com)
+69. Scott WA, Pongiglione G, Bromberg BI, et al. Randomized comparison of atenolol and fludrocortisone
+acetate in the treatment of pediatric neurally mediated syncope. Am J Cardiol. 1995 Aug
+15;76(5):400-2. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7639169?tool=bestpractice.bmj.com)
+70. Salim MA, Di Sessa TG. Effectiveness of fludrocortisone and salt in preventing syncope recurrence
+in children: a double-blind, placebo-controlled, randomized trial. J Am Coll Cardiol. 2005 Feb
+15;45(4):484-8.  Full text (https://www.jacc.org/doi/10.1016/j.jacc.2004.11.033)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15708690?tool=bestpractice.bmj.com)
+71. Sheldon R, Morillo CA, Krahn A, et al. A randomized clinical trial of fludrocortisone for the prevention
+of vasovagal syncope (POST II). Paper presented at: Canadian Cardiovascular Congress 2011.
+Vancouver, Canada. Abstract 903. Can J Cardiol. 2011 Sep 1;27(suppl 5):S335-6.  Full text (https://
+www.onlinecjc.ca/article/S0828-282X(11)01050-6/fulltext)
+72. Mahanonda N, Bhuripanyo K, Kangkagate C, et al. Randomized double-blind, placebo-controlled
+trial of oral atenolol in patients with unexplained syncope and positive upright tilt table test results.
+Am Heart J. 1995 Dec;130(6):1250-3. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7484777?
+tool=bestpractice.bmj.com)
+73. Sheldon R, Connolly S, Rose S, et al; POST Investigators. Prevention of Syncope Trial (POST):
+a randomized, placebo-controlled study of metoprolol in the prevention of vasovagal syncope.
+Circulation. 2006 Mar 7;113(9):1164-70.  Full text (https://www.ahajournals.org/doi/10.1161/
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Neurally mediated reflex syncope References
+CIRCULATIONAHA.105.535161)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16505178?
+tool=bestpractice.bmj.com)
+74. Jankovic J, Gilden JL, Hiner BC, et al. Neurogenic orthostatic hypotension: a double-blind,
+placebo-controlled study with midodrine. Am J Med. 1993 Jul;95(1):38-48. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7687093?tool=bestpractice.bmj.com)
+75. Ward CR, Gray JC, Gilroy JJ, et al. Midodrine: a role in the management of neurocardiogenic syncope.
+Heart. 1998 Jan;79(1):45-9.  Full text (https://heart.bmj.com/content/79/1/45)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9505918?tool=bestpractice.bmj.com)
+76. Perez-Lugones A, Schweikert R, Pavia S, et al. Usefulness of midodrine in patients with
+severely symptomatic neurocardiogenic syncope: a randomized control study. J Cardiovasc
+Electrophysiol. 2001 Aug;12(8):935-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11513446?
+tool=bestpractice.bmj.com)
+77. Sheldon R, Faris P, Tang A, et al; POST 4 investigators. Midodrine for the prevention of vasovagal
+syncope: a randomized clinical trial. Ann Intern Med. 2021 Oct;174(10):1349-56. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34339231?tool=bestpractice.bmj.com)
+78. Grubb BP, Kosinski D, Mouhaffel A, et al. A. The use of methylphenidate in the treatment of refractory
+neurocardiogenic syncope. Pacing Clin Electrophysiol. 1996 May;19(5):836-40. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8734752?tool=bestpractice.bmj.com)
+79. Sutton R, Brignole M, Menozzi C, et al; the Vasovagal Syncope International Study (VASIS)
+Investigators. Dual-chamber pacing in the treatment of neurally mediated tilt-positive cardioinhibitory
+syncope. Pacemaker versus no therapy: a multicenter randomized study. Circulation. 2000 Jul
+18;102(3):294-9.  Full text (https://www.ahajournals.org/doi/10.1161/01.CIR.102.3.294)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/10899092?tool=bestpractice.bmj.com)
+80. Grubb BP, Wolfe DA, Samoil D, et al. Usefulness of fluoxetine hydrochloride for prevention of resistant
+upright tilt induced syncope. Pacing Clin Electrophysiol. 1993 Mar;16(3 Pt 1):458-64. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7681197?tool=bestpractice.bmj.com)
+81. Ammirati F, Colivicchi F, Santini M; Syncope Diagnosis and Treatment Study Investigators.
+Permanent cardiac pacing versus medical treatment for the prevention of recurrent vasovagal
+syncope: a multicenter, randomized, controlled trial. Circulation. 2001 Jul 3;104(1):52-7.  Full text
+(https://www.ahajournals.org/doi/10.1161/hc2601.091708)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11435337?tool=bestpractice.bmj.com)
+82. Connolly SJ, Sheldon R, Roberts RS, et al. The North American Vasovagal Pacemaker
+Study (VPS). A randomized trial of permanent cardiac pacing for the prevention of vasovagal
+syncope. J Am Coll Cardiol. 1999 Jan;33(1):16-20.  Full text (https://www.jacc.org/doi/10.1016/
+S0735-1097%2898%2900549-X)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9935002?
+tool=bestpractice.bmj.com)
+83. Connolly SJ, Sheldon R, Thorpe KE, et al; VPS II Investigators. Pacemaker therapy for prevention of
+syncope in patients with recurrent severe vasovagal syncope. Second Vasovagal Pacemaker Study
+(VPS II): a randomized trial. JAMA. 2003 May 7;289(17):2224-9.  Full text (https://jamanetwork.com/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Neurally mediated reflex syncope References
+REFERENCES
+journals/jama/fullarticle/196492)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12734133?
+tool=bestpractice.bmj.com)
+84. Russo V, Rago A, Papa AA, et al. The effect of dual-chamber closed-loop stimulation on syncope
+recurrence in healthy patients with tilt-induced vasovagal cardioinhibitory syncope: a prospective,
+randomised, single-blind, crossover study. Heart. 2013 Nov;99(21):1609-13. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23723446?tool=bestpractice.bmj.com)
+85. Sun W, Zheng L, Qiao Y, et al. Catheter ablation as a treatment for vasovagal syncope: long-term
+outcome of endocardial autonomic modification of the left atrium. J Am Heart Assoc. 2016 Jul
+8;5(7):e003471.  Full text (https://www.ahajournals.org/doi/10.1161/JAHA.116.003471)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/27402231?tool=bestpractice.bmj.com)
+86. Sahota IS, Maxey C, Pournazari P, et al. Clusters, gaps, and randomness: vasovagal syncope
+recurrence patterns. JACC Clin Electrophysiol. 2017 Sep;3(9):1046-53.  Full text (https://www.jacc.org/
+doi/10.1016/j.jacep.2017.02.008)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29759709?
+tool=bestpractice.bmj.com)
+87. Pournazari P, Sahota I, Sheldon R. High remission rates in vasovagal syncope: systematic review
+and meta-analysis of observational and randomized studies. JACC Clin Electrophysiol. 2017
+Apr;3(4):384-92.  Full text (https://www.jacc.org/doi/10.1016/j.jacep.2016.10.012)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29759452?tool=bestpractice.bmj.com)
+88. Solbiati M, Casazza G, Dipaola F, et al. Syncope recurrence and mortality: a systematic
+review. Europace. 2015 Feb;17(2):300-8.  Full text (https://academic.oup.com/europace/
+article/17/2/300/2802596)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25476868?
+tool=bestpractice.bmj.com)
+89. Jorge JG, Raj SR, Teixeira PS, et al. Likelihood of injury due to vasovagal syncope: a systematic
+review and meta-analysis. Europace. 2021 Jul 18;23(7):1092-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33693816?tool=bestpractice.bmj.com)
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Neurally mediated reflex syncope Images
+Images
+Figure 1: Classification of syncope
+From personal collection of Dr David Benditt; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Neurally mediated reflex syncope Images
+IMAGES
+Figure 2: Ambulatory monitoring recording obtained during a spontaneous faint associated with marked
+bradycardia. Baseline movement reflects the patient's distress
+From personal collection of Dr David Benditt; used with permission
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Neurally mediated reflex syncope Images
+Figure 3: ECG trace revealing an episode of torsades de pointes in a patient with recurrent faints and evident
+long-QT syndrome
+From personal collection of Dr David Benditt; used with permission
+Figure 4: Initial evaluation and further management strategy of syncope based on European Society
+of Cardiology Task Force Guidelines. AECG, ambulatory ECG; CSM, carotid sinus massage; EP,
+electrophysiologic; ILR, implantable loop recorder; SMU, syncope management unit
+From personal collection of Dr David Benditt; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Neurally mediated reflex syncope Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Neurally mediated reflex syncope Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 17, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Contributors:
+// Authors:
+Bryant Lin, MD
+Clinical Assistant Professor of Medicine
+Division of Primary Care and Population Health, Stanford University School of Medicine, Stanford, CA
+DISCLOSURES: BL declares that he has no competing interests.
+Paul J. Wang, MD, FACC, FHRS
+Professor of Medicine
+Stanford Arrhythmia Service, Stanford University School of Medicine, Stanford, CA
+DISCLOSURES: PJW receives fellowship support, honoraria, and clinical trial support from Medtronic,
+which manufactures LINQ, an implantable loop recorder.
+// Acknowledgements:
+Dr Bryant Lin and Dr Paul J. Wang would like to gratefully acknowledge Dr David G. Benditt and Dr John T.
+Nguyen, previous contributors to this topic.
+DISCLOSURES: DGB has consultant and equity positions: Medtronic Inc., St Jude Medical Inc., Transoma
+Inc., Cardionet Inc. DGB is also an author of several references cited in this topic. JTN declares that he has
+no competing interests.
+// Peer Reviewers:
+Sanjiv Petkar, MBBS, MD, DM (Cardiology), MRCP
+Consultant Cardiologist
+Hull and East Riding of Yorkshire NHS Trust, Castle Hill Hospital, East Yorkshire, UK
+DISCLOSURES: SP has received sponsorship in the past from Medtronic, Inc. and St Jude Medical, Inc. for
+attending conferences. He has received speaker's fees from Medtronic, Inc. In addition, he was in receipt of
+a research grant from Medtronic, Inc. to the University of Manchester.
+Kenneth A. Ellenbogen, MD
+Kontos Professor of Cardiology
+Medical College of Virginia, Richmond, VA
+DISCLOSURES: KAE declares that he has no competing interests.
+Andrew Parfitt, MBBS, FFAEM
+Clinical Director
+Acute Medicine, Associate Medical Director, Consultant Emergency Medicine, Guy's and St Thomas' NHS
+Foundation Trust, Clinical Lead and Consultant, Accident Emergency Medicine, St Thomas' Hospital,
+London, UK
+DISCLOSURES: AP declares that he has no competing interests.

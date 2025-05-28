@@ -1,0 +1,2954 @@
+# Acute heart failure
+
+=== Page 1 ===
+Acute heart failure
+Straight to the point of care
+Last updated: Feb 27, 2025
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Risk factors  4
+Etiology  6
+Pathophysiology  7
+Classification  7
+Case history  8
+Diagnosis  10
+Recommendations  10
+History and exam  16
+Tests  19
+Differentials  24
+Criteria  24
+Management  27
+Recommendations  27
+Treatment algorithm overview  33
+Treatment algorithm  35
+Emerging  54
+Primary prevention  54
+Secondary prevention  55
+Patient discussions  55
+Follow up  56
+Monitoring  56
+Complications  56
+Prognosis  57
+Guidelines  58
+Diagnostic guidelines  58
+Treatment guidelines  59
+Online resources  60
+References  61
+Images  71
+Disclaimer  75
+=== Page 3 ===
+Acute heart failure Overview
+Summary
+Acute heart failure is a clinical syndrome of reduced cardiac output, tissue hypoperfusion, increased
+pulmonary pressure, and tissue congestion.
+Presents with dyspnea, decreased exercise tolerance, swelling of the legs, fatigue, and generalized
+weakness.
+Clinical diagnosis is supported by ancillary tests such as ECG, chest x-ray, B-type natriuretic peptide, and
+echocardiogram. In cases where echocardiographic images are suboptimal or when an unusual cause
+of heart failure is suspected, and for diagnosis of specific cardiomyopathies, other tests (e.g., cardiac
+catheterization with hemodynamic measurements, computed tomography, and cardiac magnetic resonance
+imaging) are used.
+Diuretics, oxygen, and vasodilators are initial treatments for symptom relief. Cardiogenic shock may require
+vasoactive agents, mechanical ventilation, or mechanical circulatory support.
+If acute myocardial infarction is present, early revascularization is essential.
+Underlying cause or precipitant should be identified and treated.
+Definition
+Heart failure is defined clinically as a syndrome in which patients have symptoms and signs resulting from
+an abnormality of cardiac structure and/or function causing impairment of ventricular filling or ejection of
+blood.[1] [2] Acute heart failure refers to rapid onset or worsening of symptoms and/or signs of heart failure,
+requiring urgent evaluation and treatment.[1]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Acute heart failure Theory
+THEORY
+Epidemiology
+Heart failure is the most common indication for hospitalization for a circulatory condition in the US, and the
+second most common cause of hospitalization overall among patients >65 years.[4]
+From 2017 to 2020, approximately 6.7 million adults ages ≥20 years had heart failure in the US.[5] The
+prevalence of heart failure increases with increasing age. In the US, among people ages 40 to 59 years, the
+prevalence of heart failure is about 2.3% in males and 1.2% in females, whereas among people ages ≥80
+years the prevalence of heart failure is about 10.9% in males and 7.1% in females; however, the population
+attributable risk of modifiable risk factors such as obesity, hypertension, diabetes and smoking is greater
+among young (ages <55 years) compared with older (ages ≥75 years) individuals.[6] [5] Women present
+with heart failure later in life and survival is generally more favorable; however, they present with more
+comorbidities and with lower patient-reported health status than men.[2] In the US, heart failure incidence is
+higher in black patients compared to white patients, and rates of heart failure hospitalization and mortality are
+also higher.[2]
+Heart failure is a global disease. The prevalence of heart disease is about 1.3% in China, 6.7% in Malaysia,
+1% in Japan, 4.5% in Singapore, 0.12% to 0.44% in India, 1% in South America, and 1% to 2% in
+Australia.[7] Global improvements in AHF survival between 1980 and 2017 have been linked to increased
+use of neurohormonal antagonist drugs (renin-angiotensin-aldosterone inhibitors).[8]
+Risk factors
+Strong
+older age
+Prevalence of heart failure is ≥10% in people ≥70 years of age.[1] [11]
+prior episode of heart failure
+In patients hospitalized for acute heart failure, around 75% have a history of prior heart failure.[11]
+coronary artery disease
+Coronary artery disease accounts for around 50% of all patients with acute heart failure.[11] [12]
+[13] [14] Chronic myocardial ischemia results in myocardial damage with progressive decline in left
+ventricular (LV) systolic function. Subendocardial ischemia also causes an increase in LV end diastolic
+pressure leading to pulmonary edema in the presence of normal LV systolic function. 
+Acute coronary ischemia can lead to acute heart failure either due to pump failure or papillary muscle
+destruction/rupture. In the case of pump failure, the LV function is depressed, but in cases of heart
+failure associated with papillary muscle rupture, the measured LV function may appear preserved.
+hypertension
+A history of hypertension is present in 72% of patients in the US and 60% of patients in Europe.[11]
+[13] [14]
+Hypertension predisposes to the development of heart failure by increasing the afterload on the
+ventricles, which induces left ventricular hypertrophy, which in turn leads to left ventricular (LV)
+dysfunction, an increased risk of myocardial infarction, and significant arrhythmias.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Acute heart failure Theory
+In patients with noncompliant ventricles, an abrupt or significant increase in blood pressure increases
+the LV end diastolic pressure, precipitating acute heart failure.
+valvular heart disease
+About 23% of patients in the US and 34% in Europe have valvular disease as an associated
+condition.[11] [14] Both significant stenotic and regurgitant lesions can lead to heart failure.
+Although rheumatic valvular disease is now rarely found in western countries, calcific valvular heart
+disease, in particular aortic stenosis, is commonly encountered.
+In patients with significant valvular disease, the heart failure will not improve until the underlying
+valvular disease has been corrected.
+pericardial disease
+A large pericardial effusion can present with symptoms or signs of acute heart failure.
+Pericardial constriction, such as tuberculosis pericarditis or the effects of radiation therapy, can also
+present with acute heart failure.
+myocarditis
+There are many causes of myocarditis, of which a viral etiology appears to be the most common.
+There is usually a prodrome of a nonspecific illness characterized by fatigue, mild dyspnea, and
+myalgias.
+cardiac arrhythmias
+Cardiac arrhythmias, including tachyarrhythmia and bradyarrhythmia, are risk factors for acute heart
+failure. Atrial fibrillation is present in approximately 35% of cases.[15] Concomitant atrial fibrillation and
+heart failure predicts increased all-cause mortality across all categories of heart failure.[16]
+atrial fibrillation
+Present in 31% of cases.[11]
+diabetes mellitus
+Related directly to ischemia and renal failure.
+nonadherence to medications
+Precipitating factor in patients with acute on chronic heart failure.
+Weak
+excessive salt intake
+Present in 22% of cases.[17]
+excessive catecholamine stimulation
+Can be caused by pheochromocytoma, subarachnoid hemorrhage, or methamphetamine misuse.[18]
+[19]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Acute heart failure Theory
+THEORY
+abnormal thyroid function
+Both hypothyroidism and thyrotoxicosis can be associated with heart failure.[20] [21]
+excessive alcohol intake
+Excessive alcohol intake is associated with heart failure.[22] [23]
+obesity
+Obesity is a risk factor for hypertension and coronary artery disease, and is also associated with
+increased risk of heart failure. However, there is evidence that patients with heart failure and obesity
+have better clinical outcomes compared to patients with normal weight and similar degrees of heart
+failure (the “obesity paradox”).[24]
+Studies show that higher body mass index is more strongly associated with the risk of heart failure with
+preserved ejection fraction (HFpEF) than with heart failure with reduced ejection fraction (HFrEF).[25]
+[26]
+Etiology
+Causes and precipitating factors in acute heart failure are:
+• Decompensation of pre-existing chronic heart failure
+• Acute coronary syndrome
+• Hypertensive crisis
+• Acute arrhythmia
+• Severe valvular regurgitation
+• Severe aortic or mitral valve stenosis
+• Acute severe myocarditis
+• Cardiac tamponade
+• Aortic dissection
+• Postpartum cardiomyopathy
+• Lack of adherence to medical treatment
+• Volume overload
+• Infections
+• Severe brain insult
+• After major surgery
+• Reduction of renal function
+• Drug abuse
+• Pheochromocytoma
+• High output syndromes
+• Septicemia
+• Thyrotoxic crisis
+• Anemia
+• Shunt syndromes.
+The most common concurrent conditions present in patients with acute heart failure are coronary artery
+disease, hypertension, diabetes mellitus, atrial fibrillation, and renal insufficiency.[1][9]
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Acute heart failure Theory
+Pathophysiology
+During an episode of acute heart failure, the majority of patients will have evidence of volume overload with
+pulmonary and/or venous congestion. Hemodynamic measurements in these cases usually show increased
+right- and left-sided ventricular filling pressures with depressed cardiac index and cardiac output. However, if
+there is associated infection, the cardiac output may be normal or, in some cases, increased.
+Activation of the sympathetic nervous system causes tachycardia, increased myocardial contractility,
+increased myocardial oxygen consumption, peripheral vasoconstriction, and activation of renin-angiotensin
+system with salt and water retention. There is also activation of vasoconstrictor neurohormones, which leads
+to sodium and fluid retention, increased myocardial wall stress, and decreased renal perfusion.[10]
+If the condition is not treated effectively, the myocardium becomes unable to maintain a cardiac output
+sufficient to meet the demands of the peripheral circulation. In order for patients with acute heart failure to
+respond quickly to treatment, the increased myocardial stress must be reversed; for example, correction
+of acute severe hypertension. This is particularly important in acute heart failure caused by ischemia, as a
+dysfunctional myocardium can return to normal when appropriately treated.
+Classification
+Clinical presentations
+Patients with acute heart failure may present with a spectrum of conditions ranging from gradually
+progressive dyspnea to acute pulmonary edema and cardiogenic shock. Broadly, they can be subclassified
+into groups according to the principal cause leading to acute heart failure (e.g., patients with acute coronary
+syndrome, accelerated hypertension, rapid arrhythmias or heart block, acute mechanical cause, valvular
+dysfunction, acute right heart failure due to massive pulmonary embolism, and acute on chronic heart
+failure).
+The European Society of Cardiology describes four major clinical presentations, with possible overlaps
+between them:[1]
+1. Acute decompensated heart failure
+2. Acute pulmonary edema
+3. Isolated right ventricular failure
+4. Cardiogenic shock.
+Clinical classification of acute heart failure[3]
+For simplification these patients can be classified into three main groups:
+1. Hypertensive acute heart failure (acute de novo heart failure or vascular failure)
+• Symptoms develop rapidly against a background of hypertension with increased sympathetic tone and
+neurohormonal activations.
+• Left ventricular ejection fraction (LVEF) is usually preserved and there are clinical and radiologic
+findings of pulmonary congestion, usually without signs of systemic congestion; for example,
+peripheral edema.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Acute heart failure Theory
+THEORY
+• Response to therapy is rapid.
+2. Normotensive acute heart failure (acutely decompensated chronic heart failure)
+• History of progressive worsening of chronic heart failure.
+• BP is usually normal and symptoms and signs develop gradually with both systemic and pulmonary
+congestion.
+• LVEF is usually reduced.
+3. Hypotensive acute heart failure
+• Presents with symptoms and signs of hypotension, organ hypoperfusion, and cardiogenic shock.
+Types of heart failure
+Traditionally heart failure is classified as:
+• Systolic - associated with LV dysfunction and characterized by cardiomegaly, third heart sound, and
+volume overload with pulmonary congestion. LVEF is decreased
+• Diastolic - typically associated with normal cardiac size, hypertension, pulmonary congestion, and a
+fourth heart sound. LVEF is preserved.
+Based on measurement of LVEF, heart failure is classified as:[1] [2]
+• Heart failure with reduced ejection fraction (HFrEF) - symptoms and signs and LVEF ≤40%
+• A subgroup of HFrEF can be further classified as heart failure with improved ejection fraction
+(HFimpEF) if a previous ejection fraction ≤40% has improved to >40% after follow-up
+measurement.[2]
+• Heart failure with mildly reduced ejection fraction (HFmrEF) - symptoms and signs and LVEF 41% to
+49%
+• Heart failure with preserved ejection fraction (HFpEF) - symptoms and signs and LVEF ≥50%.
+• Evidence of structural heart disease may be used to further support the diagnosis of HFpEF.[2]
+The criteria for diagnosis of HFmrEF and HFpEF require evidence of spontaneous (at rest) or provokable
+(e.g., during exercise, fluid challenge) increased LV filling pressures.[1] [2] This may be fulfilled by elevated
+natriuretic peptides, noninvasive measures (e.g., echocardiographic diastolic parameters), or by invasive
+hemodynamic measurement.[2]
+Case history
+Case history #1
+A 70-year-old woman complains of increasing exertional dyspnea for the last 2 days and now has
+dyspnea at rest. She has a history of hypertension for the last 5 years and a 35 pack-year smoking
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Acute heart failure Theory
+history, but no other established illnesses. Current medications are hydrochlorothiazide daily for the last
+3 years. She has been prescribed lisinopril but failed to fill the prescription. On examination her BP is
+190/90 mmHg, heart rate 104 bpm. There is an audible S4 and the jugular venous pressure is elevated
+2 cm above normal. Lung examination reveals fine bibasal crepitations. There is no ankle edema.
+Echocardiogram shows an ejection fraction of 60%.
+Case history #2
+A 73-year-old woman with a history of myocardial infarction presents to the emergency department. She
+is breathless and finding it difficult to talk in full sentences. On examination she is centrally cyanosed
+with cool extremities. Her pulse is 110 bpm and systolic BP only just recordable at 80 mmHg. Jugular
+venous pressure is elevated 3 cm above normal and the cardiac apex beat is displaced. Respiratory rate
+is increased and she has widespread crackles and wheezes on chest exam. Echocardiogram shows an
+ejection fraction of 35%.
+Other presentations
+Patients may present with predominant symptoms of the underlying condition such as chest pain with
+acute myocardial infarction, syncope with significant valvular stenosis, palpitations with arrhythmias, and
+viral prodrome with myocarditis.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Acute heart failure Diagnosis
+DIAGNOSIS
+Recommendations
+Key Recommendations
+Despite advances in technology, diagnosis is primarily clinically based, supported by ancillary tests such
+as ECG, chest x-ray, B-type natriuretic peptide (BNP), and echocardiogram.[1] [2] [32] The sensitivity
+of clinical assessment in identifying left ventricular systolic dysfunction is approximately 81% but the
+specificity is only 47%. The specificity of this diagnosis is improved to 69% by addition of ECG and to 92%
+by addition of chest x-ray.[33] Point-of-care lung ultrasound may be used as an alternative to chest x-ray
+in the emergency setting in conjunction with medical history and physical exam.[34][35]
+Other tests (e.g., cardiac catheterization with hemodynamic measurements, computed tomography
+[CT], and cardiac magnetic resonance [CMR] imaging) can be used when noninvasive tests and
+echocardiographic images are suboptimal or when an unusual cause of heart failure is suspected, and for
+diagnosis of specific cardiomyopathies.[1] [36]
+History and risk factors
+A careful history should be taken for causes of acute heart failure, such as myocardial ischemia,
+uncontrolled hypertension, significant valvular disease (both stenosis and regurgitation, or endocarditis),
+atrial fibrillation, other arrhythmias, infection, anemia, hyper- or hypothyroidism, pulmonary embolism,
+and precipitating factors causing exacerbation of chronic heart failure such as dietary indiscretion with
+excessive salt intake, nonadherence to medication regimen, use of medications with negative inotropic
+effect (e.g., verapamil, diltiazem) or medications that promote sodium retention, and excessive alcohol or
+drug intake.[2] A clinical scoring system is sometimes useful for the diagnosis of acute heart failure.[36]
+Symptoms
+Heart failure presents with dyspnea (including orthopnea or paroxysmal nocturnal dyspnea), cough,
+decreased exercise tolerance, leg edema, fatigue, and generalized weakness. Sometimes the patient
+may present with predominant symptoms of the underlying condition, such as chest pain, syncope,
+palpitations, or viral prodrome.
+Signs
+Common signs include central cyanosis, tachycardia, elevated jugular venous pressure, displaced apex
+beat, third heart sound (S3), crepitations or pleural effusion, hepatomegaly, ascites, edema, and cool
+peripheries. The presence of these signs depends upon the duration, acuity, and the underlying cause of
+heart failure.[37] Patients with end-stage heart failure may exhibit most of these clinical signs, whereas
+those in the early phase of the illness may have minimal signs.
+Patients with advanced heart failure can be classified clinically into four hemodynamic profiles.[38] These
+profiles, which are based on hemodynamic principles of presence or absence of elevated filling pressure
+(wet or dry) and perfusion that is adequate or critically limited (warm or cold), include:[1]
+• Warm and dry
+• Warm and wet
+• Cold and dry
+• Cold and wet.
+Patients with pulmonary edema present with severe respiratory distress with reduced oxygen saturation
+(usually <90% on room air) and crackles or wheezes on lung exam (“wet”) but may or may not be
+hemodynamically compromised (“cold” or “warm”). Patients with hemodynamic compromise, systolic
+BP less than 90 mmHg, or a drop of mean arterial pressure of more than 30 mmHg with a pulse rate
+over 60 bpm and/or low urine output (<0.5 ml/kg/hour), with or without evidence of organ congestion,
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Acute heart failure Diagnosis
+are considered to be in cardiogenic shock (“cold”) but may or may not present with concomitant acute
+pulmonary edema (“wet” or “dry”).
+Immediate investigations
+An ECG and chest x-ray should be performed immediately in all patients with suspected acute heart
+failure.[2] ECG findings are commonly related to the underlying pathologies and include presence of Q
+waves, ST-T changes, left ventricular hypertrophy (LVH), bundle branch block, and atrial fibrillation. ECG
+abnormality is found in almost all cases of heart failure. If the ECG is completely normal then alternate
+diagnosis should be considered.[39]
+ECG showing left ventricular hypertrophy with sinus tachycardia
+From the private collections of Syed W. Yusuf, MBBS, MRCPI, and Daniel Lenihan, MD; used with permission
+Chest x-ray may show cardiac enlargement (cardiothoracic ratio [CTR] >50%); however, there is poor
+correlation between the CTR and presence of heart failure, as the heart size may be normal in patients
+with diastolic dysfunction, acute valvular regurgitation as part of infective endocarditis, or acute myocardial
+infarction. An enlarged CTR may also be seen in the absence of heart failure (e.g., pericardial effusion
+and LVH).
+In most cases, evaluation of the lung fields will show signs of pulmonary congestion, initially in the upper
+zones, then in the horizontal fissures, followed by pulmonary edema and pleural effusion.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Acute heart failure Diagnosis
+DIAGNOSIS
+Chest x-ray of acute pulmonary edema showing increased alveolar markings,
+fluid in the horizontal fissure, and blunting of the costophrenic angles
+From the private collections of Syed W. Yusuf, MBBS, MRCPI, and Daniel Lenihan, MD; used with permission
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Acute heart failure Diagnosis
+Chest x-ray of acute pulmonary edema showing increased alveolar markings and bilateral pleural effusions
+From the private collections of Syed W. Yusuf, MBBS, MRCPI, and Daniel Lenihan, MD; used with permission
+The radiologic findings have to be taken in the context of the clinical picture, as pulmonary infiltrates
+and congestion, in some cases, may be due to noncardiac causes such as acute respiratory distress
+syndrome or alveolar hemorrhage.
+Chest x-rays rarely may show pericardial calcification, prosthetic valves, or valvular calcification. Such
+findings may be helpful in identifying the possible underlying etiology for heart failure.
+Point-of-care lung ultrasound may be used as an alternative to chest x-ray when the equipment is
+available and clinicians are proficient in its use, alongside medical history and physical exam.[34] [40]
+The following blood tests should be requested when patients present with suspected acute heart
+failure:[2]
+• Hemoglobin: may identify anemia as a contributing factor.
+• Thyroid function tests: both hypothyroidism and hyperthyroidism can cause heart failure.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Acute heart failure Diagnosis
+DIAGNOSIS
+• B-type natriuretic peptide (BNP): measurement of serum BNP level in patients with symptoms
+of heart failure is useful to support or exclude the diagnosis, and is recommended for patients
+hospitalized with heart failure to establish prognosis.[2] The addition of BNP or N-terminal pro-
+BNP (NT-proBNP) to clinical assessment significantly enhances the accuracy of diagnosis and
+effectiveness of acute management.[41] [42] BNP is also helpful in differentiating a cardiac from a
+pulmonary cause of dyspnea.[43] A BNP >500 picograms/mL in a patient with dyspnea points to
+heart failure as the likely cause, whereas a BNP <100 picograms/mL makes heart failure unlikely.
+An elevated BNP level is a predictor of in-hospital mortality in patients with acute decompensated
+heart failure.[44] However, an elevated BNP level should only be taken in the context of the clinical
+picture as it may be increased in a variety of other conditions, such as atrial fibrillation, pulmonary
+embolism, or sepsis.[45] In patients presenting with suspected acute heart failure, a finding of
+BNP <100 picograms/mL, NT-proBNP <300 picograms/mL, and mid-regional pro-atrial natriuretic
+peptide (MR-proANP) <120 picograms/mL makes the diagnosis of acute heart failure unlikely.[1]
+Diagnostic accuracy can be improved by combining NT-proBNP assessment with other clinical
+variables using a validated clinical decision support tool.  [CODE-HF tool]  [46]
+• Cardiac enzymes: >50% of patients with cardiogenic pulmonary edema (but without evidence for
+myocardial infarction) have elevated troponin T levels.[1] [47] Elevated troponin T levels in patients
+with acute heart failure may reflect subendocardial ischemia due to elevated left ventricular end
+diastolic pressure. In patients with acute cardiogenic pulmonary edema, a troponin T level ≥0.1
+micrograms/L (≥0.1 ng/mL) is a powerful independent predictor and is associated with poor long-
+term survival.[47] One systematic review and meta-analysis showed a strong association between
+high sensitive cardiac troponin and the development of incident heart failure.[48]
+• Other recommended initial baseline blood tests include serum electrolytes, blood urea nitrogen,
+serum creatinine, glucose, lipid profile, liver function tests (including albumin), and iron studies.[1]
+[2] [49]
+Echocardiogram is an integral part of the evaluation in a patient with acute heart failure and should be
+performed as soon as possible to presentation.[2] It is required to assess chamber size, ventricular
+function (systolic and diastolic), ventricular wall thickness, valvular function, and the pericardium.
+Systolic image of dilated left ventricle (arrow); note there is no change from diastolic image
+From the private collections of Syed W. Yusuf, MBBS, MRCPI, and Daniel Lenihan, MD; used with permission
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Acute heart failure Diagnosis
+Diastolic image of dilated left ventricle (arrow)
+From the private collections of Syed W. Yusuf, MBBS, MRCPI, and Daniel Lenihan, MD; used with permission
+Subsequent investigations
+Left heart cardiac catheterization (coronary angiogram) is needed in cases where significant coronary
+artery disease is thought to be a contributing factor.[2] Routine use of right heart catheterization and
+pulmonary artery catheter monitoring is not recommended. However, invasive hemodynamic evaluation or
+monitoring is helpful if:[2]
+• Systolic blood pressure (SBP) remains low or symptoms persist despite treatment
+• Fluid status, perfusion, or systemic or pulmonary vascular resistance is uncertain
+• Renal function worsens with therapy
+• Parenteral vasoactive agents are required.
+A cardiac CT coronary angiogram is a noninvasive technique to visualize the coronary anatomy in
+patients with heart failure with low to intermediate pre-test probability of coronary artery disease or those
+with equivocal noninvasive stress tests, in order to exclude the diagnosis of coronary artery disease.
+Endomyocardial biopsy is not recommended for routine evaluation of acute heart failure, but is indicated
+in patients with rapidly progressive clinical heart failure or worsening ventricular dysfunction that persists
+despite appropriate medical treatment, where clinical findings suggest acute myocarditis, or where a
+myocardial infiltrative process (e.g., light chain amyloidosis) or cardiac rejection after heart transplantation
+is suspected.[2]
+Cardiovascular magnetic resonance (CMR) imaging can be used when noninvasive tests and
+echocardiographic images are suboptimal or when an unusual cause of heart failure is suspected, and for
+diagnosis of specific cardiomyopathies.[1] [2] [36]
+Single-photon emission CT (SPECT) or positron emission tomography (PET) may be useful in assessing
+ischemia and myocardial viability. 3,3-diphosphono-1,2-propanodicarboxylic acid (DPD) scintigraphy may
+be useful for the detection of transthyretin cardiac amyloidosis.[1] [2]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Acute heart failure Diagnosis
+DIAGNOSIS
+Measuring the concentration of certain biomarkers can provide important information about disease
+severity and helps not only in the detection and diagnosis of heart failure but also in management and
+prognosis. In addition to natriuretic peptides and troponin, useful biomarkers include soluble suppressor
+of tumorigenicity 2, interleukin-6, cystatin-C, galectin-3, and procalcitonin.[50]
+History and exam
+Key diagnostic factors
+older age (common)
+Prevalence of heart failure is ≥10% in people ≥70 years of age.[1] [11]
+positive past medical history (common)
+In patients hospitalized for acute heart failure, around 75% have a history of prior heart failure.[11]
+Nonadherence to medications is a precipitating factor in patients with acute on chronic heart failure.
+Coronary artery disease accounts for around 50% of all patients with acute heart failure.[11] [12] [13]
+[14]
+A history of hypertension is present in 72% of patients in the US and 60% of patients in Europe.[11]
+[13] [14]
+About 23% of patients in the US and 34% in Europe have valvular disease as an associated
+condition.[11] [14] Both significant stenotic and regurgitant lesions can lead to heart failure.
+Atrial fibrillation is present in approximately 35% of cases.[15]
+Diabetes mellitus is directly related to ischemia and renal failure.
+Large pericardial effusions and pericardial constriction can present with symptoms or signs of acute
+heart failure.
+Myocarditis may also cause heart failure.
+dyspnea (common)
+Dyspnea (including orthopnea or paroxysmal nocturnal dyspnea) is the predominant symptom and is
+present in the majority of patients with acute heart failure.[9]
+pulmonary crepitations (common)
+Key finding on chest examination.[9]
+peripheral edema (common)
+Present in the majority of patients (around 65% of cases).[9] [11]
+cool peripheries (common)
+Due to reduced cardiac output.
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Acute heart failure Diagnosis
+chest pain (uncommon)
+If underlying cardiac ischemia.
+third heart sound (S3) (uncommon)
+Often difficult to hear, low intensity sound heard early in diastole.
+Other diagnostic factors
+fatigue and weakness or decreased exercise tolerance (common)
+Due to poor cardiac functioning.
+hypotension (common)
+Sign of left and right heart failure.
+tachycardia (common)
+Due to activation of the sympathetic nervous system or underlying arrhythmia.
+elevated jugular venous pressure (common)
+Sign of right heart failure.
+displaced apex beat (point of maximal impulse) (common)
+This, together with elevated jugular venous pressure, third heart sound, crepitations, and edema,
+suggests a diagnosis of acute heart failure.
+dullness to percussion and decreased air entry in lung bases (common)
+Suggestive of pleural effusion.
+wheezing (common)
+Suggests cardiac asthma.
+palpitations (uncommon)
+If underlying arrhythmia.
+cough (uncommon)
+Due to pulmonary congestion.
+syncope (uncommon)
+Suggestive of underlying cause, such as significant aortic stenosis or pulmonary embolism.
+murmur (uncommon)
+Both significant stenotic and regurgitant lesions can lead to heart failure.
+ascites (uncommon)
+Acute heart failure is a nonhepatic cause of increased portal hypertension, which in turn causes
+ascites.
+hepatomegaly (uncommon)
+This may occur due to right-sided heart failure and venous congestion.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Acute heart failure Diagnosis
+DIAGNOSIS
+central cyanosis (uncommon)
+Due to systemic arterial oxygen desaturation.
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Acute heart failure Diagnosis
+Tests
+1st test to order
+Test Result
+ECG
+ECG analysis in acute heart failure shows atrial fibrillation in
+approximately 35% of cases.[15]
+ECG abnormality is found in almost all cases of heart failure. If
+the ECG is completely normal then alternate diagnosis should be
+considered.[39]
+ECG showing left ventricular hypertrophy with sinus tachycardia
+From the private collections of Syed W. Yusuf, MBBS,
+MRCPI, and Daniel Lenihan, MD; used with permission
+arrhythmia, ischemic ST and
+T wave changes
+chest x-ray
+Pulmonary congestion on chest x-ray is present in up to 76% of
+patients with acute decompensated heart failure.[11]
+Chest x-ray of acute pulmonary edema showing
+increased alveolar markings, fluid in the horizontal
+fissure, and blunting of the costophrenic angles
+From the private collections of Syed W. Yusuf, MBBS,
+MRCPI, and Daniel Lenihan, MD; used with permission
+cardiomegaly, pulmonary
+congestion, pleural effusion,
+valvular or pericardial
+calcification
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Acute heart failure Diagnosis
+DIAGNOSIS
+Test Result
+Chest x-ray of acute pulmonary edema showing
+increased alveolar markings and bilateral pleural effusions
+From the private collections of Syed W. Yusuf, MBBS,
+MRCPI, and Daniel Lenihan, MD; used with permission
+Hb
+Suggests anemia as a precipitating cause. Check iron status before
+discharge.
+low
+thyroid function test
+Hypo- or hyperthyroidism can cause acute heart failure.
+abnormal
+B-type natriuretic peptide
+If >500 picograms/mL, dyspnea likely to be due to heart failure.
+If <100 picograms/mL, unlikely to be caused by heart failure.
+If 100 to 500 picograms/mL, further investigations are required.[42]
+In patients presenting with suspected acute heart failure, a finding of
+B-type natriuretic peptide (BNP) <100 picograms/mL, N-terminal pro-
+B-type natriuretic peptide (NT-proBNP) <300 picograms/mL, and mid-
+regional pro-atrial natriuretic peptide (MR-proANP) <120 picograms/
+mL makes the diagnosis of acute heart failure unlikely.[1]
+>500 picograms/mL
+troponin
+Elevated in acute cardiac ischemia.
+elevated
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Acute heart failure Diagnosis
+Test Result
+Also elevated in over 50% of cases of acute cardiogenic pulmonary
+edema without evidence of infarction.[47]
+echocardiography
+In clinical practice, many centers consider a left ventricular ejection
+fraction (LVEF) of >50% as normal.
+Guidelines from the American Society of Echocardiography state an
+LVEF of 52% to 72% in men and 54% to 74% in women is considered
+as normal. An LVEF of 41% to 51% in men and 41% to 53% in
+women is mildly abnormal. In both men and women, an LVEF of 30%
+to 40% is moderately abnormal and an LVEF of <30% is severely
+abnormal.[61]
+In approximately one third of patients with acute heart failure, LVEF is
+preserved at ≥45%.[14]
+abnormal systolic and
+diastolic function; valvular
+and pericardial disease, may
+reveal underlying cause
+electrolyte panel with BUN, serum creatinine, glucose
+Initial baseline blood tests should include serum electrolytes, BUN,
+serum creatinine, and glucose.
+baseline levels
+lipid profile
+For assessment of baseline cardiovascular risk.
+baseline levels
+liver function tests
+Abnormal liver function tests (including albumin) are associated with
+a poor prognosis.[1] [49]
+abnormal; baseline levels
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Acute heart failure Diagnosis
+DIAGNOSIS
+Other tests to consider
+Test Result
+lung ultrasound
+Point-of-care lung ultrasound may be used as an alternative to chest
+x-ray in the emergency setting when the equipment is available and
+clinicians are proficient in its use, alongside medical history and
+physical examination.[34] [40]
+pulmonary congestion, pleural
+effusion
+cardiac catheterization
+Left heart cardiac catheterization (coronary angiogram) is needed in
+cases where significant coronary artery disease is thought to be a
+contributing factor.[2]
+Right heart catheterization and pulmonary artery catheter monitoring
+is not routinely recommended, but may be helpful if: systolic blood
+pressure remains low or symptoms persist despite treatment; fluid
+status, perfusion, or systemic or pulmonary vascular resistance is
+uncertain; renal function worsens with therapy; parenteral vasoactive
+agents are required.[2]
+coronary artery stenosis,
+abnormal coronary artery
+flow and left ventricular
+function, abnormal right
+ventricular function, elevated
+left ventricular end diastolic
+pressure, pulmonary
+hypertension
+endomyocardial biopsy
+Indicated in patients with rapidly progressive clinical heart
+failure or worsening ventricular dysfunction that persists despite
+appropriate medical treatment, where clinical findings suggest acute
+myocarditis, or where a myocardial infiltrative process (e.g., light
+chain amyloidosis) or cardiac rejection after heart transplantation is
+suspected.[2]
+inflammatory infiltrate
+cardiac magnetic resonance (CMR)
+Can be useful for establishing the etiology of heart failure. Allows
+differentiation between ischemic and nonischemic origins of heart
+failure, and myocardial fibrosis/scars can be visualized. In addition,
+CMR allows the characterization of myocardial tissue and is useful for
+the diagnosis of myocarditis and helping to exclude other etiologies of
+heart failure (e.g., amyloidosis, sarcoidosis, Chagas disease, Fabry
+disease, noncompaction cardiomyopathy, and hemochromatosis).
+ischemic cardiomyopathy
+tends to cause late
+gadolinium enhancement
+in the subendocardium or
+transmurally and follows
+a vascular distribution; in
+nonischemic cardiomyopathy,
+the late gadolinium
+enhancement is often located
+in the midwall or epicardial
+regions and does not
+correspond to any particular
+coronary artery distribution;
+in myocarditis, the CMR
+findings include myocardial
+edema, wall motion
+abnormalities, and patchy
+myocardial late gadolinium
+enhancement involving
+the subepicardial regions;
+in cardiac amyloidosis,
+the myocardial hyper-
+enhancement on late
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Acute heart failure Diagnosis
+Test Result
+gadolinium enhancement
+typically appears as global
+subendocardial; CMR can
+detect myocardial iron
+deposits through T2-star
+(T2*) technique, in which
+the affected myocardium will
+appear dark (reduced T2*)
+nuclear medicine imaging
+Single-photon emission CT (SPECT) or positron emission
+tomography (PET) may be useful in assessing ischemia and
+myocardial viability. 3,3-diphosphono-1,2-propanodicarboxylic acid
+(DPD) scintigraphy may be useful for the detection of transthyretin
+cardiac amyloidosis.[1] [2]
+ischemia, mixed ischemia/
+scar or scar tissue; in
+patients with transthyretin
+cardiac amyloidosis, a DPD
+scintigraphy may show
+myocardial tracer uptake
+cardiac CT (coronary CT angiogram)
+Noninvasive means to visualize the coronary anatomy in patients with
+heart failure.
+coronary stenosis
+additional biomarkers
+Measuring the concentration of certain biomarkers can provide
+important information about disease severity and helps not only in
+the detection and diagnosis of heart failure but also in management
+and prognosis. In addition to natriuretic peptides and troponin,
+useful biomarkers include soluble suppressor of tumorigenicity 2,
+interleukin-6, cystatin-C, galectin-3, and procalcitonin.[50]
+presence and concentration
+of biomarkers varies; refer to
+local guidelines
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Acute heart failure Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Pneumonia • Fever, cough, productive
+sputum.
+• Focal signs of consolidation -
+increased vocal fremitus and
+bronchial breathing.
+• WBC: elevated.
+• Blood cultures: positive for
+organism.
+• Chest x-ray: consolidation.
+Pulmonary embolism • Hemoptysis and sharp,
+pleuritic chest pain.
+• Risk factors of
+thromboembolism (TE)
+include personal history
+of TE, family history,
+recent trauma, prolonged
+immobilization, smoker,
+or combined hormonal
+contraception use.
+• CT pulmonary angiography:
+clot in pulmonary artery.
+Asthma • Wheezing on physical exam. • Reduced peak flow.
+• Spirometry: obstructive
+pattern, reversibility with
+beta-agonist inhalers
+Interstitial lung disease • Progressively increasing
+dyspnea.
+• Oxygen desaturation with
+exercise.
+• Fine bibasal crepitations
+with no other signs of heart
+failure.
+• Chest x-ray: reticular infiltrate
+in the late stages of disease.
+• High-resolution CT scan:
+ground-glass appearance,
+reticular infiltrates,
+honeycombing, and
+architectural distortion.
+• Spirometry: restrictive
+pattern.
+Acute respiratory distress
+syndrome
+• Severe hypoxia, fine
+crepitations.
+• Chest x-ray: diffuse infiltrates
+• Pulmonary artery wedge
+pressure: <18 mmHg
+Criteria
+Clinical scoring system for diagnosis of acute heart failure[36]
+Possible total of 14:
+• Age >75 years - score 1
+• Orthopnea present - score 2
+• Lack of cough - score 1
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Acute heart failure Diagnosis
+• Current use of a loop diuretic (before presentation) - score 1
+• Rales - score 1
+• Lack of fever - score 2
+• Elevated N-terminal pro-brain natriuretic peptide (NT-proBNP)* - score 4
+• Interstitial edema on chest x-ray - score 2.
+Likelihood of heart failure:
+• Low: 0 to 5
+• Intermediate: 6 to 8
+• High: 9 to 14.
+* Elevated NT-proBNP defined as >450 picograms/mL if age <50 years and >900 picograms/mL if age >50
+years.
+Framingham criteria for congestive heart failure (CHF)[62]
+The Framingham criteria are the most widely accepted clinical criteria for diagnosing heart failure. For
+establishing a definite diagnosis of CHF, two major criteria or one major and two minor criteria must be
+present.
+Major criteria are:
+• Paroxysmal nocturnal dyspnea or orthopnea
+• Neck-vein distention
+• Rales
+• Cardiomegaly
+• Acute pulmonary edema
+• Third heart sound (S3) gallop
+• Increased venous pressure >16 cm of water
+• Circulation time 25 seconds or longer (no longer used clinically for the diagnosis of CHF, although in
+the criteria)
+• Hepatojugular reflux.
+Minor criteria are:
+• Ankle edema
+• Night cough
+• Dyspnea on exertion
+• Hepatomegaly
+• Pleural effusion
+• Vital capacity reduced one third from maximum
+• Tachycardia (≥120 bpm).
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Acute heart failure Diagnosis
+DIAGNOSIS
+Major or minor criteria are:
+• Weight loss of 4.5 kg or more in 5 days in response to treatment.
+New York Heart Association (NYHA) clinical classification of heart
+failure[2]
+• Class I: asymptomatic
+• Class II: mild symptoms with moderate exertion
+• Class III: symptoms with minimal activity
+• Class IV: symptoms at rest.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Acute heart failure Management
+Recommendations
+Key Recommendations
+Initial management options include a combination of oxygen, diuretics, vasodilators, inotropes, and
+vasopressors.[1] [2] Other possible therapies include extracorporeal ultrafiltration; ventilation (noninvasive
+and endotracheal intubation); and mechanical circulatory support (e.g., intra-aortic balloon pump,
+ventricular assist devices).[1]
+Evidence supporting the use of intravenous morphine to treat dyspnea is lacking and data suggest there
+might be adverse effects.[64] [65] Hence the current recommendation is that morphine should not be
+used routinely in patients with acute heart failure.[36] Morphine can be used for palliative care, and is
+helpful in individual patients because of its venodilator properties and because it decreases sympathetic
+drive; however, it should be used cautiously as it can cause respiratory depression, potentially increasing
+the chance of mechanical ventilation.
+All patients should be admitted to the hospital. If the patient responds adequately to initial treatment
+and meets strict selection criteria, telemetry monitoring may be acceptable (e.g., hospital-at-home
+program).[66] Those who are hypotensive or fail to respond to initial therapy require admission to
+the intensive care unit and may need invasive monitoring if tissue perfusion is compromised.[67] If
+cardiogenic shock is present, invasive evaluation is required.
+Patients with acute heart failure should undergo evaluation for potential precipitating factors, including
+myocardial ischemia, arrhythmias (commonly atrial fibrillation), underlying valvular disease, exacerbation
+of hypertension, anemia, thyroid disorders, and drug interactions. Other concomitant conditions, such as
+pneumonia and pulmonary embolism, may also be contributing factors.
+Venous thromboembolism prophylaxis is recommended in all patients. See  Venous thromboembolism
+(VTE) prophylaxis .
+Patients with acute heart failure with reduced ejection fraction who are iron deficient should receive
+intravenous iron supplementation to reduce the risk of future heart failure hospitalizations.[68] [69]
+Maintenance of oxygen saturation
+High-flow oxygen is recommended in patients with a capillary oxygen saturation <90% or PaO₂ <60
+mmHg (8.0 kPa) to correct hypoxemia.[1]
+Ventilation with noninvasive positive pressure ventilation or continuous positive airway pressure may
+be required if oxygen saturation cannot be maintained by oxygenation alone, and is associated with a
+decreased requirement for intubation and mechanical ventilation.[1]
+Mechanical ventilation is only used when other treatments, including noninvasive ventilation methods, fail.
+Hemodynamically stable
+Diuretics and vasodilators
+• Loop diuretics are the mainstay of treatment for patients who are hemodynamically stable and
+are effective in relieving symptoms.[1] [2] [73] Loop diuretics used for the treatment of acute heart
+failure and congestion include furosemide, bumetanide, and torsemide. The most commonly used
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Acute heart failure Management
+MANAGEMENT
+agent appears to be furosemide, but some patients may respond more favorably to another loop
+diuretic.
+• Intravenous diuretics (bolus or continuous infusion) are indicated on initial hospitalization in patients
+with pulmonary congestion and volume overload.[1] [2] All patients with symptoms and signs of
+congestion should receive diuretics, irrespective of the left ventricular ejection fraction. Patients
+already taking oral loop diuretics should be started on a higher dose intravenously (may require
+double their usual dose), with further titration as needed.[2] [66] Diuretic response should be
+evaluated shortly after start of diuretic therapy, initially with hourly urine output measurement;
+ongoing monitoring should include careful measurement of 24-hour fluid intake and output, vital
+signs, and standing body weight measured at the same time each day.[1] [2]
+• Nonloop diuretics may be added if there is an inadequate response to loop diuretics
+alone.[2] Evidence from randomized controlled trials supports the use of acetazolamide and
+hydrochlorothiazide as add-on diuretic therapy; other options include metolazone, or acute use of
+aldosterone antagonists such as spironolactone and eplerenone.[2] [74] [75]
+• Acetazolamide added to loop diuretic therapy in patients with acute decompensated heart
+failure results in a greater incidence of successful decongestion.[75]
+• Hydrochlorothiazide with intravenous furosemide results in greater diuresis and weight loss
+compared to furosemide alone, but with worsening renal function.[74]
+• Careful monitoring of renal function and electrolytes is essential when loop and nonloop diuretics
+are used in combination.[2] The minimum dose of diuretics should be used to relieve congestion,
+keep the patient asymptomatic, and maintain a dry weight (defined as when the patient is
+euvolemic).
+• In patients with reduced left ventricular ejection fraction, diuretics should be used only in
+combination with other medical therapies, such as an ACE inhibitor (or an angiotensin-II receptor
+antagonist or an angiotensin-II receptor antagonist/neprilysin inhibitor), a beta-blocker, and an
+aldosterone antagonist.[2]
+• In both acute heart failure and stable congestive heart failure, loop diuretics are the preferred agent
+for most patients. However, a thiazide diuretic may be considered for patients with hypertension
+and only mild fluid retention.[2] 
+• Vasodilators (nitroglycerin, nitroprusside) are often used in acute heart failure to relieve symptoms
+of pulmonary congestion in patients without systemic hypotension; however, they do not improve
+long-term outcomes (i.e., reduction of mortality or rehospitalization).[1] [2] 
+• Nitroglycerin is preferred in emergency settings.[34]
+• Nitroprusside is usually given in the intensive care setting where enhanced monitoring is
+available (e.g., invasive hemodynamic blood pressure monitoring), due to its potential for
+marked hypotension and risk of cyanide toxicity.[2] 
+In patients who do not respond to initial therapy, extracorporeal ultrafiltration is used to reduce volume
+overload.[76] [77]
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Acute heart failure Management
+Hemodynamically unstable
+Patients with hypotension (i.e., systolic blood pressure [BP] <90 mmHg) or shock should receive oxygen
+therapy if capillary oxygen saturation <90% or PaO₂ <60 mmHg (8.0 kPa), vasoactive drugs, and
+ventilation and mechanical circulatory support if needed.[1] 
+Cardiogenic shock is characterized by critical reduction in cardiac output and end-organ hypoperfusion in
+a patient with a systolic BP <90 mmHg.[2] 
+Short-term intravenous infusion of a vasoactive agent (vasopressor and/or inotrope) should be considered
+in patients with hypotension (systolic BP <90 mmHg) and/or signs or symptoms of hypoperfusion, despite
+adequate filling status.[1] [2] Vasoactive agents may cause tachycardia, and induce arrhythmias and
+myocardial ischemia.[1] [2] 
+Vasopressor therapy aims to reverse the mismatch between vessel tone and intravascular volume by
+inducing vasoconstriction. The preferred vasopressor is norepinephrine (noradrenaline).[1] [2] 
+Inotropes (e.g., dobutamine, milrinone) can increase cardiac output and improve hemodynamics in
+patients with cardiogenic shock.[2] Inotropes should be used with caution because there is evidence
+that they result in increased mortality.[1] [2] [13] Inotropes should be discontinued if there are
+sustained arrhythmias or symptomatic coronary ischemia. Continuous monitoring of cardiac rhythm is
+recommended during infusion of inotropes. There is a lack of robust evidence to suggest a clear benefit of
+one inotropic agent over another in cardiogenic shock.[2] [78] 
+Selection of appropriate vasoactive agents may vary according to clinician preference and local practice
+guidelines. Consult a specialist for guidance on suitable regimens.
+Temporary mechanical circulatory support (MCS) devices (e.g., extracorporeal membrane oxygenation
+or intra-aortic balloon pump) should be considered in patients with persistent cardiogenic shock despite
+inotropic therapy.[1] [2] [79]
+See Shock .
+Specific treatment of underlying cause
+Coronary artery disease
+• Intravenous nitroglycerin is first-line treatment.
+• The common adverse effect of nitroglycerin is headache and hypotension. The dose of nitrates
+should be reduced if systolic BP decreases below 90 to 100 mmHg, and discontinued permanently
+if BP drops further.
+• In cases of significant coronary artery disease causing acute heart failure, percutaneous
+revascularization or coronary artery bypass should be carried out. Aspirin, in combination with
+a P2Y12 inhibitor (e.g., clopidogrel, prasugrel, ticagrelor), is given to all patients with coronary
+ischemia and those undergoing revascularization.[80]
+• In the case of cardiogenic shock with acute myocardial infarction, revascularization is
+recommended. Thrombolysis in this setting is not effective.[81]
+• See Overview of acute coronary syndrome .
+Hypertensive emergency
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Acute heart failure Management
+MANAGEMENT
+• Use of intravenous nitroglycerin is recommended.
+• If additional medications are needed, nitroprusside is recommended in addition to other choices.
+Nitroprusside should be given in a setting where enhanced monitoring is available (e.g., invasive
+hemodynamic blood pressure monitoring).
+• See Hypertensive emergencies .
+Cardiac arrhythmias
+• Either rapid arrhythmias or severe bradycardia/conduction disturbance can precipitate acute heart
+failure.
+• Patients presenting acutely with atrial fibrillation or atrial flutter require anticoagulation, rate control,
+and rhythm control when indicated (e.g., urgent DC cardioversion for patients with hemodynamic
+instability).[82]
+• Severe bradycardia may require temporary pacing or drug interventions; patients with non-
+reversible causes may require an implantable pacemaker with or without a defibrillator.[83]
+• See Evaluation of tachycardia and Bradycardia .
+Valvular heart disease
+• In cases of severe aortic stenosis with heart failure, nitroprusside can be used with careful
+monitoring, provided the patient is not hypotensive.[1] [84]
+• The definitive treatment for aortic stenosis or mitral stenosis is valve replacement, but in resistant
+heart failure a percutaneous valvotomy may be used as temporary measure until definitive valve
+replacement is carried out. In mitral stenosis, percutaneous valvuloplasty may be done if no
+thrombus is present on transesophageal echocardiogram.
+• Similarly in heart failure associated with mitral regurgitation or aortic regurgitation, a vasodilating
+drug such as nitroprusside may be used.[2] A decrease in the peripheral arterial resistance
+results in an increase in the cardiac output and a decrease in regurgitant volume, which, in turn,
+is associated with a reduction in left ventricular end-diastolic volume and an augmentation of the
+ejection fraction.
+• See Aortic stenosis , Aortic regurgitation , Mitral stenosis , and Mitral regurgitation .
+Acute right heart failure
+• Therapy is centered around treatment of the underlying pathology; e.g., pulmonary embolism
+(anticoagulation, thrombolytics, catheterization, or surgically directed thrombectomy), right
+ventricular infarction (percutaneous coronary intervention or thrombolytics), and chronic
+thromboembolic pulmonary hypertension (thromboendarterectomy).[85]
+• See Pulmonary embolism .
+Acute myocarditis
+• Myocarditis caused by autoimmune disease (clinical or endomyocardial biopsy evidence of
+autoimmune disease) including giant cell myocarditis is treated with single or combination
+immunosuppressant therapy which may include corticosteroids, azathioprine, and cyclosporine.[1]
+[86]
+• Treatment of other forms of myocarditis is limited to supportive care, alongside standard heart
+failure therapy for at least 6 months.[1]
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Acute heart failure Management
+• See Myocarditis .
+Resistance to maximal medical therapy
+In cases of advanced heart failure resistant and refractory to maximal medical therapy, a durable
+mechanical circulatory support (MCS) device (e.g., a left ventricular assist device [LVAD]) is
+recommended for select patients (e.g., patients dependent on continuous intravenous inotropes).[2] [87]
+There are several accepted indications for implantation of a durable LVAD, including bridge to
+transplantation and destination therapy (permanent pump implantation in patients not eligible for cardiac
+transplantation).[1] [88] Some of the absolute contraindications for providing durable mechanical
+support include irreversible hepatic, renal, and neurologic disease; medical nonadherence; and severe
+psychosocial limitations.[89]
+In some cases of nonischemic cardiomyopathy, sustained reversal of severe heart failure is seen with
+implantation of an LVAD.[90] The use of LVADs has evolved significantly over the past 25 years and
+various types of LVAD now exist.
+Use of temporary devices can help stabilize patients and allow time for decisions about the
+appropriateness of transitions to definitive management (bridge to decision), such as durable MCS or
+cardiac transplantation.[2] Extracorporeal devices, the most common of which are the extracorporeal
+membrane oxygenators, require full heparinization and are typically used for days or weeks as a bridge
+for patients who are expected to recover within days. Percutaneous short-term devices (e.g., Tandem
+Heart) are inserted through the femoral artery and advanced into the left ventricle. Longer-term assist
+devices are divided into first-generation (e.g., Heart Mate I), second-generation (e.g., Heart Mate II), and
+third-generation (e.g., HVAD and Dura Heart) devices. 
+Ongoing therapy
+Once the patient is stabilized, definitive medical therapy for heart failure should be commenced.
+Recommended therapies include:[1] [2]
+• Renin-angiotensin system inhibitors (i.e., angiotensin-II receptor antagonist/neprilysin inhibitor, ACE
+inhibitor, or an angiotensin-II receptor antagonist)
+• Beta-blockers
+• Aldosterone antagonists
+• Sodium-glucose cotransporter 2 (SGLT2) inhibitors.
+For patients with heart failure with reduced ejection fraction (HFrEF), a combination of drugs from all four
+of these medication classes should be commenced, increased rapidly to maximum recommended and
+tolerated doses, and continued long term.[2] [68] [91] Patients who have persistent signs of fluid overload
+will need ongoing diuretics.
+Usually an angiotensin-II receptor antagonist/neprilysin inhibitor (e.g., sacubitril/valsartan) or an ACE
+inhibitor (or an angiotensin-II receptor antagonist if ACE inhibitors are not tolerated and use of an
+angiotensin-II receptor antagonist/neprilysin inhibitor is not feasible) is started first, followed by the
+addition of beta-blockers. An angiotensin-II receptor antagonist/neprilysin inhibitor is recommended
+both as a first-line treatment for patients newly diagnosed with acute heart failure, and to replace ACE
+inhibitor (or angiotensin-II receptor antagonist) therapy in patients with chronic heart failure with reduced
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Acute heart failure Management
+MANAGEMENT
+ejection fraction that remains symptomatic despite existing therapy.[2] The dose of these agents should
+be increased to the maximum tolerated dose depending upon BP and heart rate. Typically, beta-blockers
+are started only after patients have stabilized, but should continue long term to reduce the risk of major
+cardiovascular events even if symptoms do not improve.[2]
+Patients with ongoing symptoms despite this therapy should be treated as having chronic heart
+failure. In patients with reduced left ventricular ejection fraction (LVEF), an aldosterone antagonist
+(e.g., spironolactone, eplerenone) should be prescribed.[2] Aldosterone antagonists require careful
+monitoring of potassium, renal function, and diuretic dosing to minimize risk of hyperkalemia and
+renal insufficiency.[2] There is also evidence to support the long-term use of a SGLT2 inhibitor (e.g.,
+dapagliflozin, empagliflozin, sotagliflozin) in patients with reduced LVEF regardless of whether they have
+type 2 diabetes mellitus.[1] [2] [66][92][93] Patients with diabetes taking SGLT2 inhibitors are at increased
+risk of developing diabetic ketoacidosis (including euglycemic ketoacidosis).[30]
+For black patients with low LVEF, a combination of hydralazine and isosorbide dinitrate can be particularly
+beneficial, and can be considered for other patients unable to take first-line agents.[2]
+Patients with heart failure with mildly reduced ejection fraction (HFmrEF, LVEF 41% to 49%) should
+have repeat evaluation of LVEF to determine the trajectory of their disease process.[2] For patients with
+HFmrEF and heart failure with preserved ejection fraction (HFpEF, LVEF ≥50%), good control of BP
+and other comorbidities (e.g., arrhythmias and underlying ischemia) is essential.[94] There is increasing
+evidence that therapies usually recommended for patients with reduced ejection fraction also benefit
+patients with HFmrF and HFpEF (LVEF >40%); in particular, SGLT2 inhibitors reduce future heart failure
+admissions regardless of ejection fraction and should be started in patients with heart failure before
+discharge when possible.[1] [2] [66][68] [92] [94] [95] [96][97] If needed, diuretics may be prescribed to
+reduce congestion and improve symptoms.[2]
+Treatment with ivabradine in stable patients with chronic heart failure (i.e., LVEF <35%) and a resting
+heart rate of >70 bpm - on a background of guideline-based heart failure therapy - is associated with
+reducing the risk of hospitalization for worsening heart failure.[2] [98] In one randomized, double-blind,
+placebo-controlled trial, addition of ivabradine to standard background therapy did not improve the
+outcome in patients with stable coronary artery disease without clinical heart failure (no evidence of left
+ventricular systolic dysfunction, in the overall study population mean ejection fraction was 56.4%). In the
+subgroup analysis of the study, ivabradine was associated with an increase in the incidence of the primary
+end point (death from cardiovascular causes or nonfatal myocardial infarction) among patients who had
+angina of Canadian Cardiovascular Society class II or higher but not among patients without angina or
+those who had angina of class I. Ivabradine was associated with an increased incidence of bradycardia,
+QT prolongation, and atrial fibrillation.[99]
+Digoxin significantly reduces the risk of composite end point of mortality or hospitalization in ambulatory
+chronic heart failure patients with NYHA class 3 or 4 symptoms, LVEF <25%, or cardiothoracic ratio of
+>55%, and should be considered in these patients.[100] In patients with heart failure who are in sinus
+rhythm, use of digoxin has no effect on mortality but is associated with a lower rate of hospitalization and
+clinical deterioration.[101]
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Acute heart failure Management
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+hemodynamically stable
+1st oxygen therapy
+plus loop diuretic
+plus supportive care
+consider vasodilator
+consider nonloop diuretic
+consider extracorporeal ultrafiltration
+consider mechanical circulatory support (MCS)
+consider ventilation
+due to cardiac ischemia plus antiplatelet agent ± revascularization
+due to cardiac arrhythmia consider consideration for anticoagulation ± rate/
+rhythm control, or pacing
+due to valvular disease consider consideration for surgery ± vasodilator
+due to acute right heart
+failure
+plus treatment of underlying cause
+due to acute myocarditis plus supportive care or immunosuppressant
+therapy
+hypotensive (systolic BP <90 mmHg)
+1st oxygen therapy
+plus vasoactive drugs
+plus supportive care
+consider ventilation
+2nd temporary mechanical circulatory support
+(MCS)
+due to cardiac ischemia plus aspirin ± revascularization
+due to valve stenosis consider percutaneous valvotomy
+hypertensive crisis
+1st oxygen therapy
+plus intravenous nitroglycerin
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Acute heart failure Management
+MANAGEMENT
+Acute ( summary )
+consider nitroprusside
+plus supportive care
+consider ventilation
+Ongoing ( summary )
+acute episode stabilized: LVEF <50%
+1st renin-angiotensin system inhibitor
+plus beta-blocker
+plus aldosterone antagonist
+plus sodium-glucose cotransporter 2 (SGLT2)
+inhibitor
+consider vasodilator
+consider loop diuretic ± nonloop diuretic
+consider digoxin
+consider ivabradine
+plus supportive care
+acute episode stabilized: LVEF ≥50%
+1st control of blood pressure and optimal
+management of other comorbidities
+plus sodium-glucose cotransporter 2 (SGLT2)
+inhibitor
+consider loop diuretic ± nonloop diuretic
+consider durable mechanical circulatory support
+(MCS)
+plus supportive care
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Acute heart failure Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+hemodynamically stable
+1st oxygen therapy
+» High-flow oxygen is recommended in patients
+with a capillary oxygen saturation <90% or PaO₂
+<60 mmHg (8.0 kPa) to correct hypoxemia.[1]
+plus loop diuretic
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» furosemide: 40-160 mg/dose intravenously
+initially, increase by 20-40 mg/dose every
+6-12 hours according to response, maximum
+600 mg/day
+OR
+» bumetanide: 0.5 to 2 mg intravenously
+once or twice daily initially, increase dose
+according to response, maximum 10 mg/day
+» Mainstay of treatment and effective in relieving
+symptoms.[1] [2] [73] Intravenous agents (bolus
+or continuous infusion) are indicated on initial
+hospitalization in patients with evidence of
+pulmonary congestion and volume overload.[1]
+[2]
+» Patients already taking oral loop diuretics
+should be started on a higher dose intravenously
+(may require double their usual dose), with
+further titration as needed.[2] [66] Diuretic
+response should be evaluated shortly after start
+of diuretic therapy, initially with hourly urine
+output measurement; ongoing monitoring should
+include careful measurement of 24-hour fluid
+intake and output, vital signs, and standing body
+weight measured at the same time each day.[1]
+[2]
+» The most commonly used agent appears to
+be furosemide, but some patients may respond
+more favorably to another loop diuretic (e.g.,
+bumetanide). Once stabilized, patients should
+be switched to an appropriate dose of an oral
+diuretic at the minimum dose required to relieve
+congestion, keep the patient asymptomatic,
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Acute heart failure Management
+MANAGEMENT
+Acute
+and maintain a dry weight (when the patient is
+euvolemic).
+» Diuretics should be used only in combination
+with other medical therapies.[2]
+plus supportive care
+Treatment recommended for ALL patients in
+selected patient group
+» Continued supportive care includes
+maintenance of adequate oxygenation, patent
+airways, a low salt diet, and restriction of
+daily fluid intake. Venous thromboembolism
+prophylaxis is recommended in all patients.
+Patients with acute heart failure with reduced
+ejection fraction who are iron deficient should
+receive intravenous iron supplementation.[68]
+[69]
+consider vasodilator
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» nitroglycerin: 5 micrograms/minute
+intravenously initially, increase by 5-20
+micrograms/minute increments every 3-5
+minutes according to response, maximum
+100 micrograms/minute
+Secondary options
+» nitroprusside: 0.3 micrograms/kg/minute
+initially, titrate according to response,
+maximum 10 micrograms/kg/minute for 10
+minutes
+» Vasodilators (e.g., nitroglycerin, nitroprusside)
+are often used in acute heart failure to relieve
+symptoms of pulmonary congestion in patients
+without systemic hypotension; however, they do
+not improve long-term outcomes (i.e., reduction
+of mortality or rehospitalization).[1] [2] 
+» Nitroglycerin is preferred in emergency
+settings.[34] Nitroprusside is usually given in
+the intensive care setting where enhanced
+monitoring is available (e.g., invasive
+hemodynamic blood pressure monitoring), due
+to its potential for marked hypotension and risk
+of cyanide toxicity.[2] Dose of nitroprusside
+exceeding 400 micrograms/minute generally
+does not produce added benefit and may
+increase the risk of thiocyanate toxicity.[102]
+consider nonloop diuretic
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Acute heart failure Management
+Acute
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» acetazolamide: 250-375 mg orally/
+intravenously once daily initially, adjust dose
+according to response
+OR
+» hydrochlorothiazide: 25-100 mg orally once
+daily
+OR
+» spironolactone: 25-100 mg orally once daily
+OR
+» eplerenone: 25-50 mg orally once daily
+OR
+» metolazone: 2.5 to 10 mg orally once daily
+» Nonloop diuretics may be added if there
+is an inadequate response to loop diuretics
+alone.[2] Options include acetazolamide,
+hydrochlorothiazide, metolazone, or acute use of
+aldosterone antagonists such as spironolactone
+and eplerenone.[74] [75]
+» Careful monitoring of renal function and
+electrolytes is essential when loop and nonloop
+diuretics are used in combination.
+» The minimum dose of diuretics should be
+used to relieve congestion, keep the patient
+asymptomatic, and maintain a dry weight (when
+the patient is euvolemic).
+consider extracorporeal ultrafiltration
+Treatment recommended for SOME patients in
+selected patient group
+» Ultrafiltration may be required in patients with
+volume overload who do not respond to medical
+therapy with combination diuretics.[76] [77]
+consider mechanical circulatory support (MCS)
+Treatment recommended for SOME patients in
+selected patient group
+» In cases of advanced heart failure resistant
+and refractory to maximal medical therapy, a
+durable MCS device (e.g., a left ventricular
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Acute heart failure Management
+MANAGEMENT
+Acute
+assist device [(LVAD]) is recommended for select
+patients.[2] [87]
+» Use of temporary MCS devices can help
+stabilize patients and allow time for decisions
+about the appropriateness of transitions to
+definitive management, such as durable MCS or
+cardiac transplantation.[2]
+consider ventilation
+Treatment recommended for SOME patients in
+selected patient group
+» Required if oxygen saturation cannot be
+maintained with oxygenation alone.[1]
+» Noninvasive positive pressure ventilation
+(NIPPV) or continuous positive airway pressure
+should be tried first. Mechanical ventilation is
+only used when other treatments, including
+NIPPV, fail.
+due to cardiac ischemia plus antiplatelet agent ± revascularization
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» aspirin: 162-325 mg orally as a loading
+dose, followed by 75-100 mg once daily
+thereafter
+OR
+» aspirin: 162-325 mg orally as a loading
+dose, followed by 75-100 mg once daily
+thereafter
+--AND--
+» clopidogrel: 300-600 mg orally as a loading
+dose, followed by 75 mg once daily
+-or-
+» prasugrel: 60 mg orally as a loading dose,
+followed by 10 mg once daily
+Consider a lower maintenance dose of 5 mg
+once daily in patients who weigh <60 kg.
+Generally not recommended in patients ≥75
+years of age.
+-or-
+» ticagrelor: 180 mg orally as a loading dose,
+followed by 90 mg twice daily
+» Aspirin is given to all patients (in the absence
+of contraindication) with coronary ischemia
+and those undergoing revascularization in
+combination with a P2Y12 inhibitor (e.g.,
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Acute heart failure Management
+Acute
+clopidogrel, prasugrel, ticagrelor).[80] A P2Y12
+inhibitor is recommended, in addition to aspirin,
+for 12 months unless there are contraindications
+such as excessive risk of bleeding. Thereafter
+aspirin is continued indefinitely.
+» Revascularization may be achieved with
+percutaneous revascularization or, in selected
+cases, with coronary artery bypass grafting.
+» See  Overview of acute coronary syndrome .
+due to cardiac arrhythmia consider consideration for anticoagulation ± rate/
+rhythm control, or pacing
+Treatment recommended for SOME patients in
+selected patient group
+» Patients presenting acutely with atrial
+fibrillation or atrial flutter require anticoagulation,
+rate control, and rhythm control when indicated
+(e.g., urgent DC cardioversion for patients with
+hemodynamic instability).[82]
+» Severe bradycardia may require temporary
+pacing or drug interventions; patients with non-
+reversible causes may require an implantable
+pacemaker with or without a defibrillator.[83]
+» See Evaluation of tachycardia and
+Bradycardia .
+due to valvular disease consider consideration for surgery ± vasodilator
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» nitroprusside: 0.3 micrograms/kg/minute
+initially, titrate according to response,
+maximum 10 micrograms/kg/minute for 10
+minutes
+» The definitive treatment for aortic stenosis
+or mitral stenosis is valve replacement, but in
+resistant heart failure a percutaneous valvotomy
+may be used as a temporary measure until
+definitive valve replacement is carried out. In
+mitral stenosis, percutaneous valvuloplasty
+may be done if no thrombus is present on
+transesophageal echocardiogram.
+» With careful monitoring, vasodilator therapy
+(e.g., nitroprusside) may benefit patients with
+aortic stenosis, aortic regurgitation, mitral
+stenosis, or mitral regurgitation who are not
+hypotensive, provided they are not already on a
+vasodilator for another indication.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Acute heart failure Management
+MANAGEMENT
+Acute
+» Nitroprusside is usually given in the intensive
+care setting where enhanced monitoring is
+available (e.g., invasive hemodynamic blood
+pressure monitoring), due to its potential
+for marked hypotension and risk of cyanide
+toxicity.[2] Dose of nitroprusside exceeding 400
+micrograms/minute generally does not produce
+added benefit and may increase the risk of
+thiocyanate toxicity.[102]
+» See  Aortic stenosis , Aortic regurgitation ,
+Mitral stenosis , and Mitral regurgitation .
+due to acute right heart
+failure
+plus treatment of underlying cause
+Treatment recommended for ALL patients in
+selected patient group
+» Therapy is centered around treatment of the
+underlying pathology; e.g., pulmonary embolism
+(anticoagulation, thrombolytics, catheterization,
+or surgically directed thrombectomy), right
+ventricular infarction (percutaneous coronary
+intervention or thrombolytics), and chronic
+thromboembolic pulmonary hypertension
+(thromboendarterectomy).[85]
+» See  Pulmonary embolism .
+due to acute myocarditis plus supportive care or immunosuppressant
+therapy
+Treatment recommended for ALL patients in
+selected patient group
+» Myocarditis caused by autoimmune disease
+(clinical or endomyocardial biopsy evidence
+of autoimmune disease) including giant cell
+myocarditis is treated with single or combination
+immunosuppressant therapy which may
+include corticosteroids, azathioprine, and
+cyclosporine.[1] [86]
+» Treatment of other forms of myocarditis is
+limited to supportive care, alongside standard
+heart failure therapy for at least 6 months.[1]
+» See  Myocarditis .
+hypotensive (systolic BP <90 mmHg)
+1st oxygen therapy
+» High-flow oxygen is recommended in patients
+with a capillary oxygen saturation <90% or PaO₂
+<60 mmHg (8.0 kPa) to correct hypoxemia.[1]
+plus vasoactive drugs
+Treatment recommended for ALL patients in
+selected patient group
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Acute heart failure Management
+Acute
+» Patients with hypotension (systolic BP <90
+mmHg) or shock should be commenced
+on vasoactive drugs (a vasopressor and/or
+inotrope).[1]  
+» Cardiogenic shock is characterized by critical
+reduction in cardiac output and end-organ
+hypoperfusion in a patient with a systolic BP <90
+mmHg.[2] 
+» Vasoactive agents may cause tachycardia, and
+induce arrhythmias and myocardial ischemia.[1]
+[2] 
+» The preferred vasopressor agent is
+norepinephrine (noradrenaline).[1] [2] 
+» Inotropes (e.g., dobutamine, milrinone) should
+be used with caution because there is evidence
+that they result in increased mortality.[1] [2]
+[13] Inotropes should be discontinued if there
+are sustained arrhythmias or symptomatic
+coronary ischemia. Continuous monitoring of
+cardiac rhythm is recommended during infusion
+of inotropes. There is a lack of robust evidence
+to suggest a clear benefit of one inotropic agent
+over another in cardiogenic shock.[2] [78] 
+» Selection of appropriate vasoactive agents
+may vary according to clinician preference and
+local practice guidelines.
+» Consult a specialist for guidance on suitable
+regimens.
+plus supportive care
+Treatment recommended for ALL patients in
+selected patient group
+» Continued supportive care includes
+maintenance of adequate oxygenation, patent
+airways, a low salt diet, and restriction of
+daily fluid intake. Venous thromboembolism
+prophylaxis is recommended in all patients.
+Patients with acute heart failure with reduced
+ejection fraction who are iron deficient should
+receive intravenous iron supplementation.[68]
+[69]
+consider ventilation
+Treatment recommended for SOME patients in
+selected patient group
+» Required if oxygen saturation cannot be
+maintained with oxygenation alone.[1]
+» Noninvasive positive pressure ventilation
+(NIPPV) or continuous positive airway pressure
+should be tried first. Mechanical ventilation is
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Acute heart failure Management
+MANAGEMENT
+Acute
+only used when other treatments, including
+NIPPV, fail.
+2nd temporary mechanical circulatory support
+(MCS)
+» MCS devices (e.g., extracorporeal membrane
+oxygenation or intra-aortic balloon pump)
+should be considered in patients with persistent
+cardiogenic shock despite inotropic therapy.[1]
+[2] 
+due to cardiac ischemia plus aspirin ± revascularization
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» aspirin: 162-325 mg orally as a single dose,
+followed by 75-100 mg once daily thereafter
+» Aspirin is given to all patients (in the absence
+of contraindication) with coronary ischemia and
+those undergoing revascularization.
+» Revascularization may be achieved with
+percutaneous revascularization or, as second-
+line therapy, coronary artery bypass.
+» See  Overview of acute coronary syndrome .
+due to valve stenosis consider percutaneous valvotomy
+Treatment recommended for SOME patients in
+selected patient group
+» Used as a bridge to aortic valve replacement.
+May be considered for mitral stenosis if no
+thrombus is present on transesophageal
+echocardiogram.
+» See Aortic stenosis and  Mitral stenosis .
+hypertensive crisis
+1st oxygen therapy
+» High-flow oxygen is recommended in patients
+with a capillary oxygen saturation <90% or PaO₂
+<60 mmHg (8.0 kPa) to correct hypoxemia.[1]
+» See Hypertensive emergencies .
+plus intravenous nitroglycerin
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» nitroglycerin: 5 micrograms/minute
+intravenously initially, increase by 5-20
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Acute heart failure Management
+Acute
+micrograms/minute increments every 3-5
+minutes according to response, maximum
+100 micrograms/minute
+» Use of intravenous nitroglycerin is
+recommended.
+consider nitroprusside
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» nitroprusside: 0.3 micrograms/kg/minute
+initially, titrate according to response,
+maximum 10 micrograms/kg/minute for 10
+minutes
+» If additional medications are needed,
+nitroprusside is recommended in addition to
+other choices. Nitroprusside should be given in a
+setting where enhanced monitoring is available
+(e.g., invasive hemodynamic blood pressure
+monitoring). Dose of nitroprusside exceeding
+400 micrograms/minute generally does not
+produce added benefit and may increase the risk
+of thiocyanate toxicity.[102]
+plus supportive care
+Treatment recommended for ALL patients in
+selected patient group
+» Continued supportive care includes
+maintenance of adequate oxygenation, patent
+airways, a low salt diet, and restriction of daily
+fluid intake.
+» Precipitating factors such as pain and agitation
+should also be controlled.
+» Venous thromboembolism prophylaxis is
+recommended in all patients.
+» Patients with acute heart failure with reduced
+ejection fraction who are iron deficient should
+receive intravenous iron supplementation.[68]
+[69]
+consider ventilation
+Treatment recommended for SOME patients in
+selected patient group
+» Required if oxygen saturation cannot be
+maintained with oxygenation alone.[1]
+» Noninvasive positive pressure ventilation
+(NIPPV) or continuous positive airway pressure
+should be tried first. Mechanical ventilation is
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Acute heart failure Management
+MANAGEMENT
+Acute
+only used when other treatments, including
+NIPPV, fail.
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Acute heart failure Management
+Ongoing
+acute episode stabilized: LVEF <50%
+1st renin-angiotensin system inhibitor
+Primary options
+» sacubitril/valsartan: treatment-naive or
+treatment-experienced on a low dose: 24
+mg (sacubitril)/26 mg (valsartan) orally
+twice daily initially, increase gradually
+according to response, maximum 97 mg
+(sacubitril)/103 mg (valsartan) twice daily;
+treatment-experienced on a usual dose: 49
+mg (sacubitril)/51 mg (valsartan) orally twice
+daily initially, increase gradually according to
+response, maximum 97 mg (sacubitril)/103
+mg (valsartan) twice daily
+Patients not taking an ACE inhibitor or
+angiotensin-II receptor antagonist (treatment-
+naive) or those on a low dose of an ACE
+inhibitor or angiotensin-II receptor antagonist
+should be started on a lower dose of
+sacubitril/valsartan. Patients who were being
+treated with an ACE inhibitor or angiotensin-
+II receptor antagonist (treatment-experienced)
+at a usual dose should be started on a higher
+dose of sacubitril/valsartan.
+Allow 36 hours between stopping an ACE
+inhibitor and starting this drug.
+OR
+» captopril: 6.25 to 50 mg orally three times
+daily
+OR
+» lisinopril: 2.5 to 40 mg orally once daily
+OR
+» ramipril: 1.25 to 10 mg orally once daily
+OR
+» enalapril: 2.5 to 20 mg orally twice daily
+Secondary options
+» candesartan cilexetil: 4-32 mg orally once
+daily
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Acute heart failure Management
+MANAGEMENT
+Ongoing
+OR
+» losartan: 25-150 mg orally once daily
+OR
+» valsartan: 40-160 mg orally twice daily
+» For patients with reduced left ventricular
+ejection fraction (LVEF), a combination of drugs
+from all four of the following medication classes
+should be commenced, increased rapidly to
+maximum recommended and tolerated doses,
+and continued long-term: renin-angiotensin
+system inhibitors (i.e., angiotensin-II receptor
+antagonist/neprilysin inhibitor, ACE inhibitor,
+or an angiotensin-II receptor antagonist); a
+beta-blocker; an aldosterone antagonist; and
+a sodium-glucose cotransporter 2 [SGLT2])
+inhibitor.[2] [68] [91]
+» There is increasing evidence that patients
+with mildly reduced ejection fraction (LVEF 41%
+to 49%) benefit from the same therapies as
+patients with reduced ejection fraction (LVEF
+<40%), including use of an angiotensin-II
+receptor antagonist/neprilysin inhibitor (e.g.,
+sacubitril/valsartan) or an ACE inhibitor.[1]
+[2] [68] [95][97] An angiotensin-II receptor
+antagonist is recommended if ACE inhibitors
+are not tolerated and use of an angiotensin-II
+receptor antagonist/neprilysin inhibitor is not
+feasible.
+» Treatment with sacubitril/valsartan is
+recommended both as a first-line treatment
+for patients newly diagnosed with acute
+heart failure, and to replace ACE inhibitor (or
+angiotensin-II receptor antagonist) therapy in
+patients with chronic symptomatic heart failure
+with reduced ejection fraction.[2] Patients with
+HFmrEF should have repeat evaluation of LVEF
+to determine the trajectory of their disease
+process.[2]
+» Dose should be increased to the maximum
+tolerated dose depending upon blood pressure
+and heart rate.
+plus beta-blocker
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Acute heart failure Management
+Ongoing
+» bisoprolol: 1.25 mg orally once daily initially,
+increase according to response, maximum 10
+mg/day
+OR
+» carvedilol: 3.125 mg orally (immediate-
+release) twice daily initially, increase
+according to response, maximum 50 mg/day
+OR
+» metoprolol succinate: 12.5 to 200 mg orally
+(extended-release) once daily
+OR
+» nebivolol: 1.25 mg orally once daily initially,
+increase according to response, maximum 10
+mg/day
+» Typically, beta-blockers are started only after
+the patient has been stabilized, but should
+continue long term to reduce the risk of major
+cardiovascular events even if symptoms do not
+improve.[2]
+» Dose should be increased to the maximum
+tolerated dose depending upon blood pressure
+and heart rate.
+plus aldosterone antagonist
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» eplerenone: 25 mg orally once daily initially,
+increase according to response, maximum 50
+mg/day
+OR
+» spironolactone: 25 mg orally once daily
+initially, increase according to response,
+maximum 50 mg/day
+» Spironolactone and eplerenone require careful
+monitoring of potassium, renal function, and
+diuretic dosing to minimize risk of hyperkalemia
+and renal insufficiency.[2]
+plus sodium-glucose cotransporter 2 (SGLT2)
+inhibitor
+Treatment recommended for ALL patients in
+selected patient group
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Acute heart failure Management
+MANAGEMENT
+Ongoing
+Primary options
+» dapagliflozin: 10 mg orally once daily
+OR
+» empagliflozin: 10 mg orally once daily
+OR
+» sotagliflozin: 200-400 mg orally once daily
+» There is evidence to support the long-term
+use of an SGLT2 inhibitor in patients with
+reduced LVEF (both HFrEF and HFmrEF),
+regardless of whether the patient has type 2
+diabetes mellitus.[1] [2] [66] [68][92] [95] [96]
+[97] They should be started before discharge
+when possible.[66] Patients with diabetes
+taking SGLT2 inhibitors are at increased risk
+of developing diabetic ketoacidosis (including
+euglycemic ketoacidosis).[30]
+consider vasodilator
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» isosorbide dinitrate/hydralazine: 20 mg
+(isosorbide dinitrate)/37.5 mg (hydralazine)
+orally three times daily initially, increase
+according to response, maximum 40
+mg(isosorbide dinitrate)/75 mg (hydralazine)
+three times daily
+» Isosorbide dinitrate/hydralazine can be used
+as a second-line treatment in patients who
+cannot be given first-line agents. Black people,
+in particular, have been shown to gain benefit
+from this combination of drugs.[2]
+consider loop diuretic ± nonloop diuretic
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» furosemide: 40-160 mg/dose orally/
+intravenously initially, increase by 20-40
+mg/dose every 6-12 hours according to
+response, maximum 600 mg/day
+OR
+» bumetanide: 0.5 to 2 mg orally/
+intravenously once or twice daily initially,
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Acute heart failure Management
+Ongoing
+increase dose according to response,
+maximum 10 mg/day
+OR
+» torsemide: 10-20 mg orally once daily
+initially, increase dose according to response,
+maximum 200 mg/day
+OR
+» furosemide: 40-160 mg/dose orally/
+intravenously initially, increase by 20-40
+mg/dose every 6-12 hours according to
+response, maximum 600 mg/day
+-or-
+» bumetanide: 0.5 to 2 mg orally/
+intravenously once or twice daily initially,
+increase dose according to response,
+maximum 10 mg/day
+-or-
+» torsemide: 10-20 mg orally once daily
+initially, increase dose according to response,
+maximum 200 mg/day
+--AND--
+» metolazone: 2.5 to 10 mg orally once daily
+» Patients who have evidence of volume
+overload or pulmonary congestion are continued
+on loop diuretics.
+» Most patients with decreased left ventricular
+function will need long-term diuretics, whereas
+those with primary diastolic heart failure will
+usually not need to be kept on maintenance
+diuretics.
+» In patients with reduced left ventricular
+ejection fraction, diuretics should be used only
+in combination with other medical therapies,
+such as an ACE inhibitor (or an angiotensin-II
+receptor antagonist or an angiotensin-II receptor
+antagonist/neprilysin inhibitor), a beta-blocker,
+and an aldosterone antagonist.[2]
+» Loop diuretics used for the treatment of acute
+heart failure and congestion include furosemide,
+bumetanide, and torsemide. The most commonly
+used agent appears to be furosemide, but some
+patients may respond more favorably to another
+loop diuretic (e.g., bumetanide, torsemide).
+Nonloop diuretics, such as metolazone, may be
+added if there is an inadequate response to loop
+diuretics alone.[2]
+» Careful monitoring of renal function and
+electrolytes is essential when loop and
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Acute heart failure Management
+MANAGEMENT
+Ongoing
+nonloop diuretics are used in combination.[2]
+The minimum dose of diuretics should be
+used to relieve congestion, keep the patient
+asymptomatic, and maintain a dry weight. In
+both acute heart failure and stable congestive
+heart failure, loop diuretics are the preferred
+agent. Almost all patients with heart failure will
+be treated with loop diuretics, but in patients
+with hypertension and only mild fluid retention, a
+thiazide diuretic may be considered.[2]
+consider digoxin
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» digoxin: consult specialist for guidance on
+dose
+» Digoxin significantly reduces the risk
+of composite end point of mortality or
+hospitalization in ambulatory chronic heart
+failure patients with NYHA class 3 or 4
+symptoms, LVEF <25%, or cardiothoracic ratio
+of >55%, and should be considered in these
+patients.[100]
+» In patients with heart failure who are in
+sinus rhythm, use of digoxin has no effect on
+mortality but is associated with a lower rate of
+hospitalization and clinical deterioration.[101]
+consider ivabradine
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» ivabradine: 5 mg orally twice daily initially,
+may increase to 7.5 mg twice daily after 2
+weeks if necessary
+» Treatment with ivabradine in stable patients
+with chronic heart failure (i.e., LVEF <35%)
+and a resting heart rate of >70 bpm - on a
+background of guideline-based heart failure
+therapy - is associated with reducing the risk
+of hospitalization for worsening heart failure.[2]
+[98] In one randomized, double-blind, placebo-
+controlled trial, addition of ivabradine to standard
+background therapy did not improve the outcome
+in patients with stable coronary artery disease
+without clinical heart failure (no evidence of left
+ventricular systolic dysfunction, in the overall
+study population mean ejection fraction was
+56.4%). In the subgroup analysis of the study,
+ivabradine was associated with an increase
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Acute heart failure Management
+Ongoing
+in the incidence of the primary end point
+(death from cardiovascular causes or nonfatal
+myocardial infarction) among patients who had
+angina of Canadian Cardiovascular Society
+class II or higher but not among patients without
+angina or those who had angina of class I.
+Ivabradine was associated with an increased
+incidence of bradycardia, QT prolongation, and
+atrial fibrillation.[99]
+plus supportive care
+Treatment recommended for ALL patients in
+selected patient group
+» Continued supportive care includes
+maintenance of adequate oxygenation (ideally
+maintained between 95% and 98% to maximize
+tissue oxygenation), patent airways, a low salt
+diet, and restriction of daily fluid intake.
+» Venous thromboembolism prophylaxis is
+recommended in all patients.
+» Patients with acute heart failure with reduced
+ejection fraction who are iron deficient should
+receive intravenous iron supplementation.[68]
+[69]
+acute episode stabilized: LVEF ≥50%
+1st control of blood pressure and optimal
+management of other comorbidities
+» For patients with preserved ejection fraction
+(left ventricular ejection fraction [LVEF] ≥50%),
+good control of blood pressure and other
+comorbidities (e.g., arrhythmias and underlying
+ischemia) is essential.[94] This may include
+therapies usually recommended for patients with
+reduced ejection fraction (e.g., renin-angiotensin
+system inhibitor, beta-blocker, aldosterone
+antagonist).[1] [2]
+plus sodium-glucose cotransporter 2 (SGLT2)
+inhibitor
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» dapagliflozin: 10 mg orally once daily
+OR
+» empagliflozin: 10 mg orally once daily
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Acute heart failure Management
+MANAGEMENT
+Ongoing
+» sotagliflozin: 200-400 mg orally once daily
+» There is increasing evidence to support
+the long-term use of an SGLT2 inhibitor in
+patients with mildly reduced or preserved LVEF,
+regardless of whether the patient has type 2
+diabetes mellitus.[1] [2] [66][68] [92] [94] [95]
+[96][97] Patients with diabetes taking SGLT2
+inhibitors are at increased risk of developing
+diabetic ketoacidosis (including euglycemic
+ketoacidosis).[30]
+consider loop diuretic ± nonloop diuretic
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» furosemide: 40-160 mg/dose orally/
+intravenously initially, increase by 20-40
+mg/dose every 6-12 hours according to
+response, maximum 600 mg/day
+OR
+» bumetanide: 0.5 to 2 mg orally/
+intravenously once or twice daily initially,
+increase dose according to response,
+maximum 10 mg/day
+OR
+» torsemide: 10-20 mg orally/intravenously
+once daily initially, increase dose according to
+response, maximum 200 mg/day
+OR
+» furosemide: 40-160 mg/dose orally/
+intravenously initially, increase by 20-40
+mg/dose every 6-12 hours according to
+response, maximum 600 mg/day
+-or-
+» bumetanide: 0.5 to 2 mg orally/
+intravenously once or twice daily initially,
+increase dose according to response,
+maximum 10 mg/day
+-or-
+» torsemide: 10-20 mg orally/intravenously
+once daily initially, increase dose according to
+response, maximum 200 mg/day
+--AND--
+» metolazone: 2.5 to 10 mg orally once daily
+» If needed, diuretics may be prescribed to
+reduce congestion and improve symptoms.[2]
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Acute heart failure Management
+Ongoing
+» In both acute heart failure and stable
+congestive heart failure, loop diuretics are
+the preferred agent. Almost all patients with
+heart failure will be treated with loop diuretics,
+but in patients with hypertension and only
+mild fluid retention a thiazide diuretic may be
+considered.[2] 
+» Loop diuretics used for the treatment of acute
+heart failure and congestion include furosemide,
+bumetanide, and torsemide. The most commonly
+used agent appears to be furosemide, but
+some patients may respond more favorably to
+another loop diuretic. Nonloop diuretics, such
+as metolazone, may be added if there is an
+inadequate response to loop diuretics alone.[2] 
+» Careful monitoring of renal function and
+electrolytes is essential when loop and
+nonloop diuretics are used in combination.[2]
+  The minimum dose of diuretics should be
+used to relieve congestion, keep the patient
+asymptomatic, and maintain a dry weight. 
+consider durable mechanical circulatory support
+(MCS)
+Treatment recommended for SOME patients in
+selected patient group
+» In cases of advanced heart failure resistant
+and refractory to maximal medical therapy, a
+durable mechanical circulatory support (MCS)
+device (e.g., a left ventricular assist device
+[LVAD]) is recommended for select patients.[2]
+[87]
+plus supportive care
+Treatment recommended for ALL patients in
+selected patient group
+» Continued supportive care includes
+maintenance of adequate oxygenation (ideally
+maintained between 95% and 98% to maximize
+tissue oxygenation), patent airways, a low salt
+diet, and restriction of daily fluid intake.
+» Venous thromboembolism prophylaxis is
+recommended in all patients.
+» Patients with acute heart failure with reduced
+ejection fraction who are iron deficient should
+receive intravenous iron supplementation.[68]
+[69] 
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Acute heart failure Management
+MANAGEMENT
+Emerging
+Tolvaptan
+A vasopressin antagonist that may relieve symptoms of acute heart failure, but may not reduce morbidity or
+mortality.[103] [104] [105] Tolvaptan should be considered for patients with volume overload, hyponatremia
+(<130 mEq/L), and symptoms of hyponatremia for the short-term correction of hyponatremia and associated
+symptoms.[36]
+Cinepazide
+Cinepazide, a vasodilator, was associated with significantly improving symptoms with less adverse effects in
+patients with decompensated heart failure, compared with dobutamine.[106]
+Vericiguat
+Vericiguat is an oral soluble guanylate cyclase stimulator (vasodilator) approved by the Food and Drug
+Administration for use in adults with symptomatic chronic heart failure and ejection fraction less than 45%
+(high-risk heart failure), who have recently been hospitalized or received outpatient intravenous diuretics.
+When compared with placebo, it demonstrated a reduced incidence of death from cardiovascular causes or
+hospitalization for heart failure in this patient group.[107]
+Other investigational medications
+These include ularitide, tezosentan, istaroxime, perhexiline, relaxin, and cardiac myosin activators. These
+agents are investigational and not routinely used to treat acute heart failure.[108] [109] [110] [111] Adenosine
+A1- receptor antagonists (e.g., tonapofylline and rolofylline) have failed to show any clinical benefit in initial
+studies.[112] [113] When compared with placebo, rolofylline did not show any benefit in patients with acute
+heart failure and impaired renal function.[113] In one phase 2 trial of patients with acute heart failure (ejection
+fraction ≤40%), treatment with omecamtiv mecarbil (a selective small-molecule activator of cardiac myosin)
+did not improve the primary end point of dyspnea, or any prespecified secondary end point when compared
+with placebo.[114]
+Primary prevention
+Aggressive control and treatment of risk factors should be considered in order to prevent acute heart failure.
+Coronary artery disease is managed with aspirin, beta-blockers, statins, and ACE inhibitors.
+Optimizing treatment of hypertension, smoking cessation, and lipid control provides substantial benefit in
+patients with coronary artery disease.
+Optimal control of hypertension may require more than one antihypertensive medication.
+For the general population, regular physical activity, maintenance of a normal weight, healthy dietary
+patterns, and avoidance of smoking are also recommended to reduce future risk of heart failure.[2]
+In asymptomatic patients with reduced left ventricular ejection fraction (LVEF), ACE inhibitors are
+cardioprotective and reduce further decline in LVEF.[27] Beta-blockers may also be considered in this group
+of patients.
+All patients with diabetes mellitus, in addition to metabolic control, need aggressive control of lipids, BP
+(target <130/80 mmHg) and should be treated with an ACE inhibitor, regardless of the level of the left
+ventricular (LV) dysfunction, when other cardiovascular risk factors are present.[28] Patients with type 2
+diabetes and either established cardiovascular disease or at high cardiovascular risk should use sodium-
+glucose cotransporter 2 (SGLT2) inhibitors (e.g., dapagliflozin, empagliflozin, or sotagliflozin) to prevent
+hospitalizations for heart failure.[2] [29] Patients with diabetes taking SGLT2 inhibitors are at increased risk of
+developing diabetic ketoacidosis (including euglycemic ketoacidosis).[30]
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Acute heart failure Management
+Alcohol consumption and excessive salt and fluid intake should be discouraged in patients with known LV
+dysfunction.[1] [2]
+Drugs that can cause or potentiate heart failure should be avoided, if possible.[31]
+Secondary prevention
+All patients with heart failure are recommended to have pneumococcal vaccination and annual influenza
+vaccine.
+Patient discussions
+Patients should be advised on measures to prevent further episodes:
+• Fluid intake restricted to 1 to 1.5 L a day.
+• Salt intake restricted: 1 teaspoon of salt equals 2.2 g of sodium. Therefore, patients are advised not
+to exceed 1 teaspoon of salt a day. They should lower salt intake as much as possible, ideally to 65
+mmol/day of sodium (corresponding to 1.5 g/day of sodium).
+• Alcohol intake limited to 2 drinks a day for men and 1 drink a day or less for women.
+• Importance of continuing medication as prescribed by a doctor should be stressed.
+• Weight should be checked daily.
+If patients notice more than 2 pounds weight gain in 24 hours, 2 days in a row, or develop symptoms
+of shortness of breath, chest pain, palpitations, increased tiredness, dizziness or lightheadedness, or
+increasing swelling of the legs or abdomen, they should seek medical attention.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Acute heart failure Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+During the acute phase all patients require cardiac monitoring. Once stabilized, they can be transferred to
+a noncardiac monitoring floor.
+After discharge, a telephone follow-up is recommended within 3 days and patients should be reviewed in
+the clinic within 7 to 10 days.[32]
+Once the acute phase is over and patients are stable and considered to have stable heart failure, they
+should be encouraged to do regular aerobic exercise, and it is recommended that they be enrolled in a
+multidisciplinary care management program.[1]
+Complications
+Complications Timeframe Likelihood
+arrhythmias short term high
+Acute heart failure is frequently precipitated by arrhythmias, in particular atrial fibrillation, but acute heart
+failure may also cause arrhythmias.[120] [121]
+complications of treatment: nitroglycerin short term high
+Commonly causes headache and hypotension. The headache is usually mild to moderate in severity and
+either resolves or diminishes in intensity with continued nitrate therapy. If hypotension occurs then the
+infusion rate should be decreased. If hypotension persists then the infusion should be discontinued and
+restarted when the patient is hemodynamically stable.
+complications of treatment: diuretics short term medium
+Overdiuresis leads to worsening of renal function, hypotension, and hypokalemia, and also activation
+of neurohormones including renin-angiotensin system and the sympathetic system. It may potentiate
+the toxicity of other agents like digoxin, either by causing hypokalemia or by decreasing the glomerular
+filtration.
+In cases of worsening renal impairment due to overdiuresis, the dose of diuretics should be decreased.
+In case of severe renal impairment the diuretic can be withheld and the patients assessed daily, with
+reintroduction of diuretic at lower doses.
+complications of treatment: inotropes short term medium
+Dobutamine and milrinone can cause arrhythmias and worsening of coronary ischemia.
+The occurrence of sustained arrhythmias should lead to discontinuation. In cases where these
+medications are absolutely needed, concomitant use of amiodarone may be advisable, although there are
+no large-scale data on the use of antiarrhythmics in this setting. If the patient has symptomatic coronary
+ischemia, these infusions should be discontinued.
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Acute heart failure Follow up
+Prognosis
+In hospitals, mortality ranges from 2% to 20% depending on clinical factors found on admission.[116]
+Predictors of adverse outcomes include: hypotension, renal dysfunction, older age, male sex, ischemic
+congestive heart failure (CHF), previous CHF, respiratory rate on admission >30/minute, anemia,
+hyponatremia, elevated troponin, elevated B-type natriuretic peptide, and other comorbidities such as
+cancer.[117]
+One study found that among patients hospitalized with heart failure, patients across the ejection fraction
+spectrum have a similarly poor 5-year survival with an elevated risk for cardiovascular and heart failure
+admission.[118] All patients in this cohort, regardless of ejection fraction, had a remarkably high mortality
+rate at 5 years from index admission (75.4%).[118] One meta-analysis has shown that presence of wide
+QRS or bundle branch block (BBB) is associated with a modest increase in the risk of all cause mortality in
+patients with acute heart failure (irrespective of the type of BBB).[119]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Acute heart failure Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+2022 AHA/ACC/HFSA guideline for the management of heart failure  [2]
+Published by:  American Heart Association; American College of
+Cardiology; Heart Failure Society of America
+Last published: 2022
+2017 comprehensive update of the Canadian Cardiovascular Society
+guidelines for the management of heart failure  [36]
+Published by:  Canadian Cardiovascular Society Last published: 2017
+2021 ESC guidelines for the diagnosis and treatment of acute and chronic
+heart failure  [1]
+Published by:  European Society of Cardiology Last published: 2021
+Acute heart failure: diagnosis and management  [63]
+Published by:  National Institute for Health and Care Excellence (UK) Last published: 2021
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Acute heart failure Guidelines
+Treatment guidelines
+International
+2022 AHA/ACC/HFSA guideline for the management of heart failure  [2]
+Published by:  American Heart Association; American College of
+Cardiology; Heart Failure Society of America
+Last published: 2022
+Clinical policy: critical issues in the evaluation and management of adult
+patients presenting to the emergency department with acute heart failure
+syndromes  [34]
+Published by:  American College of Emergency Physicians Last published: 2022
+Academy of Nutrition and Dietetics evidence-based practice guideline for the
+management of heart failure in adults  [115]
+Published by:  Academy of Nutrition and Dietetics Last published: 2018
+2017 comprehensive update of the Canadian Cardiovascular Society
+guidelines for the management of heart failure  [36]
+Published by:  Canadian Cardiovascular Society Last published: 2017
+Recommendations for the use of mechanical circulatory support: device
+strategies and patient selection  [87]
+Published by:  American Heart Association Last published: 2012
+2023 focused update of the 2021 ESC guidelines for the diagnosis and
+treatment of acute and chronic heart failure  [68]
+Published by:  European Society of Cardiology Last published: 2023
+2021 ESC guidelines for the diagnosis and treatment of acute and chronic
+heart failure  [1]
+Published by:  European Society of Cardiology Last published: 2021
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Acute heart failure Online resources
+ONLINE RESOURCES
+Online resources
+1. CODE-HF tool (external link)
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Acute heart failure References
+Key articles
+• McDonagh TA, Metra M, Adamo M, et al. 2021 ESC guidelines for the diagnosis and treatment of
+acute and chronic heart failure. Eur Heart J. 2021 Sep 21;42(36):3599-726.  Full text   Abstract
+• Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022 May 3;145(18):e895-1032.  Full text  
+Abstract
+• Ezekowitz JA, O'Meara E, McDonald MA, et al. 2017 comprehensive update of the Canadian
+Cardiovascular Society guidelines for the management of heart failure. Can J Cardiol. 2017
+Nov;33(11):1342-433.  Full text   Abstract
+References
+1. McDonagh TA, Metra M, Adamo M, et al. 2021 ESC guidelines for the diagnosis and treatment of
+acute and chronic heart failure. Eur Heart J. 2021 Sep 21;42(36):3599-726.  Full text   Abstract
+2. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022 May 3;145(18):e895-1032.  Full text  
+Abstract
+3. Filippatos G, Zannad F. An introduction to acute heart failure syndromes: definition and classification.
+Heart Fail Rev. 2007 Jun;12(2):87-90. Abstract
+4. McDermott KW, Roemer M. Most frequent principal diagnoses for inpatient stays in U.S. hospitals,
+2018. In: Healthcare Cost and Utilization Project (HCUP) Statistical Briefs [Internet]. Rockville, MD:
+Agency for Healthcare Research and Quality; 2006: Statistical Brief #277.  Full text
+5. Martin SS, Aday AW, Allen NB, et al. 2025 Heart disease and stroke statistics: a report of US and
+global data from the American Heart Association. Circulation. 27 Jan 2025 [Epub ahead of print].  Full
+text   Abstract
+6. Martin SS, Aday AW, Almarzooq ZI, et al. 2024 Heart disease and stroke statistics: a report of US and
+global data from the American Heart Association. Circulation. 2024 Feb 20;149(8):e347-e913.  Full
+text   Abstract
+7. Savarese G, Lund LH. Global public health burden of heart failure. Card Fail Rev. 2017 Apr;3(1):7-11. 
+Full text   Abstract
+8. Kimmoun A, Takagi K, Gall E, et al. Temporal trends in mortality and readmission after acute heart
+failure: a systematic review and meta-regression in the past four decades. Eur J Heart Fail. 2021
+Mar;23(3):420-31.  Full text   Abstract
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Acute heart failure References
+REFERENCES
+9. Gheorghiade M, Zannad F, Sopko G, et al. Acute heart failure syndromes: current state and framework
+for future research. Circulation. 2005 Dec 20;112(25):3958-68.  Full text   Abstract
+10. Jackson G, Gibbs CR, Davies MK, Lip GY. ABC of heart failure. Pathophysiology. BMJ. 2000 Jan
+15;320(7228):167-70. Abstract
+11. Fonarow GC. The Acute Decompensated Heart Failure National Registry (ADHERE): opportunities to
+improve care of patients hospitalized with acute decompensated heart failure. Rev Cardiovasc Med.
+2003;4(suppl 7):S21-30. Abstract
+12. Fonarow GC, Abraham WT, Albert NM, et al. Association between performance measures and clinical
+outcomes for patients hospitalized with heart failure. JAMA. 2007 Jan 3;297(1):61-70.  Full text  
+Abstract
+13. Abraham WT, Adams KF, Fonarow GC, et al. In-hospital mortality in patients with acute
+decompensated heart failure requiring intravenous vasoactive medications: an analysis from the
+Acute Decompensated Heart Failure National Registry (ADHERE). J Am Coll Cardiol. 2005 Jul
+5;46(1):57-64. Abstract
+14. Nieminen MS, Brutsaert D, Dickstein K, et al. EuroHeart Failure Survey II (EHFS II): a survey
+on hospitalized acute heart failure patients: description of population. Eur Heart J. 2006
+Nov;27(22):2725-36.  Full text   Abstract
+15. Gorenek B, Halvorsen S, Kudaiberdieva G, et al. Atrial fibrillation in acute heart failure: a position
+statement from the Acute Cardiovascular Care Association and European Heart Rhythm Association
+of the European Society of Cardiology. Eur Heart J Acute Cardiovasc Care. 2020 Jun;9(4):348-57. 
+Full text   Abstract
+16. Mundisugih J, Franke KB, Tully PJ, et al. Prevalence and prognostic implication of atrial fibrillation in
+heart failure subtypes: systematic review and meta-analysis. Heart Lung Circ. 2023 Jun;32(6):666-77.
+Abstract
+17. Tsuyuki RT, McKelvie RS, Arnold JM, et al. Acute precipitants of congestive heart failure
+exacerbations. Arch Intern Med. 2001 2001 Oct 22;161(19):2337-42.  Full text   Abstract
+18. Takizawa M, Kobayakawa N, Uozumi H, et al. A case of transient left ventricular ballooning
+with pheochromocytoma, supporting pathogenetic role of catecholamines in stress-induced
+cardiomyopathy or takotsubo cardiomyopathy. Int J Cardiol. 2007 Jan 2;114(1):e15-7. Abstract
+19. Manja V, Nrusimha A, Gao Y, et al. Methamphetamine-associated heart failure: a systematic review of
+observational studies. Heart. 2023 Jan 11;109(3):168-77. Abstract
+20. Rodondi N, Newman AB, Vittinghoff E, et al. Subclinical hypothyroidism and the risk of heart failure,
+other cardiovascular events, and death. Arch Intern Med. 2006 Mar;8(3):217-8.  Full text   Abstract
+21. Berlin T, Lubina A, Levy Y, et al. Graves' disease presenting as right heart failure. Isr Med Assoc J.
+2006 Mar;8(3):217-8. Abstract
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Acute heart failure References
+22. Klatsky AL, Chartier D, Udaltsova N, et al. Alcohol drinking and risk of hospitalization for heart failure
+with and without associated coronary artery disease. Am J Cardiol. 2005 Aug 1;96(3):346-51. Abstract
+23. Biddinger KJ, Emdin CA, Haas ME, et al. Association of habitual alcohol intake with risk of
+cardiovascular disease. JAMA Netw Open. 2022 Mar 1;5(3):e223849.  Full text   Abstract
+24. Powell-Wiley TM, Poirier P, Burke LE, et al. Obesity and cardiovascular disease: a scientific statement
+from the American Heart Association. Circulation. 2021 May 25;143(21):e984-1010.  Full text  
+Abstract
+25. Pandey A, Patel KV, Vaduganathan M, et al. Physical activity, fitness, and obesity in heart failure with
+preserved ejection fraction. JACC Heart Fail. 2018 Dec;6(12):975-82.  Full text   Abstract
+26. Pandey A, LaMonte M, Klein L, et al. Relationship between physical activity, body mass index, and risk
+of heart failure. J Am Coll Cardiol. 2017 Mar 7;69(9):1129-42.  Full text   Abstract
+27. Konstam MA, Kronenberg MW, Rousseau MF, et al. Effects of the angiotensin converting enzyme
+inhibitor enalapril on the long-term progression of left ventricular dilatation in patients with
+asymptomatic systolic dysfunction. SOLVD (Studies of Left Ventricular Dysfunction) Investigators.
+Circulation. 1993 Nov;88(5 Pt 1):2277-83.  Full text   Abstract
+28. Yusuf S, Sleight P, Pogue J, et al; the Heart Outcomes Prevention Evaluation Study Investigators.
+Effects of an angiotensin-converting-enzyme inhibitor, ramipril, on cardiovascular events in high-risk
+patients. N Engl J Med. 2000 Jan 20;342(3):145-53.  Full text   Abstract
+29. Zelniker TA, Wiviott SD, Raz I, et al. SGLT2 inhibitors for primary and secondary prevention of
+cardiovascular and renal outcomes in type 2 diabetes: a systematic review and meta-analysis of
+cardiovascular outcome trials. Lancet. 2019 Jan 5;393(10166):31-9. Abstract
+30. Musso G, Saba F, Cassader M, et al. Diabetic ketoacidosis with SGLT2 inhibitors. BMJ. 2020 Nov
+12;371:m4147. Abstract
+31. Page RL, O'Bryant CL, Cheng D, et al. Drugs that may cause or exacerbate heart failure: a scientific
+statement from the American Heart Association. Circulation. 2016 Aug 9;134(6):e32-69.  Full text  
+Abstract
+32. Heart Failure Society of America. Executive summary: HFSA 2010 Comprehensive Heart Failure
+Practice Guideline. J Card Fail. 2010 Jun;16(6):e1-194. Abstract
+33. Gillespie ND, McNeill G, Pringle T, et al. Cross sectional study of contribution of clinical assessment
+and simple cardiac investigations to diagnosis of left ventricular systolic dysfunction in patients
+admitted with acute dyspnoea. BMJ. 1997 Mar 29;314(7085):936-40.  Full text   Abstract
+34. American College of Emergency Physicians. Clinical policy: critical issues in the evaluation and
+management of adult patients presenting to the emergency department with acute heart failure
+syndromes. Jun 2022 [internet publication].  Full text
+35. Qaseem A, Etxeandia-Ikobaltzeta I, Mustafa RA, et al. Appropriate use of point-of-care
+ultrasonography in patients with acute dyspnea in emergency department or inpatient settings: a
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Acute heart failure References
+REFERENCES
+clinical guideline from the American College of Physicians. Ann Intern Med. 2021 Jul;174(7):985-93. 
+Full text   Abstract
+36. Ezekowitz JA, O'Meara E, McDonald MA, et al. 2017 comprehensive update of the Canadian
+Cardiovascular Society guidelines for the management of heart failure. Can J Cardiol. 2017
+Nov;33(11):1342-433.  Full text   Abstract
+37. Renier W, Winckelmann KH, Verbakel JY, et al. Signs and symptoms in adult patients with acute
+dyspnea: a systematic review and meta-analysis. Eur J Emerg Med. 2018 Feb;25(1):3-11. Abstract
+38. Nohria A, Lewis E, Stevenson LW. Medical management of advanced heart failure. JAMA. 2002 Feb
+6;287(5):628-40.  Full text   Abstract
+39. Khan NK, Goode KM, Cleland JG, et al. Prevalence of ECG abnormalities in an international survey
+of patients with suspected or confirmed heart failure at death or discharge. Eur J Heart Fail. 2007
+May;9(5):491-501. Abstract
+40. Čelutkienė J, Lainscak M, Anderson L, et al. Imaging in patients with suspected acute heart failure:
+timeline approach position statement on behalf of the Heart Failure Association of the European
+Society of Cardiology. Eur J Heart Fail. 2020 Feb;22(2):181-95.  Full text   Abstract
+41. Maisel AS, Krishnaswamy P, Nowak RM, et al. Rapid measurement of B-type natriuretic peptide in the
+emergency diagnosis of heart failure. N Engl J Med. 2002 Jul 18;347(3):161-7.  Full text   Abstract
+42. Mueller C, Scholer A, Laule-Kilian K, et al. Use of B-type natriuretic peptide in the evaluation and
+management of acute dyspnea. N Engl J Med. 2004 Feb 12;350(7):647-54.  Full text   Abstract
+43. Morrison LK, Harrison A, Krishnaswamy P, et al. Utility of a rapid B-natriuretic peptide assay in
+differentiating congestive heart failure from lung disease in patients presenting with dyspnea. J Am
+Coll Cardiol. 2002 Jan 16;39(2):202-9. Abstract
+44. Fonarow GC, Peacock WF, Phillips CO, et al. Admission B-type natriuretic peptide levels
+and in-hospital mortality in acute decompensated heart failure. J Am Coll Cardiol. 2007 May
+15;49(19):1943-50. Abstract
+45. Burke MA, Cotts WG. Interpretation of B-type natriuretic peptide in cardiac disease and other comorbid
+conditions. Heart Fail Rev. 2007 Mar;12(1):23-36. Abstract
+46. Lee KK, Doudesis D, Anwar M, et al. Development and validation of a decision support tool for the
+diagnosis of acute heart failure: systematic review, meta-analysis, and modelling study. BMJ. 2022 Jun
+13;377:e068424.  Full text   Abstract
+47. Perna ER, Macin SM, Parras JI, et al. Cardiac troponin T levels are associated with poor short-
+and long-term prognosis in patients with acute cardiogenic pulmonary edema. Am Heart J. 2002
+May;143(5):814-20. Abstract
+48. Evans JDW, Dobbin SJH, Pettit SJ, et al. High-sensitivity cardiac troponin and new-onset heart failure:
+a systematic review and meta-analysis of 67,063 patients with 4,165 incident heart failure events.
+JACC Heart Fail. 2018 Mar;6(3):187-97. Abstract
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Acute heart failure References
+49. El Iskandarani M, El Kurdi B, Murtaza G, et al. Prognostic role of albumin level in heart failure: a
+systematic review and meta-analysis. Medicine (Baltimore). 2021 Mar 12;100(10):e24785.  Full text  
+Abstract
+50. Chow SL, Maisel AS, Anand I, et al. Role of biomarkers for the prevention, assessment, and
+management of heart failure: a scientific statement from the American Heart Association. Circulation.
+2017 May 30;135(22):e1054-91.  Full text   Abstract
+51. Kusminsky RE. Complications of central venous catheterization. J Am Coll Surg. 2007
+Apr;204(4):681-96. Abstract
+52. McGee DC, Gould MK. Preventing complications of central venous catheterization. N Engl J Med.
+2003 Mar 20;348(12):1123-33.  Full text   Abstract
+53. Smith RN, Nolan JP. Central venous catheters. BMJ. 2013 Nov 11;347:f6570.  Full text   Abstract
+54. Reich DL. Monitoring in anesthesia and perioperative care. Cambridge: Cambridge University Press;
+2011.
+55. Abbott Northwestern Hospital Internal Medicine Residency. Internal jugular central venous line. 2022
+[internet publication].  Full text
+56. Bishop L, Dougherty L, Bodenham A, et al. Guidelines on the insertion and management of central
+venous access devices in adults. Int J Lab Hematol. 2007 Aug;29(4):261-78. Abstract
+57. Practice guidelines for central venous access 2020: an updated report by the American Society of
+Anesthesiologists Task Force on Central Venous Access. Anesthesiology. 2020 Jan;132(1):8-43.  Full
+text   Abstract
+58. Fletcher SJ, Bodenham AR. Safe placement of central venous catheters: where should the tip of the
+catheter lie? Br J Anaesth. 2000 Aug;85(2):188-91. Abstract
+59. Gibson F, Bodenham A. Misplaced central venous catheters: applied anatomy and practical
+management. Br J Anaesth. 2013 Mar;110(3):333-46.  Full text   Abstract
+60. Schuster M, Nave H, Piepenbrock S, et al. The carina as a landmark in central venous catheter
+placement. Br J Anaesth. 2000 Aug;85(2):192-4. Abstract
+61. Lang RM, Badano LP, Mor-Avi V, et al. Recommendations for cardiac chamber quantification by
+echocardiography in adults: an update from the American Society of Echocardiography and the
+European Association of Cardiovascular Imaging. J Am Soc Echocardiogr. 2015 Jan;28(1):1-39.  Full
+text   Abstract
+62. McKee PA, Castelli WP, McNamara PM, et al. The natural history of congestive heart failure: the
+Framingham study. N Engl J Med. 1971 Dec 23;285(26):1441-6. Abstract
+63. National Institute for Health and Care Excellence. Acute heart failure: diagnosis and management. Nov
+2021 [internet publication].  Full text
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+65
+=== Page 66 ===
+Acute heart failure References
+REFERENCES
+64. Lin Y, Chen Y, Yuan J, et al. Intravenous morphine use in acute heart failure increases adverse
+outcomes: a meta-analysis. Rev Cardiovasc Med. 2021 Sep 24;22(3):865-72.  Full text   Abstract
+65. Pratama NR, Anastasia ES, Wardhani NP, et al. Clinical outcomes of opioid administration in acute
+and chronic heart failure: a meta-analysis. Diabetes Metab Syndr. 2022 Oct;16(10):102636.  Full text  
+Abstract
+66. Writing Committee; Hollenberg SM, Stevenson LW, Ahmad T, et al. 2024 ACC expert consensus
+decision pathway on clinical assessment, management, and trajectory of patients hospitalized with
+heart failure focused update: a report of the American College of Cardiology Solution Set Oversight
+Committee. J Am Coll Cardiol. 2024 Sep 24;84(13):1241-67.  Full text   Abstract
+67. McKelvie RS, Benedict CR, Yusuf S. Evidence based cardiology: prevention of congestive heart failure
+and management of asymptomatic left ventricular dysfunction. BMJ. 1999 May 22;318(7195):1400-2.
+Abstract
+68. McDonagh TA, Metra M, Adamo M, et al. 2023 focused update of the 2021 ESC guidelines for the
+diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023 Oct 1;44(37):3627-39. 
+Full text   Abstract
+69. Hamza M, Sattar Y, Manasrah N, et al. Meta-analysis of efficacy and safety of intravenous iron in
+patients with iron deficiency and heart failure with reduced ejection fraction. Am J Cardiol. 2023 Sep
+1;202:119-30. Abstract
+70. Soar J, Böttiger BW, Carli P, et al. European Resuscitation Council guidelines 2021: adult advanced
+life support. Resuscitation. 2021 Apr;161:115-51.  Full text   Abstract
+71. Colquhoun MC, Handley AJ, Evans TR. ABC of resuscitation. 5th ed. London: BMJ Publishing Group;
+2004.
+72. Chrimes N, Higgs A, Hagberg CA, et al. Preventing unrecognised oesophageal intubation: a
+consensus guideline from the Project for Universal Management of Airways and international airway
+societies. Anaesthesia. 2022 Dec;77(12):1395-415.  Full text   Abstract
+73. Felker GM, Lee KL, Bull DA, et al. Diuretic strategies in patients with acute decompensated heart
+failure. N Engl J Med. 2011 Mar 3;364(9):797-805. Abstract
+74. Trullàs JC, Morales-Rull JL, Casado J, et al. Combining loop with thiazide diuretics for decompensated
+heart failure: the CLOROTIC trial. Eur Heart J. 2023 Feb 1;44(5):411-21. Abstract
+75. Mullens W, Dauw J, Martens P, et al. Acetazolamide in acute decompensated heart failure with volume
+overload. N Engl J Med. 2022 Sep 29;387(13):1185-95.  Full text   Abstract
+76. Costanzo MR, Guglin ME, Saltzberg MT, et al. Ultrafiltration versus intravenous diuretics for patients
+hospitalized for acute decompensated heart failure. J Am Coll Cardiol. 2007 Feb 13;49(6):675-83.  Full
+text   Abstract
+77. Srivastava M, Harrison N, Caetano AFS, et al. Ultrafiltration for acute heart failure. Cochrane Database
+Syst Rev. 2022 Jan 21;1(1):CD013593.  Full text   Abstract
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 67 ===
+Acute heart failure References
+78. Kivikko M, Pollesello P, Tarvasmäki T, et al. Effect of baseline characteristics on mortality in the
+SURVIVE trial on the effect of levosimendan vs dobutamine in acute heart failure: Sub-analysis of the
+Finnish patients. Int J Cardiol. 2016 Jul 15;215:26-31.  Full text   Abstract
+79. Geller BJ, Sinha SS, Kapur NK, et al. Escalating and de-escalating temporary mechanical circulatory
+support in cardiogenic shock: a scientific statement from the American Heart Association. Circulation.
+2022 Aug 9;146(6):e50-68.  Full text   Abstract
+80. Amsterdam EA, Wenger NK, Brindis RG, et al. 2014 AHA/ACC guideline for the management of
+patients with non-ST-elevation acute coronary syndromes: a report of the American College of
+Cardiology/American Heart Association Task Force on Practice Guidelines. Circulation. 2014 Dec
+23;130(25):e344-426.  Full text   Abstract
+81. O'Gara PT, Kushner FG, Ascheim DD, et al. 2013 ACCF/AHA guideline for the management of ST-
+elevation myocardial infarction: a report of the American College of Cardiology Foundation/American
+Heart Association Task Force on Practice Guidelines. Circulation. 2013 Jul 1;82(1):E1-27.  Full text  
+Abstract
+82. Reddy YNV, Borlaug BA, Gersh BJ. Management of atrial fibrillation across the spectrum of heart
+failure with preserved and reduced ejection fraction. Circulation. 2022 Jul 26;146(4):339-57.  Full text  
+Abstract
+83. Chung MK, Patton KK, Lau CP, et al. 2023 HRS/APHRS/LAHRS guideline on cardiac physiologic
+pacing for the avoidance and mitigation of heart failure. Heart Rhythm. 2023 Sep;20(9):e17-91.  Full
+text   Abstract
+84. Khot UN, Novaro GM, Popovic ZB, et al. Nitroprusside in critically ill patients with left ventricular
+dysfunction and aortic stenosis. N Engl J Med. 2003 May 1;348(18):1756-63.  Full text   Abstract
+85. Lahm T, McCaslin CA, Wozniak TC, et al. Medical and surgical treatment of acute right ventricular
+failure. J Am Coll Cardiol. 2010 Oct 26;56(18):1435-46. Abstract
+86. Cooper LT Jr, Berry GJ, Shabetai R. Idiopathic giant-cell myocarditis - natural history and
+treatment. Multicenter Giant Cell Myocarditis Study Group Investigators. N Engl J Med. 1997 Jun
+26;336(26):1860-6.  Full text   Abstract
+87. Peura JL, Colvin-Adams M, Francis GS, et al; American Heart Association. Recommendations for the
+use of mechanical circulatory support: device strategies and patient selection: a scientific statement
+from the American Heart Association. Circulation. 2012 Nov 27;126(22):2648-67.  Full text   Abstract
+88. Gopinathannair R, Cornwell WK, Dukes JW, et al. Device therapy and arrhythmia management in
+left ventricular assist device recipients: a scientific statement from the American Heart Association.
+Circulation. 2019 May 14;139(20):e967-89.  Full text   Abstract
+89. Cook JL, Colvin M, Francis GS, et al. Recommendations for the use of mechanical circulatory support:
+ambulatory and community patient care: a scientific statement from the American Heart Association.
+Circulation. 2017 Jun 20;135(25):e1145-58.  Full text   Abstract
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+67
+=== Page 68 ===
+Acute heart failure References
+REFERENCES
+90. Birks EJ, Tansley PD, Hardy J, et al. Left ventricular assist device and drug therapy for the reversal of
+heart failure. N Engl J Med. 2006 Nov 2;355(18):1873-84.  Full text   Abstract
+91. Mebazaa A, Davison B, Chioncel O, et al. Safety, tolerability and efficacy of up-titration of guideline-
+directed medical therapies for acute heart failure (STRONG-HF): a multinational, open-label,
+randomised, trial. Lancet. 2022 Dec 3;400(10367):1938-52. Abstract
+92. Usman MS, Siddiqi TJ, Anker SD, et al. Effect of SGLT2 inhibitors on cardiovascular outcomes across
+various patient populations. J Am Coll Cardiol. 2023 Jun 27;81(25):2377-87. Abstract
+93. Carvalho PEP, Veiga TMA, Simões E Silva AC, et al. Cardiovascular and renal effects of SGLT2
+inhibitor initiation in acute heart failure: a meta-analysis of randomized controlled trials. Clin Res
+Cardiol. 2023 Aug;112(8):1044-55.  Full text   Abstract
+94. Kittleson MM, Panjrath GS, Amancherla K, et al. 2023 ACC expert consensus decision pathway on
+management of heart failure with preserved ejection fraction: a report of the American College of
+Cardiology solution set oversight committee. J Am Coll Cardiol. 2023 May 9;81(18):1835-78.  Full text  
+Abstract
+95. Packer M, Butler J, Zannad F, et al. Effect of empagliflozin on worsening heart failure events in
+patients with heart failure and preserved ejection fraction: EMPEROR-Preserved trial. Circulation.
+2021 Oct 19;144(16):1284-94.  Full text   Abstract
+96. Desai AS, Jhund PS, Claggett BL, et al. Effect of dapagliflozin on cause-specific mortality in patients
+with heart failure across the spectrum of ejection fraction: a participant-level pooled analysis of DAPA-
+HF and DELIVER. JAMA Cardiol. 2022 Dec 1;7(12):1227-34.  Full text   Abstract
+97. Xiang B, Zhang R, Wu X, et al. Optimal pharmacologic treatment of heart failure with preserved and
+mildly reduced ejection fraction: a meta-analysis. JAMA Netw Open. 2022 Sep 1;5(9):e2231963.  Full
+text   Abstract
+98. Borer JS, Böhm M, Ford I, et al; SHIFT Investigators. Effect of ivabradine on recurrent hospitalization
+for worsening heart failure in patients with chronic systolic heart failure: the SHIFT Study. Eur Heart J.
+2012 Nov;33(22):2813-20.  Full text   Abstract
+99. Fox K, Ford I, Steg PG, et al. Ivabradine in stable coronary artery disease without clinical heart failure.
+N Engl J Med. 2014 Sep 18;371(12):1091-9.  Full text   Abstract
+100. Gheorghiade M, Patel K, Filippatos G, et al. Effect of oral digoxin in high-risk heart failure patients: a
+pre-specified subgroup analysis of the DIG trial. Eur J Heart Fail. 2013 May;15(5):551-9.  Full text  
+Abstract
+101. Hood WB Jr, Dans AL, Guyatt GH, et al. Digitalis for treatment of heart failure in patients in sinus
+rhythm. Cochrane Database Syst Rev. 2014 Apr 28;(4):CD002901.  Full text   Abstract
+102. Heart Failure Society of America. Evaluation and management of patients with acute decompensated
+heart failure. J Card Fail. 2006 Feb;12(1):e86-103.  Full text   Abstract
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 69 ===
+Acute heart failure References
+103. Konstam MA, Gheorghiade M, Burnett JC Jr, et al. Effects of oral tolvaptan in patients hospitalized for
+worsening heart failure: the EVEREST Outcome Trial. JAMA. 2007 Mar 28;297(12):1319-31.  Full text  
+Abstract
+104. Shang W, Zhang Y, Han D. Benefits of tolvaptan on early dyspnea relief in patients with acute heart
+failure: a meta-analysis. Clin Cardiol. 2022 Oct;45(10):995-1001.  Full text   Abstract
+105. Ma G, Ma X, Wang G, et al. Effects of tolvaptan add-on therapy in patients with acute heart failure:
+meta-analysis on randomised controlled trials. BMJ Open. 2019 May 1;9(4):e025537.  Full text  
+Abstract
+106. Lu Y, Huang D, Dou C, et al. Clinical efficacy of intravenous cinepazide in the treatment of severe
+decompensated heart failure. Biomedical Research (India). 2012;23(4):561-5.
+107. Armstrong PW, Pieske B, Anstrom KJ, et al. Vericiguat in patients with heart failure and reduced
+ejection fraction. N Engl J Med. 2020 May 14;382(20):1883-93.  Full text   Abstract
+108. De Luca L, Mebazaa A, Filippatos G, et al. Overview of emerging pharmacologic agents for acute
+heart failure syndromes. Eur J Heart Fail. 2008 Feb;10(2):201-13.  Full text   Abstract
+109. De Luca L, Fonarow GC, Mebazaa A, et al. Early pharmacological treatment of acute heart failure
+syndromes: a systematic review of clinical trials. Acute Card Care. 2007;9(1):10-21. Abstract
+110. deGoma EM, Vagelos RH, Fowler MB, et al. Emerging therapies for the management
+of decompensated heart failure: from bench to bedside. J Am Coll Cardiol. 2006 Dec
+19;48(12):2397-409. Abstract
+111. Teerlink JR, Davison BA, Cotter G, et al. Effects of serelaxin in patients admitted for acute heart
+failure: a meta-analysis. Eur J Heart Fail. 2020 Feb;22(2):315-29.  Full text   Abstract
+112. Ensor CR, Russell SD. Tonapofylline: a selective adenosine-1 receptor antagonist for the treatment of
+heart failure. Expert Opin Pharmacother. 2010 Oct;11(14):2405-15. Abstract
+113. Massie BM, O'Connor CM, Metra M, et al. Rolofylline, an adenosine A1-receptor antagonist, in acute
+heart failure. N Engl J Med. 2010 Oct 7;363(15):1419-28.  Full text   Abstract
+114. Teerlink JR, Felker GM, McMurray JJ, et al; ATOMIC-AHF Investigators. Acute treatment with
+omecamtiv mecarbil to increase contractility in acute heart failure: the ATOMIC-AHF study. J Am Coll
+Cardiol. 2016 Mar 29;67(12):1444-55.  Full text   Abstract
+115. Kuehneman T, Gregory M, de Waal D, et al. Academy of Nutrition and Dietetics evidence-
+based practice guideline for the management of heart failure in adults. J Acad Nutr Diet. 2018
+Dec;118(12):2331-45. Abstract
+116. Fonarow GC, Adams KF Jr, Abraham WT, et al. Risk stratification for in-hospital mortality in
+acutely decompensated heart failure: classification and regression tree analysis. JAMA. 2005 Feb
+2;293(5):572-80.  Full text   Abstract
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+69
+=== Page 70 ===
+Acute heart failure References
+REFERENCES
+117. Dec GW. Management of acute decompensated heart failure. Curr Probl Cardiol. 2007
+Jun;32(6):321-66. Abstract
+118. Shah KS, Xu H, Matsouaka RA, et al. Heart failure with preserved, borderline, and reduced ejection
+fraction: 5-year outcomes. J Am Coll Cardiol. 2017 Nov 14;70(20):2476-86. Abstract
+119. Aguiló O, Castells X, Miró Ò, et al. The prognostic significance of bundle branch block in acute heart
+failure: a systematic review and meta-analysis. Clin Res Cardiol. 2023 Aug;112(8):1020-43. Abstract
+120. Siurila-Waris K, Lassus J, Melin J, et al. Characteristics, outcomes, and predictors of 1-year mortality
+in patients hospitalized for acute heart failure. Eur Heart J. 2006 Dec;27(24):3011-7.  Full text  
+Abstract
+121. Benza RL, Tallaj JA, Felker GM, et al. The impact of arrhythmias in acute heart failure. J Card Fail.
+2004 Aug;10(4):279-84. Abstract
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 71 ===
+Acute heart failure Images
+Images
+Figure 1: ECG showing left ventricular hypertrophy with sinus tachycardia
+From the private collections of Syed W. Yusuf, MBBS, MRCPI, and Daniel Lenihan, MD; used with
+permission
+Figure 2: Chest x-ray of acute pulmonary edema showing increased alveolar markings, fluid in the horizontal
+fissure, and blunting of the costophrenic angles
+From the private collections of Syed W. Yusuf, MBBS, MRCPI, and Daniel Lenihan, MD; used with
+permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+71
+=== Page 72 ===
+Acute heart failure Images
+IMAGES
+Figure 3: Chest x-ray of acute pulmonary edema showing increased alveolar markings and bilateral pleural
+effusions
+From the private collections of Syed W. Yusuf, MBBS, MRCPI, and Daniel Lenihan, MD; used with
+permission
+72 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 73 ===
+Acute heart failure Images
+Figure 4: Systolic image of dilated left ventricle (arrow); note there is no change from diastolic image
+From the private collections of Syed W. Yusuf, MBBS, MRCPI, and Daniel Lenihan, MD; used with
+permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+73
+=== Page 74 ===
+Acute heart failure Images
+IMAGES
+Figure 5: Diastolic image of dilated left ventricle (arrow)
+From the private collections of Syed W. Yusuf, MBBS, MRCPI, and Daniel Lenihan, MD; used with
+permission
+74 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 75 ===
+Acute heart failure Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Figure 1 – BMJ Best Practice Numeral Style
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 27, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+75
+=== Page 76 ===
+Contributors:
+// Expert Advisers:
+Syed Wamique Yusuf, MBBS, FACC, FRCPI
+Professor of Medicine
+Department of Cardiology, University of Texas, MD Anderson Cancer Center, Houston, TX
+DISCLOSURES: SWY declares that he was a co-director of the American College of Cardiology (ACC)
+Cardiovascular Board Review Course during which he had also delivered lectures.
+// Peer Reviewers:
+Amal Mattu, MD
+Professor of Medicine
+Department of Emergency Medicine, University of Maryland School of Medicine, Baltimore, MD
+DISCLOSURES: AM declares that he has no competing interests.
+David Whellan, MD
+Assistant Professor of Medicine
+Jefferson Medical College, Philadelphia, PA
+DISCLOSURES: DW declares that he has no competing interests.
+Katherine C. Wu, MD
+Assistant Professor of Medicine
+Johns Hopkins University School of Medicine, Baltimore, MD
+DISCLOSURES: KCW declares that she has no competing interests.
+Sanjay Sharma, BSc (Hons), FRCP (UK), MD
+Consultant Cardiologist
+King's College Hospital London, London, UK
+DISCLOSURES: SS declares that he has no competing interests.
+// Acknowledgements:
+Dr Syed Wamique Yusuf would like to gratefully acknowledge Dr Daniel Lenihan, a previous contributor to
+this topic.
+DISCLOSURES: DL declares that he has no competing interests.

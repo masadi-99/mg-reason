@@ -1,0 +1,1808 @@
+# Orthostatic hypotension
+
+=== Page 1 ===
+Orthostatic
+hypotension
+Straight to the point of care
+Last updated: Dec 13, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  5
+Case history  5
+Diagnosis  6
+Approach  6
+History and exam  8
+Risk factors  10
+Tests  12
+Differentials  17
+Criteria  18
+Screening  18
+Management  19
+Approach  19
+Treatment algorithm overview  21
+Treatment algorithm  22
+Emerging  26
+Primary prevention  26
+Secondary prevention  26
+Patient discussions  26
+Follow up  27
+Monitoring  27
+Complications  27
+Prognosis  28
+Guidelines  29
+Diagnostic guidelines  29
+Treatment guidelines  30
+Online resources  31
+References  32
+Disclaimer  40
+=== Page 3 ===
+Orthostatic hypotension Overview
+Summary
+Orthostatic hypotension (OH) is an independent predictor of mortality and the cause of significant morbidity
+associated with falls.
+A common problem in frail older people. OH-related hospitalizations increase markedly with age.
+Common causes include drugs (e.g., alpha-blockers, central sympatholytics, tricyclic antidepressants,
+phosphodiesterase-5 inhibitors, and antihypertensives, including beta-blockers), diseases causing peripheral
+neuropathy (e.g., diabetes mellitus and amyloidosis), and synucleinopathies (i.e., Parkinson disease,
+dementia with Lewy bodies, pure autonomic failure, and multiple system atrophy or Shy-Drager syndrome).
+Acute or subacute onset suggests an autoimmune or paraneoplastic disorder.
+OH is increasingly recognized as a common comorbidity of hypertension, both because of the
+pathophysiology of hypertension itself, and also because the measurement of OH is derived from the
+difference between two blood pressures (lying or sitting, and standing), the absolute value of which will be
+greater with a higher starting blood pressure.
+Treatment consists of addressing any underlying pathology, when possible, followed by discontinuing
+or reducing the dose of aggravating drugs, and introducing nonpharmacologic countermeasures
+(e.g., liberalization of salt intake, use of abdominal binders or compression stockings). Short-acting
+vasopressors, such as midodrine, or droxidopa (a norepinephrine prodrug) are adjunctive therapies when
+nonpharmacologic measures are insufficient. Volume expansion (using mineralocorticoid therapy) may be
+used after these therapies due to limited evidence for its use, and a number of undesirable adverse effects.
+Definition
+OH is defined as a fall in systolic blood pressure of at least 20 mmHg (at least 30 mmHg in patients with
+hypertension) and/or a fall in diastolic blood pressure of at least 10 mmHg within 3 minutes of standing.[1]
+When OH has an underlying neurogenic cause (e.g., peripheral neuropathy or synucleinopathies) it is
+associated with a blunted increase in heart rate, typically less than 15 bpm.[2]
+OH becomes clinically significant if it is accompanied by symptoms of cerebral hypoperfusion, which can
+lead to syncope and falls.[3] OH is associated with increased risk of dementia and cardiovascular disease,
+and is an independent risk factor for all-cause mortality.[4] [5] [6] This topic concentrates on OH caused by
+autonomic problems.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Orthostatic hypotension Theory
+THEORY
+Epidemiology
+The prevalence of OH is greater in older people, but varies widely depending on the underlying medical
+condition.
+Systematic reviews suggest OH prevalence of 19% to 22% in community-dwelling adults.[7] [8] US
+population-based studies reported OH in less than 5% of people ages ≤54 years, approximately 14% of
+those ages 65 to 69 years, and in 20% or more of those ages ≥80 years.[9] [10] [11] Prevalence increases
+considerably among older people in nursing homes (31% to 37%) or geriatric floors (68%).[7] [12] [13] [14]
+The high prevalence among institutionalized patients probably reflects the presence of multiple risk factors in
+this population, such as neurodegenerative diseases that cause OH, the use of medications that may impair
+a proper response to postural changes (e.g., antihypertensives, antidepressants), and physical inactivity
+leading to deconditioning.
+OH is an independent risk factor for mortality and cardiovascular comorbidities linked to increased hospital
+admissions. A number of studies have found that sufferers had a higher risk of developing heart failure,
+atrial fibrillation, coronary heart disease, myocardial infarction, and ischemic stroke. Therefore, it may be
+a significant yet under-recognized risk factor for cardiovascular disease-related morbidity and mortality,
+especially among older adults.[15]
+It is also associated with a number of noncardiovascular adverse outcomes, including falls, fractures,
+syncope, cognitive decline or dementia, depression, frailty, and early death. Whether OH is a causal factor
+in the development of these adverse outcomes is a focus of ongoing debate. It is thought that hypoperfusion
+of skeletal muscle, heart, and brain may cause progressive organ injury. However, emerging evidence also
+suggests a role for comorbid hypertension in the supine or seated positions as the primary driver of injury
+and adverse outcomes.[16] [17] It is equally possible that the combination of high and low blood pressure,
+that is, blood pressure variability, may drive clinical events.[15]
+Etiology
+Healthy aging is associated with decreased autonomic buffering capacity, which can impair adaptation
+to orthostatic stress. This predisposes older people to orthostatic hypotension (OH), which may be
+triggered by medications (e.g., alpha-blockers [used for treating conditions such as benign prostatic
+hypertrophy], central sympatholytics, including tizanidine [used as a muscle relaxant] and methyldopa [used
+as an antihypertensive], tricyclic antidepressants, phosphodiesterase-5 inhibitors [used to treat erectile
+dysfunction], and antihypertensives, including beta-blockers) or other circumstances (e.g., volume depletion,
+physical deconditioning due to prolonged bed rest).[18]
+Many diseases that cause peripheral neuropathy (most notably diabetes mellitus and amyloidosis) can
+produce autonomic neuropathy and neurogenic OH.[19] [20]
+Patients with Parkinson disease and dementia with Lewy bodies, two related conditions, frequently suffer
+neurogenic OH of varying severity. Other neurodegenerative disorders that affect the autonomic nervous
+system are less common but are associated with severe OH. These include pure autonomic failure (a Lewy
+body synucleinopathy in which mostly the peripheral autonomic nerves are involved, without a movement
+disorder phenotype) and multiple system atrophy (MSA, previously called Shy-Drager syndrome), which can
+have atypical parkinsonian features (MSA-P) or symptoms of cerebellar ataxia (MSA-C).[21]
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Orthostatic hypotension Theory
+An acute or subacute onset of progressive autonomic failure may be caused by an autoimmune autonomic
+ganglionopathy (often with antibodies against the ganglionic nicotinic acetylcholine receptor) or a
+paraneoplastic syndrome (most often small cell lung cancer, monoclonal gammopathies, or light-chain
+disease).[22]
+Pathophysiology
+When a healthy person stands, about 700 mL of blood pools in the leg veins and the lower abdominal
+veins. Venous return to the heart decreases, resulting in a transient decline in cardiac output. This leads
+to baroreflex-mediated sympathetic activation with an increase in cardiac stroke volume and peripheral
+vasoconstriction, as well as parasympathetic withdrawal with an increase in heart rate. These rapid
+hemodynamic changes prevent blood pressure from falling.
+Failure of these mechanisms causes OH. Cerebral blood flow normally remains constant throughout a
+wide range of blood pressures by autoregulation, but the mechanism is overwhelmed when systolic blood
+pressure is around 50 mmHg at brain level (about 70 mmHg at cardiac level when a person is standing),
+leading to lightheadedness and syncope.
+Case history
+Case history #1
+A 75-year-old man presents to the emergency department after a syncopal episode when he got
+up at night to urinate. He has recently been started on the alpha-blocker tamsulosin at bedtime
+after complaining of urinary frequency and a weak urinary stream, and physical exam had revealed
+an enlarged prostate. On questioning, he says that he has previously had occasional episodes of
+lightheadedness when standing for prolonged periods in church or when gardening on a hot day.
+Case history #2
+A 56-year-old obese woman with a 12-year history of diabetes mellitus that has not been well controlled
+presents with lightheadedness on standing, relieved by sitting down. She has not had syncopal spells,
+but these episodes of lightheadedness are worse after meals and are impairing her quality of life. She
+also admits to burning pain in her feet and lower legs that is more severe at night and associated with
+numbness and inappropriate pain and discomfort to touch (allodynia).
+Other presentations
+Other symptoms include dizziness, weakness, faintness, fatigue on exertion, and dimming of the vision
+(tunnel vision or visual blackouts). Symptoms do not occur while supine, generally get worse on standing,
+and are relieved by sitting or lying down. Aggravating factors can often be identified, and the symptoms
+are often worse early in the morning, in hot weather, after meals, after long periods of standing still, or
+when the arms are raised above heart level. However, some patients may have difficulty recognizing or
+describing symptoms of orthostatic hypotension and may present with recurrent unexplained falls.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Orthostatic hypotension Diagnosis
+DIAGNOSIS
+Approach
+Orthostatic hypotension (OH) is defined as a fall in systolic blood pressure of at least 20 mmHg (at least 30
+mmHg in patients with hypertension) and/or a fall in diastolic blood pressure of at least 10 mmHg within 3
+minutes of standing.[1]
+A fall in systolic blood pressure of at least 15 mmHg can be used when measuring orthostatic vitals from the
+seated, rather than supine, posture.[27]
+Measurement of blood pressure
+Diagnosis requires measurement of blood pressure in the supine and standing postures.[28] [29] It
+is advisable to take multiple blood pressure measurements.[30] There is evidence to suggest that
+measurements made at home by the patient may be more effective in detecting OH.[31] [32]
+Heart rate should be recorded at the same time as the blood pressure measurements, as the expected
+tachycardia in response to hypotension is blunted (typically less than 15 bpm increase in heart rate),
+when there is an underlying neurogenic cause (e.g., peripheral neuropathy).[2] 
+These measurements, however, are rarely carried out routinely, so a careful history is crucial to identify
+OH as the cause of the patient's symptoms.
+History
+Lightheadedness is the typical symptom of OH. Other symptoms include dizziness, weakness, faintness,
+fatigue on exertion and dimming of the vision (tunnel vision or visual blackouts).[30]
+Symptoms should not occur while supine, should get worse on standing, and should be relieved by sitting
+or lying down. Some patients may have difficulty recognizing or describing symptoms of OH and may
+present with recurrent or unexplained falls. Patients with dementia in particular may experience a gradual
+fading of consciousness or be unaware of losing consciousness.
+Aggravating factors can often be identified, and the symptoms are often worse:
+• Early in the morning (because of relative volume depletion after overnight fast and pressure
+diuresis)
+• In hot environments (because of cutaneous vasodilation)
+• After meals (because of splanchnic blood pooling)
+• After standing motionless (because of decreased venous return caused by loss of muscle pump
+action)
+• During or after exercise (because of metabolic vasodilation).
+Presence of neuropathy
+Frequently there is a history of small-fiber neuropathy affecting the lower extremities. Typical symptoms
+include pain, dysesthesias (burning, tingling), and decreased sensation. The most common cause is
+diabetes mellitus, but any systemic disease that can cause peripheral neuropathy or amyloidosis can also
+produce autonomic neuropathy.
+A history of an acute or subacute onset of progressive disabling OH can provide diagnostic clues. An
+acute pan-dysautonomia may follow a viral-like illness. Antibodies against acetylcholine nicotinic receptors
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Orthostatic hypotension Diagnosis
+that mediate neurotransmission at the level of the autonomic ganglia have been found in some of these
+patients.[22]
+Paraneoplastic autoimmune syndromes can also cause subacute OH. The most common causes are
+small cell lung cancer, monoclonal gammopathies, and light-chain disease.[22]
+Diagnosis of neurogenic orthostatic hypotension
+Measuring heart rate alongside blood pressure is crucial in determining if an autonomic neuropathy is
+present. OH caused by volume depletion is associated with orthostatic tachycardia. Lack of an adequate
+compensatory heart rate increase (>15 bpm) in the face of profound OH (>30 mmHg fall in systolic blood
+pressure) is characteristic of neurogenic OH, and few conditions other than autonomic failure can explain
+severe OH. A sensitive cut off for diagnosing neurogenic OH is a heart rate rise <0.5 bpm per mmHg
+systolic blood pressure fall.[2]
+In autonomic failure, the decrease in blood pressure is usually seen immediately upon standing and the
+heart rate fails to increase appropriately. This situation is in contrast to that seen in neurally mediated (i.e.,
+vasovagal) syncope, in which the initial response to standing is normal, but after a variable period the
+patient experiences a sudden onset of hypotension together with a decrease in heart rate.
+Other signs of autonomic neuropathy include erectile dysfunction (an early but nonspecific sign),
+worsening of constipation, urinary retention, gastroparesis, and decreased sweating (in some cases with
+compensatory focal hyperhidrosis). Patients with autonomic failure will often have REM sleep behavior
+disorder, which suggests the presence of an underlying neurodegenerative process also involving the
+central nervous system. Not infrequently, these patients develop Parkinson disease, dementia with Lewy
+bodies, or multiple system atrophy.[2] [33] [34]
+Physical exam
+Vagal modulation of heart rate is often impaired, and translates into a fixed heart rate that does not
+fluctuate during deep breathing (sinus arrhythmia). Parkinsonian features may be present in patients with
+multiple system atrophy (MSA, or Shy-Drager syndrome), although the typical parkinsonian pill-rolling
+tremor is usually absent. Gait abnormalities and truncal ataxia are present in patients with MSA of the
+cerebellar type. Subtle impairment of motor function (reduced frequency of blinking, slow/clumsy rapid
+alternating movements) may indicate the early stages of Parkinson disease, dementia with Lewy bodies,
+or multiple system atrophy. Symmetric distal sensory loss occurs in patients with diabetic neuropathy or
+other forms of peripheral neuropathy.
+Investigations
+Tilt-table testing is of limited additional value if careful orthostatic vital signs are measured, but it can
+aid in the diagnosis of neurally mediated (vasovagal) syncope.[35] In OH, the fall in blood pressure
+occurs immediately upon head-up tilt and is usually progressive, whereas in neurally mediated syncope
+blood pressure is initially maintained and, after a variable period, blood pressure falls abruptly, often in
+association with a drop in heart rate.
+Autonomic function tests are useful to confirm the presence of autonomic failure and to assess its
+severity.[36] These tests include deep breathing, Valsalva maneuver, measures of heart rate variability,
+and 24-hour blood pressure monitoring.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Orthostatic hypotension Diagnosis
+DIAGNOSIS
+The use of 24-hour blood pressure monitoring can be useful to find out if supine hypertension is present
+at night (which can occur in up to 50% of patients with autonomic failure). It can also be used to detect
+early morning and postprandial hypotension if patients are asked to keep a careful diary of activities.
+If autonomic dysfunction is suspected, plasma norepinephrine levels may be helpful in determining the
+underlying cause of autonomic dysfunction. In healthy people, plasma norepinephrine levels double on
+the assumption of the upright posture. In contrast, this response is absent in patients with sympathetic
+failure (both pre- and postganglionic). Patients with autonomic disorders that affect postganglionic
+sympathetic nerves, such as pure autonomic failure, Parkinson disease, and diabetic neuropathy,
+frequently have low plasma norepinephrine levels in the supine position.[37] Patients with autonomic
+disorders that selectively affect preganglionic sympathetic neurons (e.g., multiple system atrophy)
+typically have normal plasma norepinephrine levels in the supine position.[37]
+Nerve conduction studies and electromyogram can be useful for confirming the cause of OH in patients
+with peripheral neuropathy related to diabetes mellitus and other causes, although results can be normal
+in small-fiber neuropathies. Small-fiber neuropathy can be tested for by quantitative sudomotor axon reflex
+testing.
+An antibody panel that includes the nicotinic acetylcholine receptor antibody is needed if an autoimmune
+process is suspected.[22]
+Chest computed tomography should be performed if a paraneoplastic syndrome is suspected, often
+because of unintended weight loss accompanying the OH, in order to detect the primary node (which is
+often small) and enlarged mediastinal lymph nodes. The presence of paraneoplastic antibodies (anti-Hu,
+anti-Yo, anti-Ri, antiamphiphysin, anti-CV2, anti-Ma2) should be investigated.
+Serum and urine electrophoresis can be performed to rule out a monoclonal gammopathy and light-chain
+disease.
+Fat aspirate may be needed if amyloidosis is suspected.
+Genetic testing for transthyretin familial amyloid polyneuropathy is available.
+History and exam
+Key diagnostic factors
+older adult age (common)
+• Aging is associated with an increase in resting sympathetic tone, a decrease in parasympathetic
+tone, and impairment of baroreflex sensitivity (i.e., the compensatory increase in heart rate as blood
+pressure falls).[7]
+use of high-risk medications (common)
+• Medications such as alpha-blockers (including tamsulosin, used for treating conditions such as
+benign prostatic hypertrophy), central sympatholytics (including tizanidine, used as a muscle relaxant,
+and methyldopa), tricyclic antidepressants, phosphodiesterase-5 inhibitors (used to treat erectile
+dysfunction), and some antihypertensive agents (including beta-blockers) increase the likelihood of
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Orthostatic hypotension Diagnosis
+orthostatic hypotension.[15] [18] Older patients taking diuretics who become volume depleted are also
+at risk.
+underlying medical condition (common)
+• Conditions that affect autonomic nerve function (e.g., diabetes mellitus, Parkinson disease, multiple
+system atrophy) are associated with orthostatic hypotension.
+postural lightheadedness, syncope, and other symptoms of cerebral
+hypoperfusion (common)
+• Symptoms of cerebral hypoperfusion are essential in the evaluation of orthostatic hypotension (OH).
+They occur in the upright posture and are the result of inadequate perfusion of the brain, and improve
+on sitting or lying down when gravity passively restores cerebral perfusion. Syncope may result from
+cerebral hypoperfusion.
+• Additional symptoms of hypoperfusion include visual changes, weakness, fatigue, trouble
+concentrating, and pain across the neck and shoulders.
+• Increased ventilation and dyspnea also occur during OH, and can result in constriction of the cerebral
+blood vessels and worsening of cerebral hypoperfusion.
+Other diagnostic factors
+parkinsonian features (common)
+• Parkinsonian features (e.g., resting tremor, slowness, paucity of movement, decreased arm swing
+when walking) suggest a problem with motor pathways. In the early stages, these abnormalities can be
+mild. REM sleep behavior disorder (acting out dreams) and inability to discriminate smells (anosmia)
+can be other indicators of the early stages of Parkinson disease. The same disease process can also
+affect pathways that control the outflow of sympathetic nerves to the blood vessels. The prevalence
+of orthostatic hypotension in patients with multiple system atrophy and Parkinson disease is markedly
+increased.
+cerebellar ataxia (common)
+• Multiple system atrophy (MSA, or Shy-Drager syndrome) affects autonomic pathways and can result
+in orthostatic hypotension. Ataxia of gait and ataxia of speech (cerebellar dysarthria) are the most
+common clinical features of the cerebellar form of MSA. Limb ataxia may also occur, but it is less
+common.
+weight loss (common)
+• Unintentional weight loss can be a sign of cancer. In a patient with an acute- or subacute-onset
+orthostatic hypotension, unintentional weight loss may suggest a paraneoplastic syndrome in which
+the autoimmune process damages the autonomic nervous system.
+resting tachycardia or impaired heart rate variation (common)
+• May be a feature of diabetic loss of parasympathetic nerves innervating the heart. This results in an
+increase in resting heart rate and diminished heart rate variability during deep breathing.
+abnormal gastrointestinal motility (common)
+• Symptoms of abnormal gastrointestinal motility (e.g., nausea, postprandial vomiting, bloating, loss
+of appetite, early satiety, constipation, ileus, abdominal pain) are common in patients with autonomic
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Orthostatic hypotension Diagnosis
+DIAGNOSIS
+neuropathy. The incidence of constipation (<3 bowel movements/week) is increased in patients with
+Parkinson disease, and can precede the development of overt parkinsonian features by many years.
+erectile dysfunction and lack of ejaculation (common)
+• Erection requires vascular and autonomic integrity. Erectile dysfunction is common in older men and
+is almost universal in men with autonomic failure. It is often associated with lack of ejaculation. The
+two features together suggest an underlying autonomic abnormality affecting parasympathetic function
+(erection) and sympathetic function (ejaculation).
+anhidrosis, heat intolerance, dry skin, focal hyperhidrosis (common)
+• Autonomic failure is often associated with abnormalities in sweat function, and patients with autonomic
+failure frequently report diminished sweating (anhidrosis), limiting their tolerance of hot environments.
+This is in contrast to patients with vasovagal syncope, who will frequently describe a cold sweat before
+an impending faint.
+urinary frequency, urgency, nocturia (common)
+• Problems with bladder function are common in patients with autonomic failure and may be incorrectly
+attributed to benign prostatic hypertrophy in older men. Urinary frequency, urgency, and retention have
+been reported in patients with Parkinson disease. It is common in multiple system atrophy and, as
+the disease progresses, postvoid residual urinary volume increases and patients may require self-
+catheterization.
+• Nocturia is extremely common in patients with autonomic failure and occurs as a result of loss of
+circadian blood pressure rhythm. Instead of the normal night-time "dipping," blood pressure throughout
+the night while lying flat in bed is elevated in patients with autonomic failure. As a result, there is an
+increase in fluid and sodium loss overnight, causing nocturia. Excessive fluid loss overnight results in
+worsening of symptoms of orthostatic hypotension in the morning.
+Risk factors
+Strong
+older adult age
+• Aging is associated with an increase in resting sympathetic tone, a decrease in parasympathetic
+tone, and impairment of baroreflex sensitivity (i.e., the compensatory increase in heart rate as blood
+pressure falls).[7]
+• These physiologic changes predispose to orthostatic hypotension (OH), although overall, clinically
+significant symptomatic OH is relatively uncommon in healthy elderly people.[23]
+frailty and physical deconditioning
+• Prolonged bed rest and general frailty can make normal age-related reduction in baroreflex buffering
+clinically significant, leading to symptomatic OH. It can also cause skeletal and cardiac muscle
+atrophy, leading to reduced cardiac output.[23]
+use of drugs that impair sympathetic tone
+• Medications such as alpha-blockers (including tamsulosin, used for treating conditions such as
+benign prostatic hypertrophy), central sympatholytics (including tizanidine, used as a muscle relaxant,
+and methyldopa), tricyclic antidepressants, phosphodiesterase-5 inhibitors (used to treat erectile
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Orthostatic hypotension Diagnosis
+dysfunction), and some antihypertensive agents (including beta-blockers), increase the likelihood of
+OH.[15] [18]
+volume depletion/anemia
+• A major risk factor for orthostatic hypotension (OH), especially in older patients taking diuretics.
+Because blood pressure is dependent on intravascular volume, anemia may exacerbate OH by
+reducing red blood cell mass and blood viscosity.
+autonomic neuropathy (e.g., diabetes mellitus)
+• Any disease causing peripheral neuropathy can affect autonomic nerves. Many patients with diabetes
+have detectable autonomic abnormalities, but clinically significant orthostatic hypotension (OH) is more
+common in longstanding diabetes.[19] [20]
+• Toxins and antineoplastic agents can also produce autonomic neuropathy and therefore OH.
+Parkinson disease
+• Protein (alpha-synuclein) deposits can occur in peripheral autonomic nerves and autonomic ganglia,
+which can produce autonomic abnormalities, including clinically significant OH.[21]
+dementia with Lewy bodies
+• Protein (alpha-synuclein) deposits can occur in peripheral autonomic nerves and autonomic ganglia,
+which can produce autonomic abnormalities, including clinically significant OH.[21]
+multiple system atrophy
+• Protein (alpha-synuclein) deposits can occur in central autonomic pathways, which can produce
+autonomic abnormalities, including clinically significant OH.[21]
+hypertension
+• Strongly correlated with orthostatic hypotension for complex reasons, principally because of the
+reduced diastolic filling and arterial stiffness that is prevalent among hypertensive patients, as well as
+the exaggerated threshold effect for patients with high supine or seated baseline blood pressure.[15]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Orthostatic hypotension Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+posture test
+• The initial test to diagnose orthostatic hypotension (OH). Blood
+pressure should be measured supine or sitting, and after standing for
+3 minutes.[29] A fall in systolic blood pressure of at least 15 mmHg
+can be used when measuring orthostatic vitals from the seated,
+rather than supine, posture.[27]
+• It is advisable to take multiple BP measurements.[30] There is
+evidence to suggest that measurements made at home by the patient
+may be more effective in detecting OH.[31]
+• Heart rate should be recorded at the same time as the blood
+pressure measurements, as the expected tachycardia in response
+to hypotension is blunted (typically less than 15 bpm in heart rate)
+when there is an underlying neurogenic cause (e.g., peripheral
+neuropathy).[2] 
+• These measurements, however, are rarely done routinely, so a
+careful history is crucial to suspect OH as the cause of the patient's
+symptoms.
+• In patients who have OH caused by impaired autonomic
+cardiovascular reflexes, the increase in heart rate that accompanies
+the fall in blood pressure is typically diminished (<10 bpm). However,
+in some patients, particularly those with multiple system atrophy, the
+heart rate may increase as much as 20 bpm when the fall in blood
+pressure is profound. Thus, the ratio of heart rate increase to blood
+pressure fall is a more precise measure of baroreflex impairment.
+• A normal rise in heart rate accompanying the fall in blood pressure
+is typical of patients with depletion of intravascular volume (from
+dehydration or hemorrhage) or impaired vasoconstrictor tone (usually
+caused by drugs).
+systolic blood pressure
+falls >20 mmHg (>30
+mmHg in patients with
+hypertension) and
+diastolic blood pressure
+falls >10 mmHg within
+3 minutes of standing
+upright; a heart rate
+increase <0.5 bpm per
+mmHg systolic blood
+pressure fall indicates a
+neurogenic cause
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Orthostatic hypotension Diagnosis
+Other tests to consider
+Test Result
+tilt-table test
+• Can be useful when orthostatic hypotension (OH) is not detected
+during the posture test and the patient gives a history suggestive of
+OH.
+• Blood pressure and heart rate (by means of RR intervals on ECG)
+are measured continuously in the supine position and during passive
+head-up tilt (usually at 60°).
+• Upright tilt induces a progressive fall in blood pressure in patients
+with impaired autonomic cardiovascular reflexes. The increase
+in heart rate is either absent or abnormally low considering the
+magnitude of the blood pressure fall.
+• A fall in blood pressure on head-up tilt accompanied by a large rise
+(>25 bpm) in heart rate suggests dehydration or impaired vasomotor
+tone (e.g., varicose veins), frequently as a result of the use of
+antihypertensive drugs.
+• Maintenance of blood pressure on upright posture rules out chronic
+severe OH (i.e., autonomic failure). It does not, however, rule out
+the possibility of OH that occurs only with aggravating factors such
+as eating (postprandial hypotension) or exercise. If postprandial
+hypotension is suspected, the tilt-table test can be repeated after a
+carbohydrate-rich meal.
+• Delayed OH can occur, and requires prolonged tilt (of up to 40
+minutes).
+beat-to-beat recordings of
+blood pressure and heart
+rate reveal an immediate
+and progressive decline
+in blood pressure with a
+small increase in heart
+rate on head-up tilt
+plasma norepinephrine
+• Patients with autonomic disorders that affect postganglionic
+sympathetic nerves, such as pure autonomic failure and diabetic
+neuropathy, frequently have low plasma norepinephrine levels in the
+supine position.[37] In contrast, patients with autonomic disorders
+that selectively affect preganglionic sympathetic neurons (e.g.,
+multiple system atrophy) typically have normal plasma norepinephrine
+levels in the supine position.[37]
+• In normal people, plasma norepinephrine levels double on the
+assumption of the upright posture. In contrast, this response
+is absent in patients with sympathetic failure (both pre- and
+postganglionic).
+blunted increase in
+norepinephrine on
+standing; plasma
+norepinephrine levels
+<150 pg/mL usually
+indicate a severe
+peripheral neuropathy
+deep breathing
+• Heart rate variability during deep paced breathing (6 breaths/min)
+is performed as part of a battery of autonomic tests in patients with
+suspected dysautonomias.
+• Normally, during inspiration, heart rate increases (RR intervals
+shorten) and during expiration heart rate decreases (RR intervals
+lengthen). Diminished variation in RR intervals during inspiration and
+expiration indicates an abnormality in parasympathetic outflow to the
+heart. Heart rate variability diminishes with age and is decreased in
+patients with parasympathetic neuropathy (most frequently due to
+diabetes). The degree of heart rate variability impairment in diabetes
+correlates with morbidity and mortality.
+• This test cannot be interpreted in patients with pacemakers; the test
+can be difficult to interpret in patients with frequent arrhythmias.
+diminished beat-to-beat
+variation on ECG during
+inspiration and expiration
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Orthostatic hypotension Diagnosis
+DIAGNOSIS
+Test Result
+Valsalva maneuver
+• The Valsalva maneuver is a standard test performed in patients with
+suspected dysautonomia. It is performed by having the patient blow
+forcefully, maintaining a pressure of 40 mmHg for 15 seconds. The
+decrease in venous return and stroke volume lowers blood pressure
+during strain, and elicits sympathetic activation with partial restoration
+of blood pressure and compensatory tachycardia. Upon release,
+venous return and cardiac output is restored on a vasoconstricted
+vascular bed leading to a blood pressure overshoot and reflex
+bradycardia.
+• In normal subjects, the magnitude of the blood pressure and heart
+rate response during and after release of the strain decrease with
+age.
+• In patients with impaired autonomic cardiovascular reflexes, blood
+pressure falls progressively and markedly during forced expiration
+and the heart rate increases little. A failure of the blood pressure to
+increase (overshoot) after releasing the strain indicates sympathetic
+dysfunction, with an abnormality in the sympathetic outflow to the
+blood vessels. Blood pressure also takes longer to return to baseline
+levels after release of the strain.
+• The Valsalva maneuver requires continuous blood pressure
+monitoring, and a significant degree of patient cooperation and the
+ability to generate the strain pressure. If the patient is not able to
+perform the maneuver adequately, the result cannot be interpreted.
+failure of the blood
+pressure to recover during
+strain, and to overshoot
+after release
+nerve conduction studies and electromyogram (EMG)
+• Nerve conduction studies and EMG can be abnormal in diabetes
+mellitus and in other forms of peripheral neuropathy, but they can be
+normal in small-fiber neuropathies.
+reduction in sensory
+nerve conduction
+velocity; muscle
+denervation
+quantitative sudomotor axon reflex test (QSART)
+• QSART examines the integrity of peripheral sympathetic cholinergic
+function, which may be affected in patients with generalized
+autonomic failure, and absence of sweat production suggests a
+problem with peripheral autonomic nerves.
+absence or decrease of
+sweat production
+heart rate variability
+• Continuous ECG traces show a variation in RR intervals, reflecting
+changes in autonomic outflow to the sinoatrial node. Spectral analysis
+of RR variability in predefined high-frequency (HF) bands (0.15 Hz
+up to 0.40 Hz) and low-frequency (LF) bands (0.04 Hz up to 0.14 Hz)
+are complementary ways of measuring autonomic (sympathetic and
+parasympathetic) innervation to the sinoatrial node.
+• To standardize values, RR intervals should be measured for 500
+seconds during quiet supine rest. Ectopic beats need to be removed
+from the tracings.
+• Decreased heart rate variability at the predefined bands suggests
+impaired sympathetic or parasympathetic outflow.
+• The variability in heart rate decreases with age and reduced fitness
+levels. Heart rate variability is also reduced in patients with disorders
+that affect autonomic function (e.g., diabetes mellitus, Parkinson
+disease, multiple system atrophy). In patients with impaired
+autonomic reflexes, there is often a reduction in overall power in the
+HF and LF bands of heart rate variability.
+• Time domain measures of heart rate variability (including standard
+deviation, root mean squared standard deviation, and percentage of
+decreased heart rate
+variability
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Orthostatic hypotension Diagnosis
+Test Result
+sequential RR intervals that differ by 50 milliseconds or more) are
+also diminished.
+• These tests cannot be used as a standalone measure to diagnose
+autonomic dysfunction.
+24-hour blood pressure monitoring
+• Ambulatory blood pressure monitoring should be ordered in patients
+with a history suggesting symptomatic orthostatic hypotension
+(OH), particularly when OH is not detected during regular autonomic
+testing.
+• Ambulatory monitoring involves intermittent recordings of blood
+pressure (and heart rate) over 24 hours while the patient is awake
+and asleep. Patients should keep a diary in which they record
+symptoms, meal times, medications, posture, and sleep time.
+• Normally, there is a fall both in blood pressure and in heart rate at
+night during sleep. In patients with impaired autonomic reflexes
+this night-time "dipping" is often absent; 50% of patients have
+hypertension during the night. Ambulatory blood pressure monitoring
+can also identify episodes of hypotension not seen during office
+testing. Ambulatory monitoring is useful to detect episodes of
+hypotension that occur only after meals or after exercise.
+• Ambulatory recordings allow correlation between symptoms and
+blood pressure values and are a useful tool to guide the treatment.
+episodes of low blood
+pressure, either when
+standing or after eating;
+absence of the normal
+night-time "dipping" in
+blood pressure
+autoimmune antibodies
+• The presence of paraneoplastic antibodies (anti-Hu, anti-Yo, anti-
+Ri, antiamphiphysin, anti-CV2, anti-Ma2) suggests a paraneoplastic
+disorder.
+• In patients with acute or subacute onset of orthostatic hypotension
+(OH) who have risk factors for breast or lung cancer or have had
+sudden weight loss, the autoimmune antibody panel should be used
+to rule out a paraneoplastic syndrome.
+• Autoantibodies against the nicotinic ganglionic receptors occur in
+some patients and result in severe OH. These patients have an
+autoimmune autonomic ganglionopathy.
+• More than half of patients presenting with acute or subacute
+OH, accompanied by other autonomic abnormalities such as
+gastrointestinal dysfunction, are seronegative (i.e., no known
+pathogenic antibodies are detected).
+high antibody titers
+chest CT
+• In a patient with orthostatic hypotension found to have high
+autoimmune antibodies, chest CT can rule out small cell lung
+carcinoma as the underlying source of the paraneoplastic antibodies
+by visualizing small nodules that would be undetectable by x-ray, or
+enlarged lymph nodes.
+• If the chest CT is negative in such a patient, other cancer screens
+should be carried out (e.g., breast, ovary).
+• However, paraneoplastic syndromes can occur without a detectable
+tumor mass.
+tumor mass detected on
+chest CT as a source of
+paraneoplastic antibodies
+serum and urine electrophoresis
+• Gammopathies can be associated with autonomic neuropathies.
+• A normal serum electrophoresis does not rule out light-chain disease,
+and urine electrophoresis may be required.
+high levels of monoclonal
+proteins
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Orthostatic hypotension Diagnosis
+DIAGNOSIS
+Test Result
+fat-pad biopsy
+• Amyloid deposits can result in a polyneuropathy and orthostatic
+hypotension.
+amyloid deposits in fat
+genetic testing
+• Genetic testing may be used for suspected transthyretin familial
+amyloid polyneuropathy, which can cause autonomic dysfunction and
+orthostatic hypotension.
+• Genes can be tested by direct sequencing.
+positive
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Orthostatic hypotension Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Neurally mediated
+(vasovagal) syncope
+• Premonitory symptoms such
+as sweating and nausea/
+gastric discomfort are
+typical of neurally mediated
+(vasovagal) syncope, but
+do not occur in patients with
+chronic autonomic failure.
+• Symptoms of neurally
+mediated syncope are
+intermittent and frequently
+occur with specific triggers
+(e.g., blood drawing,
+prolonged standing,
+emotional upset). In between
+episodes, blood pressure
+responses are normal, and
+symptoms are not related to
+eating or physical exercise.
+• In the tilt-table test, the
+blood pressure is initially
+maintained until, after a
+variable period, it falls
+abruptly, often in association
+with a drop in heart rate,
+which can range from
+asystole to only a few
+milliseconds of slowing.
+In contrast, in orthostatic
+hypotension the fall in blood
+pressure occurs immediately
+upon head-up tilt, and is
+usually progressive.
+• The autonomic response
+to the Valsalva maneuver
+is normal; in contrast, in
+autonomic failure there
+is lack of blood pressure
+overshoot after release of
+the strain.
+• Norepinephrine levels
+increase appropriately on
+standing, but fail to continue
+increasing at the time of
+syncope.
+Vertigo • Vertigo is the result of
+vestibular or cerebellar
+pathology, but it may be
+confused with the dizziness
+or lightheadedness of
+orthostatic hypotension.
+• Neurologic exam
+reveals cerebellar
+ataxia or nystagmus.
+Vestibular testing with
+electronystagmography
+shows abnormal responses.
+Nonspecific falls in older
+people
+• Gait imbalance and falls are
+common in older people and
+may be the result of impaired
+postural reflexes, reduced
+visual acuity, or orthopedic
+problems, and may be
+confused with orthostatic
+hypotension. Nonspecific
+falls can be assessed by
+physical exam, including a
+full neurologic exam. When
+questioned, patients with
+basal ganglia dysfunction
+may describe the sensation
+of being inebriated when
+standing due to impairment
+in balance.
+• Neurologic exam showing
+gait imbalance or abnormal
+postural reflexes.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Orthostatic hypotension Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Psychogenic syncope
+(pseudo-syncope)
+• Periods of unresponsiveness
+due to psychiatric disorders
+can easily be confused
+with syncope. A psychiatric
+evaluation is required to
+determine the cause.
+• A high attack frequency
+and delayed recovery,
+atypical triggers, and lack of
+prodrome are more typical.
+• Unresponsiveness during
+a tilt-table test with a
+documented lack of
+hypotension or bradycardia
+is very suggestive of
+psychogenic syncope.
+Unresponsiveness without
+seizure activity or flattening
+of the electroencephalogram
+(EEG) during EEG
+monitoring is virtually
+diagnostic.
+Criteria
+Diagnostic criteria for orthostatic hypotension
+A fall in systolic blood pressure of at least 20 mmHg (at least 30 mmHg in patients with hypertension) and/or
+a fall in diastolic blood pressure of at least 10 mmHg within 3 minutes of standing.[1]
+Orthostatic hypotension can be symptomatic or asymptomatic. It becomes clinically significant if it is
+accompanied by symptoms of cerebral hypoperfusion, which can lead to syncope and falls.[3]
+Screening
+Older patients should be screened for orthostatic hypotension (OH) before they start medications that can
+worsen or induce OH and syncope.
+Patients with disorders known to affect the autonomic nervous system should have careful and frequent
+evaluation of their blood pressure both supine and standing. Diagnosing OH is important because it can be
+treated, and it is associated with numerous potential adverse outcomes if left untreated.
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Orthostatic hypotension Management
+Approach
+The goal of treatment is to improve symptoms and quality of life by increasing standing blood pressure
+to a level that does not cause symptoms of cerebral hypoperfusion, and to prevent falls and morbidities
+associated with orthostatic hypotension (OH). It is important to treat symptoms rather than blood pressure
+levels.[29] [39] OH can be effectively treated with a combination of pharmacologic and nonpharmacologic
+interventions.[42] [43] However, antihypotensive drugs frequently worsen supine hypertension, and most are
+recommended based upon expert opinion with limited evidence supporting their use.[40]
+Elimination of aggravating factors
+Medications that induce or aggravate OH (e.g., alpha-blockers, central sympatholytics such as tizanidine
+or methyldopa, tricyclic antidepressants, phosphodiesterase-5 inhibitors, beta-blockers) should be
+carefully reviewed and eliminated, if appropriate.[15] [18] [39] As "bladder-selective" alpha-blockers, such
+as tamsulosin, can aggravate OH in older men, this in turn may increase the risk of hip fracture.[44] [45]
+Orthostatic hypotension in hypertensive patients
+Hypertension is a risk factor for OH, and both conditions commonly coexist in older patients. Although
+certain antihypertensive agents can trigger or worsen OH, complete withdrawal of antihypertensives is
+not appropriate as this will lead to pressure diuresis and worsening of OH. One meta-analysis found that
+effective antihypertensive treatment is possible without worsening of OH.[46]
+Three particular patterns of hypertension are most closely associated with OH: white coat effect,
+nocturnal hypertension, or nondipping (absence of normal drop in blood pressure while asleep), and
+morning hypotension (thought to be caused by the transient effect of pressure diuresis driven by supine
+hypertension overnight).[15]
+For hypertensive patients with coexisting OH, it is important to individualize the approach, and
+first characterize the patterns, triggers and cause, as this will vary markedly between patients.
+Nonpharmacologic approaches are always first-line, as is optimization of nonantihypertensive drugs.[15]
+Judicious use of antihypertensives (e.g., ACE inhibitors, angiotensin-II receptor antagonists) and
+avoiding agents likely to cause OH (e.g., alpha-blockers, central sympatholytics, beta-blockers) is
+recommended.[15] [18]
+Pharmacologic treatment of OH for hypertensive patients is challenging because we are, by turns, trying
+to both lower and raise their blood pressure according to the relevant circumstance.
+Lifestyle changes
+Patients should first sit when going from a supine to a standing position. Straining during bowel
+movements or performing Valsalva-like maneuvers during isometric exercise may significantly reduce
+venous return to the heart and worsen OH, leading to syncope. Constipation should therefore be treated
+aggressively. Eating frequent, small meals is often effective in lessening postprandial blood pressure falls.
+Patients should be aware that hot environments lead to cutaneous vasodilation to dissipate heat and may
+worsen OH.
+Patients should liberalize their dietary salt intake or use sodium chloride tablets with each meal and drink
+at least 2 liters of water a day.[29] Tilting the head of the bed up during the night, by inserting blocks
+15-22 cm (6-9 inches) high under the headposts, reduces overnight sodium and water excretion by the
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Orthostatic hypotension Management
+MANAGEMENT
+kidney and lessens OH in the morning. Another effective strategy is to rapidly drink 500 mL (16 oz) of
+tap water, as a fluid bolus, in 3-4 minutes. This can be used as a rescue measure for patients who are
+symptomatic on standing, and takes effect within 5-10 minutes, peaking at 30 minutes. This is thought to
+be a sympathetic reflex induced by the hypotonicity of the water rather than a volume effect.[15]
+Physical measures
+The use of physical counter-maneuvers when upright, such as leg-crossing, standing on tiptoes, and
+muscle tensing, increases venous return to the heart and enhances orthostatic tolerance. Custom-made
+full-length elastic stockings can be useful in preventing pooling in the lower extremities but can be difficult
+to use. An abdominal binder may be as effective as a vasopressor, and can be tried first.[47] [48]
+More research is needed to define the efficacy of nonpharmacologic interventions in the management of
+OH.[49]
+Short-acting pressor agents
+Only two medications are approved for the treatment of OH: midodrine and droxidopa. Evidence for
+the use of fludrocortisone is weak, as it increases supine more than standing blood pressure, and it
+is contraindicated in the presence of heart failure - a common comorbidity in patients with OH.[15]
+ Droxidopa and fludrocortisone are discussed separately below.
+When nonpharmacologic measures are not sufficient to alleviate symptoms, short-acting pressor agents
+are used. These agents are certainly first-line for patients with hypertension or heart failure, and are now
+generally used first-line in all patients.[39] [50]
+Vasoconstrictor agents such as the selective alpha-1-adrenoreceptor agonist midodrine increase blood
+pressure and improve symptoms of OH.[39] Adverse effects of midodrine include pilomotor reactions,
+pruritus, supine hypertension, and urinary retention.[51]
+Pyridostigmine, an acetylcholinesterase inhibitor, is used in the treatment of OH.[52] It has modest
+pressor effects, and is often used in combination with midodrine. It is arguably, the safest drug to use
+for OH in hypertensive patients as it is engaged only during the sympathetic activation that occurs while
+upright to selectively increase upright blood pressure without worsening supine hypertension. However,
+overall evidence is limited, and it may not be effective in severely affected patients.[15]
+The norepinephrine-reuptake inhibitor atomoxetine can acutely improve upright blood pressure and
+ameliorate symptoms in some patients, but long-term efficacy has not been demonstrated.[53] [54]
+Pressor agents are best given on an as-required basis, within the prescribed daily frequencies, taken
+30-45 minutes before upright activity or meals (according to the precipitating factor for an individual
+patient), and their effect lasts for 2-3 hours.[39] They should be avoided before bed.
+Droxidopa
+Droxidopa is a prodrug that is converted to norepinephrine in the body (by the same enzyme that
+converts levodopa to dopamine).[55] It is an alternative option to short-acting pressor agents. Droxidropa
+increases blood pressure, with a peak effect about 3 hours after administration, and improves symptoms
+associated with OH. Droxidopa has been approved by the Food and Drug Administration (FDA) for the
+treatment of neurogenic OH, based upon randomized controlled trials (RCTs) demonstrating symptom
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Orthostatic hypotension Management
+improvement after 1 week of treatment.[56] [57] A post-marketing study to determine persistence of
+effects is ongoing.[58] It may not be available in countries outside the US.
+Mineralocorticoid therapy
+In nonhypertensive patients in whom nonpharmacologic measures do not achieve the desired result,
+consideration can be given to treatment with fludrocortisone (a synthetic mineralocorticoid).[39] When
+combined with a high salt intake, fludrocortisone raises blood pressure.[59] Evidence for fludrocortisone
+is, however, limited to RCTs (of people with diabetes or Parkinson disease) and observational studies.[60]
+ Potassium supplementation may be needed, because fludrocortisone increases renal potassium
+excretion. Fludrocortisone should be used with extreme caution as it results in hypertension when supine,
+promotes cardiac fibrosis, and may accelerate progression of renal deterioration.[61] It is generally
+contraindicated in patients with heart failure.
+Treatment of coexisting conditions
+Other agents that have been tested in specific conditions that coexist with OH are erythropoietin in
+anemia, desmopressin in nocturnal polyuria, and octreotide in postprandial OH, but evidence supportive
+of clinical benefit is weak.[50]
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+all patients
+1st eliminate aggravating factors and institute
+lifestyle changes
+adjunct short-acting pressor or droxidopa
+absence of hypertension
+or heart failure
+adjunct mineralocorticoid therapy
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Orthostatic hypotension Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+all patients
+1st eliminate aggravating factors and institute
+lifestyle changes
+» Medications that induce or aggravate
+orthostatic hypotension (OH; e.g., alpha-
+blockers, central sympatholytics such
+as tizanidine or methyldopa, tricyclic
+antidepressants, phosphodiesterase-5 inhibitors,
+beta-blockers) should be carefully reviewed
+and eliminated, if appropriate.[15] [18] [39] As
+"bladder-selective" alpha-blockers, such as
+tamsulosin, can aggravate OH in older men, this
+in turn may increase the risk of hip fracture.[44]
+[45]
+» Hypertension is a risk factor for OH, and both
+conditions commonly coexist in older patients.
+Although certain antihypertensive agents can
+trigger or worsen OH, complete withdrawal of
+antihypertensives is not appropriate as this
+will lead to pressure diuresis and worsening
+of OH. One meta-analysis found that effective
+antihypertensive treatment is possible
+without worsening of OH.[46] Judicious use
+of antihypertensives (e.g., ACE inhibitors,
+angiotensin-II receptor antagonists) and avoiding
+agents likely to cause OH (e.g., alpha-blockers,
+central sympatholytics, beta-blockers) is
+recommended. 
+» Patients should first sit when going from
+supine to standing. Straining during bowel
+movements or performing Valsalva-like
+maneuvers should be avoided. Eating frequent,
+small meals is often effective in lessening
+postprandial hypotension. Patients should be
+aware that hot environments may worsen OH.
+» Physical counter-maneuvers when upright,
+such as leg-crossing, standing on tiptoes, and
+muscle-tensing, enhance orthostatic tolerance.
+Custom-made, full-length elastic stockings can
+be useful in preventing pooling in the lower
+extremeties, but can be difficult to use. An
+abdominal binder may be as effective as a
+vasopressor, and can be tried first.[47] [48]
+» Patients should liberalize their dietary salt
+intake or use sodium chloride tablets with each
+meal and drink at least 2 liters of water a day.[29]
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Orthostatic hypotension Management
+Acute
+ Tilting the head of the bed up during the night,
+by inserting blocks 15-22 cm (6-9 inches) high
+under the headposts, reduces overnight sodium
+and water excretion by the kidney and lessens
+OH in the morning. Another effective strategy
+is to rapidly drink 500 mL (16 oz) of tap water,
+as a fluid bolus, in 3-4 minutes. This can be
+used as a rescue measure for patients who
+are symptomatic on standing, and takes effect
+within 5-10 minutes, peaking at 30 minutes. This
+is thought to be a sympathetic reflex induced
+by the hypotonicity of the water rather than a
+volume effect.[15]
+adjunct short-acting pressor or droxidopa
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» midodrine: 10 mg orally three times daily
+OR
+» droxidopa: 100-600 mg orally three times
+daily
+Secondary options
+» pyridostigmine: consult specialist for
+guidance on dose
+OR
+» atomoxetine: consult specialist for guidance
+on dose
+» When nonpharmacologic measures are not
+sufficient to alleviate symptoms, a short-acting
+pressor or droxidopa can be used.[39] [52] [53]
+[55] Only two medications are approved for
+the treatment of orthostatic hypotension (OH):
+midodrine and droxidopa.
+» Vasoconstrictor agents, such as the selective
+alpha-1-adrenoreceptor agonist midodrine,
+increase blood pressure and improve symptoms
+of OH.[39] Adverse effects of midodrine
+include pilomotor reactions, pruritus, supine
+hypertension, and urinary retention.[51]
+» Droxidopa, a norepinephrine prodrug, is
+converted to norepinephrine in the body by
+the same enzyme that converts levodopa to
+dopamine.[55] It increases blood pressure, with
+a peak effect about 3 hours after administration,
+and improves symptoms associated with
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Orthostatic hypotension Management
+MANAGEMENT
+Acute
+OH. It has been approved for the treatment
+of neurogenic OH, based upon randomized
+controlled trials demonstrating symptom
+improvement after 1 week of treatment.[56] [57]
+ A post-marketing study to determine persistence
+of effects is ongoing.[58] Droxidopa should be
+taken upon arising in the morning, at midday,
+and late afternoon at least 3 hours prior to
+bedtime to reduce the potential for supine
+hypertension. However, many patients can
+miss out the late afternoon dose. It may not be
+available in countries outside the US.
+» Pyridostigmine, an acetylcholinesterase
+inhibitor, has modest pressor effects but can
+help some patients with mild-to-moderate OH. It
+is often used in combination with midodrine.[52]
+» The norepinephrine-reuptake inhibitor
+atomoxetine can acutely improve upright blood
+pressure and ameliorate symptoms in some
+patients, but long-term efficacy has not been
+demonstrated.[53] [54]
+» Pressor agents are best given on an as-
+required basis, within the prescribed daily
+frequencies, taken 30-45 minutes before upright
+activity or meals (according to the precipitating
+factor for an individual patient), and their effect
+lasts for 2-3 hours.[39] They should be avoided
+before bed.
+absence of hypertension
+or heart failure
+adjunct mineralocorticoid therapy
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» fludrocortisone: 0.1 to 0.2 mg orally once
+daily
+» In nonhypertensive patients in whom
+nonpharmacologic measures do not achieve
+the desired result, consideration can be
+given to treatment with fludrocortisone (a
+synthetic mineralocorticoid).[39] It is generally
+contraindicated in patients with heart failure - a
+common comorbidity of patients with orthostatic
+hypotension (OH).
+» When combined with a high salt intake,
+fludrocortisone raises blood pressure.[59]
+ Evidence for fludrocortisone is, however,
+limited to small randomized controlled trials (of
+people with diabetes or Parkinson disease) and
+observational studies.[60] Dietary salt can be
+increased or sodium chloride tablets can be
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Orthostatic hypotension Management
+Acute
+taken. Water intake should be at least 2 liters
+each day.[29]
+» Potassium supplementation may be needed,
+because fludrocortisone increases renal
+potassium excretion. Fludrocortisone should
+be used with extreme caution as it results in
+hypertension when supine, promotes cardiac
+fibrosis, and may accelerate progression of renal
+deterioration.[61]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Orthostatic hypotension Management
+MANAGEMENT
+Emerging
+Atomoxetine plus pyridostigmine
+A combination of atomoxetine and pyridostigmine significantly increased seated blood pressure in a small,
+single-blind crossover study of patients with neurogenic orthostatic hypotension, who were unresponsive to
+either agent alone.[62] Further research is required.
+Primary prevention
+Medications that trigger orthostatic hypotension (OH) should be avoided in susceptible populations. Common
+medications known to trigger OH are alpha-blockers (used for treating conditions such as benign prostatic
+hypertrophy), central sympatholytics (e.g., tizanidine used as a muscle relaxant, and methyldopa to treat
+hypertension), tricyclic antidepressants, phosphodiesterase-5 inhibitors (used to treat conditions such as
+erectile dysfunction), and other antihypertensive agents, particularly beta-blockers.[15] [18] Levodopa and
+dopaminergic agonists have been associated with OH, but evidence is not consistent.[24] [25] [26]
+Dehydration and diets that are very low in sodium should also be avoided in susceptible populations.
+Tight glycemic control has been shown to delay progression of autonomic neuropathy in type 1 diabetes, but
+not in type 2 diabetes.
+Secondary prevention
+Patients with OH should be aware that their condition makes them more susceptible to syncope, thereby
+rendering them more vulnerable to falls. Educating patients about the effects of posture, medications,
+and hydration on blood pressure, and the need to use physical counter-maneuvers is important to prevent
+falls.[39]
+Patients should be told to avoid being supine during the day because of the increased incidence of supine
+hypertension in patients with OH caused by chronic autonomic failure. Patients should be instructed to sleep
+with the head of the bed elevated at 30° or as tolerated.
+Patient discussions
+Patients should be advised to:[64]  [Mayo clinic: orthostatic hypotension] (https://www.mayoclinic.org/
+diseases-conditions/orthostatic-hypotension/diagnosis-treatment/drc-20352553)   [American Autonomic
+Society] (https://thedysautonomiaproject.org/aas)
+• sit when going from a supine to a standing position, to lessen orthostatic stress
+• use a bedside commode, if needed (to avoid syncope at night among patients with frequent
+nocturia)
+• avoid performing Valsalva-like maneuvers during isometric exercise, and avoid straining (e.g.,
+during a bowel movement), to avoid reducing venous return to the heart and worsening orthostatic
+hypotension (OH)
+• eat small, frequent meals, to lessen postprandial falls in blood pressure
+• use physical counter-maneuvers when upright, such as leg-crossing, standing on tiptoes, and
+muscle tensing, to increase venous return to the heart and enhance orthostatic tolerance
+• stay well hydrated and avoid other aggravating factors that worsen OH.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Orthostatic hypotension Follow up
+Monitoring
+Monitoring
+Patients prescribed antihypotensive medication must be followed on a regular basis, typically every
+3 to 6 months. At follow-up visits, measurements of supine and standing blood pressures should be
+performed. In patients with supine hypertension, 24-hour ambulatory monitoring may be required to
+assess the severity of hypertension and the need for treatment. Yearly measurements of creatinine should
+be performed to monitor renal function and the potential development of renal failure.
+The possibility of infection (most frequently urinary tract infection), dehydration, or the addition of a
+medication should be excluded in patients with known OH who experience a sudden worsening of
+symptoms.
+Complications
+Complications Timeframe Likelihood
+falls short term high
+Falls in older people are a significant cause of morbidity and mortality. If orthostatic hypotension (OH) is
+severe enough to compromise blood supply to the brain, syncope and loss of postural tone can occur. In
+patients with OH, the likelihood of syncope is markedly increased, especially when there is a combination
+of aggravating factors (e.g., cutaneous vasodilation during hot weather, dehydration, prolonged standing).
+The most important measure for preventing OH-induced falls is patient education (i.e., avoiding triggers
+of OH, learning to recognize symptoms and to sit down immediately to avoid syncope, and using physical
+counter-maneuvers aimed at increasing venous return during orthostatic stresses).
+supine hypertension long term medium
+In 50% of patients with severe autonomic impairment, circadian blood pressure rhythms are lost and blood
+pressure is elevated at night. This causes end-organ damage.
+Periodic measurements of left ventricular thickness and serum creatinine levels are necessary to monitor
+the progression of end-organ damage in patients with supine hypertension.
+Patients should not lie down during the day. Sleeping with the head of the bed elevated reduces supine
+hypertension.
+Short-acting antihypertensive drugs taken at bedtime may be required.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Orthostatic hypotension Follow up
+FOLLOW UP
+Prognosis
+The goal of treatment is to improve symptoms and quality of life, and to prevent falls and morbidities
+associated with orthostatic hypotension (OH). It is important to treat symptoms rather than blood pressure
+levels.[29] [39]
+Neurodegenerative disorders with autonomic failure and a
+movement disorder
+OH in patients with neurodegenerative disorders that affect autonomic nerves and motor pathways (e.g.,
+Parkinson disease, multiple system atrophy) can be successfully treated with significant improvement in
+quality of life. However, the relentless progression of nonautonomic neurologic deficits is the main factor
+affecting prognosis.
+Pure autonomic failure
+Pure autonomic failure is a neurodegenerative disorder that does not affect motor pathways. The prognosis
+is usually benign if OH and other autonomic problems can be successfully treated. However, patients with
+pure autonomic failure have a 10% per year cumulative risk of developing Parkinson disease, dementia with
+Lewy bodies, or multiple system atrophy. This risk is increased in patients with REM sleep behavior
+disorder.[2] [34]
+Peripheral autonomic neuropathies
+OH can be successfully treated in most autonomic neuropathies, but the prognosis depends on the
+underlying disorder.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Orthostatic hypotension Guidelines
+Diagnostic guidelines
+International
+Guideline for the evaluation and management of patients with syncope
+(https://www.ahajournals.org/doi/10.1161/CIR.0000000000000499)   [38]
+Published by: American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines and the Heart
+Rhythm Society
+Last published: 2017
+The recommendations of a consensus panel for the screening, diagnosis,
+and treatment of neurogenic orthostatic hypotension and associated supine
+hypertension (https://link.springer.com/article/10.1007%2Fs00415-016-8375-x)  
+[28]
+Published by: American Autonomic Society and the National Parkinson
+Foundation
+Last published: 2017
+Evaluation and treatment of orthostatic hypotension (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC3769179)   [39]
+Published by: American Society of Hypertension Last published: 2013
+Consensus statement on the definition of neurogenic supine hypertension
+(https://www.ncbi.nlm.nih.gov/pubmed/29766366)   [40]
+Published by: American Autonomic Society; European Federation of
+Autonomic Societies; Endorsed by the European Academy of Neurology;
+and the European Society of Hypertension (ESH).
+Last published: 2018
+Consensus statement on the definition of orthostatic hypotension,
+neurally mediated syncope and the postural tachycardia syndrome (http://
+www.ncbi.nlm.nih.gov/pubmed/21431947)   [1]
+Published by: Consensus Committee of the American Autonomic
+Society; European Federation of Autonomic Societies; World Federation
+of Neurology; American Academy of Neurology
+Last published: 2011
+Guidelines on the diagnosis and management of syncope (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [41]
+Published by: European Society of Cardiology Last published: 2018
+EFNS guidelines on the diagnosis and management of orthostatic
+hypotension (https://www.ean.org/Reference-Center.2699.0.html)   [29]
+Published by: European Federation of Neurological Societies Last published: 2011
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Orthostatic hypotension Guidelines
+GUIDELINES
+Treatment guidelines
+International
+The recommendations of a consensus panel for the screening, diagnosis,
+and treatment of neurogenic orthostatic hypotension and associated supine
+hypertension (https://link.springer.com/article/10.1007%2Fs00415-016-8375-x)  
+[28]
+Published by: American Autonomic Society and the National Parkinson
+Foundation
+Last published: 2017
+Guideline for the evaluation and management of patients with syncope
+(https://www.acc.org/guidelines#doctype=Guidelines)   [38]
+Published by: American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines and the Heart
+Rhythm Society
+Last published: 2017
+Evaluation and treatment of orthostatic hypotension (https://
+onlinelibrary.wiley.com/doi/full/10.1111/jch.12062)   [39]
+Published by: American Society of Hypertension Last published: 2013
+Guidelines on the diagnosis and management of syncope (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [41]
+Published by: European Society of Cardiology Last published: 2018
+EFNS guidelines on the diagnosis and management of orthostatic
+hypotension (https://www.ean.org/research/ean-guidelines/guideline-
+reference-center)   [29]
+Published by: European Federation of Neurological Societies Last published: 2011
+Orthostatic hypotension due to autonomic dysfunction: midodrine (https://
+www.nice.org.uk/advice/esnm61/chapter/Key-points-from-the-evidence)   [63]
+Published by: National Institute for Health and Care Excellence (UK) Last published: 2015
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Orthostatic hypotension Online resources
+Online resources
+1. Mayo clinic: orthostatic hypotension (https://www.mayoclinic.org/diseases-conditions/orthostatic-
+hypotension/diagnosis-treatment/drc-20352553)  (external link)
+2. American Autonomic Society (https://thedysautonomiaproject.org/aas)  (external link)
+ONLINE RESOURCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Orthostatic hypotension References
+REFERENCES
+Key articles
+• Juraschek SP, Cortez MM, Flack JM, et al. Orthostatic hypotension in adults with hypertension: a
+scientific statement from the American Heart Association. Hypertension. 2024 Mar;81(3):e16-30. 
+Full text (https://www.ahajournals.org/doi/10.1161/HYP.0000000000000236)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38205630?tool=bestpractice.bmj.com)
+• Gibbons CH, Schmidt P, Biaggioni I, et al. The recommendations of a consensus panel for the
+screening, diagnosis, and treatment of neurogenic orthostatic hypotension and associated supine
+hypertension. J Neurol. 2017 Aug;264(8):1567-82.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC5533816)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28050656?tool=bestpractice.bmj.com)
+• Lahrmann H, Cortelli P, Hilz M, et al. EFNS guidelines on orthostatic hypotension. In: Gilhus NE,
+Barnes MP, Brainin M (eds). European Handbook of Neurological Management. Vol 1, 2nd ed. Oxford:
+Wiley-Blackwell; 2011.
+• Shibao C, Lipsitz LA, Biaggioni I; American Society of Hypertension Writing Group. Evaluation and
+treatment of orthostatic hypotension. J Am Soc Hypertens. 2013 Jul-Aug;7(4):317-24.  Full text
+(https://onlinelibrary.wiley.com/doi/10.1111/jch.12062/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23721882?tool=bestpractice.bmj.com)
+References
+1. Freeman R, Wieling W, Axelrod FB, et al. Consensus statement on the definition of orthostatic
+hypotension, neurally mediated syncope and the postural tachycardia syndrome. Clin Auton Res. 2011
+Apr;21(2):69-72. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21431947?tool=bestpractice.bmj.com)
+2. Norcliffe-Kaufmann L, Kaufmann H, Palma JA, et al. Orthostatic heart rate changes in patients
+with autonomic failure caused by neurodegenerative synucleinopathies. Ann Neurol. 2018
+Mar;83(3):522-31.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5867255)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29405350?tool=bestpractice.bmj.com)
+3. Mol A, Bui Hoang PTS, Sharmin S, et al. Orthostatic hypotension and falls in older adults: a systematic
+review and meta-analysis. J Am Med Dir Assoc. 2019 May;20(5):589-97.e5. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30583909?tool=bestpractice.bmj.com)
+4. Rawlings AM, Juraschek SP, Heiss G, et al. Association of orthostatic hypotension with incident
+dementia, stroke, and cognitive decline. Neurology. 2018 Aug 21;91(8):e759-68.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC6107267)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30045960?tool=bestpractice.bmj.com)
+5. Fagard RH, De Cort P. Orthostatic hypotension is a more robust predictor of cardiovascular
+events than nighttime reverse dipping in elderly. Hypertension. 2010 Jul;56(1):56-61. 
+Full text (https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.110.151654?
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Orthostatic hypotension References
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20458003?tool=bestpractice.bmj.com)
+6. Fedorowski A, Stavenow L, Hedblad B, et al. Orthostatic hypotension predicts all-cause mortality
+and coronary events in middle-aged individuals (The Malmo Preventive Project). Eur Heart J. 2010
+Jan;31(1):85-91.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800919)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19696189?tool=bestpractice.bmj.com)
+7. McDonagh STJ, Mejzner N, Clark CE. Prevalence of postural hypotension in primary, community and
+institutional care: a systematic review and meta-analysis. BMC Fam Pract. 2021 Jan 2;22(1):1.  Full
+text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7777418)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33388038?tool=bestpractice.bmj.com)
+8. Saedon NI, Pin Tan M, Frith J. The prevalence of orthostatic hypotension: a systematic review
+and meta-analysis. J Gerontol A Biol Sci Med Sci. 2020 Jan 1;75(1):117-22.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC6909901)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30169579?tool=bestpractice.bmj.com)
+9. Rutan GH, Hermanson B, Bild DE, et al. Orthostatic hypotension in older adults. The Cardiovascular
+Health Study. CHS Collaborative Research Group. Hypertension. 1992 Jun;19(6 pt 1):508-19. 
+Full text (https://www.ahajournals.org/doi/epdf/10.1161/01.HYP.19.6.508)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1592445?tool=bestpractice.bmj.com)
+10. Rose KM, Tyroler HA, Nardo CJ, et al. Orthostatic hypotension and the incidence of coronary heart
+disease: the Atherosclerosis Risk in Communities study. Am J Hypertens. 2000 Jun;13(6 pt 1):571-8. 
+Full text (https://academic.oup.com/ajh/article/13/6/571/186182?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10912737?tool=bestpractice.bmj.com)
+11. Benvenuto LJ, Krakoff LR. Morbidity and mortality of orthostatic hypotension: implications for
+management of cardiovascular disease. Am J Hypertens. 2011 Feb;24(2):135-44.  Full text (https://
+academic.oup.com/ajh/article/24/2/135/149597?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20814408?tool=bestpractice.bmj.com)
+12. Hartog LC, Cizmar-Sweelssen M, Knipscheer A, et al. The association between orthostatic
+hypotension, falling and successful rehabilitation in a nursing home population. Arch Gerontol
+Geriatr. 2015 Sep-Oct;61(2):190-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26026216?
+tool=bestpractice.bmj.com)
+13. Hartog LC, Cimzar-Sweelssen M, Knipscheer A, et al. Orthostatic hypotension does not predict
+recurrent falling in a nursing home population. Arch Gerontol Geriatr. 2017 Jan - Feb;68:39-43.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27616565?tool=bestpractice.bmj.com)
+14. Weiss A, Grossman E, Beloosesky Y, et al. Orthostatic hypotension in acute geriatric
+ward: is it a consistent finding? Arch Intern Med. 2002 Nov 11;162(20):2369-74.  Full text
+(https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/213832)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12418952?tool=bestpractice.bmj.com)
+15. Juraschek SP, Cortez MM, Flack JM, et al. Orthostatic hypotension in adults with hypertension: a
+scientific statement from the American Heart Association. Hypertension. 2024 Mar;81(3):e16-30. 
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Orthostatic hypotension References
+REFERENCES
+Full text (https://www.ahajournals.org/doi/10.1161/HYP.0000000000000236)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38205630?tool=bestpractice.bmj.com)
+16. Vagaonescu TD, Saadia D, Tuhrim S, et al. Hypertensive cardiovascular damage in patients
+with primary autonomic failure. Lancet. 2000 Feb 26;355(9205):725-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10703810?tool=bestpractice.bmj.com)
+17. Palma JA, Redel-Traub G, Porciuncula A, et al. The impact of supine hypertension on target
+organ damage and survival in patients with synucleinopathies and neurogenic orthostatic
+hypotension. Parkinsonism Relat Disord. 2020 Jun;75:97-104. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32516630?tool=bestpractice.bmj.com)
+18. Bhanu C, Nimmons D, Petersen I, et al. Drug-induced orthostatic hypotension: A systematic review
+and meta-analysis of randomised controlled trials. PLoS Med. 2021 Nov;18(11):e1003821.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8577726)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34752479?tool=bestpractice.bmj.com)
+19. Zhou Y, Ke SJ, Qiu XP, et al. Prevalence, risk factors, and prognosis of orthostatic hypotension
+in diabetic patients: A systematic review and meta-analysis. Medicine (Baltimore). 2017
+Sep;96(36):e8004.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6392609)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/28885363?tool=bestpractice.bmj.com)
+20. Olshansky B, Muldowney J. Cardiovascular safety considerations in the treatment of neurogenic
+orthostatic hypotension. Am J Cardiol. 2020 May 15;125(10):1582-93.  Full text (https://
+www.ajconline.org/article/S0002-9149(20)30102-8/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32204870?tool=bestpractice.bmj.com)
+21. Kaufmann H, Biaggioni I. Autonomic failure in neurodegenerative disorders. Semin
+Neurol. 2003 Dec;23(4):351-63. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15088256?
+tool=bestpractice.bmj.com)
+22. Vernino S, Low PA, Fealey RD, et al. Autoantibodies to ganglionic acetylcholine receptors in
+autoimmune autonomic neuropathies. N Engl J Med. 2000 Sep 21;343(12):847-55.  Full text
+(http://www.nejm.org/doi/full/10.1056/NEJM200009213431204#t=article)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10995864?tool=bestpractice.bmj.com)
+23. Dani M, Dirksen A, Taraborrelli P, et al. Orthostatic hypotension in older people: considerations,
+diagnosis and management. Clin Med (Lond). 2021 May;21(3):e275-82.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC8140709)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34001585?tool=bestpractice.bmj.com)
+24. Noack C, Schroeder C, Heusser K, et al. Cardiovascular effects of levodopa in Parkinson's
+disease. Parkinsonism Relat Disord. 2014 Aug;20(8):815-8.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC8140709)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24819390?
+tool=bestpractice.bmj.com)
+25. Nimmons D, Bhanu C, Orlu M, et al. Orthostatic hypotension and antiparkinsonian drugs: a systematic
+review and meta-analysis. J Geriatr Psychiatry Neurol. 2021 Dec 29;:8919887211060017.  Full text
+(https://journals.sagepub.com/doi/10.1177/08919887211060017?url_ver=Z39.88-2003&rfr_id=ori
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Orthostatic hypotension References
+%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34964392?tool=bestpractice.bmj.com)
+26. Jost WH, Altmann C, Fiesel T, et al. Influence of levodopa on orthostatic hypotension in Parkinson's
+Disease. Neurol Neurochir Pol. 2020;54(2):200-3.  Full text (https://journals.viamedica.pl/
+neurologia_neurochirurgia_polska/article/view/PJNNS.a2020.0019/50526)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32219811?tool=bestpractice.bmj.com)
+27. Shaw BH, Garland EM, Black BK, et al. Optimal diagnostic thresholds for diagnosis of orthostatic
+hypotension with a 'sit-to-stand test'. J Hypertens. 2017 May;35(5):1019-25.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC5542884)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28129252?tool=bestpractice.bmj.com)
+28. Gibbons CH, Schmidt P, Biaggioni I, et al. The recommendations of a consensus panel for the
+screening, diagnosis, and treatment of neurogenic orthostatic hypotension and associated supine
+hypertension. J Neurol. 2017 Aug;264(8):1567-82.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC5533816)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28050656?tool=bestpractice.bmj.com)
+29. Lahrmann H, Cortelli P, Hilz M, et al. EFNS guidelines on orthostatic hypotension. In: Gilhus NE,
+Barnes MP, Brainin M (eds). European Handbook of Neurological Management. Vol 1, 2nd ed. Oxford:
+Wiley-Blackwell; 2011.
+30. Gilani A, Juraschek SP, Belanger MJ, et al. Postural hypotension. BMJ. 2021 Apr 23;373:n922.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33893162?tool=bestpractice.bmj.com)
+31. Cremer A, Rousseau AL, Boulestreau R, et al. Screening for orthostatic hypotension using home blood
+pressure measurements. J Hypertens. 2019 May;37(5):923-27. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30418320?tool=bestpractice.bmj.com)
+32. Norcliffe-Kaufmann L, Kaufmann H. Is ambulatory blood pressure monitoring useful in patients
+with chronic autonomic failure? Clin Auton Res. 2014 Aug;24(4):189-92. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24710680?tool=bestpractice.bmj.com)
+33. Kaufmann H, Norcliffe-Kaufmann L, Palma JA, et al. Natural history of pure autonomic failure: a United
+States prospective cohort. Ann Neurol. 2017 Feb;81(2):287-97. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28093795?tool=bestpractice.bmj.com)
+34. Millar Vernetti P, Norcliffe-Kaufmann L, Palma JA, et al. Phenoconversion in pure autonomic failure:
+a multicentre prospective longitudinal cohort study. Brain. 2024 Jul 5;147(7):2440-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38366572?tool=bestpractice.bmj.com)
+35. Thijs RD, Brignole M, Falup-Pecurariu C, et al. Recommendations for tilt table testing and
+other provocative cardiovascular autonomic tests in conditions that may cause transient loss of
+consciousness : Consensus statement of the European Federation of Autonomic Societies (EFAS)
+endorsed by the American Autonomic Society (AAS) and the European Academy of Neurology
+(EAN). Auton Neurosci. 2021 Jul;233:102792.  Full text (https://www.autonomicneuroscience.com/
+article/S1566-0702(21)00022-9/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33752997?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Orthostatic hypotension References
+REFERENCES
+36. Cheshire WP, Freeman R, Gibbons CH, et al. Electrodiagnostic assessment of the autonomic nervous
+system: A consensus statement endorsed by the American Autonomic Society, American Academy
+of Neurology, and the International Federation of Clinical Neurophysiology. Clin Neurophysiol. 2021
+Feb;132(2):666-82.  Full text (https://www.sciencedirect.com/science/article/pii/S138824572030585X?
+via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33419664?tool=bestpractice.bmj.com)
+37. Mathias CJ. Autonomic diseases: clinical features and laboratory evaluation. J Neurol Neurosurg
+Psychiatry. 2003 Sep;74 Suppl 3:iii31-41.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC1765633/pdf/v074piii31.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12933912?
+tool=bestpractice.bmj.com)
+38. Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS Guideline for the evaluation and
+management of patients with syncope: a report of the American College of Cardiology/American
+Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+Circulation. 2017 Aug 1;136(5):e60-e122.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIR.0000000000000499?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28280231?
+tool=bestpractice.bmj.com)
+39. Shibao C, Lipsitz LA, Biaggioni I; American Society of Hypertension Writing Group. Evaluation and
+treatment of orthostatic hypotension. J Am Soc Hypertens. 2013 Jul-Aug;7(4):317-24.  Full text
+(https://onlinelibrary.wiley.com/doi/10.1111/jch.12062/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23721882?tool=bestpractice.bmj.com)
+40. Fanciulli A, Jordan J, Biaggioni I, et al. Consensus statement on the definition of neurogenic supine
+hypertension in cardiovascular autonomic failure by the American Autonomic Society (AAS) and
+the European Federation of Autonomic Societies (EFAS) : Endorsed by the European Academy
+of Neurology (EAN) and the European Society of Hypertension (ESH). Clin Auton Res. 2018
+Aug;28(4):355-62.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6097730)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29766366?tool=bestpractice.bmj.com)
+41. Brignole M, Moya A, de Lange FJ, et al. 2018 ESC Guidelines for the diagnosis and management of
+syncope. Eur Heart J. 2018 Jun 1;39(21):1883-948.  Full text (https://academic.oup.com/eurheartj/
+article/39/21/1883/4939241?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29562304?
+tool=bestpractice.bmj.com)
+42. Wahba A, Shibao CA, Muldowney JAS, et al. Management of orthostatic hypotension in the
+hospitalized patient: a narrative review. Am J Med. 2022 Jan;135(1):24-31.  Full text (https://
+www.amjmed.com/article/S0002-9343(21)00515-5/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34416163?tool=bestpractice.bmj.com)
+43. Park JW, Okamoto LE, Shibao CA, et al. Pharmacologic treatment of orthostatic hypotension. Auton
+Neurosci. 2020 Dec;229:102721.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7704612)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32979782?tool=bestpractice.bmj.com)
+44. Bird ST, Delaney JA, Brophy JM, et al. Tamsulosin treatment for benign prostatic hyperplasia and
+risk of severe hypotension in men aged 40-85 years in the United States: risk window analyses
+using between and within patient methodology. BMJ. 2013 Nov 5;347:f6320.  Full text (http://
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Orthostatic hypotension References
+www.bmj.com/content/347/bmj.f6320.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24192967?
+tool=bestpractice.bmj.com)
+45. Seo GH, Lee YK, Ha YC. Risk of hip fractures in men with alpha-blockers: a nationwide study
+base on claim registry. J Bone Metab. 2015 Feb;22(1):29-32.  Full text (http://e-jbm.org/DOIx.php?
+id=10.11005/jbm.2015.22.1.29)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25774362?
+tool=bestpractice.bmj.com)
+46. Juraschek SP, Hu JR, Cluett JL, et al. Effects of intensive blood pressure treatment on orthostatic
+hypotension: a systematic review and individual participant-based meta-analysis. Ann Intern Med.
+2021 Jan;174(1):58-68.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7855528)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/32909814?tool=bestpractice.bmj.com)
+47. Fanciulli A, Goebel G, Metzler B, et al. Elastic abdominal binders attenuate orthostatic hypotension
+in Parkinson's disease. Mov Disord Clin Pract. 2015 Nov 27;3(2):156-60.  Full text (http://
+onlinelibrary.wiley.com/doi/10.1002/mdc3.12270/full)
+48. Okamoto LE, Diedrich A, Baudenbacher FJ, et al. Efficacy of servo-controlled splanchnic venous
+compression in the treatment of orthostatic hypotension: a randomized comparison with midodrine.
+Hypertension. 2016 Aug;68(2):418-26.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC4945429)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27271310?tool=bestpractice.bmj.com)
+49. Logan A, Freeman J, Pooler J, et al. Effectiveness of non-pharmacological interventions to treat
+orthostatic hypotension in elderly people and people with a neurological condition: a systematic
+review. JBI Evid Synth. 2020 Dec;18(12):2556-2617.  Full text (https://journals.lww.com/jbisrir/
+Fulltext/2020/12000/Effectiveness_of_non_pharmacological_interventions.4.aspx)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32773495?tool=bestpractice.bmj.com)
+50. Magkas N, Tsioufis C, Thomopoulos C, et al. Orthostatic hypotension: from pathophysiology to clinical
+applications and therapeutic considerations. J Clin Hypertens (Greenwich). 2019 May;21(5):546-54. 
+Full text (https://onlinelibrary.wiley.com/doi/10.1111/jch.13521)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30900378?tool=bestpractice.bmj.com)
+51. Chen JJ, Han Y, Tang J, et al. Standing and supine blood pressure outcomes associated with
+droxidopa and midodrine in patients with neurogenic orthostatic hypotension: a Bayesian
+meta-analysis and mixed treatment comparison of randomized trials. Ann Pharmacother.
+2018 Dec;52(12):1182-94. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29972032?
+tool=bestpractice.bmj.com)
+52. Gales BJ, Gales MA. Pyridostigmine in the treatment of orthostatic intolerance. Ann
+Pharmacother. 2007 Feb;41(2):314-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17284509?
+tool=bestpractice.bmj.com)
+53. Shibao C, Raj SR, Gamboa A, et al. Norepinephrine transporter blockade with atomoxetine induces
+hypertension in patients with impaired autonomic function. Hypertension. 2007 Jul;50(1):47-53. 
+Full text (http://hyper.ahajournals.org/content/50/1/47.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17515448?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Orthostatic hypotension References
+REFERENCES
+54. Ramirez CE, Okamoto LE, Arnold AC, et al. Efficacy of atomoxetine versus midodrine for the treatment
+of orthostatic hypotension in autonomic failure. Hypertension. 2014 Dec;64(6):1235-40. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/25185131?tool=bestpractice.bmj.com)
+55. Kaufmann H, Saadia D, Voustianiouk A, et al. Norepinephrine precursor therapy in
+neurogenic orthostatic hypotension. Circulation. 2003 Aug 12;108(6):724-8.  Full text (http://
+circ.ahajournals.org/content/108/6/724.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12885750?
+tool=bestpractice.bmj.com)
+56. Kaufmann H, Freeman R, Biaggioni I, et al; NOH301 Investigators. Droxidopa for neurogenic
+orthostatic hypotension: a randomized, placebo-controlled, phase 3 trial. Neurology. 2014 Jul
+22;83(4):328-35.  Full text (http://www.neurology.org/content/83/4/328.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24944260?tool=bestpractice.bmj.com)
+57. Hauser RA, Isaacson S, Lisk JP, et al. Droxidopa for the short-term treatment of symptomatic
+neurogenic orthostatic hypotension in Parkinson's disease (nOH306B). Mov Disord. 2015 Apr
+15;30(5):646-54.  Full text (http://onlinelibrary.wiley.com/doi/10.1002/mds.26086/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25487613?tool=bestpractice.bmj.com)
+58. US National Library of Medicine. ClinicalTrials.gov. Sustained effect of droxidopa in symptomatic
+neurogenic orthostatic hypotension (RESTORE). Dec 2021 [internet publication].  Full text (https://
+clinicaltrials.gov/ct2/show/NCT02586623)
+59. Hickler RB, Thompson GR, Fox LM, et al. Successful treatment of orthostatic hypotension
+with 9-alpha-fluorohydrocortisone. N Engl J Med. 1959 Oct 15;261:788-91. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/14401690?tool=bestpractice.bmj.com)
+60. Veazie S, Peterson K, Ansari Y, et al. Fludrocortisone for orthostatic hypotension. Cochrane
+Database Syst Rev. 2021 May 17;(5):CD012868.  Full text (https://www.cochranelibrary.com/
+cdsr/doi/10.1002/14651858.CD012868.pub2/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34000076?tool=bestpractice.bmj.com)
+61. Young MJ, Rickard AJ. Mineralocorticoid receptors in the heart: lessons from cell-selective
+transgenic animals. J Endocrinol. 2015 Jan;224(1):R1-13.  Full text (http://joe.endocrinology-
+journals.org/content/224/1/R1.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25335936?
+tool=bestpractice.bmj.com)
+62. Okamoto LE, Shibao CA, Gamboa A, et al. Synergistic pressor effect of atomoxetine and
+pyridostigmine in patients with neurogenic orthostatic hypotension. Hypertension. 2019
+Jan;73(1):235-41.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6309809)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30571543?tool=bestpractice.bmj.com)
+63. National Institute for Health and Care Excellence. Orthostatic hypotension due to autonomic
+dysfunction: midodrine. NICE advice [ESNM61]. October 2015 [internet publication].  Full text (https://
+www.nice.org.uk/advice/esnm61/chapter/Key-points-from-the-evidence)
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Orthostatic hypotension References
+64. Figueroa JJ, Basford JR, Low PA. Preventing and treating orthostatic hypotension: As easy as A, B,
+C. Cleve Clin J Med. 2010 May;77(5):298-306.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC2888469)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20439562?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Orthostatic hypotension Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Orthostatic hypotension Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 13, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Contributors:
+// Authors:
+Italo Biaggioni, MD
+Professor of Medicine and Pharmacology
+Vanderbilt University, Nashville, TN
+DISCLOSURES: IB is a consultant for Theravance Biopharma, Amneal Pharmaceuticals, Regeneron
+Pharmaceuticals, Takeda Pharmaceuticals, and Neurawell Therapeutics for development of therapies for
+orthostatic hypotension and postural tachycardia syndrome. He is also a patent holder for an automated
+abdominal binder for the treatment of orthostatic hypotension and has submitted a patent application for the
+use of guanfacine for the treatment of postural tachycardia and chronic fatigue syndromes.
+Lucy Norcliffe-Kaufmann, PhD
+Assistant Professor
+Dysautonomia Center, Department of Physiology and Neuroscience, NYU Langone Medical Center, New
+York, NY
+DISCLOSURES: LNK is a board member of the American Autonomic Society and has received grant
+support from Theravance Biopharma, PTC Therapeutics, National Institutes of Health, Michael J. Fox
+Foundation, and the Familial Dysautonomia Foundation. LNK is an author of a number of references cited in
+this topic.
+Horacio Kaufmann, MD
+Professor of Neurology
+Medicine and Pediatrics, New York University School of Medicine, New York, NY
+DISCLOSURES: HK is editor in chief of Clinical Autonomic Research and serves as principal investigator of
+a clinical trial sponsored by Biogen MA Inc. HK has received consultancy fees from Lilly USA LLC, Biohaven
+Pharmaceuticals Inc, Takeda Pharmaceutical Company Ltd, Ono Pharma UK Ltd, Lundbeck LLC, and
+Theravance Biopharma US Inc. HK is an author of a number of references cited in this topic.
+// Peer Reviewers:
+Phillip A. Low, MD
+Robert D. and Patricia E. Kern Professor of Neurology
+Mayo Clinic College of Medicine, Rochester, MN
+DISCLOSURES: PAL is an author of a reference cited in this topic.
+William P. Cheshire, MD
+Professor of Neurology
+Mayo Clinic, Jacksonville, FL
+DISCLOSURES: WPC declares that he has no competing interests.
+Alan Moore, MB, FRCPI
+Consultant Geriatrician
+Beaumont Hospital, Dublin, Ireland
+DISCLOSURES: AM has received payment from Shire Pharmaceuticals, manufacturer of midodrine, for
+providing educational talks, and the department in which he works has received unrestricted educational
+grants from Shire Pharmaceuticals.

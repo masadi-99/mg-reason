@@ -1,0 +1,3146 @@
+# Myocarditis
+
+=== Page 1 ===
+Myocarditis
+Straight to the point of care
+Last updated: Jul 03, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  5
+Epidemiology  5
+Etiology  5
+Pathophysiology  7
+Classification  8
+Case history  10
+Diagnosis  11
+Approach  11
+History and exam  16
+Risk factors  18
+Tests  20
+Differentials  25
+Criteria  26
+Management  28
+Approach  28
+Treatment algorithm overview  32
+Treatment algorithm  34
+Emerging  52
+Primary prevention  52
+Secondary prevention  52
+Patient discussions  52
+Follow up  53
+Monitoring  53
+Complications  53
+Prognosis  54
+Guidelines  55
+Diagnostic guidelines  55
+Treatment guidelines  57
+Online resources  59
+References  60
+Images  72
+Disclaimer  76
+=== Page 3 ===
+Myocarditis Overview
+Summary
+Myocarditis describes a heterogeneous group of disorders characterized by myocardial inflammation in the
+absence of predominant acute or chronic ischemia.
+Can affect all age groups with an apparent slightly higher incidence in males than females and equal
+incidence in black people and white people.
+May present as fulminant, acute, or chronic myocarditis.
+Treatment is usually supportive care and conventional heart failure therapy. More severe presentations may
+need aggressive pharmacologic treatment with escalation to mechanical circulatory support. Occasionally,
+certain cases do not respond to conventional therapy and progress to heart transplantation or death.
+Prognosis is variable but is related to presentation and underlying etiology. Most cases of viral myocarditis
+are asymptomatic and spontaneously resolve. Patients who present with mild to moderate heart failure tend
+to improve or recover but may progress to chronic severe heart failure. Surprisingly, patients who present
+with fulminant, acutely decompensated heart failure almost universally recover back to baseline function, if
+death is prevented through management in the acute phase.
+Definition
+Myocarditis is clinically and pathologically defined as inflammation of the myocardium in the absence of the
+predominant acute or chronic ischemia characteristic of coronary artery disease. It is a clinical syndrome
+of nonischemic myocardial inflammation resulting from a heterogeneous group of infectious, immune, and
+nonimmune diseases. Histopathologically, it is characterized by an inflammatory cellular infiltrate with or
+without evidence of myocyte injury.[1]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Myocarditis Overview
+OVERVIEW
+Histologic findings in a patient with giant cell myocarditis. A: severe myocardial necrosis and fibrotic
+replacement of the cardiomyocytes with granulation tissue and fibrosis is present in a section from the
+anterolateral left ventricular wall; B: a sharp demarcating border between vital and necrotic myocardium
+is seen, confirmed by additional immunohistochemical staining for myoglobin; C: at the inflammatory
+border, cells consisting of prominent multinucleated giant cells, macrophages, lymphocytes, and
+eosinophilic granulocytes are seen in close proximity to vital myocardium; D: immunohistochemical
+staining for complement 4d is positive in all vessels, suggestive of complement cascade activation
+From: Rasmussen TB, Dalager S, Andersen NH, et al. BMJ Case Reports 2009; doi:10.1136/bcr.09.2008.0997
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Myocarditis Theory
+Epidemiology
+The extreme variability of clinical manifestations and frequently insidious onset of symptoms makes the
+true incidence and prevalence of myocarditis difficult to determine. Autopsy studies reveal myocarditis in
+1% to 9% of routine postmortem exams, and a prospective postmortem study of sudden cardiac death in
+young adults suggests myocarditis as the etiology in approximately 10% of cases.[19] [20] [21] Additionally,
+a large prospective trial of patients with dilated cardiomyopathy revealed myocarditis as the etiology in 9% of
+patients.[22]
+A Finnish study in children ages ≤15 years estimated the annual incidence of myocarditis to be approximately
+2 cases per 100,000 children.[23] In a retrospective US study of 212 children, 46% of myocarditis cases were
+in those ages 13-18 years, with a median age of 13.1 years.[24] A slightly greater number of cases were in
+males (58%) than in females (42%).[24] Female sex and younger age appeared to correlate with a worse
+clinical presentation and prognosis.[24]
+Etiology
+In the majority of patients with myocarditis, there is no identified cause and the case is classified as
+idiopathic or undefined cause. In those with an identified cause, common etiologies may be infectious or
+noninfectious.[4] [5][25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
+Infectious causes:
+• Viral
+• SARS-CoV-2
+• Influenza A and B
+• Adenovirus
+• Coxsackie B
+• Flaviviruses (e.g., dengue, yellow fever)
+• Hepatitis B and C
+• Mumps
+• Measles
+• Rubella
+• Human immunodeficiency virus-1
+• Echoviruses
+• Epstein-Barr virus
+• Cytomegalovirus
+• Parvovirus B-19
+• Human herpes virus- 6
+• Polioviruses
+• Rabies
+• Varicella-zoster
+• Herpes simplex
+• Vaccinia
+• Chikungunya
+• Respiratory syncytial virus
+• Bacterial
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Myocarditis Theory
+THEORY
+• Mycobacterial (tuberculosis)
+• Streptococcal species
+• Mycoplasma pneumoniae
+• Chlamydia  species
+• Corynebacterium diphtheriae
+• Staphylococcal species
+• Clostridium  species
+• Neisseria species
+• Spirochetal
+• Borrelia burgdorferi  (lyme disease)
+• Leptospira  (leptospirosis)
+• Treponema pallidum  (syphilis)
+• Mycotic
+• Aspergillus
+• Candida
+• Coccidioides
+• Cryptococcus
+• Histoplasma
+• Nocardia
+• Blastomyces
+• Protozoal and Helminthic
+• Trypanosoma cruzi  (Chagas disease)
+• Trypanosoma brucei  (African sleeping sickness)
+• Toxoplasma gondii  (toxoplasmosis)
+• Plasmodium falciparum  (malaria)
+• Taenia solium  (cysticercosis)
+• Schistosoma  (schistosomiasis)
+• Toxocara canis  (visceral larva migrans)
+• Rickettsial
+• Coxiella burnetii  (Q fever)
+• Rickettsia rickettsii  (Rocky Mountain spotted fever)
+Noninfectious causes:
+• Toxins/drug-related
+• Anthracyclines (e.g., doxorubicin, daunorubicin, epirubicin, idarubicin)
+• Fluoropyrimidines (e.g., fluorouracil, capecitabine)
+• Immunotherapies (e.g., ipilimumab, tremelimumab, nivolumab, pembrolizumab, cemiplimab,
+atezolizumab, avelumab, durvalumab, and trastuzumab)
+• Arsenic
+• Zidovudine
+• Carbon monoxide
+• Ethanol
+• Iron
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Myocarditis Theory
+• Interleukin-2
+• Cocaine
+• Amphetamine
+• Smallpox and mpox vaccine
+• SARS-CoV-2 (COVID-19) mRNA vaccines (may occur with other types of COVID-19 vaccines)
+• Catecholamines (e.g., epinephrine, norepinephrine, dopamine)
+• Cyclophosphamide
+• Heavy metals (copper, iron, lead)
+• Radiation
+• Hypersensitivity
+• Antibiotics (penicillins, cephalosporins, sulfonamides)
+• Amphotericin B
+• Thiazide diuretics
+• Anticonvulsants (carbamazepine, phenytoin, phenobarbital)
+• Digoxin
+• Lithium
+• Amitriptyline
+• Clozapine
+• Snake venom
+• Bee venom
+• Black widow spider venom
+• Scorpion venom
+• Wasp venom
+• Systemic disorders
+• Rheumatic heart disease
+• Autoimmune diseases (systemic lupus erythematosus, rheumatoid arthritis)
+• Inflammatory bowel disease (celiac disease, Crohn disease)
+• Giant cell myocarditis
+• Collagen vascular diseases
+• Sarcoidosis (idiopathic granulomatous myocarditis)
+• Thyrotoxicosis
+• Granulomatosis with polyangiitis (formerly known as Wegener granulomatosis)
+• Loeffler syndrome (hypereosinophilic syndrome with eosinophilic endomyocardial disease)
+• Graft-versus-host disease
+• Post-heart transplant rejection
+For more information on the association between SARS-CoV-2 infection, SARS-CoV-2 vaccination, and
+myocarditis, please see Coronavirus disease 2019 (COVID-19) .
+Pathophysiology
+The pathogenesis of myocarditis is not entirely clear. However, in viral-mediated myocarditis, animal models
+have implicated three significant mechanisms:[25] [36]
+• An infectious organism directly invades the myocardium
+• Local and systemic immunologic activation quickly ensues
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Myocarditis Theory
+THEORY
+• Cellular (CD4+) and humoral (B-cell clonal multiplication) activation occurs, causing worsening local
+inflammation, antiheart antibody production, and further myonecrosis.
+All three may occur in the same host. However, the predominant pathway may differ depending on the
+individual characteristics of the infectious species, the innate defenses of the host organism, and potentially
+genetic predilections. The “two-hit” hypothesis suggests that patients with genetic mutations may be
+predisposed to developing myocarditis upon exposure to certain factors, such as infectious agents. This
+theory is supported by clinical studies in both children and adults.[37] [38] [39] However, more studies are
+needed.
+The first phase of viral-mediated myocarditis is characterized by viremia in the host organism. During this
+time, the cardiotropic RNA virus enters the host myocyte via receptor-mediated endocytosis.[40] [41] Here,
+the viral RNA is translated into viral protein, and the viral genome is incorporated into the host-cell DNA
+as double-stranded RNA. This latter mechanism has been shown to cleave dystrophin, which is thought to
+directly cause myocyte dysfunction.
+During the second and third phases, macrophages, natural killer cells, and other inflammatory cells infiltrate
+the myocardium. Once in the myocardium, these cells express inflammatory cytokines including interleukin-1,
+interleukin-2, interferon-gamma, and tumor necrosis factor (TNF).[42] This results in increased cytokine
+production and causes endothelial cell activation resulting in further infiltration of inflammatory cells. TNF
+alone also acts as a negative inotrope.[43] In addition, autoantibodies directed against myocardial contractile
+and structural proteins are produced. This is thought to have cytopathic effects on energy metabolism,
+calcium homeostasis, and signal transduction, and also to cause complement activation resulting in the lysis
+of myocytes.[44]
+Other etiologies can trigger the inflammatory response via various pathways leading to myocardial
+inflammation, infiltration, and injury.
+Autopsy findings in a patient with myocarditis. The explanted heart (A and B) is enlarged and thinned with
+dilatation mainly of the right ventricle. The right atrium is moderately dilated and the left atrium is not enlarged (B)
+From: Rasmussen TB, Dalager S, Andersen NH, et al. BMJ Case Reports 2009; doi:10.1136/bcr.09.2008.0997
+Classification
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Myocarditis Theory
+Clinicopathologic classification[2]
+• Fulminant myocarditis: presentation with acute illness following a distinct viral syndrome. Histologic
+study reveals multiple foci of active myocarditis. Clinical presentation consists of severe cardiovascular
+compromise and ventricular dysfunction. This subgroup has an extremely high risk for severe disease,
+rapid deterioration, and sudden death. However, if supported well, including with mechanical support,
+there is a good chance of recovery.
+• Acute myocarditis: presentation with insidious onset of illness and evidence of established ventricular
+dysfunction. This subgroup may progress to dilated cardiomyopathy.
+• Chronic active myocarditis: presentation with insidious onset of illness with clinical and histologic
+relapses with development of left ventricular dysfunction and associated chronic recurrent
+inflammatory changes.
+• Chronic persistent myocarditis: presentation with insidious onset of illness characterized by a
+persistent histologic infiltrate frequently with foci of myocyte necrosis. Clinically, no ventricular
+dysfunction is present despite other cardiovascular symptoms (such as palpitations or chest pain).
+Important variants
+Lymphocytic (viral) myocarditis
+• The most common cause of myocarditis in the US, it is characterized by myocardial infiltrate with
+lymphocytes as the predominant inflammatory cell.[3] [4] [5] [6]
+Chagas heart disease
+• Although exceedingly rare in the US,  Trypanosoma cruzi  infection-associated myocarditis is the most
+common cause of heart failure in the world.[7]
+• Histopathologically characterized by a predominantly lymphocytic cellular myocardial infiltrate in the
+setting of a known history of  T cruzi  infection. Using specialized sensitive immunohistochemical
+techniques and polymerase chain reaction amplification methods, parasitic antigens can be found by
+endomyocardial biopsy.[8]
+Giant cell myocarditis
+• A rare and frequently fatal inflammatory disorder of cardiac muscle histologically characterized by:
+• Inflammatory infiltrate with the presence of multinucleated giant cells
+• Widespread degeneration and necrosis of myocardial fibers
+• Absence of granulomas (to distinguish from cardiac sarcoidosis).
+• Despite partial improvement to aggressive immunosuppressive therapy, the prognosis is poor but
+improves significantly with cardiac transplantation.[9] [10]
+Hypersensitivity myocarditis
+• A form of autoimmune myocardial inflammation that is often drug related and clinically presents with
+acute rash, fever, and peripheral eosinophilia.[11] Histologically, it is most often characterized by a
+myocardial interstitial infiltrate with prominent eosinophils but little myocyte necrosis.[12]
+Viral myocarditis with ventricular arrhythmia
+• Polymorphic ventricular arrhythmia without giant cell myocarditis at presentation can occur in viral
+myocarditis patients and may represent ongoing systemic infection, whereas monomorphic ventricular
+arrhythmia may suggest a chronic cardiomyopathic process with poor long-term outcomes.[13] [14]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Myocarditis Theory
+THEORY
+Case history
+Case history #1
+A 43-year-old man with no significant medical history presents with 3 days of progressive fatigue, dyspnea
+on exertion and while lying in the supine position, and lower extremity swelling. He reports having a flu-
+like illness consisting of fevers, myalgias, fatigue, and respiratory symptoms 2 weeks prior that resolved
+spontaneously. On examination the patient has an elevated jugular venous pressure, bilateral pulmonary
+rales, and a heart rate of 104 bpm with an audible left ventricular S3 gallop. He is mildly dyspneic at rest
+but becomes markedly dyspneic with minimal exertion.
+Case history #2
+A 4-year-old child with a 4-day history of abdominal pain, vomiting, and low-grade fever presents to the
+emergency room with lethargy. His parents report that prior to this illness, he was a completely healthy
+child with an excellent energy level. On exam, the patient has resting tachycardia of 130 bpm, has labored
+breathing, poor tone, poor capillary refill, and is very lethargic. He has S3 gallop and an early systolic
+murmur. Mild crackles throughout the lung fields are noted.
+Other presentations
+The clinical manifestation of myocarditis is highly variable and ranges from asymptomatic ECG
+abnormalities to cardiogenic shock.[5][15] When cardiac involvement manifests clinically, it typically
+occurs 7-10 days after a systemic illness. Chest pain occurs in 35% of patients and may be typical,
+atypical, or positional in nature.[4] [16] Occasionally, patients present with ischemic-sounding chest pain
+and ST-segment elevations on ECG that mimic acute coronary syndrome. Left ventricular dysfunction
+tends to be global instead of regional, and coronary angiography is normal.[17] Patients with myocarditis
+may present with sudden cardiac death, usually due to ventricular arrhythmias; myocarditis has been
+identified in up to 6% of young athletes with sudden cardiac death in the US.[18] 
+It is important to remember that in children, myocarditis will often mimic common childhood illnesses with
+symptoms such as abdominal pain, vomiting, fever, cough, and poor appetite. Respiratory symptoms
+are often late in their presentation. Children may also present with decreased activity level as the only
+persistent finding after a bout of viral prodrome. Thus, having a high index of suspicion is key in pediatric
+myocarditis.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Myocarditis Diagnosis
+Approach
+The gold standard for establishing the diagnosis of myocarditis is the endomyocardial biopsy (EMB).
+However, this test has a yield of 10% to 20% and is not indicated for most patients with suspected
+myocarditis.[4] [55] Thus, the appropriate evaluation of patients with suspected myocarditis begins with a
+complete history and physical exam. If myocarditis is still suspected, then further workup with a 12-lead
+ECG, laboratory evaluation of cardiac biomarkers, and two-dimensional echo should be performed.[16]
+[21][56] There is no general consensus on which patients should undergo EMB; local guidelines should be
+consulted.[5] [55] [57] [58] [59] Contrast-enhanced cardiac magnetic resonance imaging (MRI) has been
+shown to assist in the diagnosis of myocarditis by providing detailed tissue characterization.[16] [21][56] [60]
+ Positron emission tomography-computed tomography (PET-CT), especially 18F-fluorodeoxyglucose (FDG)
+PET-CT, can also be of value.[21]
+The approach may be modified for children with suspected myocarditis. The 2021 American Heart
+Association (AHA) statement on pediatric myocarditis lays out a new paradigm for myocarditis based on
+diagnostic strata and also provides guidance on approach.[15] The AHA statement classifies myocarditis as
+1) biopsy proven, 2) cardiac MRI confirmed, 3) clinically suspected, and 4) possible myocarditis.[15] Thus,
+when possible and safe, EMB continues to be the reference standard for diagnosis of confirmed myocarditis
+in children. In the absence of biopsy, clinical diagnosis with or without MRI will provide necessary information
+for the diagnosis.[15]
+History
+Patients presenting with myocarditis are usually under the age of 50 years. A history of viral prodrome 2-3
+weeks prior to the onset of myocarditis is commonly present. Symptoms may include chest pain, dyspnea,
+orthopnea, syncope, fatigue, and palpitations.[16]
+In children, a viral prodrome will be the most common history, followed by history suggestive of
+arrhythmias or syncope.[15] The common symptoms include fever, fatigue, respiratory symptoms,
+abdominal pain, emesis, and lethargy.[15]
+The patient's medical history may be significant for autoimmune disease such as collagen-vascular
+diseases as well as inflammatory bowel disease, diabetes mellitus, sarcoidosis, thyrotoxicosis,
+granulomatosis with polyangiitis (formerly known as Wegener granulomatosis), or Loeffler syndrome. In
+addition, a history of travel to endemic areas where causative organisms are found may suggest a specific
+infectious etiology.
+A thorough medication history along with other possible exposures to toxic substances or cocaine should
+be obtained to exclude any drug or toxic etiologies. These include anthracyclines (e.g., doxorubicin,
+daunorubicin, epirubicin, idarubicin), fluoropyrimidines (e.g., fluorouracil, capecitabine), immunotherapies
+(e.g., ipilimumab, tremelimumab, nivolumab, pembrolizumab, cemiplimab, atezolizumab, avelumab,
+durvalumab, and trastuzumab), arsenic, zidovudine, carbon monoxide, ethanol, iron, interleukin-2,
+cocaine, amphetamine, smallpox or mpox vaccine, SARS-CoV-2 (COVID-19) mRNA vaccine (may
+occur with other types of COVID-19 vaccines), catecholamines (e.g., epinephrine, norepinephrine,
+dopamine), cyclophosphamide, heavy metals (copper, iron, lead), radiation, antibiotics (penicillins,
+cephalosporins, sulfonamides), amphotericin B, thiazide diuretics, anticonvulsants (carbamazepine,
+phenytoin, phenobarbital), digoxin, lithium, amitriptyline, clozapine, snake venom, bee venom, black
+widow spider venom, scorpion venom, and wasp venom.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Myocarditis Diagnosis
+DIAGNOSIS
+Physical exam
+A thorough examination for both the cardiorespiratory findings and other general findings that may point
+to possible etiology should be performed. Findings can include rales, elevated neck veins, S3 gallop,
+S3 and S4 summation gallop, pericardial friction rub, peripheral hypoperfusion, sinus tachycardia, atrial
+and ventricular arrhythmias, hypotension, altered sensorium, hepatomegaly, and lymphadenopathy.
+Resting tachycardia is an especially important sign in adolescents where the symptoms can be masked
+significantly in both acute and chronic myocarditis.
+12-lead ECG
+A 12-lead ECG should be ordered immediately on presentation in anyone with chest pain or cardiac
+symptoms.[15] [16] In myocarditis it most commonly displays nonspecific ST-segment and T-wave
+abnormalities; however, ST-segment elevation and depression frequently occur. Children can present
+with atrial and ventricular arrhythmias and such a presentation can be a marker of poor outcomes.[61] A
+component of pericarditis is common in children and can be evident as nonspecific ST-segment changes
+in all of the precordial leads.
+Laboratory evaluation
+Cardiac biomarkers should be ordered immediately in any patient with suspected myocarditis. Creatine
+kinase and creatine kinase-MB levels are often mildly elevated. Troponin (I or T) levels have shown to be
+a more reliable indicator of myocardial damage, including in children.[15] [16]
+Serum B-type natriuretic peptide may be helpful in distinguishing primary cardiac from primary pulmonary
+etiologies of dyspnea when the physical exam and initial work-up is unclear or nonspecific. In myocarditis
+it is elevated in response to ventricular distention such as occurs in congestive heart failure.[57]
+Two-dimensional echocardiogram
+This should be ordered in every patient suspected of having myocarditis.[15] [16] [56] Myocarditis can
+cause global and regional left ventricular motion abnormalities, systolic and diastolic dysfunction, and
+dilatation.
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Myocarditis Diagnosis
+Apical 4-chamber transthoracic echocardiogram in a patient with myocarditis. The
+right ventricle is dilated with hypokinesis. Triscupid regurgitation is present with
+a reduced continuous wave Doppler gradient indicating right ventricular failure
+From: Rasmussen TB, Dalager S, Andersen NH, et al. BMJ Case Reports 2009; doi:10.1136/bcr.09.2008.0997
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Myocarditis Diagnosis
+DIAGNOSIS
+Apical 4-chamber echocardiogram in a patient presenting with myocarditis showing a slightly dilated left
+ventricle with spontaneous ultrasonic contrast indicating severely impaired left ventricular systolic function
+From: Rasmussen TB, Dalager S, Andersen NH, et al. BMJ Case Reports 2009; doi:10.1136/bcr.09.2008.0997
+ Special attention should be paid to evaluation for clots which can change therapies and risk profile.
+Development of intracardiac thrombosis can occur due to a prothrombotic, proinflammatory state as well
+as stagnant blood in the dysfunctional heart.[62]
+Endomyocardial biopsy (EMB)
+The potential risks and benefits of EMB should always be carefully assessed, particularly during the acute
+presentation, as the risk of arrhythmia or ventricular perforation is highest at this time. There is no general
+consensus on which patients should undergo EMB; recommendations vary and local guidelines should be
+consulted.[5] [55] [57] [58][59][63][64]
+A statement on dilated cardiomyopathies from the AHA recommends biopsy "in those patients with
+clinically suspected unexplained acute myocarditis who require inotropic support or mechanical circulatory
+support and those with Mobitz type 2 second-degree or higher heart block, sustained or symptomatic
+ventricular tachycardia, or failure to respond to guideline-based medical management within 1-2
+weeks".[55] The 2022 AHA/American College of Cardiology/Heart Failure Society of America (HFSA)
+heart failure (HF) guidelines state "Endomyocardial biopsy may be advantageous in patients with heart
+failure in which a histological diagnosis, such as myocarditis, may influence treatment decisions".[57]
+ A joint statement from Heart Failure Association of European Society of Cardiology (ESC), HFSA,
+and Japanese HF Society recommends EMB “in patients with fulminant/acute myocarditis presenting
+with cardiogenic shock or acute HF and left ventricular (LV) dysfunction, with or without malignant
+ventricular arrhythmias and/or conduction abnormalities”. They also recommend considering EMB in
+“hemodynamically stable patients with clinical symptoms and diagnostic criteria (electrocardiographic
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Myocarditis Diagnosis
+abnormalities, elevated troponin levels, and imaging findings) suggestive of myocarditis, in the absence of
+significant coronary artery disease".[59]
+Histologic findings in a patient with giant cell myocarditis. A: severe myocardial necrosis and fibrotic
+replacement of the cardiomyocytes with granulation tissue and fibrosis is present in a section from the
+anterolateral left ventricular wall; B: a sharp demarcating border between vital and necrotic myocardium
+is seen, confirmed by additional immunohistochemical staining for myoglobin; C: at the inflammatory
+border, cells consisting of prominent multinucleated giant cells, macrophages, lymphocytes, and
+eosinophilic granulocytes are seen in close proximity to vital myocardium; D: immunohistochemical
+staining for complement 4d is positive in all vessels, suggestive of complement cascade activation
+From: Rasmussen TB, Dalager S, Andersen NH, et al. BMJ Case Reports 2009; doi:10.1136/bcr.09.2008.0997
+In children, AHA guidelines continue to mark biopsies as the reference test for myocarditis diagnosis.[15]
+It is important to note that with immunohistochemistry, the ability to assess for inflammatory cells has
+greatly increased. Additionally, the biopsies can be used for viral polymerase chain reaction (PCR) testing
+to diagnose viral myocarditis with specificity, and to analyze immune-mediated injury and potentially
+inflammatory markers at a molecular level.[65]
+Cardiac MRI
+Cardiac MRI is as an important tool in the assessment of suspected myocarditis, particularly when trying
+to distinguish acute myocarditis from acute MI.[16] [56] [60] In some cases, findings from cardiac MRI can
+also be useful in determining the etiology of myocarditis.[66]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Myocarditis Diagnosis
+DIAGNOSIS
+Lake Louise consensus criteria were updated in 2018 to propose that presence of both T2 and T1 findings
+provide strong evidence for myocardial inflammation.[67]
+In children, the primary purpose of cardiac MRI is to identify myocardial injury, and to differentiate acute
+myocarditis from non-inflammatory cardiomyopathies.[15]
+Other tests
+• Coronary angiography: this should be performed when the presenting symptoms and findings are
+indistinguishable from the acute coronary syndromes.
+• FDG PET-CT: helps diagnose myocarditis by providing metabolic information of inflammation as
+increased FDG uptake. The role of 18F-FDG PET-CT is useful in chronic myocarditis, where CMR
+does not have the same accuracy as in acute myocarditis.[68]
+• MRI-guided EMB: this is a promising new technology that appears to significantly increase the
+sensitivity of EMB in the diagnosis of myocarditis.[69] This is still in the developmental phase and
+requires validation in larger studies.
+History and exam
+Key diagnostic factors
+viral syndrome (prior) (common)
+• A viral prodrome of fever, myalgias, respiratory symptoms, or gastroenteritis in the 2-3 weeks
+preceding initial presentation is common in patients presenting with myocarditis, including in children.
+autoimmune disease (common)
+• Many autoimmune diseases are associated with myocarditis.[26]
+infectious disease (common)
+• Many infectious diseases are associated with myocarditis.
+drugs and toxins (uncommon)
+• Known causative drugs and toxins include anthracyclines (e.g., doxorubicin, daunorubicin, epirubicin,
+idarubicin), fluoropyrimidines (e.g., fluorouracil, capecitabine), immunotherapies (e.g., ipilimumab,
+tremelimumab, nivolumab, pembrolizumab, cemiplimab, atezolizumab, avelumab, durvalumab,
+and trastuzumab), arsenic, zidovudine, carbon monoxide, ethanol, iron, interleukin-2, cocaine,
+amphetamine, smallpox or mpox vaccine, SARS-CoV-2 (COVID-19) mRNA vaccine (may occur with
+other types of COVID-19 vaccines), catecholamines (e.g., epinephrine, norepinephrine, dopamine),
+cyclophosphamide, heavy metals (copper, iron, lead), radiation, antibiotics (penicillins, cephalosporins,
+sulfonamides), amphotericin B, thiazide diuretics, anticonvulsants (carbamazepine, phenytoin,
+phenobarbital), digoxin, lithium, amitriptyline, clozapine, snake venom, bee venom, black widow spider
+venom, scorpion venom, and wasp venom.
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Myocarditis Diagnosis
+Other diagnostic factors
+age <50 years (common)
+• Patients with myocarditis tend to be younger (<50 years) than those presenting with more common
+cardiac conditions such as acute coronary syndrome.
+chest pain (common)
+• Occurs in 35% of patients presenting with myocarditis and can be typical, atypical, or positional in
+nature.[4] [16] Occurs in up to 42% of children with myocarditis.[15]
+dyspnea (common)
+• Common symptom in adult patients with myocarditis.
+• Present in approximately one quarter of children with myocarditis.[15]
+orthopnea (common)
+• Myocarditis manifesting as new-onset congestive heart failure (CHF) frequently causes orthopnea.
+fatigue (common)
+• Common complaint in patients presenting with myocarditis.[16] Occurs in up to 70% of children with
+myocarditis.[15]
+palpitations (common)
+• Often described by adult patients presenting with myocarditis.
+• Occurs in approximately 16% of children with myocarditis.[15]
+rales (common)
+• Typical finding in patients with CHF secondary to myocarditis.
+elevated neck veins (common)
+• Secondary to volume overload. Common in CHF caused by myocarditis.
+S3 gallop (common)
+• Frequently accompanies myocarditis manifested as CHF.[16]
+sinus tachycardia (common)
+• As a compensatory means to increase cardiac output, one of the first signs to develop in patients
+presenting with CHF caused by myocarditis. Occurs in up to 57% of children with myocarditis.[15]
+atrial and ventricular arrhythmias (common)
+• Include refractory arrhythmias and malignant rhythms such as sustained ventricular tachycardia.
+Are often present during the acute presentation of myocarditis. Occur in up to 45% of children with
+myocarditis.[15] Sustained tachyarrhythmias were found to be associated with a 2.3-fold increase in
+death in a series of children with acute myocarditis.[21]
+tachypnea (common)
+• Present in up to 60% of children with myocarditis; more common in younger children and infants.[15]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Myocarditis Diagnosis
+DIAGNOSIS
+hepatomegaly (common)
+• Present in up to 50% of children with myocarditis.[15]
+syncope (uncommon)
+• Syncope caused by ventricular arrhythmias is a rare but possible presenting symptom of myocarditis.
+Occurs in up to 10% of children with myocarditis.[15]
+fever (uncommon)
+• Present in up to 58% of children with myocarditis at or prior to presentation.[15]
+gastrointestinal issues (uncommon)
+• Nausea/vomiting or abdominal pain may be present in up to 48% of children with myocarditis, with
+diarrhea observed in approximately 8%.[15]
+rhinorrhea (uncommon)
+• Present in up to 44% of children with myocarditis.[15]
+cough (uncommon)
+• Present in up to 44% of children with myocarditis.[15]
+S3 and S4 summation gallop (uncommon)
+• Occasionally presents in the setting of myocarditis with CHF.
+pericardial friction rub (uncommon)
+• Myocarditis often extends to the pericardium (myopericarditis) and can cause an audible pericardial
+friction rub.
+peripheral hypoperfusion (uncommon)
+• As evidenced by renal failure, elevated serum lactate, or other sign of end-organ damage, can be
+associated with myocarditis-induced cardiogenic shock.
+hypotension (uncommon)
+• Myocarditis can present as profound left ventricular systolic dysfunction resulting in hypotension.
+altered sensorium (uncommon)
+• Altered mental status, particularly in the elderly, can be the first apparent sign of myocarditis-induced
+CHF, even in the setting of normal blood pressure.
+lymphadenopathy (uncommon)
+• Focal or diffuse lymphadenopathy can be present in patients with sarcoidosis-associated myocarditis.
+respiratory distress (uncommon)
+• Present in up to 47% of children with myocarditis.[15]
+Risk factors
+Strong
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Myocarditis Diagnosis
+infection (non-HIV)
+• Many viral, bacterial, and fungal infections have been implicated in the pathogenesis of
+myocarditis.[25] [33] The most common cause of myocarditis worldwide is  Trypanosoma cruzi  with an
+estimated 18 million people infected.[7] In the US, adenoviruses and enteroviruses, such as Coxsackie
+B, are believed to be the predominant cause.[45] In Germany, parvovirus B19 is the organism most
+prevalently isolated from endomyocardial biopsy, while in Japan, hepatitis C virus is most commonly
+implicated.[46] [47] Case reports have implicated SARS-CoV-2 infection as a potential etiologic agent
+during the COVID-19 pandemic.[29]
+HIV infection
+• HIV disease places a person at very high risk of developing myocarditis. In a postmortem study of
+patients with AIDS, 67% were found to have biopsy-confirmed myocarditis.[46] Also, prospective data
+suggest that the yearly incidence of developing myocarditis is 1.6% in asymptomatic HIV-positive
+patients; this incidence increases among patients with CD4 counts below 400 cells/mm³.[47]
+autoimmune/immune-mediated diseases
+• systemic lupus erythematosus, scleroderma, and other immune-mediated diseases such as
+sarcoidosis place patients at markedly increased risk of developing myocarditis.[48] [49] [50]
+peripartum and postpartum periods
+• There is a strong association between women in the peripartum or postpartum period and the
+development of myocarditis.[4] [51]
+Weak
+drugs and toxins
+• Hypersensitivity myocarditis is associated with many medications.[30] [31] [32] [52] [53] [54]
+• Drugs and toxic exposures that are known to cause myocarditis include anthracyclines (e.g.,
+doxorubicin, daunorubicin, epirubicin, idarubicin), fluoropyrimidines (e.g., fluorouracil, capecitabine),
+immunotherapies (e.g., ipilimumab, tremelimumab, nivolumab, pembrolizumab, cemiplimab,
+atezolizumab, avelumab, durvalumab, and trastuzumab), arsenic, zidovudine, carbon monoxide,
+ethanol, iron, interleukin-2, cocaine, amphetamine, smallpox or mpox vaccine, SARS-CoV-2
+(COVID-19) mRNA vaccine (may occur with other types of COVID-19 vaccines), catecholamines
+(e.g., epinephrine, norepinephrine, dopamine), cyclophosphamide, heavy metals (copper, iron, lead),
+radiation, antibiotics (penicillins, cephalosporins, sulfonamides), amphotericin B, thiazide diuretics,
+anticonvulsants (carbamazepine, phenytoin, phenobarbital), digoxin, lithium, amitriptyline, clozapine,
+snake venom, bee venom, black widow spider venom, scorpion venom, and wasp venom.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Myocarditis Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+12-lead ECG
+• Should be ordered immediately on presentation in anyone with chest
+pain or cardiac symptoms.[15] [16]
+most commonly displays
+nonspecific ST-segment
+and T-wave abnormalities;
+however, ST-segment
+elevation and depression
+frequently occur
+CXR
+• Should be ordered immediately in any person presenting with
+shortness of breath.
+frequently reveals
+bilateral pulmonary
+infiltrates in the setting of
+myocarditis-induced CHF
+serum CK
+• Should be ordered immediately when evaluating anyone with
+suspected myocardial injury.
+often mildly elevated
+serum CK-MB
+• Should be ordered immediately when evaluating anyone with
+suspected myocardial injury.
+often mildly elevated
+serum troponin (I or T)
+• Should be ordered immediately when evaluating anyone with
+suspected myocardial injury. Troponin (I or T) levels have been shown
+to be a more reliable indicator of myocardial damage than creatine
+kinase-MB and creatine kinase.[15] [16]
+elevated
+serum B-type natriuretic peptide
+• May be helpful in distinguishing primary cardiac from primary
+pulmonary etiologies of dyspnea when the physical exam and initial
+workup is unclear or nonspecific.[57] Is best used to support the
+history and physical exam.
+elevated in response to
+ventricular distention,
+such as occurs in CHF
+due to myocarditis
+two-dimensional echocardiogram
+• Should be ordered in every patient suspected of having
+myocarditis.[15] [16] [56]
+global and regional
+left ventricular motion
+abnormalities and
+dilatation
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Myocarditis Diagnosis
+Test Result
+Apical 4-chamber transthoracic echocardiogram in a patient
+with myocarditis. The right ventricle is dilated with hypokinesis.
+Triscupid regurgitation is present with a reduced continuous
+wave Doppler gradient indicating right ventricular failure
+From: Rasmussen TB, Dalager S, Andersen NH, et al.
+BMJ Case Reports 2009; doi:10.1136/bcr.09.2008.0997
+Apical 4-chamber echocardiogram in a patient presenting
+with myocarditis showing a slightly dilated left ventricle
+with spontaneous ultrasonic contrast indicating
+severely impaired left ventricular systolic function
+From: Rasmussen TB, Dalager S, Andersen NH, et al.
+BMJ Case Reports 2009; doi:10.1136/bcr.09.2008.0997
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Myocarditis Diagnosis
+DIAGNOSIS
+Other tests to consider
+Test Result
+endomyocardial biopsy (EMB)
+• There is no general consensus on which adult patients should
+undergo EMB; recommendations vary and local guidelines should
+be consulted.[5] [55][57] [58] [59] [63][64] A statement on dilated
+cardiomyopathies from the American Heart Association (AHA)
+recommends biopsy "in those patients with clinically suspected
+unexplained acute myocarditis who require inotropic support or
+mechanical circulatory support and those with Mobitz type 2 second-
+degree or higher heart block, sustained or symptomatic ventricular
+tachycardia, or failure to respond to guideline-based medical
+management within 1-2 weeks".[55] The 2022 AHA/American College
+of Cardiology/Heart Failure Society of America (HFSA) heart failure
+(HF) guidelines state "endomyocardial biopsy may be advantageous
+in patients with heart failure in which a histological diagnosis,
+such as myocarditis, may influence treatment decisions".[57]
+A joint statement from Heart Failure Association of European
+Society of Cardiology (ESC), HFSA, and Japanese HF Society
+recommends EMB “in patients with fulminant/acute myocarditis
+presenting with cardiogenic shock or acute HF and left ventricular
+(LV) dysfunction, with or without malignant ventricular arrhythmias
+and/or conduction abnormalities”. They also recommend considering
+EMB in “hemodynamically stable patients with clinical symptoms
+and diagnostic criteria (electrocardiographic abnormalities, elevated
+troponin levels, and imaging findings) suggestive of myocarditis, in
+the absence of significant coronary artery disease".[59]
+• The potential risks and benefits of EMB should always be carefully
+assessed, particularly during the acute presentation, as the risk of
+arrhythmia or ventricular perforation is highest at this time.
+histopathologic findings
+of myocardial cellular
+infiltrates ± myocardial
+necrosis
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Myocarditis Diagnosis
+Test Result
+Histologic findings in a patient with giant cell myocarditis. A:
+severe myocardial necrosis and fibrotic replacement of the
+cardiomyocytes with granulation tissue and fibrosis is present in
+a section from the anterolateral left ventricular wall; B: a sharp
+demarcating border between vital and necrotic myocardium is
+seen, confirmed by additional immunohistochemical staining
+for myoglobin; C: at the inflammatory border, cells consisting of
+prominent multinucleated giant cells, macrophages, lymphocytes,
+and eosinophilic granulocytes are seen in close proximity to vital
+myocardium; D: immunohistochemical staining for complement 4d is
+positive in all vessels, suggestive of complement cascade activation
+From: Rasmussen TB, Dalager S, Andersen NH, et al.
+BMJ Case Reports 2009; doi:10.1136/bcr.09.2008.0997
+In children, AHA guidelines continue to mark biopsies as the
+reference test for myocarditis diagnosis.[15] It is important to note
+that with immunohistochemistry, the ability to assess for inflammatory
+cells has greatly increased. Additionally, the biopsies can be used
+for viral polymerase chain reaction (PCR) testing to diagnose viral
+myocarditis with specificity, and to analyze immune-mediated injury
+and potentially inflammatory markers at a molecular level.[65]
+coronary angiography
+• Should be performed when the presenting symptoms and findings
+are indistinguishable from the acute coronary syndromes.
+normal or insignificant
+findings on coronary
+angiography are common
+in myocarditis and rule
+out MI
+18F-fluorodeoxyglucose positron emission tomography-
+computed tomography (18F-FDG PET-CT)
+• Helps diagnose myocarditis by providing metabolic information of
+inflammation as increased FDG uptake. The role of 18F-FDG PET-
+CT is useful in chronic myocarditis, where CMR does not have the
+same accuracy as in acute myocarditis.[68]
+detection of inflammation
+cardiac MRI
+• Can be performed when trying to distinguish between myocarditis
+and ischemic heart disease using typical findings on MRI.[16] [56]
+global early enhancement
+suggests myocarditis
+where late gadolinium
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Myocarditis Diagnosis
+DIAGNOSIS
+Test Result
+[60] In some cases, findings from cardiac MRI can also be useful in
+determining the etiology of myocarditis.[66]
+• Lake Louise consensus criteria were updated in 2018 to propose
+that presence of both T2 and T1 findings provide strong evidence for
+myocardial inflammation.[67] The primary purpose of cardiac MRI
+in children is to identify myocardial injury, and to differentiate acute
+myocarditis from non-inflammatory cardiomyopathies.[15]
+enhancement
+suggests myocardial
+ischemia or scar;
+presence of concurrent
+pericardial thickening or
+inflammation
+viral polymerase chain reaction (PCR)
+• Endomyocardial biopsies can be used for viral PCR testing to
+diagnose viral myocarditis with specificity.[65]
+positive for causative
+viral agent
+Emerging tests
+Test Result
+MRI-guided EMB
+• Still in the developmental phase and requires validation in larger
+studies.
+• MRI-guided EMB is a promising new technology that appears to
+significantly increase the sensitivity of EMB in the diagnosis of
+myocarditis.[69]
+histopathologic findings
+of myocardial cellular
+infiltrates ± myocardial
+necrosis
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Myocarditis Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Acute coronary syndrome • Patients presenting with
+myocardial infarction tend to
+be older and have traditional
+risk factors for coronary
+atherosclerosis when
+compared with patients with
+myocarditis.
+• Left heart catheterization
+should reveal significant
+coronary atherosclerotic
+disease.
+Dilated cardiomyopathy • There can be considerable
+overlap between dilated
+cardiomyopathy and
+myocarditis. As many
+as 16% of patients
+presenting with acute
+dilated cardiomyopathy who
+undergo endomyocardial
+biopsy are found to
+have biopsy-confirmed
+myocarditis.[70]
+• A family history of dilated
+cardiomyopathy, a known
+history of exposure to a
+direct cardiotoxin (e.g.,
+ethanol), or the absence
+of elevations of markers
+of myocardial injury make
+myocarditis less likely.
+• The presence of an
+inflammatory infiltrate of the
+myocardium with necrosis
+and/or degeneration of
+adjacent myocytes not
+typical of the ischemic
+damage associated with
+coronary artery disease is
+diagnostic for myocarditis.
+However, the lack of these
+findings does not exclude
+myocarditis.
+Pericarditis • It can be difficult, if not
+impossible, to distinguish
+patients presenting with
+pericarditis from those with
+myocarditis based on history
+and physical exam alone.
+• Both syndromes can exhibit
+typical or positional chest
+pain, and both are commonly
+preceded by a fever and/or a
+viral syndrome.
+• The presence of signs or
+symptoms of heart failure
+suggests myocarditis as
+the etiology, as isolated
+pericarditis does not
+impair left ventricular (LV)
+function.[16]
+• Two-dimensional echo can
+be used to help differentiate
+these conditions. The
+presence of LV dysfunction
+(systolic or diastolic)
+implicates myocarditis as the
+etiology.
+Stress-induced
+cardiomyopathy
+(broken heart
+syndrome, Takotsubo
+cardiomyopathy)
+• Patients with stress-induced
+cardiomyopathy can present
+similarly to those with acute
+myocarditis.
+• No specific test will
+distinguish stress-induced
+cardiomyopathy from
+myocarditis.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Myocarditis Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+• A history of an acute
+emotional or physical
+stressor within the
+prior 2 weeks with a
+rather rapid clinical
+deterioration supports a
+diagnosis of stress-induced
+cardiomyopathy.[71]
+• Rapid recovery back to
+baseline within 4-8 weeks
+is the rule for stress-
+induced cardiomyopathy,
+the occurrence of which
+supports its diagnosis.
+Criteria
+Dallas criteria[72]
+• Active myocarditis: the presence of an inflammatory infiltrate of the myocardium with necrosis and/or
+degeneration of adjacent myocytes not typical of the ischemic damage associated with coronary artery
+disease.
+• Borderline myocarditis: the presence of an inflammatory infiltrate of the myocardium without necrosis
+or degeneration of adjacent myocytes.
+World Health Organization Marburg Classification[73]
+First biopsy:
+• Acute (active) myocarditis: a clear-cut infiltrate (diffuse, focal, or confluent) of >14 leukocytes/
+mm² (preferably activated T cells). The amount of the infiltrate should be quantified by
+immunohistochemistry. Necrosis or degeneration is compulsory; fibrosis may be absent or present and
+should be graded
+• Chronic myocarditis: an infiltrate of >14 leukocytes/mm² (diffuse, focal, or confluent, preferably
+activated T cells). Quantification should be made by immunohistochemistry. Necrosis or degeneration
+is usually not evident; fibrosis may be absent or present and should be graded
+• No myocarditis: No infiltrating cells or <14 leukocytes/mm².
+Subsequent biopsies:
+• Ongoing (persistent) myocarditis. Criteria as in acute or chronic myocarditis
+• Resolving (healing) myocarditis. Criteria as in acute or chronic myocarditis, but the immunologic
+process is sparser than in the first biopsy
+• Resolved (healed) myocarditis. Corresponds to the Dallas classification.
+The amount and distribution of fibrosis should be described similarly as no (grade 0), mild (grade 1),
+moderate (grade 2), or severe (grade 3). Localization or formation of fibrosis should be outlined as
+endocardial, replacement, or interstitial.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Myocarditis Diagnosis
+New York Heart Association functional classification[74]
+Class:
+• Patients have cardiac disease but without resulting limitations of physical activity. Ordinary physical
+activity does not cause undue fatigue, palpitations, dyspnea, or anginal pain
+• Patients have cardiac disease resulting in slight limitation of physical activity. They are comfortable at
+rest. Ordinary physical activity results in fatigue, palpitation, dyspnea, or anginal pain
+• Patients have cardiac disease resulting in marked limitation of physical activity. They are comfortable
+at rest. Less than ordinary physical activity causes fatigue, palpitation, dyspnea, or anginal pain
+• Patients have cardiac disease resulting in an inability to carry on any physical activity without
+discomfort. Symptoms of cardiac insufficiency or of the anginal syndrome may be present even at rest.
+If any physical activity is undertaken, discomfort is increased.
+American Heart Association (AHA) classification
+The 2021 AHA statement on pediatric myocarditis lays out a new paradigm for myocarditis based on the
+following diagnostic strata:
+• Possible myocarditis
+• Clinically-suspected myocarditis
+• Cardiac MRI-confirmed myocarditis
+• Biopsy-proven myocarditis.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Myocarditis Management
+MANAGEMENT
+Approach
+The mainstay of therapy for myocarditis is supportive care and conventional heart failure therapy.[15] [55]
+[57] [58][75] There can be considerable overlap between dilated cardiomyopathy and myocarditis; as many
+as 16% of patients presenting with acute dilated cardiomyopathy who undergo endomyocardial biopsy are
+found to have biopsy-confirmed myocarditis.[70] Treatment is therefore aimed at management of both the
+cardiomyopathy and myocarditis in those patients with concomitant cardiomyopathy.[76] 
+Hemodynamically unstable with or without cardiogenic shock
+A small proportion of patients with acute myocarditis will present with fulminant heart failure, sustained
+ventricular arrhythmias, or cardiogenic shock requiring invasive hemodynamic monitoring and aggressive
+pharmacologic therapy.[21] A pulmonary artery catheter may be inserted to help optimize cardiac filling
+pressures and for rapid titration of cardiovascular therapies. Pharmacologic therapy for adults may include
+vasodilators such as sodium nitroprusside, vasopressors such as norepinephrine, and inotropes such
+as dobutamine.[77] An intra-aortic balloon pump or left ventricular assist device (LVAD) may be required
+as a bridge to recovery or heart transplantation.[57] [78] In children, inotropic support may be provided
+by milrinone or dobutamine, with early escalation to mechanical circulatory support (such as LVAD or
+extracorporeal membrane oxygenation [ECMO]) if required.[15]
+Hemodynamically stable with left ventricular (LV) systolic
+dysfunction
+An ACE inhibitor, angiotensin-II receptor antagonist, or sacubitril/valsartan should be started as early
+as possible. A sodium-glucose cotransporter-2 (SGLT2) inhibitor is recommended once the patient is
+stable. Diuretic therapy, vasodilators, and inotropes are used in both the acute and chronic setting with the
+goal of optimizing intracardiac filling pressures and increasing cardiac output. Long-term anticoagulation
+therapy may be needed to reduce risk of stroke or other arterial embolism. Patients with LV dysfunction
+should avoid exercise.[21]
+ACE inhibitor, angiotensin-II receptor antagonist, or sacubitril/valsartan:
+• In addition to the confirmed efficacy in chronic heart failure, animal studies suggest that when
+started early in the course of acute myocarditis, renin-angiotensin antagonists improve survival and
+inhibit progression to dilated cardiomyopathy.[79]
+• The efficacy of sacubitril/valsartan for the treatment of heart failure has been well documented, and
+may be superior to ACE inhibitors, although data specifically for myocarditis are lacking. Sacubitril
+is a neprilysin inhibitor.[80]
+SGLT2 inhibitor:
+• SGLT2 inhibitors are recommended for adults who have been hospitalized with heart failure,
+once they are clinically stable.[81] SGLT2 inhibitors are recommended in adults with symptomatic
+chronic heart failure, regardless of the presence of diabetes, to reduce cardiovascular mortality and
+hospitalization for heart failure.[57] [82]
+• Preclinical studies suggest an anti-inflammatory role for SGLT2 inhibitors in myocarditis.[83] [84]
+Vasodilator or inotrope:
+• Oral arterial (hydralazine) and venous (nitrates such as isosorbide dinitrate) vasodilators acutely
+improve cardiac output and decrease pulmonary and LV filling pressures.[77] This combination of
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Myocarditis Management
+therapy may also reduce morbidity and mortality in patients with heart failure who cannot tolerate
+ACE inhibitors, angiotensin-II receptor antagonists, or sacubitril/valsartan.[57]
+• Oral hydralazine and nitrates are rarely used in pediatric care. If vasodilators are required in
+children, ACE inhibitors and related agents are often most appropriate.
+• Milrinone (a parenteral positive inotrope and vasodilator) is often used early in the treatment course
+in children with evidence of left ventricular systolic dysfunction, even if they are hemodynamically
+stable. Milrinone may cause hypotension or, rarely, ventricular arrhythmias.
+Beta-blocker:
+• Similarly, beta-blockers (e.g., carvedilol, metoprolol, bisoprolol) should be started once the patient
+is no longer in acutely decompensated heart failure
+• In animal models of acute myocarditis, the early initiation of beta-adrenergic blockers has been
+shown to reduce myocardial inflammation.[85] [86]
+• Carvedilol is often the preferred beta-blocker in children.
+Aldosterone antagonist:
+• An aldosterone antagonist (e.g., spironolactone, eplerenone) should be started in patients with New
+York Heart Association class II to IV heart failure.[57]
+• Eplerenone is not recommended in children.
+Diuretic:
+• Diuretics improve hemodynamics and patient comfort.[57]
+• Volume status should be monitored.
+• Dual therapy with a thiazide (or thiazide-like) diuretic (e.g., hydrochlorothiazide, chlorothiazide,
+metolazone) and a loop diuretic (e.g., furosemide) may be required in some patients for augmented
+therapeutic effect.[57] The thiazide diuretic should be administered at the same time as or 30
+minutes prior to the loop diuretic.
+Anticoagulant:
+• Patients with left ventricular anteroapical akinesis or aneurysm as a result of cardiomyopathy
+are at increased risk for stroke or other arterial embolism secondary to left ventricular thrombus
+formation.[57]
+• Warfarin is appropriate to reduce risk in both children and adults.
+Immunosuppressive therapies and intravenous immune globulin
+(IVIG)
+Because the long-term myocardial changes associated with myocarditis appear to be mediated by
+abnormal cellular and humoral immune activation, it is hypothesized that immunosuppression should
+be an effective form of treatment. Despite this rationale, immune suppression trials aimed at attenuating
+the inflammatory response in myocarditis in adults have been largely disappointing. Well-designed
+prospective randomized controlled trials (RCTs) involving immune suppression with corticosteroids with
+or without cyclosporine or azathioprine for the treatment of biopsy-confirmed myocarditis showed no long-
+term improvement in LV ejection fraction (LVEF) or survival benefit.[87] [88]
+Similarly, the use of IVIG for treatment of acute myocarditis has been evaluated in several small studies.
+An RCT of patients with newly diagnosed acute dilated cardiomyopathy found no benefit in mortality or
+improvement in LVEF in those treated with IVIG as compared with standard care.[89] This lack of benefit
+persisted in those patients with biopsy-confirmed myocarditis. A Cochrane review evaluating IVIG for
+presumed viral myocarditis in children and adults could not draw certain conclusions about its efficacy
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Myocarditis Management
+MANAGEMENT
+due to paucity of data.[90] Compared to adults, IVIG is used very frequently in pediatric patients with
+myocarditis. In one multicenter study, IVIG was used as a therapeutic agent in 51% of children admitted
+with mild cardiac dysfunction, and in 88% of those admitted with moderate or worse function.[24]
+Overall, standard immunosuppressive regimens and IVIG cannot be recommended for the routine
+treatment of myocarditis due to lack of robust evidence. The decision to use them or not should be
+determined on a case-by-case basis. Exceptions to this include patients with giant cell myocarditis or
+myocarditis secondary to autoimmune diseases; both of these patient populations have been shown to
+benefit from aggressive early immune suppression.[33][91]
+Therapy targeted at specific cause of myocarditis
+Lymphocytic (viral) myocarditis
+• Lymphocytic myocarditis is primarily treated with supportive care and standard heart failure
+therapies. As with all etiologies of myocarditis, patients presenting with fulminant heart failure
+and cardiogenic shock may require invasive hemodynamic monitoring, aggressive therapy with
+intravenous diuretics or inotropes, and even mechanical hemodynamic support devices. Given the
+high rate of recovery, aggressive therapy is recommended, especially early in the course of the
+disease.
+• For the most part, immunosuppressive therapy has been shown to be ineffective in viral
+myocarditis.[92] There are insufficient data to support a benefit of intravenous gamma globulin.[90]
+Novel therapies with immune-modulating drugs such as interferon-beta have shown great promise
+in phase II trials.[93]
+• For those with documented influenza, antiviral agents may be beneficial. In those with SARS-
+CoV-2 infection, similarly, antiviral agents as well as monoclonal antibodies may be used. For
+more information on the treatment of influenza infection and SARS-CoV-2 infection, see Influenza
+infection  and Coronavirus disease 2019 (COVID-19) .
+Giant cell myocarditis
+• This is a rare and rapidly progressive disease that is probably the most fatal of all causes of
+myocarditis.[9] Life-threatening ventricular arrhythmias are seen in 14% of patients with giant cell
+myocarditis at first presentation, progressing to refractory arrhythmias in more than half of the
+patients.[21] Although aggressive immunosuppressive regimens have been shown to only modestly
+improve survival, limited data suggest that it prolongs life sufficiently to enable more effective
+treatment with heart transplantation.[10] [91] [94]
+Autoimmune-related myocarditis
+• Patients with myocarditis due to systemic autoimmune diseases generally have a significant
+response to aggressive immunosuppressive regimens including systemic corticosteroids. Animal
+studies with immune-modulating therapies such as rapamycin and mycophenolate mofetil are
+promising.
+Hypersensitivity myocarditis
+• Hypersensitivity myocarditis is thought to be related to an allergic reaction to a variety of drugs.
+With the removal of the offending agent and treatment with systemic corticosteroids, clinical
+improvement is the rule.[95]
+Chagasic myocarditis
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Myocarditis Management
+• Chagas disease is the most common cause of myocarditis in the world. Patients with chagasic
+myocarditis should be treated with an appropriate antiparasitic agent; see Chagas disease  for
+detailed information on management. Heart failure treatment of this disease is mainly symptom
+management. A permanent pacemaker with defibrillator is often necessary because of conduction
+abnormalities and ventricular arrhythmias. Immunosuppressive therapy is controversial; heart
+transplantation is often necessary for refractory heart failure.[33]
+Immune checkpoint inhibitor (ICI)-related myocarditis[32]
+• The ICI should be discontinued immediately and treatment with high-dose intravenous
+methylprednisolone commenced. This can be switched to a weaning dose of oral prednisone
+if patients show ongoing signs of clinical improvement. Corticosteroid-refractory patients or
+hemodynamically unstable patients with fulminant myocarditis should be treated with second-
+line immunosuppressive therapies. Various second-line agents are under investigation (e.g.,
+mycophenolate, abatacept, IVIG) and specialist guidance is recommended. After recovery, a
+multidisciplinary team should review whether ICI therapy should be restarted.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Myocarditis Management
+MANAGEMENT
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+hemodynamically stable: no
+evidence of LV systolic dysfunction
+1st supportive care ± treatment of underlying
+cause
+adjunct intravenous immune globulin (IVIG)
+hemodynamically stable: evidence
+of LV systolic dysfunction
+1st ACE inhibitor or angiotensin-II receptor
+antagonist or sacubitril/valsartan
+plus sodium-glucose cotransporter-2 (SGLT2)
+inhibitor
+adjunct treatment of underlying cause
+adjunct intravenous immune globulin (IVIG)
+adjunct beta-blocker
+adjunct vasodilator or inotrope
+adjunct diuretic therapy
+adjunct aldosterone antagonist
+adjunct long-term anticoagulation therapy
+hemodynamically unstable: adults
+1st arterial vasodilator + invasive
+hemodynamic monitoring
+adjunct treatment of underlying cause
+adjunct intravenous immune globulin (IVIG)
+adjunct nitroglycerin
+adjunct inotrope or vasopressor
+refractory cardiogenic
+shock
+plus mechanical circulatory support
+hemodynamically unstable: children
+1st inotrope
+adjunct mechanical circulatory support
+adjunct treatment of underlying cause
+adjunct intravenous immune globulin (IVIG)
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Myocarditis Management
+Ongoing ( summary )
+end-stage heart failure or refractory
+life-threatening arrhythmias
+1st heart transplantation
+2nd destination left ventricular assist device
+therapy + continue pharmacological
+treatment
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Myocarditis Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+hemodynamically stable: no
+evidence of LV systolic dysfunction
+1st supportive care ± treatment of underlying
+cause
+Primary options
+Autoimmune-associated or
+hypersensitivity myocarditis or ICI-related
+myocarditis
+» methylprednisolone: children and adults:
+consult specialist for guidance on dose
+OR
+Giant cell myocarditis
+» methylprednisolone: children and adults:
+consult specialist for guidance on dose
+--AND--
+» cyclosporine modified: children and adults:
+consult specialist for guidance on dose
+-or-
+» muromonab-CD3: children and adults:
+consult specialist for guidance on dose
+-or-
+» azathioprine: children and adults: consult
+specialist for guidance on dose
+» Lymphocytic myocarditis does not require any
+therapy targeted at the underlying cause and
+the management is supportive. For those with
+documented influenza, antiviral agents may be
+beneficial. In those with SARS-CoV-2 infection,
+similarly, antiviral agents as well as monoclonal
+antibodies may be used. For more information
+on the treatment of influenza infection and
+SARS-CoV-2 infection, see Influenza infection 
+and Coronavirus disease 2019 (COVID-19) .
+» Giant cell myocarditis is treated with a
+combination of systemic corticosteroids and
+another immunosuppressive agent such as
+cyclosporine, muromonab-CD3, or azathioprine.
+While giant cell myocarditis is often rapidly fatal,
+immunosuppressive therapy has been shown to
+improve mortality.[10] [91] [94]
+» Systemic corticosteroids improve outcomes
+in patients with autoimmune-associated
+myocarditis.[55]
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Myocarditis Management
+Acute
+» Hypersensitivity myocarditis is treated by
+removal of the offending agent and systemic
+corticosteroids.
+» Corticosteroid use can cause marked
+hyperglycemia and increases the risk of
+infection. Chronic use is associated with bone
+mineral density loss and skin friability.
+» Patients with chagasic myocarditis should be
+treated with an appropriate antiparasitic agent;
+see Chagas disease  for detailed information
+on management. A permanent pacemaker
+with defibrillator is often necessary because
+of conduction abnormalities and ventricular
+arrhythmias.
+» Immune checkpoint inhibitor (ICI)-related
+myocarditis is treated by immediately stopping
+ICI treatment and giving high-dose intravenous
+methylprednisolone. This can be switched to
+a weaning dose of oral prednisone if patients
+show ongoing signs of clinical improvement.
+Second-line immunosuppressive therapy is
+indicated for corticosteroid-resistant patients
+or for hemodynamically unstable patients with
+fulminant myocarditis. Various second-line
+agents are under investigation and specialist
+guidance is recommended. After recovery, a
+multidisciplinary team should review whether to
+restart ICI therapy.[32]
+adjunct intravenous immune globulin (IVIG)
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» immune globulin (human): children and
+adults: 2 g/kg intravenously as a single dose
+» There is insufficient evidence to routinely
+recommend intravenous IVIG for all patients
+with myocarditis. However, it may provide clinical
+benefit in some cases, and is frequently used to
+treat children in clinical practice.[24] [90]
+hemodynamically stable: evidence
+of LV systolic dysfunction
+1st ACE inhibitor or angiotensin-II receptor
+antagonist or sacubitril/valsartan
+Primary options
+» captopril: children: consult specialist for
+guidance on dose; adults: 6.25 to 50 mg
+orally three times daily
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Myocarditis Management
+MANAGEMENT
+Acute
+OR
+» enalapril: children: consult specialist for
+guidance on dose; adults: 2.5 to 20 mg orally
+twice daily
+OR
+» lisinopril: children: consult specialist for
+guidance on dose; adults: 2.5 to 40 mg orally
+once daily
+OR
+» candesartan cilexetil: children: consult
+specialist for guidance on dose; adults: 4-32
+mg orally once daily
+OR
+» valsartan: children: consult specialist for
+guidance on dose; adults: 20-160 mg orally
+twice daily
+Secondary options
+» sacubitril/valsartan: children: consult
+specialist for guidance on dose; adults
+(treatment-naive or treatment-experienced
+on a low dose): 24 mg (sacubitril)/26 mg
+(valsartan) orally twice daily initially, increase
+gradually according to response, maximum
+97 mg (sacubitril)/103 mg (valsartan) twice
+daily; adults (treatment-experienced on
+a usual dose): 49 mg (sacubitril)/51 mg
+(valsartan) orally twice daily initially, increase
+gradually according to response, maximum
+97 mg (sacubitril)/103 mg (valsartan) twice
+daily
+Patients not taking an ACE inhibitor or
+angiotensin-II receptor antagonist (treatment-
+naive) or those on a low dose of an ACE
+inhibitor or angiotensin-II receptor antagonist
+should be started on a lower dose of
+sacubitril/valsartan. Patients who were being
+treated with an ACE inhibitor or angiotensin-
+II receptor antagonist (treatment-experienced)
+at a usual dose should be started on a higher
+dose of sacubitril/valsartan. Allow 36 hours
+between stopping an ACE inhibitor and
+starting this drug.
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Myocarditis Management
+Acute
+» ACE inhibitors (e.g., captopril, enalapril,
+lisinopril) and angiotensin-II receptor antagonists
+(e.g., candesartan, valsartan) improve
+cardiac output and hemodynamics by arterial
+vasodilation. Chronic maladaptive cardiac
+remodeling is also attenuated.[57] Evidence
+suggests that the likelihood of progression to
+dilated cardiomyopathy is reduced with early
+initiation.[79] These medications may precipitate
+acute renal failure or hyperkalemia. Serum
+potassium, BUN, and creatinine should be
+monitored.
+» The efficacy of sacubitril/valsartan for
+the treatment of heart failure has been well
+documented, and may be superior to ACE
+inhibitors, although data specifically for
+myocarditis are lacking. Sacubitril is a neprilysin
+inhibitor.[80]
+» Dose should be started low and increased
+gradually according to response.
+plus sodium-glucose cotransporter-2 (SGLT2)
+inhibitor
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» dapagliflozin: adults: 10 mg orally once
+daily
+OR
+» empagliflozin: adults: 10 mg orally once
+daily
+» SGLT2 inhibitors are recommended for
+adults who have been hospitalized with heart
+failure, once they are clinically stable.[81]
+SGLT2 inhibitors are recommended in adults
+with symptomatic chronic heart failure,
+regardless of the presence of diabetes, to reduce
+cardiovascular mortality and hospitalization for
+heart failure.[57] [82] Preclinical studies suggest
+an anti-inflammatory role for SGLT2 inhibitors in
+myocarditis.[83] [84]
+adjunct treatment of underlying cause
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+Autoimmune-associated or
+hypersensitivity myocarditis or ICI-related
+myocarditis
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Myocarditis Management
+MANAGEMENT
+Acute
+» methylprednisolone: children and adults:
+consult specialist for guidance on dose
+OR
+Giant cell myocarditis
+» methylprednisolone: children and adults:
+consult specialist for guidance on dose
+--AND--
+» cyclosporine modified: children and adults:
+consult specialist for guidance on dose
+-or-
+» muromonab-CD3: children and adults:
+consult specialist for guidance on dose
+-or-
+» azathioprine: children and adults: consult
+specialist for guidance on dose
+» Lymphocytic myocarditis generally does not
+require any therapy targeted at the underlying
+cause; management is supportive with treatment
+of the associated heart failure. For those with
+documented influenza, antiviral agents may be
+beneficial. In those with SARS-CoV-2 infection,
+similarly, antiviral agents as well as monoclonal
+antibodies may be used. For more information
+on the treatment of influenza infection and
+SARS-CoV-2 infection, see Influenza infection 
+and Coronavirus disease 2019 (COVID-19) .
+» Giant cell myocarditis is treated with a
+combination of systemic corticosteroids and
+another immunosuppressive agent such as
+cyclosporine, muromonab-CD3, or azathioprine.
+While giant cell myocarditis is often rapidly fatal,
+immunosuppressive therapy has been shown to
+improve mortality.[10] [91] [94]
+» Systemic corticosteroids improve outcomes
+in patients with autoimmune-associated
+myocarditis.[55]
+» Hypersensitivity myocarditis is treated by
+removal of the offending agent and systemic
+corticosteroids.
+» Corticosteroid use can cause marked
+hyperglycemia and increases the risk of
+infection. Chronic use is associated with bone
+mineral density loss and skin friability.
+» Patients with chagasic myocarditis should be
+treated with an appropriate antiparasitic agent;
+see Chagas disease  for detailed information
+on management. A permanent pacemaker
+with defibrillator is often necessary because
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Myocarditis Management
+Acute
+of conduction abnormalities and ventricular
+arrhythmias.
+» Immune checkpoint inhibitor (ICI)-related
+myocarditis is treated by immediately stopping
+ICI treatment and giving high-dose intravenous
+methylprednisolone. This can be switched to
+a weaning dose of oral prednisone if patients
+show ongoing signs of clinical improvement.
+Second-line immunosuppressive therapy is
+indicated for corticosteroid-resistant patients
+or for hemodynamically unstable patients with
+fulminant myocarditis. Various second-line
+agents are under investigation and specialist
+guidance is recommended. After recovery, a
+multidisciplinary team should review whether to
+restart ICI therapy.[32]
+adjunct intravenous immune globulin (IVIG)
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» immune globulin (human): children and
+adults: 2 g/kg intravenously as a single dose
+» There is insufficient evidence to routinely
+recommend intravenous IVIG for all patients
+with myocarditis. However, it may provide clinical
+benefit in some cases, and is frequently used to
+treat children in clinical practice.[24] [90]
+adjunct beta-blocker
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» carvedilol: children: consult specialist for
+guidance on dose; adults: 3.125 mg to 50 mg
+orally (immediate-release) twice daily
+OR
+» metoprolol succinate: adults: 12.5 to 200
+mg orally (extended-release) once daily
+OR
+» bisoprolol: adults: 1.25 to 10 mg orally once
+daily
+» Beta-blockers (e.g., carvedilol, metoprolol,
+bisoprolol) also attenuate maladaptive cardiac
+remodeling and improve survival in patients
+with cardiomyopathy.[57] Early treatment
+may decrease myocardial inflammation.[86]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Myocarditis Management
+MANAGEMENT
+Acute
+Carvedilol is often the preferred beta-blocker in
+children.
+» Beta-blockers may cause profound
+bradycardia, hypotension, or heart block.
+An ECG should be checked for pre-existing
+conduction abnormalities before commencing
+treatment. They may also exacerbate bronchial
+spasm in patients predisposed to reactive airway
+disease.
+» Dose should be started low and increased
+gradually according to response.
+adjunct vasodilator or inotrope
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» hydralazine: adults: 25-100 mg orally three
+times daily
+-and-
+» isosorbide dinitrate: adults: 20-40 mg orally
+three times daily
+OR
+» milrinone: children: consult specialist for
+guidance on dose
+» Oral arterial vasodilators (e.g., hydralazine)
+and venous vasodilators (nitrates such as
+isosorbide dinitrate) acutely improve cardiac
+output and decrease pulmonary and left
+ventricular filling pressures.[77] This combination
+of therapy may also reduce morbidity and
+mortality in patients with heart failure who
+cannot tolerate ACE inhibitors, angiotensin-II
+receptor antagonists, or sacubitril/valsartan.[57]
+Hydralazine should be used in conjunction with
+a nitrate for the treatment of congestive heart
+failure. Hydralazine and nitrates are rarely used
+in pediatric care. If vasodilators are required in
+children, ACE inhibitors and related agents are
+often most appropriate. 
+» Milrinone (a parenteral positive inotrope
+and vasodilator) is often used early in the
+treatment course in children with evidence of left
+ventricular systolic dysfunction, even if they are
+hemodynamically stable. Milrinone may cause
+hypotension or, rarely, ventricular arrhythmias.
+» Dose should be started low and increased
+gradually according to response.
+adjunct diuretic therapy
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Myocarditis Management
+Acute
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» furosemide: children: consult specialist
+for guidance on dose; adults: 20-40 mg
+intravenously as a single dose initially,
+increase by 20 mg every 2 hours as needed
+according to clinical response; adults: 40 mg
+intravenously as a loading dose, followed by
+10-40 mg/hour infusion
+Secondary options
+» hydrochlorothiazide: children: consult
+specialist for guidance on dose; adults: 25-50
+mg orally once or twice daily alone or 30
+minutes prior to loop diuretic
+OR
+» chlorothiazide: children: consult specialist
+for guidance on dose; adults: 250-1000 mg
+intravenously once or twice daily alone or 30
+minutes prior to loop diuretic
+OR
+» metolazone: children: consult specialist for
+guidance on dose; adults: 2.5 to 10 mg orally
+once daily alone or 30 minutes prior to loop
+diuretic
+» Diuretics improve hemodynamics and patient
+comfort.
+» Dual therapy with a thiazide (or thiazide-
+like) diuretic (e.g., hydrochlorothiazide,
+chlorothiazide, metolazone) and a loop diuretic
+(e.g., furosemide) may be required in some
+patients for augmented therapeutic effect.[57]
+The thiazide diuretic should be administered at
+the same time as or 30 minutes prior to the loop
+diuretic.
+» Overdiuresis can cause acute renal failure.
+Volume status should be monitored. Diuretic
+therapy may also precipitate hypokalemia or
+hypomagnesemia. Serum electrolytes should be
+monitored. In patients who have a low cardiac
+index one must be careful not to administer
+diuretics to those with normal or low filling
+pressures.
+» Dose should be started low and increased
+gradually according to response.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Myocarditis Management
+MANAGEMENT
+Acute
+adjunct aldosterone antagonist
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» spironolactone: children: consult specialist
+for guidance on dose; adults: 12.5 to 50 mg/
+day orally given in 1-2 divided doses
+OR
+» eplerenone: adults: 25-50 mg orally once
+daily
+» Aldosterone antagonists (e.g., spironolactone,
+eplerenone) improve survival in patients with
+New York Heart Association (NYHA) class
+II to IV heart failure.[57] Eplerenone is not
+recommended in children.
+» Aldosterone antagonists may cause
+hyperkalemia. Serum potassium should be
+monitored. Aldosterone antagonists may also
+cause gynecomastia in men.
+» Dose should be started low and increased
+gradually according to response.
+adjunct long-term anticoagulation therapy
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» warfarin: children: consult specialist for
+guidance on dose; adults: 2-5 mg orally once
+daily initially, adjust dose according to target
+INR
+Starting dose can also be calculated
+using an online tool that takes patient
+characteristics and/or CYP2C9/VKORC1
+genotype information (if available) into
+account.  [Warfarin dosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+» Patients with left ventricular anteroapical
+akinesis or aneurysm as a result of
+cardiomyopathy are at increased risk for
+stroke or other arterial embolism secondary
+to left ventricular thrombus formation. Chronic
+anticoagulation therapy, such a warfarin,
+reduces this risk.[57]
+» Anticoagulation therapy increases the risk of
+significant bleed. INR should be monitored in all
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Myocarditis Management
+Acute
+patients. Careful dose adjustment is necessary
+according to INR.
+» Warfarin can be safely used as a primary
+anticoagulant in children, including infants.
+Drug interactions, dosing, and appropriate INR
+goals should be based on consultation with a
+specialist.
+hemodynamically unstable: adults
+1st arterial vasodilator + invasive
+hemodynamic monitoring
+Primary options
+» nitroprusside: adults: 0.3 to 0.5 micrograms/
+kg/minute intravenously initially, titrate
+according to response, maximum 10
+micrograms/kg/minute for 10 minutes
+» Sodium nitroprusside and other arterial
+vasodilators allow rapid titration of afterload
+reduction in patients with tenuous blood
+pressure secondary to cardiogenic shock. These
+medications cause a rapid decrease in cardiac
+filling and pulmonary vasculature pressures and
+an increase in cardiac index.[77] Overtitration
+can result in hypotension, worsening end-organ
+hypoperfusion and ultimately in hemodynamic
+collapse.
+» The use of a pulmonary artery catheter
+or arterial catheter enables rapid titration
+of cardiovascular therapies and facilitates
+optimization of cardiac filling pressures
+and cardiac output.[49] It carries the risk
+of procedural complications and should
+only be performed by experienced medical
+professionals.
+» Sodium nitroprusside may precipitate cyanide
+toxicity, especially in patients with renal
+dysfunction.
+adjunct treatment of underlying cause
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+Autoimmune-associated or
+hypersensitivity myocarditis or ICI-related
+myocarditis
+» methylprednisolone: adults: consult
+specialist for guidance on dose
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Myocarditis Management
+MANAGEMENT
+Acute
+Giant cell myocarditis
+» methylprednisolone: adults: consult
+specialist for guidance on dose
+--AND--
+» cyclosporine modified: adults: consult
+specialist for guidance on dose
+-or-
+» muromonab-CD3: adults: consult specialist
+for guidance on dose
+-or-
+» azathioprine: adults: consult specialist for
+guidance on dose
+» Lymphocytic myocarditis generally does not
+require any therapy targeted at the underlying
+cause; management is of the associated heart
+failure. For those with documented influenza,
+antiviral agents may be beneficial. In those
+with SARS-CoV-2 infection, similarly, antiviral
+agents as well as monoclonal antibodies may be
+used. For more information on the treatment of
+influenza infection and SARS-CoV-2 infection,
+see Influenza infection  and Coronavirus disease
+2019 (COVID-19) .
+» Giant cell myocarditis is treated with a
+combination of systemic corticosteroids and
+another immunosuppressive agent such as
+cyclosporine, muromonab-CD3, or azathioprine.
+While giant cell myocarditis is often rapidly fatal,
+immunosuppressive therapy has been shown to
+improve mortality.[10] [91] [94]
+» Systemic corticosteroids improve outcomes
+in patients with autoimmune-associated
+myocarditis.[55]
+» Hypersensitivity myocarditis is treated by
+removal of the offending agent and systemic
+corticosteroids.
+» Corticosteroid use can cause marked
+hyperglycemia and increases the risk of
+infection. Chronic use is associated with bone
+mineral density loss and skin friability.
+» Patients with chagasic myocarditis should be
+treated with an appropriate antiparasitic agent;
+see Chagas disease  for detailed information
+on management. A permanent pacemaker
+with defibrillator is often necessary because
+of conduction abnormalities and ventricular
+arrhythmias.
+» Immune checkpoint inhibitor (ICI)-related
+myocarditis is treated by immediately stopping
+ICI treatment and giving high-dose intravenous
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Myocarditis Management
+Acute
+methylprednisolone. This can be switched to
+a weaning dose of oral prednisone if patients
+show ongoing signs of clinical improvement.
+Second-line immunosuppressive therapy is
+indicated for corticosteroid-resistant patients
+or for hemodynamically unstable patients with
+fulminant myocarditis. Various second-line
+agents are under investigation and specialist
+guidance is recommended. After recovery, a
+multidisciplinary team should review whether to
+restart ICI therapy.[32]
+adjunct intravenous immune globulin (IVIG)
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» immune globulin (human): adults: 2 g/kg
+intravenously as a single dose
+» There is insufficient evidence to routinely
+recommend intravenous IVIG for all patients
+with myocarditis. However, it may provide clinical
+benefit in some cases.[24] [90]
+adjunct nitroglycerin
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» nitroglycerin: adults: 5 micrograms/
+minute intravenously initially, increase by 5
+micrograms/minute increments every 3-5
+minutes according to response up to 20
+micrograms/minute, if no response increase
+by 10-20 micrograms/minute increments
+every 3-5 minutes according to response,
+maximum 100 micrograms/minute
+» Intravenous nitroglycerin is indicated in
+patients with elevated pulmonary vasculature
+and cardiac filling pressures, pulmonary edema,
+and respiratory distress. Causes rapid decrease
+in pulmonary vasculature and left ventricular
+end-diastolic pressures.[77] This effect can
+rapidly improve respiratory distress secondary
+acute pulmonary edema, often preventing the
+need for mechanical ventilation.
+» May cause severe hypotension.
+» When used in conjunction with
+phosphodiesterase-5 inhibitors (e.g., sildenafil)
+may cause precipitous drop in blood pressure
+and cardiovascular collapse.
+adjunct inotrope or vasopressor
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Myocarditis Management
+MANAGEMENT
+Acute
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» dobutamine: adults: consult specialist for
+guidance on dose
+OR
+» milrinone: adults: consult specialist for
+guidance on dose
+Secondary options
+» norepinephrine: adults: consult specialist for
+guidance on dose
+OR
+» phenylephrine injection: adults: consult
+specialist for guidance on dose
+» Intravenous inotropes (e.g., dobutamine,
+milrinone) can be considered in patients with
+associated nonischemic cardiomyopathy in
+whom end-organ hypoperfusion is secondary
+to cardiogenic shock. In this situation, inotropes
+increase cardiac index resulting in increased
+end-organ perfusion. One randomized controlled
+trial found no significant difference between
+dobutamine and milrinone in terms of outcomes
+including in-hospital death, resuscitated cardiac
+arrest, and nonfatal myocardial infarction.[96]
+Dobutamine and milrinone increase the risk of
+ventricular arrhythmias. Also, both agents can
+cause hypotension via their vascular effect and
+thus worsen end-organ perfusion. Long-term
+use of inotropes is associated with increased
+mortality.[57]
+» Vasopressors (e.g., norepinephrine,
+phenylephrine) can be used to elevate blood
+pressure in hypotensive patients with systolic
+dysfunction. Caution is required, as hypotension
+in the setting of cardiomyopathy is frequently
+caused by low cardiac output, which will be
+worsened with the use of vasopressors. Invasive
+hemodynamic monitoring with a Swan-Ganz
+catheter can be used to discern the etiology
+of hypotension and inform the decision to use
+these agents. Use of vasopressors in the setting
+of hypovolemia is associated with limb and
+mesenteric ischemia, organ hypoperfusion,
+and increased mortality. The volume status
+of the patient must therefore be known to be
+normal before the use of vasopressors can be
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Myocarditis Management
+Acute
+considered. Phenylephrine is the preferred agent
+in the setting of significant hypotension.
+refractory cardiogenic
+shock
+plus mechanical circulatory support
+Treatment recommended for ALL patients in
+selected patient group
+» Mechanical circulatory support with an intra-
+aortic balloon pump (IABP) or left ventricular
+assist device (LVAD [e.g., Impella®]) may be
+indicated in patients with refractory cardiogenic
+shock despite optimal aggressive medical
+therapy. Both devices may be used as a
+bridge to recovery or as a bridge to heart
+transplantation if no response to treatment.[57]
+» IABP markedly increases the risk of infection.
+The patient should be frequently re-evaluated to
+determine if IABP is still a necessity and remove
+it as soon as deemed safe.
+» IABP also increases the risk of limb ischemia.
+The lower extremities must be regularly
+examined and the IABP must be removed at the
+first sign of arterial compromise.
+» In addition, IABP increases the risk of arterial
+thrombus. Heparin should be used in conjunction
+with this therapy if not contraindicated.
+» Patients should continue on their existing heart
+failure medications along with the IABP.
+» LAVDs are associated with moderate risk for
+perioperative complication or mortality. They
+also impart a high risk of serious bleeding
+complication.[97]
+» Driveline infections are the most common
+LVAD-associated infection and require antibiotic
+therapy.[98]
+» LVADs also carry a high risk of arterial
+thromboembolic disease. Most require long-term
+anticoagulation.[97]
+» Continuation of heart failure medications with
+LVAD is determined on a case-by-case basis.
+hemodynamically unstable: children
+1st inotrope
+Primary options
+» dobutamine: children: consult specialist for
+guidance on dose
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Myocarditis Management
+MANAGEMENT
+Acute
+» milrinone: children: consult specialist for
+guidance on dose
+» Inotropic support may be provided with
+commonly used agents such as milrinone or
+dobutamine. These agents are considered
+inodilators and provide inotropy with
+vasodilatation.[15]
+adjunct mechanical circulatory support
+Treatment recommended for SOME patients in
+selected patient group
+» For children with acute or fulminant myocarditis
+who are demonstrating hemodynamic instability,
+consideration may be given to early mechanical
+circulatory support, as medical therapy
+during this phase is often not adequate. This
+is especially true if the patient is already
+demonstrating arrhythmias.
+» Depending on the age and size of the child,
+and center preference, such circulatory support
+may be provided by extracorporeal membrane
+oxygenation (ECMO) or by a temporary
+left ventricular assist device such as with
+TandemHeart® or Impella®.
+» ECMO is recommended for children
+with cardiogenic shock, cardiorespiratory
+compromise, or significant arrhythmias.[15]
+Venoarterial ECMO (VA-ECMO), when used for
+supporting pediatric myocarditis patients, has a
+survival to hospital discharge of 76%.[99] This
+is the best survival of any indication for pediatric
+VA-ECMO.[99]
+» A durable left ventricular assist device can
+be used as a bridge to recovery or heart
+transplantation if ECMO cannot be weaned.[15]
+adjunct treatment of underlying cause
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+Autoimmune-associated or
+hypersensitivity myocarditis or ICI-related
+myocarditis
+» methylprednisolone: children: consult
+specialist for guidance on dose
+OR
+Giant cell myocarditis
+» methylprednisolone: children: consult
+specialist for guidance on dose
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Myocarditis Management
+Acute
+--AND--
+» cyclosporine modified: children: consult
+specialist for guidance on dose
+-or-
+» muromonab-CD3: children: consult
+specialist for guidance on dose
+-or-
+» azathioprine: children: consult specialist for
+guidance on dose
+» Lymphocytic myocarditis generally does not
+require any therapy targeted at the underlying
+cause; management is of the associated heart
+failure. For those with documented influenza,
+antiviral agents may be beneficial. In those
+with SARS-CoV-2 infection, similarly, antiviral
+agents as well as monoclonal antibodies may be
+used. For more information on the treatment of
+influenza infection and SARS-CoV-2 infection,
+see Influenza infection  and Coronavirus disease
+2019 (COVID-19) .
+» Giant cell myocarditis is treated with a
+combination of systemic corticosteroids and
+another immunosuppressive agent such as
+cyclosporine, muromonab-CD3, or azathioprine.
+While giant cell myocarditis is often rapidly fatal,
+immunosuppressive therapy has been shown to
+improve mortality.[10] [91] [94]
+» Systemic corticosteroids improve outcomes
+in patients with autoimmune-associated
+myocarditis.[55]
+» Hypersensitivity myocarditis is treated by
+removal of the offending agent and systemic
+corticosteroids.
+» Corticosteroid use can cause marked
+hyperglycemia and increases the risk of
+infection. Chronic use is associated with bone
+mineral density loss and skin friability.
+» Patients with chagasic myocarditis should be
+treated with an appropriate antiparasitic agent;
+see Chagas disease  for detailed information
+on management. A permanent pacemaker
+with defibrillator is often necessary because
+of conduction abnormalities and ventricular
+arrhythmias.
+» Immune checkpoint inhibitor (ICI)-related
+myocarditis is treated by immediately stopping
+ICI treatment and giving high-dose intravenous
+methylprednisolone. This can be switched to
+a weaning dose of oral prednisone if patients
+show ongoing signs of clinical improvement.
+Second-line immunosuppressive therapy is
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Myocarditis Management
+MANAGEMENT
+Acute
+indicated for corticosteroid-resistant patients
+or for hemodynamically unstable patients with
+fulminant myocarditis. Various second-line
+agents are under investigation and specialist
+guidance is recommended. After recovery, a
+multidisciplinary team discussion should review
+whether to restart ICI therapy.[32]
+adjunct intravenous immune globulin (IVIG)
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» immune globulin (human): children: 2 g/kg
+intravenously as a single dose
+» There is insufficient evidence to routinely
+recommend intravenous IVIG for all patients
+with myocarditis. However, it may provide clinical
+benefit in some cases, and is frequently used to
+treat children in clinical practice.[24] [90]
+Ongoing
+end-stage heart failure or refractory
+life-threatening arrhythmias
+1st heart transplantation
+» Heart transplantation markedly improves
+survival, New York Heart Association (NYHA)
+functional class, and therefore quality of life
+in patients with end-stage heart failure or
+refractory life-threatening arrhythmias.[57] Post-
+transplant, patients are treated with appropriate
+immunosuppression.
+2nd destination left ventricular assist device
+therapy + continue pharmacological
+treatment
+» Patients who have chronic refractory New
+York Heart Association (NYHA) stage IV heart
+failure and who are not candidates for heart
+transplantation because of age or comorbid
+conditions have improved survival, as compared
+with medical management, with long-term
+destination left ventricular assist device (LVAD)
+therapy.[100] Due to improved outcomes with
+LVAD, patients are also able to choose LVAD
+therapy instead of heart transplantation. 
+» In general, these patients are kept on their
+existing medication, which are adjusted as
+hemodynamics allow. The addition of systemic
+anticoagulation and use of antiplatelet therapy is
+required.
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Myocarditis Management
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Myocarditis Management
+MANAGEMENT
+Emerging
+Levosimendan
+Levosimendan is an inodilator, meaning it provides inotropy with vasodilation. It has been licensed in Europe
+since the 2000s for the short-term treatment of acutely decompensated severe chronic heart failure when
+conventional therapy is not sufficient, and in cases where inotropic support is considered appropriate.[101] It
+is not approved for use in the US but remains under active clinical investigation.[101] Randomized controlled
+trials in adults have shown that levosimendan improves clinical outcomes and is generally well tolerated.[102]
+[103] Evidence of levosimendan improving mortality versus other inodilators such as dobutamine remains
+conflicting.[104] [105] Levosimendan has also demonstrated efficacy in the pediatric population with an
+acceptable safety profile. Results from a single-center retrospective study suggested that levosimendan
+may reduce the need for mechanical circulatory support in children undergoing cardiac surgery or with
+decompensated heart failure.[106] Other studies have shown that levosimendan has similar efficacy to or is
+superior to milrinone in neonates and children.[107] [108] Despite these findings, robust clinical trial evidence
+for levosimendan in pediatric patients remains lacking.[101] Levosimendan is being investigated for other
+indications including pulmonary hypertension and septic shock.[109] It failed to demonstrate superiority to
+placebo in patients with amyotrophic lateral sclerosis.[110]
+Primary prevention
+Very little is known regarding effective measures to prevent myocarditis. Current aims of primary prevention
+are limited to preventing the development of a condition known to be associated with myocarditis. An
+example is having safe-sex practices to prevent infection with HIV.
+In cancer patients undergoing treatment with immune checkpoint inhibitors (ICIs), serial ECGs and
+troponin measurements should be taken to detect subclinical ICI-related cardiovascular toxicity. Broader
+cardiovascular assessment should be considered every 6-12 months in patients who require long-term
+treatment.[32]
+Secondary prevention
+Ethanol abstinence is encouraged in all patients with a history of myocarditis, although the effects of modest
+alcohol consumption on nonalcohol-related cardiomyopathy are unknown. Avoidance of participation
+in competitive sports for 3-6 months after a diagnosis of myocarditis is recommended, including in
+children.[15] Avoidance of nonsteroidal inflammatory drugs is also recommended to limit the risk of increased
+inflammation and mortality.[55] 
+Patient discussions
+Patient instruction depends on individual patient characteristics. Universal limitation of salt and water
+intake for volume and blood pressure management is recommended for all patients with myocarditis.
+Home blood pressure measurement and daily weight recordings with frequent communication with the
+primary physician are ideal.
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Myocarditis Follow up
+Monitoring
+Monitoring
+Recommended follow-up is dictated by the clinical course of the individual patient. Patients who exhibit
+only mild symptoms with prompt resolution of symptoms should be followed closely initially, but monitoring
+can be quickly spaced out to annual visits unless symptoms recur. However, patient with persistent left
+ventricular (LV) dysfunction or evidence of progression of myocardial inflammation warrant regular follow-
+up at least every few months or sooner until the patient is stable clinically.[55] [75]
+In children, biopsy or cardiac MRI may be necessary if ventricular function, inflammatory biomarkers, or
+viral activity continue to be abnormal at follow-up.[15]
+Complications
+Complications Timeframe Likelihood
+atrial fibrillation long term medium
+Often occurs in the setting of increased intra-atrial pressures and dilatation as a result of LV systolic and
+diastolic dysfunction and mitral valve regurgitation.
+ventricular tachyarrhythmias long term low
+Most commonly associated with Chagas disease myocarditis but can be seen in all etiologies of
+myocarditis.[8] Patients with symptomatic, recurrent ventricular tachyarrhythmias after myocarditis can be
+treated with antiarrhythmic drugs. An implantable cardiac defibrillator can be considered for more severe
+or sustained ventricular tachyarrhythmias. Catheter ablation can be an effective second-line option for
+patients with sustained monomorphic ventricular tachycardia.[21]
+dilated cardiomyopathy variable medium
+Presumably occurs due to progression of the original disease process. Developed in 21% of patients with
+acute myocarditis over a mean follow-up period of 3 years.[21] The patient should be treated with standard
+heart failure therapies and referred to a heart failure specialist.
+sudden cardiac death variable low
+Usually caused by ventricular tachycardia or ventricular fibrillation associated with dilated cardiomyopathy.
+Up to 12% of sudden cardiac deaths in young people are estimated to be related to myocarditis.[21]
+multisystem organ failure variable low
+Rarely occurs as a result of either acute presentation of fulminant heart failure or as the result of end-stage
+heart failure secondary to chronic dilated cardiomyopathy.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Myocarditis Follow up
+FOLLOW UP
+Prognosis
+Given the limitations in current methods of diagnosing myocarditis, it is not surprising that its natural
+history and associated prognosis are as varied as its clinical presentations. A study looking at the
+outcomes of patients presenting with acute myocarditis found no connection between clinical variables and
+prognosis.[111] Despite this, multiple factors have been linked to a favorable or poorer outcome. A definite
+association exists between the myocarditis-associated risk factor or specific type of myocarditis and the
+prognosis of the patient.[5] Also, the severity of illness at presentation tends to correlate with long-term
+outcome.
+Endomyocardial biopsy (EMB) DNA PCR persistence of
+cardiotropic viral genome
+The prognosis of patients in whom the EMB DNA polymerase chain reaction analysis is positive for a
+cardiotropic viral genome has been studied. Those who have persistently positive viral genome analysis on
+EMB demonstrate worsening left ventricular (LV) ejection fraction and outcome when compared with those
+who test negative on subsequent EMBs.[112]
+Fulminant myocarditis
+Patients who present with fulminant myocarditis surprisingly tend to have better outcomes than those who
+present with a clinically milder acute myocarditis. An 11-year study of patients presenting with myocarditis
+showed a 93% survival free of heart transplantation in patients with fulminant myocarditis as opposed to 45%
+in patients who presented with acute myocarditis.[113]
+Giant cell myocarditis
+Despite modest improvement in mortality with immunosuppressive therapy, patients with giant cell
+myocarditis have the worst outcomes with a median survival of 5.5 months from the onset of heart failure
+symptoms.[91]
+Presentation mimicking MI
+Patients presenting with chest pain and ECG changes similar to those seen in ST-segment elevation
+myocardial infarction have almost uniform recovery without any residual cardiac dysfunction.[17]
+Histologic resolution of myocardial inflammation
+Patients with histologic resolution of myocardial cellular infiltration on repeat EMB tend to have improvement
+in cardiac function and a favorable clinical outcome.[114]
+Serum immunologic markers
+Patients with idiopathic cardiomyopathy and elevated levels of serum tumor necrosis factor (TNF)-alpha
+receptor-1 and fas at presentation have a worse clinical course and are more likely to not recover LV function
+than those with lower levels.[115]
+Cardiac MRI findings
+A normal cardiac MRI indicates a favorable long-term prognosis, regardless of clinical and other findings.
+Myocardial edema without fibrosis is also associated with a positive prognosis.[56]
+Conversely, a significant amount of early and late gadolinium enhancement correlates with a poor
+prognosis.[56]
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Myocarditis Guidelines
+Diagnostic guidelines
+International
+2022 AHA/ACC/HFSA guideline for the management of heart failure# (https://
+professional.heart.org/en/guidelines-and-statements)   [57]
+Published by: American Heart Association; American College of
+Cardiology; Heart Failure Society of America
+Last published: 2022
+ACR appropriateness criteria: nonischemic myocardial disease with
+clinical manifestations (ischemic cardiomyopathy already excluded)
+(https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [56]
+Published by: American College of Radiology Last published: 2021
+Diagnosis and management of myocarditis in children (https://
+professional.heart.org/en/guidelines-and-statements)   [15]
+Published by: American Heart Association Last published: 2021
+Current diagnostic and treatment strategies for specific dilated
+cardiomyopathies: A scientific statement from the American
+Heart Association (https://professional.heart.org/professional/
+GuidelinesStatements/UCM_316885_Guidelines-Statements.jsp)   [55]
+Published by: American Heart Association Last published: 2016
+Canadian Cardiovascular Society Consensus Conference guidelines on heart
+failure, update 2009: diagnosis and management of right-sided heart failure,
+myocarditis, device therapy and recent important clinical trials (https://
+www.ccs.ca/index.php/en/guidelines-library)   [75]
+Published by: Canadian Cardiovascular Society Last published: 2009
+2021 ESC guidelines for the diagnosis and treatment of acute and chronic
+heart failure (https://www.escardio.org/Guidelines/Clinical-Practice-
+Guidelines)   [58]
+Published by: European Society of Cardiology Last published: 2021
+Diagnosis and management of myocardial involvement in systemic immune-
+mediated diseases: a position statement of the European Society of
+Cardiology Working Group on Myocardial and Pericardial Disease (https://
+www.escardio.org/Guidelines/Consensus-and-Position-Papers)   [26]
+Published by: European Society of Cardiology Last published: 2017
+Current state of knowledge on aetiology, diagnosis, management, and
+therapy of myocarditis: a position statement of the European Society of
+Cardiology Working Group on Myocardial and Pericardial Diseases (https://
+www.escardio.org/Guidelines/Consensus-and-Position-Papers)   [5]
+Published by: European Society of Cardiology Last published: 2013
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Myocarditis Guidelines
+GUIDELINES
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Myocarditis Guidelines
+Treatment guidelines
+International
+2022 AHA/ACC/HFSA guideline for the management of heart failure (https://
+professional.heart.org/en/guidelines-and-statements)   [57]
+Published by: American Heart Association; American College of
+Cardiology; Heart Failure Society of America
+Last published: 2022
+Diagnosis and management of myocarditis in children (https://
+professional.heart.org/en/guidelines-and-statements)   [15]
+Published by: American Heart Association Last published: 2021
+Current diagnostic and treatment strategies for specific dilated
+cardiomyopathies: A scientific statement from the American
+Heart Association (https://professional.heart.org/professional/
+GuidelinesStatements/UCM_316885_Guidelines-Statements.jsp)   [55]
+Published by: American Heart Association Last published: 2016
+Canadian Cardiovascular Society Consensus Conference guidelines on heart
+failure, update 2009: diagnosis and management of right-sided heart failure,
+myocarditis, device therapy and recent important clinical trials (https://
+www.ccs.ca/index.php/en/guidelines-library)   [75]
+Published by: Canadian Cardiovascular Society Last published: 2009
+2022 ESC Guidelines for the management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [21]
+Published by: European Society of Cardiology Last published: 2022
+2022 ESC Guidelines on cardio-oncology (https://www.escardio.org/
+Guidelines/Clinical-Practice-Guidelines)   [32]
+Published by: European Society of Cardiology Last published: 2022
+2021 ESC guidelines for the diagnosis and treatment of acute and chronic
+heart failure (https://www.escardio.org/Guidelines/Clinical-Practice-
+Guidelines)   [58]
+Published by: European Society of Cardiology Last published: 2021
+Diagnosis and management of myocardial involvement in systemic immune-
+mediated diseases: a position statement of the European Society of
+Cardiology Working Group on Myocardial and Pericardial Disease (https://
+www.escardio.org/Guidelines/Consensus-and-Position-Papers)   [26]
+Published by: European Society of Cardiology Last published: 2017
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Myocarditis Guidelines
+GUIDELINES
+International
+Current state of knowledge on aetiology, diagnosis, management, and
+therapy of myocarditis: a position statement of the European Society of
+Cardiology Working Group on Myocardial and Pericardial Diseases (https://
+www.escardio.org/Guidelines/Consensus-and-Position-Papers)   [5]
+Published by: European Society of Cardiology Last published: 2013
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Myocarditis Online resources
+Online resources
+1. Warfarin dosing (http://www.warfarindosing.org/Source/Home.aspx)  (external link)
+ONLINE RESOURCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Myocarditis References
+REFERENCES
+Key articles
+• Lieberman EB, Hershkowitz A, Rose NR, et al. A clinicopathologic description of myocarditis.
+Clin Immunol Immunopathol. 1993 Aug;68(2):191-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8358858?tool=bestpractice.bmj.com)
+• Law YM, Lal AK, Chen S, et al. Diagnosis and management of myocarditis in children: a scientific
+statement from the American Heart Association. Circulation. 2021 Aug 10;144(6):e123-35.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001001)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34229446?tool=bestpractice.bmj.com)
+• Bozkurt B, Colvin M, Cook J, et al. Current diagnostic and treatment strategies for specific dilated
+cardiomyopathies: a scientific statement from the American Heart Association. Circulation. 2016 Nov
+3;134(23):e579-646.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000455)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27832612?tool=bestpractice.bmj.com)
+• Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association
+Joint Committee on Clinical Practice Guidelines. Circulation. 2022 May 3;145(18):e895-1032. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35363499?tool=bestpractice.bmj.com)
+• Aretz HT, Billingham ME, Edwards WD, et al. Myocarditis. A histopathologic definition and
+classification. Am J Cardiovasc Pathol. 1987 Jan;1(1):3-14. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/3455232?tool=bestpractice.bmj.com)
+References
+1. Tschöpe C, Ammirati E, Bozkurt B, et al. Myocarditis and inflammatory cardiomyopathy: current
+evidence and future directions. Nat Rev Cardiol. 2021 Mar;18(3):169-93.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC7548534)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33046850?tool=bestpractice.bmj.com)
+2. Lieberman EB, Hershkowitz A, Rose NR, et al. A clinicopathologic description of myocarditis.
+Clin Immunol Immunopathol. 1993 Aug;68(2):191-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8358858?tool=bestpractice.bmj.com)
+3. Magnani JW, Suk-Danik HJ, Dec GW Jr, et al. Survival in biopsy-proven myocarditis: a long-
+term retrospective analysis of the histopathologic, clinical, and hemodynamic predictors. Am
+Heart J. 2006 Feb;151(2):463-70. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16442915?
+tool=bestpractice.bmj.com)
+4. Dec GW. Introduction to clinical myocarditis. In: Cooper LT, ed. Myocarditis: from bench to bedside.
+Totowa, NJ: Humana Press; 2003:257-81.
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Myocarditis References
+5. Caforio AL, Pankuweit S, Arbustini E, et al. Current state of knowledge on aetiology, diagnosis,
+management, and therapy of myocarditis: a position statement of the European Society of Cardiology
+working group on myocardial and pericardial diseases. Eur Heart J. 2013 Jul 3;34(33):2636-48. 
+Full text (https://academic.oup.com/eurheartj/article/34/33/2636/408735)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23824828?tool=bestpractice.bmj.com)
+6. Carrillo-Salinas FJ, Ngwenyama N, Anastasiou M, et al. Heart inflammation: immune cell roles and
+roads to the heart. Am J Pathol. 2019 Aug;189(8):1482-94.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC6717912)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31108102?
+tool=bestpractice.bmj.com)
+7. Whitton JL, Feuer R. Myocarditis, microbes and autoimmunity. Autoimmunity. 2004 Aug;37(5):375-86.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15621561?tool=bestpractice.bmj.com)
+8. Rassi A Jr, Rassi A, Little WC. Chagas' heart disease. Clin Cardiol. 2000 Dec;23(12):883-99. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/11129673?tool=bestpractice.bmj.com)
+9. Rosenstein ED, Zucker MJ, Kramer N. Giant cell myocarditis: most fatal of autoimmune
+diseases. Semin Arthritis Rheum. 2000 Aug;30(1):1-16. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10966208?tool=bestpractice.bmj.com)
+10. Shih JA, Shih JA. Small steps for idiopathic giant cell myocarditis. Curr Heart Fail Rep. 2015
+Jun;12(3):263-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25895034?tool=bestpractice.bmj.com)
+11. Taliercio CP, Olney BA, Lie JT. Myocarditis related to drug hypersensitivity. Mayo Clin Proc. 1985
+Jul;60(7):463-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/4010343?tool=bestpractice.bmj.com)
+12. Fenoglio JJ Jr, McAllister HA Jr, Mullick FG. Drug related myocarditis. I. Hypersensitivity myocarditis.
+Hum Pathol. 1981 Oct;12(10):900-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7298049?
+tool=bestpractice.bmj.com)
+13. Peretto G, Sala S, Carturan E, et al. Clinical profiling and outcomes of viral myocarditis manifesting
+with ventricular arrhythmias. Eur Heart J Open. 2023 Dec 5;3(6):oead132.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC10733193)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/38130417?tool=bestpractice.bmj.com)
+14. Ekström K, Lehtonen J, Kandolin R, et al. Incidence, risk factors, and outcome of life-
+threatening ventricular arrhythmias in giant cell myocarditis. Circ Arrhythm Electrophysiol. 2016
+Dec;9(12):e004559.  Full text (https://www.ahajournals.org/doi/10.1161/CIRCEP.116.004559)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27913400?tool=bestpractice.bmj.com)
+15. Law YM, Lal AK, Chen S, et al. Diagnosis and management of myocarditis in children: a scientific
+statement from the American Heart Association. Circulation. 2021 Aug 10;144(6):e123-35.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001001)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34229446?tool=bestpractice.bmj.com)
+16. Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR guideline
+for the evaluation and diagnosis of chest pain: a report of the American College of Cardiology/
+American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021 Nov
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Myocarditis References
+REFERENCES
+30;144(22):e368-454.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001029) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34709879?tool=bestpractice.bmj.com)
+17. Dec GW Jr, Waldman H, Southern J, et al. Viral myocarditis mimicking acute myocardial infarction.
+J Am Coll Cardiol. 1992 Jul;20(1):85-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1607543?
+tool=bestpractice.bmj.com)
+18. Maron BJ, Doerer JJ, Haas TS, et al. Sudden deaths in young competitive athletes: analysis of 1866
+deaths in the United States, 1980-2006. Circulation. 2009 Mar 3;119(8):1085-92.  Full text (https://
+www.doi.org/10.1161/CIRCULATIONAHA.108.804617)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19221222?tool=bestpractice.bmj.com)
+19. Blankenhorn MA, Gall EA. Myocarditis and myocardosis; a clinicopathologic appraisal.
+Circulation. 1956 Feb;13(2):217-23. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/13356381?
+tool=bestpractice.bmj.com)
+20. Doolan A, Langlois N, Semsarian C. Causes of sudden cardiac death in young Australians. Med
+J Aust. 2004 Feb 2;180(3):110-2.  Full text (https://www.mja.com.au/journal/2004/180/3/causes-
+sudden-cardiac-death-young-australians)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14748671?
+tool=bestpractice.bmj.com)
+21. Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC Guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://academic.oup.com/eurheartj/article/43/40/3997/6675633?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+22. Felker GM, Hu W, Hare JM, et al. The spectrum of dilated cardiomyopathy. The Johns Hopkins
+experience with 1,278 patients. Medicine (Baltimore). 1999 Jul;78(4):270-83. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10424207?tool=bestpractice.bmj.com)
+23. Arola A, Pikkarainen E, Sipilä JO, et al. Occurrence and features of childhood myocarditis: a
+nationwide study in Finland. J Am Heart Assoc. 2017 Nov 18;6(11):e005306.  Full text (https://
+www.doi.org/10.1161/JAHA.116.005306)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29151030?
+tool=bestpractice.bmj.com)
+24. Butts RJ, Boyle GJ, Deshpande SR, et al. Characteristics of clinically diagnosed pediatric myocarditis
+in a contemporary multi-center cohort. Pediatr Cardiol. 2017 Aug;38(6):1175-82. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28536746?tool=bestpractice.bmj.com)
+25. Schultz JC, Hilliard AA, Cooper LT Jr, et al. Diagnosis and treatment of viral myocarditis. Mayo
+Clin Proc. 2009 Nov;84(11):1001-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19880690?
+tool=bestpractice.bmj.com)
+26. Caforio ALP, Adler Y, Agostini C, et al. Diagnosis and management of myocardial involvement in
+systemic immune-mediated diseases: a position statement of the European Society of Cardiology
+Working Group on Myocardial and Pericardial Disease. Eur Heart J. 2017 Sep 14;38(35):2649-62. 
+Full text (https://academic.oup.com/eurheartj/article/38/35/2649/3893585)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28655210?tool=bestpractice.bmj.com)
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Myocarditis References
+27. Patone M, Mei XW, Handunnetthi L, et al. Risks of myocarditis, pericarditis, and cardiac arrhythmias
+associated with COVID-19 vaccination or SARS-CoV-2 infection. Nat Med. 2022 Feb;28(2):410-22. 
+Full text (https://www.doi.org/10.1038/s41591-021-01630-0)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34907393?tool=bestpractice.bmj.com)
+28. Daniels CJ, Rajpal S, Greenshields JT, et al. Prevalence of cinical and subclinical myocarditis
+in competitive athletes with recent SARS-CoV-2 infection: results from the Big Ten COVID-19
+Cardiac Registry. JAMA Cardiol. 2021 Sep 1;6(9):1078-87.  Full text (https://www.doi.org/10.1001/
+jamacardio.2021.2065)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34042947?
+tool=bestpractice.bmj.com)
+29. Khalil A, Naneishvili T, Prasad N, et al. SARS-CoV-2 myocarditis: what physicians need to know. BMJ
+Evid Based Med. 2022 Apr;27(2):77-8.  Full text (https://www.doi.org/10.1136/bmjebm-2020-111527)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33402328?tool=bestpractice.bmj.com)
+30. Truong DT, Dionne A, Muniz JC, et al. Clinically suspected myocarditis temporally related to
+COVID-19 vaccination in adolescents and young adults: suspected myocarditis after COVID-19
+vaccination. Circulation. 2022 Feb;145(5):345-56.  Full text (https://www.doi.org/10.1161/
+CIRCULATIONAHA.121.056583)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34865500?
+tool=bestpractice.bmj.com)
+31. Oster ME, Shay DK, Su JR, et al. Myocarditis cases reported after mRNA-based COVID-19
+vaccination in the US from December 2020 to August 2021. JAMA. 2022 Jan 25;327(4):331-40. 
+Full text (https://www.doi.org/10.1001/jama.2021.24110)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35076665?tool=bestpractice.bmj.com)
+32. Lyon AR, López-Fernández T, Couch LS, et al. 2022 ESC Guidelines on cardio-oncology developed
+in collaboration with the European Hematology Association (EHA), the European Society for
+Therapeutic Radiology and Oncology (ESTRO) and the International Cardio-Oncology Society (IC-
+OS). Eur Heart J. 2022 Nov 1;43(41):4229-361.  Full text (https://academic.oup.com/eurheartj/
+article/43/41/4229/6673995?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36017568?
+tool=bestpractice.bmj.com)
+33. Basso C. Myocarditis. N Engl J Med. 2022 Oct 20;387(16):1488-500. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36260793?tool=bestpractice.bmj.com)
+34. Ling RR, Ramanathan K, Tan FL, et al. Myopericarditis following COVID-19 vaccination and
+non-COVID-19 vaccination: a systematic review and meta-analysis. Lancet Respir Med. 2022
+Jul;10(7):679-88.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9000914)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35421376?tool=bestpractice.bmj.com)
+35. Naqash AR, Moey MYY, Cherie Tan XW, et al. Major adverse cardiac events with immune checkpoint
+inhibitors: a pooled analysis of trials sponsored by the National Cancer Institute-cancer therapy
+evaluation program. J Clin Oncol. 2022 Oct 10;40(29):3439-52.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC10166352)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35658474?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Myocarditis References
+REFERENCES
+36. Liu PP, Mason JW. Advances in the understanding of myocarditis. Circulation. 2001 Aug
+28;104(9):1076-82.  Full text (https://www.ahajournals.org/doi/full/10.1161/hc3401.095198)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/11524405?tool=bestpractice.bmj.com)
+37. Belkaya S, Kontorovich AR, Byun M, et al. Autosomal recessive cardiomyopathy presenting as acute
+myocarditis. J Am Coll Cardiol. 2017 Apr 4;69(13):1653-65.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC5551973)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28359509?
+tool=bestpractice.bmj.com)
+38. Brown EE, McMilllan KN, Halushka MK, et al. Genetic aetiologies should be considered in paediatric
+cases of acute heart failure presumed to be myocarditis. Cardiol Young. 2019 Jul;29(7):917-21.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31198128?tool=bestpractice.bmj.com)
+39. Kontorovich AR, Patel N, Moscati A, et al. Myopathic cardiac genotypes increase risk for myocarditis.
+JACC Basic Transl Sci. 2021 Jul;6(7):584-92.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC8326270)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34368507?tool=bestpractice.bmj.com)
+40. Martens CR, Accornero F. Viruses in the heart: direct and indirect routes to myocarditis and heart
+failure. Viruses. 2021 Sep 24;13(10):1924.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC8537553)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34696354?tool=bestpractice.bmj.com)
+41. Maisch B. Cardio-immunology of myocarditis: focus on immune mechanisms and treatment options.
+Front Cardiovasc Med. 2019 Apr 12;6:48.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC6473396)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31032264?tool=bestpractice.bmj.com)
+42. Kawai C. From myocarditis to cardiomyopathy: mechanisms of inflammation and cell death:
+learning from the past for the future. Circulation. 1999 Mar 2;99(8):1091-100.  Full text (https://
+www.ahajournals.org/doi/full/10.1161/01.cir.99.8.1091)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10051305?tool=bestpractice.bmj.com)
+43. Feldman AM, McNamara D. Myocarditis. N Engl J Med. 2000 Nov 9;343(19):1388-98. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11070105?tool=bestpractice.bmj.com)
+44. Kaya Z, Afanasyeva M, Wang Y, et al. Contributions of the innate immune system to autoimmune
+myocarditis: a role for complement. Nat Immunol. 2001 Aug;2(8):739-45. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11477411?tool=bestpractice.bmj.com)
+45. Baboonian C, Treasure T. Meta-analysis of the association of enteroviruses with human heart
+disease. Heart. 1997 Dec;78(6):539-43. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9470867?
+tool=bestpractice.bmj.com)
+46. Hofman P, Drici MD, Gibelin P, et al. Prevalence of toxoplasma myocarditis in patients with the
+acquired immunodeficiency syndrome. Br Heart J. 1993 Oct;70(4):376-81. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8217449?tool=bestpractice.bmj.com)
+47. Barbaro G, Di Lorenzo G, Grisorio B, et al. Incidence of dilated cardiomyopathy and detection of HIV
+in myocardial cells of HIV-positive patients. Grupo Italiano per lo Studio Cardiologico dei Pazienti
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Myocarditis References
+Affetti da AIDS. N Engl J Med. 1998 Oct 15;339(16):1093-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9770555?tool=bestpractice.bmj.com)
+48. Frustaci A, Gentiloni N, Caldarulo M. Acute myocarditis and left ventricular aneurysm as
+presentations of systemic lupus erythematosus. Chest. 1996 Jan;109(1):282-4. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8549201?tool=bestpractice.bmj.com)
+49. Clemson BS, Miller WR, Luck JC, et al. Acute myocarditis in fulminant systemic sclerosis. Chest. 1992
+Mar;101(3):872-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1541169?tool=bestpractice.bmj.com)
+50. Okura Y, Dec GW, Hare JM, et al. A clinical and histopathologic comparison of cardiac sarcoidosis
+and idiopathic giant cell myocarditis. J Am Coll Cardiol. 2003 Jan 15;41(2):322-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12535829?tool=bestpractice.bmj.com)
+51. Pinney SP, Mancini DM. Myocarditis and specific cardiomyopathies - endocrine disease and alcohol.
+In: Fuster V, Alexander RW, O'Rourke FA, eds. Hurst's the heart, 11th ed. New York, NY: McGraw-Hill;
+2004:1949-74.
+52. Halsell JS, Riddle JR, Atwood JE, et al. Myopericarditis following smallpox vaccination among
+vaccinia-naive US military personnel. JAMA. 2003 Jun 25;289(24):3283-9.  Full text (http://
+jama.jamanetwork.com/article.aspx?articleid=196808)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12824210?tool=bestpractice.bmj.com)
+53. Burke AP, Saenger J, Mullick R, et al. Hypersensitivity myocarditis. Arch Pathol Lab Med. 1991
+Aug;115(8):764-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1863186?tool=bestpractice.bmj.com)
+54. Ansari A, Maron BJ, Berntson DG. Drug-induced toxic myocarditis. Tex Heart Inst J.
+2003;30(1):76-9.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC152844)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12638679?tool=bestpractice.bmj.com)
+55. Bozkurt B, Colvin M, Cook J, et al. Current diagnostic and treatment strategies for specific dilated
+cardiomyopathies: a scientific statement from the American Heart Association. Circulation. 2016 Nov
+3;134(23):e579-646.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000455)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27832612?tool=bestpractice.bmj.com)
+56. Expert Panel on Cardiac Imaging, Rajiah P, Kirsch J, Bolen MA, et al. ACR Appropriateness
+Criteria® Nonischemic myocardial disease with clinical manifestations (ischemic cardiomyopathy
+already excluded). J Am Coll Radiol. 2021 May;18(5S):S83-105.  Full text (https://www.jacr.org/
+article/S1546-1440(21)00115-0/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33651982?
+tool=bestpractice.bmj.com)
+57. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association
+Joint Committee on Clinical Practice Guidelines. Circulation. 2022 May 3;145(18):e895-1032. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35363499?tool=bestpractice.bmj.com)
+58. McDonagh TA, Metra M, Adamo M, et al. 2021 ESC guidelines for the diagnosis and treatment
+of acute and chronic heart failure. Eur Heart J. 2021 Sep 21;42(36):3599-726.  Full text (https://
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+65
+=== Page 66 ===
+Myocarditis References
+REFERENCES
+academic.oup.com/eurheartj/article/42/36/3599/6358045)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34447992?tool=bestpractice.bmj.com)
+59. Seferović PM, Tsutsui H, McNamara DM, et al. Heart Failure Association of the ESC, Heart Failure
+Society of America and Japanese Heart Failure Society position statement on endomyocardial
+biopsy. Eur J Heart Fail. 2021 Jun;23(6):854-71.  Full text (https://onlinelibrary.wiley.com/doi/10.1002/
+ejhf.2190)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34010472?tool=bestpractice.bmj.com)
+60. Friedrich MG, Strohm O, Schulz-Menger, et al. Contrast media-enhanced magnetic resonance
+imaging visualizes myocardial changes in the course of viral myocarditis. Circulation. 1998 May
+12;97(18):1802-9.  Full text (https://www.ahajournals.org/doi/full/10.1161/01.cir.97.18.1802)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/9603535?tool=bestpractice.bmj.com)
+61. Ichikawa R, Sumitomo N, Komori A, et al. The follow-up evaluation of electrocardiogram and
+arrhythmias in children with fulminant myocarditis. Circ J. 2011;75(4):932-8.  Full text (https://
+www.doi.org/10.1253/circj.cj-10-0918)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21343655?
+tool=bestpractice.bmj.com)
+62. Skouri HN, Dec GW, Friedrich MG, et al. Noninvasive imaging in myocarditis. J Am Coll Cardiol. 2006
+Nov 21;48(10):2085-93.  Full text (https://www.doi.org/10.1016/j.jacc.2006.08.017)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17112998?tool=bestpractice.bmj.com)
+63. Cooper LT, Baughman KL, Feldman AM, et al. The role of endomyocardial biopsy in the
+management of cardiovascular disease: a scientific statement from the American Heart
+Association, the American College of Cardiology, and the European Society of Cardiology.
+Circulation. 2007 Nov 6;116(19):2216-33.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIRCULATIONAHA.107.186093)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17959655?
+tool=bestpractice.bmj.com)
+64. Ammirati E, Frigerio M, Adler ED, et al. Management of acute myocarditis and chronic inflammatory
+cardiomyopathy: an expert consensus document. Circ Heart Fail. 2020 Nov;13(11):e007405.  Full
+text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673642)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33176455?tool=bestpractice.bmj.com)
+65. Bowles NE, Ni J, Kearney DL, et al. Detection of viruses in myocardial tissues by polymerase chain
+reaction. evidence of adenovirus as a common cause of myocarditis in children and adults. J Am Coll
+Cardiol. 2003 Aug 6;42(3):466-72.  Full text (https://www.doi.org/10.1016/s0735-1097(03)00648-x)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12906974?tool=bestpractice.bmj.com)
+66. Mahrholdt H, Wagner A, Deluigi CC, et al. Presentation, patterns of myocardial damage,
+and clinical course of viral myocarditis. Circulation. 2006 Oct 10;114(15):1581-90.  Full text
+(https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.105.606509)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17015795?tool=bestpractice.bmj.com)
+67. Ferreira VM, Schulz-Menger J, Holmvang G, et al. Cardiovascular magnetic resonance in nonischemic
+myocardial inflammation: expert recommendations. J Am Coll Cardiol. 2018 Dec 18;72(24):3158-76. 
+Full text (https://www.sciencedirect.com/science/article/pii/S0735109718388430)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30545455?tool=bestpractice.bmj.com)
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 67 ===
+Myocarditis References
+68. Chen W, Jeudy J. Assessment of myocarditis: cardiac MR, PET/CT, or PET/MR? Curr Cardiol
+Rep. 2019 Jun 26;21(8):76. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31243587?
+tool=bestpractice.bmj.com)
+69. Mahrholdt H, Goedecke C, Wagner A, et al. Cardiovascular magnetic resonance assessment of
+human myocarditis: a comparison to histology and molecular pathology. Circulation. 2004 Mar
+16;109(10):1250-8.  Full text (https://www.ahajournals.org/doi/10.1161/01.cir.0000118493.13323.81)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14993139?tool=bestpractice.bmj.com)
+70. Felker GM, Thompson RE, Hare JM, et al. Underlying causes and long-term survival in patients with
+initially unexplained cardiomyopathy. N Engl J Med. 2000 Apr 13;342(15):1077-84. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10760308?tool=bestpractice.bmj.com)
+71. Bybee KA, Kara T, Prasad A, et al. Systematic review: transient left ventricular apical
+ballooning: a syndrome that mimics ST-segment elevation myocardial infarction. Ann Intern
+Med. 2004 Dec 7;141(11):858-65. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15583228?
+tool=bestpractice.bmj.com)
+72. Aretz HT, Billingham ME, Edwards WD, et al. Myocarditis. A histopathologic definition and
+classification. Am J Cardiovasc Pathol. 1987 Jan;1(1):3-14. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/3455232?tool=bestpractice.bmj.com)
+73. Richardson P, McKenna W, Bristow M, et al. Report of the 1995 World Health Organization/
+International Society and Federation of Cardiology Task Force on the Definition and Classification
+of cardiomyopathies. Circulation. 1996 Mar 1;93(5):841-2.  Full text (https://www.ahajournals.org/
+doi/10.1161/01.CIR.93.5.841)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8598070?
+tool=bestpractice.bmj.com)
+74. The Criteria Committee of the New York Heart Association. Diseases of the heart and blood vessels:
+nomenclature and criteria for diagnosis, 6th ed. Boston, MA: Little Brown, 1964.
+75. Howlett JG, McKelvie RS, Arnold JM, et al. Canadian Cardiovascular Society Consensus Conference
+guidelines on heart failure, update 2009: diagnosis and management of right-sided heart failure,
+myocarditis, device therapy and recent important clinical trials. Can J Cardiol. 2009 Feb;25(2):85-105. 
+Full text (https://www.ccs.ca/images/Guidelines/Guidelines_POS_Library/HF_CC_2009.pdf)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/19214293?tool=bestpractice.bmj.com)
+76. Bogle C, Colan SD, Miyamoto SD, et al. Treatment strategies for cardiomyopathy in children: a
+scientific statement from the American Heart Association. Circulation. 2023 Jul 11;148(2):174-95. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000001151)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37288568?tool=bestpractice.bmj.com)
+77. Mills RM, Hobbs RE. Drug treatment of patients with decompensated heart failure. Am J
+Cardiovasc Drugs. 2001;1(2):119-25. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14728041?
+tool=bestpractice.bmj.com)
+78. Farrar DJ, Holman WR, McBride LR, et al. Long-term follow-up of Thoratec ventricular assist
+device bridge-to-recovery patients successfully removed from support after recovery of ventricular
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+67
+=== Page 68 ===
+Myocarditis References
+REFERENCES
+function. J Heart Lung Transplant. 2002 May;21(5):516-21. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11983540?tool=bestpractice.bmj.com)
+79. Yamamoto K, Shioi T, Uchiyama K, et al. Attenuation of virus-induced myocardial injury by inhibition
+of the angiotensin II type 1 receptor signal and decreased nuclear factor-kappa B activation in
+knockout mice. J Am Coll Cardiol. 2003 Dec 3;42(11):2000-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/14662266?tool=bestpractice.bmj.com)
+80. McMurray JJ, Packer M, Desai AS, et al. Angiotensin-neprilysin inhibition versus
+enalapril in heart failure. N Engl J Med. 2014 Sep 11;371(11):993-1004.  Full text (https://
+www.doi.org/10.1056/NEJMoa1409077)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25176015?
+tool=bestpractice.bmj.com)
+81. McDonagh TA, Metra M, Adamo M, et al. 2023 Focused update of the 2021 ESC guidelines for the
+diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023 Oct 1;44(37):3627-39. 
+Full text (https://academic.oup.com/eurheartj/article/44/37/3627/7246292)
+82. Tromp J, Ouwerkerk W, van Veldhuisen DJ, et al. A systematic review and network meta-analysis
+of pharmacological treatment of heart failure with reduced ejection fraction. JACC Heart Fail. 2022
+Feb;10(2):73-84.  Full text (https://www.sciencedirect.com/science/article/pii/S221317792100442X)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34895860?tool=bestpractice.bmj.com)
+83. Long Q, Li L, Yang H, et al. SGLT2 inhibitor, canagliflozin, ameliorates cardiac inflammation
+in experimental autoimmune myocarditis. Int Immunopharmacol. 2022 Sep;110:109024.  Full
+text (https://www.sciencedirect.com/science/article/pii/S1567576922005082)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35841866?tool=bestpractice.bmj.com)
+84. Kim MH, Suri Y, Rajendran I, et al. Potential utility of sodium-glucose cotransporter-2 inhibitors in
+treating myocarditis. Am J Med. 2024 Feb;137(2):e33-4.  Full text (https://www.amjmed.com/article/
+S0002-9343(23)00657-5/fulltext)
+85. Wang JF, Meissner A, Malek S, et al. Propranolol ameliorates and epinephrine exacerbates
+progression of acute and chronic viral myocarditis. Am J Physiol Heart Circ Physiol. 2005
+Oct;289(4):H1577-83.  Full text (https://journals.physiology.org/doi/full/10.1152/ajpheart.00258.2005)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15923319?tool=bestpractice.bmj.com)
+86. Pauschinger M, Rutschow S, Chandrasekharan K, et al. Carvedilol improves left ventricular
+function in murine coxsackievirus-induced acute myocarditis association with reduced myocardial
+interleukin-1beta and MMP-8 expression and a modulated immune response. Eur J Heart Fail. 2005
+Jun;7(4):444-52. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15921778?tool=bestpractice.bmj.com)
+87. Parrillo JE, Cunnion RE, Epstein SE, et al. A prospective, randomized, controlled trial of
+prednisone for dilated cardiomyopathy. N Engl J Med. 1989 Oct 19;321(16):1061-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2677721?tool=bestpractice.bmj.com)
+88. Mason JW, O'Connell JB, Herskowitz A, et al. A clinical trial of immunosuppressive therapy for
+myocarditis. The Myocarditis Treatment Trial Investigators. N Engl J Med. 1995 Aug 3;333(5):269-75. 
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 69 ===
+Myocarditis References
+Full text (https://www.nejm.org/doi/full/10.1056/NEJM199508033330501)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7596370?tool=bestpractice.bmj.com)
+89. McNamara DM, Holubkov R, Starling RC, et al. Controlled trial of intravenous immune globulin in
+recent-onset dilated cardiomyopathy. Circulation. 2001 May 8;103(18):2254-9.  Full text (https://
+www.ahajournals.org/doi/full/10.1161/01.cir.103.18.2254)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11342473?tool=bestpractice.bmj.com)
+90. Robinson J, Hartling L, Vandermeer B, et al. Intravenous immunoglobulin for presumed viral
+myocarditis in children and adults. Cochrane Database Syst Rev. 2020 Aug 19;8:CD004370.  Full
+text (https://www.doi.org/10.1002/14651858.CD004370.pub4)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32835416?tool=bestpractice.bmj.com)
+91. Cooper LT Jr, Berry GJ, Shabetai R; Multicenter Giant Cell Myocarditis Study Group Investigators.
+Idiopathic giant-cell myocarditis - natural history and treatment. N Engl J Med. 1997 Jun
+26;336(26):1860-6.  Full text (https://www.nejm.org/doi/full/10.1056/NEJM199706263362603)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9197214?tool=bestpractice.bmj.com)
+92. Chen HS, Wang W, Wu SN, et al. Corticosteroids for viral myocarditis. Cochrane Database
+Syst Rev. 2013 Oct 18;(10):CD004471.  Full text (https://www.cochranelibrary.com/cdsr/
+doi/10.1002/14651858.CD004471.pub3/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24136037?tool=bestpractice.bmj.com)
+93. Kuhl U, Pauschinger M, Schwimmbeck PL, et al. Interferon-beta treatment eliminates cardiotropic
+viruses and improves left ventricular function in patients with myocardial persistence of viral
+genomes and left ventricular dysfunction. Circulation. 2003 Jun 10;107(22):2793-8.  Full text
+(https://www.ahajournals.org/doi/10.1161/01.cir.0000072766.67150.51)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12771005?tool=bestpractice.bmj.com)
+94. Cooper LT Jr, Hare JM, Tazelaar HD, et al; Giant Cell Myocarditis Treatment Trial
+Investigators. Usefulness of immunosuppression for giant cell myocarditis. Am J Cardiol.
+2008 Dec 1;102(11):1535-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19026310?
+tool=bestpractice.bmj.com)
+95. Kim CH, Vlietstra RE, Edwards WD, et al. Steroid-responsive eosinophilic myocarditis:
+Diagnosis by endomyocardial biopsy. Am J Cardiol. 1984 May 15;53(10):1472-3. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/6720598?tool=bestpractice.bmj.com)
+96. Mathew R, Di Santo P, Jung RG, et al. Milrinone as compared with dobutamine in the
+treatment of cardiogenic shock. N Engl J Med. 2021 Aug 5;385(6):516-25.  Full text (https://
+www.doi.org/10.1056/NEJMoa2026845)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34347952?
+tool=bestpractice.bmj.com)
+97. McBride LR, Naunheim KS, Fiore AC, et al. Clinical experience with 111 Thoratec ventricular
+assist devices. Ann Thorac Surg. 1999 May;67(5):1233-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10355389?tool=bestpractice.bmj.com)
+98. Leuck AM. Left ventricular assist device driveline infections: recent advances and future
+goals. J Thorac Dis. 2015 Dec;7(12):2151-7.  Full text (https://www.doi.org/10.3978/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+69
+=== Page 70 ===
+Myocarditis References
+REFERENCES
+j.issn.2072-1439.2015.11.06)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26793335?
+tool=bestpractice.bmj.com)
+99. Barbaro RP, Paden ML, Guner YS, et al. Pediatric Extracorporeal Life Support Organization
+registry international report 2016. ASAIO J. 2017 Jul/Aug;63(4):456-63.  Full text (https://
+www.doi.org/10.1097/MAT.0000000000000603)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28557863?tool=bestpractice.bmj.com)
+100. Rose EA, Gelijns AC, Moskowitz AJ, et al. Long-term use of a left ventricular assist device for end-
+stage heart failure. N Engl J Med. 2001 Nov 15;345(20):1435-43.  Full text (https://www.nejm.org/
+doi/full/10.1056/NEJMoa012175)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11794191?
+tool=bestpractice.bmj.com)
+101. Papp Z, Agostoni P, Alvarez J, et al. Levosimendan efficacy and safety: 20 years of SIMDAX in
+clinical use. J Cardiovasc Pharmacol. 2020 Jul;76(1):4-22.  Full text (https://www.doi.org/10.1097/
+FJC.0000000000000859)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32639325?
+tool=bestpractice.bmj.com)
+102. Packer M, Colucci W, Fisher L, et al. Effect of levosimendan on the short-term clinical course
+of patients with acutely decompensated heart failure. JACC Heart Fail. 2013 Apr;1(2):103-11. 
+Full text (https://www.doi.org/10.1016/j.jchf.2012.12.004)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24621834?tool=bestpractice.bmj.com)
+103. Moiseyev VS, Põder P, Andrejevs N, et al. Safety and efficacy of a novel calcium sensitizer,
+levosimendan, in patients with left ventricular failure due to an acute myocardial infarction.
+A randomized, placebo-controlled, double-blind study (RUSSLAN). Eur Heart J. 2002
+Sep;23(18):1422-32.  Full text (https://www.doi.org/10.1053/euhj.2001.3158)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12208222?tool=bestpractice.bmj.com)
+104. Follath F, Cleland JG, Just H, et al. Efficacy and safety of intravenous levosimendan compared with
+dobutamine in severe low-output heart failure (the LIDO study): a randomised double-blind trial.
+Lancet. 2002 Jul 20;360(9328):196-202. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12133653?
+tool=bestpractice.bmj.com)
+105. Mebazaa A, Nieminen MS, Packer M, et al. Levosimendan vs dobutamine for patients with acute
+decompensated heart failure: the SURVIVE Randomized Trial. JAMA. 2007 May 2;297(17):1883-91. 
+Full text (https://www.doi.org/10.1001/jama.297.17.1883)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17473298?tool=bestpractice.bmj.com)
+106. Suominen PK. Single-center experience with levosimendan in children undergoing cardiac surgery and
+in children with decompensated heart failure. BMC Anesthesiol. 2011 Oct 5;11:18.  Full text (https://
+www.doi.org/10.1186/1471-2253-11-18)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21974814?
+tool=bestpractice.bmj.com)
+107. Pellicer A, Riera J, Lopez-Ortego P, et al. Phase 1 study of two inodilators in neonates undergoing
+cardiovascular surgery. Pediatr Res. 2013 Jan;73(1):95-103.  Full text (https://www.doi.org/10.1038/
+pr.2012.154)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23138399?tool=bestpractice.bmj.com)
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 71 ===
+Myocarditis References
+108. Momeni M, Rubay J, Matta A, et al. Levosimendan in congenital cardiac surgery: a randomized,
+double-blind clinical trial. J Cardiothorac Vasc Anesth. 2011 Jun;25(3):419-24. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20829069?tool=bestpractice.bmj.com)
+109. Conti N, Gatti M, Raschi E, et al. Evidence and current use of levosimendan in the treatment
+of heart failure: filling the gap. Drug Des Devel Ther. 2021;15:3391-409.  Full text (https://
+www.doi.org/10.2147/DDDT.S295214)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34376973?
+tool=bestpractice.bmj.com)
+110. Cudkowicz M, Genge A, Maragakis N, et al. Safety and efficacy of oral levosimendan in people with
+amyotrophic lateral sclerosis (the REFALS study): a randomised, double-blind, placebo-controlled
+phase 3 trial. Lancet Neurol. 2021 Oct;20(10):821-31. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34536404?tool=bestpractice.bmj.com)
+111. Fuse K, Kodama M, Okura Y, et al. Predictors of disease course in patients with acute
+myocarditis. Circulation. 2000 Dec 5;102(23):2829-35.  Full text (https://www.ahajournals.org/
+doi/full/10.1161/01.cir.102.23.2829)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11104740?
+tool=bestpractice.bmj.com)
+112. Kühl U, Pauschinger M, Seeberg B, et al. Viral persistence in the myocardium is associated with
+progressive cardiac dysfunction. Circulation. 2005 Sep 27;112(13):1965-70.  Full text (https://
+www.ahajournals.org/doi/10.1161/circulationaha.105.548156)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16172268?tool=bestpractice.bmj.com)
+113. McCarthy RE 3rd, Boehmer JP, Hruban RH, et al. Long-term outcome of fulminant myocarditis
+as compared with acute (nonfulminant) myocarditis. N Engl J Med. 2000 Mar 9;342(10):690-5. 
+Full text (https://www.nejm.org/doi/full/10.1056/NEJM200003093421003)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10706898?tool=bestpractice.bmj.com)
+114. Dec GW Jr, Fallon JT, Southern JF, et al. Relation between histological findings on early repeat
+right ventricular biopsy and ventricular function in patients with myocarditis. Br Heart J. 1988
+Oct;60(4):332-7.  Full text (https://heart.bmj.com/content/heartjnl/60/4/332.full.pdf)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3190962?tool=bestpractice.bmj.com)
+115. Sheppard R, Bedi M, Kubota T, et al. Myocardial expression of fas and recovery of left ventricular
+function in patients with recent-onset cardiomyopathy. J Am Coll Cardiol. 2005 Sep 20;46(6):1036-42.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16168288?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+71
+=== Page 72 ===
+Myocarditis Images
+IMAGES
+Images
+Figure 1: Histologic findings in a patient with giant cell myocarditis. A: severe myocardial necrosis and
+fibrotic replacement of the cardiomyocytes with granulation tissue and fibrosis is present in a section
+from the anterolateral left ventricular wall; B: a sharp demarcating border between vital and necrotic
+myocardium is seen, confirmed by additional immunohistochemical staining for myoglobin; C: at the
+inflammatory border, cells consisting of prominent multinucleated giant cells, macrophages, lymphocytes,
+and eosinophilic granulocytes are seen in close proximity to vital myocardium; D: immunohistochemical
+staining for complement 4d is positive in all vessels, suggestive of complement cascade activation
+From: Rasmussen TB, Dalager S, Andersen NH, et al. BMJ Case Reports 2009; doi:10.1136/
+bcr.09.2008.0997
+72 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 73 ===
+Myocarditis Images
+Figure 2: Autopsy findings in a patient with myocarditis. The explanted heart (A and B) is enlarged and
+thinned with dilatation mainly of the right ventricle. The right atrium is moderately dilated and the left atrium is
+not enlarged (B)
+From: Rasmussen TB, Dalager S, Andersen NH, et al. BMJ Case Reports 2009; doi:10.1136/
+bcr.09.2008.0997
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+73
+=== Page 74 ===
+Myocarditis Images
+IMAGES
+Figure 3: Apical 4-chamber transthoracic echocardiogram in a patient with myocarditis. The right ventricle is
+dilated with hypokinesis. Triscupid regurgitation is present with a reduced continuous wave Doppler gradient
+indicating right ventricular failure
+From: Rasmussen TB, Dalager S, Andersen NH, et al. BMJ Case Reports 2009; doi:10.1136/
+bcr.09.2008.0997
+74 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 75 ===
+Myocarditis Images
+Figure 4: Apical 4-chamber echocardiogram in a patient presenting with myocarditis showing a slightly dilated
+left ventricle with spontaneous ultrasonic contrast indicating severely impaired left ventricular systolic function
+From: Rasmussen TB, Dalager S, Andersen NH, et al. BMJ Case Reports 2009; doi:10.1136/
+bcr.09.2008.0997
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+75
+=== Page 76 ===
+Myocarditis Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+76 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 77 ===
+Myocarditis Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 03, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+77
+=== Page 78 ===
+Contributors:
+// Authors:
+Shriprasad R. Deshpande, MBBS, MS
+Medical Director
+Heart Transplant and Advanced Cardiac Therapies Program, Children's National Hospital, Associate
+Professor of Pediatrics, The George Washington University, Washington, DC
+DISCLOSURES: SRD declares that he has no competing interests.
+Bibhuti Das, MBBS, MD, FAAP, FACC
+Director of Heart Failure and Heart Transplant
+Pediatric Cardiology, University of Mississippi Medical Center, Jackson, MS
+DISCLOSURES: BD declares that he has no competing interests.
+// Acknowledgements:
+Dr Shriprasad R. Deshpande and Dr Bibhuti Das would like to gratefully acknowledge Dr Katherine C.
+Wu, Dr James E. Harvey, and Dr Arman T. Askari, previous contributors to this topic. KCW, JEH, and ATA
+declare that they have no competing interests.
+// Peer Reviewers:
+David A. Leaf, MD, MPH
+Professor of Medicine
+School of Medicine, VA Greater Los Angeles Healthcare System, UCLA, Los Angeles, CA
+DISCLOSURES: DAL declares that he has no competing interests.
+John Charpie, MD, PhD
+Associate Professor of Pediatrics
+Medical Director, Pediatric Cardiothoracic Intensive Care Unit, University of Michigan Congenital Heart
+Center, Ann Arbor, MI
+DISCLOSURES: JC declares that he has no competing interests.
+Lokesh Tejwani, MD, FACC
+Assistant Professor of Clinical Medicine
+University of Missouri Hospitals and Clinics, Harry S. Truman VA Hospital, Columbia, MO
+DISCLOSURES: LT declares that he has no competing interests.

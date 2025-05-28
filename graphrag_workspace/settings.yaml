@@ -98,7 +98,7 @@ embeddings:
 input:
   type: file
   file_type: text
-  base_dir: "input"
+  base_dir: "input_small"
   file_encoding: utf-8
   file_pattern: ".*\\.txt$$"
 
@@ -146,7 +146,7 @@ entity_extraction:
   async_mode: threaded
   prompt: "prompts/entity_extraction.txt"
   entity_types: [person, organization, geo, event, medication, condition, procedure, symptom]
-  max_gleanings: 1
+  max_gleanings: 0
 
 summarize_descriptions:
   llm:
@@ -175,37 +175,10 @@ summarize_descriptions:
     num_threads: 20
   async_mode: threaded
   prompt: "prompts/summarize_descriptions.txt"
-  max_length: 500
+  max_length: 200
 
 claim_extraction:
-  llm:
-    api_key: ${GRAPHRAG_API_KEY}
-    type: openai_chat
-    model: gpt-4o-mini
-    model_supports_json: true
-    max_tokens: 4000
-    temperature: 0
-    top_p: 1
-    request_timeout: 180.0
-    api_base: null
-    api_version: null
-    organization: null
-    proxy: null
-    cognitive_services_endpoint: null
-    deployment_name: null
-    tokens_per_minute: auto
-    requests_per_minute: auto
-    max_retries: 10
-    max_retry_wait: 10.0
-    sleep_on_rate_limit_recommendation: true
-    concurrent_requests: 5
-  parallelization:
-    stagger: 0.3
-    num_threads: 20
-  async_mode: threaded
-  prompt: "prompts/claim_extraction.txt"
-  description: "Any claims or facts that could be relevant to medical decision making."
-  max_gleanings: 1
+  enabled: false
 
 community_report:
   llm:
@@ -234,12 +207,12 @@ community_report:
     num_threads: 20
   async_mode: threaded
   prompt: "prompts/community_report.txt"
-  max_length: 2000
-  max_input_length: 8000
+  max_length: 1000
+  max_input_length: 4000
 
 text_unit:
-  size: 1500
-  overlap: 150
+  size: 3000
+  overlap: 300
 
 embed_graph:
   enabled: false

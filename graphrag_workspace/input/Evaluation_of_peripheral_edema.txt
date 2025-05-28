@@ -1,0 +1,3114 @@
+# Evaluation of peripheral edema
+
+=== Page 1 ===
+Evaluation of
+peripheral edema
+Straight to the point of care
+Last updated: Dec 31, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Theory  4
+Etiology  4
+Emergencies  6
+Urgent considerations  6
+Diagnosis  10
+Approach  10
+Differentials overview  16
+Differentials  18
+Evidence tables  44
+References  48
+Images  55
+Disclaimer  60
+=== Page 3 ===
+Evaluation of peripheral edema Overview
+Summary
+Peripheral edema is the presence of excess interstitial fluid in the tissue of the extremities, which causes
+palpable swelling.[1]
+Edema develops when microvascular filtration, and therefore interstitial fluid production, exceeds lymph
+drainage for a sustained period. This could be because the microvascular filtration rate is high, lymph flow is
+low, or both.[2]
+Development of edema: an imbalance between the filtration of
+fluid from the bloodstream and drainage via the lymph system.
+Created by BMJ Knowledge Centre
+The body has a number of homeostatic mechanisms that serve to maintain interstitial fluid balance, and
+these must be overwhelmed before fluid buildup becomes evident as peripheral edema. Clues generated
+by the history, physical examination, and targeted evaluation help to identify the factors affecting lymphatic
+drainage and microvascular filtration. In many patients, multiple factors contribute to the development of
+peripheral edema.
+Lymphedema is predominantly caused by inadequate lymphatic drainage.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Evaluation of peripheral edema Theory
+THEORY
+Etiology
+A variety of disease states or medications can cause peripheral edema by altering the mechanisms that
+maintain the normal volume of interstitial fluid. In many cases, the edema may be multifactorial, with various
+contributing factors.
+Interstitial fluid and the extracellular matrix (comprised of structural and connective molecules such as
+collagen fibers and glycosaminoglycans) form the interstitial space. This space exists outside the blood
+vessels, lymphatic vessels, and parenchymal cells. Interstitial fluid is formed from an ultrafiltrate of blood.
+It transports nutrients and waste products between cells and capillaries, delivers antigens and cytokines to
+draining lymph nodes, and transports intercellular signaling molecules.[3]
+Interstitial fluid is initially drained through noncontractile terminal lymphatic channels, which are present in
+nearly all tissues. These terminal lymphatic channels deliver lymph to larger collecting lymphatic channels,
+which are surrounded by smooth muscle and contain valves to assist unidirectional flow. From there, lymph
+flows through lymph nodes, then passes through progressively larger lymphatic channels and finally enters
+the central venous circulation.[3]
+Several physiologic mechanisms regulate the volume of interstitial fluid production and lymphatic drainage.
+When one or more of these mechanisms is overwhelmed, edema develops.
+Chronic edema is a common problem in hospitalized patients. One study, enrolling hospitalized patients
+from Denmark, France, Australia, the United Kingdom and Ireland, reported chronic edema prevalence of
+38%.[4] The risk factors associated with presence of chronic edema were age, morbid obesity, heart failure,
+immobility, and neurologic deficiency.[4]
+Increased microvascular filtration
+Microvascular filtration occurs in the venules and capillaries. Filtration rate depends on the hydrostatic
+pressure in the vessel, which drives fluid out of the vessel into the interstitial space, and the colloid osmotic
+pressure in the vessel, which promotes retention of fluid in the vessel. Microvascular filtration may increase
+when hydrostatic pressure increases and/or colloid osmotic pressure decreases.
+Increased hydrostatic pressure occurs when systemic venous pressure increases: for example, in heart
+failure, cor pulmonale, venous insufficiency (e.g., due to a failure in calf muscle pump action), venous
+obstruction (e.g., by pelvic tumor or venous thrombosis). Premenstrual edema occurs when hormonally-
+mediated renal salt and water retention increases total body fluid.
+Following a deep vein thrombosis in the leg, up to 50% of patients develop postthrombotic syndrome with
+symptoms and signs of chronic venous insufficiency.[5] The pathophysiology is incompletely understood;
+venous hypertension probably results from several mechanisms including residual venous obstruction and
+valvular reflux. Ultimately, microvascular permeability increases and interstitial fluid accumulates locally.[5]
+Pregnancy is commonly associated with lower-extremity edema starting in the second trimester. This is due
+to increased total body fluid as a result of neurohormonal changes and to mechanical pressure on the inferior
+vena cava from the gravid uterus.[6]
+Drugs that cause renal fluid and salt retention, such as nonsteroidal anti-inflammatory drugs, may precipitate
+peripheral edema.[7] [8]
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Evaluation of peripheral edema Theory
+Nephrotic syndrome, cirrhosis, kwashiorkor, and protein-losing enteropathies all cause reduced serum colloid
+osmotic pressure.[6]
+When blood vessel walls become more permeable in response to the actions of cytokines, prostaglandins,
+or nitric oxide, large serum proteins move into the interstitial space. This reduces the colloid osmotic gradient
+and increases the rate of interstitial fluid production.[6] [9] Patients who have sepsis have increased vascular
+permeability as a result of circulating cytokines and frequently develop extensive peripheral edema.[9]
+This mechanism also plays a role in the edema seen in hypothyroid myxedema, angioedema, and allergic
+reactions.[6]
+In some disease states, the pathophysiology of increased microvascular filtration is multifactorial.
+For example, cirrhosis causes fluid retention, and therefore raised venous pressure, by a number of
+complementary mechanisms: splanchnic vasodilation reduces effective renal perfusion, inducing sodium
+and water retention; serum colloid osmotic pressure declines as a result of synthetic liver dysfunction; and
+altered architecture of the hepatic sinusoids results in mechanical congestion with venous hypertension and
+increased hydrostatic gradient in the abdomen and lower extremities.[6] [10] [11]
+Patients who have a normal lymphatic system that is overwhelmed by excess interstitial fluid production will
+develop edema. Over time, this can cause permanent structural damage to the lymphatic vessels, so that
+even if microvascular filtration returns to normal, peripheral edema persists because lymphatic drainage is
+impaired.
+Decreased lymphatic drainage
+The lymphatic system drains fluid from the interstitial space and ultimately returns it to the venous circulation.
+Approximately 80% of lymphatic drainage must be nonfunctional before lymphedema (caused by inadequate
+lymphatic drainage) becomes clinically evident.[12] Lymphatic stasis leads to fat hypertrophy, with associated
+thickening of subcutaneous tissue, and immunologic dysfunction. Elevated concentrations of interstitial
+protein cause inflammation and fibrosis, leading to further damage.[12]
+Lymphedema may be primary (caused by hypoplastic lymph vessel development) or secondary.[13] Primary
+lymphedema accounts for approximately 1% of cases.[12] Secondary causes include:
+• Surgical removal or irradiation of lymph nodes. Approximately 20% of patients with breast cancer who
+undergo axillary lymph node dissection and 5% who undergo sentinel lymph node biopsy develop arm
+lymphedema.[14]
+• Neoplastic infiltration of lymph nodes
+• Trauma
+• Parasitic nematode infections (e.g., filariasis)
+• Some medications (e.g., calcium-channel blockers)
+• Reduced mobility.
+Movement and exercise generate movement of interstitial fluid into the initial lymphatics, so when a patient
+has impaired mobility, lymph drainage often decreases.[15] [16]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Evaluation of peripheral edema Emergencies
+EMERGENCIES
+Urgent considerations
+(See  Differentials  for more details)
+Deep vein thrombosis (DVT)
+Acute-onset, asymmetric, tender leg edema (with associated swelling and redness) may be a sign of new
+DVT, which can be a threat to life if it embolizes to the lung.[17] Patients may also report localized pain over
+the deep venous system or dilated superficial veins over the foot and leg.
+Deep vein thrombosis (DVT) of the right leg with associated swelling and redness
+From the collection of James Heilman, MD.
+Massive venous thrombosis can be associated with a limb-threatening syndrome referred to as phlegmasia
+cerulea dolens, in which the venous congestion leads to such a degree of interstitial edema that
+compartment syndrome, arterial compromise, and gangrene can occur.[18]
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Evaluation of peripheral edema Emergencies
+For patients with a high pretest probability of DVT, determined by Wells clinical prediction rules, duplex
+ultrasound is the first-line test in most instances, particularly if a thrombosis in the popliteal, superficial
+femoral, or common femoral veins is suspected. If the pretest probability is low, a negative D-dimer test
+allows ultrasound to be safely excluded.[17] [19] 
+In the absence of contraindications, therapeutic anticoagulation should be initiated immediately on
+diagnosis.[17] [19] Further treatment, such as thrombolysis, thrombectomy, and/or fasciotomy, may be
+necessary for massive thrombosis.[19] [20]
+Heart failure
+Acute-onset heart failure, which may present with dyspnea and lower-extremity edema (usually bilateral),
+requires urgent evaluation to establish the underlying etiology of the cardiac dysfunction.[21]
+Emergency diagnoses such as myocardial ischemia, pericardial effusion with cardiac tamponade,
+constrictive pericarditis, valvular disease, or cardiomyopathy should be considered when new symptoms of
+heart failure develop rapidly.[22] Complaints of chest pain, shortness of breath, orthopnea, or paroxysmal
+nocturnal dyspnea may provide a clue that the peripheral edema arises from an acute cardiac cause.
+Evidence of pulmonary edema, elevated jugular venous pressure, heart murmurs, pericardial friction rubs,
+or pulsus paradoxus further support a cardiac etiology of the edema. ECG, chest x-ray, cardiac troponins, B-
+type natriuretic peptide/N-terminal pro-B-type natriuretic peptide, and echocardiography would be appropriate
+to evaluate for suspected acute cardiac disease when peripheral edema is a component of the presenting
+syndrome.[23] [24]
+Exacerbation of preexisting chronic heart failure is noticed by the patient as fluid retention and increased
+lower-extremity edema.[22] A cause for the decompensation should be sought. Worsening of symptoms of
+edema from known heart failure requires treatment to regain euvolemia, usually loop diuretics, and institution
+of other measures to improve and preserve cardiac function.[22] [25] Pericardial effusions with tamponade
+require pericardiocentesis.[26]
+New-onset renal disease
+Frequently, the presenting symptom of nephrotic syndrome is peripheral edema, which starts in the legs
+and may become severe involving the entire body (anasarca), and periorbital edema.[27] Patients may also
+report frothy urine. Initial investigations should include testing for proteinuria, serum creatinine and serum
+albumin. Severe protein-wasting renal disease or acute renal failure with volume overload requires early
+nephrology evaluation.
+Myxedema coma
+Peripheral edema is one of the features seen with profound hypothyroidism, an endocrinologic
+emergency.[28] In this setting, edema would not occur in isolation but rather as part of a multisystem
+disorder. Other signs or symptoms may include mental status changes, lethargy, constipation, weight gain,
+coarse hair, dry skin, and cold intolerance.[29] Treatment requires intravenous thyroid hormone replacement.
+Acute hepatic venous obstruction
+Venous obstruction at the level of the liver (including Budd-Chiari syndrome and hepatic veno-occlusive
+disease) can cause peripheral edema, typically in association with abdominal pain, hepatomegaly, and
+ascites.[30] While obstruction can be caused by a variety of pathologic processes, thrombus formation would
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Evaluation of peripheral edema Emergencies
+EMERGENCIES
+be associated with rapid onset of symptoms. The combination of peripheral edema, hepatomegaly, ascites,
+and abdominal pain, along with elevated transaminases and possibly jaundice, should prompt evaluation of
+the blood flow through the liver with imaging such as duplex ultrasound. Computed tomography or magnetic
+resonance imaging can also be used. A similar picture of hepatic congestion can be seen with cardiac
+disease, and this should be maintained in the differential diagnosis for this presentation. 
+Compartment syndrome
+Compartment syndrome can rapidly threaten the viability of a limb, and should be investigated and managed
+aggressively when suspected. Typical clinical scenarios include trauma to the extremity due to fractures, soft-
+tissue injury, vascular compromise, and burn injuries.
+Features that might alert the clinician to this diagnosis include unilateral edema, severe pain in the extremity
+especially on passive stretch of the muscle, a compartment tense to palpation, muscle weakness, and
+hypoesthesia. Where applicable, casts or occlusive dressings should be removed and any padding or
+circumferential dressings should be released immediately.
+Measurement of compartment pressure is indicated whenever the diagnosis is uncertain in a patient at risk.
+The perfusion pressure of a compartment (the compartment delta pressure) is defined as the difference
+between the diastolic BP and the intra-compartmental pressure (i.e., diastolic BP minus compartment
+pressure). A delta pressure of ≤30 mmHg is considered a strong indicator for fasciotomy.[31] [32] [33]
+However, care should be taken when using this criterion in patients who are receiving vasodilatory
+medications and whose diastolic BP is low.
+Sepsis
+Peripheral edema itself is not a typical presenting symptom for sepsis, unless the underlying cause is a focal
+infection in the limb.
+In patients with sepsis, edema may occur several days after the administration of large volume fluid
+resuscitation. Nevertheless, it is important to consider the possibility of sepsis in any patient with edema who
+presents with possible signs of infection.[34]
+Sepsis is a spectrum of disease, where there is a systemic and dysregulated host response to an
+infection.[35] Presentation ranges from subtle, nonspecific symptoms (e.g., feeling unwell with a normal
+temperature, malaise, lethargy, nausea, or vomiting) to severe symptoms with evidence of multiorgan
+dysfunction and septic shock. Patients may have signs of tachycardia, tachypnea, hypotension, fever or
+hypothermia, poor capillary refill, mottled or ashen skin, cyanosis, newly altered mental state or reduced
+urine output.[34] Sepsis and septic shock are medical emergencies.
+Risk factors for sepsis include:[34]
+• Age under 1 year
+• Age over 75 years
+• Frailty, impaired immunity (due to illness or drugs)
+• Recent surgery or other invasive procedures
+• Any breach of skin integrity (e.g., cuts, burns)
+• Intravenous drug misuse
+• Indwelling lines or catheters, and
+• Pregnancy or recent pregnancy
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Evaluation of peripheral edema Emergencies
+Early recognition of sepsis is essential because early treatment improves outcomes.[34] [36] [Evidence
+C] [Evidence C] However, detection can be challenging because the clinical presentation of sepsis can
+be subtle and nonspecific. A low threshold for suspecting sepsis is therefore important. The key to early
+recognition is the systematic identification of any patient who has signs or symptoms suggestive of
+infection and is at risk of deterioration due to organ dysfunction. Several risk stratification approaches
+have been proposed. All rely on a structured clinical assessment and recording of the patient’s vital
+signs.[34] [37] [38][39] [40] It is important to check local guidance for information on which approach your
+institution recommends. The timeline of ensuing investigations and treatment should be guided by this early
+assessment.[39]
+Treatment guidelines have been produced by the Surviving Sepsis Campaign and remain the most widely
+accepted standards.[36] [41] 
+Recommended treatment of patients with suspected sepsis is:
+• Measure lactate level, and remeasure lactate if initial lactate is elevated (>18 mg/dL [>2 mmol/L]).
+• Obtain blood cultures before administering antibiotics.
+• Administer broad-spectrum antibiotics (with methicillin-resistant  Staphylococcus aureus  [MRSA]
+coverage if there is high risk of MRSA) for adults with possible septic shock or a high likelihood for
+sepsis.
+• For adults with sepsis or septic shock at high risk of fungal infection, empiric antifungal therapy should
+be administered.
+• Begin rapid administration of crystalloid fluids for hypotension or lactate level ≥36 mg/dL (≥4 mmol/L).
+Consult local protocols.
+• Administer vasopressors peripherally if hypotensive during or after fluid resuscitation to maintain MAP
+≥65 mmHg, rather than delaying initiation until central venous access is secured. Norepinephrine
+(noradrenaline) is the vasopressor of choice.
+• For adults with sepsis-induced hypoxemic respiratory failure, high flow nasal oxygen should be given.
+Ideally these interventions should all begin in the first hour after sepsis recognition.[41]
+For adults with possible sepsis without shock, if concern for infection persists, antibiotics should be given
+within three hours from the time when sepsis was first recognized.[36]
+For adults with a low likelihood of infection and without shock, antibiotics can be deferred while continuing to
+closely monitor the patient.[36]
+See Sepsis in adults  and Sepsis in children .
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Approach
+Peripheral edema is a physical examination finding. As such, the only diagnostic test to establish the
+presence of edema is examination and palpation of the extremities. Diagnosing the underlying cause of the
+edema is the goal of the investigative evaluation.
+History
+• Patients report swelling and a tense sensation in the extremities, usually worse the longer the
+extremity remains dependent (subject to the influence of gravity). Edema may accumulate around the
+thighs, buttocks and sacrum in nonambulatory patients.
+• The affected limb often feels heavy or weak.
+• Patients may describe feeling as though clothing or jewelry no longer fit, or may indicate changes in
+total weight. If fluid retention is systemic, body weight may increase by as much as 10% before pitting
+edema is evident.[42]
+• It is helpful to clarify whether the edema resolves with elevation: for example, whether ankle edema
+resolves overnight. Edema that resolves is more likely to represent an excess of interstitial fluid
+production, whereas edema that does not improve significantly indicates a probable lymph drainage
+problem. Swelling in lymphedema starts in the distal extremities and migrates proximally.
+Speed of onset
+• Determines whether the peripheral edema is acute or chronic.
+Associated symptoms
+• Calf pain, redness, localized pain over the deep venous system, dilated superficial veins over the foot
+and leg and unilateral edema may be signs of deep vein thrombosis (DVT).
+• Presence of back pain or weight loss may indicate pelvic malignancy causing lower-extremity venous
+congestion.
+In taking the history, it is important to elicit associated symptoms of systemic cardiac, pulmonary, hepatic,
+renal, or endocrinologic disease to guide further testing.
+• Cardiac: dyspnea, orthopnea, and paroxysmal nocturnal dyspnea may indicate heart failure; dizziness,
+palpitations, chest pain.
+• Pulmonary: shortness of breath and chest pain may occur in pulmonary embolism.
+• Hepatic: abdominal bloating from ascites, abdominal discomfort from hepatic congestion.
+• Renal: frothy urine may occur in nephrotic syndrome (due to increased protein content); changes in
+urine output or color.
+• Endocrinologic: fatigue, cold intolerance, dry skin, constipation, weight gain, and coarse hair can
+indicate hypothyroidism; a cyclic pattern of edema may indicate premenstrual edema.
+Past medical history
+• Recent history is important, especially a history of trauma, surgery, or prolonged immobility, which
+would increase the likelihood of venous thrombosis.
+• Pregnancy is associated with lower limb edema, starting in the second trimester.
+• History of venous thrombosis predisposes to chronic venous insufficiency.
+• Previous malignancy, radiation, surgery, or infection can cause secondary lymphedema.[13]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Evaluation of peripheral edema Diagnosis
+• Penetrating trauma to the groin or axilla may cause secondary lymphedema.
+Drug history
+• Close temporal association of the onset of edema with the initiation of medications such as
+nonsteroidal anti-inflammatory drugs, calcium-channel blockers, thiazolidinediones, corticosteroids,
+gabapentin, pregabalin, oral contraceptives containing estrogen, chemotherapy agents, or levodopa
+would support a medication-induced etiology.[8] [43] [44]
+• ACE inhibitors may trigger angioedema.
+Social history
+• Activities of daily living may help to identify other causes of edema, and reveal the impact of the
+edema on quality of life. Inquire about sleeping habits (whether in bed or in a chair), and use of
+walking or other ambulatory aids.
+Family history
+• May suggest a primary lymphedema.
+Travel history
+• Elicit whether the patient has visited areas where filariasis is endemic.
+Physical examination
+The degree of edema is commonly described on a 0 to 4+ scale in order of increasing severity.[42] One
+clinical assessment method uses the following scoring system:[45]
+A clinical assessment scoring system
+Created by BMJ Knowledge Centre based on Brodovicz KG, McNaughton K, Uemura N, et al. Reliability
+and feasibility of methods to quantitatively assess peripheral edema. Clin Med Res. 2009 Jun;7(1-2):21-31.
+Describing the level that edema extends to proximally on the limbs is also useful in communicating the
+severity of peripheral edema. However, these descriptions are inexact and may fluctuate depending on the
+patient's positioning.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Ankle circumference is a simple quantitative test for clinical practice with good inter-rater reliability. It is
+measured 7 cm proximal to the medial malleolus.[45]
+Stemmer sign is present if the examiner cannot pinch a fold of skin at the base of the patient's second toe. It
+is a sensitive test for primary and secondary lymphedema.[46] Lymphedema is pitting in the early stages and
+becomes nonpitting due to adipose deposition and fibrosis when the lymphedema is chronic and advanced.
+A key discriminating factor in narrowing etiologies is whether the edema is limited to a single extremity or is
+generalized. Generalized edema suggests a systemic illness such as heart failure, cirrhosis, or nephrotic
+syndrome. Localized edema suggests a localized venous or lymphatic abnormality.
+Comprehensive physical examination is crucial, with particular focus on the cardiac and pulmonary systems.
+Examination findings that might indicate an underlying cause for peripheral edema include:
+• Cardiovascular: additional S3 or S4 heart sounds, gallop rhythm, raised jugular venous pressure
+in heart failure; pulsus paradoxus, pericardial friction rub, muffled heart sounds, and elevated
+jugular venous pressure in pericardial disease; Kussmaul sign (rise in jugular venous pressure
+on inspiration), S3 heart sound, mitral regurgitation murmur, elevated jugular venous pressure in
+restrictive cardiomyopathy; systolic murmur at the left lower sternal border and prominent ventricular
+impulse in the left parasternal region in tricuspid regurgitation.
+• Respiratory: rales if there is pulmonary edema, wheeze in cor pulmonale caused by COPD.
+• Abdominal: splenomegaly, ascites, jaundice, spider nevi, and enlarged periumbilical veins (caput
+medusae) in cirrhosis; tender hepatomegaly in Budd-Chiari syndrome, hepatomegaly and ascites in
+heart failure, restrictive cardiomyopathy or tricuspid regurgitation; palpable mass in lower abdomen
+may indicate tumor causing external pressure on pelvic veins.
+• Dermatologic: presence of varicose veins, fibrosis, ulcers, or skin changes (such as hemosiderin
+staining, atrophie blanche, and venous stasis dermatitis) suggests a chronic venous insufficiency.
+Lymphatic insufficiency often coexists with venous insufficiency. Calf asymmetry, warmth, tenderness,
+and erythema, dilated superficial veins and/or palpable cords behind the leg, occur in DVT. Periorbital
+edema is characteristic of nephrotic syndrome. Dry skin and coarse hair occur in myxedema.
+• Musculoskeletal: severe pain on passive stretch in compartment syndrome, disproportionate to the
+injury severity. In compartment syndrome, pulse exam may be normal, and unless an artery is injured,
+the capillaries refill. Impaired calf muscle pump function; may be associated with ankle foot orthoses or
+drop foot.
+• General: tachypnea, tachycardia, altered mental status, hypotension, decreased urine output, diarrhea,
+warm flushed or cold clammy skin in sepsis. Obesity, large tonsils, short neck with large circumference
+suggest obstructive sleep apnea.
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Evaluation of peripheral edema Diagnosis
+Atrophie blanche and hemosiderin deposition in a patient with chronic venous insufficiency
+From the collection of Dr Joseph L. Mills; used with permission
+Diagnostic testing
+The underlying etiology of edema can be suggested by basic screening tests.[6] [47]
+Serum chemistry, hepatic function panel, serum protein, albumin, and urinalysis are indicated. Thyroid-
+stimulating hormone levels, cardiac troponins, B-type natriuretic peptide (BNP)/N-terminal pro-B-type
+natriuretic peptide (NT-proBNP), ECG, chest x-ray and/or echocardiography may be useful when some
+features of history or physical exam suggest endocrine or cardiopulmonary disease.
+Evaluation of lymphatic drainage with lymphoscintigraphy may be considered when clinical assessment
+and investigations have excluded systemic and local vascular factors as a cause of peripheral edema.
+Lymphoscintigraphy is rarely used in the routine investigation of peripheral edema.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Approach to the patient with peripheral edema. DVT, deep vein thrombosis; HTN, hypertension
+Created by Ethan Cumbler, MD
+Asymmetric edema
+For patients with asymmetric peripheral edema and no apparent cause (such as radiation or surgical lymph
+node dissection), testing should focus on proximal venous or lymphatic obstruction.
+A duplex ultrasound of the inferior vena cava or iliac vessels should be considered if a proximal cause is
+suspected, and can identify venous insufficiency, venous thrombosis, or nonthrombotic iliac vein lesions
+(e.g., May-Thurner syndrome [compression of the left common iliac vein by the overlying right common iliac
+artery]).
+Ultrasound may identify hypoechoic regions superficial to the mid calf muscles if a popliteal fossa cyst has
+ruptured. Pelvic ultrasound may reveal presence of a mass causing preferential compression of venous flow
+from one lower extremity.
+Computed tomography or magnetic resonance imaging may be considered if pelvic or abdominal disease is
+suspected.
+If history arouses suspicion of filariasis then blood smears for detection of microfilariae are indicated.
+Genetic testing may be ordered in patients with primary lymphedema, although familial/syndromic causes are
+rare.[48] [49] [50]
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Evaluation of peripheral edema Diagnosis
+Bilateral edema
+For patients with diffuse or bilateral edema, the initial diagnostic focus is on determining whether an organ
+system is in dysfunction.
+Serum protein and albumin can screen for the etiologies that cause hypoproteinemia, such as nephrotic
+syndrome, protein-losing enteropathies, or profound malnutrition. Low protein is also a feature of cirrhosis. If
+low serum albumin is detected, urinalysis and serum creatinine are ordered to determine if the cause is renal
+protein wasting, while liver function tests and coagulation studies are ordered to assess hepatic synthetic
+dysfunction.
+Normal urine and hepatic testing suggests malnutrition or protein-losing enteropathy as the cause of
+hypoproteinemia. The history should distinguish between these two clinical entities.
+Serum chemistry, blood urea nitrogen, and creatinine should be ordered if there is suspicion of renal failure,
+heart failure, or cirrhosis. Elevated creatinine and reduced glomerular filtration rate indicate renal disease,
+while hyponatremia is a common finding in patients with heart failure or cirrhosis.
+Thyroid-stimulating hormone levels may be indicated as part of an initial screen, especially if other features of
+the history and physical examination suggest hypothyroidism.
+ECG and a chest x-ray are advisable to evaluate for evidence of cardiac congestion, especially when
+the physical examination demonstrates elevated jugular venous pressure or abnormal cardiopulmonary
+examination findings.
+If abnormalities are found on ECG and chest x-ray, then echocardiography is indicated. Echocardiography
+can establish right or left heart dysfunction as a cause of congestive features or can suggest pulmonary
+hypertension as a result of pulmonary disease or sleep-disordered breathing.
+Measurement of BNP or NT-proBNP is also useful in the diagnosis or exclusion of heart failure.[51] [52]
+ Follow-up testing evaluates the underlying reason for the cardiac or pulmonary dysfunction.
+Lymphoscintigraphy
+Lymphoscintigraphy can objectively distinguish lymphatic pathology from other causes of peripheral edema;
+however, it is rarely used in the routine investigation of peripheral edema.
+Lymphoscintigraphy involves peripheral intradermal or subcutaneous injection of a radiolabeled tracer.
+Images are recorded with a gamma camera to demonstrate the flow of the tracer through the lymphatic
+system.
+Signs of lymphatic dysfunction include delayed, asymmetric, or absent violation of regional lymph nodes, and
+"dermal backflow" (presence of radiolabeled tracer in the dermal lymphatic channels).[53] A normal result
+shows symmetric transport of the tracer through discrete lymph nodes.[54] Lymphoscintigraphy has a 96%
+sensitivity and 100% specificity for lymphedema.[55]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Differentials overview
+Common
+Heart failure with reduced ejection fraction (HFrEF)
+Heart failure with preserved ejection fraction (HFpEF)
+Cor pulmonale
+Sleep apnea
+Deep vein thrombosis
+Chronic venous insufficiency
+Nephrotic syndrome
+Cirrhosis
+Pregnancy
+Medication-induced edema
+Premenstrual edema
+Uncommon
+Pericardial effusion
+Constrictive pericarditis
+Restrictive cardiomyopathy
+Tricuspid regurgitation
+Nonthrombotic venous outflow obstruction
+Hepatic venous outflow obstruction (includes Budd-Chiari syndrome and hepatic veno-occlusive disease)
+Renal failure
+Protein-losing enteropathy
+Angioedema
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Evaluation of peripheral edema Diagnosis
+Uncommon
+Sepsis
+Compartment syndrome
+Primary lymphedema
+Secondary lymphedema
+Idiopathic
+Severe malnutrition
+Hypothyroidism/myxedema
+Ruptured popliteal fossa cyst
+Pelvic tumor causing external pressure on pelvic veins
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Differentials
+Common
+Heart failure with reduced ejection fraction (HFrEF)
+History Exam 1st Test Other tests
+dyspnea, orthopnea,
+and paroxysmal
+nocturnal dyspnea,
+angina
+bilateral edema,
+S3 gallop, rales,
+cool extremities,
+hepatomegaly, ascites,
+elevated jugular venous
+pressure
+»ECG: Q waves, left
+ventricular hypertrophy,
+bundle branch block,
+atrial fibrillation, or left
+axis deviation
+ECG is a useful
+test when cardiac
+dysfunction is
+suspected. It provides
+additional evidence
+to modify the post-
+test probability of
+ischemic systolic heart
+failure as a cause of
+peripheral edema. It
+is not a definitive test,
+as it cannot define
+the cardiac function.
+Normal ECG or only
+minor abnormalities
+makes left ventricular
+cardiac dysfunction
+unlikely as cause of the
+peripheral edema.[57]
+»CXR: cardiomegaly or
+pulmonary edema
+CXR is a reasonable
+screening test to
+provide supplemental
+clues as to
+cardiopulmonary
+etiology of venous
+congestion, but it does
+not define cardiac
+function.
+»B-type natriuretic
+peptide (BNP) or
+N-terminal pro-
+BNP (NT-proBNP):
+elevated
+A low normal BNP level
+(<100 nanograms/L
+[<100 picograms/mL])
+or a low NT-proBNP
+level (<300 nanograms/
+L [<300 picograms/
+mL]) is helpful in
+excluding congestive
+heart failure.[51] An
+NT-proBNP level <400
+nanograms/L (<400
+picograms/mL) in an
+untreated person with
+chronic symptoms
+makes a diagnosis
+of heart failure less
+likely.[52] Several
+other cardiac and non-
+cardiac conditions may
+also be associated with
+elevated levels.[23]
+»cardiac troponins:
+normal or elevated
+Performed if acute
+cardiac ischemia is
+suspected as the cause
+of heart failure.
+»echocardiography:
+low ejection fraction
+(<40%); focal
+abnormalities of wall
+motion
+Echocardiography
+is best employed
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Evaluation of peripheral edema Diagnosis
+Common
+Heart failure with reduced ejection fraction (HFrEF)
+History Exam 1st Test Other tests
+for patients who
+have a suggestion
+of cardiopulmonary
+disease on history,
+physical examination,
+and screening ECG
+and CXR. A cardiac
+cause of edema is
+difficult to predict based
+solely on physical exam
+and history.[58]
+◊ Heart failure with preserved ejection fraction (HFpEF)
+History Exam 1st Test Other tests
+more likely in patients
+who are female, of
+advanced age, and
+possibly those with
+history of hypertension;
+dyspnea, orthopnea,
+and paroxysmal
+nocturnal dyspnea
+bilateral edema; no
+examination feature
+clearly distinguishes
+systolic from diastolic
+heart failure; S4, rales,
+hepatomegaly, or
+ascites may be found;
+elevated jugular venous
+pressure
+»ECG: left ventricular
+hypertrophy, bundle
+branch block, left axis
+deviation
+ECG is a useful
+test when cardiac
+dysfunction is
+suspected as a cause
+of peripheral edema.
+It is not a definitive
+test, as it cannot define
+the cardiac function.
+A normal ECG or only
+minor abnormalities
+makes left ventricular
+cardiac dysfunction
+unlikely as cause of the
+peripheral edema.[57]
+»CXR: can
+demonstrate
+cardiomegaly or
+pulmonary edema,
+which would support
+the possibility of heart
+failure
+»echocardiography:
+HFpEF, hypertrophy
+Echocardiography
+is best employed
+for patients who
+have a suggestion
+of cardiopulmonary
+disease on history,
+physical examination,
+or screening ECG
+and CXR. One study
+found that 23% of
+patients referred for
+echocardiography to
+evaluate peripheral
+edema had evidence
+of cardiac etiology.[58]
+Demonstrates impaired
+ventricular relaxation.
+Approximately half of
+patients with clinical
+signs of heart failure
+have preserved
+ejection fraction on
+echocardiography.[59]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Common
+◊ Heart failure with preserved ejection fraction (HFpEF)
+History Exam 1st Test Other tests
+CXR is a reasonable
+screening test to
+provide supplemental
+clues as to a
+cardiopulmonary
+etiology of venous
+congestion, but it does
+not define cardiac
+function.
+»BNP or NT-proBNP:
+elevated
+A low normal BNP level
+(<100 nanograms/L
+[<100 picograms/mL])
+or a low NT-proBNP
+level (<300 nanograms/
+L [<300 picograms/
+mL]) is helpful in
+excluding congestive
+heart failure.[51] An
+NT-proBNP level <400
+nanograms/L (<400
+picograms/mL) in an
+untreated person with
+chronic symptoms
+makes a diagnosis
+of heart failure less
+likely.[52] Several
+other cardiac and non-
+cardiac conditions may
+also be associated with
+elevated levels.[23]
+◊ Cor pulmonale
+History Exam 1st Test Other tests
+history of COPD,
+pulmonary emboli,
+or sleep apnea may
+suggest pulmonary
+hypertension resulting
+in cor pulmonale
+bilateral edema;
+abnormal lung
+examination with
+wheezing or
+rales; ascites and
+hepatomegaly;
+elevated jugular venous
+pressure
+»echocardiography:
+elevated pulmonary
+arterial pressure
+A finding of elevated
+pulmonary arterial
+pressure in the
+absence of left
+heart failure should
+prompt an evaluation
+for pulmonary or
+pulmonary vascular
+disease underlying
+»spirometry: reduced
+forced expiratory
+volume in one second
+(FEV1) with a reduced
+absolute FEV1/forced
+vital capacity (FVC)
+ratio suggests an
+obstructive pattern;
+reduced FEV1 with a
+normal or increased
+absolute FEV1/FVC
+ratio suggests a
+restrictive pattern
+»CT scan of chest:
+hyperexpansion and
+bulla of emphysema
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Evaluation of peripheral edema Diagnosis
+Common
+◊ Cor pulmonale
+History Exam 1st Test Other tests
+the pulmonary
+hypertension.
+or segmental filling
+defects of pulmonary
+emboli
+»V/Q scan: segmental
+filling defects of
+pulmonary emboli
+»polysomnography:
+hypopnea/apnea
+episodes
+»right heart
+catheterization:
+elevated right heart
+pressure
+Right heart
+catheterization is the
+most accurate method
+of measurement of
+right ventricular and
+pulmonary pressures
+but is rarely required.
+◊ Sleep apnea
+History Exam 1st Test Other tests
+snoring, respiratory
+pauses during sleep;
+daytime somnolence
+bilateral edema;
+obesity, large tonsils,
+short neck with large
+circumference
+»echocardiography:
+pulmonary
+hypertension
+In the evaluation of
+peripheral edema, if
+the echocardiography
+demonstrates
+pulmonary
+hypertension, then
+subsequent testing
+will be needed to
+establish the cause.
+Polysomnography
+would be part of this
+evaluation especially
+for patients with history
+and examination
+»polysomnography:
+hypopnea/apnea
+episodes
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Common
+◊ Sleep apnea
+History Exam 1st Test Other tests
+features of obstructive
+sleep apnea.
+Deep vein thrombosis
+History Exam 1st Test Other tests
+acute/subacute calf
+pain and unilateral
+edema; pain may
+be localized over
+the deep venous
+system; risk factors
+include immobility,
+malignancy, personal,
+or family history of
+prior thromboembolic
+disease, surgery,
+pregnancy, or hormonal
+therapy; the Wells
+clinical prediction
+rule predicts pretest
+probability
+unilateral edema;
+asymmetric tenderness,
+warmth, erythema,
+and palpable cords
+behind the leg; dilated
+superficial veins over
+the foot and leg;
+normal jugular venous
+pressure
+»D-dimer: normal
+results have high
+negative predictive
+value in patients with
+low clinical pretest
+probability. Elevated
+levels have 98%
+sensitivity but low
+specificity for thrombus
+This test should
+be ordered only if
+results will change
+management. Unilateral
+edema with acute or
+subacute onset in a
+patient with low clinical
+pretest probability
+(Wells score <2) is
+where it has greatest
+utility. Patients with
+high pretest probability
+(Wells score ≥2) should
+proceed directly to
+duplex ultrasound.
+Ultrasound can safely
+be omitted in patients
+with a low pretest
+probability of deep
+vein thrombosis and a
+negative D-dimer.[17]
+»duplex ultrasound
+with compression:
+positive when thrombus
+is found
+Ultrasound is indicated
+when there is
+»venography: positive
+when thrombus is found
+Definitive test for
+evaluation of venous
+thrombus. May also
+be used to provide
+alternative visualization
+of venous compression
+or stenosis even in the
+absence of thrombus.
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Evaluation of peripheral edema Diagnosis
+Common
+Deep vein thrombosis
+History Exam 1st Test Other tests
+asymmetric edema
+of acute or subacute
+onset. Sensitivity is
+77% to 100% with
+a weighted mean
+sensitivity of 89%
+for symptomatic
+patients.[60] Patients
+at very high risk for
+thrombosis may merit
+evaluation for deep vein
+thrombosis even when
+the edema is bilateral.
+Ultrasound may also
+detect iliac venous
+stenosis of May-
+Thurner syndrome.[61]
+◊ Chronic venous insufficiency
+History Exam 1st Test Other tests
+chronic swelling,
+aching, heavy
+sensation of the legs,
+worse after standing;
+risk factors include
+older age, female sex,
+obesity, pregnancy,
+family history of
+varicose veins, prior
+leg injury, or history of
+venous thrombosis
+bilateral or unilateral
+leg edema; dark
+reddish-brown skin
+hyperpigmentation
+over the shins or skin
+ulcerations around
+malleoli; varicose veins;
+eczematous changes
+(venous dermatitis);
+lipodermatosclerosis
+creating inverted bottle-
+like contour; white
+scars/atrophic blanche;
+normal jugular venous
+pressure
+»none: no initial test,
+diagnosis is usually
+clinical
+»duplex ultrasound:
+may show location of
+venous incompetence
+and degree of venous
+reflux
+Clinical features
+alone can make the
+diagnosis of venous
+insufficiency in up to
+75% of patients.[62]
+Testing is usually
+used when surgery
+is being considered.
+A number of imaging
+modalities are available
+to diagnose venous
+insufficiency but triplex
+ultrasound is the
+definitive standard.[63]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Common
+◊ Nephrotic syndrome
+History Exam 1st Test Other tests
+frothing of urine from
+increased protein
+content; change in
+urine frequency or color
+may be seen
+bilateral and
+generalized edema
+from hypoproteinemia;
+edema may be seen
+in the periorbital
+region as well as
+in the extremities;
+normal jugular venous
+pressure
+»serum albumin:
+albumin level of <2 g/
+dL is usually required
+to cause peripheral
+edema
+A finding of low serum
+albumin prompts
+investigation to
+determine whether the
+etiology is due to loss
+in the urine, hepatic
+synthetic dysfunction,
+or gastrointestinal
+losses.
+»serum creatinine:
+elevated creatinine
+suggests renal
+dysfunction
+New-onset renal
+dysfunction may
+contribute to
+volume overload in
+conjunction with protein
+wasting.[68]
+»urinalysis: high-
+grade proteinuria (4+)
+A finding of high-
+grade proteinuria on
+screening urinalysis
+requires further
+evaluation with urine
+microscopy and
+quantitative urinary
+protein measurement.
+»urine microscopy:
+fat droplets inside
+kidney cells shed into
+the urine (oval fat
+bodies), which appear
+like a cross under
+polarized light (Maltese
+cross)
+»spot urine protein:
+protein-creatinine ratio
+>0.3 g protein per 1
+mmol creatinine
+»24-hour urine
+collection: >3.5 g/dL
+(proteinuria)
+◊ Cirrhosis
+History Exam 1st Test Other tests
+risk factors for viral
+hepatitis, excess
+alcohol consumption,
+bilateral edema; liver
+shrunken and nodular;
+splenomegaly and/
+»liver function
+tests (including
+coagulation
+»liver
+ultrasonography
+with duplex: small
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Evaluation of peripheral edema Diagnosis
+Common
+◊ Cirrhosis
+History Exam 1st Test Other tests
+Wilson disease,
+hemochromatosis,
+primary sclerosing
+cholangitis, primary
+biliary cirrhosis,
+autoimmune
+hepatitis, metabolic
+dysfunction-associated
+steatohepatitis
+(formerly known
+as nonalcoholic
+steatohepatitis),
+alpha-1-antitrypsin
+deficiency; some cases
+are cryptogenic; may
+have constitutional
+symptoms e.g. fatigue,
+weakness and weight
+loss
+or ascites; jaundice
+and scleral icterus;
+engorged periumbilical
+veins (caput medusae);
+spider nevi; normal
+jugular venous
+pressure
+studies): low albumin,
+prolonged prothrombin
+time, and increased
+bilirubin suggests liver
+synthetic and metabolic
+dysfunction
+Transaminases may
+be elevated, but this
+can be misleading,
+as elevation may
+be absent in
+chronic cirrhosis.
+Transaminases may
+also be elevated
+from passive hepatic
+congestion in
+cardiopulmonary
+dysfunction.
+Prothrombin time is a
+useful indicator of liver
+synthetic function.
+scarred liver with
+elevated portal
+pressure and
+splenomegaly
+Hepatic ultrasound
+may demonstrate
+findings suggestive of
+the underlying etiology
+of the cirrhosis.
+◊ Pregnancy
+History Exam 1st Test Other tests
+pregnancy is commonly
+associated with lower-
+extremity edema
+starting in the second
+trimester, due to
+increased total body
+fluid as a result of
+hormonal changes and
+mechanical pressure on
+the inferior vena cava
+from the gravid uterus
+bilateral edema, usually
+mild; pregnancy should
+be clinically evident
+by the time it begins
+to cause peripheral
+edema
+»human chorionic
+gonadotropin:
+positive
+Edema in the context
+of normal pregnancy
+is common. In
+preeclampsia the
+edema is associated
+with hypertension and
+proteinuria.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Common
+Medication-induced edema
+History Exam 1st Test Other tests
+onset of edema
+coincides with initiation
+of medication;
+use of calcium-
+channel blocking
+agents (especially
+dihydropyridines),
+agents that cause
+vasodilation (minoxidil,
+diazoxide), or agents
+that block renal
+prostaglandin synthesis
+(nonsteroidal anti-
+inflammatory drugs)
+causes renal fluid
+and salt retention
+and contributes to
+peripheral edema;
+other medication
+classes associated
+with peripheral
+edema include
+antidepressants,
+estrogens,
+corticosteroids,
+intrathecal opioids,
+gabapentin or
+pregabalin, mitogen-
+activated protein kinase
+enzyme inhibitors,
+hypoglycemic agents
+in the thiazolidinedione
+class and levodopa.
+bilateral edema;
+normal jugular venous
+pressure
+»none: no specific
+tests; clinical suspicion
+is driven by new
+medication use prior
+to onset of edema
+and supported by
+improvement in edema
+with medication
+withdrawal
+◊ Premenstrual edema
+History Exam 1st Test Other tests
+onset of edema is
+related to the hormone
+fluctuations that occur
+during the normal
+menstrual cycle;
+appears in a cyclic
+pattern, most often
+in the luteal phase
+(the 5-7 day window
+prior to menses);
+may be a symptom
+experienced as a
+may reveal a cyclical
+pattern of weight gain
+and lower extremity
+edema during the
+luteal phase (the 5-7
+day window prior to
+menses)
+»none: no initial test;
+diagnosis is usually
+clinical
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Evaluation of peripheral edema Diagnosis
+Common
+◊ Premenstrual edema
+History Exam 1st Test Other tests
+part of premenstrual
+syndrome, and
+therefore may be
+associated with other
+symptoms such as
+sadness, irritability,
+fatigue, or breast
+tenderness or swelling;
+secondary to hormone
+normalization
+Uncommon
+Pericardial effusion
+History Exam 1st Test Other tests
+substernal chest
+pain, dyspnea, and
+dizziness; history
+of risk factors for
+pericardial effusion
+(connective tissue
+disease, chest trauma,
+myocardial infarction,
+cardiac surgery,
+uremia, tuberculosis, or
+malignancy)
+bilateral edema; pulsus
+paradoxus; severe
+cases may have
+hypotension; loss of
+jugular atrial Y descent;
+muffled heart sounds;
+potential pericardial
+rub; elevated jugular
+venous pressure
+»ECG: diffuse concave
+ST elevation, PR
+depression, and later
+T-wave flattening and
+inversions; low voltages
+ECG may be done as
+part of initial evaluation
+but is not diagnostic for
+pericardial effusion.
+»CXR: enlarged,
+globular cardiac
+silhouette
+CXR may be done as
+part of initial evaluation
+but is not diagnostic for
+pericardial effusion.
+»echocardiography:
+positive for pericardial
+effusion
+Echocardiography
+is best employed
+for patients who
+have a suggestion
+of cardiopulmonary
+disease on history,
+physical exam, or
+screening ECG and
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Uncommon
+Pericardial effusion
+History Exam 1st Test Other tests
+CXR. In tamponade,
+echocardiography will
+demonstrate effusion,
+inspiratory increase
+in right ventricle size,
+and decreased left
+ventricle size. Plethora
+of the inferior vena cava
+(i.e., <50% decrease
+in inferior vena cava
+diameter with deep
+inspiration) and
+diastolic collapse of the
+right heart chambers
+are seen.
+◊ Constrictive pericarditis
+History Exam 1st Test Other tests
+risk factors (radiation
+exposure, connective
+tissue disease, chest
+trauma, myocardial
+infarction, cardiac
+surgery, uremia,
+tuberculosis, or
+malignancy); history
+of pericarditis; gradual
+development of
+symptoms of cardiac
+congestion
+bilateral edema,
+ascites, hepatomegaly;
+pericardial knock; large
+Y descent of jugular
+pressure, Kussmaul
+sign (rise in jugular
+venous pressure on
+inspiration); elevated
+jugular venous
+pressure
+»CXR: pericardial
+calcification may be
+seen
+Pericardial calcification
+is often best seen on
+lateral CXR, but the
+finding is nonspecific.
+»ECG: nonspecific;
+QRS voltage is
+usually low; T waves
+nonspecifically
+abnormal; atrial
+fibrillation
+ECG may be done as
+part of initial evaluation
+but is not specific for
+constrictive pericarditis.
+»echocardiography:
+increased pericardial
+thickness and abnormal
+ventricular filling
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Evaluation of peripheral edema Diagnosis
+Uncommon
+◊ Constrictive pericarditis
+History Exam 1st Test Other tests
+Other findings
+suggestive of
+constrictive pericarditis
+include flattening of
+the left ventricular
+posterior wall during
+diastole, rapid left atrial
+emptying, and a dilated
+inferior vena cava.
+◊ Restrictive cardiomyopathy
+History Exam 1st Test Other tests
+history of infiltrative
+disease such as
+amyloidosis or
+hemochromatosis
+bilateral edema,
+hepatomegaly,
+ascites, Kussmaul
+sign (rise in jugular
+venous pressure on
+inspiration), S3, mitral
+regurgitation murmur,
+elevated jugular venous
+pressure
+»ECG: typically
+nonspecifically
+abnormal, with ST-
+segment and T-
+wave abnormalities;
+sometimes low voltage
+ECG may be done
+as part of initial
+evaluation but is not
+diagnostic for restrictive
+cardiomyopathy.
+»echocardiography:
+restricted filling, normal
+or mildly reduced
+systolic function
+Important to
+distinguish restrictive
+cardiomyopathy from
+constrictive pericarditis.
+◊ Tricuspid regurgitation
+History Exam 1st Test Other tests
+history of congenital
+valve defects,
+rheumatic heart
+disease, or endocarditis
+bilateral edema;
+holosystolic murmur
+at left lower sternal
+border; prominent
+ventricular impulse
+»echocardiography:
+tricuspid valvular
+regurgitation
+Typically, severe
+regurgitation would
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Tricuspid regurgitation
+History Exam 1st Test Other tests
+in the left parasternal
+region; hepatomegaly;
+elevated jugular venous
+pressure
+be seen if peripheral
+edema is clinically
+evident.
+◊ Nonthrombotic venous outflow obstruction
+History Exam 1st Test Other tests
+unilateral leg pain and
+swelling (affects the
+left leg only in May-
+Thurner syndrome
+[compression of the
+left common iliac vein
+by the overlying right
+common iliac artery]);
+increases risk for deep
+vein thrombosis in the
+affected vein; may
+be history of prior
+thrombus
+unilateral leg edema
+(affecting left leg
+only in May-Thurner
+syndrome); potentially
+cutaneous signs
+of chronic venous
+insufficiency; normal
+jugular venous
+pressure
+»duplex ultrasound
+with compression:
+positive for
+compression
+In May-Thurner
+syndrome, the
+compression affects
+the left common iliac
+vein between the right
+common iliac artery
+and the overlying
+vertebrae.[61]
+»CT venography
+(CTV) or MR
+venography
+(MRV): positive for
+compression
+CTV or MRV can help
+to demonstrate the
+extent of compression
+if the duplex ultrasound
+is insufficient.[64]
+[65] CTV or MRV
+may also be used to
+exclude extravascular
+pathologies causing
+obstruction.
+»venography: positive
+when venous stenosis
+is observed
+May be used to provide
+alternative visualization
+of venous compression
+or stenosis even
+in the absence of
+thrombus.[66]
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Evaluation of peripheral edema Diagnosis
+Uncommon
+Hepatic venous outflow obstruction (includes Budd-Chiari
+syndrome and hepatic veno-occlusive disease)
+History Exam 1st Test Other tests
+right upper quadrant
+abdominal pain;
+thrombophilia and/
+or hematologic
+disorders such as
+myeloproliferative
+disorders or
+paroxysmal nocturnal
+hemoglobinuria; prior
+stem cell transplant,
+liver irradiation,
+or chemotherapy
+increases risk of
+hepatic veno-occlusive
+disease
+bilateral edema;
+tender hepatomegaly,
+jaundice, ascites
+»liver function
+panel: elevated
+bilirubin >2 mg/dL,
+elevated transaminases
+and elevated alkaline
+phosphatase
+The level of
+abnormalities in the
+liver function panel
+depends on how
+acutely the venous
+obstruction has
+developed. Fulminant
+Budd-Chiari syndrome
+can cause marked
+transaminase and
+alkaline phosphatase
+elevation and may lead
+to acute hepatic failure.
+»duplex ultrasound
+of the liver:
+demonstrates
+obstruction of blood
+flow through the liver
+In Budd-Chiari
+syndrome, the
+obstruction will
+be found at the
+level of the hepatic
+veins, usually from
+thrombus secondary
+to intravascular webs
+or compression from
+a mass. A more
+chronic form of hepatic
+venous obstruction is
+hepatic veno-occlusive
+disease (HVOD)
+(sinusoidal obstruction
+syndrome), which
+may occur after stem
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Uncommon
+Hepatic venous outflow obstruction (includes Budd-Chiari
+syndrome and hepatic veno-occlusive disease)
+History Exam 1st Test Other tests
+cell transplantation,
+chemotherapy, or
+abdominal radiation.
+In HVOD, reversal
+of portal blood flow
+may be observed on
+imaging.
+»CT or MRI: may show
+occlusion of hepatic
+veins, inferior vena
+cava, or both
+MRI is more accurate
+than CT and allows
+optimal delineation of
+venous obstruction
+for therapeutic
+decisions.[67]
+Renal failure
+History Exam 1st Test Other tests
+decreased urinary
+output; hematuria
+bilateral edema; may
+have associated ascites
+or pulmonary rales;
+hypertension may be
+seen; elevated jugular
+venous pressure from
+total body fluid overload
+»serum creatinine:
+increased creatinine
+indicates renal
+dysfunction
+Serial testing of serum
+creatinine, in parallel
+with close monitoring
+of urine output, is key
+to the diagnosis of
+renal failure. Oliguric
+or anuric renal failure
+results in net body
+fluid overload and
+represents a need
+for urgent evaluation
+and treatment.[69]
+Lesser degrees of renal
+insufficiency may be
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Evaluation of peripheral edema Diagnosis
+Uncommon
+Renal failure
+History Exam 1st Test Other tests
+a contributing factor
+to peripheral edema
+in combination with
+other etiologies. Further
+evaluation for etiology
+of renal failure indicated
+if increased creatinine
+is detected.
+»blood urea nitrogen
+(BUN): elevated
+BUN indicates renal
+dysfunction
+Serial testing of serum
+BUN, in parallel with
+close monitoring of
+urine output, is key
+to the diagnosis of
+renal failure. The BUN-
+creatinine ratio can be
+used to help distinguish
+prerenal from intrinsic
+renal failure.
+»urine output:
+decreased urine output
+Close monitoring of
+urine output is needed;
+and oliguric or anuric
+renal failure with fluid
+overload causing
+peripheral edema
+merits nephrology
+consultation.[69]
+»urinalysis with
+microscopy:
+proteinuria, red blood
+cells (RBCs), hyaline
+casts, or eosinophils
+Typical findings vary
+with type of renal
+failure: prerenal failure
+shows few hyaline
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Uncommon
+Renal failure
+History Exam 1st Test Other tests
+casts; postrenal
+failure shows few
+hyaline casts and
+possible RBCs; acute
+tubular necrosis
+shows epithelial
+cells, muddy-brown
+coarsely granular
+casts, and white
+blood cells (WBCs);
+allergic interstitial
+nephritis shows WBCs,
+RBCs, epithelial cells,
+eosinophils, possible
+WBC casts, and low to
+moderate proteinuria;
+glomerulonephritis
+shows RBC casts,
+dysmorphic RBCs, and
+moderate to severe
+proteinuria.
+◊ Protein-losing enteropathy
+History Exam 1st Test Other tests
+severe diarrhea
+suggests protein-losing
+enteropathy
+bilateral edema from
+hypoproteinemia
+is generalized and
+may be seen in the
+periorbital region
+as well as in the
+extremities; normal
+jugular venous
+pressure
+»serum albumin:
+albumin level <2 g/
+dL is usually required
+to cause peripheral
+edema
+Finding of low serum
+albumin prompts
+investigation to
+determine whether the
+etiology is due to loss
+in the urine, hepatic
+synthetic dysfunction,
+or gastrointestinal
+losses. History of
+significant diarrhea in
+conjunction with ruling
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Evaluation of peripheral edema Diagnosis
+Uncommon
+◊ Protein-losing enteropathy
+History Exam 1st Test Other tests
+out alternative causes
+makes the diagnosis.
+Angioedema
+History Exam 1st Test Other tests
+family history of
+angioedema or
+recent exposure to a
+medication such as an
+ACE inhibitor may be
+elicited
+edema is diffuse
+in anaphylaxis but
+may be localized in
+angioedema or focal
+infection; normal jugular
+venous pressure
+»none: there are no
+specific tests, suspicion
+is usually driven by
+clinical features
+»C4 level: decreased
+in hereditary and
+acquired angioedema
+Ordered in cases of
+angioedema without
+urticaria. A low level
+is suggestive of either
+hereditary or acquired
+angioedema.
+»C1-esterase
+inhibitor level:
+decreased in hereditary
+angioedema
+Ordered in cases with
+a high suspicion of
+hereditary angioedema.
+A low level is highly
+suggestive of the
+diagnosis.
+Rarely, patients can
+have normal levels of
+C1-esterase inhibitor
+yet low function.
+»C1-esterase
+inhibitor function:
+decreased in hereditary
+angioedema
+Given that rare patients
+can have normal levels
+of C1-esterase inhibitor
+yet low function, this
+test is ordered in
+cases with a high
+suspicion of hereditary
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Uncommon
+Angioedema
+History Exam 1st Test Other tests
+angioedema, with a
+low level confirming the
+diagnosis.
+»C1q level: normal in
+hereditary angioedema;
+decreased in acquired
+angioedema
+Ordered to help
+differentiate between
+hereditary and acquired
+angioedema.
+Sepsis
+History Exam 1st Test Other tests
+symptoms of localized
+infection, nonspecific
+symptoms include
+fever or shivering,
+dizziness, nausea
+and vomiting, muscle
+pain, feeling confused
+or disoriented;
+may be history of
+risk factors e.g.,
+immunosuppression,
+pregnancy or
+postpartum period,
+frailty, recent surgery
+or invasive procedures,
+intravenous drug
+use, or breach of skin
+integrity
+bilateral edema;
+diffuse, develops after
+fluid resuscitation;
+tachycardia, tachypnea,
+hypotension, fever
+(>100.4ºF [>38ºC])
+or hypothermia
+(<96.8ºF [<36ºC]),
+prolonged capillary
+refill, mottled or ashen
+skin, cyanosis, low
+oxygen saturation,
+newly altered mental
+state, reduced urine
+output
+»blood culture: may
+be positive for organism
+Blood cultures should
+be taken immediately,
+and preferably
+before antibiotics
+are started, provided
+their sampling will not
+delay administration
+of antibiotics. Other
+cultures (for example,
+sputum, stool, and
+urine) should be taken
+as clinically indicated.
+»serum lactate: may
+be elevated; levels
+>18 mg/dL (>2 mmol/
+L) associated with
+adverse prognosis;
+even worse prognosis
+with levels ≥36 mg/dL
+(≥4 mmol/L)
+Elevated serum
+lactate indicates tissue
+hypoperfusion, and is
+most reliably assessed
+»ECG: may show
+evidence of ischemia,
+atrial fibrillation, or
+other arrhythmia; may
+be normal
+An ECG should
+be arranged to
+help exclude other
+differential diagnoses,
+including myocardial
+infarction, pericarditis,
+and myocarditis. Sepsis
+also predisposes to
+myocardial dysfunction
+and arrhythmias.
+»CXR: may show
+consolidation;
+demonstrates position
+of central venous
+catheter and tracheal
+tube
+»urine microscopy
+and culture: may
+be positive for nitrites,
+protein or blood;
+elevated leukocyte
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Evaluation of peripheral edema Diagnosis
+Uncommon
+Sepsis
+History Exam 1st Test Other tests
+using an arterial
+sample.
+»CBC with
+differential: WBC
+count >12×10⁹/L
+(12,000/microliter)
+(leukocytosis); WBC
+count <4×10⁹/L (4000/
+microliter) (leukopenia);
+or a normal WBC count
+with >10% immature
+forms; low platelets
+WBC count is sensitive
+but not specific for the
+diagnosis of sepsis.
+»C-reactive protein:
+elevated
+»BUN and serum
+electrolytes: serum
+electrolytes may be
+deranged; blood urea
+may be elevated
+»serum creatinine:
+may be elevated
+Elevated creatinine
+may occur in sepsis
+associated with renal
+dysfunction.
+»liver function tests:
+may show elevated
+bilirubin, alanine
+aminotransferase,
+aspartate
+aminotransferase,
+alkaline phosphatase,
+and gamma glutamyl
+transpeptidase
+Sepsis can originate
+from hepatic or
+perihepatic infections.
+Comorbid hepatic
+disease can affect drug
+metabolism.
+count; positive culture
+for organism
+»sputum culture:
+may be positive for
+organism
+»lumbar puncture:
+may be elevated
+WBC count, presence
+of organism on
+microscopy and
+positive culture
+Performed if meningitis
+suspected.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Uncommon
+Sepsis
+History Exam 1st Test Other tests
+Septic shock can
+compromise hepatic
+blood flow and
+metabolism.
+»coagulation
+studies: may be
+abnormal
+»ABG: may be
+hypoxia, hypercapnia,
+elevated anion gap,
+metabolic acidosis
+Compartment syndrome
+History Exam 1st Test Other tests
+trauma, fracture,
+or infection in the
+extremities
+unilateral edema; pain
+in extremity may be
+severe, especially on
+passive stretch of the
+muscle; compartment
+tense to palpation;
+muscle weakness;
+hypoesthesia; normal
+jugular venous
+pressure; pulses and
+capillary refill may be
+normal
+»compartment
+pressure testing:
+variable; differential
+pressure within
+20-30 mmHg of the
+diastolic pressure (delta
+pressure) is considered
+a strong indicator for
+fasciotomy
+The perfusion pressure
+of a compartment (the
+compartment delta
+pressure) is defined as
+the difference between
+the diastolic BP and the
+intra-compartmental
+pressure (i.e., diastolic
+BP minus compartment
+pressure). A delta
+pressure of ≤30
+mmHg is considered
+a strong indicator for
+fasciotomy.[31] [32] [33]
+ However, care should
+be taken when using
+this criterion in patients
+who are receiving
+»computed
+tomography: evidence
+of the mechanism of
+the injury (e.g., fracture,
+bleeding)
+Imaging may be
+a helpful adjunct
+in the evaluation
+of trauma of the
+extremity but cannot
+make the diagnosis
+of compartment
+syndrome. If
+compartment syndrome
+is suspected then
+compartment pressure
+should be measured.
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Evaluation of peripheral edema Diagnosis
+Uncommon
+Compartment syndrome
+History Exam 1st Test Other tests
+vasodilatory drugs and
+whose diastolic BP is
+low.
+Patients with a
+high suspicion for
+compartment syndrome
+may require immediate
+surgery.
+◊ Primary lymphedema
+History Exam 1st Test Other tests
+can result from
+congenital
+lymphedema,
+lymphedema praecox,
+lymphedema tarda,
+yellow nail syndrome,
+or Turner syndrome;
+family history of similar
+symptoms supports
+diagnosis of congenital
+lymphedema
+unilateral or bilateral
+edema; initially pitting;
+chronic edema causes
+fibrosis, hyperkeratosis,
+rough skin texture,
+and nonpitting edema;
+Stemmer sign is
+indicative (i.e., inability
+to pinch and lift a fold
+of skin at the base of
+the second toe); jugular
+venous pressure
+normal; lymphedema
+graded on a 3-stage
+scale
+»none: no initial test,
+diagnosis is usually
+clinical
+»lymphoscintigraphy:
+normal result shows
+symmetrical transport
+of the tracer through
+discrete lymph nodes;
+slow movement
+of tracer suggests
+hypoplasia of the
+lymphatic system;
+tracer outside of
+lymph routes suggests
+obstruction
+Isotope
+lymphoscintigraphy
+has a sensitivity of
+73% to 97% and a
+specificity of 100%.[70]
+This diagnostic test
+would not generally be
+ordered if diagnosis
+of lymphedema was
+evident based on
+clinical history (e.g.,
+history of radical lymph
+node dissection).[71]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Uncommon
+Secondary lymphedema
+History Exam 1st Test Other tests
+secondary
+lymphedema caused
+by malignancy, prior
+radiation, surgery,
+or infection (e.g.,
+filariasis); history
+focuses on these
+possibilities and
+eliciting systemic
+symptoms such as
+unexplained weight loss
+unilateral or bilateral,
+initially pitting; if
+chronic, causes
+fibrosis, hyperkeratosis,
+rough skin texture,
+and nonpitting edema;
+unilateral lymphedema
+following cancer
+treatment may be
+measured as the
+circumference of the
+affected limb being
+>2 cm or volume
+>10% compared
+with the unaffected
+limb; Stemmer sign is
+indicative (i.e., inability
+to pinch and lift a fold
+of skin at the base
+of the second toe);
+normal jugular venous
+pressure
+»none: no initial test,
+diagnosis is usually
+clinical
+»lymphoscintigraphy:
+normal result shows
+symmetric transport
+of the tracer through
+discrete lymph nodes;
+slow movement
+of tracer suggests
+hypoplasia of the
+lymphatic system;
+tracer outside of
+lymph routes suggests
+obstruction
+Isotope
+lymphoscintigraphy
+has a sensitivity of
+73% to 97% and a
+specificity of 100%.[70]
+This diagnostic test
+would not generally be
+ordered if diagnosis
+of lymphedema was
+evident based on
+clinical history (e.g.,
+history of radical lymph
+node dissection).
+»Giemsa stain of
+peripheral blood
+smear: microfilaria of 
+Wuchereria bancrofti  or
+Brugia  spp. present in
+filariasis
+Microfilariae of 
+Wuchereria bancrofti 
+and  Brugia  spp.
+exhibit a nocturnal
+periodicity, and an
+accurate diagnosis is
+best achieved on blood
+collected at night.[72]
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Evaluation of peripheral edema Diagnosis
+Uncommon
+◊ Idiopathic
+History Exam 1st Test Other tests
+onset age 20 to 60
+years, usually in the
+third or fourth decade;
+worsened by orthostatic
+position; cyclical pattern
+but not associated
+with menses; may
+be associated
+with psychological
+symptoms and diuretic,
+laxative, or bulimic
+behaviors
+bilateral edema periodic
+swelling of extremities
+and face; abdominal
+bloating; normal jugular
+venous pressure
+»none: no routine
+tests, as this is a
+diagnosis of exclusion
+Severe malnutrition
+History Exam 1st Test Other tests
+longstanding and
+profound decreased
+dietary intake
+bilateral edema from
+hypoproteinemia
+is generalized
+and may be seen
+in the periorbital
+region as well as
+in the extremities;
+muscle wasting from
+malnutrition should
+be evident, although
+muscle loss induced
+by protein deficiency
+may be masked
+by fluid retention;
+normal jugular venous
+pressure
+»serum albumin:
+albumin level of <2 g/
+dL is usually required
+to cause peripheral
+edema
+A finding of low serum
+albumin prompts
+an investigation to
+determine whether the
+etiology is due to loss
+in the urine, hepatic
+synthetic dysfunction,
+gastrointestinal losses,
+or reduced intake. The
+history and examination
+would usually suggest
+malnutrition as a
+cause of severe
+hypoproteinemia and
+edema.
+Hypothyroidism/myxedema
+History Exam 1st Test Other tests
+fatigue, cold
+intolerance, dry skin,
+bilateral nonpitting
+edema occurs on the
+»thyroid-stimulating
+hormone (TSH):
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Evaluation of peripheral edema Diagnosis
+DIAGNOSIS
+Uncommon
+Hypothyroidism/myxedema
+History Exam 1st Test Other tests
+constipation, weight
+gain, coarse hair
+backs of the hands,
+and in periorbital
+and pretibial regions;
+normal jugular venous
+pressure
+elevation of
+TSH suggests
+hypothyroidism
+Severe hypothyroidism
+is associated with
+myxedema. At
+its most extreme,
+myxedema coma is
+an endocrinologic
+emergency.
+◊ Ruptured popliteal fossa cyst
+History Exam 1st Test Other tests
+acute, unilateral,
+painful calf swelling;
+symptoms may be
+clinically similar to
+deep vein thrombosis;
+gastrocnemius bursa
+cysts are more
+common in knees with
+prior pathology such as
+arthritis
+unilateral edema;
+may have been a
+palpable enlargement
+of the gastrocnemius
+bursa prior to rupture;
+normal jugular venous
+pressure
+»ultrasound:
+hypoechoic regions
+superficial to the
+muscles of the mid calf
+Pelvic tumor causing external pressure on pelvic veins
+History Exam 1st Test Other tests
+back pain, hematuria,
+flank pain, abdominal
+bloating, abnormal
+vaginal bleeding
+or discharge, or
+unintentional weight
+loss
+a mass may be felt
+upon palpation of the
+abdomen
+»ultrasound
+of abdomen:
+transvaginal is most
+common; may reveal
+complex components,
+bilateral tumors,
+ascites, mass >10 cm,
+and mural nodules
+All of these increase
+the likelihood of a
+malignant mass.
+»computed
+tomography scan
+of abdomen:
+recommended as
+»MRI of abdomen:
+may reveal presence of
+pelvic mass
+»PET scan: may be
+useful once mass
+has been detected, to
+differentiate between
+malignant and benign
+pelvic mass, as well as
+assess for metastases
+»cystoscopy: may be
+used for evaluation of
+hematuria; may reveal
+lesions or mass that
+can be biopsied and
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Evaluation of peripheral edema Diagnosis
+Uncommon
+Pelvic tumor causing external pressure on pelvic veins
+History Exam 1st Test Other tests
+a first test in men
+and a second test
+(after transvaginal
+ultrasound) in women;
+may reveal presence of
+pelvic mass
+resected during the
+procedure
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Evaluation of peripheral edema Evidence tables
+EVIDENCE TABLES
+Evidence tables
+What are the effects of early versus late initiation of empiric antimicrobial
+treatment in adults with or at risk of developing sepsis or severe sepsis?[34]
+This table is a summary of the analysis reported in a guideline (underpinned by a systematic review)
+that focuses on the above important clinical question.
+View the full source guideline (https://www.nice.org.uk/guidance/ng51/evidence)
+Evidence C *
+Confidence in the evidence is very low or low where GRADE has been performed
+and the intervention may be more effective/beneficial than the comparison for key
+outcomes. However, this is uncertain and new evidence could change this in the
+future.
+Population: Adults with or at risk of developing sepsis or severe sepsis
+Intervention: Early initiation of empiric antimicrobial treatment
+Comparison: Late initiation of empiric antimicrobial treatment
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+<1 hour versus >1 hour
+Mortality ᵃ Favors intervention Very Low
+Mortality: intensive care unit
+(ICU) setting
+Favors intervention Very Low
+Mortality: emergency
+department (ED) setting
+No statistically significant
+difference
+Very Low
+<2 hours versus >2 hours
+Mortality ᵃ No statistically significant
+difference
+Very Low
+Mortality: ICU setting Favors intervention Very Low
+Mortality: ED setting No statistically significant
+difference
+Very Low
+<3 hours versus >3 hours
+Mortality ᵃ Favors intervention Very Low
+Mortality: ICU setting No statistically significant
+difference
+Very Low
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Evaluation of peripheral edema Evidence tables
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+Mortality: ED setting Favors intervention Very Low
+<4 hours versus >4 hours
+Mortality: ED setting No statistically significant
+difference
+Very Low
+<5 hours versus >5 hours
+Mortality: ED setting No statistically significant
+difference
+Very Low
+<6 hours versus >6 hours
+Mortality ᵃ Favors intervention Very Low
+Mortality: ICU setting No statistically significant
+difference
+Very Low
+Mortality: ED setting Favors intervention Very Low
+Recommendations as stated in the source guideline
+The guideline committee recommends that adults, children, and young people over the age of 12 who have
+suspected sepsis and one or more high-risk criteria should be given a broad-spectrum antimicrobial at the
+maximum recommended dose without delay (within one hour of establishing they meet high-risk criteria in an
+acute hospital s e t t i n g ) . ᵇ  See guideline for details on criteria for different levels of risk.
+Note
+Results in this table are based on observational studies only.
+ᵃ  Includes overall mortality in intensive care and emergency department settings.
+ᵇ  This guideline recommends that all people with suspected sepsis have a face-to-face assessment and that
+a risk stratification tool is used to determine risk of severe illness and death from sepsis. Recommendations
+depend on the presence and number of high-, moderate-to-high, and low-risk criteria.
+EVIDENCE TABLES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Evaluation of peripheral edema Evidence tables
+EVIDENCE TABLES
+What are the effects of early versus late initiation of empiric antimicrobial
+treatment in children with or at risk of developing sepsis or severe sepsis?[34]
+This table is a summary of the analysis reported in a guideline (underpinned by a systematic review)
+that focuses on the above important clinical question.
+View the full source guideline (https://www.nice.org.uk/guidance/ng51/evidence)
+Evidence C *
+Confidence in the evidence is very low or low where GRADE has been performed
+and the intervention may be more effective/beneficial than the comparison for key
+outcomes. However, this is uncertain and new evidence could change this in the
+future.
+Population: Children with or at risk of developing sepsis or severe sepsis
+Intervention: Early initiation of empiric antimicrobial treatment
+Comparison: Late initiation of empiric antimicrobial treatment
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+<1 hour versus >1 hour ᵃ 
+ Pediatric Intensive Care Unit
+(PICU) mortality
+No statistically significant
+difference
+Very Low
+<2 hours versus >2 hours ᵃ 
+ PICU mortality No statistically significant
+difference
+Very Low
+<3 hours versus >3 hours ᵃ 
+ PICU mortality Favors intervention Very Low
+<4 hours versus >4 hours ᵃ 
+ PICU mortality Favors intervention Very Low
+Recommendations as stated in the source guideline
+The National Institute of Health and Care Excellence (NICE) guideline on Sepsis: recognition, diagnosis and
+early management makes the following recommendation:
+For children aged 5–11 years who have suspected sepsis and one or more high-risk criteria, give a broad-
+spectrum a n t i m i c r o b i a l ᵇ  at the maximum recommended dose without delay (within one hour of identifying that
+they meet any high-risk criteria in an acute hospital setting).
+Note
+The guideline group noted that the direct evidence in children came from one small (n=130), single-
+centre retrospective study of children in PICU with severe sepsis and septic shock. Therefore, they also
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Evaluation of peripheral edema Evidence tables
+extrapolated from the indirect evidence in adults to make the same recommendation for all age groups
+(including children aged under 5 years and 5–11 years).
+ᵃ  Time from sepsis recognition to initial treatment and first appropriate treatment.
+ᵇ  See full guideline for more information.
+* Evidence levels
+The Evidence level is an internal rating applied by BMJ Best Practice. See the EBM Toolkit (https://
+bestpractice.bmj.com/info/evidence-tables/) for details.
+Confidence in evidence
+A -  High or moderate to high
+B -  Moderate or low to moderate
+C -  Very low or low
+† Effectiveness (BMJ rating)
+Based on statistical significance, which demonstrates that the results are unlikely to be due to chance, but
+which does not necessarily translate to a clinical significance.
+‡ Grade certainty ratings
+High The authors are very confident that the true
+effect is similar to the estimated effect.
+Moderate The authors are moderately confident that
+the true effect is likely to be close to the
+estimated effect.
+Low The authors have limited confidence in the
+effect estimate and the true effect may be
+substantially different.
+Very Low The authors have very little confidence in
+the effect estimate and the true effect is
+likely to be substantially different.
+BMJ Best Practice EBM Toolkit: What is GRADE? (https://bestpractice.bmj.com/info/toolkit/learn-ebm/what-
+is-grade/)
+EVIDENCE TABLES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Evaluation of peripheral edema References
+REFERENCES
+Key articles
+• Mortimer PS, Levick JR. Chronic peripheral oedema: the critical role of the lymphatic system. Clin
+Med (Lond). 2004 Sep-Oct;4(5):448-53.  Full text (https://www.doi.org/10.7861/clinmedicine.4-5-448)  
+Abstract
+• Mortimer PS, Rockson SG. New developments in clinical aspects of lymphatic disease. J Clin Invest.
+2014 Mar;124(3):915-21.  Full text (https://www.jci.org/articles/view/71608)   Abstract
+• Executive Committee of the International Society of Lymphology. The diagnosis and treatment of
+peripheral lymphedema: 2020 Consensus Document of the International Society of Lymphology.
+Lymphology. 2020;53(1):3-19.  Full text (https://journals.librarypublishing.arizona.edu/lymph/article/
+id/4649)   Abstract
+References
+1. Mortimer PS, Levick JR. Chronic peripheral oedema: the critical role of the lymphatic system. Clin
+Med (Lond). 2004 Sep-Oct;4(5):448-53.  Full text (https://www.doi.org/10.7861/clinmedicine.4-5-448)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15536876?tool=bestpractice.bmj.com)
+2. Mortimer PS, Rockson SG. New developments in clinical aspects of lymphatic disease. J Clin
+Invest. 2014 Mar;124(3):915-21.  Full text (https://www.jci.org/articles/view/71608)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24590276?tool=bestpractice.bmj.com)
+3. Wiig H, Swartz MA. Interstitial fluid and lymph formation and transport: physiological regulation
+and roles in inflammation and cancer. Physiol Rev. 2012 Jul;92(3):1005-60.  Full text (https://
+journals.physiology.org/doi/full/10.1152/physrev.00037.2011)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22811424?tool=bestpractice.bmj.com)
+4. Quéré I, Palmier S, Noerregaard S, et al. LIMPRINT: estimation of the prevalence of lymphoedema/
+chronic oedema in acute hospital in in-patients. Lymphat Res Biol. 2019 Apr;17(2):135-40. 
+Full text (https://pubmed.ncbi.nlm.nih.gov/30995191)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30995191?tool=bestpractice.bmj.com)
+5. Rabinovich A, Kahn SR. The postthrombotic syndrome: current evidence and future challenges. J
+Thromb Haemost. 2017 Feb;15(2):230-41.  Full text (https://onlinelibrary.wiley.com/doi/full/10.1111/
+jth.13569)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27860129?tool=bestpractice.bmj.com)
+6. Cho S, Atwood JE. Peripheral edema. Am J Med. 2002 Nov;113(7):580-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12459405?tool=bestpractice.bmj.com)
+7. Frishman WH. Effects of nonsteroidal anti-inflammatory drug therapy on blood pressure and
+peripheral edema. Am J Cardiol. 2002 Mar 21;89(6A):18-25D. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11909557?tool=bestpractice.bmj.com)
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Evaluation of peripheral edema References
+8. Largeau B, Cracowski JL, Lengellé C, et al. Drug-induced peripheral oedema: an
+aetiology-based review. Br J Clin Pharmacol. 2021 Aug;87(8):3043-55.  Full text (https://
+bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.14752)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33506982?tool=bestpractice.bmj.com)
+9. Fishel RS, Are C, Barbul A. Vessel injury and capillary leak. Crit Care Med. 2003;31(8 suppl):S502-11.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12907879?tool=bestpractice.bmj.com)
+10. Garcia-Tsao G. Portal hypertension. Curr Opin Gastroenterol. 2006 May;22(3):254-62. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16550040?tool=bestpractice.bmj.com)
+11. Schrier RW. Decreased effective blood volume in edematous disorders: what does this mean? J Am
+Soc Nephrol. 2007 Jul;18(7):2028-31.  Full text (https://jasn.asnjournals.org/content/18/7/2028.full)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17568020?tool=bestpractice.bmj.com)
+12. Slavin SA, Greene AK, Borud LJ. Lymphedema. In: Weinzweig J, ed. Plastic surgery secrets plus. 2nd
+ed. Philadelphia, PA: Mosby; 2009.
+13. Lurie F, Malgor RD, Carman T, et al. The American Venous Forum, American Vein and Lymphatic
+Society and the Society for Vascular Medicine expert opinion consensus on lymphedema diagnosis
+and treatment. Phlebology. 2022 May;37(4):252-66.  Full text (https://journals.sagepub.com/doi/
+full/10.1177/02683555211053532)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35258350?
+tool=bestpractice.bmj.com)
+14. DiSipio T, Rye S, Newman B, et al. Incidence of unilateral arm lymphoedema after breast
+cancer: a systematic review and meta-analysis. Lancet Oncol. 2013 May;14(6):500-15.  Full text
+(https://www.doi.org/10.1016/S1470-2045(13)70076-7)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23540561?tool=bestpractice.bmj.com)
+15. Moore JE Jr, Bertram CD. Lymphatic system flows. Annu Rev Fluid Mech. 2018 Jan;50:459-82. 
+Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC5922450)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29713107?tool=bestpractice.bmj.com)
+16. Keast DH, Despatis M, Allen JO, et al. Chronic oedema/lymphoedema: under-recognised and
+under-treated. Int Wound J. 2015 Jun;12(3):328-33.  Full text (https://onlinelibrary.wiley.com/
+doi/epdf/10.1111/iwj.12224)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24618210?
+tool=bestpractice.bmj.com)
+17. Di Nisio M, van Es N, Büller HR. Deep vein thrombosis and pulmonary embolism. Lancet.
+2016 Dec 17;388(10063):3060-73. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27375038?
+tool=bestpractice.bmj.com)
+18. Bhatt S, Wehbe C, Dogra VS. Phlegmasia cerulea dolens. J Clin Utrasound. 2007 Sep;35(7):401-4.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17354247?tool=bestpractice.bmj.com)
+19. Kakkos SK, Gohel M, Baekgaard N, et al. Editor's Choice - European Society for Vascular
+Surgery (ESVS) 2021 Clinical Practice Guidelines on the Management of Venous Thrombosis.
+Eur J Vasc Endovasc Surg. 2021 Jan;61(1):9-82.  Full text (https://www.ejves.com/article/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Evaluation of peripheral edema References
+REFERENCES
+S1078-5884(20)30868-6/fulltext#secsectitle0630)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33334670?tool=bestpractice.bmj.com)
+20. Singh AD, Makkar N, Ray A, et al. Phlegmasia cerulea dolens presenting with acute compartment
+syndrome and pulmonary embolism. BMJ Case Rep. 2018 Jun 13;2018:bcr2018224879.  Full text
+(https://casereports.bmj.com/content/2018/bcr-2018-224879.long)
+21. Hunter BR, Martindale J, Abdel-Hafez O, et al. Approach to acute heart failure in the
+emergency department. Prog Cardiovasc Dis. 2017 Sep - Oct;60(2):178-86.  Full text (https://
+www.doi.org/10.1016/j.pcad.2017.08.008)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28865801?
+tool=bestpractice.bmj.com)
+22. Allen LA, O'Connor CM. Management of acute decompensated heart failure. CMAJ. 2007 Mar
+13;176(6):797-805.  Full text (https://www.cmaj.ca/content/176/6/797.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17353535?tool=bestpractice.bmj.com)
+23. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022 May 3;145(18):e895-1032.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001063)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35363499?tool=bestpractice.bmj.com)
+24. National Institute for Health and Care Excellence. Heart valve disease presenting in adults:
+investigation and management. Nov 2021 [internet publication].  Full text (https://www.nice.org.uk/
+guidance/ng208)
+25. Bromage D, Mayhew J, Sado D. Managing heart failure related peripheral oedema in primary care.
+BMJ. 2020 Jun 22;369:m2099.  Full text (https://www.doi.org/10.1136/bmj.m2099)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32571780?tool=bestpractice.bmj.com)
+26. Hoit BD. Pericardial disease and pericardial tamponade. Crit Care Med. 2007 Aug;35(8
+suppl):S355-64. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17667460?tool=bestpractice.bmj.com)
+27. Politano SA, Colbert GB, Hamiduzzaman N. Nephrotic syndrome. Prim Care. 2020
+Dec;47(4):597-613. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33121631?
+tool=bestpractice.bmj.com)
+28. Li S, Alsaiqali M, Narayanaswamy M, et al. The vicious cycle of hypothyroidism and severe proteinuria:
+a case report. Cureus. 2022 Sep;14(9):e28674.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/
+PMC9526517)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36199658?tool=bestpractice.bmj.com)
+29. Elkattawy S, Dhanoa P, Kotys J, et al. Myxedema coma: case report and literature review. Cureus.
+2021 May 27;13(5):e15277.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC8235691)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/34194879?tool=bestpractice.bmj.com)
+30. Bayraktar UD, Seren S, Bayraktar Y. Hepatic venous outflow obstruction: three similar syndromes.
+World J Gastroenterol. 2007 Apr 7;13(13):1912-27.  Full text (https://www.wjgnet.com/1007-9327/
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Evaluation of peripheral edema References
+full/v13/i13/1912.htm)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17461490?
+tool=bestpractice.bmj.com)
+31. Olson SA, Glasgow RR. Acute compartment syndrome in lower extremity musculoskeletal
+trauma. J Am Acad Orthop Surg. 2005 Nov;13(7):436-44.  Full text (https://
+www.doi.org/10.5435/00124635-200511000-00003)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16272268?tool=bestpractice.bmj.com)
+32. Shadgan B, Menon M, O'Brien PJ, et al. Diagnostic techniques in acute compartment syndrome
+of the leg. J Orthop Trauma. 2008 Sep;22(8):581-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18758292?tool=bestpractice.bmj.com)
+33. McMillan TE, Gardner WT, Schmidt AH, et al. Diagnosing acute compartment syndrome-where have
+we got to? Int Orthop. 2019 Nov;43(11):2429-35.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC6848051)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31468110?tool=bestpractice.bmj.com)
+34. National Institute for Health and Care Excellence. Suspected sepsis: recognition, diagnosis and early
+management. Mar 2024 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng51)
+35. Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions
+for sepsis and septic shock (Sepsis-3). JAMA. 2016 Feb 23;315(8):801-10.  Full text (https://
+www.doi.org/10.1001/jama.2016.0287)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26903338?
+tool=bestpractice.bmj.com)
+36. Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international
+guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021 Nov
+1;49(11):e1063-143.  Full text (https://journals.lww.com/ccmjournal/fulltext/2021/11000/
+surviving_sepsis_campaign__international.21.aspx)
+37. Royal College of Physicians. National Early Warning Score (NEWS) 2. December 2017 [internet
+publication].  Full text (http://www.rcplondon.ac.uk/projects/outputs/national-early-warning-score-
+news-2)
+38. American College of Emergency Physicians (ACEP) Expert Panel on Sepsis. DART: an evidence-
+driven tool to guide the early recognition and treatment of sepsis and septic shock [internet
+publication].  Full text (https://poctools.acep.org/POCTool/Sepsis(DART)/276ed0a9-f24d-45f1-8d0c-
+e908a2758e5a)
+39. Academy of Medical Royal Colleges. Statement on the initial antimicrobial treatment of sepsis. May
+2022 [internet publication].  Full text (https://www.aomrc.org.uk/reports-guidance/statement-on-the-
+initial-antimicrobial-treatment-of-sepsis)
+40. Schlapbach LJ, Watson RS, Sorce LR, et al. International consensus criteria for pediatric sepsis
+and septic shock. JAMA. 2024 Feb 27;331(8):665-74.  Full text (https://jamanetwork.com/
+journals/jama/fullarticle/2814297)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/38245889?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Evaluation of peripheral edema References
+REFERENCES
+41. Society of Critical Care Medicine. Surviving Sepsis Campaign. Hour-1 Bundle. 2019 [internet
+publication].  Full text (https://www.sccm.org/getattachment/SurvivingSepsisCampaign/Guidelines/
+Adult-Patients/Surviving-Sepsis-Campaign-Hour-1-Bundle.pdf?lang=en-US)
+42. Schroth BE. Evaluation and management of peripheral edema. JAAPA. 2005 Nov;18(11):29-34.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16315498?tool=bestpractice.bmj.com)
+43. Koo LW, Reedy S, Smith JK. Patient history key to diagnosing peripheral edema. Nurse Pract. 2010
+Mar;35(3):44-52. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20164736?tool=bestpractice.bmj.com)
+44. Bougea A, Spantideas N, Katoulis A, et al. Levodopa-induced skin disorders in patients with Parkinson
+disease: a systematic literature review approach. Acta Neurol Belg. 2019 Sep;119(3):325-36.  Full
+text (https://www.doi.org/10.1007/s13760-019-01195-3)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31338806?tool=bestpractice.bmj.com)
+45. Brodovicz KG, McNaughton K, Uemura N, et al. Reliability and feasibility of methods to
+quantitatively assess peripheral edema. Clin Med Res. 2009 Jun;7(1-2):21-31.  Full text (http://
+www.clinmedres.org/content/7/1-2/21.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19251582?
+tool=bestpractice.bmj.com)
+46. Goss JA, Greene AK. Sensitivity and specificity of the Stemmer sign for lymphedema:
+a clinical lymphoscintigraphic study. Plast Reconstr Surg Glob Open. 2019
+Jun;7(6):e2295.  Full text (https://journals.lww.com/prsgo/Fulltext/2019/06000/
+Sensitivity_and_Specificity_of_the_Stemmer_Sign.13.aspx)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31624689?tool=bestpractice.bmj.com)
+47. Rea ME, Dunlap ME. Renal hemodynamics in heart failure: implications for treatment. Curr Opin
+Nephrol Hypertens. 2008 Jan;17(1):87-92. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18090676?
+tool=bestpractice.bmj.com)
+48. Schook CC, Mulliken JB, Fishman SJ, et al. Primary lymphedema: clinical features and
+management in 138 pediatric patients. Plast Reconstr Surg. 2011 Jun;127(6):2419-31.  Full text
+(https://www.doi.org/10.1097/PRS.0b013e318213a218)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21617474?tool=bestpractice.bmj.com)
+49. Senger JB, Kadle RL, Skoracki RJ. Current concepts in the management of primary lymphedema.
+Medicina (Kaunas). 2023 May 6;59(5):894.  Full text (https://www.mdpi.com/1648-9144/59/5/894)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37241126?tool=bestpractice.bmj.com)
+50. Sudduth CL, Greene AK. Primary lymphedema: update on genetic basis and management. Adv
+Wound Care (New Rochelle). 2022 Jul;11(7):374-81.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/
+PMC9051871)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33502936?tool=bestpractice.bmj.com)
+51. National Institute for Health and Care Excellence. Acute heart failure: diagnosis and management. Nov
+2021 [internet publication].  Full text (https://www.nice.org.uk/guidance/cg187)
+52. National Institute for Health and Care Excellence. Chronic heart failure in adults: diagnosis and
+management. Sep 2018 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng106)
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Evaluation of peripheral edema References
+53. Szuba A, Shin WS, Strauss HW, et al. The third circulation: radionuclide lymphoscintigraphy
+in the evaluation of lymphedema. J Nucl Med. 2003 Jan;44(1):43-57.  Full text (http://
+jnm.snmjournals.org/content/44/1/43.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12515876?
+tool=bestpractice.bmj.com)
+54. Scarsbrook AF, Ganeshan A, Bradley KM. Pearls and pitfalls of radionuclide imaging of the lymphatic
+system. Part 2: evaluation of extremity lymphoedema. Br J Radiol. 2007 Mar;80(951):219-26. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/16728412?tool=bestpractice.bmj.com)
+55. Hassanein AH, Maclellan RA, Grant FD, et al. Diagnostic accuracy of lymphoscintigraphy
+for lymphedema and analysis of false-negative tests. Plast Reconstr Surg Glob Open.
+2017 Jul;5(7):e1396.  Full text (https://journals.lww.com/prsgo/Fulltext/2017/07000/
+Diagnostic_Accuracy_of_Lymphoscintigraphy_for.16.aspx)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28831342?tool=bestpractice.bmj.com)
+56. Simundic AM, Bölenius K, Cadamuro J, et al. Joint EFLM-COLABIOCLI recommendation for venous
+blood sampling. Clin Chem Lab Med. 2018;56(12):2015-38. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30004902?tool=bestpractice.bmj.com)
+57. Davie AP, Francis CM, Love MP, et al. Value of the electrocardiogram in identifying heart failure
+due to left ventricular systolic dysfunction. BMJ. 1996 Jan 27;312(7025):222.  Full text (https://
+www.bmj.com/content/312/7025/222.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8563589?
+tool=bestpractice.bmj.com)
+58. Shah MG, Cho S, Atwood JE, et al. Peripheral edema due to heart disease: diagnosis and outcome.
+Clin Cardiol. 2006 Jan;29(1):31-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16477775?
+tool=bestpractice.bmj.com)
+59. Gheorghiade M, Filippatos G, De Luca L, et al. Congestion in acute heart failure syndromes: an
+essential target of evaluation and treatment. Am J Med. 2006 Dec;119(12 suppl 1):S3-10. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/17113398?tool=bestpractice.bmj.com)
+60. Kearon C, Julian JA, Newman TE, et al. Noninvasive diagnosis of deep venous thrombosis. McMaster
+Diagnostic Imaging Practice Guidelines. Ann Intern Med. 1998 Apr 15;128(8):663-77. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9537941?tool=bestpractice.bmj.com)
+61. Oğuzkurt L, Özkan U, Tercan F, et al. Ultrasonographic diagnosis of iliac vein compression (May-
+Thurner) syndrome. Diagn Interv Radiol. 2007 Sep;13(3):152-5.  Full text (https://www.dirjournal.org/
+en/ultrasonographic-diagnosis-of-iliac-vein-compression-may-thurner-syndrome-163278)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/17846991?tool=bestpractice.bmj.com)
+62. Valencia IC, Falabella A, Kirsner RS, et al. Chronic venous insufficiency and venous leg ulceration. J
+Am Acad Dermatol. 2001 Mar;44(3):401-21. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11209109?
+tool=bestpractice.bmj.com)
+63. Mantoni M, Larsen L, Lund JO, et al. Evaluation of chronic venous disease in the lower limbs:
+comparison of five diagnostic methods. Br J Radiol. 2002 Jul;75(895):578-83. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12145130?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Evaluation of peripheral edema References
+REFERENCES
+64. Taha MAH, Busuttil A, Bootun R, et al. A clinical guide to deep venous stenting for chronic iliofemoral
+venous obstruction. J Vasc Surg Venous Lymphat Disord. 2022 Jan;10(1):258-66.e1. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34020107?tool=bestpractice.bmj.com)
+65. Mahnken AH, Thomson K, de Haan M, et al. CIRSE standards of practice guidelines on iliocaval
+stenting. Cardiovasc Intervent Radiol. 2014 Aug;37(4):889-97.  Full text (https://link.springer.com/
+article/10.1007/s00270-014-0875-4)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24633533?
+tool=bestpractice.bmj.com)
+66. Garrie A, Jones LE, Chen JF, et al. New vein compression entities in patients with unexplained
+leg swelling. Ann Vasc Surg. 2017 Nov;45:173-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28647635?tool=bestpractice.bmj.com)
+67. Kamath PS. Budd-Chiari syndrome: radiologic findings. Liver Transpl. 2006 Nov;12(11 suppl
+2):S21-2.  Full text (https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/lt.20939)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17051559?tool=bestpractice.bmj.com)
+68. Hilton R. Acute renal failure. BMJ. 2006 Oct 14;333(7572):786-90.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC1601981)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17038736?tool=bestpractice.bmj.com)
+69. Babuin L, Alegria JR, Oh JK, et al. Brain natriuretic peptide levels in constrictive pericarditis
+and restrictive cardiomyopathy. J Am Coll Cardiol. 2006 Apr 4;47(7):1489-91. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16580543?tool=bestpractice.bmj.com)
+70. Tiwari A, Cheng KS, Button M, et al. Differential diagnosis, investigation, and current treatment of
+lower limb lymphedema. Arch Surg. 2003 Feb;138(2):152-61.  Full text (https://jamanetwork.com/
+journals/jamasurgery/fullarticle/394351)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12578410?
+tool=bestpractice.bmj.com)
+71. Executive Committee of the International Society of Lymphology. The diagnosis and treatment of
+peripheral lymphedema: 2020 Consensus Document of the International Society of Lymphology.
+Lymphology. 2020;53(1):3-19.  Full text (https://journals.librarypublishing.arizona.edu/lymph/article/
+id/4649)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32521126?tool=bestpractice.bmj.com)
+72. Centers for Disease Control and Prevention. Laboratory identification of parasites of public health
+concern: lymphatic filariasis. Aug 2019 [internet publication].  Full text (https://www.cdc.gov/dpdx/
+lymphaticFilariasis/index.html)
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Evaluation of peripheral edema Images
+Images
+Figure 1: Development of edema: an imbalance between the filtration of fluid from the bloodstream and
+drainage via the lymph system.
+Created by BMJ Knowledge Centre
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Evaluation of peripheral edema Images
+IMAGES
+Figure 2: Deep vein thrombosis (DVT) of the right leg with associated swelling and redness
+From the collection of James Heilman, MD.
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Evaluation of peripheral edema Images
+Figure 3: A clinical assessment scoring system
+Created by BMJ Knowledge Centre based on Brodovicz KG, McNaughton K, Uemura N, et al. Reliability and
+feasibility of methods to quantitatively assess peripheral edema. Clin Med Res. 2009 Jun;7(1-2):21-31.
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Evaluation of peripheral edema Images
+IMAGES
+Figure 4: Atrophie blanche and hemosiderin deposition in a patient with chronic venous insufficiency
+From the collection of Dr Joseph L. Mills; used with permission
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Evaluation of peripheral edema Images
+Figure 5: Approach to the patient with peripheral edema. DVT, deep vein thrombosis; HTN, hypertension
+Created by Ethan Cumbler, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Evaluation of peripheral edema Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Evaluation of peripheral edema Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 31, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Contributors:
+// Authors:
+Juan N. Lessing, MD, FACP
+Associate Professor, University of Colorado School of Medicine
+Department of Medicine, University of Colorado Anschutz Medical Campus, Denver, CO
+DISCLOSURES: JNL receives an honorarium to serve as an associate editor of Clinical Excellence Board
+for Aquifer, Inc., a medical education nonprofit. This role has no specific, tangible, or perceived interest to
+the BMJ topic, and is not considered a competing interest.
+Laura D. Rosenthal, DNP, ACNP, FAANP
+Associate Professor, College of Nursing
+University of Colorado Anschutz Medical Campus, Denver, CO
+DISCLOSURES: LDR declares that she has no competing interests.
+Ethan Cumbler, MD
+Professor of Medicine
+Division of Hospital Medicine, Department of Internal Medicine, University of Colorado, Denver, CO
+DISCLOSURES: EC declares that he has no competing interests.
+// Peer Reviewers:
+Teresa L. Carman, MD, MSVM
+Director
+Vascular Medicine, University Hospitals Harrington, Heart and Vascular Institute, Cleveland Medical Center,
+OH
+DISCLOSURES: TLC declares that she has no competing interests.

@@ -1,0 +1,2237 @@
+# Shock
+
+=== Page 1 ===
+Shock
+Straight to the point of care
+Last updated: Feb 25, 2025
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Risk factors  4
+Etiology  6
+Pathophysiology  6
+Classification  7
+Case history  7
+Diagnosis  9
+Recommendations  9
+History and exam  12
+Tests  15
+Differentials  19
+Criteria  19
+Management  21
+Recommendations  21
+Treatment algorithm overview  25
+Treatment algorithm  26
+Emerging  33
+Primary prevention  33
+Patient discussions  33
+Follow up  34
+Monitoring  34
+Complications  34
+Prognosis  35
+Guidelines  36
+Diagnostic guidelines  36
+Treatment guidelines  37
+Evidence tables  38
+References  41
+Disclaimer  51
+=== Page 3 ===
+Shock Overview
+Summary
+Shock is commonly diagnosed when signs of hypoperfusion are associated with low or declining blood
+pressure.
+Shock may result from a number of disease processes, including pump failure (cardiogenic), loss of
+intravascular volume (hypovolemic), failure of vasoregulation (distributive), or obstruction to blood flow
+(obstructive).
+Initial treatment aims to optimize oxygen delivery and reverse hypoperfusion through volume resuscitation,
+vasoactive agents for refractory hypotension due to vasodilation, management of cardiac dysfunction, and
+treatment of the underlying cause.
+Management of shock is best undertaken in a critical care environment.
+Definition
+Shock is most commonly defined as the life-threatening failure of adequate oxygen delivery to the tissues
+and may be due to decreased blood perfusion of tissues, inadequate blood oxygen saturation, or increased
+oxygen demand from the tissues that results in decreased end-organ oxygenation and dysfunction. If left
+untreated, shock results in sustained multiple organ dysfunction, and damage to vital organs with possible
+death. Tissue hypoperfusion may be present without systemic hypotension, but at the bedside shock is
+commonly diagnosed when both are present (arterial hypotension and organ dysfunction).[1] [2] [3]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Shock Theory
+THEORY
+Epidemiology
+Septic shock is the most common form of shock in intensive care unit patients.[5] The annual incidence of
+septic shock in adults is estimated at 0.3 to 0.7 per 1000.[6] [7] [8] [9] Shock also complicates myocardial
+infarction in 7% to 9% of patients (cardiogenic shock).[10] [11] [12] [13] [14] In the US, cardiogenic shock
+accounts for 2% to 5% of acute heart failure presentations, with a prevalence in intensive care units of 14%
+to 16%.[15] In the US, approximately 30,000 to 40,000 patients with cardiogenic shock are admitted to
+hospital every year; in Europe, 70,000 to 80,000 are admitted each year.[16]
+Hypovolemic shock is the most common form of shock in children worldwide, owing to the rate of diarrheal
+illness in the developing world, particularly among infants.[17] Trauma, a common cause of hypovolemic
+shock worldwide, is the leading cause of death in people ages 1 to 44 years in the US.[18]
+Risk factors
+Strong
+increasing age
+Advancing age is associated with a rising incidence of shock associated with sepsis and myocardial
+infarction.[6] [11] This association is plausible as advancing age is associated with diminishing overall
+compensatory capacity.
+myocardial infarction
+About 7% to 9% of patients with myocardial infarction develop shock as a complication.[10] [11] [12]
+[13] [14]
+cardiomyopathy
+Progressive cardiomyopathy can result in cardiac failure and the development of cardiogenic shock.[4]
+heart valve disease
+Cardiogenic shock may result from disruption to cardiac valve function. This may follow an acute
+myocardial infarction with rupture of a papillary muscle, endocarditis with valve destruction, or with
+chronic dilatation/stenosis of a valve.[4]
+arrhythmias
+Arrhythmias can directly affect pump function by altering filling time and coordination between the atria
+and ventricles. Coronary blood flow occurs during diastole, and arrhythmias can affect the time spent
+in diastole and thus coronary perfusion. Alteration of stroke volume and heart rate can directly affect
+blood pressure and thus the development of shock.
+trauma
+Trauma can cause vascular injury, long bone fractures, and/or solid-organ rupture, which may result
+in hemorrhage and hypovolemic shock. Chest trauma can cause a tension pneumothorax, which can
+lead to obstructive shock. Bowel perforation may result in peritonitis and secondary sepsis. Traumatic
+brain injury may result in neurogenic (distributive) shock and disturbance of basic respiratory and
+cardiac regulatory mechanisms.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Shock Theory
+gastrointestinal bleeding
+May result in hypovolemic shock secondary to hemorrhage.
+ruptured abdominal aortic aneurysm
+A ruptured abdominal aortic aneurysm often leads to concealed bleeding into the abdomen. Rapid
+hypovolemic shock and death may occur unless repaired by surgery or endovascular methods.
+burns/heat stroke
+Extensive burns result in large fluid losses as the integrity of the skin barrier is lost. This may result in
+hypovolemic shock if losses are not adequately replaced. Heat stroke may result in hypovolemia due to
+sweat and other insensible losses.
+gastrointestinal losses: diarrhea and vomiting
+Diarrhea and vomiting may result in hypovolemic shock if the losses are not replaced.
+pancreatitis
+Third space losses can result in hypovolemic shock.
+sepsis
+The most common form of shock is septic shock. The annual incidence in adults worldwide is 0.3 to
+0.7 per 1000.[6] [7] [8] [9]
+anaphylaxis/poisoning
+This can cause massive vasodilation and distributive shock, or inability to meet cellular oxygen
+demand as seen with carbon monoxide toxicity.
+spinal or brainstem injury
+Spinal or brainstem injury can lead to the loss of sympathetic regulation of peripheral vasculature,
+resulting in decreased systemic vascular resistance.
+endocrine disease
+Adrenal failure, hypopituitarism, and hypothyroidism can result in distributive shock due to the loss of
+homeostatic regulation. There are few clinical signs to identify an endocrine cause of shock, but there
+may be a previous history of endocrine problems, and this should be considered when other causes
+are not apparent.
+pulmonary embolism
+Pulmonary embolism causes restriction of blood flow to the lungs, resulting in obstructive shock.
+cardiac tamponade
+Cardiac tamponade, particularly acute, causes restriction of ventricular filling and decreased cardiac
+output. Cardiac tamponade may have one of many causes, including trauma, infection, or autoimmune
+disease.
+Weak
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Shock Theory
+THEORY
+comorbidities
+Comorbidities are likely to increase the likelihood of developing shock due to the patient’s reduced
+ability to compensate for stress brought on by additional disease or injury. Patients who have
+undergone splenectomy have been shown to have a higher risk of infection and septic shock than
+those who haven't undergone splenectomy.[22]
+new medication (anaphylactic shock)
+Anaphylactic shock may result from a reaction to new medication or a new formulation of an
+existing medication. Newly administered beta-blocker medication can result in cardiac depression or
+bradycardia with resulting pump failure.
+Etiology
+Any severe disease may progress to global hypoperfusion and shock. The most common causes of shock
+are grouped according to their pathologic mechanism:
+• Cardiogenic (pump dysfunction): this may occur after myocardial infarction, due to cardiomyopathy,
+valvular abnormalities, or arrhythmias.[3] [15]
+• Hypovolemic (loss of intravascular volume): due to hemorrhage (trauma, gastrointestinal), third space
+losses, burns, heat stress, or gastrointestinal losses.[19] [20]
+• Distributive (failure of vasoregulation): sepsis, anaphylaxis, poisoning, injury of the brainstem or spine
+(neurogenic) or endocrine disease (adrenal, hypothyroid, or hypopituitarism).
+• Obstructive shock (barriers to cardiac flow or filling): a pulmonary embolus may restrict pulmonary
+blood flow; cardiac tamponade and tension pneumothorax cause cardiac filling restriction.
+Pathophysiology
+Hypoperfusion is a lack of adequate oxygen delivery at a cellular level, due to decreased blood flow and
+oxygen delivery, or increased tissue oxygen demand without a homeostatic increase in blood flow to supply
+the required oxygen for organ tissue. When blood flow supply cannot meet demand, hypoperfusion results.
+Low oxygen delivery from poor blood flow or low blood oxygen saturation impairs basic metabolic functions of
+cells and organs.
+Hypoperfusion triggers a systemic stress response, including tachycardia and peripheral vasoconstriction.
+Once physiologic compensation mechanisms are overwhelmed, organ dysfunction ensues, followed by organ
+failure, irreversible organ damage, and death.
+In septic shock, pathologic peripheral vasodilation caused by the septic state may result in a relative loss of
+perfusion pressure due to loss of systemic vascular resistance (vascular regulation). This leads to secondary
+coronary ischemia and cardiac dysfunction. The resulting vascular and cardiac impairment may contribute to
+the progression of shock.
+In cardiogenic shock, tissue hypoperfusion resulting from loss of cardiac output induces tissue (cellular)
+inflammation.[21] Shock may self-perpetuate by inducing additional cellular-level shock response such as
+cell-toxic cytokines, which results in systemic inflammatory response syndrome.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Shock Theory
+Low blood pressure is an indirect, imprecise measure of perfusion. This is illustrated by decreased cellular
+oxygen delivery in hypertensive crisis, where high arterial resistance actually reduces cardiac output and
+perfusion. Tissue hypoxia may be present without low blood pressure.[1]
+Classification
+Pathologic mechanism
+Shock is most commonly classified by cause.
+• Cardiogenic (pump dysfunction): may occur after myocardial infarction, due to cardiomyopathy,
+arrhythmia, or cardiac valve pathology.[4]
+• Hypovolemic (loss of intravascular volume): due to hemorrhage, dehydration, gastrointestinal or third
+space losses.
+• Distributive (failure of vasoregulation): results in a fall in systemic vascular resistance with vasodilation
+and, classically, warm peripheries, as occurs in sepsis and anaphylaxis.
+• Obstructive (barriers to cardiac flow or filling): a pulmonary embolus may restrict flow; cardiac
+tamponade and tension pneumothorax cause a cardiac filling restriction.
+Case history
+Case history #1
+A 72-year-old man presents with progressive malaise, weakness, and confusion. He suffers from
+hypertension but this is well controlled with a thiazide diuretic and an ACE inhibitor. He has diabetes,
+treated with metformin, but no other medical problems, and he is able to perform all activities of daily
+living independently. The patient's wife reports general deterioration over the last 2 days. The patient
+appears severely ill, weak, and obtunded, and is unable to speak. His skin is mottled and dry with cool
+peripheries, and he is mildly cyanotic. Respiratory rate is 24 breaths/minute, pulse rate 94 beats/minute,
+blood pressure 87/64 mmHg, and temperature 95.9°F (35.5°C). Auscultation yields coarse crackles over
+both lung bases.
+Case history #2
+A 45-year-old man presents to the emergency department with upper abdominal pain and a history of
+peptic ulcer disease. He reports vomiting blood at home. He is otherwise well, takes no medications,
+and abstains from use of alcohol. While in the emergency department he vomits bright red blood into
+a bedside basin and becomes light-headed. Blood pressure is 86/40 mmHg, pulse 120 bpm, and
+respiratory rate 24 per minute. His skin is cool to touch, and his skin is pale and mottled.
+Other presentations
+Presentation of shock depends on the etiology but will usually be recognized by hypotension, decreased
+urine output, and clouding of consciousness. A compensatory tachycardia may or may not be present.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Shock Theory
+THEORY
+Hemorrhagic shock (a form of hypovolemic shock) can occur from trauma, after surgery (drain losses
+may be an indication), as hematemesis, or from rectal bleeding. This can occur rapidly. Other forms of
+hypovolemic shock can result from third space losses in pancreatitis, diarrhea, and vomiting, extensive
+burns, or concealed hemorrhage, such as in abdominal aortic aneurysm rupture. Obstructive shock may
+present suddenly with cyanosis and respiratory distress with a tension pneumothorax, or the triad of
+muffled heart sounds, low blood pressure, and jugular venous distention as classically seen in cardiac
+tamponade. Septic shock is typically described as hypotension with increased cardiac output and warm
+peripheries due to peripheral vasodilation and with a suspected source of infection. The patient is often
+febrile. Cardiogenic shock may follow myocardial infarction, cardiomyopathy, or fulminant heart failure.[4]
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Shock Diagnosis
+Recommendations
+Key Recommendations
+Shock is often first suspected by low or declining blood pressure and acute deterioration in other vital
+signs, such as an increase in heart rate, increased respiratory rate, decrease in oxygen saturations,
+reduced level of consciousness, or decreased urinary output.
+Shock may also be anticipated in relation to an established diagnosis, most typically acute myocardial
+infarction, severe infection, or severe hemorrhage. A patient in shock should be managed in a critical-care
+setting wherever possible.
+Recognizing the patient in shock
+Patients in shock look ill. They often describe symptoms specific to the underlying etiology (e.g., chest
+pain, shortness of breath, or abdominal pain). Altered cognition is the most sensitive and universal sign
+of hypoperfusion. Agitation and distress characterize early and milder stages, whereas unresponsiveness
+indicates more severe and advanced shock.[3]
+Clinical signs of shock
+Sustained hypoperfusion induces variable organ dysfunction, with signs dependent on the degree of
+hypoperfusion, duration of episode, and ability of the patient to compensate.
+The most common signs include:
+• Stress responses (tachycardia, tachypnea)
+• Centralization of blood by peripheral vasoconstriction (cool extremities, mottled or ashen skin, slow
+capillary refill)[1] [2] [3]
+• Oliguria.[1] [3]
+Hypotension is usually defined as an adult systolic arterial blood pressure <90 mmHg, or a mean arterial
+pressure of <65 mmHg in septic shock (sepsis with hypotension).[2] [25] A low diastolic blood pressure
+suggests arterial vasodilation (such as in anaphylaxis or sepsis).[26] Direct measurement via automatic
+cuff devices or an arterial line is preferred over routine sphygmomanometry, because direct blood
+pressure measurement is more precise and allows for continous monitoring. If an arterial line is used, this
+provides access for arterial blood sampling.[1] However, blood pressure is only an indirect measure of
+perfusion. A normal blood pressure reading does not rule out shock.[1] Hypoperfusion may be present at
+higher blood pressures. Sustained or severe hypoperfusion consistently leads to low blood pressure.
+Narrowed pulse pressure (the difference between systolic and diastolic pressures; normally 35-45 mmHg)
+suggests arterial vasoconstriction (such as occurs in cardiogenic shock or hypovolemia) and may occur
+with rapid tachyarrhythmias.[26] However, pulse pressure is a function of both cardiac output and arterial
+function. As cardiac output is affected by the phase of respiration, pulse pressure should be measured at
+the same point in the respiratory cycle each time to enable comparison.
+Hypotension in conjunction with signs of hypoperfusion is diagnostic of shock, and appropriate treatment
+should be instigated. By contrast, hypotension alone, without organ dysfunction, does not require
+immediate intervention, although regular review and monitoring are important.
+The most useful parameters include change in cognition and deterioration in vital signs (heart rate,
+respiratory rate, temperature, and oxygen saturations). Capillary refill time may be delayed, indicating
+low skin perfusion, but it is not diagnostic of shock as it may be affected by age and environmental
+temperature.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Shock Diagnosis
+DIAGNOSIS
+Heart rate and blood pressure values can be used to calculate the Shock Index (SI). SI has been
+shown to be a clinically useful bedside method to estimate the level of shock and mortality in potential
+hemorrhagic and infection-related shock states. SI is determined by dividing the heart rate by systolic
+blood pressure. The normal range is 0.5 to 0.7; elevated SI >1.0 is associated with a need for critical care
+management and potential mortality.[27]
+Determining the etiology of shock: history
+While all causes of shock require prompt diagnosis and management of the underlying etiology, some
+require immediate treatment and must be readily identified (e.g., hemorrhage, tension pneumothorax,
+cardiac tamponade, arrhythmias, and anaphylaxis).
+The history often reveals valuable information to narrow down the possible causes, but treatment is a
+priority in a patient with shock. In particular, ask about previous cardiac disease, medications (especially
+those recently started or stopped), any existing allergies and possible exposure to allergens, existing
+conditions such as abdominal aortic aneurysm, and any recent illness or hospitalization (which may
+increase the risk of sepsis or pulmonary embolism).
+Determining the etiology of shock: examination
+Rapid assessment and treatment usually occur concurrently. Cognition, pulse rate, blood pressure, and
+respiratory rate will reveal if a patient is improving or deteriorating with treatment.
+Key findings on physical exam are:
+• Obstructive shock: tension pneumothorax is characterized by jugular vein distention, differences
+in chest excursion, resonance to percussion, decreased vocal fremitus, and absent breath sounds
+in the area of the pneumothorax, as well as tracheal deviation. If strongly suspected, immediate
+decompression should be performed by inserting an intravascular catheter in the second intercostal
+space in the midclavicular line (or the fifth intercostal space of the anterior axillary line) on the
+side of the pneumothorax and listening for the hiss of air escaping. Improvement in vital signs
+should follow. Jugular vein distention in combination with muffled heart sounds and bradycardia are
+characteristic of cardiac tamponade. Severe pulmonary embolism most commonly presents with
+increased respiratory rate (>20 breaths/minute), hypoxia, and a sinus tachycardia; these symptoms
+may be difficult to differentiate clinically from other causes of shock. 
+• Cardiogenic shock: acute myocardial infarction is the most common cause of cardiogenic shock,
+but clinical signs are usually nonspecific.[4] Hypotension (systolic blood pressure <90mm Hg) is the
+primary clinical manifestation of shock but is not sufficient for the diagnosis.[4]
+• A new or changed murmur may be heard on cardiac auscultation if a valve abnormality is present.
+Typically, pulmonary edema occurs in severe cases with rales on lung auscultation and jugular vein
+distention; the skin is often mottled but may be moist with diaphoresis. Cardiogenic shock due to
+right ventricular failure may present with profound hypotension as a primary finding.
+• Distributive shock: spinal shock is usually indicated by an initially flaccid paralysis below the level
+of the lesion, with a history compatible with spinal trauma or a spinal lesion. The bladder may be
+palpated due to urinary retention. A key feature of anaphylaxis may be rapid facial and tongue
+swelling with airway control an urgent consideration. A widespread, itchy, erythematous rash,
+sweating, and warm peripheries are common. If anaphylaxis is likely, intramuscular epinephrine
+(adrenaline) is warranted. Septic shock requires evidence of infection and hypotension despite
+adequate cardiac output and filling. Signs may include either fever or low body temperature,
+warm peripheries, and signs specific to the site of infection. A petechial rash is characteristic for
+meningococcal septicemia, but may occur also with other microbes.
+• Hypovolemic shock: bleeding may be obvious (e.g., hematemesis, hematochezia, melena), or
+suggested by signs of severe trauma including long bone fractures. A tender abdomen may be
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Shock Diagnosis
+present with intra-abdominal bleeding (e.g., ectopic pregnancy or ruptured abdominal aortic
+aneurysm). Extensive burns can account for considerable fluid losses. Septic shock also has
+qualities of hypovolemic shock.
+Urgent investigations
+Initial investigations are to diagnose shock, monitor the effect of interventions, and narrow down the
+potential etiologies. These are likely to include:
+• ECG to look for signs of cardiac ischemia (ST segment deviation, abnormal Q waves or loss of R
+wave, discordantly negative T waves or bundle branch block) and potentially critical arrhythmias,
+especially broad complex tachycardia.[3] [15] [31]
+• Complete blood count, serum chemistries, C-reactive protein, and lactate for evidence of sepsis,
+acute kidney injury, and tissue hypoperfusion; blood cultures should be taken when sepsis is
+suspected; elevated procalcitonin levels may help differentiate sepsis from causes of the systemic
+inflammatory response syndrome.[1] [2] [3] [32]
+• Focused ultrasound of the abdomen and chest to demonstrate or exclude critical bleeding (e.g.,
+tamponade, free abdominal fluid, or aortic aneurysm), evaluate cardiac function and cardiac
+cavity enlargement (particularly of the right ventricle in massive pulmonary embolism), assess for
+pneumothorax and pulmonary consolidation, and assess the diameter and filling of the inferior vena
+cava to determine vascular volume status.
+• Arterial blood gas (ABG) or venous blood gas (VBG) to assess acid-base status and oxygenation
+is useful in all causes of shock. The base deficit may help guide fluid resuscitation.[33] VBG is
+increasingly used as it is less invasive and less painful than ABG.[34]
+• Blood glucose for evidence of hypoglycemia or hyperglycemia, which may be a cause or a
+consequence of shock (e.g., diabetic ketoacidosis).[35]
+• Rapid urine pregnancy testing for women of childbearing age and pelvic ultrasound if a ruptured
+ectopic pregnancy is suspected.
+• Chest x-ray may offer clues to the etiology, such as a widened mediastinum in aortic disruption,
+hemothorax, or a globular cardiac shadow suggestive (but not diagnostic) of cardiac tamponade.
+Pneumonia can usually be confirmed by chest x-ray, but in early pneumonia or hypovolemic states
+there is potential that an existing pneumonia will not be detected with conventional x-ray.
+Further investigations
+Additional tests can be used to identify precise etiology and may include (depending on the likely
+etiology):
+• Ultrasound or computed tomographic (CT) scanning
+• Ultrasound can be performed at the bedside, whereas a patient must be stabilized before
+attempting a transfer to a CT scanner.
+• Echocardiography
+• This can be performed at the bedside
+• Echocardiography provides hemodynamic assessment, including cardiac output, stroke
+volume, ventricular filling, left ventricular afterload, and other parameters that help in
+determining the etiology of the shock state and aid in ongoing patient management.[1]
+• End tidal carbon-dioxide (capnography)
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Shock Diagnosis
+DIAGNOSIS
+• Side stream or direct capnography (when endotracheal airway is in place) can be helpful
+in assessing pulmonary perfusion matched to ventilation. In the critical care setting,
+below expected (or decreasing) end tidal carbon dioxide measured by capnography is
+associated with impaired matching of pulmonary perfusion and ventilation. This may assist in
+determining the presence of shock.[36] 
+Central venous catheter
+A central venous line can be helpful, but requires time, special equipment, and skills, as well as a certain
+degree of patient stability. Central venous blood pressure and venous oxygen saturations may aid in
+differentiating the shock etiology, and judging treatment efficacy.[37] One randomized controlled trial
+reported that use of antibiotic- or heparin-impregnated central venous catheters reduced secondary
+(iatrogenic) blood stream infections.[38]
+History and exam
+Key diagnostic factors
+altered cognition/agitation (common)
+Agitation characterizes the early, milder shock stage, whereas clouded sensorium indicates more
+severe shock. Also an indication of possible secondary hypoxia or hypoglycemia.
+hypotension (common)
+Most commonly defined as adult systolic blood pressure <90 mmHg.[2] [3] Higher blood pressure
+does not rule out inadequate perfusion or early shock (e.g., systolic blood pressure <100 mmHg in
+early septic shock). Direct measurement via automatic cuff devices or an arterial line is preferred
+over routine sphygmomanometry, because direct blood pressure measurement is more precise and
+allows for continuous monitoring. If an arterial line is used, it also provides access for arterial blood
+sampling.[1]
+Other diagnostic factors
+tachypnea (common)
+May be part of the compensatory physiologic response to increase oxygen delivery or be a symptom
+of underlying etiology (e.g., tension pneumothorax or sepsis).
+tachycardia (common)
+A physiologic response to hypotension to try and maintain cardiac output; may be limited by cardiac
+reserve or pharmacologic agents such as beta-blockers.
+prolonged capillary refill time (common)
+Prolonged capillary refill time is usually defined as reversal of skin blanching more than 2 to 3
+seconds after releasing pressure. It indicates low skin perfusion, but is not specific to shock (it may be
+prolonged with advancing age or at low temperature).
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Shock Diagnosis
+oliguria (common)
+A urine output <0.5 mL/kg/hour for >6 hours indicates renal hypoperfusion, and acute kidney injury
+may result if left untreated.[40]
+muscle weakness (common)
+May be present in many shock states, and is suggestive of poor perfusion to vital organs and muscle.
+cyanosis (common)
+Cyanotic or mottled skin indicates low skin perfusion. As with prolonged capillary refill, this is common
+in severe shock, except in distributive forms.
+cool extremities (common)
+Cool hands and feet indicate low peripheral perfusion, but this is not specific to shock. Cool
+peripheries are common in severe shock, except in distributive forms.
+evidence of trauma (common)
+If shock develops in the setting of trauma: hemorrhage, tension pneumothorax, or cardiac tamponade
+are to be considered.
+petechial rash (common)
+Classic appearance in meningococcal septicemia.
+chest pain (common)
+Classically present with myocardial infarction, but may also be a feature of tension pneumothorax or
+trauma, or secondary to cardiac ischemia as a result of shock.
+fever (uncommon)
+May be present in septic shock.
+abdominal pain (uncommon)
+Nonspecific finding, but can be present with a ruptured abdominal aortic aneurysm (classically loin
+pain) or septic shock with abdominal/pelvic source. Also a sensitive symptom for ruptured ectopic
+pregnancy; typically unilateral lower abdominal pain, however the patient may present with generalized
+or upper abdominal pain.
+jugular venous distention (uncommon)
+Jugular venous distention helps differentiate between different causes of shock. Marked distention
+points at pericardial tamponade, tension pneumothorax, massive pulmonary embolism, or right heart
+failure.
+peripheral edema (uncommon)
+This is classically associated with heart failure but can also be seen in distributive shock (e.g., sepsis
+and anaphylaxis) when systemic vascular resistance is lowered.
+absent breath sounds on one side of chest (uncommon)
+Suggestive of pneumothorax (not necessarily a tension pneumothorax).
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Shock Diagnosis
+DIAGNOSIS
+tracheal deviation (uncommon)
+This is a late sign of tension pneumothorax.
+quiet heart sounds (uncommon)
+Quiet heart sounds in conjunction with jugular venous distention and hypotension is typical of cardiac
+tamponade.
+flaccid paralysis of lower limbs (uncommon)
+In the setting of shock, supports a neurogenic cause.
+cardiac murmur (uncommon)
+May indicate a heart valve abnormality.
+distended bladder (uncommon)
+May be found in neurogenic shock.
+facial and tongue swelling (uncommon)
+Angioedema is circumscribed swelling of any part of the body. Immediate treatment is warranted if this
+involves the airways.
+Associated with anaphylaxis.
+urticarial rash (uncommon)
+Widespread, itchy, erythematous rash. Associated with anaphylaxis.
+pelvic pain/vaginal bleeding in woman of childbearing age (uncommon)
+May indicate ruptured ectopic pregnancy.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Shock Diagnosis
+Tests
+1st test to order
+Test Result
+lactate (arterial blood gas)
+High lactate is less sensitive and also less specific for shock than
+commonly appreciated. Lactate levels are determined by production
+rate (hypoxia, glycolysis) and clearance. High lactate indicates more
+severe hypoperfusion and shock. Cut-offs for hyperlactacidemia vary:
+>18 mg/dL (>2 mmol/L) is the most commonly used.[41] A low or
+normal venous lactate eliminates concern for an elevated arterial
+lactate.
+>18 mg/dL (>2 mmol/L)
+is suggestive of tissue
+hypoperfusion
+blood gases
+Acidemia is a common finding, at least in severe shock. It may be
+metabolic, due to high lactate levels and acute kidney injury, and/or
+respiratory, due to hypercapnia.
+Hypoxia indicates inadequate oxygen delivery, and supplemental
+oxygen is required especially if <60 mmHg (<8 kPa). It is helpful to
+compare with a previous result if available.
+The base deficit indicates the degree of volume deficit and is
+particularly useful in acute hemorrhage.
+Venous blood gas is increasingly being used as it is less invasive and
+less painful than arterial blood gas.[34]
+arterial: pH <7.35 indicates
+acidosis; PaO₂ normal or
+low (normal range is 80-100
+mmHg/9.3 to 13.3 kPa);
+base deficit 2 to -2 mEq/L
+is baseline normal; venous:
+pH <7.31 indicates acidosis;
+base deficit of 6 to 8 mEq/L is
+baseline normal
+CBC
+Hemoglobin commonly underestimates the blood volume lost and a
+trend is more significant than an absolute figure, unless very low.
+Hb <100 g/L is suggestive of
+hemorrhage as the cause;
+however, may be normal
+in the early stages due to
+vasoconstriction; WBC may
+be <4 or >12 x 10³/microliter if
+sepsis is present
+BUN and creatinine
+May show evidence of renal impairment if kidney perfusion is
+compromised.[32] [42]
+may be elevated;
+disproportionately raised BUN
+values are seen with upper
+gastrointestinal bleeding,
+dehydration, or cardiac failure
+serum electrolytes
+Serum electrolytes should be measured at baseline and regularly
+until the patient improves.[32] [43]
+serum electrolytes frequently
+deranged (e.g., hyperkalemia
+in trauma, acute kidney injury,
+and diabetic ketoacidosis;
+hypokalemia with diarrhea
+or vomiting; hypernatremia
+in burns and diarrhea or
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Shock Diagnosis
+DIAGNOSIS
+Test Result
+vomiting; hyponatremia in
+trauma and sometimes in
+diarrhea and vomiting)
+coagulation studies (INR, activated PTT)
+Baseline test, especially before central line placement.
+may be prolonged (e.g.,
+disseminated intravascular
+coagulation associated with
+septic shock)
+blood glucose
+May show hypoglycemia or hyperglycemia.[35]
+may be low or high
+anion gap
+Assessment of the anion gap for elevated glucose to assess
+for diabetic ketoacidosis. Also found with some forms of alcohol
+toxicities.[44]
+Anion gap is calculated by subtracting the sum of serum chloride and
+bicarbonate from measured sodium concentration.[45] [46]
+anion gap may be elevated
+(to >10-12 mEq/L)
+CRP
+High CRP levels (>200 mg/L) indicate severe inflammation. The
+higher the level, the greater the degree of inflammation. Lower
+concentrations (<200 mg/L) may be found in septic states but also
+after myocardial infarction or surgery.
+high values suggest infection
+and inflammation; sepsis
+should be considered as a
+cause
+ECG
+Very useful in helping to determine the etiology of shock, in particular
+cardiogenic causes.[1] [3] [15] [31]
+In pulmonary embolism the classic S1Q3T3 pattern of right heart
+strain may be seen, but its absence does not exclude pulmonary
+embolism as a cause; often only sinus tachycardia will be present.
+In cardiac tamponade, low or varying QRS amplitudes may be seen.
+may reveal cause of shock:
+arrhythmia (ventricular or
+supraventricular tachycardia,
+heart block) or coronary
+ischemia (ST segment
+elevation, new bundle branch
+block, inverted T waves); may
+reveal evidence of underlying
+electrolyte abnormalities (e.g.,
+hypokalemia or hyperkalemia)
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Shock Diagnosis
+Other tests to consider
+Test Result
+chest x-ray
+Often helpful in determining the cause of shock (e.g., pneumonia,
+aortic widening, globular heart in cardiac tamponade).[1] [3]
+A chest x-ray is usually not required if a tension pneumothorax is
+suspected; decompression is the first-line intervention.
+can identify hemothorax,
+widened mediastinum with
+aortic disruption; appearance
+of cardiac shadow may
+suggest tamponade but is
+not diagnostic; can identify
+pneumonia as cause of or
+associated with septic shock
+focused assessment with sonography for trauma scan
+Can be performed rapidly at the bedside to look for free fluid (usually
+blood) around the heart (pericardial effusions) or in the abdomen
+(suggestive of intra-abdominal injury). The sensitivity is operator-
+dependent.
+identifies free fluid in the
+abdomen or pericardial
+effusion
+echocardiography
+Useful to identify pericardial tamponade (where focused assessment
+with sonography for trauma scan is not available), myocardial
+depression (infarction, myocarditis), right ventricular failure (infarction,
+pulmonary embolism), critical acute valve disease (endocarditis,
+chordal rupture), and hypovolemia (small diameters of ventricles and
+vena cava).[1] [15] [47] [48] [49] [50]
+cardiac output and stroke
+volume, pericardial effusion,
+low left ventricular ejection
+fraction, regional akinesia,
+dilatation and contractility of
+ventricles, valve dysfunction
+procalcitonin
+Elevated procalcitonin (PCT) levels have been associated with
+sepsis and may help differentiate sepsis from causes of the systemic
+inflammatory response syndrome.[51] [52] High PCT levels are
+associated with mortality from sepsis in 90-day follow-up. Other
+pro-inflammatory states, such as acute pancreatitis, trauma, major
+surgery, and burns, can also increase procalcitonin.[53] Changes
+in procalcitonin levels may occur later than that of lactate, although
+changes in both markers combined are highly predictive of outcome
+from 24 hours to 48 hours.[54] For adults with an initial diagnosis of
+sepsis or septic shock and adequate source control where optimal
+duration of therapy is unclear, a combination of procalcitonin and
+clinical evaluation is recommended to decide when to discontinue
+antimicrobials.[2] Do not perform PCT testing without an established,
+evidence-based protocol.[55]
+high values suggest sepsis
+end tidal carbon-dioxide (capnography)
+Side stream or direct capnography (when endotracheal airway is in
+place) can be helpful in assessing pulmonary perfusion matched to
+ventilation. In the critical care setting, below expected (or decreasing)
+end tidal carbon dioxide measured by capnography is associated with
+impaired matching of pulmonary perfusion and ventilation. This may
+assist in determining presence of shock.[36]
+can assess impaired
+matching of pulmonary
+perfusion and ventilation
+ultrasound of thorax
+Useful to identify fluid in the pleural spaces and consolidation, as well
+as possible aortic root aneurysms.
+may detect pleural effusions
+or an aortic root aneurysm;
+can identify lung consolidation
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Shock Diagnosis
+DIAGNOSIS
+Test Result
+A dissection flap may also be seen but ultrasound has limited
+sensitivity for aortic dissection and retroperitoneal bleeding. If either
+of these are suspected, CT would be the investigation of choice.
+consistent with heart failure or
+pneumonia
+ultrasound of abdomen
+Useful for identifying blood in the peritoneum and abdominal aortic
+aneurysms. Ultrasound can also detect the inferior vena cava (IVC)
+diameter, pulsation, and collapsibility, which can be used to estimate
+the overall intravascular volume; in hypovolemia the IVC diameter and
+pulsation are reduced and collapsibility is increased.
+A dissection flap may also be seen but ultrasound has limited
+sensitivity for aortic dissection and retroperitoneal bleeding. If either
+of these are suspected, CT would be the investigation of choice.
+may detect abdominal aortic
+aneurysm and peritoneal
+blood
+CT thorax, abdomen, and pelvis
+CT can very efficiently identify or exclude many potential shock
+etiologies, but is potentially unsafe in a hemodynamically unstable
+patient. Patients must be stabilized before transfer to the imaging
+suite. Very useful in trauma patients with multiple injuries.[56] [57]
+may detect site of
+hemorrhage, foci of infection
+or infarction, pulmonary
+embolism, aortic dissection,
+or aneurysm
+computed tomographic pulmonary angiography
+Computed tomographic pulmonary angiography (CPTA) may
+identify pulmonary embolism (PE), alongside other appropriate
+assessment tools. CTPA is the preferred investigation tool for
+definitive confirmation of PE, and is appropriate to use in most (but
+not all) patients.[58] [59]
+PE is confirmed by direct
+visualization of the thrombus
+in a pulmonary artery; it
+appears as a partial or
+complete intraluminal filling
+defect
+urinalysis and urine pregnancy test
+Useful to detect signs of infection in suspected sepsis. Rapid urine
+pregnancy test for women of childbearing age.
+positive beta human chorionic
+gonadotropin in ectopic
+pregnancy; signs of infection
+include blood, nitrites,
+and leukocytes; ketones
+may be present in diabetic
+ketoacidosis or vomiting and
+diarrhea
+pelvic ultrasound
+Useful in evaluation of possible ectopic pregnancy if urine pregnancy
+test is positive.
+may show ectopic or empty
+uterus suggestive of ectopic
+pregnancy
+x-ray long bones
+Fractures of the femur can cause shock due to blood loss, especially
+in the elderly.
+fractures of long bones
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Shock Diagnosis
+Test Result
+x-ray spine
+Useful if there is suspicion of spinal injury in cases of neurogenic
+shock.
+fracture of spine
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Simple hypotension • Hypotension alone may
+be entirely asymptomatic,
+with the absence of signs
+of hypoperfusion. With no
+changes over several hours,
+this excludes even mild or
+early shock.
+• ECG and routine laboratory
+panel fail to yield significant
+pathology after observation
+for some hours.
+Syncope or presyncope • Syncope or presyncope
+differ from shock by duration
+of hypoperfusion.
+• Repeat blood pressure after
+5 to 10 minutes is back to
+normal levels.
+• ECG may be done, with no
+acute changes apparent.
+Criteria
+Shock index[60]
+The shock index (SI), defined as the ratio of the heart rate (in beats per minute) to the systolic blood pressure
+(in mmHg), has been shown to be a clinically useful bedside method to estimate the level of shock and
+mortality in potential hemorrhagic and infection-related shock states. The normal range for SI is from 0.5
+to 0.7. An SI >1.0 has been associated with significant shock and poor outcome due to circulatory failure.
+Elderly age, hypertension, and current treatment with calcium-channel blockers or beta-blockers may weaken
+the association of SI with shock and mortality.[60]
+Sepsis screening tools
+Sepsis screening tools are designed to promote the early identification of sepsis. They consist of manual
+methods or automated use of the electronic health record (EHR), which includes the National Early
+Warning Score (NEWS), Modified Early Warning Score (MEWS), and quick Sequential Organ Failure Score
+(qSOFA) Criteria. There is wide variation in the diagnostic accuracy of these tools, but they are an important
+component in the early identification of sepsis for timely intervention.[2]
+Early warning scores are based on several physiologic parameters, where the greater the deviation from
+normal, the higher the score. Each parameter is evaluated individually and then the final score is aggregated.
+NEWS is based on the evaluation of six individual parameters, each of which is assigned a score of 0 to
+3. The parameters are: respiratory rate, oxygen saturations, temperature, blood pressure, heart rate, and
+level of consciousness. The aggregate NEWS2 score triggers the level of response required, including the
+seniority of the clinical decision maker, the urgency of review, and the most appropriate place of care. An
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Shock Diagnosis
+DIAGNOSIS
+aggregate score of ≥7 has a significant risk of mortality, so it should prompt emergency evaluation by a
+critical care specialist and transfer to a high-dependency setting for continuous monitoring of vital signs.[24]
+MEWS draws on five physiologic parameters (systolic blood pressure, heart rate, respiratory rate,
+temperature; and alert, voice, pain, unresponsive score [AVPU score]).[61] Scores of 5 or more are
+associated with increased risk of death, intensive care unit (ICU) admission, and high-dependency unit
+(HDU) admission. It identifies patients at risk of deterioration who require increased levels of care in the HDU
+or ICU.[61]
+The qSOFA uses three variables to predict death and prolonged ICU stay in patients with known or
+suspected sepsis: a Glasgow Coma Score <15, a respiratory rate ≥22 breaths/minute, and a systolic blood
+pressure ≤100 mmHg. When any two of these variables are present simultaneously, the patient is considered
+qSOFA positive.
+Studies have shown that qSOFA is more specific but less sensitive than having two of the four Systemic
+Inflammatory Response Syndrome (SIRS) Criteria for early identification of infection induced organ
+dysfunction.[2] Neither SIRS nor qSOFA are ideal screening tools for sepsis and the bedside clinician should
+understand the limitations of each.[2] Although the presence of a positive qSOFA should alert the clinician
+to the possibility of sepsis in all resource settings, its poor sensitivity has led the Surviving Sepsis Campaign
+to advise against using the qSOFA, compared with NEWS or MEWS, as a single screening tool for sepsis or
+septic shock.[2]
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Shock Management
+Recommendations
+Key Recommendations
+Treatment aims are to restore regional perfusion and improve oxygen delivery, to reverse hypotension,
+and to prevent organ damage from hypoperfusion. Volume resuscitation is generally accepted as the
+first-line intervention for shock, except for anaphylaxis (which requires immediate administration of
+intramuscular epinephrine [adrenaline]).[63] [64] [65] Further interventions are guided by the response
+to intravenous fluids and the likely etiology as investigations proceed. Evidence-based guidelines have
+been published for various subtypes of shock, including septic shock and acute heart failure, but not for
+the immediate management of undifferentiated shock.[2] [3] [66] [67]  Early involvement of the critical care
+team is important for optimal management of the shock patient.
+Airway, breathing, and circulation
+As with any critically ill patient, airway patency is the first priority, and frequent reassessment is advised.
+After assurance that the airway is patent, high-flow oxygen is provided as required by mask or nasal
+cannula, commonly aiming for arterial oxygen saturations of 94% to 98%.[34] Routine supplementation
+of oxygen to achieve higher oxygen saturations has been linked to coronary and pulmonary arterial
+vasoconstriction in acute myocardial infarction.[68] [69] The goal is adequate oxygenation but not
+routine excessive oxygenation. The use of positive pressure ventilation or noninvasive ventilation (NIV)
+(continuous positive airway pressure and bilevel positive airway pressure) in shock resuscitation is
+controversial due to NIV-induced increase in intrathoracic pressure, which may decrease cardiac preload
+from the pulmonary circulation. NIV is well supported for hypoxemic respiratory failure.[70] However, the
+use of NIV in the setting of shock is not well supported in the literature, and has been clinically associated
+with worsening hypotension and perfusion. If NIV is used in patients with shock, rigorous monitoring
+of blood pressure and perfusion of vital organs must be maintained. For patients with sepsis-induced
+hypoxemic respiratory failure, high-flow nasal oxygen is recommended over NIV.[2]
+Intravenous fluids aim to improve perfusion by increasing intravascular volume and preload. The benefit
+outweighs the risk in the majority of cases except frank pulmonary edema. If a ruptured aortic aneurysm
+is thought likely, systolic blood pressure should be maintained at no more than 100 mmHg systolic.
+Commonly, systolic blood pressure of 90 mmHg or a mean arterial pressure of 65 mmHg is targeted
+during volume resuscitation; infusion is stopped if concerns of volume overload develop (pulmonary
+rales or suspected pulmonary edema). If there is no evidence for, or suspicion of, pulmonary edema
+secondary to cardiac failure, early fluid delivery is more important than the type of fluid (crystalloid or
+colloid).[71] [72] [73] [Evidence B] There is some evidence that balanced crystalloids may be preferable
+to normal saline in critically ill patients in intensive care and are recommended in patients with sepsis or
+septic shock.[2] [76] Fluids should be given via a large-bore peripheral intravascular catheter. If there is
+acute inferior (right coronary artery) occlusion, or right ventricular infarct, hypotension is initially (before
+thrombectomy) corrected with careful fluid administration to improve right ventricular filling and overall
+cardiac output.[77] Blood products should be administered in patients with acute blood loss (hemorrhage)
+or profound anemia from chronic red blood cell loss.[78] Caution is needed in patients with suspected
+cardiogenic shock; intravenous fluids may be administered cautiously in the absence of signs of fluid
+overload (clinically determined by auscultation of the lungs to assess for rales, or by chest radiography).
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Shock Management
+MANAGEMENT
+Monitoring
+Continuous monitoring is imperative to monitor response to therapy and to guide treatment. This includes
+clinical observation, repeated blood pressure readings, respiratory rate, oxygen saturations, pulse, level of
+consciousness, monitoring of urine output in relation to fluid resuscitation or use of vasoactive agents, and
+monitoring of cardiac rhythm. Direct blood pressure measurement via automatic cuff devices or an arterial
+line is preferred over routine sphygmomanometry, because direct blood pressure measurement is more
+precise and allows for continuous monitoring. If an arterial line is used, it also provides access for arterial
+blood sampling.[79] Lactate levels can be monitored to assess response to treatment. In the critical care
+setting, continuous capnography can aid the assessment of shock.[36] Side stream or direct capnography
+(when endotracheal airway is in place) can be helpful in assessing pulmonary perfusion matched to
+ventilation.[36] The lactate level will usually decrease if the patient is clinically improving.[2] Treatment is
+dependent on continuous monitoring of these variables and guided by their response. Patients requiring
+vasoactive drugs (vasopressor/inotrope) need continuous monitoring in a critical care setting.
+Vasoactive drugs
+Patients with a systolic BP <90 mmHg with critical reduction in cardiac output and end-organ
+hypoperfusion are defined as being in cardiogenic shock.[4]
+Short-term intravenous infusion of a vasoactive agent (vasopressor and/or inotrope) should be considered
+in patients with hypotension (systolic BP <90mmHg) and/or signs or symptoms of hypoperfusion, despite
+adequate filling status.[3] [4] Vasoactive agents may cause tachycardia, and induce arrhythmias and
+myocardial ischemia.[3] [4]
+Intravenous inotropic support can increase cardiac output and improve hemodynamics in patients
+presenting with cardiogenic shock.[4] There is a lack of robust evidence to suggest the clear benefit of
+one inotropic agent over another in cardiogenic shock.[80] In general, the choice of a specific inotropic
+agent is guided by blood pressure, concurrent arrhythmias, and availability of drug.[4] Inotropes should
+be used with caution because there is evidence that they result in increased mortality.[3] [4] [81] Inotropes
+should be discontinued if there are sustained arrhythmias or symptomatic coronary ischemia. Continuous
+monitoring of cardiac rhythm is recommended during infusion of inotropes.
+Vasopressors are commonly recommended in hypotension refractory to volume resuscitation.
+Vasopressors are recommended only after adequate volume resuscitation.[2] [3] Therapeutic
+vasoconstriction aims at reversing the mismatch between vessel tone and intravascular volume. Dose is
+commonly titrated to achieve a mean arterial blood pressure of ≥65 mmHg, or a systolic blood pressure
+of ≥90 mmHg.[2] [79] [82] Vasopressors increase the risk of tissue ischemia and necrosis in a dose-
+dependent manner.
+Consult a specialist for guidance on suitable vasopressor/inotrope regimens. Selection of appropriate
+vasoactive agents should only take place under critical care supervision, and may vary according to the
+type of shock, clinician preference, and local practice guidelines.
+Temporary mechanical circulatory support
+Temporary mechanical circulatory support (MCS) devices (e.g., extracorporeal membrane oxygenation
+or intra-aortic balloon pump) should be considered in patients with persistent cardiogenic shock despite
+inotropic therapy.[3] [4][83]
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Shock Management
+Temporary MCS in appropriately selected candidates should be initiated as soon as possible with
+sufficient support to fully reverse the potential hemometabolic consequences of shock. If there is a
+delay to sufficient early support with temporary MCS, worsening end-organ perfusion and metabolic
+derangements can make future attempts difficult.[83] The hemodynamic benefits of the specific
+devices vary, and few head-to-head randomized comparisons exist. Vascular, bleeding, and neurologic
+complications are common to MCS devices, and the risk of such complications should generally be
+considered in the calculation to proceed with such support.[4] MCS requires specialist multidisciplinary
+expertise for implantation and management.[3] [83]
+The escalation of either pharmacologic and mechanical therapies should be considered in the context
+of multidisciplinary teams of heart failure and critical care specialists, interventional cardiologists, and
+cardiac surgeons.[4] [83]
+Treatment of underlying cause
+Volume resuscitation and vasoactive agents only buy time in most patients with shock. Successful
+reversal of shock requires treatment specifically aimed at the main cause of shock (e.g., cardiogenic
+shock, cardiac tamponade, pulmonary embolism, anaphylaxis, sepsis, hemorrhagic shock due to trauma,
+tension pneumothorax). The choice of specific treatment is guided by the individual results of continued
+and repeated patient evaluation.
+Identification of cardiogenic shock is important because aggressive fluid administration may worsen
+the shock state and lead to the onset (or worsening) of acute pulmonary edema. Early involvement
+of specialist multidisciplinary teams (e.g., heart failure and critical care specialists, interventional
+cardiologists, and cardiac surgeons) is recommended when cardiogenic shock is suspected. Cardiogenic
+shock (secondary to a large myocardial infarction) needs urgent revascularization of the coronary arteries
+by percutaneous coronary intervention, direct coronary infusion of thrombolytics, or cardiovascular
+surgery.[50] [84] Mechanical support with an intra-aortic balloon pump (IABP) may also be indicated.[50]
+However, multiple IABP studies have not shown an improvement in mortality.[50] [85] [86] [87]
+Severe rhythm disturbances should be corrected urgently in patients with acute heart failure and unstable
+conditions, using medical therapy, electrical cardioversion, or temporary pacing.[3] Cardiac tamponade
+needs urgent drainage by pericardiocentesis under ECG monitoring.[88] This can have an effect by
+draining as little as 30 mL, but may be unsuccessful if the blood is clotted. A pericardial drain or surgical
+pericardial window may be required, with evaluation and treatment of the underlying cause of bleeding.
+A pulmonary embolus may require thrombolysis, anticoagulation, and occasionally surgery if very large.
+Anaphylactic shock requires administration of intramuscular epinephrine and supportive therapy.
+Early recognition and treatment of septic shock is key to improving outcomes. The Surviving Sepsis
+Campaign (SSC) treatment guidelines remain the most widely accepted standards.[2] Current
+best practice is based on evidence for care bundles in sepsis.[2] [89] [90] [91] The SSC guidelines
+recommend: 
+• Obtaining blood cultures prior to administration of antibiotics
+• Administering antimicrobials immediately, ideally within 1 hour of recognition (in adults with possible
+septic shock or a high likelihood for sepsis)
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Shock Management
+MANAGEMENT
+• Administering empiric antimicrobials with MRSA coverage in patients with sepsis or septic shock at
+high risk of MRSA
+• Administering 30 mL/kg crystalloid for hypotension within the first 3 hours of resuscitation
+• Obtaining serial measurement of blood lactate
+• Aiming for a mean arterial pressure (MAP) of ≥65 mmHg in patients with septic shock on
+vasopressors.
+For adults with an initial diagnosis of sepsis or septic shock, and adequate source control where optimal
+duration of therapy is unclear, a combination of procalcitonin and clinical evaluation is recommended to
+decide when to discontinue antimicrobials.[2]
+Resuscitation should be guided by dynamic measures rather than physical exam or static measures
+alone. Dynamic parameters include the response to a passive leg raise or a fluid bolus, using stroke
+volume, stroke volume variation, pulse pressure variation, or echocardiography, where available. In
+patients with septic shock and an ongoing requirement for vasopressor therapy, the SSC treatment
+guidelines suggest intravenous corticosteroids.[2]
+Hemorrhagic shock due to trauma requires a team approach with attention to identification of cause for,
+and control of, hemorrhage as soon as possible. Massive hemorrhage due to trauma is often associated
+with fibrinolysis, which further exacerbates hemorrhage by inhibiting clot formation. Antifibrinolytic agents
+may have a beneficial effect in addition to fluid and blood transfusion in stabilizing a trauma patient with
+shock.[92] Overly aggressive fluid infusion may increase the bleeding rate in hemorrhagic shock: in
+particular, when MAPs are >40 mmHg.[79] 
+Tension pneumothorax requires urgent decompression through needle thoracocentesis.
+Special considerations for suspected cardiogenic shock
+Aggressive fluid administration in the setting of cardiogenic shock may worsen the shock state and lead
+to the onset (or worsening) of acute pulmonary edema. Intravenous fluids may be administered cautiously
+in the absence of signs of fluid overload (clinically determined by auscultation of the lungs to assess for
+rales, or by chest radiography) with small initial boluses [250mL] of crystalloid such as normal saline
+or Ringer lactate.[93] Ongoing management is guided by the continuous monitoring of organ perfusion
+and hemodynamics. Specialized treatments for afterload reduction with nitroglycerin and the inotrope
+dobutamine may be of benefit in the management of these patients.[94] Cardiogenic shock is classically
+considered a state of decreased cardiac index, increased systemic vascular resistance, and increased
+pulmonary artery pressure (often termed “wet cardiogenic shock” or with vascular volume overload);
+euvolemic cardiogenic shock presents with decreased cardiac index, increased systemic vascular
+resistance, and normal-range pulmonary artery pressure (“dry cardiogenic shock”). Afterload reduction is
+an important initial step in the management of both forms of cardiogenic shock.[50]
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Shock Management
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+all patients
+1st assessment of airway, breathing, and
+circulation
+plus treatment of underlying cause
+consider vasoactive agents
+cardiogenic shock not
+suspected
+plus intravenous fluids
+consider blood products
+consider tranexamic acid
+cardiogenic shock
+suspected
+consider intravenous fluids
+consider nitroglycerin
+consider temporary mechanical circulatory support
+(MCS)
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Shock Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+all patients
+1st assessment of airway, breathing, and
+circulation
+» Assessment and treatment proceed alongside
+each other. At this stage the etiology of shock
+may not be clear. Key first steps are to ensure a
+patent airway (through intubation if required) and
+to optimize oxygen delivery with supplemental
+oxygen, commonly aiming for arterial oxygen
+saturations of 94% to 98%.[34] Routine
+supplementation of oxygen to achieve higher
+oxygen saturations has been linked to coronary
+and pulmonary arterial vasoconstriction in acute
+myocardial infarction.[68] [69] For patients with
+sepsis-induced hypoxemic respiratory failure,
+high-flow nasal oxygen is recommended over
+noninvasive ventilation.[2]
+» Continuous monitoring is imperative to monitor
+response to therapy and to guide treatment. This
+includes clinical observation, repeated blood
+pressure readings, respiratory rate, oxygen
+saturations, pulse, level of consciousness, and
+monitoring of cardiac rhythm. In the critical care
+setting, continuous capnography can aid the
+assessment of shock.[36] Side stream or direct
+capnography (when endotracheal airway is in
+place) can be helpful in assessing pulmonary
+perfusion matched to ventilation.[36] The lactate
+level will usually decrease if the patient is
+clinically improving.[2] Treatment is dependent
+on continuous monitoring of these variables and
+guided by their response.
+plus treatment of underlying cause
+Treatment recommended for ALL patients in
+selected patient group
+» The underlying cause of shock needs to be
+identified as rapidly as possible. It indicates the
+most critical treatment priorities.
+» Identification of cardiogenic shock is important
+because aggressive fluid administration may
+worsen the shock state and lead to the onset
+(or worsening) of acute pulmonary edema.
+Early involvement of specialist multidisciplinary
+teams (e.g., heart failure and critical care
+specialists, interventional cardiologists, and
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Shock Management
+Acute
+cardiac surgeons) is recommended when
+cardiogenic shock is suspected.[4]
+» In cardiogenic shock secondary to a large
+myocardial infarction, urgent revascularization
+of the coronary arteries, by percutaneous
+coronary intervention, direct coronary infusion of
+thrombolytics, or cardiovascular surgery, lowers
+mortality.[50] [84]
+» Severe rhythm disturbances should be
+corrected urgently in patients with acute heart
+failure and unstable conditions, using medical
+therapy, electrical cardioversion, or temporary
+pacing.[3]
+» Cardiac tamponade needs drainage;
+pericardiocentesis under ECG monitoring can
+have an effect by draining as little as 30 mL, but
+this may be unsuccessful if the blood is clotted.
+A pericardial drain or surgical pericardial window
+may be required.
+» In pulmonary embolism, shock is the most
+widely accepted indication for thrombolysis.[110]
+[111] Emergency embolectomy is an alternative,
+especially when thrombolysis is contraindicated
+or has failed.
+» For anaphylactic shock, intramuscular
+epinephrine (adrenaline) is recommended
+as the most important treatment by all major
+guidelines.[63] [64] [65]
+» Early recognition and treatment of septic shock
+is key to improving outcomes. Current best
+practice is based on evidence for care bundles
+in sepsis.[2] [89] [90] [91] The Surviving Sepsis
+Campaign (SSC) treatment guidelines remain
+the most widely accepted standards.[2] The
+SSC guidelines recommend obtaining blood
+cultures prior to the administration of antibiotics;
+administering antimicrobials immediately, ideally
+within 1 hour of recognition (in adults with
+possible septic shock or a high likelihood for
+sepsis); administering empiric antimicrobials
+with MRSA coverage in patients with sepsis or
+septic shock at high risk of MRSA; administering
+30 mL/kg crystalloid for hypotension within the
+first 3 hours of resuscitation; obtaining serial
+measurement of blood lactate; aiming for a
+mean arterial pressure of ≥65 mmHg in patients
+with septic shock on vasopressors. For adults
+with an initial diagnosis of sepsis or septic shock,
+and adequate source control where optimal
+duration of therapy is unclear, a combination
+of procalcitonin and clinical evaluation is
+recommended to decide when to discontinue
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Shock Management
+MANAGEMENT
+Acute
+antimicrobials.[2] The SSC suggests intravenous
+corticosteroids in adults with septic shock and an
+ongoing requirement for vasopressor therapy.[2]
+» Hemorrhagic shock due to trauma requires a
+team approach with attention to identification of
+cause for, and control of, hemorrhage as soon
+as possible. Massive hemorrhage due to trauma
+is often associated with fibrinolysis, which further
+exacerbates hemorrhage by inhibiting clot
+formation. Antifibrinolytic agents may have a
+beneficial effect in addition to fluid and blood
+transfusion in stabilizing a trauma patient with
+shock.[92] Overly aggressive fluid infusion may
+increase the bleeding rate in hemorrhagic shock:
+in particular, when mean arterial pressures are
+>40 mmHg.[79]
+» Tension pneumothorax requires urgent
+decompression through needle thoracocentesis.
+consider vasoactive agents
+Treatment recommended for SOME patients in
+selected patient group
+» Short-term intravenous infusion of a vasoactive
+agent (vasopressor and/or inotrope) should be
+considered in patients with hypotension (systolic
+BP <90mmHg) and/or signs or symptoms of
+hypoperfusion, despite adequate filling status.[4]
+» Patients requiring vasoactive drugs
+(vasopressors/inotropes) need continuous
+monitoring in a critical care setting. Vasoactive
+agents may cause tachycardia, and induce
+arrhythmias and myocardial ischemia.[4]
+Selection of appropriate vasoactive agents
+should only take place under critical care
+supervision, and may vary according to the type
+of shock, clinician preference, and local practice
+guidelines.
+» Intravenous inotropic support can increase
+cardiac output and improve hemodynamics in
+patients presenting with cardiogenic shock.[4]
+There is a lack of robust evidence to suggest
+the clear benefit of one inotropic agent over
+another in cardiogenic shock.[80] In general,
+the choice of a specific inotropic agent is guided
+by blood pressure, concurrent arrhythmias, and
+availability of drug.[4] Inotropes should be used
+with caution because there is evidence that they
+result in increased mortality.[3] [4] [81] Inotropes
+should be discontinued if there are sustained
+arrhythmias or symptomatic coronary ischemia.
+Continuous monitoring of cardiac rhythm is
+recommended during infusion of inotropes.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Shock Management
+Acute
+» Vasopressors are commonly recommended
+only after adequate volume resuscitation.[2] [3]
+ Dose is commonly titrated to achieve a mean
+arterial blood pressure of ≥65 mmHg, or a
+systolic blood pressure of ≥90 mmHg.[2] [79]
+[82] Vasopressors increase the risk of tissue
+ischemia and necrosis in a dose-dependent
+manner.
+» Consult a specialist for guidance on suitable
+vasopressor/inotrope regimens and doses.
+cardiogenic shock not
+suspected
+plus intravenous fluids
+Treatment recommended for ALL patients in
+selected patient group
+» Evidence-based guidelines for the
+management of septic shock recommend 30mL/
+kg intravenous crystalloid fluid within the first 3
+hours.[2] Ongoing management is guided by
+the continuous monitoring of organ perfusion
+and hemodynamics. Resuscitation in sepsis
+should be guided by dynamic measures rather
+than by physical exam or static measures alone.
+Dynamic parameters include the response to a
+passive leg raise or a fluid bolus, using stroke
+volume, stroke volume variation, pulse pressure
+variation, or echocardiography, where available.
+Predicting the effect of further volume in any
+individual patient requires considerable clinical
+judgment because no single, simple, and precise
+measure has been yet identified. Central venous
+pressure and ultrasonic parameters (central
+inferior vena cava diameter and collapsibility
+and aortic blood flow) are useful.[2] [66] [79]
+ Commonly, systolic blood pressure of 90 mmHg
+or a mean arterial pressure of 65 mmHg is
+targeted during fluid volume resuscitation;
+infusion is stopped if concerns of volume
+overload develop (pulmonary rales or suspected
+pulmonary edema). 
+» The major risk with volume resuscitation
+is pulmonary edema. In hemorrhagic shock,
+overly aggressive fluid infusion may increase the
+bleeding rate, in particular when mean arterial
+pressures are >40 mmHg.[79]
+» If there is no evidence for, or suspicion of,
+pulmonary edema secondary to cardiac failure,
+early fluid delivery is more important than the
+type of fluid (crystalloid or colloid).[71] [72] [73]
+There is no evidence for any survival benefit
+of colloid fluids over crystalloid.[73] [112] [113]
+[114] [115] [Evidence B] There is some evidence
+that balanced crystalloids may be preferable to
+normal saline in critically ill patients in intensive
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Shock Management
+MANAGEMENT
+Acute
+care, although other studies have found no
+difference.[76] [116] The Surviving Sepsis
+Campaign recommends balanced crystalloids
+in patients with sepsis or septic shock.[2] In July
+2021, the US Food and Drug Administration
+(FDA) issued safety labeling changes for
+solutions containing hydroxyethyl starch (HES)
+stating that HES products should not be used
+unless adequate alternative treatment is
+unavailable.[74] HES products are associated
+with adverse outcomes including kidney injury
+and death, particularly in critically ill patients
+and those with sepsis.[79] [117] In view of the
+serious risks posed to these patient populations,
+the Pharmacovigilance Risk Assessment
+Committee of the European Medicines Agency
+in February 2022 recommended suspending
+HES solutions for infusion in Europe.[75] The
+Surviving Sepsis Campaign advises against
+the use of starches for patients with sepsis and
+septic shock.[2]
+consider blood products
+Treatment recommended for SOME patients in
+selected patient group
+» Indicated in patients with acute hemorrhage
+or profound anemia from chronic red blood cell
+loss.[78]
+consider tranexamic acid
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» tranexamic acid: consult specialist for
+guidance on dose
+» For patients with severe hemorrhage caused
+by trauma, tranexamic acid can be used within
+3 hours of the initial injury. A meta-analysis
+found strong evidence that treatment should
+be immediate for maximum survival benefit,
+with even a short delay associated with higher
+mortality.[118] It should be avoided if there are
+known hypercoagulable states.
+cardiogenic shock
+suspected
+consider intravenous fluids
+Treatment recommended for SOME patients in
+selected patient group
+» Early involvement of specialist multidisciplinary
+teams is recommended when cardiogenic shock
+is suspected (e.g., heart failure and critical
+care specialists, interventional cardiologists,
+and cardiac surgeons).[4] Aggressive fluid
+administration in the setting of cardiogenic shock
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Shock Management
+Acute
+may worsen the shock state and lead to the
+onset of acute pulmonary edema.
+» Intravenous fluids may be administered
+cautiously in the absence of signs of fluid
+overload (clinically determined by auscultation
+of the lungs to assess for rales or by chest
+radiography) in a patient with cardiogenic shock
+(e.g. small initial boluses [250mL] of crystalloid
+such as normal saline or Ringer lactate).[93] 
+» Ongoing management is guided by the
+continuous monitoring of organ perfusion
+and hemodynamics. Predicting the effect of
+further volume in any individual patient requires
+considerable clinical judgment, because no
+single, simple, and precise measure has been
+yet identified. Central venous pressure and
+ultrasonic parameters (central inferior vena
+cava diameter and collapsibility and aortic
+blood flow) are useful.[66] [79] Commonly,
+systolic blood pressure of 90 mmHg or a mean
+arterial pressure of 65 mmHg is targeted
+during fluid volume resuscitation; infusion is
+stopped if concerns of volume overload develop
+(pulmonary rales or suspected pulmonary
+edema).
+» Fluid delivery is more important than the
+type of fluid (crystalloid or colloid).[71] [72] [73]
+There is no evidence for any survival benefit
+of colloid fluids over crystalloid.[73] [112] [113]
+[114] [115] [Evidence B] There is some evidence
+that balanced crystalloids may be preferable to
+normal saline in critically ill patients in intensive
+care, although other studies have found no
+difference.[76] [116] In July 2021, the US
+Food and Drug Administration (FDA) issued
+safety labeling changes for solutions containing
+hydroxyethyl starch (HES) stating that HES
+products should not be used unless adequate
+alternative treatment is unavailable.[74]
+HES products are associated with adverse
+outcomes including kidney injury and death,
+particularly in critically ill patients and those
+with sepsis.[79] [117] In view of the serious
+risks posed to these patient populations, the
+Pharmacovigilance Risk Assessment Committee
+of the European Medicines Agency in February
+2022 recommended suspending HES solutions
+for infusion in Europe.[75]
+» If there is acute inferior (right coronary artery)
+occlusion, or right ventricular infarct, hypotension
+is initially (before thrombectomy) corrected
+with careful fluid administration to improve right
+ventricular filling and overall cardiac output.[77]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Shock Management
+MANAGEMENT
+Acute
+consider nitroglycerin
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» nitroglycerin: 5-20 micrograms/minute
+intravenous infusion initially, titrate according
+to effect (improved cardiac function and
+decreased pulmonary edema symptoms),
+maximum 200 micrograms/minute
+» Patients with cardiogenic shock with
+pulmonary edema and relatively stable blood
+pressure (with systolic blood pressure >90
+mmHg) may benefit from afterload reduction with
+intravenous nitroglycerin.
+consider temporary mechanical circulatory support
+(MCS)
+Treatment recommended for SOME patients in
+selected patient group
+» Temporary MCS devices (e.g., extracorporeal
+membrane oxygenation or intra-aortic balloon
+pump) should be considered in patients with
+persistent cardiogenic shock maintained
+despite inotropic therapy.[3] [4] Temporary
+MCS in appropriately selected candidates
+should be initiated as soon as possible with
+sufficient support to fully reverse the potential
+hemometabolic consequences of shock. If
+there is a delay to sufficient early support with
+temporary MCS, worsening end-organ perfusion
+and metabolic derangements can make future
+attempts difficult.[83] The hemodynamic benefits
+of the specific devices vary, and few head-to-
+head randomized comparisons exist. Vascular,
+bleeding, and neurologic complications are
+common to MCS devices, and the risk of such
+complications should generally be considered in
+the calculation to proceed with such support.[4]
+MCS requires specialist multidisciplinary
+expertise for implantation and management.[3]
+The escalation of either pharmacologic and
+mechanical therapies should be considered in
+the context of multidisciplinary teams of heart
+failure and critical care specialists, interventional
+cardiologists, and cardiac surgeons.[4] [83]
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Shock Management
+Emerging
+Extracorporeal membrane oxygenation
+Extracorporeal membrane oxygenation (ECMO) may play a role in management of cardiogenic shock by
+providing mechanical pulmonary and circulatory support when the shock state is refractory to medical and
+surgical therapy.[119] [120] [121] ECMO may also be useful in sepsis-induced severe acute respiratory
+distress syndrome when conventional mechanical ventilation fails, in centers where the expertise and
+infrastructure is in place to support its use.[2]
+Polymyxin B hemoperfusion
+Meta-analysis suggests that polymyxin B hemoperfusion, a technique that removes circulating endotoxins
+extracorporeally using a polymyxin B-adsorbing cartridge, may reduce mortality in patients with severe
+sepsis and septic shock in specific disease severity subgroups.[122] However, in one subsequent
+randomized controlled trial, targeted polymyxin B hemoperfusion did not reduce 28-day mortality in patients
+with septic shock (high acuity, and at higher risk of death than patients enrolled in prior trials) and elevated
+endotoxin level.[123] The Surviving Sepsis Campaign guidelines advise against using polymyxin B in
+patients with sepsis or septic shock on the basis of several factors. These include uncertainty with regard to
+any beneficial effect, the potential frequency of undesirable side effects, significant expense, and resource
+intensiveness.[2]
+Primary prevention
+Early and effective management of any severe disease will prevent progression to shock in many cases.
+Examples are early recognition and treatment of sepsis, or timely reperfusion with thrombolysis or
+angioplasty in myocardial infarction.[2][23]
+Early detection of critical illness and deterioration is important to prevent the development of shock. Early
+warning scores (sometimes also known as modified early warning scores [MEWS], patient at risk scores, or
+track and trigger scores) are based on physiologic variables such as heart rate and blood pressure, and they
+can easily be calculated at the bedside by nursing staff or doctors on any patient in whom there is cause for
+concern. These scores can be helpful in predicting potential deterioration and allow for early intervention.
+The exact scoring system in use tends to vary between hospitals and between countries: for example, in the
+UK the most commonly used score is the National Early Warning Score (NEWS2).[24]
+Patient discussions
+Specific instructions will depend on the etiology of shock. If anaphylaxis is responsible, the patient will
+need to avoid future exposure to the allergen and may require an epinephrine pen to carry with them after
+appropriate training in how and when to use it.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Shock Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+Once appropriate treatment is established, careful monitoring of vital signs, nutritional status, wound
+healing, and inflammatory markers (C-reactive protein and white blood cell), lactate levels and urine
+output is required to ensure that clinical improvement continues and complications are detected and
+managed early.[2] There is no specific follow-up for shock, but it should be tailored to the etiology (e.g.,
+cardiogenic causes that have been successfully treated are likely to require intensive follow-up with the
+cardiologist to optimize medications and consider any future treatment).
+Complications
+Complications Timeframe Likelihood
+volume overload-induced pulmonary edema short term low
+Depending on variable individual factors, treatment options include continuous positive airway pressure
+ventilation, mechanical ventilation, and diuretics to increase renal output. May result in the development of
+acute respiratory distress syndrome.
+organ failure variable high
+Hypoperfusion from any etiology may lead to multiorgan failure, which may be irreversible. This is best
+prevented by volume resuscitation and early treatment of the underlying cause.
+vasopressor-induced gangrene variable low
+Risk depends on dose, duration, and agent. Patient factors also contribute, in particular the presence
+and grade of peripheral arterial occlusive disease. The main treatment options are dose reduction of
+vasopressors and amputation.
+disseminated intravascular coagulation variable low
+The clotting cascade becomes abnormally activated, and clotting factors become consumed by the
+formation of small clots within blood vessels. This results in abnormal bleeding from the skin and mucous
+membranes, known as disseminated intravascular coagulation (DIC). DIC can result from any form
+of shock as well as from endotoxin release from organisms in the context of sepsis. DIC is a serious
+consequence of shock that often results in acute kidney injury and death.
+hospital-acquired infections variable low
+Shock is best managed in a critical care environment. Indwelling lines and catheters, injuries from
+trauma, longer patient stay, and use of antibiotics all contribute to increasing the risk of hospital-acquired
+infections. In patients with sepsis, empiric antibiotics should be narrowed as soon as a pathogen has been
+identified and sensitivities are available.[2][126]
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Shock Follow up
+Prognosis
+Mortality
+Shock has a high mortality but this is dependent on cause. Hospital mortality of septic shock is as high as
+62%.[8] [9] The odds of dying from a myocardial infarction increase by over 20-fold when it is complicated
+by shock. Hospital mortality of cardiogenic shock reaches 50% to 60%.[10] [11] A high proportion of these
+deaths (70% to 80%) occur in the first 30 to 60 days after onset of cardiogenic shock.[15]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Shock Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+AHA/ACC/HFSA guideline for the management of heart failure  [4]
+Published by:  American College of Cardiology/American Heart
+Association Joint Committee on Clinical Practice Guidelines
+Last published: 2022
+Contemporary management of cardiogenic shock  [50]
+Published by:  American Heart Association Last published: 2017
+Suspected sepsis: recognition, diagnosis and early management  [62]
+Published by:  National Institute for Health and Care Excellence (UK) Last published: 2024
+2021 ESC guidelines for the diagnosis and treatment of acute and chronic
+heart failure  [3]
+Published by:  European Society of Cardiology Last published: 2021
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Shock Guidelines
+Treatment guidelines
+International
+AHA/ACC/HFSA guideline for the management of heart failure  [4]
+Published by:  American College of Cardiology/American Heart
+Association Joint Committee on Clinical Practice Guidelines
+Last published: 2022
+2020 American Heart Association guidelines for cardiopulmonary
+resuscitation and emergency cardiovascular care  [64]
+Published by:  American Heart Association Last published: 2020
+Monitoring modalities, assessment of volume status, and endpoints of
+resuscitation  [124]
+Published by:  Eastern Association for the Surgery of Trauma Last published: 2018
+American College of Critical Care Medicine clinical practice parameters for
+hemodynamic support of pediatric and neonatal septic shock  [67]
+Published by:  Society of Critical Care Medicine Last published: 2017
+Contemporary management of cardiogenic shock  [50]
+Published by:  American Heart Association Last published: 2017
+Surviving Sepsis Campaign: international guidelines for management of
+sepsis and septic shock, 2021  [2]
+Published by:  Surviving Sepsis Campaign Last published: 2021
+Suspected sepsis: recognition, diagnosis and early management  [62]
+Published by:  National Institute for Health and Care Excellence (UK) Last published: 2024
+2021 ESC guidelines for the diagnosis and treatment of acute and chronic
+heart failure  [3]
+Published by:  European Society of Cardiology Last published: 2021
+European Resuscitation Council guidelines for resuscitation 2021  [65]
+Published by:  European Resuscitation Council Last published: 2021
+Emergency treatment of anaphylactic reactions  [125]
+Published by:  Resuscitation Council (UK) Last published: 2021
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Shock Evidence tables
+EVIDENCE TABLES
+Evidence tables
+How do colloids compare with crystalloids for fluid resuscitation in critically ill
+people?
+This table is a summary of the analysis reported in a Cochrane Clinical Answer that focuses on the
+above important clinical question.
+View the full source Cochrane Clinical Answer
+Evidence B  * Confidence in the evidence is moderate or low to moderate where GRADE has been
+performed and there may be no difference in effectiveness between the intervention
+and comparison for most outcomes.
+Population: People with a range of diagnoses (most commonly trauma, sepsis, septic shock, hypovolemia,
+hemorrhagic shock, burns) requiring fluid volume resuscitation
+Intervention: Colloids (starches; dextrans; gelatins; albumin or fresh frozen plasma) #
+Comparison: Crystalloids
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+Starch solution versus crystalloids #
+Mortality: at the end of follow-
+up #
+No statistically significant
+difference
+Moderate
+Transfusion of blood product Favors comparison Moderate
+Renal replacement therapy Favors comparison Moderate
+Adverse events: allergic
+reaction
+No statistically significant
+difference
+Very Low
+Adverse events: itching Occurs more commonly with
+starch compared with crystalloids
+(favors comparison)
+Very Low
+Adverse events: rash No statistically significant
+difference
+Very Low
+Dextrans versus crystalloids
+Mortality: at the end of follow-
+up #
+No statistically significant
+difference
+Moderate
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Shock Evidence tables
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+Transfusion of blood products No statistically significant
+difference
+Very Low
+Adverse events: allergic
+reaction
+No statistically significant
+difference
+Moderate
+Renal replacement therapy - None of the studies identified by the
+review assessed this outcome
+Gelatins versus crystalloids
+Mortality: at the end of follow-
+up #
+No statistically significant
+difference
+Low
+Transfusion of blood product No statistically significant
+difference
+Very Low
+Adverse events No statistically significant
+difference
+Very Low
+Renal replacement therapy - See note #
+Albumin or fresh frozen plasma versus crystalloids
+Mortality: at the end of follow-
+up #
+No statistically significant
+difference
+Moderate
+Transfusion of blood product No statistically significant
+difference
+Very Low
+Renal replacement therapy No statistically significant
+difference
+Low
+Adverse events (allergic
+reactions)
+No statistically significant
+difference
+Very Low
+Note
+# Important information post publication of the Cochrane Clinical Answer (CCA): In July 2021, the US
+Food and Drug Administration (FDA) issued safety labeling changes for solutions containing hydroxyethyl
+starch (HES) stating that HES products should not be used unless adequate alternative treatment is
+unavailable.[74] The Pharmacovigilance Risk Assessment Committee of the European Medicines Agency in
+February 2022 recommended suspending HES solutions for infusion.[75]
+# The CCA also reports mortality within 30 days and 90 days as a subgroup analysis; moderate-quality
+evidence also reported no statistically significant difference between treatment groups.
+# Low-quality evidence also reported no statistically significant difference between gelatins and crystalloids
+for mortality within 30 days and within 90 days.
+EVIDENCE TABLES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Shock Evidence tables
+EVIDENCE TABLES
+# The reviewers of the main Cochrane review which this CCA is based on found one RCT which assessed
+the effectiveness of colloids for this outcome, but gelatins were not reported separately.
+* Evidence levels
+The Evidence level is an internal rating applied by BMJ Best Practice. See the EBM Toolkit for details.
+Confidence in evidence
+A -  High or moderate to high
+B -  Moderate or low to moderate
+C -  Very low or low
+† Effectiveness (BMJ rating)
+Based on statistical significance, which demonstrates that the results are unlikely to be due to chance, but
+which does not necessarily translate to a clinical significance.
+‡ Grade certainty ratings
+High The authors are very confident that the true
+effect is similar to the estimated effect.
+Moderate The authors are moderately confident that
+the true effect is likely to be close to the
+estimated effect.
+Low The authors have limited confidence in the
+effect estimate and the true effect may be
+substantially different.
+Very Low The authors have very little confidence in
+the effect estimate and the true effect is
+likely to be substantially different.
+BMJ Best Practice EBM Toolkit: What is GRADE?
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Shock References
+Key articles
+• Cecconi M, De Backer D, Antonelli M, et al. Consensus on circulatory shock and hemodynamic
+monitoring. Task force of the European Society of Intensive Care Medicine. Intensive Care Med. 2014
+Dec;40(12):1795-815.  Full text   Abstract
+• Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for
+management of sepsis and septic shock 2021. Intensive Care Med. 2021 Nov;47(11):1181-247.  Full
+text   Abstract
+• McDonagh TA, Metra M, Adamo M, et al. 2021 ESC guidelines for the diagnosis and treatment of
+acute and chronic heart failure. Eur Heart J. 2021 Sep 21;42(36):3599-726.  Full text   Abstract
+• Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2022 May 3;79(17):e263-421.  Full text  
+Abstract
+• van Diepen S, Katz JN, Albert NM, et al. Contemporary management of cardiogenic shock: a scientific
+statement from the American Heart Association. Circulation. 2017 Oct 17;136(16):e232-68.  Full text  
+Abstract
+References
+1. Cecconi M, De Backer D, Antonelli M, et al. Consensus on circulatory shock and hemodynamic
+monitoring. Task force of the European Society of Intensive Care Medicine. Intensive Care Med. 2014
+Dec;40(12):1795-815.  Full text   Abstract
+2. Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for
+management of sepsis and septic shock 2021. Intensive Care Med. 2021 Nov;47(11):1181-247.  Full
+text   Abstract
+3. McDonagh TA, Metra M, Adamo M, et al. 2021 ESC guidelines for the diagnosis and treatment of
+acute and chronic heart failure. Eur Heart J. 2021 Sep 21;42(36):3599-726.  Full text   Abstract
+4. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2022 May 3;79(17):e263-421.  Full text  
+Abstract
+5. De Backer D, Biston P, Devriendt J, et al; SOAP II Investigators. Comparison of dopamine and
+norepinephrine in the treatment of shock. N Engl J Med. 2010 Mar 4;362(9):779-89. Abstract
+6. Angus DC, Linde-Zwirble WT, Lidicker J, et al. Epidemiology of severe sepsis in the United States:
+analysis of incidence, outcome, and associated costs of care. Crit Care Med. 2001 Jul;29(7):1303-10.
+Abstract
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Shock References
+REFERENCES
+7. Brun-Buisson C, Meshaka P, Pinton P, et al. EPISEPSIS: a reappraisal of the epidemiology and
+outcome of severe sepsis in French intensive care units. Intensive Care Med. 2004 Apr;30(4):580-8.
+Abstract
+8. Engel C, Brunkhorst FM, Bone HG, et al. Epidemiology of sepsis in Germany: results from a national
+prospective multicenter study. Intensive Care Med. 2007 Apr;33(4):606-18. Abstract
+9. Esteban A, Frutos-Vivar F, Ferguson ND, et al. Sepsis incidence and outcome: contrasting the
+intensive care unit with the hospital ward. Crit Care Med. 2007 May;35(5):1284-9. Abstract
+10. Goldberg RJ, Samad NA, Yarzebski J, et al. Temporal trends in cardiogenic shock complicating acute
+myocardial infarction. N Engl J Med. 1999 Apr 15;340(15):1162-8.  Full text   Abstract
+11. Babaev A, Frederick PD, Pasta DJ, et al. Trends in management and outcomes of patients with acute
+myocardial infarction complicated by cardiogenic shock. JAMA. 2005 Jul 27;294(4):448-54.  Full text  
+Abstract
+12. Steg PG, Goldberg RJ, Gore JM, et al. Baseline characteristics, management practices, and in-
+hospital outcomes of patients hospitalized with acute coronary syndromes in the Global Registry of
+Acute Coronary Events (GRACE). Am J Cardiol. 2002 Aug 15;90(4):358-63. Abstract
+13. Koek HL, Kardaun JW, Gevers E, et al. Acute myocardial infarction incidence and hospital
+mortality: routinely collected national data versus linkage of national registers. Eur J Epidemiol.
+2007;22(11):755-62.  Full text   Abstract
+14. Roger VL, Jacobsen SJ, Weston SA, et al. Trends in the incidence and survival of patients with
+hospitalized myocardial infarction, Olmsted County, Minnesota, 1979 to 1994. Ann Intern Med. 2002
+Mar 5;136(5):341-8. Abstract
+15. Chioncel O, Parissis J, Mebazaa A, et al. Epidemiology, pathophysiology and contemporary
+management of cardiogenic shock - a position statement from the Heart Failure Association of the
+European Society of Cardiology. Eur J Heart Fail. 2020 Aug;22(8):1315-41.  Full text   Abstract
+16. Thiele H, Ohman EM, Desch S, et al. Management of cardiogenic shock. Eur Heart J. 2015 May
+21;36(20):1223-30.  Full text   Abstract
+17. Thomas NJ, Carcillo JA. Hypovolemic shock in pediatric patients. New Horiz. 1998 May;6(2):120-9.
+Abstract
+18. Centers for Disease Control and Prevention, National Center for Injury Prevention and Control. Web-
+based injury statistics query and reporting system (WISQARS). Dec 2021 [internet publication].  Full
+text
+19. Rossaint R, Bouillon B, Cerny V, et al. The European guideline on management of major bleeding and
+coagulopathy following trauma: fourth edition. Crit Care. 2016 Apr 12;20:100.  Full text   Abstract
+20. Cannon JW. Hemorrhagic shock. N Engl J Med. 2018 Jan 25;378(4):370-9. Abstract
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Shock References
+21. Geppert A, Steiner A, Zorn G, et al. Multiple organ failure in patients with cardiogenic shock is
+associated with high plasma levels of interleukin-6. Crit Care Med. 2002 Sep;30(9):1987-94. Abstract
+22. Edgren G, Almqvist R, Hartman M, et al. Splenectomy and the risk of sepsis: a population-based
+cohort study. Ann Surg. 2014 Dec;260(6):1081-7. Abstract
+23. Brodie BR, Hansen C, Stuckey TD, et al. Door-to-balloon time with primary percutaneous coronary
+intervention for acute myocardial infarction impacts late cardiac mortality in high-risk patients and
+patients presenting early after the onset of symptoms. J Am Coll Cardiol. 2006 Jan 17;47(2):289-95. 
+Full text   Abstract
+24. Royal College of Physicians. National early warning score (NEWS) 2. December 2017 [internet
+publication].  Full text
+25. Carney N, Totten AM, O'Reilly C, et al. Guidelines for the management of severe traumatic brain injury,
+Fourth Edition. Neurosurgery. 2017 Jan 1;80(1):6-15.  Full text   Abstract
+26. Resuscitation Council UK. Resuscitation guidelines: the ABCDE approach. 2024 [internet publication]. 
+Full text
+27. Berger T, Green J, Horeczko T, et al. Shock index and early recognition of sepsis in the emergency
+department: pilot study. West J Emerg Med. 2013 Mar;14(2):168-74.  Full text   Abstract
+28. National Patient Safety Agency. Alert: Blood control safety cannula and needle thoracostomy for
+tension pneumothorax. April 2020 [internet publication].  Full text
+29. Leigh-Smith S, Harris T. Tension pneumothorax - time for a re-think? Emerg Med J. 2005
+Jan;22(1):8-16.  Full text   Abstract
+30. Jones R, Hollingsworth J. Tension pneumothoraces not responding to needle thoracocentesis. Emerg
+Med J. 2002 Mar;19(2):176-7.  Full text   Abstract
+31. Ibanez B, James S, Agewall S, et al. 2017 ESC Guidelines for the management of acute myocardial
+infarction in patients presenting with ST-segment elevation: The Task Force for the management of
+acute myocardial infarction in patients presenting with ST-segment elevation of the European Society
+of Cardiology (ESC). Eur Heart J. 2018 Jan 7;39(2):119-77.  Full text   Abstract
+32. Lee JW. Fluid and electrolyte disturbances in critically ill patients. Electrolyte Blood Press. 2010
+Dec;8(2):72-81.  Full text   Abstract
+33. Bonanno FG. Clinical pathology of the shock syndromes. J Emerg Trauma Shock. 2011
+Apr;4(2):233-43.  Full text   Abstract
+34. O'Driscoll BR, Howard LS, Earis J, et al. BTS guideline for oxygen use in adults in healthcare and
+emergency settings. Thorax. 2017 Jun;72(suppl 1):ii1-90. Abstract
+35. Marik PE, Bellomo R. Stress hyperglycemia: an essential survival response!. Crit Care. 2013 Mar
+6;17(2):305.  Full text   Abstract
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Shock References
+REFERENCES
+36. Nassar BS, Schmidt GA. Capnography during critical illness. Chest. 2016 Feb;149(2):576-85. Abstract
+37. Rivers E, Nguyen B, Havstad S, et al. Early goal-directed therapy in the treatment of severe sepsis and
+septic shock. N Engl J Med. 2001 Nov 8;345(19):1368-77.  Full text   Abstract
+38. Gilbert RE, Mok Q, Dwan K, et al. Impregnated central venous catheters for prevention of
+bloodstream infection in children (the CATCH trial): a randomised controlled trial. Lancet. 2016 Apr
+23;387(10029):1732-42. Abstract
+39. Simundic AM, Bölenius K, Cadamuro J, et al. Joint EFLM-COLABIOCLI recommendation for venous
+blood sampling. Clin Chem Lab Med. 2018;56(12):2015-38. Abstract
+40. Levin A, Warnock DG, Mehta RL, et al. Improving outcomes from acute kidney injury: report of an
+initiative. Am J Kidney Dis. 2007 Jul;50(1):1-4. Abstract
+41. Revelly JP, Tappy L, Martinez A, et al. Lactate and glucose metabolism in severe sepsis and
+cardiogenic shock. Crit Care Med. 2005 Oct;33(10):2235-40. Abstract
+42. Carvounis CP, Nisar S, Guro-Razuman S. Significance of the fractional excretion of urea in the
+differential diagnosis of acute renal failure. Kidney Int. 2002 Dec;62(6):2223-9.  Full text   Abstract
+43. Joint British Diabetes Societies for Inpatient Care. The management of diabetic ketoacidosis in adults.
+March 2023 [internet publication].  Full text
+44. Kraut JA, Kurtz I. Toxic alcohol ingestions: clinical features, diagnosis, and management. Clin J Am
+Soc Nephrol. 2008 Jan;3(1):208-25.  Full text   Abstract
+45. Kitabchi AE, Umpierrez GE, Murphy MB, et al. Management of hyperglycemic crises in patients with
+diabetes. Diabetes Care. 2001 Jan;24(1):131-53. Abstract
+46. Kitabchi AE, Umpierrez GE, Miles JM, et al. Hyperglycemic crises in adult patients with diabetes.
+Diabetes Care. 2009 Jul;32(7):1335-43.  Full text   Abstract
+47. Subramaniam B, Talmor D. Echocardiography for management of hypotension in the intensive care
+unit. Crit Care Med. 2007 Aug;35(8 suppl):S401-7. Abstract
+48. Beaulieu Y. Bedside echocardiography in the assessment of the critically ill. Crit Care Med. 2007
+May;35(5 suppl):S235-49. Abstract
+49. Joseph MX, Disney PJ, Da Costa R, et al. Transthoracic echocardiography to identify or exclude
+cardiac cause of shock. Chest. 2004 Nov;126(5):1592-7. Abstract
+50. van Diepen S, Katz JN, Albert NM, et al. Contemporary management of cardiogenic shock: a scientific
+statement from the American Heart Association. Circulation. 2017 Oct 17;136(16):e232-68.  Full text  
+Abstract
+51. Chalupa P, Beran O, Herwald H, et al. Evaluation of potential biomarkers for the discrimination of
+bacterial and viral infections. Infection. 2011 Oct;39(5):411-7. Abstract
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Shock References
+52. McCann FJ, Chapman SJ, Yu WC, et al. Ability of procalcitonin to discriminate infection from non-
+infective inflammation using two pleural disease settings. PLoS One. 2012;7(12):e49894.  Full text  
+Abstract
+53. Becker KL, Snider R, Nylen ES. Procalcitonin assay in systemic inflammation, infection, and sepsis:
+clinical utility and limitations. Crit Care Med. 2008 Mar;36(3):941-52. Abstract
+54. Phua J, Koay ES, Lee KH. Lactate, procalcitonin, and amino-terminal pro-B-type natriuretic peptide
+versus cytokine measurements and clinical severity scores for prognostication in septic shock. Shock.
+2008 Mar;29(3):328-33.  Full text   Abstract
+55. American Society for Clinical Pathology. Thirty five things physicians and patients should question.
+Choosing Wisely, an initiative of the ABIM Foundation. 2022 [internet publication].  Full text
+56. Lubner M, Demertzis J, Lee JY, et al. CT evaluation of shock viscera: a pictorial review. Emerg Radiol.
+2008 Jan;15(1):1-11. Abstract
+57. Tarrant AM, Ryan MF, Hamilton PA, et al. A pictorial review of hypovolaemic shock in adults. Br J
+Radiol. 2008 Mar;81(963):252-7. Abstract
+58. Konstantinides SV, Meyer G, Becattini C, et al. 2019 ESC Guidelines for the diagnosis and
+management of acute pulmonary embolism developed in collaboration with the European Respiratory
+Society (ERS). Eur Heart J. 2020 Jan 21;41(4):543-603.  Full text   Abstract
+59. National Institute for Health and Care Excellence. Venous thromboembolic diseases: diagnosis,
+management and thrombophilia testing. August 2023 [internet publication].  Full text
+60. Kristensen AK, Holler JG, Hallas J, et al. Is shock index a valid predictor of mortality in emergency
+department patients with hypertension, diabetes, high age, or receipt of β- or calcium channel
+blockers? Ann Emerg Med. 2016 Jan;67(1):106-13. Abstract
+61. Subbe CP, Kruger M, Rutherford P, et al. Validation of a modified Early Warning Score in medical
+admissions. QJM. 2001 Oct;94(10):521-6.  Full text   Abstract
+62. National Institute for Health and Care Excellence. Suspected sepsis: recognition, diagnosis and early
+management. March 2024 [internet publication].  Full text
+63. Golden DBK, Wang J, Waserman S, et al. Anaphylaxis: a 2023 practice parameter update. Ann Allergy
+Asthma Immunol. 2024 Feb;132(2):124-76.  Full text   Abstract
+64. Panchal AR, Bartos JA, Cabañas JG, et al. Part 3: Adult Basic and Advanced Life Support:
+2020 American Heart Association guidelines for cardiopulmonary resuscitation and emergency
+cardiovascular care. Circulation. 2020 Oct 20;142(16_suppl_2):S366-S468.  Full text   Abstract
+65. Lott C, Truhlář A, Alfonzo A, et al. European Resuscitation Council Guidelines 2021: Cardiac arrest in
+special circumstances. Resuscitation. 2021 Apr;161:152-219.  Full text   Abstract
+66. Nieminen MS, Böhm M, Cowie MR, et al. Executive summary of the guidelines on the diagnosis and
+treatment of acute heart failure. Eur Heart J. 2005 Feb;26(4):384-416.  Full text   Abstract
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Shock References
+REFERENCES
+67. Davis AL, Carcillo JA, Aneja RK, et al. American College of Critical Care Medicine clinical practice
+parameters for hemodynamic support of pediatric and neonatal septic shock. Crit Care Med. 2017
+Jun;45(6):1061-93.  Full text   Abstract
+68. McNulty PH, King N, Scott S, et al. Effects of supplemental oxygen administration on coronary
+blood flow in patients undergoing cardiac catheterization. Am J Physiol Heart Circ Physiol. 2005
+Mar;288(3):H1057-62.  Full text   Abstract
+69. Rawles JM, Kenmure AC. Controlled trial of oxygen in uncomplicated myocardial infarction. Br Med J.
+1976 May 8;1(6018):1121-3.  Full text   Abstract
+70. Ferreyro BL, Angriman F, Munshi L, et al. Association of noninvasive oxygenation strategies with
+all-cause mortality in adults with acute hypoxemic respiratory failure: a systematic feview and meta-
+analysis. JAMA. 2020 Jul 7;324(1):57-67.  Full text   Abstract
+71. Finfer S, Bellomo R, Boyce N, et al; the SAFE study investigators. A comparison of albumin and saline
+for fluid resuscitation in the intensive care unit. N Engl J Med. 2004 May 27;350(22):2247-56.  Full text 
+Abstract
+72. Roberts I, Blackhall K, Alderson P, et al. Human albumin solution for resuscitation and volume
+expansion in critically ill patients. Cochrane Database Syst Rev. 2011 Nov 9;(11):CD001208.  Full text  
+Abstract
+73. Lewis SR, Pritchard MW, Evans DJ, et al. Colloids versus crystalloids for fluid resuscitation in critically
+ill people. Cochrane Database Syst Rev. 2018 Aug 3;(8):CD000567.  Full text   Abstract
+74. US Food and Drug Administration. Labeling changes on mortality, kidney injury, and excess bleeding
+with hydroxyethyl starch products. Jul 2021 [internet publication].  Full text
+75. European Medicines Agency. PRAC recommends suspending hydroxyethyl-starch solutions for
+infusion from the market. Feb 2022 [internet publication].  Full text
+76. Semler MW, Self WH, Wanderer JP, et al. Balanced crystalloids versus saline in critically ill adults. N
+Engl J Med. 2018 Mar 1;378(9):829-39.  Full text   Abstract
+77. Inohara T, Kohsaka S, Fukuda K, et al. The challenges in the management of right ventricular
+infarction. Eur Heart J Acute Cardiovasc Care. 2013 Sep;2(3):226-34.  Full text   Abstract
+78. Association of Anaesthetists. AAGBI guidelines: the use of blood components and their alternatives
+2016. April 2016 [internet publication].  Full text
+79. Antonelli M, Levy M, Andrews PJ, et al. Hemodynamic monitoring in shock and implications for
+management: international consensus conference, Paris, France, 27-28 April 2006. Intensive Care
+Med. 2007 Apr;33(4):575-90. Abstract
+80. Kivikko M, Pollesello P, Tarvasmäki T, et al. Effect of baseline characteristics on mortality in the
+SURVIVE trial on the effect of levosimendan vs dobutamine in acute heart failure: Sub-analysis of the
+Finnish patients. Int J Cardiol. 2016 Jul 15;215:26-31.  Full text   Abstract
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Shock References
+81. Abraham WT, Adams KF, Fonarow GC, et al. In-hospital mortality in patients with acute
+decompensated heart failure requiring intravenous vasoactive medications: an analysis from the
+Acute Decompensated Heart Failure National Registry (ADHERE). J Am Coll Cardiol. 2005 Jul
+5;46(1):57-64.  Full text   Abstract
+82. Asfar P, Meziani F, Hamel JF, et al. High versus low blood-pressure target in patients with septic
+shock. N Engl J Med. 2014 Apr 24;370(17):1583-93. Abstract
+83. Geller BJ, Sinha SS, Kapur NK, et al. Escalating and de-escalating temporary mechanical circulatory
+support in cardiogenic shock: a scientific statement from the American Heart Association. Circulation.
+2022 Aug 9;146(6):e50-68.  Full text   Abstract
+84. Hochman JS, Sleeper LA, Webb JG, et al; SHOCK Investigators. Early revascularization and
+long-term survival in cardiogenic shock complicating acute myocardial infarction. JAMA. 2006 Jun
+7;295(21):2511-5.  Full text   Abstract
+85. Ahmad Y, Sen S, Shun-Shin MJ, et al. Intra-aortic balloon pump therapy for acute myocardial
+infarction: a meta-analysis. JAMA Intern Med. 2015 Jun;175(6):931-9. Abstract
+86. Unverzagt S, Buerke M, de Waha A, et al. Intra-aortic balloon pump counterpulsation (IABP) for
+myocardial infarction complicated by cardiogenic shock. Cochrane Database Syst Rev. 2015 Mar 27;
+(3):CD007398.  Full text   Abstract
+87. Zheng XY, Wang Y, Chen Y, et al. The effectiveness of intra-aortic balloon pump for myocardial
+infarction in patients with or without cardiogenic shock: a meta-analysis and systematic review. BMC
+Cardiovasc Disord. 2016 Jul 8;16(1):148.  Full text   Abstract
+88. Adler Y, Charron P. The 2015 ESC Guidelines on the diagnosis and management of pericardial
+diseases. Eur Heart J. 2015 Nov 7;36(42):2873-4.  Full text   Abstract
+89. Rhodes A, Phillips G, Beale R, et al. The Surviving Sepsis Campaign bundles and outcome: results
+from the International Multicentre Prevalence Study on Sepsis (the IMPreSS study). Intensive Care
+Med. 2015 Sep;41(9):1620-8. Abstract
+90. Levy MM, Rhodes A, Phillips GS, et al. Surviving Sepsis Campaign: association between performance
+metrics and outcomes in a 7.5-year study. Intensive Care Med. 2014 Nov;40(11):1623-33.  Full text  
+Abstract
+91. Seymour CW, Gesten F, Prescott HC, et al. Time to treatment and mortality during mandated
+emergency care for sepsis. N Engl J Med. 2017 Jun 8;376(23):2235-44.  Full text   Abstract
+92. Ker K, Roberts I, Shakur H, et al. Antifibrinolytic drugs for acute traumatic injury. Cochrane Database
+Syst Rev. 2015 May 9;(5):CD004896.  Full text   Abstract
+93. Vahdatpour C, Collins D, Goldberg S. Cardiogenic shock. J Am Heart Assoc. 2019 Apr
+16;8(8):e011991.  Full text   Abstract
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Shock References
+REFERENCES
+94. Werdan K, Buerke M, Geppert A, et al. Infarction-related cardiogenic shock- diagnosis, monitoring
+and therapy–a German-Austrian S3 guideline. Dtsch Arztebl Int. 2021 Feb 12;118(6):88-95.  Full text  
+Abstract
+95. Kusminsky RE. Complications of central venous catheterization. J Am Coll Surg. 2007
+Apr;204(4):681-96. Abstract
+96. McGee DC, Gould MK. Preventing complications of central venous catheterization. N Engl J Med.
+2003 Mar 20;348(12):1123-33.  Full text   Abstract
+97. Smith RN, Nolan JP. Central venous catheters. BMJ. 2013 Nov 11;347:f6570.  Full text   Abstract
+98. Reich DL. Monitoring in anesthesia and perioperative care. Cambridge: Cambridge University Press;
+2011.
+99. Abbott Northwestern Hospital Internal Medicine Residency. Internal jugular central venous line. 2022
+[internet publication].  Full text
+100. Bishop L, Dougherty L, Bodenham A, et al. Guidelines on the insertion and management of central
+venous access devices in adults. Int J Lab Hematol. 2007 Aug;29(4):261-78. Abstract
+101. Practice guidelines for central venous access 2020: an updated report by the American Society of
+Anesthesiologists Task Force on Central Venous Access. Anesthesiology. 2020 Jan;132(1):8-43.  Full
+text   Abstract
+102. Fletcher SJ, Bodenham AR. Safe placement of central venous catheters: where should the tip of the
+catheter lie? Br J Anaesth. 2000 Aug;85(2):188-91. Abstract
+103. Gibson F, Bodenham A. Misplaced central venous catheters: applied anatomy and practical
+management. Br J Anaesth. 2013 Mar;110(3):333-46.  Full text   Abstract
+104. Schuster M, Nave H, Piepenbrock S, et al. The carina as a landmark in central venous catheter
+placement. Br J Anaesth. 2000 Aug;85(2):192-4. Abstract
+105. Webster J, Osborne S, Rickard CM, et al. Clinically-indicated replacement versus routine replacement
+of peripheral venous catheters. Cochrane Database Syst Rev. 2019 Jan 23;(1):CD007798.  Full text  
+Abstract
+106. Royal College of Nursing. Catheter care: RCN guidance for health care professionals. Jul 2021
+[internet publication].  Full text
+107. Royal College of Nursing. Catheter care: guidance for health care professionals. Jul 2021 [internet
+publication].  Full text
+108. Calder I, Pearce A, eds. Core topics in airway management. 2nd ed. Cambridge: Cambridge
+University Press; 2011.
+109. Soar J, Böttiger BW, Carli P, et al. European Resuscitation Council Guidelines 2021: Adult advanced
+life support. Resuscitation. 2021 Apr;161:115-51. Abstract
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Shock References
+110. Konstantinides SV, Barco S, Lankeit M, et al. Management of pulmonary embolism: an update. J Am
+Coll Cardiol. 2016 Mar 1;67(8):976-90.  Full text   Abstract
+111. Kearon C, Akl EA, Ornelas J, et al. Antithrombotic therapy for VTE disease: CHEST guideline and
+expert panel report. Chest. 2016 Feb;149(2):315-52.  Full text   Abstract
+112. Schierhout G, Roberts I. Fluid resuscitation with colloid or crystalloid solutions in critically ill patients: a
+systematic review of randomised trials. BMJ. 1998 Mar 28;316(7136):961-4.  Full text   Abstract
+113. Choi PT, Yip G, Quinonez LG, Cook DJ. Crystalloids vs. colloids in fluid resuscitation: a systematic
+review. Crit Care Med. 1999 Jan;27(1):200-10. Abstract
+114. Akech S, Ledermann H, Maitland K. Choice of fluids for resuscitation in children with severe infection
+and shock: systematic review. BMJ. 2010 Sep 2;341:c4416.  Full text   Abstract
+115. Caironi P, Tognoni G, Masson S, et al. Albumin replacement in patients with severe sepsis or septic
+shock. N Engl J Med. 2014 Apr 10;370(15):1412-21.  Full text   Abstract
+116. Zampieri FG, Machado FR, Biondi RS, et al. Effect of intravenous fluid treatment with a balanced
+solution vs 0.9% saline solution on mortality in critically ill patients: the BaSICS randomized clinical
+trial. JAMA. 2021 Aug 10;326(9):1-12.  Full text   Abstract
+117. Zarychanski R, Abou-Setta AM, Turgeon AF, et al. Association of hydroxyethyl starch administration
+with mortality and acute kidney injury in critically ill patients requiring volume resuscitation: a
+systematic review and meta-analysis. JAMA. 2013 Feb 20;309(7):678-88.  Full text   Abstract
+118. Gayet-Ageron A, Prieto-Merino D, Ker K, et al. Effect of treatment delay on the effectiveness and
+safety of antifibrinolytics in acute severe haemorrhage: a meta-analysis of individual patient-level data
+from 40 138 bleeding patients. Lancet. 2018 Jan 13;391(10116):125-32.  Full text   Abstract
+119. Schmidt M, Burrell A, Roberts L, et al. Predicting survival after ECMO for refractory cardiogenic shock:
+the survival after veno-arterial-ECMO (SAVE)-score. Eur Heart J. 2015 Sep 1;36(33):2246-56.  Full
+text   Abstract
+120. Ouweneel DM, Schotborgh JV, Limpens J, et al. Extracorporeal life support during cardiac
+arrest and cardiogenic shock: a systematic review and meta-analysis. Intensive Care Med. 2016
+Dec;42(12):1922-34.  Full text   Abstract
+121. Chakaramakkil MJ, Sivathasan C. ECMO and Short-term support for cardiogenic shock in heart
+failure. Curr Cardiol Rep. 2018 Aug 16;20(10):87. Abstract
+122. Chang T, Tu YK, Lee CT, et al. Effects of polymyxin B hemoperfusion on mortality in patients with
+severe sepsis and septic shock: a systemic review, meta-analysis update, and disease severity
+subgroup meta-analysis. Crit Care Med. 2017 Aug;45(8):e858-64.  Full text   Abstract
+123. Dellinger RP, Bagshaw SM, Antonelli M, et al. Effect of targeted polymyxin B hemoperfusion on 28-
+day mortality in patients with septic shock and elevated endotoxin level: the EUPHRATES randomized
+clinical trial. JAMA. 2018 Oct 9;320(14):1455-63. Abstract
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Shock References
+REFERENCES
+124. Plurad DS, Chiu W, Raja AS, et al. Monitoring modalities and assessment of fluid status: a practice
+management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care
+Surg. 2018 Jan;84(1):37-49.  Full text   Abstract
+125. Resuscitation Council UK. Emergency treatment of anaphylaxis: guidelines for healthcare providers.
+May 2021 [internet publication].  Full text
+126. Paul M, Dickstein Y, Raz-Pasteur A. Antibiotic de-escalation for bloodstream infections and
+pneumonia: systematic review and meta-analysis. Clin Microbiol Infect. 2016 Dec;22(12):960-7.
+Abstract
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Shock Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Figure 1 – BMJ Best Practice Numeral Style
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 25, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Contributors:
+// Expert Advisers:
+Samuel J. Stratton, MD, MPH
+Professor
+Fielding School of Public Health, David Geffen School of Medicine at UCLA, Los Angeles, Deputy Health
+Officer, Orange County Health Care Agency, Health Disaster Management/Emergency Medical Services,
+Santa Ana, CA
+DISCLOSURES: SJS declares that he has no competing interests.
+// Peer Reviewers:
+Patrick Nee, FRCP, FRCS, FCEM
+Consultant in Accident & Emergency Medicine
+St Helens & Knowsley Hospitals NHS Trust, Whiston Hospital, Prescot, UK
+DISCLOSURES: PN declares that he has no competing interests.
+James Brown, MD, MMM
+Vice-Chair and Program Director
+Wright State University Department of Emergency Medicine, Dayton, OH
+DISCLOSURES: JB declares that he has no competing interests.

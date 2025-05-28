@@ -1,0 +1,2563 @@
+# Pericarditis
+
+=== Page 1 ===
+Pericarditis
+Straight to the point of care
+Last updated: Mar 06, 2025
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Risk factors  4
+Etiology  5
+Pathophysiology  6
+Classification  7
+Case history  11
+Diagnosis  13
+Recommendations  13
+History and exam  18
+Tests  20
+Differentials  25
+Criteria  26
+Management  28
+Recommendations  28
+Treatment algorithm overview  33
+Treatment algorithm  35
+Emerging  52
+Primary prevention  52
+Secondary prevention  52
+Patient discussions  52
+Follow up  53
+Monitoring  53
+Complications  53
+Prognosis  54
+Guidelines  55
+Diagnostic guidelines  55
+Treatment guidelines  55
+Evidence tables  56
+References  58
+Images  64
+Disclaimer  71
+=== Page 3 ===
+Pericarditis Overview
+Summary
+Pericarditis symptoms include sharp, severe retrosternal chest pain worse with inspiration and a supine
+position.
+The classic physical finding is a pericardial friction rub. A low-grade fever may be present.
+Diagnostic signs include widespread electrocardiographic ST elevation or PR depression and a new or
+worsening pericardial effusion on echocardiography; blood tests generally suggest systemic inflammation.
+Treatment is directed at any underlying systemic disorder. Idiopathic or viral pericarditis responds to
+nonsteroidal anti-inflammatory drugs and colchicine.
+Complications include chronic recurrent pericarditis, cardiac tamponade, and constrictive pericarditis.
+Definition
+Pericarditis is an inflammation of the pericardium. The acute form is defined as new-onset inflammation
+lasting <4-6 weeks. It is characterized clinically by a triad of chest pain, pericardial friction rub, and serial
+electrocardiographic changes. A pericardial effusion may or may not be present. Pericarditis is the most
+common disease of the pericardium encountered in clinical practice.[1]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Pericarditis Theory
+THEORY
+Epidemiology
+Acute pericarditis is more common in adults (typically between 20 to 50 years old) and in men.[15] It is the
+most common disease of the pericardium encountered in clinical practice. The true incidence and prevalence
+are unknown and there are a large number of undiagnosed cases. Pericarditis may account for up to 5% of
+presentations to emergency departments for chest pain and up to 0.1% of hospital admissions.[16] [17] [18]
+Risk factors
+Strong
+male sex
+Acute pericarditis is described more commonly in men, particularly in the viral form in which there is a
+3:1 male-to-female ratio.[15]
+age 20 to 50 years
+The disorder is more commonly described in adults ages 20 to 50 years.[15]
+transmural myocardial infarction (MI)
+Two forms of pericarditis following MI exist: "early" (pericarditis epistenocardica) and
+"delayed" (Dressler syndrome).[28] [29] The early form is caused by local inflammation at the
+epicardial MI border with direct exudation. It occurs in 5% to 20% of transmural MIs, but is not often
+recognized clinically. The delayed form occurs from 1 week to several months postinfarction and does
+not require a transmural infarction. Its incidence is 0.5% to 5% (and <0.5% in patients treated with
+thrombolytics). The incidence of pericarditis following transmural MI has declined since the use of
+thrombolytics and myocardial revascularization.
+cardiac surgery
+Postpericardiotomy syndrome has been reported in up to 20% of cases 4 weeks after coronary
+artery bypass grafting. It develops days to months postoperatively. Compared with the postinfarction
+syndrome, there is a greater antiheart antibody response (antisarcolemmal and antifibrillatory) with
+higher release of antigens.[1] [13]
+neoplasm
+Pericarditis generally results from local tumor invasion, lymphatic spread or hematogenous spread of a
+malignant neoplasm. Primary malignant pericardial disease is rare.[2] [13]
+viral and bacterial infections
+Viral pericarditis is the most common pericardial infection.[1] [13] The inflammation is due to direct
+viral attack and/or an immune response (antiviral or anticardiac). Onset is frequently postviral, with no
+evidence of virus present in the pericardium.
+Purulent pericarditis caused by bacterial pathogens occurs in 5% of cases. Pericardial infection can
+occur by hematogenous spread or by direct extension from adjacent organs, notably the lungs and/or
+pleural space.
+In developed countries, 4% of acute pericarditis cases are due to  Mycobacterium tuberculosis .[30]
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Pericarditis Theory
+uremia or on dialysis
+Two forms exist: uremic pericarditis and dialysis-associated pericarditis. Uremic pericarditis is reported
+in 6% to 10% of patients with acute or chronic renal failure prior or shortly after institution of dialysis.
+The likelihood of pericarditis increases with the severity of azotemia (BUN >60 mg/dL).[1]
+Dialysis-associated pericarditis is reported in up to 13% of patients receiving chronic hemodialysis. It
+is occasionally seen in patients on peritoneal dialysis who have not been adequately dialyzed. Most
+patients respond to intensive dialysis within 1 to 2 weeks.
+systemic autoimmune disorders
+Pericarditis is commonly associated with diseases such as rheumatoid arthritis and lupus but may not
+be clinically apparent.[1]
+Weak
+pericardial injury
+Occurs weeks to months post-event.
+mediastinal radiation
+Radiation therapy-associated acute exudative pericarditis is rare. Delayed acute pericarditis is more
+common, and occurs weeks after radiation therapy. It is generally manifested as an asymptomatic
+pericardial effusion or symptomatic pericarditis. Delayed chronic pericarditis may appear weeks to
+years after radiation therapy and cause constrictive pericarditis.[31]
+Etiology
+Acute pericarditis can be idiopathic or due to an underlying systemic condition (e.g., systemic lupus
+erythematosus). As many as 90% of cases are either idiopathic or due to viral infections (e.g., Coxsackie
+virus A9 or B1-4, Echo 8, mumps, Epstein-Barr virus, cytomegalovirus, varicella, rubella, HIV, Parvo-19,
+SARS-CoV-2).[2] [3] [5] [14] [19] [20] Onset is frequently postviral, with no evidence of virus present in
+the pericardium. Systemic autoimmune disorders (e.g., rheumatoid arthritis, systemic sclerosis, reactive
+arthritis, familial Mediterranean fever, systemic vasculitides, inflammatory bowel disease) are also a common
+cause.[21] [22] However, there are numerous other less common causes, including bacterial/fungal/parasitic
+infections, secondary immune processes (e.g., rheumatic fever, postcardiotomy syndrome, post-myocardial
+infarction [MI] syndrome), pericarditis and pericardial effusions in diseases of surrounding organs (e.g.,
+acute MI, myocarditis, paraneoplastic syndromes), metabolic disorders (e.g., uremia, myxoedema), trauma,
+neoplasms, and certain drugs. Rarely, pericarditis occurs after vaccination (including influenza and mRNA
+COVID-19 vaccination).[23] [24] [25] [26] Fungal and drug causes are rare.
+In developed countries, other causes include radiation therapy, cardiac surgery, percutaneous cardiac
+interventions, and HIV.  Mycobacterium tuberculosis  is a common cause in developing countries.[13]
+[15] Pericarditis commonly occurs 1 to 3 days after an MI. It can also occur weeks or months after an MI
+(Dressler syndrome).[14] Postcardiac injury syndrome is a broad term that describes pericarditis with or
+without effusion that results from an MI or iatrogenic injury to the pericardium. It includes post-MI syndrome
+(Dressler's), postcardiotomy syndrome, and post-traumatic pericarditis (due to percutaneous coronary
+intervention or implantable electronic device placement, i.e., pacemaker or defibrillator).[18] [27]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Pericarditis Theory
+THEORY
+Pathophysiology
+The pericardium consists of a two-layered pliable, fibroserous sac that covers the surface of the heart.
+The inner layer, the visceral pericardium, is adherent to the myocardium. It has a microvillous surface that
+secretes pericardial fluid. The outer layer, or parietal pericardium, is contiguous with the inner layer. It is
+composed of collagen layers with interspersed elastin fibrils. Both layers are normally only 1 to 2 mm thick
+and a space containing 15 to 35 mL of pericardial fluid separates them. The pericardium is perfused by the
+internal mammary arteries and innervated by the phrenic nerve. The pericardium protects and restrains the
+heart. In addition, it determines cardiac filling patterns, limits chamber dilatation, and equilibrates compliance
+between the two ventricles.
+Signs and symptoms of acute pericarditis result from inflammation of the pericardial tissue. The pericardium
+is well innervated and inflammation causes severe pain. Pericarditis can be either fibrinous (dry) or effusive
+with a purulent, serous, or hemorrhagic exudate. The formation of a concomitant effusion is usually due to a
+response to the inflammation. The normal pericardium is permeable to water and electrolytes and pericardial
+fluid is in dynamic equilibrium with the blood serum. Inflamed pericardial tissue impairs this equilibrium. Local
+production of inflammatory mediators such as cytokines, tumor necrosis factor, and interleukins can cause
+weeping of fluid from the visceral pericardium, as well as exudation of larger molecules that attract additional
+fluid and impair resorption.[13] [14] [28] Constrictive pericarditis impedes normal diastolic filling and can be a
+medium to late complication of acute pericarditis.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Pericarditis Theory
+Constrictive pericarditis identified at autopsy; the right section is scar tissue cut from the very front of the heart
+Xu JD, Cao XX, Liu XP, et al. BMJ Case Reports 2009; doi:10.1136/bcr.03.2009.1688
+Classification
+Clinical classification[1]
+Pericarditis can be classified by duration of inflammation as well as by etiology and complications/sequelae.
+A. Acute pericarditis (new onset, <4-6 weeks)
+• Inflammatory pericardial syndrome associated with at least 2 of the following 4 criteria:
+• Characteristic chest pain: typically sharp, pleuritic; relieved by sitting forwards and worsened by
+lying flat
+• Pericardial friction rub; “like walking through crunchy snow”
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Pericarditis Theory
+THEORY
+• New diffuse electrocardiographic ST-elevations (saddle-shaped) or PR depressions
+• New or worsening pericardial effusion.
+• Additional supporting findings include:
+• Elevated inflammatory markers (i.e., CRP, ESR, WBC count)
+• Evidence of pericardial thickening/inflammation by advanced imaging techniques (i.e., cardiac
+CT or MRI).
+• Can be associated with a pericardial effusion that is fibrinous or effusive (serous or serosanguinous).
+B. Incessant pericarditis
+• Signs and symptoms lasting >4-6 weeks but <3 months without remission.
+C. Recurrent pericarditis
+• Recurrence of signs and symptoms after an initial documented episode of acute pericarditis with an
+intervening symptom-free interval of ≥4-6 weeks.
+D. Chronic pericarditis
+• Signs and symptoms persisting for >3 months.
+Subtypes:
+• Constrictive (due to chronically thickened pericardium)
+• Effusive-constrictive (combination of tense effusion in the pericardial space and constriction by the
+thickened pericardium)
+• Adhesive (nonconstrictive).
+Etiologic classification[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11]
+A. Infectious
+1. Viral
+• Coxsackie virus A9 or B1-4
+• Echo 8
+• Mumps
+• Epstein-Barr virus
+• Cytomegalovirus
+• Varicella
+• Rubella
+• HIV
+• Parvo-19
+• Dengue
+• Zika
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Pericarditis Theory
+• SARS-CoV-2
+2. Bacterial
+• Pneumococcal
+• Meningococcal
+• Gonocococcal
+• Haemophilus
+• Chlamydial
+• Tuberculous
+• Treponema
+• Borreliosis
+• Propionibacteria
+3. Fungal
+• Candida
+• Histoplasma
+4. Parasitic
+• Entamoeba histolytica
+• Echinococcus
+B. Associated with systemic autoimmune disorders
+• Systemic lupus erythematosus
+• Rheumatoid arthritis
+• Systemic sclerosis
+• Reactive arthritis
+• Familial Mediterranean fever
+• Systemic vasculitides
+• Inflammatory bowel disease
+• Sarcoidosis
+C. Secondary immune process
+• Rheumatic fever
+• Postcardiotomy syndrome
+• Post-MI syndrome
+• Postcardiac ablation or percutaneous coronary intervention
+D. Pericarditis and pericardial effusions in diseases of surrounding organs
+• Acute MI
+• Myocarditis
+• Paraneoplastic
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Pericarditis Theory
+THEORY
+E. Associated with metabolic disorders
+• Uremia
+• Myxedema
+F. Traumatic
+• Direct injury
+• Penetrating thoracic injury
+• Esophageal perforations
+• Indirect injury
+• Nonpenetrating thoracic injury
+• Mediastinal radiation
+G. Neoplastic
+• Primary tumors (rare)
+• Mesothelioma
+• Angiosarcoma
+• Fibrosarcoma
+• Secondary metastases
+• Lung carcinoma
+• Breast carcinoma
+• Leukemia and lymphoma
+• Gastric and colon
+• Melanoma
+• Others, including carcinoid
+• Pericarditis in cancer patients is often nonmalignant (e.g., secondary to mediastinal radiation or
+opportunistic infection)
+H. Drug related
+• Lupus-like syndrome
+• Procainamide
+• Hydralazine
+• Methyldopa
+• Isoniazid
+• Phenytoin
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Pericarditis Theory
+• Chemotherapeutic agents (usually with associated cardiomyopathy)
+• Doxorubicin
+• Daunorubicin
+• Cyclophosphamide
+• Fluorouracil
+• Cytarabine
+• Hypersensitivity reaction with eosinophilia
+• Penicillins
+• Other
+• Sulfa drugs
+• Cyclosporine
+• Tumor necrosis factor (TNF)-alpha inhibitors
+• Immune checkpoint inhibitors (e.g., CTLA-4 inhibitors, PD-1 inhibitors and PD-L1 inhibitors)
+• Tyrosine kinase inhibitors (e.g., dasatinib)
+I. Idiopathic
+• Idiopathic and viral causes are the most common. Autoimmune disorders are also a common cause.
+Drugs are a rare cause, and fungi are a very rare cause.
+Case history
+Case history #1
+An otherwise healthy 30-year-old man presents with a several-day history of progressive, severe,
+retrosternal chest pain that is sharp and pleuritic in nature. The pain is worse on lying down and improved
+with sitting forward. There is radiation to the neck and shoulders and specifically to the trapezius muscle
+ridges. The pain is constant and unrelated to exertion. On physical exam, a pericardial friction rub is heard
+at end-expiration with the patient leaning forward.[12] [13]
+Other presentations
+A monophasic, biphasic, or triphasic pericardial friction rub is pathognomonic of acute pericarditis with
+virtually 100% specificity. The rub can come and go over hours so the sensitivity is based upon the
+frequency of cardiac auscultation, and it is important to examine patients with suspected pericarditis
+repeatedly.[14] In a significant pericardial effusion, there can be signs of cardiac tamponade such as
+tachycardia, tachypnea, pulsus paradoxus, and Beck triad (hypotension, jugular venous distention,
+and distant heart sounds).[15] The presence of high, spiking fevers indicates an infectious etiology. A
+prodrome of myalgias and malaise may be reported, particularly in young adults.[15]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Pericarditis Theory
+THEORY
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Pericarditis Diagnosis
+Recommendations
+Key Recommendations
+Acute pericarditis is a clinical diagnosis. Aspects of the clinical history and presentation, physical exam,
+and ECG need to be combined in order to make the diagnosis. The diagnosis is confirmed in the
+presence of at least 2 of the 4 clinical criteria:[16] [20] [36] [37] [38]
+• Typical chest pain
+• Pericardial friction rub
+• Widespread ST elevation
+• Pericardial effusion.
+Because the most common causes of acute pericarditis usually follow a benign course, it is not essential
+to determine the etiology in all patients, particularly in regions where tuberculosis has a low prevalence.[1]
+In addition, there is a relatively low yield of diagnostic investigations. However, patients should be
+screened for high-risk features, and attempts to determine etiology are recommended so that specific
+causes associated with increased risk of complications can be identified.[1]
+History
+The key finding on history is constant, pleuritic central chest pain that is worse in the recumbent position
+and radiates to one or both trapezius ridges (phrenic nerves both innervate the pericardium and trapezius
+ridges).
+• The pain is sharp, stabbing, pleuritic, or aching, and can mimic the pain of myocardial ischemia or
+infarction, particularly when dull or pressure-like.
+• Trapezius ridge pain is more specific for pericardial pain. Almost all patients report relief of pain
+with sitting up or leaning forward.[39]
+• The pain is generally constant, not related to exertion, and poorly responsive to nitrates.[13] [15]
+The presence of associated high or spiking fever suggests an infectious cause.
+Key risk factors include:[2] [3]
+• Male sex
+• Age 20 to 50 years
+• Transmural myocardial infarction (MI)
+• Cardiac surgery
+• Neoplasm
+• Viral and bacterial infection (e.g., Coxsackie virus A9 or B1-4, Echo 8, mumps, Epstein-Barr virus,
+cytomegalovirus, varicella, rubella, HIV, Parvo-19, SARS-CoV-2, tuberculosis)
+• Uremia
+• Dialysis treatment
+• Systemic autoimmune disorders.
+A history of other underlying causes may also be present including radiation therapy, cardiac surgery,
+percutaneous cardiac interventions, and neoplasms.
+Bacterial pericarditis is a relatively rare entity in the antibiotic era. It is characterized by an acute illness
+with high fever, tachycardia, and cough. Pleuritic or nonpleuritic chest pain is present in a minority
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Pericarditis Diagnosis
+DIAGNOSIS
+of patients. Patients with postoperative bacterial pericarditis have signs of sternal wound infection or
+mediastinitis. The diagnosis requires a high index of suspicion.
+Physical exam
+The presence of a pericardial friction rub on physical exam is a key finding that supports the
+diagnosis.[39] It is heard best at the left lower sternal border and at the cardiac borders. The presence of
+a rub is 100% specific, but it is often absent at initial presentation (rub may be present in less than 33% of
+cases).[1] The rub can come and go over hours, so the sensitivity is based upon the frequency of cardiac
+auscultation and it is important to examine patients with suspected pericarditis repeatedly.[14]
+Constrictive pericarditis should be suspected in a patient with unexplained right heart failure in whom
+there is a history of pericardial disease or predisposing pericardial injury even if the pericardial insult
+predates the clinical presentation by years.[40] Symptoms and signs of right-sided heart failure include
+fatigue, ankle edema, and, in severe cases, ascites.
+Initial workup
+Although diagnosis is essentially clinical, some tests are indicated.[3] [13] [15] [38]
+ECG
+An ECG is very important in the initial round of tests for all patients. Typical ECG changes have been
+reported to occur in up to 60% of cases.[1] The classic ECG changes are global upwardly concave ST-
+segment (J-point) elevations with PR segment depressions in most leads with J-point depression and PR
+elevation in leads aVR and V1. If the patient is seen soon after symptom onset, PR depressions may be
+noted prior to ST elevation. The ECG may evolve over 4 phases: stage 1 consists of ST elevation and
+upright T-waves that may resolve to normal (stage 2) over a period of several days or evolves further to T-
+wave inversion (stage 3) and then to normal (stage 4).
+ECG in a patient with acute pericarditis, showing diffuse ST-segment elevation in
+the precordial leads. There is also PR-segment depression in leads V2-V6 (arrows)
+Rathore S, Dodds PA. BMJ Case Reports 2009; doi:10.1136/bcr.2006.097071
+Laboratory tests
+Blood tests performed in the initial workup are:
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Pericarditis Diagnosis
+• CBC: blood count does not provide definitive insight into the cause or management strategy.
+Leukocytosis with a marked shift to the left may be seen with purulent pericarditis or other
+infectious etiology.[15] Indicated before commencing colchicine therapy, which may cause
+neutropenia and bone marrow suppression.
+• BUN: elevated levels of BUN (particularly >60 mg/dL) suggest a uremic cause.[15]
+• Erythrocyte sedimentation rate (ESR): elevated ESR is consistent with an inflammatory state.[15]
+• C-reactive protein: elevated C-reactive protein is common and consistent with an inflammatory
+state; serial measurement may be helpful for monitoring the activity of the disease and efficacy of
+therapy.[1] [15]
+• Initial and serial serum troponins: elevated levels may be present and may reflect myocardial
+involvement (e.g., myopericarditis), but the test is not specific or sensitive.[12] [15] Plasma
+troponins are elevated in 35% to 50% of patients with pericarditis. The magnitude of elevation
+correlates with the extent of ST-segment elevation and can be in the range considered diagnostic
+of acute MI in some patients. Levels return to normal within 1 to 2 weeks of diagnosis (often within
+days). Elevated levels do not appear to confer prognostic significance.
+Other investigations
+Although rare, purulent pericarditis is immediately life-threatening and requires immediate confirmation
+of diagnosis via urgent pericardiocentesis. Pericardial fluid should be tested for bacterial, fungal, and
+tuberculous causes, and blood should be drawn for culture.
+A chest x-ray is ordered in all patients but is often normal unless there is an associated large pericardial
+effusion, in which a water bottle-shaped enlarged cardiac silhouette is seen. The chest x-ray may also
+demonstrate concomitant lung pathology providing evidence of tuberculosis, fungal disease, pneumonia,
+or a neoplasm that may be related to the disease.
+Follow-up tests
+Other imaging modalities have limited usefulness in uncomplicated acute pericarditis, but are important
+in assessing complications.[13] [15] Echocardiography is indicated especially when cardiac tamponade
+is suspected. It can also help differentiate pericarditis from acute coronary syndromes; global ST
+elevations in the absence of left ventricular (LV) wall motion abnormalities and a trivial pericardial effusion
+support the diagnosis of acute pericarditis. Echocardiography is insensitive to pericardial inflammation
+in dry pericarditis but is important in detecting pericardial effusions. Chest computed tomography and
+increasingly, magnetic resonance imaging, may be used to help diagnose constrictive pericarditis or
+pericardial effusion.[18] [42]
+If tuberculous pericarditis is suspected, diagnostic accuracy can be improved with identification of the
+organism from pericardial fluid or pericardial biopsy.[43] [44] [45] Adenosine deaminase activity within the
+pericardial effusion may also aid in the diagnosis as an adjunctive marker.[46]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Pericarditis Diagnosis
+DIAGNOSIS
+Chest CT showing a double layer of pericardial calcification in a 56-
+year-old male patient with idiopathic calcific constrictive pericarditis
+Patanwala I, Crilley J, Trewby PN. BMJ Case Reports 2009; doi:10.1136/bcr.06.2008.0015
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Pericarditis Diagnosis
+Chest CT in a baby with purulent pericarditis showing a pericardial
+collection with compression of the left (LV) and right (RV) ventricles
+Karuppaswamy V, Shauq A, Alphonso N. BMJ Case Reports 2009; doi:10.1136/bcr.2007.136564
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Pericarditis Diagnosis
+DIAGNOSIS
+Echocardiogram in a baby with purulent pericarditis, showing
+a pericardial collection. LV = left ventricle, RV = right ventricle
+Karuppaswamy V, Shauq A, Alphonso N. BMJ Case Reports 2009; doi:10.1136/bcr.2007.136564
+History and exam
+Key diagnostic factors
+chest pain (common)
+This is the most common symptom and occurs in more than 85% of cases.[1] Pain is sharp, stabbing,
+pleuritic, or aching, and can mimic the pain of myocardial ischemia or infarction, particularly when dull
+or pressure-like. Trapezius ridge pain is more specific for pericardial pain. Almost all patients report
+relief of pain with sitting up or leaning forward. The pain is generally constant, not related to exertion,
+and poorly responsive to nitrates.[13] [15]
+pericardial rub (common)
+May be present in <33% of cases.[1] The rub, when present, is described as high-pitched or squeaky.
+It is heard best at the left sternal edge with the patient leaning forward at end-expiration.[12] The rub
+can come and go over hours, so the sensitivity is based upon the frequency of cardiac auscultation
+and it is important to examine patients with suspected pericarditis repeatedly.[14]
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Pericarditis Diagnosis
+Other diagnostic factors
+fever (uncommon)
+Indicates an infectious etiology, particularly when high or spiking.[13] [15]
+myalgias (uncommon)
+A prodrome of myalgias and malaise may be present with any cause of acute pericarditis, particularly
+in young adults.
+signs of right-sided heart failure (uncommon)
+Symptoms and signs of right-sided heart failure include fatigue, ankle edema, and, in severe cases,
+ascites.
+Constrictive pericarditis should be suspected in a patient with unexplained right heart failure in whom
+there is a history of pericardial disease or predisposing pericardial injury even if the pericardial insult
+predates the clinical presentation by years.[40]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Pericarditis Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+ECG
+This is the most useful diagnostic test and should be ordered in all
+patients.
+The classic ECG changes are global upwardly concave ST-segment
+(J-point) elevations with PR segment depressions in most leads with
+J-point depression and PR elevation in leads aVR and V1. If the
+patient is seen soon after symptom onset, PR depressions may be
+noted prior to ST elevation.
+ECG changes occur in 60% of patients.[1] Temporal evolution of the
+ECG changes is highly variable.
+ECG in a patient with acute pericarditis, showing diffuse
+ST-segment elevation in the precordial leads. There is
+also PR-segment depression in leads V2-V6 (arrows)
+Rathore S, Dodds PA. BMJ Case Reports
+2009; doi:10.1136/bcr.2006.097071
+upward concave ST-segment
+elevation globally with PR
+depressions
+serum troponin
+Serum troponin can be ordered in all patients initially and serially.[12]
+[15]
+Elevated levels may be present and may reflect myocardial
+involvement (e.g., myopericarditis).
+Plasma troponins are elevated in 35% to 50% of patients with
+pericarditis.
+The magnitude of elevation correlates with extent of ST-segment
+elevation.
+Levels can be in the range considered diagnostic of acute myocardial
+infarction in some patients. Levels return to normal within 1 to
+mildly elevated
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Pericarditis Diagnosis
+Test Result
+2 weeks of diagnosis. Elevated levels do not appear to confer
+prognostic significance.
+This test is not specific or sensitive.
+pericardial fluid/blood culture
+Purulent pericarditis is immediately life-threatening and requires
+immediate confirmation of diagnosis via urgent pericardiocentesis.
+Pericardial fluid should be tested for bacterial, fungal, and
+tuberculous causes, and blood should be drawn for culture.
+positive if infectious cause
+erythrocyte sedimentation rate (ESR)
+Elevated ESR is consistent with an inflammatory state.[15]
+Serial measurements may be helpful for monitoring disease activity
+and response to therapy.
+may be elevated
+CRP
+Elevated CRP is consistent with an inflammatory state.[15]
+Serial measurements may be helpful for monitoring disease activity
+and response to therapy.[1] [15]
+may be elevated
+serum BUN
+Elevated levels of BUN (particularly >60 mg/dL) suggest a uremic
+cause.[15]
+elevated >60 mg/dL in renal
+failure
+CBC
+Blood count does not provide definitive insight into the cause or
+management strategy. Leukocytosis with a marked shift to the left
+may be seen with purulent pericarditis or other infectious etiology.[15]
+Indicated before commencing colchicine therapy, which may cause
+neutropenia and bone marrow suppression.
+elevated white blood cells
+chest x-ray
+Usually normal, unless a large pericardial effusion (>300 mL) is
+present, in which case the cardiothoracic ratio will be increased.[1]
+Can also demonstrate concomitant lung pathology providing evidence
+of tuberculosis, fungal disease, pneumonia, or neoplasm that may be
+related to the disease.
+normal or water-bottle-shaped
+enlarged cardiac silhouette
+echocardiography
+Indicated especially when cardiac tamponade is suspected. Can
+potentially help differentiate from acute coronary syndromes. Global
+ST elevations in the absence of left ventricular (LV) wall motion
+abnormalities and a trivial pericardial effusion supports the diagnosis
+of acute pericarditis. Insensitive to pericardial inflammation in dry
+pericarditis but is important in detecting pericardial effusions, which
+are found in up to 60% of cases and are generally small in size.[1]
+[47]
+may show a pericardial
+effusion; absence of LV wall
+motion abnormalities
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Pericarditis Diagnosis
+DIAGNOSIS
+Test Result
+Echocardiogram in a baby with purulent pericarditis, showing
+a pericardial collection. LV = left ventricle, RV = right ventricle
+Karuppaswamy V, Shauq A, Alphonso N. BMJ
+Case Reports 2009; doi:10.1136/bcr.2007.136564
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Pericarditis Diagnosis
+Other tests to consider
+Test Result
+chest CT or cardiac MRI
+When the clinical presentation suggests other than uncomplicated
+pericarditis or the presentation is atypical, additional imaging with CT
+or MRI may be useful.[18] [42] [47]
+May detect complications such as pericardial effusion or constrictive
+pericarditis, especially when the echocardiographic findings are
+inconclusive. Additional diagnostic information may also be obtained
+when there is associated chest trauma, particularly when penetrating;
+or in the setting of acute myocardial infarction, carcinoma, pulmonary
+or thoracic infection, or pancreatitis.
+In cases of suspected constrictive pericarditis, CT and MRI provide
+accurate measurements of pericardial thickness and extent of
+pericardial thickening, which can be helpful for preoperative planning
+prior to pericardiectomy.[42]
+Chest CT showing a double layer of pericardial calcification in a 56-
+year-old male patient with idiopathic calcific constrictive pericarditis
+Patanwala I, Crilley J, Trewby PN. BMJ Case
+Reports 2009; doi:10.1136/bcr.06.2008.0015
+pericardial effusion or
+constrictive pericarditis
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Pericarditis Diagnosis
+DIAGNOSIS
+Test Result
+Chest CT in a baby with purulent pericarditis showing a pericardial
+collection with compression of the left (LV) and right (RV) ventricles
+Karuppaswamy V, Shauq A, Alphonso N. BMJ
+Case Reports 2009; doi:10.1136/bcr.2007.136564
+pericardiocentesis/biopsy
+If tuberculous pericarditis is suspected, diagnostic accuracy can be
+improved with identification of the organism from pericardial fluid or
+pericardial biopsy.[43] [44] [45]
+Adenosine deaminase activity within the pericardial effusion may also
+aid in the diagnosis as an adjunctive marker.[46]
+acid-fast bacilli, positive
+culture of  Mycobacterium
+tuberculosis
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Pericarditis Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Pulmonary embolism (PE) • Chest pain can be anterior,
+posterior, or lateral in
+location. It is in phase
+with respiration (no chest
+pain when the patient
+ceases breathing) and is not
+positional in nature.
+• Pericardial friction rub is
+rarely present.
+• A pleural friction rub can
+be detected in 3% of
+patients.[12] [28] [48]
+• If a patient has concomitant
+pericarditis and PE, a
+risk for tamponade exists
+when using anticoagulation
+due to bleeding in the
+pericardial space.[49]
+Monitoring for worsening
+effusion is recommended,
+with consideration of risk/
+benefit for those who are
+anticoagulated.
+• Computed tomographic
+pulmonary angiography will
+show direct visualization of
+thrombus in a pulmonary
+artery.
+• Elevation of D-dimer (this
+may also be raised in
+pericarditis).[50]
+• ECG may show evidence of
+right ventricular dysfunction;
+however, ECG cannot
+definitively establish
+or eliminate PE as a
+diagnosis.[51] [52] [53]
+Myocardial infarction or
+ischemia
+• Chest pain is described
+as pressure-like, heavy,
+squeezing, and responsive
+to nitroglycerin. There is
+generally no variation with
+respiration or positional
+changes. Duration of pain is
+minutes to hours, rather than
+hours to days. Pericardial
+friction rub is generally
+absent (unless there is
+associated pericarditis).[12]
+[28] [48]
+• ECG may show convex ST
+elevations in the distribution
+of coronary arteries; Q-
+waves may be present; PR
+segment depression is rare;
+inverted T-waves when ST
+segments are still elevated.
+Significant elevation
+of serum troponin and
+cardiac enzymes present if
+myocardial damage.
+• Coronary angiogram
+(invasive or CT) shows
+presence of thrombus with
+occlusion of the artery.
+Pneumonia • Associated with cough and
+fever. Note that the presence
+of pneumonia may also be
+related to the presence of
+concomitant pericarditis.
+• Chest x-ray may show
+evidence of infiltrates.
+• The absence of concomitant
+ECG findings supporting
+pericarditis excludes
+significant pericardial
+involvement.
+Pneumothorax • Many of the signs and
+symptoms may overlap
+including sudden onset
+shortness of breath,
+• Chest x-ray confirms lung
+collapse.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Pericarditis Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+tachycardia, and chest pain.
+Pericarditis pain may be
+more positional in nature.
+• Physical examination reveals
+absence of breath sounds,
+generally unilaterally.
+• Tracheal deviation may also
+be present.
+Costochondritis • There is reproducible
+tenderness with palpation of
+the costochondral junctions.
+The pain is exacerbated by
+moving the trunk.
+• Physical examination is
+otherwise normal.
+• Normal ECG.
+• Echocardiography shows
+no evidence of pericardial
+involvement.
+Myocarditis • May be preceded by viral
+infection (or more rarely,
+bacterial or fungal infection).
+• Symptoms of myocarditis
+include chest pain (which
+may be pleuritic as a result
+of concomitant pericarditis),
+palpitations, fatigue, or
+signs of heart failure (e.g.,
+peripheral edema, increasing
+dyspnea, and weight gain).
+• The definitive test is
+endomyocardial biopsy,
+which shows lymphocyte
+infiltration and myocyte
+necrosis.
+• Cardiac enzymes or brain
+natriuretic protein may be
+raised.
+• Leukocytosis, eosinophilia,
+elevated erythrocyte
+sedimentation rate and
+C-reactive protein, and a
+rise in serum viral titres are
+common.
+Criteria
+Clinical classification[1]
+Pericarditis can be classified by duration of inflammation as well as by etiology and complications/sequelae.
+A. Acute pericarditis (new onset, <4-6 weeks)
+• Inflammatory pericardial syndrome associated with at least 2 of the following 4 criteria:
+• Pericarditic chest pain
+• Pericardial friction rubs
+• New diffuse electrocardiographic ST-elevations or PR depressions
+• New or worsening pericardial effusion.
+• Additional supporting findings include:
+• Elevated inflammatory markers (i.e., CRP, ESR, WBC count)
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Pericarditis Diagnosis
+• Evidence of pericardial inflammation by advanced imaging techniques (i.e., cardiac CT or MRI).
+• Can be associated with a pericardial effusion that is fibrinous or effusive (serous or serosanguinous).
+B. Incessant pericarditis
+• Signs and symptoms lasting >4-6 weeks but <3 months without remission.
+C. Recurrent pericarditis
+• Recurrence of signs and symptoms after an initial documented episode of acute pericarditis with an
+intervening symptom-free interval of ≥4-6 weeks.
+D. Chronic pericarditis
+• Signs and symptoms persisting for >3 months.
+Subtypes:
+• Constrictive (due to chronically thickened pericardium)
+• Effusive-constrictive (combination of tense effusion in the pericardial space and constriction by the
+thickened pericardium)
+• Adhesive (nonconstrictive).
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Pericarditis Management
+MANAGEMENT
+Recommendations
+Key Recommendations
+Treatment is directed at any identified underlying disorder with supportive management directed at relief
+of symptoms. Hospitalization is generally recommended to determine etiology where possible, observe for
+complications such as cardiac tamponade, and gauge response to therapy.
+Initial management of patients with suspected pericarditis
+Any patient with a clinical presentation that suggests an underlying etiology should be admitted to hospital
+for further investigation and treatment.[1]
+Patients with at least one predictor of poor prognosis (major or minor risk factors below) should also be
+admitted.[1]
+Major risk factors:
+• High fever (i.e., >100.4°F [>38°C])
+• Subacute course (i.e., symptoms over several days without a clear-cut acute onset)
+• Evidence of a large pericardial effusion (i.e., diastolic echo-free space >20 mm)
+• Cardiac tamponade
+• Failure to respond within 7 days to a nonsteroidal anti-inflammatory drug (NSAID).
+Minor risk factors:
+• Pericarditis associated with myocarditis (myopericarditis)
+• Immunosuppression
+• Trauma
+• Oral anticoagulant therapy.
+Patients with any of these risk factors warrant careful observation and follow-up. Some patients without
+any of these features can be managed as an outpatient if considered appropriate. In these cases, the
+patient should be started on treatment (i.e., empiric anti-inflammatories) with follow-up after 1 week to
+assess the response to treatment.[1]
+Pericardial effusion
+If a pericardial effusion is present, pericardiocentesis is indicated for clinical tamponade, for high
+suspicion of purulent or neoplastic pericarditis, or if the effusion is large or symptomatic.[1] In the absence
+of these indications, medical therapy is started as dictated by the cause.
+Purulent disease
+Purulent pericarditis is immediately life-threatening and requires immediate confirmation of diagnosis via
+urgent pericardiocentesis. Pericardial fluid should be tested for bacterial, fungal, and tuberculous causes,
+and blood should be drawn for culture.[1]
+If purulent pericarditis is suspected, urgent percutaneous pericardiocentesis with rinsing of the pericardial
+cavity and intravenous antibiotics are mandatory. Empiric intravenous antibiotic therapy is recommended
+until microbiologic results are available.[1] There are limited data available to guide antibiotic selection,
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Pericarditis Management
+but experts typically recommend a regimen that contains an antistaphylococcal antibiotic. The choice
+of antibiotics will depend on various factors including local resistance patterns and MRSA prevalence.
+Follow your local protocols and seek microbiology or infectious disease advice. Empiric therapy should be
+switched to tailored therapy depending on the underlying pathogens identified from pericardial fluid and
+blood cultures.[1]
+Therapy with systemic antibiotics should be continued until fever and clinical signs of infection, including
+leukocytosis, have resolved.[3]
+An NSAID should also be started on diagnosis for symptom management with a proton-pump inhibitor
+to reduce gastrointestinal adverse effects; the dose should be tapered after 1-2 weeks according to
+symptoms.[1] [14] Acetaminophen or an opioid can be considered if NSAIDs are not effective or are
+contraindicated. Colchicine should only be used with caution in patients with purulent pericarditis as it
+may interfere with leukocyte function and infection clearance.[54]
+Open surgical drainage via a subxiphoid pericardiotomy is also required.[1] Pericardiectomy in these
+patients is necessary in the presence of dense adhesions or loculations, persistent bacteremia, recurrent
+tamponade, or progression to constrictive physiology.[1] [37]
+Open surgery in a baby with purulent pericarditis; the abscess is indicated by the arrow
+Karuppaswamy V, Shauq A, Alphonso N. BMJ Case Reports 2009; doi:10.1136/bcr.2007.136564
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Pericarditis Management
+MANAGEMENT
+Exercise should be restricted until chest pain resolves and inflammatory markers have normalized.[55]
+ A minimum of 3 months is often considered appropriate (and recommended for patients involved in
+competitive sports), but shorter periods of exercise restriction may be considered depending on patient
+and disease characteristics (e.g., nonathletes and/or mild clinical picture).[1] [14] [37] [56]
+Nonpurulent disease: first presentation
+NSAIDs are given for symptom relief.[16] [20] [37] [57] They reduce fever, chest pain, and inflammation
+but do not prevent tamponade, constriction, or recurrent pericarditis.[37] [38] NSAIDs are given with
+a proton-pump inhibitor to decrease the risk of gastrointestinal adverse effects (e.g., ulcer formation);
+consider tapering the dose after 1-2 weeks according to symptoms.[1] [14] Ibuprofen is frequently used
+because of its favorable side-effect profile compared with other drugs in this class; however, choice of
+drug should be based on patient characteristics (e.g., contraindications, previous efficacy, or adverse
+effects) and physician expertise.[1] [18] Aspirin is preferred if required for persistent symptoms due to
+early pericarditis or late pericarditis post-myocardial infarction (MI) as other NSAIDs adversely affect
+myocardial healing, and for its antiplatelet activity. Glucocorticoids and NSAIDs (other than aspirin) are
+not indicated for post-MI pericarditis due to the potential for harm.[58] If NSAIDs or high-dose aspirin are
+not effective or are contraindicated, acetaminophen or an opioid may be considered.
+Colchicine is recommended as a first-line adjunct therapy to NSAIDs as it improves response, decreases
+recurrences, and increases remission rates.[1] [59] It is given for 3 months in this setting.[1] [20] [57] [60]
+The addition of colchicine should be considered in patients with postcardiotomy injury syndromes (e.g.,
+Dressler syndrome, which generally occurs 1-2 weeks after an MI; or postcardiac surgery), provided
+there are no contraindications and it is well tolerated. Preventive administration is recommended for 1
+month. Careful follow-up with echocardiography every 6 to 12 months according to clinical features and
+symptoms should be considered to exclude possible evolution towards constrictive pericarditis.[1]
+In cases of idiopathic or postviral pericarditis, if chest pain has not resolved after 2 weeks, a corticosteroid
+can be considered as an option in patients who do not respond to anti-inflammatory therapy, or
+for patients in whom an NSAID is contraindicated, once an infectious cause has been excluded.
+Corticosteroids are not recommended in patients with viral pericarditis because of the risk of re-activation
+of the viral infection and ongoing inflammation. Corticosteroids may also be used when there is a specific
+indication for their use (e.g., the presence of an autoimmune disease). They are used in combination
+with colchicine for this indication. Corticosteroids are less favored compared with NSAIDs because of the
+risks of promoting chronic and/or recurrent disease, and side effects.[1] If used, low to moderate doses
+are preferred over high doses.[18] The initial dose should be maintained until symptoms have resolved
+and the C-reactive protein (CRP) level has normalized. Once this is achieved, the dose may be gradually
+tapered.[1]
+In addition to the above treatment, the underlying cause should also be treated if known. Underlying
+causes include viral infections (e.g., Coxsackie virus A9, B1-4, Echo 8, mumps, Epstein-Barr virus,
+cytomegalovirus, varicella, rubella, HIV, Parvo-19, SARS-CoV-2), tuberculosis (a common cause in
+the developing world), secondary immune processes (e.g., rheumatic fever, postcardiotomy syndrome,
+post-MI syndrome), metabolic disorders (e.g., uremia, myxedema), radiation therapy, cardiac surgery,
+percutaneous cardiac interventions, systemic autoimmune disorders (e.g., rheumatoid arthritis, systemic
+sclerosis, reactive arthritis, familial Mediterranean fever, systemic vasculitides, inflammatory bowel
+disease), bacterial/fungal/parasitic infections, trauma, certain drugs, and neoplasms.
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Pericarditis Management
+In patients with tuberculous pericarditis, first-line treatment is 4 to 6 weeks of antituberculous therapy.[1]
+[3] [16] [37] [61] When tuberculous pericarditis is confirmed in an nonendemic area, a suitable 6-month
+regimen is effective; empiric therapy is not required in the absence of an established diagnosis in
+nonendemic areas.[1] Adjunctive therapies such as colchicine, corticosteroids, and immunotherapy
+have not been shown to be beneficial.[62] [63] [64] [65] However, corticosteroids may be considered in
+patients with tuberculous pericarditis who are HIV-negative.[66]  Pericardiectomy is recommended if the
+patient does not improve or is deteriorating after 4 to 8 weeks of antituberculosis therapy.[1] [67] Most
+patients with uremic pericarditis respond to intensive dialysis within 1 to 2 weeks. Autoimmune disorders
+are treated with corticosteroids and/or other immunosuppressive therapies depending on the specific
+condition. Treatment of neoplasms may involve any combination of radiation therapy, chemotherapy, or
+surgery, depending on the type of tumor identified.[37] [38] Patients with viral pericarditis may benefit from
+specific antiviral therapy; however, an infectious disease attending should be involved.
+Exercise should be restricted until chest pain resolves and inflammatory markers have normalized.[55]
+ A minimum of 3 months is often considered appropriate (and is recommended for those participating in
+competitive sports), but shorter periods of exercise restriction may be considered depending on patient
+and disease characteristics (e.g., nonathletes and/or mild clinical picture).[1] [14] [37] [56]
+Nonpurulent disease: recurrent
+For recurrent pericarditis, patients are treated with an NSAID plus colchicine, as well as exercise
+restriction. The NSAID should be continued until symptoms resolve, and the colchicine continued for 6
+months to prevent recurrence. A longer duration of therapy for colchicine can be considered in resistant
+cases. CRP levels should be used to guide therapy and response. Once the CRP has normalized, drug
+therapy can be tapered gradually according to symptoms and the CRP level.[1]
+For patients who do not respond to an NSAID plus colchicine, corticosteroid therapy can be considered as
+for patients at the initial presentation. Third-line therapies in recurrent disease are immunosuppressants,
+including intravenous immunoglobulin (IVIG), interleukin-1 inhibitors (anakinra, and rilonacept), and
+azathioprine.[68] All are off-label for pericarditis, except for rilonacept which is approved for recurrent
+pericarditis (but not first presentations).[18] [42] These therapies should be used in consultation with a
+rheumatologist.[1] [20] [57] [69] [70] [71] [72] Further studies are needed.
+For patients with persistent, symptomatic recurrence refractory to all medical treatment, pericardiotomy is
+recommended.[1] In tuberculous pericarditis, patients in whom there are recurrent effusions or evidence
+of constrictive physiology despite medical therapy, are treated surgically with pericardiectomy.[3] It is
+particularly recommended if the patient’s condition is not improving or is deteriorating after 4 to 8 weeks of
+antituberculosis therapy. Standard antituberculosis drugs for 6 months is recommended for the prevention
+of tuberculous pericardial constriction.[1]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Pericarditis Management
+MANAGEMENT
+Pericardectomy in a 56-year-old male patient with idiopathic calcific
+constrictive pericarditis. The pericardium is thickened and calcified
+Patanwala I, Crilley J, Trewby PN. BMJ Case Reports 2009; doi:10.1136/bcr.06.2008.0015
+Pericardiectomy may also be necessary for treatment of recurrent nontuberculous pericarditis refractory
+to standard therapies, where constriction is present (e.g., following cardiac surgery or radiation therapy, or
+idiopathic constrictive pericarditis).[42] [73]
+Exercise should be restricted until chest pain resolves and inflammatory markers have normalized.[55]
+ A minimum of 3 months is often considered appropriate (and recommended for patients involved in
+competitive sports), but shorter periods of exercise restriction may be considered depending on patient
+and disease characteristics (e.g., nonathletes and/or mild clinical picture).[1] [14] [37] [56]
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Pericarditis Management
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial ( summary )
+suspected pericarditis
+1st assess risk and consider admission to
+hospital
+consider pericardiocentesis
+Acute ( summary )
+purulent
+1st pericardiocentesis + intravenous
+antibiotics
+plus nonsteroidal anti-inflammatory drug
+(NSAID) or alternative analgesia
+plus exercise restriction
+consider proton-pump inhibitor
+consider colchicine
+2nd pericardiotomy/pericardiectomy
+non-purulent
+idiopathic 1st nonsteroidal anti-inflammatory drug
+(NSAID) or alternative analgesia
+plus colchicine
+plus exercise restriction
+consider proton-pump inhibitor
+2nd corticosteroid
+plus colchicine
+plus exercise restriction
+not idiopathic 1st treatment of the underlying cause
+plus nonsteroidal anti-inflammatory drug
+(NSAID) or alternative analgesia
+plus exercise restriction
+consider colchicine
+consider proton-pump inhibitor
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Pericarditis Management
+MANAGEMENT
+Ongoing ( summary )
+recurrent disease
+1st nonsteroidal anti-inflammatory drug
+(NSAID) or alternative analgesia
+plus colchicine
+plus exercise restriction
+plus treatment of the underlying cause
+consider proton-pump inhibitor
+2nd corticosteroid
+plus colchicine
+plus exercise restriction
+3rd immunosuppressant
+plus exercise restriction
+4th pericardiectomy
+plus exercise restriction
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Pericarditis Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial
+suspected pericarditis
+1st assess risk and consider admission to
+hospital
+» Any patient with a clinical presentation that
+suggests an underlying etiology should be
+admitted to hospital for further investigation and
+treatment.[1]
+» Patients with at least one predictor of poor
+prognosis (major or minor risk factors below)
+should also be admitted.[1] Patients with any of
+these risk factors warrant careful observation
+and follow-up.
+» Major risk factors include: high fever (i.e.,
+>100.4°F [>38°C]); subacute course (i.e.,
+symptoms over several days without a clear-
+cut acute onset); evidence of a large pericardial
+effusion (i.e., diastolic echo-free space >20 mm);
+cardiac tamponade; failure to respond within 7
+days to a nonsteroidal anti-inflammatory drug
+(NSAID).
+» Minor risk factors include: pericarditis
+associated with myocarditis (myopericarditis);
+immunosuppression; trauma; oral anticoagulant
+therapy. Patients with any of these risk factors
+warrant careful observation and follow-up.
+» Some patients without any of these features
+can be managed as an outpatient if considered
+appropriate. In these cases, the patient should
+be started on treatment (i.e., empiric anti-
+inflammatories) with follow-up after 1 week to
+assess the response to treatment.[1]
+consider pericardiocentesis
+Treatment recommended for SOME patients in
+selected patient group
+» Pericardiocentesis is indicated for clinical
+tamponade, for high suspicion of purulent
+or neoplastic pericarditis, or for large or
+symptomatic effusions.[1] [37] [38]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Pericarditis Management
+MANAGEMENT
+Acute
+purulent
+1st pericardiocentesis + intravenous
+antibiotics
+» Purulent pericarditis is immediately life-
+threatening and requires immediate confirmation
+of diagnosis via urgent pericardiocentesis.
+Pericardial fluid should be tested for bacterial,
+fungal, and tuberculous causes, and blood
+should be drawn for culture.[1]
+» Urgent rinsing of the pericardial cavity and
+intravenous antibiotics are mandatory.[37] [38]
+» Empiric intravenous antibiotic therapy is
+recommended until microbiologic results are
+available. There are limited data available to
+guide selection of the best empiric regimen,
+but experts typically recommend a regimen
+that contains an antistaphylococcal antibiotic.
+The choice of antibiotics will depend on various
+factors including local resistance patterns
+and MRSA prevalence. Follow your local
+protocols for choice of antibiotics and seek
+microbiology or infectious disease advice.
+Empiric therapy should be switched to tailored
+therapy depending on the underlying pathogens
+identified from pericardial fluid and blood
+cultures.[1]
+» Therapy with systemic antibiotics should
+be continued until fever and clinical signs of
+infection, including leukocytosis, have resolved.
+plus nonsteroidal anti-inflammatory drug
+(NSAID) or alternative analgesia
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» ibuprofen: 600 mg orally every 8 hours for
+1-2 weeks, then decrease dose by 200-400
+mg every 1-2 weeks
+OR
+» aspirin: 750-1000 mg orally every 8 hours
+for 1-2 weeks, then decrease dose by
+250-500 mg every 1-2 weeks
+Secondary options
+» acetaminophen: 325-1000 mg orally every
+4-6 hours when required, maximum 4000 mg/
+day
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Pericarditis Management
+Acute
+OR
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+» An NSAID should be started immediately
+on diagnosis for symptom management.[16]
+[20] [37] [57] Consider tapering the dose after
+1-2 weeks according to symptoms.[1] NSAIDs
+reduce fever, chest pain, and inflammation
+but do not prevent tamponade, constriction, or
+recurrent pericarditis.[37] [38]
+» Choice of drug is based on patient
+characteristics (e.g., contraindications, previous
+efficacy, or side effects), the presence of
+concomitant diseases (e.g., aspirin is favored
+over other NSAIDs if antiplatelet therapy is
+required), and physician expertise.[1]
+» Alternatively, acetaminophen or an opioid (e.g.,
+codeine) can be considered if NSAIDs are not
+effective or are contraindicated.
+plus exercise restriction
+Treatment recommended for ALL patients in
+selected patient group
+» Exercise should be restricted until chest
+pain resolves and inflammatory markers have
+normalized.[55] A minimum of 3 months is often
+considered appropriate (and recommended
+for patients involved in competitive sports), but
+shorter periods of exercise restriction may be
+considered depending on patient and disease
+characteristics (e.g., nonathletes and/or mild
+clinical picture).[1] [14] [37] [56]
+consider proton-pump inhibitor
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» esomeprazole: 20-40 mg orally once daily
+OR
+» lansoprazole: 15-30 mg orally once daily
+» Due to the high doses of NSAIDs used, a
+proton-pump inhibitor (e.g., esomeprazole,
+lansoprazole) is given alongside NSAID therapy
+(if used) to protect against gastrointestinal ulcer
+formation.[12] [14] [37] [38]
+consider colchicine
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Pericarditis Management
+MANAGEMENT
+Acute
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» colchicine: <70 kg body weight: 0.6 mg
+orally once daily; ≥70 kg body weight: 0.6 mg
+orally twice daily
+» Should be used with caution in patients with
+purulent pericarditis as it may interfere with
+leukocyte function and infection clearance.[54]
+» It is given for 3 months in the setting of acute
+pericarditis.[1] [20] [57] [60]
+» While tapering the dose is not mandatory,
+it can be considered in the last few weeks of
+treatment to prevent persistence of symptoms
+and recurrence.[1]
+» Before commencing treatment, a baseline
+complete blood count (CBC) is indicated
+as colchicine may cause neutropenia and
+bone marrow suppression. Caution should be
+exercised in renal and hepatic impairment as
+its use may be contraindicated in patients on
+certain medications.
+2nd pericardiotomy/pericardiectomy
+» Open surgical drainage via a subxiphoid
+pericardiotomy should be considered.[1]
+» Pericardiectomy is necessary in the presence
+of dense adhesions or loculations, persistent
+bacteremia, recurrent tamponade, or progression
+to constrictive physiology.[1] [37]
+Open surgery in a baby with purulent
+pericarditis; the abscess is indicated by the arrow
+Karuppaswamy V, Shauq A,
+Alphonso N. BMJ Case Reports
+2009; doi:10.1136/bcr.2007.136564
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Pericarditis Management
+Acute
+non-purulent
+idiopathic 1st nonsteroidal anti-inflammatory drug
+(NSAID) or alternative analgesia
+Primary options
+» ibuprofen: 600 mg orally every 8 hours for
+1-2 weeks, then decrease dose by 200-400
+mg every 1-2 weeks
+OR
+» aspirin: 750-1000 mg orally every 8 hours
+for 1-2 weeks, then decrease dose by
+250-500 mg every 1-2 weeks
+Secondary options
+» acetaminophen: 325-1000 mg orally every
+4-6 hours when required, maximum 4000 mg/
+day
+OR
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+» An NSAID should be started immediately
+on diagnosis for symptom management.[16]
+[20] [37] [57] Consider tapering the dose after
+1-2 weeks according to symptoms.[1] NSAIDs
+reduce fever, chest pain, and inflammation
+but do not prevent tamponade, constriction, or
+recurrent pericarditis.[37] [38]
+» Choice of drug is based on patient
+characteristics (e.g., contraindications, previous
+efficacy, or side effects), the presence of
+concomitant diseases (e.g., aspirin is favored
+over other NSAIDs if antiplatelet therapy is
+required), and physician expertise.[1]
+» Alternatively, acetaminophen or an opioid (e.g.,
+codeine) can be considered if NSAIDs are not
+effective or are contraindicated.
+plus colchicine
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» colchicine: <70 kg body weight: 0.6 mg
+orally once daily; ≥70 kg body weight: 0.6 mg
+orally twice daily
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Pericarditis Management
+MANAGEMENT
+Acute
+» Improves response, decreases recurrence,
+and increases remission rates.[1] [59] It is given
+for 3 months in this setting.[1] [20] [57] [60]
+» While tapering the dose is not mandatory,
+it can be considered in the last few weeks of
+treatment to prevent persistence of symptoms
+and recurrence.[1]
+» Before commencing treatment, a baseline
+complete blood count (CBC) is indicated
+as colchicine may cause neutropenia and
+bone marrow suppression. Caution should be
+exercised in renal and hepatic impairment as
+its use may be contraindicated in patients on
+certain medications.
+plus exercise restriction
+Treatment recommended for ALL patients in
+selected patient group
+» Exercise should be restricted until chest
+pain resolves and inflammatory markers have
+normalized.[55] A minimum of 3 months is often
+considered appropriate (and recommended
+for patients involved in competitive sports), but
+shorter periods of exercise restriction may be
+considered depending on patient and disease
+characteristics (e.g., nonathletes and/or mild
+clinical picture).[1] [14] [37] [56]
+consider proton-pump inhibitor
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» esomeprazole: 20-40 mg orally once daily
+OR
+» lansoprazole: 15-30 mg orally once daily
+» Due to the high doses of NSAIDs used, a
+proton-pump inhibitor (e.g., esomeprazole,
+lansoprazole) is given alongside NSAID therapy
+(if used) to protect against gastrointestinal ulcer
+formation.[12] [14] [37] [38]
+2nd corticosteroid
+Primary options
+» prednisone: 0.25 to 0.5 mg/kg/day orally,
+taper gradually after resolution of symptoms
+and normalization of CRP
+Tapering regimen depends on the starting
+dose. Starting dose >50 mg/day (taper dose
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Pericarditis Management
+Acute
+by 10 mg/day every 1-2 weeks); starting dose
+25-50 mg/day (taper dose by 5-10 mg/day
+every 1-2 weeks); starting dose 15-25 mg/day
+(taper dose by 2.5 mg/day every 2-4 weeks);
+starting dose <15 mg/day (taper dose by 1.25
+to 2.5 mg/day every 2-6 weeks).
+» A corticosteroid can be considered in patients
+who do not respond to anti-inflammatory therapy
+or in whom an NSAID is contraindicated,
+once an infectious cause has been excluded.
+Corticosteroids are not recommended in patients
+with viral pericarditis because of the risk of
+re-activation of viral infection and ongoing
+inflammation. Corticosteroids may also be used
+when there is a specific indication for their use
+(e.g., presence of an autoimmune disease).[1]
+» They are used in combination with colchicine
+for this indication.[1]
+» Corticosteroids are less favored compared
+to NSAIDs because of the risks of promoting
+chronic and/or recurrent disease, and side
+effects.[1]
+» If used, low to moderate doses are preferred
+over high doses.[18] The initial dose should
+be maintained until symptoms have resolved
+and the C-reactive protein (CRP) level has
+normalized. Once this is achieved, the dose may
+be gradually tapered.[1]
+plus colchicine
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» colchicine: <70 kg body weight: 0.6 mg
+orally once daily; ≥70 kg body weight: 0.6 mg
+orally twice daily
+» Improves response, decreases recurrence,
+and increases remission rates.[1] [59] It is given
+for 3 months in this setting.[1] [20] [57] [60]
+» While tapering the dose is not mandatory,
+it can be considered in the last few weeks of
+treatment to prevent persistence of symptoms
+and recurrence.[1]
+» Before commencing treatment, a baseline
+complete blood count (CBC) is indicated
+as colchicine may cause neutropenia and
+bone marrow suppression. Caution should be
+exercised in renal and hepatic impairment as
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Pericarditis Management
+MANAGEMENT
+Acute
+its use may be contraindicated in patients on
+certain medications.
+plus exercise restriction
+Treatment recommended for ALL patients in
+selected patient group
+» Exercise should be restricted until chest
+pain resolves and inflammatory markers have
+normalized.[55] A minimum of 3 months is often
+considered appropriate (and recommended
+for patients involved in competitive sports), but
+shorter periods of exercise restriction may be
+considered depending on patient and disease
+characteristics (e.g., nonathletes and/or mild
+clinical picture).[1] [14] [37] [56]
+not idiopathic 1st treatment of the underlying cause
+» Underlying causes include viral infections
+(e.g., Coxsackie virus A9, B1-4, Echo 8,
+mumps, Epstein-Barr virus, cytomegalovirus,
+varicella, rubella, HIV, Parvo-19, SARS-CoV-2),
+tuberculosis (a common cause in the developing
+world), secondary immune processes (e.g.,
+rheumatic fever, postcardiotomy syndrome, post-
+myocardial infaction [MI] syndrome) metabolic
+disorders (e.g., uremia, myxedema), radiation
+therapy, cardiac surgery, percutaneous cardiac
+interventions, systemic autoimmune disorders
+(e.g., rheumatoid arthritis, systemic sclerosis,
+reactive arthritis, familial Mediterranean fever,
+systemic vasculitides, inflammatory bowel
+disease), bacterial/fungal/parasitic infections,
+trauma, certain drugs, and neoplasms. Patients
+with viral pericarditis may benefit from specific
+antiviral therapy; however, an infectious disease
+attending should be involved.
+» In patients with tuberculous pericarditis, first-
+line treatment is 4 to 6 weeks of antituberculous
+therapy.[1] When tuberculous pericarditis is
+confirmed in a nonendemic area, a suitable 6-
+month regimen is effective; empiric therapy is
+not required in the absence of an established
+diagnosis in nonendemic areas.[1] Adjunctive
+therapies such as colchicine, corticosteroids,
+and immunotherapy have not been shown
+to be beneficial.[62] [63] [64] [65] However,
+corticosteroids may be considered in patients
+with tuberculous pericarditis who are HIV-
+negative.[66]  Pericardiectomy is recommended
+if the patient does not improve or is deteriorating
+after 4 to 8 weeks of antituberculosis therapy.[1]
+[67]
+» Most patients with uremic pericarditis respond
+to intensive dialysis within 1 to 2 weeks.
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Pericarditis Management
+Acute
+» Autoimmune disorders are treated
+with corticosteroids and/or another
+immunosuppressive therapy depending on the
+specific condition. Aspirin is preferred if required
+for persistent symptoms due to early pericarditis
+or late pericarditis post-MI as other NSAIDs
+adversely affect myocardial healing, and for its
+antiplatelet activity. Glucocorticoids and NSAIDs
+(other than aspirin) are not indicated for post-MI
+pericarditis due to the potential for harm.[58]
+» Treatment of neoplasms may involve any
+combination of radiation therapy, chemotherapy,
+or surgery depending on the type of tumor
+identified.[37] [38]
+plus nonsteroidal anti-inflammatory drug
+(NSAID) or alternative analgesia
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» ibuprofen: 600 mg orally every 8 hours for
+1-2 weeks, then decrease dose by 200-400
+mg every 1-2 weeks
+OR
+» aspirin: 750-1000 mg orally every 8 hours
+for 1-2 weeks, then decrease dose by
+250-500 mg every 1-2 weeks
+Secondary options
+» acetaminophen: 325-1000 mg orally every
+4-6 hours when required, maximum 4000 mg/
+day
+OR
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+» An NSAID should be started immediately
+on diagnosis for symptom management.[16]
+[20] [37] [57] Consider tapering the dose after
+1-2 weeks according to symptoms.[1] NSAIDs
+reduce fever, chest pain, and inflammation
+but do not prevent tamponade, constriction, or
+recurrent pericarditis.
+» Aspirin is the preferred NSAID in patients
+developing pericarditis after a myocardial
+infaction.[37] [38]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Pericarditis Management
+MANAGEMENT
+Acute
+» Alternatively, acetaminophen or an opioid (e.g.,
+codeine) can be considered if NSAIDs are not
+effective or are contraindicated.
+plus exercise restriction
+Treatment recommended for ALL patients in
+selected patient group
+» Exercise should be restricted until chest
+pain resolves and inflammatory markers have
+normalized.[55] A minimum of 3 months is often
+considered appropriate (and recommended
+for patients involved in competitive sports), but
+shorter periods of restriction may be considered
+depending on patient and disease characteristics
+(e.g., nonathletes and/or mild clinical picture).[1]
+[14] [37] [56]
+consider colchicine
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» colchicine: <70 kg body weight: 0.6 mg
+orally once daily; ≥70 kg body weight: 0.6 mg
+orally twice daily
+» Improves response, decreases recurrence,
+and increases remission rates.[1] [59] It is
+given for 3 months in this setting.[1] [20] [57]
+[60] Not shown to be beneficial in patients with
+tuberculous pericarditis.[64] [65]
+» Addition of colchicine should be considered in
+patients with postcardiotomy injury syndromes
+(e.g., Dressler syndrome, which generally occurs
+1-2 weeks after a myocardial infaction [MI];
+or postcardiac surgery), provided there are
+no contraindications and it is well tolerated.
+Preventive administration is recommended for 1
+month. Careful follow-up with echocardiography
+every 6 to 12 months according to clinical
+features and symptoms should be considered to
+exclude possible evolution towards constrictive
+pericarditis.[1]
+» While tapering the dose is not mandatory,
+it can be considered in the last few weeks of
+treatment to prevent persistence of symptoms
+and recurrence.
+» Before commencing treatment, a baseline
+complete blood count (CBC) is indicated
+as colchicine may cause neutropenia and
+bone marrow suppression. Caution should be
+exercised in renal and hepatic impairment as
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Pericarditis Management
+Acute
+its use may be contraindicated in patients on
+certain medications.
+consider proton-pump inhibitor
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» esomeprazole: 20-40 mg orally once daily
+OR
+» lansoprazole: 15-30 mg orally once daily
+» Due to the high doses of NSAIDs used, a
+proton-pump inhibitor (e.g., esomeprazole,
+lansoprazole) is given alongside NSAID therapy
+(if used) to protect against gastrointestinal ulcer
+formation.[12] [14] [37] [38]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Pericarditis Management
+MANAGEMENT
+Ongoing
+recurrent disease
+1st nonsteroidal anti-inflammatory drug
+(NSAID) or alternative analgesia
+Primary options
+» ibuprofen: 600 mg orally every 8 hours for
+1-2 weeks, then decrease dose by 200-400
+mg every 1-2 weeks
+OR
+» aspirin: 750-1000 mg orally every 8 hours
+for 1-2 weeks, then decrease dose by
+250-500 mg every 1-2 weeks
+Secondary options
+» acetaminophen: 325-1000 mg orally every
+4-6 hours when required, maximum 4000 mg/
+day
+OR
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+» An NSAID should be started immediately on
+diagnosis for symptom management. NSAIDs
+reduce fever, chest pain, and inflammation
+but do not prevent tamponade, constriction, or
+recurrent pericarditis.[37] [38]
+» Choice of drug is based on patient
+characteristics (e.g., contraindications, previous
+efficacy, or side effects), the presence of
+concomitant diseases (e.g., aspirin is favored
+over other NSAIDs if antiplatelet therapy is
+required), and physician expertise. Aspirin is
+the preferred NSAID in patients developing
+pericarditis after a myocardial infarction (MI).[37]
+[38]
+» Alternatively, acetaminophen or an opioid (e.g.,
+codeine) can be considered if NSAIDs are not
+effective or are contraindicated.
+» Treatment should be continued until symptoms
+resolve.
+plus colchicine
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Pericarditis Management
+Ongoing
+» colchicine: <70 kg body weight: 0.6 mg
+orally once daily; ≥70 kg body weight: 0.6 mg
+orally twice daily
+» Improves response, decreases recurrence,
+and increases remission rates.[1] [59]
+» Treatment should be continued for 6 months
+in patients with recurrent disease. A longer
+duration of therapy can be considered in
+resistant cases. C-reactive protein (CRP) levels
+should be used to guide therapy and response.
+Once the CRP has normalized, drug therapy can
+be tapered gradually according to symptoms and
+the CRP level.[1]
+» While tapering the dose is not mandatory,
+it can be considered in the last few weeks of
+treatment to prevent persistence of symptoms
+and recurrence.
+» Before commencing treatment, a baseline
+complete blood count (CBC) is indicated
+as colchicine may cause neutropenia and
+bone marrow suppression. Caution should be
+exercised in renal and hepatic impairment as
+its use may be contraindicated in patients on
+certain medications.
+plus exercise restriction
+Treatment recommended for ALL patients in
+selected patient group
+» Exercise should be restricted until chest
+pain resolves and inflammatory markers have
+normalized.[55] A minimum of 3 months is often
+considered appropriate (and recommended
+for patients involved in competitive sports), but
+shorter periods of exercise restriction may be
+considered depending on patient and disease
+characteristics (e.g., nonathletes and/or mild
+clinical picture).[1] [14] [37] [56]
+plus treatment of the underlying cause
+Treatment recommended for ALL patients in
+selected patient group
+»  In addition, treatment should be directed at
+any known underlying cause.[37] [38]
+consider proton-pump inhibitor
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» esomeprazole: 20-40 mg orally once daily
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Pericarditis Management
+MANAGEMENT
+Ongoing
+» lansoprazole: 15-30 mg orally once daily
+» Due to the high doses of NSAIDs used, a
+proton-pump inhibitor (e.g., esomeprazole,
+lansoprazole) is given alongside NSAID therapy
+(if used) to protect against gastrointestinal ulcer
+formation.[12] [14] [37] [38]
+2nd corticosteroid
+Primary options
+» prednisone: 0.25 to 0.5 mg/kg/day orally,
+taper gradually after resolution of symptoms
+and normalization of CRP
+Tapering regimen depends on the starting
+dose. Starting dose >50 mg/day (taper dose
+by 10 mg/day every 1-2 weeks); starting dose
+25-50 mg/day (taper dose by 5-10 mg/day
+every 1-2 weeks); starting dose 15-25 mg/day
+(taper dose by 2.5 mg/day every 2-4 weeks);
+starting dose <15 mg/day (taper dose by 1.25
+to 2.5 mg/day every 2-6 weeks).
+» For patients who do not respond to an NSAID
+plus colchicine, corticosteroid therapy can be
+considered, once an infectious cause has been
+excluded. May also be used when there is a
+specific indication for their use (e.g., presence
+of an autoimmune disease). Should be used in
+combination with colchicine for this indication.[1]
+» Less favored compared to NSAIDs because of
+the risks of promoting chronic and/or recurrent
+disease, and side effects.[1]
+»  If used, low to moderate doses are preferred
+over high doses.[18] The initial dose should
+be maintained until symptoms have resolved
+and the C-reactive protein (CRP) level has
+normalized. Once this is achieved, the dose may
+be gradually tapered.[1]
+plus colchicine
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» colchicine: <70 kg body weight: 0.6 mg
+orally once daily; ≥70 kg body weight: 0.6 mg
+orally twice daily
+» Improves response, decreases recurrence,
+and increases remission rates.[1] [59]
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Pericarditis Management
+Ongoing
+» Treatment should be continued for 6 months
+in patients with recurrent disease. A longer
+duration of therapy can be considered in
+resistant cases. C-reactive protein (CRP) levels
+should be used to guide therapy and response.
+Once the CRP has normalized, drug therapy can
+be tapered gradually according to symptoms and
+the CRP level.[1]
+» While tapering the dose is not mandatory,
+it can be considered in the last few weeks of
+treatment to prevent persistence of symptoms
+and recurrence.
+» Before commencing treatment, a baseline
+complete blood count (CBC) is indicated
+as colchicine may cause neutropenia and
+bone marrow suppression. Caution should be
+exercised in renal and hepatic impairment as
+its use may be contraindicated in patients on
+certain medications.
+plus exercise restriction
+Treatment recommended for ALL patients in
+selected patient group
+» Exercise should be restricted until chest
+pain resolves and inflammatory markers have
+normalized.[55] A minimum of 3 months is often
+considered appropriate (and recommended
+for patients involved in competitive sports), but
+shorter periods of restriction may be considered
+depending on patient and disease characteristics
+(e.g., nonathletes and/or mild clinical picture).[1]
+[14] [37] [56]
+3rd immunosuppressant
+Primary options
+» azathioprine: consult specialist for guidance
+on dose
+OR
+» rilonacept: consult specialist for guidance
+on dose
+OR
+» anakinra: consult specialist for guidance on
+dose
+OR
+» immune globulin (human): consult specialist
+for guidance on dose
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Pericarditis Management
+MANAGEMENT
+Ongoing
+» Third-line therapies in recurrent disease are
+immunosuppressants, including intravenous
+immunoglobulin (IVIG), interleukin-1
+inhibitors (e.g., anakinra, and rilonacept), and
+azathioprine. These therapies should be used in
+consultation with a rheumatologist.[1] [20] [57]
+[68] [69] [70] [71]
+plus exercise restriction
+Treatment recommended for ALL patients in
+selected patient group
+» Exercise should be restricted until chest
+pain resolves and inflammatory markers have
+normalized.[55] A minimum of 3 months is often
+considered appropriate (and recommended
+for patients involved in competitive sports), but
+shorter periods of restriction may be considered
+depending on patient and disease characteristics
+(e.g., nonathletes and/or mild clinical picture).[1]
+[14] [37] [56]
+4th pericardiectomy
+» Patients with persistent symptomatic
+recurrence refractory to all medical treatment
+can be considered for surgical management with
+pericardiectomy.[1]
+Pericardectomy in a 56-year-old male patient
+with idiopathic calcific constrictive pericarditis.
+The pericardium is thickened and calcified
+Patanwala I, Crilley J, Trewby PN. BMJ Case
+Reports 2009; doi:10.1136/bcr.06.2008.0015
+» In patients with tuberculous pericarditis,
+pericardiectomy is reserved for those with
+recurrent effusions or evidence of constrictive
+physiology despite medical therapy.[2] It is
+particularly recommended if the patient’s
+condition is not improving or is deteriorating
+after 4 to 8 weeks of antituberculosis therapy.[1]
+Pericardiectomy may also be necessary
+for treatment of recurrent nontuberculous
+pericarditis refractory to standard therapies,
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Pericarditis Management
+Ongoing
+where constriction is present (e.g., following
+cardiac surgery or radiation therapy, or idiopathic
+constrictive pericarditis).[42] [73]
+plus exercise restriction
+Treatment recommended for ALL patients in
+selected patient group
+» Exercise should be restricted until chest
+pain resolves and inflammatory markers have
+normalized.[55] A minimum of 3 months is often
+considered appropriate (and recommended
+for patients involved in competitive sports), but
+shorter periods of restriction may be considered
+depending on patient and disease characteristics
+(e.g., nonathletes and/or mild clinical picture).[1]
+[14] [37] [56]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Pericarditis Management
+MANAGEMENT
+Emerging
+Intrapericardial fibrinolysis
+This treatment is being investigated as an adjunct therapy for patients with infective pericarditis (i.e.,
+tuberculous and purulent) where there is a high risk of constrictive pericarditis. Case reports and small trials
+have shown promising results; however, these results need to be replicated on a larger basis before this
+therapy is recommended.
+Primary prevention
+Colchicine may be of benefit for primary prevention of pericarditis and pericardial effusions in patients
+undergoing cardiac surgery.[32] [33] [34] [35]
+Secondary prevention
+Colchicine may be of benefit for secondary prevention of pericarditis.[32] [34] [78] [Evidence B]
+Patient discussions
+It is advised that vigorous exercise should not be performed until after the chest pain resolves and
+inflammatory markers have normalized.[1] [14] [37] A minimum of 3 months exercise restriction is often
+considered appropriate (and recommended for patients involved in competitive sports), but shorter
+periods may be considered depending on patient and disease characteristics (e.g., nonathletes and/or
+mild clinical picture).[1] [14] [37] [56] Constrictive pericarditis excludes patients from all competitive sports.
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Pericarditis Follow up
+Monitoring
+Monitoring
+Patients who do not have risk factors for poor prognosis (i.e., high fever; subacute course; evidence
+of a large pericardial effusion; cardiac tamponade; failure to respond within 7 days to a nonsteroidal
+anti-inflammatory drug; myopericarditis; immunosuppression; trauma; oral anticoagulant therapy) can
+be managed as outpatients with empiric anti-inflammatories and evaluated in the clinic after 1 week to
+assess the response to treatment.[1]
+Generally, long-term surveillance is not necessary in patients with acute viral or idiopathic pericarditis.
+Repeat imaging (echo, computed tomography, or magnetic resonance imaging) may be required in
+patients who have associated pericardial effusions or suspicion of constrictive pericarditis.[13] [37]
+Complications
+Complications Timeframe Likelihood
+pericardial effusion with or without cardiac
+tamponade
+short term medium
+Accumulation of transudate, exudate, or blood in the pericardial sac can occur due to pericardial
+inflammation. Increased intrapericardial pressure from the pericardial effusion (particularly one in which
+the fluid accumulation occurs over a relatively short time) can compress the cardiac chambers leading to
+cardiac tamponade.[1] [14] [48]
+Pericardiocentesis is indicated for hemodynamic compromise, purulent pericarditis, and a high suspicion
+of tumor. The effusion should be drained dry and the fluid analyzed for glucose, protein, and lactic
+dehydrogenase. Cell count, microscopy, bacterial and/or viral culture, and cytologic exam should be
+performed.
+In some situations, pericardiocentesis cannot be performed from a percutaneous approach and surgical
+drainage is required. A subxiphoid approach is generally successful and has <1% complication rate and
+8% rate of recurrence of effusion.
+Pericardial biopsy should be considered if malignant or granulomatous disease is suspected.
+chronic constrictive pericarditis variable low
+Most cases occur within 3 to 12 months after the pericardial insult. It is a relatively rare complication.[76]
+In developed countries, it is most frequently caused by prior cardiac surgery (prevalence of 0.2% to 0.3%),
+radiation therapy (4% of patients with radiation for mediastinal Hodgkin), and idiopathic pericarditis.
+Tuberculosis is the main cause in developing countries.
+In the healing process of acute, fibrinous, serofibrinous, or chronic pericardial effusion, the pericardial
+cavity can be completely replaced by granulation tissue. This results in a dense scar that encases the
+heart and interferes with ventricular filling. Surgical pericardial resection is the definitive treatment.[1] [2]
+[13] [14] [77]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Pericarditis Follow up
+FOLLOW UP
+Prognosis
+Prognosis generally depends on the underlying cause and disease severity. Features associated with a poor
+prognosis include:[1] [14] [16] [36] [37] [38] [45]
+• Major prognostic factors:
+• Evidence of a large pericardial effusion (i.e., diastolic echo-free space >20 mm)
+• High fever (i.e., >100.4°F [>38.8°C])
+• Subacute course (i.e., symptoms over several days without a clear-cut acute onset)
+• Failure to respond within 7 days to a nonsteroidal anti-inflammatory drug (NSAID).
+• Minor prognostic factors:
+• Pericarditis associated with myocarditis (myopericarditis)
+• Immunosuppression
+• Trauma
+• Oral anticoagulant therapy.
+The presence of major prognostic factors warrants hospitalization and a full evaluation for etiology of the
+pericardial disease.[1] [36]
+Acute idiopathic pericarditis is generally a self-limited disease in 70% to 90% of patients, with no significant
+complications or recurrence. Purulent pericarditis is uniformly fatal if untreated and has a mortality of 40%
+with treatment.[74] Complications are frequent in bacterial and tuberculous forms of the disease (constriction
+occurs in up to 30% to 50%). Uremic pericarditis generally responds to intensive dialysis. Effusions are
+common with neoplastic pericarditis and are often recurrent and difficult to manage.[1] [2] [13]
+15% to 30% of patients with pericarditis experience recurrence.[75]
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Pericarditis Guidelines
+Diagnostic guidelines
+International
+2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR guideline for the evaluation
+and diagnosis of chest pain  [39]
+Published by:  American College of Cardiology; American Heart
+Association
+Last published: 2021
+American Society of Echocardiography clinical recommendations for
+multimodality cardiovascular imaging of patients with pericardial disease 
+[47]
+Published by:  American Society of Echocardiography Last published: 2013
+2015 ESC guidelines for the diagnosis and management of pericardial
+diseases  [1]
+Published by:  European Society of Cardiology Last published: 2015
+Treatment guidelines
+International
+2025 ACC/AHA/ACEP/NAEMSP/SCAI guideline for the management of patients
+with acute coronary syndromes  [58]
+Published by:  American College of Cardiology; American Heart
+Association
+Last published: 2025
+2015 ESC guidelines for the diagnosis and management of pericardial
+diseases  [1]
+Published by:  European Society of Cardiology Last published: 2015
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Pericarditis Evidence tables
+EVIDENCE TABLES
+Evidence tables
+What are the benefits and harms of colchicine for people with pericarditis?
+This table is a summary of the analysis reported in a Cochrane Clinical Answer that focuses on the
+above important clinical question.
+View the full source Cochrane Clinical Answer
+Evidence B  * Confidence in the evidence is moderate or low to moderate where GRADE has
+been performed and the intervention may be more effective/beneficial than the
+comparison for key outcomes.
+Population: People with acute or recurrent pericarditis
+Intervention: Colchicine plus aspirin
+Comparison: Aspirin alone (placebo or no colchicine)
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+Recurrence: acute or recurrent
+pericarditis at 6, 12, and 18
+months
+Favors intervention Moderate
+Time to recurrence (median
+follow‐up 18 months): acute or
+recurrent pericarditis
+Favors intervention Moderate
+Symptom relief at 72 hours Favors intervention Low
+Adverse effects (median
+follow‐up 18 months)
+No statistically significant
+difference
+Low
+Withdrawal due to adverse
+effects (median follow‐up 18
+months)
+Occurs more commonly with
+colchicine compared with placebo/
+no colchicine (favors comparison)
+#
+Moderate
+Note
+The Cochrane review which underpins this Cochrane Clinical Answer (CCA) notes that while colchicine is
+effective in reducing the number of further recurrences in people with acute or recurrent pericarditis, data is
+limited and may not be sufficient enough to recommend colchicine use in the general pericarditis population.
+It also notes that people with multiple resistant recurrences are not represented in any of the assessed
+studies.
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Pericarditis Evidence tables
+# The CCA notes that while adverse events were infrequent (<10%) and there was no clear difference
+between treatment groups, more people withdrew from treatment when taking colchicine than those who did
+not receive colchicine.
+* Evidence levels
+The Evidence level is an internal rating applied by BMJ Best Practice. See the EBM Toolkit for details.
+Confidence in evidence
+A -  High or moderate to high
+B -  Moderate or low to moderate
+C -  Very low or low
+† Effectiveness (BMJ rating)
+Based on statistical significance, which demonstrates that the results are unlikely to be due to chance, but
+which does not necessarily translate to a clinical significance.
+‡ Grade certainty ratings
+High The authors are very confident that the true
+effect is similar to the estimated effect.
+Moderate The authors are moderately confident that
+the true effect is likely to be close to the
+estimated effect.
+Low The authors have limited confidence in the
+effect estimate and the true effect may be
+substantially different.
+Very Low The authors have very little confidence in
+the effect estimate and the true effect is
+likely to be substantially different.
+BMJ Best Practice EBM Toolkit: What is GRADE?
+EVIDENCE TABLES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Pericarditis References
+REFERENCES
+Key articles
+• Adler Y, Charron P, Imazio M, et al. 2015 ESC Guidelines for the diagnosis and management of
+pericardial diseases. Eur Heart J. 2015 Nov 7;36(42):2921-64.  Full text   Abstract
+• Chiabrando JG, Bonaventura A, Vecchié A, et al. Management of acute and recurrent pericarditis:
+JACC State-of-the-Art Review. J Am Coll Cardiol. 2020 Jan 7;75(1):76-92.  Full text   Abstract
+• Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline
+for the evaluation and diagnosis of chest pain: a report of the American College of Cardiology/
+American Heart Association Joint Committee on clinical practice guidelines. Circulation. 2021 Nov
+30;144(22):e368-e454.  Full text   Abstract
+References
+1. Adler Y, Charron P, Imazio M, et al. 2015 ESC Guidelines for the diagnosis and management of
+pericardial diseases. Eur Heart J. 2015 Nov 7;36(42):2921-64.  Full text   Abstract
+2. Imazio M, Brucato A, Mayosi BM, et al. Medical therapy of pericardial diseases: part II: Noninfectious
+pericarditis, pericardial effusion and constrictive pericarditis. J Cardiovasc Med (Hagerstown). 2010
+Nov;11(11):785-94. Abstract
+3. Imazio M, Brucato A, Mayosi BM, et al. Medical therapy of pericardial diseases: part I: idiopathic and
+infectious pericarditis. J Cardiovasc Med (Hagerstown). 2010 Oct;11(10):712-22. Abstract
+4. Jensen TB, Kheyr MAE, Mohey R. Constrictive pericarditis caused by Cutibacterium
+(Propionibacterium) acnes: a case report and review of literature. IDCases. 2017 Sep 28;10:79-82. 
+Full text   Abstract
+5. Patone M, Mei XW, Handunnetthi L, et al. Risks of myocarditis, pericarditis, and cardiac arrhythmias
+associated with COVID-19 vaccination or SARS-CoV-2 infection. Nat Med. 2022 Feb;28(2):410-22. 
+Full text   Abstract
+6. Nakhla S, Mentias A, Rymer C, et al. Acute pericarditis after atrial fibrillation ablation: incidence,
+characteristics, and risk factors. Heart Rhythm O2. 2022 Jun;3(3):248-51.  Full text   Abstract
+7. Gong J, Drobni ZD, Zafar A, et al. Pericardial disease in patients treated with immune checkpoint
+inhibitors. J Immunother Cancer. 2021 Jun;9(6).  Full text   Abstract
+8. Mahalwar G, Kumar A, Agrawal A, et al. Pericardial involvement in sarcoidosis. Am J Cardiol. 2022
+May 1;170:100-4. Abstract
+9. Scatularo CE, Ballesteros OA, Saldarriaga C, et al. Zika & heart: a systematic review. Trends
+Cardiovasc Med. 2022 Jan;32(1):52-8. Abstract
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Pericarditis References
+10. Rahim A, Hameed A, Ishaq U, et al. Cardiovascular sequelae of dengue fever: a systematic review.
+Expert Rev Cardiovasc Ther. 2022 Jun;20(6):465-79. Abstract
+11. Ala CK, Klein AL, Moslehi JJ. Cancer treatment-associated pericardial disease: epidemiology, clinical
+presentation, diagnosis, and management. Curr Cardiol Rep. 2019 Nov 25;21(12):156. Abstract
+12. Lange RA, Hillis LD. Clinical practice. Acute pericarditis. N Engl J Med. 2004 Nov
+18;351(21):2195-202. Abstract
+13. Troughton RW, Asher CR, Klein AL. Pericarditis. Lancet. 2004 Feb 28;363(9410):717-27. Abstract
+14. Little WC, Freeman GL. Pericardial disease. Circulation. 2006 Mar 28;113(12):1622-32.  Full text  
+Abstract
+15. Ariyarajah V, Spodick DH. Acute pericarditis: diagnostic cues and common electrocardiographic
+manifestations. Cardiol Rev. 2007 Jan-Feb;15(1):24-30. Abstract
+16. Khandaker MH, Espinosa RE, Nishimura RA, et al. Pericardial disease: diagnosis and management.
+Mayo Clin Proc. 2010 Jun;85(6):572-93. Abstract
+17. Kytö V, Sipilä J, Rautava P. Clinical profile and influences on outcomes in patients hospitalized for
+acute pericarditis. Circulation. 2014 Oct 28;130(18):1601-6.  Full text   Abstract
+18. Chiabrando JG, Bonaventura A, Vecchié A, et al. Management of acute and recurrent pericarditis:
+JACC State-of-the-Art Review. J Am Coll Cardiol. 2020 Jan 7;75(1):76-92.  Full text   Abstract
+19. Buba F. Cardiovascular opportunistic infections in HIV disease. Biomed Res. 2011;22:279-84.
+20. Imazio M, Gaita F, LeWinter M. Evaluation and treatment of pericarditis: a systematic review. JAMA.
+2015 Oct 13;314(14):1498-506.  Full text   Abstract
+21. Imazio M. Pericardial involvement in systemic inflammatory diseases. Heart. 2011
+Nov;97(22):1882-92. Abstract
+22. Patel RS, Rohit Reddy S, Llukmani A, et al. Cardiovascular manifestations in inflammatory bowel
+disease: a systematic review of the pathogenesis and management of pericarditis. Cureus. 2021 Mar
+20;13(3):e14010.  Full text   Abstract
+23. Parmar K, Subramanyam S, Del Rio-Pertuz G, et al. Cardiac adverse events after vaccination-a
+systematic review. Vaccines (Basel). 2022 Apr 29;10(5).  Full text   Abstract
+24. Mei R, Raschi E, Poluzzi E, et al. Recurrence of pericarditis after influenza vaccination: a case report
+and review of the literature. BMC Pharmacol Toxicol. 2018 May 5;19(1):20.  Full text   Abstract
+25. Centers for Disease Control and Prevention. Clinical considerations: myocarditis and pericarditis after
+receipt of COVID-19 vaccines among adolescents and young adults. Oct 2023 [internet publication]. 
+Full text
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Pericarditis References
+REFERENCES
+26. World Health Organization. COVID-19 subcommittee of the WHO Global Advisory Committee on
+Vaccine Safety (GACVS): updated guidance regarding myocarditis and pericarditis reported with
+COVID-19 mRNA vaccines. Jul 2021 [internet publication].  Full text
+27. Malik J, Zaidi SMJ, Rana AS, et al. Post-cardiac injury syndrome: an evidence-based approach to
+diagnosis and treatment. AHJ Plus: Cardiology Research and Practice. 2021 Dec;12:100068.  Full text
+28. LeWinter MM, Kabbani S. Pericardial diseases. In: Zipes DP, Libby P, Bonow RO, et al, eds.
+Braunwald's heart disease. 7th ed. Philadelphia, PA: Elsevier Saunders; 2005:1757-80.
+29. Maisch B. Recurrent pericarditis: mysterious or not so mysterious? Eur Heart J. 2005 Apr;26(7):631-3. 
+Full text   Abstract
+30. Sagristà-Sauleda J, Permanyer-Miralda G, Soler-Soler J. Tuberculous pericarditis: ten year experience
+with a prospective protocol for diagnosis and treatment. J Am Coll Cardiol. 1988 Apr;11(4):724-8.  Full
+text   Abstract
+31. Lancellotti P, Nkomo VT, Badano LP, et al. Expert consensus for multi-modality imaging evaluation
+of cardiovascular complications of radiotherapy in adults: a report from the European Association of
+Cardiovascular Imaging and the American Society of Echocardiography. J Am Soc Echocardiogr. 2013
+Sep;26(9):1013-32.  Full text   Abstract
+32. Imazio M, Brucato A, Forno D, et al. Efficacy and safety of colchicine for pericarditis prevention.
+Systematic review and meta-analysis. Heart. 2012 Jul;98(14):1078-82.  Full text   Abstract
+33. Imazio M, Brucato A, Rovere ME, et al. Colchicine prevents early postoperative pericardial and pleural
+effusions. Am Heart J. 2011 Sep;162(3):527-32. Abstract
+34. Lutschinger LL, Rigopoulos AG, Schlattmann P, et al. Meta-analysis for the value of colchicine for
+the therapy of pericarditis and of postpericardiotomy syndrome. BMC Cardiovasc Disord. 2019 Sep
+2;19(1):207.  Full text   Abstract
+35. Malektojari A, Tahmasebipour R, Fadaeihosein M, et al. Pharmacological preventions and treatments
+for pericardial complications after open heart surgeries. Heart. 2025 Jan 23 [Epub ahead of print].  Full
+text   Abstract
+36. Imazio M, Spodick DH, Brucato A, et al. Diagnostic issues in the clinical management of pericarditis.
+Int J Clin Pract. 2010 Sep;64(10):1384-92. Abstract
+37. Imazio M, Spodick DH, Brucato A, et al. Controversial issues in the management of pericardial
+diseases. Circulation. 2010 Feb 23;121(7):916-28. Abstract
+38. Imazio M, Brucato A, Trinchero R, et al. Diagnosis and management of pericardial diseases. Nat Rev
+Cardiol. 2009 Dec;6(12):743-51. Abstract
+39. Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline
+for the evaluation and diagnosis of chest pain: a report of the American College of Cardiology/
+American Heart Association Joint Committee on clinical practice guidelines. Circulation. 2021 Nov
+30;144(22):e368-e454.  Full text   Abstract
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Pericarditis References
+40. Ezekowitz JA, O'Meara E, McDonald MA, et al. 2017 Comprehensive update of the Canadian
+Cardiovascular Society guidelines for the management of heart failure. Can J Cardiol. 2017 Sep
+6;33(11):1342-433.  Full text   Abstract
+41. Simundic AM, Bölenius K, Cadamuro J, et al. Joint EFLM-COLABIOCLI recommendation for venous
+blood sampling. Clin Chem Lab Med. 2018;56(12):2015-38. Abstract
+42. Kumar S, Khubber S, Reyaldeen R, et al. Advances in imaging and targeted therapies for recurrent
+pericarditis: a review. JAMA Cardiol. 2022 Sep 1;7(9):975-85. Abstract
+43. Seo HT, Kim YS, Ock HS, et al. Diagnostic performance of interferon-gamma release assay for
+diagnosis of tuberculous pericarditis: a meta-analysis. Int J Clin Pract. 2020 May;74(5):e13479.
+Abstract
+44. Yu G, Zhong F, Shen Y, et al. Diagnostic accuracy of the Xpert MTB/RIF assay for tuberculous
+pericarditis: a systematic review and meta-analysis. PLoS One. 2021 Sep 10;16(9):e0257220.  Full
+text   Abstract
+45. Imazio M, Brucato A, Derosa FG, et al. Aetiological diagnosis in acute and recurrent pericarditis: when
+and how. J Cardiovasc Med (Hagerstown). 2009 Mar;10(3):217-30. Abstract
+46. Tuon FF, Litvoc MN, Lopes MI. Adenosine deaminase and tuberculous pericarditis: a systematic
+review with meta-analysis. Acta Trop. 2006 Aug;99(1):67-74. Abstract
+47. Klein AL, Abbara S, Agler DA, et al. American Society of Echocardiography clinical recommendations
+for multimodality cardiovascular imaging of patients with pericardial disease. J Am Soc Echocardiogr.
+2013 Sep;26(9):965-1012.  Full text   Abstract
+48. Braunwald E. Pericardial disease. In: Kasper DL, Braunwald E, Fauci AS, et al, eds. Harrison's internal
+medicine. 16th ed. New York: McGraw-Hill; 2005.
+49. Belic L, Stafford G, Allen JW, et al. Cardiac tamponade during anticoagulation. Management with a
+pericardial drain and continued anticoagulation. JAMA. 1978 Aug 18;240(7):672. Abstract
+50. Ala CK, Banerjee K, Chahine J, et al. D-dimer as a novel marker of inflammation in pericarditis. J Am
+Coll Cardiol. 2019 Mar;73(9):984.  Full text
+51. Bajaj N, Bozarth AL, Guillot J, et al. Clinical features in patients with pulmonary embolism at a
+community hospital: analysis of 4 years of data. J Thromb Thrombolysis. 2014 Apr;37(3):287-92.
+Abstract
+52. Brown G, Hogg K. Best evidence topic report. Diagnostic utility of electrocardiogram for diagnosing
+pulmonary embolism. Emerg Med J. 2005 Oct;22(10):729-30.  Full text   Abstract
+53. Sukhija R, Aronow WS, Ahn C, et al. Electrocardiographic abnormalities in patients with right
+ventricular dilation due to acute pulmonary embolism. Cardiology. 2006;105(1):57-60. Abstract
+54. McEwan T, Robinson PC. A systematic review of the infectious complications of colchicine and the use
+of colchicine to treat infections. Semin Arthritis Rheum. 2021 Feb;51(1):101-12.  Full text   Abstract
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Pericarditis References
+REFERENCES
+55. Kim JH, Baggish AL, Levine BD, et al. Clinical considerations for competitive sports participation for
+athletes with cardiovascular abnormalities: a scientific statement from the American Heart Association
+and American College of Cardiology. Circulation. 2025 Feb 20 [Epub ahead of print].   Full text  
+Abstract
+56. Pelliccia A, Solberg EE, Papadakis M, et al. Recommendations for participation in competitive and
+leisure time sport in athletes with cardiomyopathies, myocarditis, and pericarditis: position statement of
+the Sport Cardiology Section of the European Association of Preventive Cardiology (EAPC). Eur Heart
+J. 2019 Jan 1;40(1):19-33.  Full text   Abstract
+57. Galluzzo A, Imazio M. Advances in medical therapy for pericardial diseases. Expert Rev Cardiovasc
+Ther. 2018 Sep;16(9):635-43. Abstract
+58. Rao SV, O'Donoghue ML, Ruel M, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI guideline for the
+management of patients with acute coronary syndromes: a report of the American College of
+Cardiology/American Heart Association joint committee on clinical practice guidelines. Circulation. Mar
+2025 [internet publication].  Full text   Abstract
+59. Andreis A, Imazio M, Casula M, et al. Colchicine efficacy and safety for the treatment of cardiovascular
+diseases. Intern Emerg Med. 2021 Sep;16(6):1691-700.  Full text   Abstract
+60. Bayes-Genis A, Adler Y, de Luna AB, et al. Colchicine in pericarditis. Eur Heart J. 2017 Jun
+7;38(22):1706-9.  Full text   Abstract
+61. Lotrionte M, Biondi-Zoccai G, Imazio M, et al. International collaborative systematic review of
+controlled clinical trials on pharmacologic treatments for acute pericarditis and its recurrences. Am
+Heart J. 2010 Oct;160(4):662-70. Abstract
+62. Mayosi BM, Ntsekhe M, Bosch J, et al. Prednisolone and Mycobacterium indicus pranii in tuberculous
+pericarditis. N Engl J Med. 2014 Sep 18;371(12):1121-30.  Full text   Abstract
+63. George IA, Thomas B, Sadhu JS. Systematic review and meta-analysis of adjunctive corticosteroids in
+the treatment of tuberculous pericarditis. Int J Tuberc Lung Dis. 2018 May 1;22(5):551-6. Abstract
+64. Isiguzo G, Du Bruyn E, Howlett P, et al. Diagnosis and management of tuberculous pericarditis: what is
+new? Curr Cardiol Rep. 2020 Jan 15;22(1):2.  Full text   Abstract
+65. Liebenberg JJ, Dold CJ, Olivier LR. A prospective investigation into the effect of colchicine on
+tuberculous pericarditis. Cardiovasc J Afr. 2016 Nov/Dec;27(6):350-5.  Full text   Abstract
+66. Wiysonge CS, Ntsekhe M, Thabane L, et al. Interventions for treating tuberculous pericarditis.
+Cochrane Database Syst Rev. 2017 Sep 13;9:CD000526.  Full text   Abstract
+67. Yadav S, Shah S, Iqbal Z, et al. Pericardiectomy for constrictive tuberculous pericarditis: a systematic
+review and meta-analysis on the etiology, patients' characteristics, and the outcomes. Cureus. 2021
+Sep;13(9):e18252.  Full text   Abstract
+68. Imazio M, Lazaros G, Gattorno M, et al. Anti-interleukin-1 agents for pericarditis: a primer for
+cardiologists. Eur Heart J. 2022 Aug 14;43(31):2946-57.  Full text   Abstract
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Pericarditis References
+69. Vianello F, Cinetto F, Cavraro M, et al. Azathioprine in isolated recurrent pericarditis: a single centre
+experience. Int J Cardiol. 2011 Mar 17;147(3):477-8. Abstract
+70. Imazio M, Lazaros G, Picardi E, et al. Intravenous human immunoglobulins for refractory recurrent
+pericarditis: a systematic review of all published cases. J Cardiovasc Med (Hagerstown). 2016
+Apr;17(4):263-9. Abstract
+71. Emmi G, Urban ML, Imazio M, et al. Use of interleukin-1 blockers in pericardial and cardiovascular
+diseases. Curr Cardiol Rep. 2018 Jun 14;20(8):61. Abstract
+72. Brucato A, Imazio M, Gattorno M, et al. Effect of anakinra on recurrent pericarditis among patients with
+colchicine resistance and corticosteroid dependence: The AIRTRIP randomized clinical trial. JAMA.
+2016 Nov 8;316(18):1906-12.  Full text   Abstract
+73. Tzani A, Doulamis IP, Tzoumas A, et al. Meta-analysis of population characteristics and outcomes of
+patients undergoing pericardiectomy for constrictive pericarditis. Am J Cardiol. 2021 May 1;146:120-7.
+Abstract
+74. Pankuweit S, Ristić AD, Seferović PM, et al. Bacterial pericarditis: diagnosis and management. Am J
+Cardiovasc Drugs. 2005;5(2):103-12. Abstract
+75. Klein A, Cremer P, Kontzias A, et al. Clinical burden and unmet need in recurrent pericarditis: a
+systematic literature review. Cardiol Rev. 2022 Mar-Apr 01;30(2):59-69.  Full text   Abstract
+76. Imazio M, Brucato A, Maestroni S, et al. Risk of constrictive pericarditis after acute pericarditis.
+Circulation. 2011 Sep 13;124(11):1270-5.  Full text   Abstract
+77. Ling LH, Oh JK, Schaff HV, et al. Constrictive pericarditis in the modern era: evolving clinical spectrum
+and impact on outcome after pericardiectomy. Circulation. 1999 Sep 28;100(13):1380-6.  Full text  
+Abstract
+78. Alabed S, Cabello JB, Irving GJ, et al. Colchicine for pericarditis. Cochrane Database Syst Rev. 2014
+Aug 28;(8):CD010652.  Full text   Abstract
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Pericarditis Images
+IMAGES
+Images
+Figure 1: Constrictive pericarditis identified at autopsy; the right section is scar tissue cut from the very front
+of the heart
+Xu JD, Cao XX, Liu XP, et al. BMJ Case Reports 2009; doi:10.1136/bcr.03.2009.1688
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Pericarditis Images
+Figure 2: ECG in a patient with acute pericarditis, showing diffuse ST-segment elevation in the precordial
+leads. There is also PR-segment depression in leads V2-V6 (arrows)
+Rathore S, Dodds PA. BMJ Case Reports 2009; doi:10.1136/bcr.2006.097071
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+65
+=== Page 66 ===
+Pericarditis Images
+IMAGES
+Figure 3: Chest CT showing a double layer of pericardial calcification in a 56-year-old male patient with
+idiopathic calcific constrictive pericarditis
+Patanwala I, Crilley J, Trewby PN. BMJ Case Reports 2009; doi:10.1136/bcr.06.2008.0015
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 67 ===
+Pericarditis Images
+Figure 4: Chest CT in a baby with purulent pericarditis showing a pericardial collection with compression of
+the left (LV) and right (RV) ventricles
+Karuppaswamy V, Shauq A, Alphonso N. BMJ Case Reports 2009; doi:10.1136/bcr.2007.136564
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+67
+=== Page 68 ===
+Pericarditis Images
+IMAGES
+Figure 5: Echocardiogram in a baby with purulent pericarditis, showing a pericardial collection. LV = left
+ventricle, RV = right ventricle
+Karuppaswamy V, Shauq A, Alphonso N. BMJ Case Reports 2009; doi:10.1136/bcr.2007.136564
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 69 ===
+Pericarditis Images
+Figure 6: Open surgery in a baby with purulent pericarditis; the abscess is indicated by the arrow
+Karuppaswamy V, Shauq A, Alphonso N. BMJ Case Reports 2009; doi:10.1136/bcr.2007.136564
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+69
+=== Page 70 ===
+Pericarditis Images
+IMAGES
+Figure 7: Pericardectomy in a 56-year-old male patient with idiopathic calcific constrictive pericarditis. The
+pericardium is thickened and calcified
+Patanwala I, Crilley J, Trewby PN. BMJ Case Reports 2009; doi:10.1136/bcr.06.2008.0015
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 71 ===
+Pericarditis Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Figure 1 – BMJ Best Practice Numeral Style
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Mar 06, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+71
+=== Page 72 ===
+Contributors:
+// Expert Advisers:
+Antonio Abbate, MD, PhD
+Professor of Cardiology
+Division of Cardiovascular Medicine, University of Virginia, Charlottesville, VA
+DISCLOSURES: AA has received grant support and consultant fees from Applied Clinical Intel, Astra
+Zeneca, Cromos Pharma, Eli Lilly, Implicit Biosciences, Janssen, Kiniksa, Merck, Novartis, Novo Nordisk,
+Olatec, R-Pharm, and Serpin Pharma.
+// Peer Reviewers:
+Susan Denfield, MD
+Associate Professor of Pediatrics
+Division of Pediatric Cardiology, Texas Children's Hospital, Houston, TX
+DISCLOSURES: SD declares that she has no competing interests.
+Shrilla Banerjee, MBMD, MRCP
+Consultant Cardiologist
+East Surrey Hospital, Surrey and Sussex NHS Trust, Redhill, UK
+DISCLOSURES: SB declares that she has no competing interests.
+// Acknowledgements:
+BMJ Best Practice would like to gratefully acknowledge Dr Katherine Wu MD, a previous contributor to this
+topic.
+DISCLOSURES: KW declares that she has no competing interests.

@@ -1,0 +1,1362 @@
+# Cardiac tamponade
+
+=== Page 1 ===
+Cardiac tamponade
+Straight to the point of care
+Last updated: Apr 02, 2025
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  5
+Case history  6
+Diagnosis  7
+Approach  7
+History and exam  9
+Risk factors  10
+Tests  13
+Differentials  16
+Criteria  16
+Management  18
+Approach  18
+Treatment algorithm overview  19
+Treatment algorithm  20
+Patient discussions  23
+Follow up  24
+Monitoring  24
+Complications  24
+Prognosis  25
+Guidelines  26
+Diagnostic guidelines  26
+Treatment guidelines  26
+References  27
+Disclaimer  33
+=== Page 3 ===
+Cardiac tamponade Overview
+Summary
+Cardiac tamponade is a medical emergency.
+May be a complication of any disorder that results in pericardial effusion. In people from endemic regions,
+tuberculosis pericarditis remains a prominent cause of pericardial effusion and tamponade.
+Presenting symptoms range from mild dyspnea and atypical chest pain to cardiogenic shock. Clinical signs
+include: tachycardia, hypotension, distant heart sounds, elevated jugular venous pressure, and a pulsus
+paradoxus (>10 mmHg variation in systolic blood pressure with inspiration).
+Echocardiography is essential for evaluation.
+Rapidly fatal if not promptly drained through needle pericardiocentesis or surgical drainage of the
+pericardium.
+Definition
+Cardiac tamponade, also known as pericardial tamponade, is the accumulation of pericardial fluid, blood,
+pus, or air within the pericardial space (pericardial effusion) that causes an increase in intrapericardial
+pressure, restricting cardiac filling and decreasing cardiac output. It is a medical emergency and can be
+rapidly fatal if it is not promptly diagnosed and treated.[1] The diagnosis of cardiac tamponade is based on
+clinical suspicion and supported by evidence of hemodynamic compromise on echocardiography.[2]
+See Evaluation of pericardial effusion .
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Cardiac tamponade Theory
+THEORY
+Epidemiology
+Given cardiac tamponade is caused by any disorder that results in pericardial effusion, its epidemiology is
+directly related to the epidemiology of the causative conditions and risk factors for those disease states. Few
+direct epidemiologic data exist for cardiac tamponade in the literature.[12]
+Cardiac tamponade may occur in up to 13% of patients hospitalized with acute pericarditis and incidence
+has been shown to be 30% to 44% in patients with large, chronic pericardial effusions (>10 mm on
+echocardiogram).[13] [14] [15] It is more common in patients with specific underlying causes such as
+malignancy (particularly lung and breast cancer), purulent pericarditis, and tuberculosis, but rarer in patients
+with acute idiopathic pericarditis.[15] [16] [17]
+In people from endemic regions, tuberculosis pericarditis remains a prominent cause of pericardial effusion
+and tamponade.[18] [19] Cardiac tamponade can occur at any age but is most commonly seen in middle-
+aged and older populations, though this depends on the underlying cause.[14] [16]
+Etiology
+The etiology of cardiac tamponade varies widely, as pericardial effusions have several different causes, and
+is affected by factors such as demographic characteristics, clinical settings, or geographic distribution. In up
+to 60% of patients, known previous conditions can be identified as the cause of pericardial effusion.[16]
+Common etiologies include:[12] [14] [15] [16] [18] [19][20] [21] [22]
+• Malignancy (particularly lung and breast cancer)
+• Idiopathic pericardial effusion
+• Viral infection (pericarditis)
+• Tuberculosis (in endemic regions)
+• Trauma
+• Iatrogenic (secondary to cardiac surgery or intervention)
+• Uremia
+• Radiation-induced pericarditis
+• Collagen vascular disease
+• Hypothyroidism/myxedema
+See Evaluation of pericardial effusion .
+Pathophysiology
+Cardiac tamponade is determined by the rate of pericardial fluid accumulation, pericardial stretch, and the
+effectiveness of compensatory mechanisms.[23] [24]
+In classic cardiac tamponade, pericardial pressures are elevated because of fluid accumulation in the
+pericardial space. Ventricular diastolic, right atrial, and wedge pressures all rise to equal pericardial
+pressures in response to compression countering chamber collapse.[2] This equalization of pressures is the
+hemodynamic hallmark of tamponade. Once the pericardial pressure exceeds intrachamber pressures, the
+chamber collapses.[2]
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Cardiac tamponade Theory
+When the pericardium is stretched, full of fluid and inelastic, typical respiratory variation in left and right
+ventricular filling is greatly exaggerated. Inspiration increases negative intrathoracic pressures and
+augments venous return to the right heart. This increased volume in the right heart forces the intra-atrial
+and intraventricular septums into the left heart. This is known as "ventricular interdependence."[25] Thus,
+the volumes within the left heart will be decreased with inspiration, resulting in an exaggerated decrease
+in systemic cardiac output and a drop in systemic blood pressure. Clinically, this is known as the pulsus
+paradoxus, a drop in systemic blood pressure >10 mmHg with inspiration.
+On echocardiogram, ventricular interdependence is demonstrated by diastolic collapse of the right ventricle
+or septal shift with the act of respiration (septal bounce), or when there is more than 30% variation in
+transmitral inflow velocities during inspiration, and/or greater than 60% for transtricuspid inflow velocities.[4]
+ The impaired diastolic filling is best appreciated in the right heart chambers, given the lower filling pressures.
+In cases of severe pulmonary hypertension, with severely elevated right atrial and ventricular pressures, the
+changes in diastolic filling may be first seen in the left heart chambers.
+Classification
+Clinical classification of cardiac tamponade
+Acute tamponade
+• This rapid-onset tamponade is seen in cardiac/great vessel trauma or as a complication of invasive
+cardiac procedures.
+• Presents with the classic features of the Beck triad (hypotension, jugular venous distention, and distant
+heart sounds).
+• Effusion may be small, given the relative inelasticity of the pericardium.[3]
+Subacute tamponade
+• A more gradual process of fluid accumulation, allowing for stretching of the pericardium and much
+larger effusions than seen with acute tamponade.[4]
+• Is the most common type of tamponade encountered in practice.
+• Typically seen in patients with neoplastic disease, tuberculosis, uremia, or idiopathic disease.
+Symptoms may be more subtle and some or all of the Beck triad may be absent.[4]
+Regional tamponade
+• Caused by a loculated pericardial effusion or a compressing pericardial hematoma that mechanically
+impinges on a chamber of the heart, impairing normal filling.[4][5]
+• Symptoms vary and diagnosis may be difficult with echocardiography.
+• Seen localized in the ventricular after myocardial infarction and in the posterior atria after open-heart
+surgery.[5]
+Low-pressure tamponade
+• Low-pressure physiology caused by concomitant large pericardial effusion and hypovolemia.[6] [7]
+ Right atrial pressures fall, and a small rise in intrapericardial pressure with pericardial effusion may
+result in chamber collapse.
+• Can be seen in hypovolemic states associated with hemorrhage, hemodialysis/ultrafiltration, reduced
+oral intake and vomiting (usually in patients with cancer), or overdiuresis.[4][5] [6]
+• Typical signs and symptoms of hemodynamic instability are often absent.[4][6]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Cardiac tamponade Theory
+THEORY
+Effusive constrictive pericarditis
+• An uncommon and distinct classification of tamponade. Presents with features of acute effusive
+pericarditis concomitant with cardiac tamponade and chronic constrictive pericarditis.[4][8]
+• Tamponade develops due to a combination of effusion and restriction as a result of inflamed/scarred
+pericardium.
+• Occurs more frequently in those with malignancy or prior radiation exposure.[9]
+Case history
+Case history #1
+A 65-year-old man presents with a 3-day history of decreased exercise tolerance and progressive
+dyspnea at rest. He does not recall any recent illness, denies recent travel or illicit habits, and takes no
+medications. Over the past 24 hours he has also noted chest discomfort and bilateral ankle edema. On
+exam, he is in mild distress, with a jugular venous pressure (JVP) of 13 cm and distant heart sounds. His
+lungs are clear on auscultation and 1+ pedal edema is noted. He is normotensive with a heart rate of 105
+beats per minute (bpm) and a pulsus paradoxus is also evident (>10 mmHg).
+Case history #2
+A 47-year-old woman presents to her oncologist with decreased exercise tolerance. She was diagnosed
+with breast cancer 3 years ago and has undergone radical mastectomy, radiation, and chemotherapy.
+Recently, she has been diagnosed with metastatic disease. On exam, she is tachypneic, has an elevated
+JVP, and her heart sounds are muffled. She is hypotensive with a blood pressure of 90/50 mmHg. Her
+heart rate is 110 bpm, and a pulsus paradoxus is present (15 mmHg drop with inspiration).
+Other presentations
+Cardiac tamponade may have various presenting symptoms ranging from mild dyspnea and atypical
+chest pain to cardiogenic shock.[2][10] The presence of pulsus paradoxus (>10 mmHg drop in systolic
+blood pressure with inspiration) is often seen in severe tamponade.[11] Elevated jugular venous pressure
+is also seen in most cases.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Cardiac tamponade Diagnosis
+Approach
+Cardiac tamponade is a medical emergency that is rapidly fatal if not promptly recognized and treated.
+Diagnosis is based on clinical suspicion and supported by evidence of hemodynamic compromise on
+echocardiography.[2]
+History and physical exam
+Patients may be unable to provide a full medical or surgical history, particularly if they are severely
+hemodynamically unstable or in cardiogenic shock; however, where possible, pertinent risk factors and
+potential underlying causes should be elicited. These include: malignancy (including any treatments
+received), recent infection, recent history of cardiac surgery or intervention, end-stage renal failure,
+tuberculosis, hypothyroidism, and autoimmune disease.[18] [27] [31][35] [36][37][38]
+Up to 90% of patients with cardiac tamponade will report dyspnea. Other commonly reported symptoms
+include: chest pain (12% to 74%), fever (7% to 70%), abdominal pain (12% to 61%), and orthopnea (23%
+to 51%).[10] Note that symptoms vary between patients and will also be related to the underlying cause.
+In classic tamponade presenting with hemodynamic instability, signs and symptoms will be consistent
+with low cardiac output and stroke volume coupled with high right-sided filling pressures and increased
+sympathetic tone.[2] Typically, these are often absent in patients with low-pressure tamponade due to
+underlying hypovolemia.[4][6]
+Most patients will not present with all of the classic features of the Beck triad (hypotension, distant
+heart sounds, and elevated jugular venous pressure).[10] [40][41] One systematic review found that the
+sensitivities of hypotension and distant heart sounds were low, at 26% and 28%, respectively.[40] The
+most common physical exam findings included: tachycardia, elevated jugular venous pressure, and pulsus
+paradoxus (>10 mmHg drop in systolic blood pressure with inspiration), with pooled sensitives of 76% to
+82%.[40] Severe pulsus paradoxus can lead to a disappearance of the peripheral pulses with inspiration.
+Investigations
+Given the critical nature of cardiac tamponade, diagnostic investigations are narrower in scope.
+Echocardiography is a first-line investigation that must be performed in all patients with suspected
+tamponade.[4][15] Imaging with cardiac computed tomography (CT) or magnetic resonance imaging
+(MRI) does not have a role in acute cases where life-saving intervention is required, but may be
+considered in more complex etiologies. Laboratory tests may be useful in investigating underlying
+etiology. Chest x-ray (CXR) and ECG are not diagnostic.
+Laboratory tests
+Complete blood count, erythrocyte sedimentation rate, and C-reactive protein are useful in evaluating
+for inflammatory, infective, or anemic causes or pericardial effusion as may be found in inflammatory
+pericarditis or anemia in chronic renal failure.[15]
+Biomarkers of myocardial injury are elevated in cardiac trauma or myocardial infarction.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Cardiac tamponade Diagnosis
+DIAGNOSIS
+Transthoracic echocardiogram
+Echocardiography is a first-line investigation in cases of suspected cardiac tamponade as it provides
+rapid, readily available hemodynamic data to detect tamponade physiology.[4][15] Alongside evidence of
+pericardial effusion, findings that are diagnostic of cardiac tamponade include:[4]
+• Inversion of the free wall of the right atrium for more than one third of systole.[42]
+• Right ventricular (RV) diastolic collapse if the right ventricular wall is of normal compliance.[11] [43]
+• A variation in transmitral inflow greater than 30% and/or in transtricuspid flow greater than 60%
+during respiration on Doppler recording (the echocardiographic demonstration of the clinical sign of
+pulsus paradoxus).[4][15] [44]
+• A variation in chamber sizes with respiration (larger RV and smaller left ventricle [LV] with
+inspiration).
+• Dilated inferior vena cava (IVC) and hepatic veins.
+• Reduced LV size and appearance of LV hypertrophy.
+• Septal shift (or "bounce") with inspiration.
+If diagnostic echocardiographic features are absent but tamponade is still clinically suspected, atypical
+forms of tamponade (loculated effusion, low pressure, external compression from tumor, or pleural
+effusion) should be considered and further investigated.
+ECG
+Although ECG is not diagnostic for tamponade, it may be useful in identifying pericarditis as an underlying
+cause.[15] A rhythm strip should be collected to look for beat-to-beat electrical alternans, which is a more
+specific sign of tamponade and is rarely seen in its absence.[5] [15] Low QRS voltage may also indicative
+of tamponade, but its absence does not exclude it.[15] [45]
+CXR
+CXR has no role in the initial diagnostic workup of cardiac tamponade as it is neither sensitive nor
+specific. The pericardium can hold over 200 cm³ of fluid before an enlarged silhouette is noted.[2] [5]
+ However, CXR may be helpful in ruling out other causes of dyspnea and chest pain.
+Cardiac CT or MRI
+Cardiac CT or MRI may be considered in cases of complicated cardiac tamponade: for example, in
+postoperative or loculated pericardial effusions.[4]
+Evidence of cardiac tamponade on static CT and MRI include:[4]
+• Compression of the anterior cardiac surface causing a “flattened heart”.
+• Angulation/bowing of the interventricular septum (correlating with inspiratory septal bounce on
+echocardiography).
+• Enlarged superior vena cava and IVC.
+On dynamic CT and MRI, diagnostic features of cardiac tamponade are similar to those found on
+echocardiography.
+Cardiac catheterization
+The most specific test for the diagnosis of tamponade is demonstration of equalization of chamber
+pressures; however, invasive hemodynamic monitoring is rarely necessary and is infrequently performed
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Cardiac tamponade Diagnosis
+in patients with pure tamponade.[15] It is useful in differentiating tamponade from constrictive pericarditis
+or restrictive cardiomyopathy.
+Pericardiocentesis fluid for culture and cytology
+Pericardiocentesis may help differentiate the underlying cause in nontraumatic cases and is the mainstay
+of treatment, but may also be useful in diagnosing potential etiology.
+History and exam
+Key diagnostic factors
+malignancy (common)
+• Metastatic disease (particularly breast and lung cancer) is much more likely than primary pericardial/
+cardiac malignancy to cause cardiac tamponade.[27] Effusion may be secondary to cancer therapy
+rather than actual metastatic pericardial disease.[26] [27] [28]
+presence of other risk factors (common)
+• Key risk factors include: aortic dissection, purulent pericarditis, large idiopathic pericardial effusion,
+tuberculosis, end-stage renal failure, hypothyroidism, and autoimmune disease.[18] [29][31] [33][36]
+[37][38]
+dyspnea (common)
+• Up to 90% of patients will report dyspnea.[10]
+elevated jugular venous pressure (JVP) (common)
+• One of the three signs of the Beck triad.
+• Central venous pressure is increased in an effort to maintain ventricular volumes.[10] One systematic
+review found that the pooled sensitivity of elevated JVP was 76% (95% CI 62% to 90%).[40] 
+distant heart sounds (common)
+• One of the three signs of the Beck triad.
+• Heart sounds may be muffled secondary to large pericardial effusion.[10] One systematic review found
+that the pooled sensitivity of distant heart sounds was low at 28% (95% CI 21% to 35%).[40]
+pulsus paradoxus (common)
+• Refers to a reduction in systolic blood pressure >10 mmHg with inspiration. Severe pulsus paradoxus
+can lead to a disappearance of the peripheral pulses with inspiration. One systematic review found
+that the pooled sensitivity of pulsus paradoxus >10 mmHg was 82% (95% CI 72% to 92%) and that
+its presence in a patient with a pericardial effusion increases the likelihood of tamponade (positive
+likelihood ratio 3.3), while a pulsus paradoxus ≤10 mmHg makes tamponade unlikely (negative
+likelihood ratio 0.03).[40]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Cardiac tamponade Diagnosis
+DIAGNOSIS
+hypotension (common)
+• One of the three signs of the Beck triad.
+• Has been reported to occur in up to 35% of patients with nontraumatic tamponade.[10] One systematic
+review found that the pooled sensitivity of hypotension was low at 26% (95% CI 16% to 36%).[40]
+tachycardia (common)
+• One of the most common findings in cardiac tamponade.[40] Has been reported to occur in up to 88%
+of patients.[10] One systematic review found that the pooled sensitivity of tachycardia was 77% (95%
+CI 69% to 85%).[40]
+recent cardiac surgery or intervention (uncommon)
+• Cardiac surgery or intervention is a strong risk factor for tamponade. In surgical patients, tamponade
+is most common following valve surgery and heart transplant and less common in isolated coronary
+artery bypass graft.[5] [34] [35] Rarely, tamponade may occur after thrombolysis or angioplasty,
+percutaneous coronary interventions, ablations, and pacemaker/defibrillator implantation.[22]
+Beck triad: hypotension, distant heart sounds, and elevated JVP (uncommon)
+• Most patients will not present with all of the classic features of the Beck triad (hypotension, distant
+heart sounds, and elevated JVP).[10] [40] [41] The triad was originally described in patients with acute
+tamponade secondary to trauma or surgery. In some medical patients, especially where the pericardial
+effusion has developed slowly, Beck triad may not be present at all.[40]
+Other diagnostic factors
+chest pain (common)
+• Atypical, nonexertional chest pain. Has been reported to occur in 12% to 74% of patients.[10]
+abdominal pain (common)
+• Secondary to hepatic congestion and or hypoperfusion. Has been reported to occur in 12% to 16% of
+patients.[10]
+fever (uncommon)
+• May indicate underlying infective etiology. Has been reported to occur in 7% to 70% of patients.[10]
+pericardial rub (uncommon)
+• More common in inflammatory etiologies of pericardial effusions. May be absent in large effusions.[2]
+Risk factors
+Strong
+malignancy
+• Malignancy is a common cause of hemodynamically significant pericardial effusions and, therefore,
+of cardiac tamponade, with lung and breast cancer the most common primary sites.[14] [16] [18] [26]
+Primary malignancies of the pericardium are rare.[27]
+• Tamponade without inflammatory signs is more likely to be related to malignancy.[20]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Cardiac tamponade Diagnosis
+• Up to 60% of malignancy-related effusions are not directly caused by the malignancy but are
+complications of radiation or systemic cancer therapy.[15][26] [27][28]
+aortic dissection
+• Cardiac tamponade is a common and life-threatening complication of acute type A aortic dissections
+(AAD).[12] [29] Findings from a large cohort of the International Registry of Acute Aortic Dissection
+found that tamponade was detected in 18.7% of patients.[30]
+purulent pericarditis
+• Severe bacterial infection of the pericardium is rare but rapidly fatal and carries a high risk of
+tamponade.[31] Cardiac tamponade may occur in up to 79% of patients with purulent pericarditis.[32]
+large idiopathic chronic pericardial effusion
+• Patients with large chronic effusions (>3 months) with inflammatory signs are more likely to develop
+tamponade than those without inflammatory signs.[20] Around one third of patients with large
+asymptomatic pericardial effusions will develop clinically significant tamponade.[33]
+post-cardiac surgery or intervention
+• Cardiac tamponade may present rapidly, secondary to hemorrhage (hemopericardium). In surgical
+patients, tamponade is most common following valve surgery and heart transplant and less common
+in isolated coronary artery bypass graft.[5] [34] [35] Rarely, tamponade may also occur after
+thrombolysis or angioplasty, percutaneous coronary interventions, ablations, and pacemaker/
+defibrillator implantation.[22]
+• Symptomatic postoperative pericardial effusion and cardiac tamponade can also occur as a late
+complication of cardiac surgery/intervention. One study followed up cardiac surgery patients for 6
+months post-procedure and found that 6.2% of patients underwent treatment for late postoperative
+pericardial effusion, of whom two-thirds were classified as having tamponade.[35] Median delay to
+presentation was 11 days post-operation (range: 8-87 days).
+tuberculosis (TB)
+• In people from endemic areas, especially in patients with HIV infection, the incidence of TB pericarditis
+and effusion is high. In a large urban study in the UK, TB accounted for 26% of pericardial effusions
+requiring surgical drainage. Most of these patients were native to areas with endemic TB.[18]
+Weak
+autoimmune disease
+• There are no large studies investigating the incidence of pericardial effusion or cardiac tamponade
+in patients with autoimmune diseases, but most case series report frequent detection of pericardial
+effusion with a low incidence of tamponade.[36]
+hypothyroidism
+• Though pericardial effusions are seen in up to 37% of patients with severe hypothyroidism, fluid
+accumulates slowly and tamponade rarely occurs.[15] [37]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Cardiac tamponade Diagnosis
+DIAGNOSIS
+end-stage renal failure
+• Usually develops gradually so the risk of tamponade is diminished. Asymptomatic pericardial effusions
+are reported to occur in 70% to 100% of patients with uremic- or dialysis-related pericarditis; cardiac
+tamponade occurs in up to 20% of patients with dialysis-related pericarditis.[38]
+anticoagulation
+• May increase the risk of large, hemorrhagic pericardial effusions when used in the management of
+anterior wall myocardial infarctions or constrictive pericarditis, or following cardiac surgery.[39]
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Cardiac tamponade Diagnosis
+Tests
+1st test to order
+Test Result
+ECG
+• An essential test in the evaluation of any patient with symptoms of
+tamponade.
+• A rhythm strip should also be collected to look for beat-to-
+beat electrical alternans, which is a more specific ECG sign of
+tamponade.[5] [15]
+• Electrical alternans is rarely seen in the absence of tamponade.
+• Low QRS voltage is indicative of cardiac tamponade, but its absence
+does not exclude tamponade.[45]
+low voltage,
+electrical alternans;
+electromechanical
+dissociation associated
+with end stage tamponade
+transthoracic echocardiogram
+• First-line investigation in cases of suspected cardiac tamponade
+as it provides rapid, readily available hemodynamic data to detect
+tamponade physiology.[4][15]
+pericardial effusion;
+chamber collapse and
+respiratory variation
+of ventricular filling;
+variation in transmitral
+flow >30% and/or in
+transtricuspid flow >60%
+on Doppler recording;
+inversion of the free wall
+of the right atrium for
+>⅓  of systole; dilated
+inferior vena cava and
+hepatic veins; reduced
+left ventricle (LV) size
+and appearance of LV
+hypertrophy; septal
+shift or "bounce" with
+inspiration
+CXR
+• Neither sensitive nor specific. The pericardium can hold over 200
+cm^3 of fluid before an enlarged silhouette is noted.[5]
+enlarged cardiac
+silhouette
+CBC
+• Baseline test; might indicate inflammatory pericarditis or anemia in
+chronic renal failure.
+raised WBC count and
+differentials; low Hb
+erythrocyte sedimentation rate/CRP
+• Nonspecific; may indicate an inflammatory process.
+may be elevated
+cardiac enzymes
+• Raised in cardiac trauma and myocardial infarction.
+may be elevated
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Cardiac tamponade Diagnosis
+DIAGNOSIS
+Other tests to consider
+Test Result
+cardiac CT
+• May be considered in cases of complicated tamponade: for example,
+in postoperative or loculated pericardial effusions.[4]
+static CT: pericardial
+effusion, compression
+of the anterior cardiac
+surface causing a
+“flattened heart”,
+angulation/bowing of
+the interventricular
+septum (correlating with
+inspiratory septal bounce
+on echocardiography),
+enlarged superior and
+inferior vena cava;
+dynamic CT (similar
+to echocardiography
+findings): pericardial
+effusion, chamber
+collapse and respiratory
+variation of ventricular
+filling, variation in
+transmitral flow >30%
+and/or in transtricuspid
+flow >60% on Doppler
+recording, inversion
+of the free wall of the
+right atrium for >⅓  of
+systole, dilated inferior
+vena cava and hepatic
+veins, reduced LV size
+and appearance of LV
+hypertrophy, septal
+shift or “bounce” with
+inspiration
+cardiac MRI
+• May be considered in cases of complicated tamponade: for example,
+in postoperative or loculated pericardial effusions.[4]
+static MRI: pericardial
+effusion, compression
+of the anterior cardiac
+surface causing a
+“flattened heart”,
+angulation/bowing of
+the interventricular
+septum (correlating with
+inspiratory septal bounce
+on echocardiography),
+enlarged superior and
+inferior vena cava;
+dynamic MRI (similar
+to echocardiography
+findings): pericardial
+effusion, chamber
+collapse and respiratory
+variation of ventricular
+filling, variation in
+transmitral flow >30%
+and/or in transtricuspid
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Cardiac tamponade Diagnosis
+Test Result
+flow >60% on Doppler
+recording, inversion
+of the free wall of the
+right atrium for >⅓  of
+systole, dilated inferior
+vena cava and hepatic
+veins, reduced LV size
+and appearance of LV
+hypertrophy, septal
+shift or “bounce” with
+inspiration
+cardiac catheterization
+• Direct measurement of the hemodynamic effects of tamponade.
+• Infrequently performed in patients with pure tamponade.[15]
+• Useful in differentiating tamponade from constrictive pericarditis or
+restrictive cardiomyopathy.
+equalization of diastolic
+pressures; respiratory
+reciprocal inflow
+pericardiocentesis fluid for culture and cytology
+• Pericardial fluid (collected from pericardiocentesis/surgical drainage)
+may be sent for culture and cytology to support diagnosing underlying
+etiology.
+may identify underlying
+cause in nontraumatic
+cases
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Cardiac tamponade Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Constrictive pericarditis • Seen after radiation therapy
+or after cardiac surgery or
+recurrent pericarditis.
+• Constrictive pericarditis
+behaves as if there were
+a box around the heart.
+Patients have Kussmaul
+sign: an increase in jugular
+venous pressure with
+inspiration. This is typically
+absent in tamponade.[4]
+• Echocardiogram typically
+can distinguish between
+constrictive pericarditis
+and cardiac tamponade,
+as constrictive pericarditis
+typically has a thickened
+pericardium and no effusion.
+Early diastolic filling is rapid,
+with impaired late diastolic
+filling in constriction. In
+tamponade, both early and
+late filling are impaired.[4]
+• CT or MRI may be used
+to assess the pericardial
+thickness.
+• Invasive hemodynamic
+measurements show a steep
+y-descent before chamber
+equalization that is absent in
+tamponade, creating a "dip
+and plateau" or "square root
+sign."
+Restrictive
+cardiomyopathy
+• Kussmaul sign (an increase
+in jugular venous pressure
+with inspiration).
+• Differentiated from
+tamponade by absence
+of effusion. Restriction
+is also marked by left
+ventricular hypertrophy,
+pulmonary hypertension,
+atrial enlargement, and lack
+of respiratory reciprocal
+variation.[4][44]
+Cardiogenic shock • Signs and symptoms similar
+to advanced tamponade.
+• Echocardiogram is useful.
+Expect poor ventricular
+function or regions of
+abnormal wall motion.
+Effusion is rare. No evidence
+of chamber collapse or
+reciprocal variation.
+Criteria
+Beck triad[46]
+Hypotension, elevated jugular venous pressure (JVP), and distant heart sounds.
+Most patients will not present with all of the classic features of the Beck triad (hypotension, distant heart
+sounds, and elevated JVP).[40] [41] One systematic review found that the sensitivities of hypotension and
+distant heart sounds were low, at 26% and 28%, respectively.[40] The most common physical exam findings
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Cardiac tamponade Diagnosis
+of tamponade included: tachycardia, elevated JVP, and pulsus paradoxus (>10 mmHg drop in systolic blood
+pressure with inspiration), with pooled sensitives of 76% to 82%.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Cardiac tamponade Management
+MANAGEMENT
+Approach
+Cardiac tamponade is a medical emergency requiring urgent treatment.
+Patients with confirmed tamponade on echocardiographic evaluation require stabilization with pericardial
+drainage through needle pericardiocentesis or surgical drainage; the preferred approach will depend on
+the underlying tamponade etiology and on patient comorbidities.[15] Following intervention, patients must
+be monitored (preferably in an intensive care unit) for pericardial decompression syndrome: a rare, but life-
+threatening complication of pericardial drainage that results in paradoxical hemodynamic instability and/or
+pulmonary edema.[47]
+Medical therapy is generally ineffective in the treatment of tamponade. Intravenous fluids may be given
+to hypovolemic patients; however, this only provides temporary stability.[48] [49] Inotropes are ineffective,
+and neither vasodilators or diuretics are recommended in tamponade management.[15] Positive pressure
+mechanical ventilation may further decrease cardiac filling, as it increases intrathoracic pressure, and
+therefore should be avoided.[50]
+Concomitant management of any identified underlying etiologies is key.[15] Further diagnostic investigation is
+required in patients without an apparent cause of tamponade.
+Management of patients without hemopericardium, trauma, or
+purulent effusion
+In the absence of hemorrhage, trauma, and purulence, patients with cardiac tamponade should
+be treated with needle pericardiocentesis under echocardiographic or fluoroscopic guidance.[15]
+ Pericardiocentesis should be undertaken immediately in patients presenting with sudden hemodynamic
+collapse and large pericardial effusion. In extreme, life-threatening circumstances where tamponade is
+known or suspected but imaging guidance is not available, pericardiocentesis should be attempted by
+experienced operators using anatomic landmarks.
+Major complications include: laceration of the coronary arteries or myocardium, laceration of the liver or
+abdominal viscera, air embolus, pneumothorax, damage to the phrenic nerve, or arrhythmias.[51] [52]
+Such complications occur in 1.5% to 2.0% of cases using echocardiographic guidance and in about 1% of
+cases using fluoroscopic guidance.[34] [53]
+Pericardiocentesis is contraindicated in aortic dissection and relatively contraindicated in patients with
+severe coagulopathy.[15] Immediate surgical drainage may be considered as an alternative option if
+pericardiocentesis is contraindicated.
+Management of patients with hemopericardium, trauma, or
+purulent effusion
+Surgical drainage is indicated in the management of cardiac tamponade complicated by
+hemopericardium, trauma, or purulent effusion.[15]
+Although several surgical modalities exist for pericardial drainage, there is a lack of randomized trials
+comparing outcomes between different techniques. Choice of modality, therefore, depends on the
+surgeon’s preferred technique and the underlying etiology.
+The traditional surgical approach involves a small subxiphoid incision, direct visualization of the
+pericardium, and incising the parietal pericardium. Drainage through video-assisted thoracoscopy with the
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Cardiac tamponade Management
+creation of a pericardial window is another approach that creates a communication between the pleura
+and the pericardium, allowing the pericardium to decompress.[54] One small retrospective study found an
+association with increased operative time and periprocedural morbidity, but a lower recurrence of effusion
+and tamponade.[55] Balloon pericardiotomy is a percutaneous, minimally invasive approach that has
+good short-term success rates and a low incidence of recurrent effusion or tamponade.[15]
+Management of patients with pericarditis
+In patients with cardiac tamponade secondary to nonpurulent pericarditis (i.e., viral or idiopathic),
+treatment with a nonsteroidal anti-inflammatory drug (NSAID) and colchicine should be given alongside
+the intervention.[56] This is to prevent pericardial fluid reaccumulation. Where pericarditis is refractory to
+initial medical treatment, or recurs after initial response, the addition of a corticosteroid or interleukin-1
+inhibitor should be considered. The AIRTRIP trial, a randomized trial of anakinra versus placebo for
+refractory pericarditis in 21 patients, showed that anakinra was significantly associated with reduction
+in the occurrence of recurrent pericarditis and led to the discontinuation of corticosteroids in all patients
+compared with placebo.[57] In the RHAPSODY trial, rilonacept monotherapy significantly reduced the
+recurrent of pericarditis.
+Purulent pericarditis is a rare occurrence with the advent of antibiotics, although it is a strong risk factor
+for tamponade.[32] Where it is suspected, intravenous antibiotic therapy must be started immediately.
+See Pericarditis .
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+without hemopericardium, trauma,
+or purulent effusion
+1st pericardiocentesis
+plus treatment of underlying cause
+2nd surgical drainage
+plus treatment of underlying cause
+with hemopericardium, trauma, or
+purulent effusion
+1st surgical drainage
+plus treatment of underlying cause
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Cardiac tamponade Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+without hemopericardium, trauma, or
+purulent effusion
+1st pericardiocentesis
+» In the absence of hemorrhage, trauma, and
+purulence, patients with cardiac tamponade
+should be treated with needle pericardiocentesis
+under echocardiographic or fluoroscopic
+guidance.[15] Pericardiocentesis should be
+undertaken immediately in patients presenting
+with sudden hemodynamic collapse and
+large pericardial effusion. In extreme, life-
+threatening circumstances where tamponade
+is known or suspected but imaging guidance
+is not available, pericardiocentesis should be
+attempted by experienced operators using
+anatomic landmarks.
+» Pericardiocentesis is contraindicated in aortic
+dissection and relatively contraindicated in
+patients with severe coagulopathy.[15]
+» Major complications include: laceration
+of the myocardium or coronary arteries,
+laceration of the liver or abdominal viscera,
+air embolus, pneumothorax, damage to the
+phrenic nerve, or arrhythmias.[51] [52] Such
+complications occur in 1.5% to 2.0% of cases
+using echocardiographic guidance and in about
+1% of cases using fluoroscopic guidance.[34]
+[53]
+» Patients must be monitored for pericardial
+decompression syndrome: a rare, but life-
+threatening complication of pericardial drainage
+that results in paradoxical hemodynamic
+instability and/or pulmonary edema.[47]
+plus treatment of underlying cause
+Treatment recommended for ALL patients in
+selected patient group
+» Concomitant management of any identified
+underlying etiologies is key.[15] Further
+diagnostic investigation is required in patients
+without an apparent cause of tamponade.
+» In patients with cardiac tamponade
+secondary to nonpurulent pericarditis
+(i.e., viral or idiopathic), treatment with a
+nonsteroidal anti-inflammatory drug (NSAID)
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Cardiac tamponade Management
+Acute
+and colchicine should be given alongside the
+intervention.[56] This is to prevent pericardial
+fluid reaccumulation. Where pericarditis is
+refractory to medical treatment, or recurs after
+initial response, the addition of a corticosteroid
+or interleukin-1 inhibitor should be considered.
+See Pericarditis .
+2nd surgical drainage
+» Immediate surgical drainage may be
+considered as an alternative option if
+pericardiocentesis is contraindicated.
+Pericardiocentesis is contraindicated in aortic
+dissection and relatively contraindicated in
+patients with severe coagulopathy.[15]
+» Although several surgical modalities exist
+for pericardial drainage, there is a lack of
+randomized trials comparing outcomes between
+different techniques. Choice of modality,
+therefore, depends on the surgeon’s preferred
+technique and the underlying etiology.
+» The traditional surgical approach involves a
+small subxiphoid incision, direct visualization
+of the pericardium, and incising the parietal
+pericardium. Drainage through video-assisted
+thoracoscopy with the creation of a pericardial
+window is another approach that creates
+a communication between the pleura and
+the pericardium, allowing the pericardium to
+decompress.[54] One small retrospective study
+found an association with increased operative
+time and periprocedural morbidity, but a lower
+recurrence of effusion and tamponade.[55]
+ Balloon pericardiotomy is a percutaneous,
+minimally invasive approach that has good
+short-term success rates and a low incidence of
+recurrent effusion or tamponade.[15]
+» Patients must be monitored for pericardial
+decompression syndrome: a rare, but life-
+threatening complication of pericardial drainage
+that results in paradoxical hemodynamic
+instability and/or pulmonary edema.[47]
+plus treatment of underlying cause
+Treatment recommended for ALL patients in
+selected patient group
+» Concomitant management of any identified
+underlying etiologies is key.[15] Further
+diagnostic investigation is required in patients
+without an apparent cause of tamponade.
+» In patients with cardiac tamponade secondary
+to nonpurulent pericarditis (i.e., viral or
+idiopathic), treatment with a NSAID and
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Cardiac tamponade Management
+MANAGEMENT
+Acute
+colchicine should be given alongside the
+intervention.[56] This is to prevent pericardial
+fluid reaccumulation. Where pericarditis is
+refractory to medical treatment, or recurs after
+initial response, the addition of a corticosteroid
+or interleukin-1 inhibitor should be considered.
+See Pericarditis .
+with hemopericardium, trauma, or
+purulent effusion
+1st surgical drainage
+» Surgical drainage is indicated in the
+management of cardiac tamponade complicated
+by hemopericardium, trauma, or purulent
+effusion.[15]
+» Although several surgical modalities exist
+for pericardial drainage, there is a lack of
+randomized trials comparing outcomes between
+different techniques. Choice of modality,
+therefore, depends on the surgeon’s preferred
+technique and the underlying etiology.
+» The traditional surgical approach involves a
+small subxiphoid incision, direct visualization
+of the pericardium, and incising the parietal
+pericardium. Drainage through video-assisted
+thoracoscopy with the creation of a pericardial
+window is another approach that creates
+a communication between the pleura and
+the pericardium, allowing the pericardium to
+decompress.[54] One small retrospective study
+found an association with increased operative
+time and periprocedural morbidity, but a lower
+recurrence of effusion and tamponade.[55]
+ Balloon pericardiotomy is a percutaneous,
+minimally invasive approach that has good
+short-term success rates and a low incidence of
+recurrent effusion or tamponade.[15]
+» Patients must be monitored for pericardial
+decompression syndrome: a rare, but life-
+threatening complication of pericardial drainage
+that results in paradoxical hemodynamic
+instability and/or pulmonary edema.[47]
+plus treatment of underlying cause
+Treatment recommended for ALL patients in
+selected patient group
+» Concomitant management of any identified
+underlying etiologies is key.[15] Further
+diagnostic investigation is required in patients
+without an apparent cause of tamponade.
+» Purulent pericarditis is a rare occurrence
+with the advent of antibiotics, although it is a
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Cardiac tamponade Management
+Acute
+strong risk factor for tamponade.[32] Where it is
+suspected, intravenous antibiotic therapy must
+be started immediately. See Pericarditis .
+Patient discussions
+In up to 60% of patients, known previous conditions can be identified as the cause of pericardial
+effusion.[16] Patients with risk factors for pericardial effusion or tamponade should be advised regarding
+frequently reported signs and symptoms (e.g., dyspnea, chest pain, abdominal pain) and to seek urgent
+medical attention should these develop.
+Patients without a clear etiology for tamponade will require further diagnostic investigation.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Cardiac tamponade Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+While routine imaging after drainage is not recommended to detect reaccumulation, patients should be
+followed up closely for the development of symptoms. There should be a low threshold to re-image if
+patients become symptomatic. For patients with pericardial drains in place, repeat echocardiogram may
+be performed before removal of the drain. Patients who have undergone a surgical pericardial "window"
+are at some risk to reaccumulate an effusion, particularly if the etiology of the effusion persists.
+Complications
+Complications Timeframe Likelihood
+recurrent pericardial effusion short term high
+Recurrence of the effusion will be determined by the underlying etiology. If the underlying disease is
+managed appropriately, the risk of recurrence is much less.
+Pericardiocentesis, windows, and traditional surgical drainage may all close and allow reaccumulation
+of fluid. The recurrence rate is about 50% after pericardiocentesis, and about 10% to 20% after surgical
+drainage in patients with malignant effusions.[20] [53]
+See Evaluation of pericardial effusion .
+cardiac arrest short term medium
+Without prompt diagnosis and urgent intervention, cardiac tamponade can progress to cardiovascular
+collapse, ultimately resulting in cardiac arrest.
+cardiogenic shock short term medium
+In severe hemodynamic collapse, patients may present in cardiogenic shock.[2] Renal failure may develop
+secondary to organ hypoperfusion.
+pericardial decompression syndrome (PDS) short term low
+Following pericardial drainage, patients must be monitored (preferably in the intensive care unit) for PDS:
+a rare, but life-threatening complication of pericardial drainage that results in paradoxical hemodynamic
+instability and/or pulmonary edema.[47]
+death variable medium
+In-hospital mortality rates have been most closely associated with the causative disease: acute myocardial
+infarction (70% to 100%), aortic dissection (65%), bleeding/anticoagulation (40%), malignancy (16%),
+iatrogenic (10%), infectious/inflammatory (8%).[10] [20]
+Malignancy-related cardiac tamponade has a poor prognosis with around 80% mortality at 12 months.[58]
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Cardiac tamponade Follow up
+Prognosis
+Without urgent pericardial drainage patients will progress to cardiovascular collapse and death.
+Several studies have retrospectively examined predictors of survival after tamponade. In-hospital mortality
+rates have been most closely associated with the causative disease: acute myocardial infarction (70%
+to 100%), aortic dissection (65%), bleeding/anticoagulation (40%), malignancy (16%), iatrogenic (10%),
+infectious/inflammatory (8%).[10][20] 
+Malignancy-related cardiac tamponade has a poor prognosis with around 80% mortality at 12 months.[58]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Cardiac tamponade Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+American Society of Echocardiography clinical recommendations for
+multimodality cardiovascular imaging of patients with pericardial disease
+ (https://www.asecho.org/ase-guidelines-by-publication-date)   [4]
+Published by: American Society of Echocardiography Last published: 2013
+2015 ESC guidelines on the diagnosis and management of pericardial
+diseases (https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)  
+[15]
+Published by: European Society of Cardiology Last published: 2015
+Treatment guidelines
+International
+2015 ESC guidelines on the diagnosis and management of pericardial
+diseases (https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)  
+[15]
+Published by: European Society of Cardiology Last published: 2015
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Cardiac tamponade References
+Key articles
+• Klein AL, Abbara S, Agler DA, et al. American Society of Echocardiography clinical recommendations
+for multimodality cardiovascular imaging of patients with pericardial disease: endorsed by the Society
+for Cardiovascular Magnetic Resonance and Society of Cardiovascular Computed Tomography.
+J Am Soc Echocardiogr. 2013 Sep;26(9):965-1012.  Full text (https://onlinejase.com/article/
+S0894-7317(13)00533-6/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23998693?
+tool=bestpractice.bmj.com)
+• Adler Y, Charron P, Imazio M, et al. 2015 ESC Guidelines for the diagnosis and management
+of pericardial diseases. Eur Heart J. 2015 Nov 7;36(42):2921-64.  Full text (http://
+eurheartj.oxfordjournals.org/content/36/42/2921.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26320112?tool=bestpractice.bmj.com)
+References
+1. LeWinter MM, Kabbani S. Pericardial diseases. In: Zipes DP, Libby P, Bonow P, et al. Braunwald's
+heart disease: a textbook of cardiovascular medicine. 7th ed. Philadelphia: WB Saunders;
+2005:1757-1781.
+2. Kearns MJ, Walley KR. Tamponade: hemodynamic and echocardiographic diagnosis.
+Chest. 2018 May;153(5):1266-75. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29137910?
+tool=bestpractice.bmj.com)
+3. Reddy PS, Curtis EI, O'Toole JD, et al. Cardiac tamponade: hemodynamic observations in man.
+Circulation. 1978 Aug;58(2):265-72.  Full text (http://circ.ahajournals.org/content/58/2/265.long)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/668074?tool=bestpractice.bmj.com)
+4. Klein AL, Abbara S, Agler DA, et al. American Society of Echocardiography clinical recommendations
+for multimodality cardiovascular imaging of patients with pericardial disease: endorsed by the Society
+for Cardiovascular Magnetic Resonance and Society of Cardiovascular Computed Tomography.
+J Am Soc Echocardiogr. 2013 Sep;26(9):965-1012.  Full text (https://onlinejase.com/article/
+S0894-7317(13)00533-6/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23998693?
+tool=bestpractice.bmj.com)
+5. Spodick DH. Acute cardiac tamponade. N Engl J Med. 2003 Aug 14;349(7):684-90. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12917306?tool=bestpractice.bmj.com)
+6. Sagristaà-Sauleda J, Angel J, Sambola A, et al. Low pressure cardiac tamponade: clinical and
+hemodynamic profile. Circulation. 2006 Aug 29;114(9):945-52.  Full text (http://circ.ahajournals.org/
+cgi/content/full/114/9/945)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16923755?
+tool=bestpractice.bmj.com)
+7. Antman EM, Cargill V, Grossman W. Low-pressure cardiac tamponade. Ann Intern Med. 1979
+Sep;91(3):403-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/475168?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Cardiac tamponade References
+REFERENCES
+8. Hancock EW. Subacute effusive-constrictive pericarditis. Circulation. 1971;43:183-92. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/5540704?tool=bestpractice.bmj.com)
+9. Sagrista-Sauleda J, Angel J, Sanchez A, et al. Effusive-constrictive pericarditis. N Engl J Med. 2004
+Jan 29;350(5):469-75.  Full text (http://www.nejm.org/doi/full/10.1056/NEJMoa035630)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/14749455?tool=bestpractice.bmj.com)
+10. Alerhand S, Adrian RJ, Long B, et al. Pericardial tamponade: a comprehensive emergency
+medicine and echocardiography review. Am J Emerg Med. 2022 Aug;58:159-74. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35696801?tool=bestpractice.bmj.com)
+11. Klopfenstein HS, Schuchard H, Wann LS, et al. The relative merits of pulsus paradoxus and
+right ventricular diastolic collapse in the early detection of cardiac tamponade. Circulation. 1985
+Apr;71(4):829-33.  Full text (http://circ.ahajournals.org/content/71/4/829.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3971548?tool=bestpractice.bmj.com)
+12. Adler Y, Ristić AD, Imazio M, et al. Cardiac tamponade. Nat Rev Dis Primers. 2023 Jul 20;9(1):36.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37474539?tool=bestpractice.bmj.com)
+13. Vecchié A, Chiabrando JG, Dell MS, et al. Clinical presentation and outcomes of acute pericarditis
+in a large urban hospital in the United States of America. Chest. 2020 Dec;158(6):2556-67.  Full
+text (https://pmc.ncbi.nlm.nih.gov/articles/PMC7768931)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32717264?tool=bestpractice.bmj.com)
+14. Columbo A, Olson HG, Egan J, et al. Etiology and prognostic implications of a large pericardial
+effusion in men. Clin Cardiol. 1988 Jun;11(6):389-94.  Full text (https://onlinelibrary.wiley.com/
+doi/abs/10.1002/clc.4960110606)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3293859?
+tool=bestpractice.bmj.com)
+15. Adler Y, Charron P, Imazio M, et al. 2015 ESC Guidelines for the diagnosis and management
+of pericardial diseases. Eur Heart J. 2015 Nov 7;36(42):2921-64.  Full text (http://
+eurheartj.oxfordjournals.org/content/36/42/2921.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26320112?tool=bestpractice.bmj.com)
+16. Sagrista-Sauleda J, Merce J, Permanyer-Miralda G, et al. Clinical clues to the causes of large
+pericardial effusions. Am J Med. 2000 Aug 1;109(2):95-101. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10967149?tool=bestpractice.bmj.com)
+17. Selavraju N, Mahadevan G, Liu KY. Cardiac tamponade in a multiracial population: epidemiology,
+clinical characteristics and survival outcomes - a single centre experience. Eur Heart J. 2023 Feb
+1;44(1 suppl):ehac779.077.  Full text (https://academic.oup.com/eurheartj/article/44/Supplement_1/
+ehac779.077/7000507)
+18. Gibbs C, Watson RD, Singh SP, et al. Management of pericardial effusion by drainage: a survey of
+10 years' experience in a city centre general hospital serving a multiracial population. Postgrad Med
+J. 2000 Dec;76(902):809-13.  Full text (https://academic.oup.com/pmj/article/76/902/809/7040147)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11085787?tool=bestpractice.bmj.com)
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Cardiac tamponade References
+19. Nkoke C, Makoge C, Tewafeu D, et al. Large hemorrhagic pericardial effusion with cardiac tamponade
+in a 16-year-old adolescent in an endemic area of tuberculosis: a case report. Pan Afr Med J. 2021
+Oct 22;40:117.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC8627139)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34887991?tool=bestpractice.bmj.com)
+20. Soler-Soler J, Sagristà-Sauleda J, Permanyer-Miralda G., et al. Management of pericardial effusion.
+Heart. 2001 Aug;86(2):235-40.  Full text (https://heart.bmj.com/content/86/2/235.long)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/11454853?tool=bestpractice.bmj.com)
+21. Borregaard B, Sibilitz KL, Weiss MG, et al. Occurrence and predictors of pericardial effusion
+requiring invasive treatment following heart valve surgery. Open Heart. 2022 Jan;9(1).  Full text
+(https://www.doi.org/10.1136/openhrt-2021-001880)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35064056?tool=bestpractice.bmj.com)
+22. Patel MR, Meine TJ, Linblad L. Cardiac tamponade in the fibrinolytic era: analysis of >100,000 patients
+with ST-segment elevation myocardial infarction. Am Heart J. 2006 Feb;151(2):316-22. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16442893?tool=bestpractice.bmj.com)
+23. Jensen JK, Poulsen SH, Mølgaard H. Cardiac tamponade: a clinical challenge. Eur Heart J. 2017
+Sep 27;15(17):107-13.  Full text (https://www.escardio.org/Journals/E-Journal-of-Cardiology-Practice/
+Volume-15/Cardiac-tamponade-a-clinical-challenge)
+24. Yuriditsky E, Horowitz JM. The physiology of cardiac tamponade and implications for patient
+management. J Crit Care. 2024 Apr;80:154512. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/38154410?tool=bestpractice.bmj.com)
+25. Hoit BD. Pathophysiology of the pericardium. Prog Cardiovasc Dis. 2017 Jan-Feb;59(4):341-8.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27916673?tool=bestpractice.bmj.com)
+26. Burazor I, Imazio M, Markel G, et al. Malignant pericardial effusion. Cardiology. 2013;124(4):224-32.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23571453?tool=bestpractice.bmj.com)
+27. Ghosh AK, Crake T, Manisty C, et al. Pericardial disease in cancer patients. Curr Treat Options
+Cardiovasc Med. 2018 Jun 23;20(7):60.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC6015600)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29936603?tool=bestpractice.bmj.com)
+28. Maisch B, Ristic A, Pankuweit S. Evaluation and management of pericardial effusion in patients
+with neoplastic disease. Prog Cardiovasc Dis. 2010 Sep-Oct;53(2):157-63. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20728703?tool=bestpractice.bmj.com)
+29. Guo R, Feng YM, Wan D. Hemorrhagic cardiac tamponade complicated by acute type A aortic
+dissection: a case report with critical care ultrasound findings. Medicine (Baltimore). 2017
+Dec;96(49):e8773.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC5728849)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29245234?tool=bestpractice.bmj.com)
+30. Gilon D, Mehta RH, Oh JK, et al. Characteristics and in-hospital outcomes of patients with cardiac
+tamponade complicating type A acute aortic dissection. Am J Cardiol. 2009 Apr 1;103(7):1029-31.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19327436?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Cardiac tamponade References
+REFERENCES
+31. Latif A, Patel AD, Mahfood Haddad T, et al. Massive purulent pericarditis presenting as
+cardiac tamponade. Proc (Bayl Univ Med Cent). 2020 Jul 9;33(4):662-3.  Full text (https://
+pmc.ncbi.nlm.nih.gov/articles/PMC7549922)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33100562?tool=bestpractice.bmj.com)
+32. Sagristà-Sauleda J, Barrabés JA, Permanyer-Miralda G, et al. Purulent pericarditis: review of
+a 20-year experience in a general hospital. J Am Coll Cardiol. 1993 Nov 15;22(6):1661-5.  Full
+text (https://www.sciencedirect.com/science/article/pii/073510979390592O)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8227835?tool=bestpractice.bmj.com)
+33. Sagrista-Sauleda J, Angel J, Permanyer-Miralda G, et al. Long-term follow up of idiopathic chronic
+pericardial effusion. N Engl J Med. 1999 Dec 30;341(27):2054-9.  Full text (https://www.nejm.org/doi/
+full/10.1056/NEJM199912303412704?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%3dpubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10615077?tool=bestpractice.bmj.com)
+34. Tsang TS, Barnes ME, Hayes SN, et al. Clinical and echocardiographic characteristics of significant
+pericardial effusions following cardiothoracic surgery and outcomes of echo-guided pericardiocentesis
+for management: Mayo Clinic experience, 1979-1998. Chest. 1999 Aug;116(2):322-31. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10453858?tool=bestpractice.bmj.com)
+35. Khan NK, Järvelä KM, Loisa EL, et al. Incidence, presentation and risk factors of late postoperative
+pericardial effusions requiring invasive treatment after cardiac surgery. Interact Cardiovasc Thorac
+Surg. 2017 Jun 1;24(6):835-40.  Full text (https://academic.oup.com/icvts/article/24/6/835/3003191)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28329077?tool=bestpractice.bmj.com)
+36. Nor MA, Ogedegbe OJ, Barbarawi A, et al. Systemic lupus erythematosus and cardiovascular
+diseases: a systematic review. Cureus. 2023 May 21;15(5):e39284.  Full text (https://
+pmc.ncbi.nlm.nih.gov/articles/PMC10280490)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/37346216?tool=bestpractice.bmj.com)
+37. Chahine J, Ala CK, Gentry JL, et al. Pericardial diseases in patients with hypothyroidism.
+Heart. 2019 Jul;105(13):1027-33. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30948517?
+tool=bestpractice.bmj.com)
+38. Rehman KA, Betancor J, Xu B, et al. Uremic pericarditis, pericardial effusion, and constrictive
+pericarditis in end-stage renal disease: insights and pathophysiology. Clin Cardiol. 2017
+Oct;40(10):839-46.  Full text (https://www.doi.org/10.1002/clc.22770)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28873222?tool=bestpractice.bmj.com)
+39. Kuvin JT, Harati NA, Pandian NG, et al. Postoperative cardiac tamponade in the modern surgical
+era. Ann Thorac Surg. 2002 Oct;74(4):1148-53.  Full text (https://www.annalsthoracicsurgery.org/
+article/S0003-4975(02)03837-7/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12400760?
+tool=bestpractice.bmj.com)
+40. Roy CL, Minor MA, Brookhart MA, et al. Does this patient with a pericardial effusion have
+cardiac tamponade? JAMA. 2007 Apr 25;297(16):1810-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17456823?tool=bestpractice.bmj.com)
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Cardiac tamponade References
+41. Stolz L, Valenzuela J, Situ-LaCasse E, et al. Clinical and historical features of emergency
+department patients with pericardial effusions. World J Emerg Med. 2017;8(1):29-33.  Full text
+(https://pmc.ncbi.nlm.nih.gov/articles/PMC5263032)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28123617?tool=bestpractice.bmj.com)
+42. Gillam LD, Guyer DE, Gibson TC, et al. Hydrodynamic compression of the right atrium: a new
+echocardiographic sign of cardiac tamponade. Circulation. 1983 Aug;68(2):294-301.  Full text (http://
+circ.ahajournals.org/content/68/2/294.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6861307?
+tool=bestpractice.bmj.com)
+43. Liemgruber P, Klopfenstein HS, Wann LS, et al. The hemodynamic derangement associated with
+right ventricular diastolic collapse in cardiac tamponade. An experimental echocardiographic study.
+Circulation. 1983 Sep;68(3):612-20. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6872172?
+tool=bestpractice.bmj.com)
+44. Otto C. Textbook of clinical echocardiography. 3rd ed. Philadelphia: WB Saunders; 2004.
+45. Bruch C, Schmermund A, Dagres N, et al. Changes in QRS voltage in cardiac tamponade and
+pericardial effusion: reversibility after pericardiocentesis and after anti-inflammatory drug treatment.
+J Am Coll Cardiol. 2001 Jul;38(1):219-26.  Full text (http://www.sciencedirect.com/science/
+article/pii/S0735109701013134)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11451278?
+tool=bestpractice.bmj.com)
+46. Beck CS. Two cardiac compression triads. JAMA. 1935 Mar 2;104(9):714-6.
+47. Prabhakar Y, Goyal A, Khalid N, et al. Pericardial decompression syndrome: a comprehensive
+review. World J Cardiol. 2019 Dec 26;11(12):282-91.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/
+PMC6937413)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31908728?tool=bestpractice.bmj.com)
+48. Singh V, Dwivedi SK, Chandra S, et al. Optimal fluid amount for haemodynamic benefit in
+cardiac tamponade. Eur Heart J Acute Cardiovasc Care. 2014 Jun;3(2):158-64. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24399485?tool=bestpractice.bmj.com)
+49. Sagristà-Sauleda J, Angel J, Sambola A, et al. Hemodynamic effects of volume expansion
+in patients with cardiac tamponade. Circulation. 2008 Mar 25;117(12):1545-9.  Full text
+(https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.107.737841)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18332261?tool=bestpractice.bmj.com)
+50. Ristić AD, Simeunovi D, Milinković I, et al. Preoperative and perioperative management of patients
+with pericardial diseases. Acta Chir Iugosl. 2011;58(2):45-53. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21879650?tool=bestpractice.bmj.com)
+51. Armstrong WF, Feigenbaum H, Dillon JC. Acute right ventricular dilation and volume overload after
+pericardiocentesis for relief of cardiac tamponade. Am Heart J. 1984 Jun;107(6):1266-70. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/6720556?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Cardiac tamponade References
+REFERENCES
+52. Kumar R, Sinha A, Lin MJ, et al. Complications of pericardiocentesis: a clinical synopsis. Int J Crit
+Illn Inj Sci. 2015 Jul-Sep;5(3):206-12.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC4613420)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26557491?tool=bestpractice.bmj.com)
+53. Duvernoy O, Boroweik J, Helmius G, et al. Complications of percutaneous pericardial drainage under
+fluoroscopic guidance. Acta Radiol. 1992 Jul;33(4):309-13. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/1633040?tool=bestpractice.bmj.com)
+54. Georghiou GP, Stamler A, Sharoni E, et al. Video-assisted thoracoscopic pericardial window for
+diagnosis and management of pericardial effusions. Ann Thorac Surg. 2005 Aug;80(2):607-10.  Full
+text (https://www.annalsthoracicsurgery.org/article/S0003-4975(05)00336-X/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16039214?tool=bestpractice.bmj.com)
+55. Vaitkus PT, Herrmann HC, LeWinter MM. Treatment of malignant pericardial effusion. JAMA. 1994 Jul
+6;272(1):59-64. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8007081?tool=bestpractice.bmj.com)
+56. Chiabrando JG, Bonaventura A, Vecchié A, et al. Management of acute and recurrent
+pericarditis: JACC state-of-the-art review. J Am Coll Cardiol. 2020 Jan 7;75(1):76-92.  Full
+text (https://www.sciencedirect.com/science/article/pii/S0735109719384840)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31918837?tool=bestpractice.bmj.com)
+57. Brucato A, Imazio M, Gattorno M, et al. Effect of anakinra on recurrent pericarditis among patients with
+colchicine resistance and corticosteroid dependence: the AIRTRIP randomized clinical trial. JAMA.
+2016 Nov 8;316(18):1906-12.  Full text (https://jamanetwork.com/journals/jama/fullarticle/2579869)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27825009?tool=bestpractice.bmj.com)
+58. Kızıltunç E, Ünlü S, Yakıcı İE, et al. Clinical characteristics and prognosis of cardiac tamponade
+patients: 5 ‑ y e a r  experience at a tertiary center. Herz. 2020 Nov;45(7):676-83. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30470911?tool=bestpractice.bmj.com)
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Cardiac tamponade Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Cardiac tamponade Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Contributors:
+// Authors:
+Antonio Abbate, MD, PhD
+Ruth C. Heede Professor of Cardiovascular Medicine
+Division of Cardiovascular Medicine, Berne Cardiovascular Research Center, University of Virginia School
+of Medicine, Charlottesville, VA
+DISCLOSURES: AA has received consultant fees from Kiniksa Pharmaceuticals. He is an author of
+references cited in this topic.
+// Acknowledgements:
+Dr Antonio Abbate would like to gratefully acknowledge Dr Vaikom S. Mahadevan, Dr Harsh Agrawal, Dr
+Jonathan Bella, Dr Liran Blum, and Dr Michael Spinelli, previous contributors to this topic.
+DISCLOSURES: VSM declares that he is a proctor for Edwards Lifesciences for transcatheter valves and
+also a proctor for Abbott for closure devices. HA, JB, LB, and MS declare that they have no competing
+interests.
+// Peer Reviewers:
+Ramon Castello, MD
+Professor of Medicine
+Director of Echocardiography, Mayo Clinic, Jacksonville, FL
+DISCLOSURES: RC declares that he has no competing interests.

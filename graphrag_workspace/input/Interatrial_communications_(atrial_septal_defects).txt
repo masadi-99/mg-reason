@@ -1,0 +1,1572 @@
+# Interatrial communications (atrial septal defects)
+
+=== Page 1 ===
+Interatrial communications
+(atrial septal defects)
+Straight to the point of care
+Last updated: Aug 06, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  5
+Case history  6
+Diagnosis  8
+Approach  8
+History and exam  12
+Risk factors  12
+Tests  14
+Differentials  18
+Management  20
+Approach  20
+Treatment algorithm overview  22
+Treatment algorithm  24
+Patient discussions  28
+Follow up  29
+Monitoring  29
+Complications  30
+Prognosis  31
+Guidelines  32
+Diagnostic guidelines  32
+Treatment guidelines  33
+References  34
+Images  39
+Disclaimer  44
+=== Page 3 ===
+Interatrial communications (atrial septal defects) Overview
+Summary
+Interatrial communications (shunts between the atrial chambers) are often referred to as atrial septal defects
+(ASDs), although only secundum and vestibular defects are true defects within the atrial septum.
+Other atrial level shunts that result in similar physiologic effects are sinus venosus defects, ostium primum
+defects, and unroofed coronary sinus defects.
+Corrective closure is recommended if Qp:Qs (ratio of pulmonary blood flow to systemic blood flow) is ≥1.5.
+Sinus venosus defect with partial anomalous pulmonary drainage and unroofed coronary sinus (especially if
+associated with a persistent left superior vena cava) should be corrected irrespective of shunt volume.
+Correction is usually performed between ages 2 to 4 years, but can be done in younger patients if
+hemodynamically not well tolerated.
+Percutaneous device closure is the preferred treatment for secundum defects.
+Surgical closure is indicated for large defects, defects with missing rims that prevent secure placement of a
+catheter device, or if associated lesions need corrective surgery simultaneously.
+Pulmonary hypertension can develop, leading to shunt reversal (Eisenmenger syndrome). Patients need
+detailed preoperative assessment to confirm that pulmonary vascular resistance is responsive to medical
+management. If pulmonary vascular resistance remains high, corrective closure may not be tolerated.
+Definition
+An interatrial communication is a congenital cardiac defect that occurs as the result of incomplete separation
+between the left and right atrium.
+There are five types of interatrial communication: secundum, ostium primum, sinus venosus, coronary sinus,
+and vestibular.
+Only secundum and vestibular defects are located in the true atrial septum and are, therefore, ASDs. Primum
+defects, sinus venosus defects, and coronary sinus defects have historically been classed as ASDs due to
+the left-to-right shunt they produce; however, they are more precisely described as interatrial communications
+as they are not located in the true septum.[1] [2]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Interatrial communications (atrial septal defects) Theory
+THEORY
+Epidemiology
+Interatrial communications occur in 1 to 2 per 1000 live births.[11] [12]  Secundum defects account for 80%
+of interatrial communications and have a 2:1 female-to-male predominance.[13] [14] [15] The other types of
+interatrial communications occur far less frequently: ostium primum (15%), sinus venosus (5%), and unroofed
+coronary sinus defects (1%).[13] The prevalence of vestibular atrial septal defects (ASDs) is not known,
+although one retrospective review found that 3% of necropsy specimens had vestibular ASDs; increased
+awareness of the location of vestibular ASDs will provide more accurate data in future.[7]
+Interatrial communications can also occur in conjunction with other congenital heart defects.
+Etiology
+Most interatrial communications occur sporadically with no family history of congenital heart defects. Familial
+traits have been reported, caused by mutations in the transcription factors NKX2.5 and TBX5, as well as
+the structural protein MYH6.[16] [17] [18] Associations with genetic syndromes (e.g., trisomy 21, Holt-Oram
+syndrome, Noonan syndrome) are well documented. Girls are more likely than boys to develop interatrial
+communications. Maternal alcohol consumption increases the risk of developing a range of congenital heart
+conditions, including interatrial communications.[19]
+Pathophysiology
+Interatrial blood flow is maintained throughout cardiac embryogenesis while two different septal structures
+form. The first septum to develop is the septum primum. Programmed cell death in the anterosuperior aspect
+of the septum primum results in an ostium secundum. The septum secundum then develops to the right of
+the septum primum as an infolding of the atrial wall forming the limbus of the fossa ovalis.[20] The septum
+secundum covers the ostium secundum, which results in a valve mechanism allowing only for right-left
+shunting. The septum primum forms the floor of the fossa ovalis. An abnormality during the development of
+these structures can result in an interatrial communication.
+Secundum atrial septal defects (ASDs) develop due to a mismatch of septum secundum and ostium
+secundum. Ostium primum defects are endocardial cushion defects preventing adequate fusion with the
+septum primum. Superior sinus venosus defects have been attributed to the persistence of fetal systemic to
+pulmonary veno-venous bridges.[21] They are associated with anomalous pulmonary venous drainage of
+right upper pulmonary veins. Inferior sinus venosus defects can develop between the inferior vena cava and
+the right atrium.
+The direction of blood flow through the defect is related to the relative compliances of the ventricles. In
+infancy, the right ventricle is relatively thick and noncompliant; therefore, the amount of left-to-right shunt
+is minimal. However, as the pulmonary vascular resistance decreases, the right ventricle becomes more
+compliant, increasing the left-to-right shunt. With age, the left-to-right shunt is exacerbated by increasing
+stiffness of the left ventricle associated with aging and systemic hypertension.
+The right atrium, right ventricle, and pulmonary arteries may enlarge due to the increased volume load. The
+pulmonary and tricuspid valves may become incompetent due to enlargement of the valve's annuli. Despite
+the increased volume load, the pulmonary artery pressures usually are only slightly increased. However, the
+chronic volume overload can cause engorgement of the pulmonary arteries, capillaries, and veins. Some
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Interatrial communications (atrial septal defects) Theory
+patients develop medial hypertrophy of the pulmonary arteries and pulmonary vascular obstructive disease.
+Patients become cyanotic if the shunt reverses.
+Classification
+Classification according to location
+Interatrial communications are classified according to their location and the proposed embryogenesis.[2] The
+true atrial septum comprises the fossa ovalis and a muscular antero-inferior rim. Therefore, only secundum
+and vestibular ASDs are located in the true atrial septum. Primum defects, sinus venosus defects, and
+unroofed coronary sinus defects have historically been classed as ASDs due to the left-to-right shunt they
+produce. However, they are more precisely described as interatrial communications.  
+• Secundum ASDs are found in the region of the fossa ovalis.
+• Ostium primum defects are found anterior to the fossa ovalis and superior to the atrioventricular
+valves. These defects are a type of endocardial cushion defect (similar to complete atrioventricular
+septal defects) and are associated with a cleft in the anterior leaflet of the left atrioventricular valve.
+Morphologically, this is better described as a “zone of apposition” of the left atrioventricular valve of the
+atrioventricular septal defect, and distinctly different from a true cleft in the anterior leaflet of the mitral
+valve.[3] [4]
+• Sinus venosus defects usually occur superior and posterior to the fossa ovalis, with an intact limbus
+separating the defect from the fossa. They are associated with anomalous connection of the right
+pulmonary veins, especially the right superior and middle pulmonary veins. The caval vein (superior or
+inferior) can override the defect, although the defect may make it difficult to interpret true association to
+one side or the other.[5] [6]
+• Unroofed coronary sinus defects are found near the orifice of the coronary sinus and are associated
+with a persistent left superior vena cava draining to the left atrium. Various forms of unroofing have
+been described.
+• Vestibular defects are found in the muscular antero-inferior rim of the fossa ovalis.[7] 
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Interatrial communications (atrial septal defects) Theory
+THEORY
+Subtypes of interatrial communications. A: sinus venosus defect; B: ostium
+secundum defect; C: ostium primum defect; D: unroofed coronary sinus defect
+Mayo Clinic Foundation
+Classification by size
+The most clinically useful measure of size is the magnitude of the shunt produced by an interatrial
+communication. This is commonly described as the ratio of pulmonary to systemic blood flow (Qp:Qs ratio).
+However, symptoms, clinical signs, and evidence of right heart enlargement are frequently driving clinical
+decisions.
+Case history
+Case history #1
+A 6-year-old girl is brought to her pediatrician for routine well-child care. She is doing well and has never
+experienced chest pain, palpitations, or syncope. She actively participates in a dance class and reports
+being able to keep up with her peers. There is no family history of congenital heart defects. She is well-
+appearing with no apparent distress. Her left ventricular impulse is normal, and there is a subtle right
+ventricular lift. Her second heart sound is widely split and does not vary with respiration. She has a
+soft 1-2/6 systolic ejection murmur best heard along the left upper sternal border. The remainder of her
+physical exam is normal.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Interatrial communications (atrial septal defects) Theory
+Case history #2
+A 45-year-old woman seeks treatment for frequent palpitations. The patient did well throughout the first
+2 decades of life. In her mid-20s she noticed that she became slightly short of breath with exertion. She
+has recently been seen twice in the emergency department for atrial tachyarrhythmias. Her left ventricular
+impulse is normal. Her right ventricular impulse is 2+. She has a 2/6 systolic ejection murmur at her left
+upper sternal border. The murmur radiates to her back. The remainder of her physical exam is normal.
+Other presentations
+The clinical presentation depends on the age of the patient and the size of the left-to-right shunt. Children
+can be completely asymptomatic. Occasionally, patients with interatrial communications have symptoms
+of heart failure and poor growth in infancy, particularly those born prematurely. This presentation is
+more common if the patient has an additional source of pulmonary blood flow, such as a patent ductus
+arteriosus, or in association with partial anomalous pulmonary venous drainage.
+Adult patients with an untreated interatrial communication can commonly present with heart failure, atrial
+arrhythmias, right ventricular failure, paradoxic embolization, cerebral abscess, or pulmonary vascular
+obstructive disease. Adults typically do not develop heart failure until their fifth decade of life. Patients with
+sinus venosus-type defects are more prone to developing heart failure. The incidence of atrial arrhythmias
+increases with age, especially between the fifth and seventh decades of life.[8]
+Pulmonary vascular obstructive disease develops in 5% to 10% of patients and is more common in
+women.[9] The clinical manifestations of pulmonary hypertension are often nonspecific, most commonly
+including dyspnoea; syncope is uncommon. Examination may include a loud split second heart
+sound and tricuspid regurgitation murmur.[10] Some patients develop irreversible right-to-left shunting
+(Eisenmenger physiology). Most women with interatrial communications usually tolerate pregnancy
+well, including those with a sizable left-to-right shunt. However, patients who have developed pulmonary
+vascular obstructive disease do not tolerate pregnancy well. Idiopathic pulmonary arterial hypertension
+may coexist with atrial septal defect. Pulmonary vein stenosis should be ruled out in the setting of
+associated pulmonary hypertension.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Interatrial communications (atrial septal defects) Diagnosis
+DIAGNOSIS
+Approach
+Clinical history and presentation can vary significantly depending on the age of the patient and the size of the
+defect. Patients are usually asymptomatic and are evaluated for an interatrial communication because of a
+heart murmur, or an abnormal ECG or chest x-ray ordered for other clinical reasons.
+History
+Depending on the degree of shunting, a child may experience dyspnea, fatigue, failure to thrive, or
+recurrent lower respiratory infections.
+Occasionally, infants may have symptoms of heart failure. If the interatrial communication occurs in
+combination with other defects associated with a left-to-right shunt, such as a patent ductus arteriosus or
+a ventricular septal defect, the defect is often found much earlier due to a higher incidence of heart failure.
+Adults may be asymptomatic, but frequently develop symptoms beyond their fourth decade of life
+including palpitations or dizziness due to atrial arrhythmias, fatigue, dyspnea, shortness of breath,
+or exercise intolerance.[23] Pregnancy may precipitate atrial arrhythmias in women with interatrial
+communications.
+Physical exam
+The physical findings of an interatrial communication are related to the size of the shunt. Patients may
+have a hyperdynamic right ventricular impulse by palpation, especially in older children and adults with a
+large left-to-right shunt. The first heart sound is usually normal, but the second heart sound is often split
+and does not become single with expiration (fixed split). Patients usually have a systolic ejection murmur
+best heard at the left upper sternal border and radiating to the back. This murmur is caused by the excess
+volume of blood crossing the pulmonary valve (functional pulmonary valve stenosis). With moderate or
+larger defects, an additional mid-diastolic murmur may be appreciated along the lower sternal border due
+to the volume of blood crossing the tricuspid valve. A murmur of left atrioventricular valve insufficiency is
+often heard in patients with an ostium primum defect.
+When pulmonary hypertension has developed, the volume of the left-to-right shunt decreases and results
+in loss of fixed splitting of the second heart sound, increased intensity of the pulmonary component of the
+second heart sound, shortening of the systolic murmur, and disappearance of the diastolic murmur. If the
+shunt reverses, the patient will appear cyanosed and may develop finger clubbing.
+Initial tests
+Echocardiography
+• Echocardiography is the preferred imaging modality. Secundum atrial septal defects can often
+be diagnosed using transthoracic echocardiography, especially in children. Transesophageal
+echocardiography is used to help assess the size of the defect, to determine the adequacy of
+tissue rims for device closure in secundum defects, to diagnose sinus venosus-type defects,
+and to ensure normally connected pulmonary veins. Transesophageal echocardiography is
+often necessary in older patients if the transthoracic image quality is poor. Two-dimensional
+echocardiography demonstrates right atrial and ventricular enlargement as well as the defect itself,
+especially for secundum defects. 
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Interatrial communications (atrial septal defects) Diagnosis
+Apical 4-chamber echocardiographic image demonstrating right ventricular enlargement in a patient with
+an interatrial communication. L: lateral; LV: left ventricle; RA: right atrium; RV: right ventricle; S: superior
+Image courtesy of Patrick W. O'Leary, MD
+Interatrial communications are best seen in subcostal views due to the septum being orthogonal to
+the ultrasound beam. Secundum defects result in dropout of the mid portion of the atrial septum,
+and primum defects result in dropout of the inferior portion, in a four-chamber view from the apex. 
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Interatrial communications (atrial septal defects) Diagnosis
+DIAGNOSIS
+Apical 4-chamber echocardiographic image of an ostium primum
+defect (arrows). LA: left atrium; LV: left ventricle; RA: right atrium
+Image courtesy of Patrick W. O'Leary, MD
+Superior sinus venosus defects are defined by an interatrial communication in the posterosuperior
+portion of the atrium, with the superior caval vein at times overriding the defect. Coronary sinus
+defects have a communication at the orifice of the coronary sinus.
+• Doppler exam is used to characterize the shunt volume and to determine the flow pattern through
+the defect. Noninvasive calculation of the ratio of pulmonary to systemic blood flow, Qp:Qs, can be
+done with Doppler echocardiography but is no longer used stringently to make clinical decisions.
+Contrast echocardiography may be used to help determine the presence of a right-to-left shunt
+(e.g., if a sinus venosus defect cannot be visualized directly).
+Chest x-ray
+• Chest x-ray is not needed to diagnose interatrial communications. It may be normal if there is only
+a small left-to-right shunt. With larger shunt volumes, the heart may be enlarged and pulmonary
+vascular markings may be increased. Chest x-ray cannot differentiate between different types of
+interatrial communications.
+ECG
+• An ECG is not needed to diagnose interatrial communications. It is often normal in secundum,
+coronary sinus, and sinus venosus-type interatrial communications if the shunt is small. If the
+shunt is moderate to severe, there may be P waves taller than 2.5 mm, suggesting right atrial
+enlargement, or R-wave voltages in lead V1 greater than the upper limit of normal for age,
+suggesting right ventricular hypertrophy. A notch near the apex of the R wave in the inferior limb
+leads, known as the crochetage pattern, is also found in patients with interatrial communications.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Interatrial communications (atrial septal defects) Diagnosis
+• Some ECG findings are specific for particular defects. Primum-type defects frequently produce a
+counterclockwise frontal-plane loop and left-axis deviation indicating the morphological substrate of
+a common atrioventricular junction. Sinus venosus defects are associated with a P-wave axis less
+than 30°.[24]
+Subsequent tests
+Pulse oximetry
+• Not diagnostic, but helpful in determining the extent of systemic arterial desaturation because
+of right-to-left shunting. Desaturation may occur in older patients as a consequence of elevated
+pulmonary vascular resistance or in patients with left superior vena cava draining directly to the left
+atrium in unroofed coronary sinus defects.
+Chest computed tomography (CT)/magnetic resonance imaging (MRI)
+• The ability to view structures simultaneously in all 3 dimensions makes CT/MRI valuable in
+delineating complex congenital heart disease, particularly in patients with limited acoustic
+windows.[10] Both CT and MR angiography help delineate extracardiac lesions that are not,
+or inadequately, shown on echocardiography. They may be needed in patients with interatrial
+communications to help define pulmonary venous anatomy if all pulmonary veins cannot be shown
+by echocardiography.[10]
+• Hemodynamic data, direction of intracardiac shunting, and degree of shunting, can be calculated
+from MRI phase-contrast imaging. In addition, physiological sequelae, including pulmonary artery
+dilation and pulmonary vascular pruning, can be identified.[10]
+Cardiac catheterization
+• Cardiac catheterization is not required for diagnosis. However, it is important in the evaluation of
+pulmonary vascular resistance in patients with suspected pulmonary vascular obstructive disease;
+it is considered the gold standard for measuring hemodynamics in patients with congenital heart
+disease and advanced pulmonary vascular disease, especially to assess operability.[10]
+• If patients develop a right-to-left shunt, reversibility of the shunt with pulmonary vasodilators should
+be assessed to guide therapy. If the right-to-left shunt is reversible with pulmonary vasodilators, the
+interatrial communication can be surgically closed. However, if the right-to-left shunt is irreversible,
+surgery is not an option.
+• When available, inhaled nitric oxide, alone or in combination with oxygen, is considered the
+preferred agent for vasodilator testing. It is safe and short acting and offers a better pulmonary
+vasodilator effect than systemic agents. However, nitric oxide is not always affordable and thus is
+not readily available in all cardiac catheterization laboratories, particularly in low- to middle-income
+countries. Alternative vasodilator agents include epoprostenol, adenosine, iloprost, treprostinil,
+milrinone, and nitroglycerin.[10]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Interatrial communications (atrial septal defects) Diagnosis
+DIAGNOSIS
+History and exam
+Key diagnostic factors
+systolic ejection murmur (common)
+• Best heard at the left upper sternal border. The murmur often radiates to the back.
+• Produced by excess volume of blood crossing the pulmonary valve (functional pulmonary valve
+stenosis).
+• Shortens in patients with Eisenmenger physiology.
+fixed splitting of the second heart sound (common)
+• Second heart sound does not become single with expiration.
+• Fixed splitting disappears in patients with Eisenmenger physiology.
+Other diagnostic factors
+mid-diastolic murmur (uncommon)
+• Best heard along the lower sternal border.
+• Due to excess volume of blood crossing the tricuspid valve. Can only be heard if there is a moderate
+or greater degree of left-to-right shunt.
+• Disappears in patients with Eisenmenger physiology.
+congestive cardiac failure (uncommon)
+• Rare presentation that usually does not occur until after the fifth decade of life. Symptoms include
+fatigue, decreased exercise tolerance, dyspnea on exertion, orthopnea, paroxysmal nocturnal
+dyspnea, and edema.
+• Rare in infants; the main presenting symptom is tachypnea.
+faltering growth (uncommon)
+• Infants with interatrial communications may present with faltering growth.
+• Congenital heart disease should always be excluded in infants and children with unexplained faltering
+growth.
+symptoms of atrial arrhythmias (uncommon)
+• Symptoms include rapid palpitations, dizziness, or shortness of breath.
+• Can occur in adult patients with an undiagnosed interatrial communication. Incidence of atrial
+arrhythmias increases with age, especially between the fifth and seventh decades of life.[8]
+cyanosis (uncommon)
+• Occurs in cases of shunt reversal (Eisenmenger syndrome).
+finger clubbing (uncommon)
+• Associated with a range of cyanotic congenital heart diseases, including Eisenmenger syndrome.
+Risk factors
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Interatrial communications (atrial septal defects) Diagnosis
+Strong
+female#sex
+• Ostium secundum atrial septal defects have a female-to-male predominance of 2:1.[14]
+maternal alcohol consumption
+• Maternal alcohol consumption during pregnancy has been associated with an increased prevalence of
+congenital heart disease.[19] Endocardial cushion defects have been associated with prenatal alcohol
+exposure, but associations with interatrial communications in general are less well established.[19]
+[22]
+Weak
+positive family history
+• Most cases of interatrial communications are sporadic. However, rare cases of familial interatrial
+communications have been identified, caused by mutations in the transcription factors NKX2.5 and
+TBX5, and the structural protein MYH6.[16] [17] [18] Associations with genetic syndromes (e.g.,
+trisomy 21, Holt-Oram syndrome, Noonan syndrome) are well documented.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Interatrial communications (atrial septal defects) Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+echocardiogram
+• The preferred imaging modality.
+Apical 4-chamber echocardiographic image of an ostium primum
+defect (arrows). LA: left atrium; LV: left ventricle; RA: right atrium
+Image courtesy of Patrick W. O'Leary, MD
+Parasternal short-axis echocardiographic image demonstrating
+right ventricular enlargement in a patient with an interatrial
+communication. LV: left ventricle; RV: right ventricle
+Image courtesy of Patrick W. O'Leary, MD
+visualization of the
+defect; determination of
+flow pattern and shunt
+volume
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Interatrial communications (atrial septal defects) Diagnosis
+Test Result
+Apical 4-chamber echocardiographic image demonstrating right
+ventricular enlargement in a patient with an interatrial communication. L:
+lateral; LV: left ventricle; RA: right atrium; RV: right ventricle; S: superior
+Image courtesy of Patrick W. O'Leary, MD
+• Transthoracic echocardiography is usually useful in demonstrating
+a defect in children. Transesophageal echocardiography is often
+necessary in older patients if the transthoracic image quality is poor.
+Image quality may be poorer in adults.
+• Useful to identify all types of interatrial communications, to determine
+defect size and adequacy of the rim for device placement in
+secundum defects, and to ensure normally connected pulmonary
+veins.
+• Two-dimensional echocardiography demonstrates right atrial and
+ventricular enlargement, as well as the defect itself, especially for
+secundum defects.
+• Interatrial communications are best seen in subcostal views due to
+the septum being orthogonal to the ultrasound beam. Secundum
+defects result in dropout of the mid portion of the atrial septum, and
+primum defects result in dropout of the inferior portion, in a four-
+chamber view from the apex.
+• Superior sinus venosus defects are defined by an interatrial
+communication in the posterosuperior portion of the atrium, with the
+superior caval vein at times overriding the defect. Coronary sinus
+defects have a communication at the orifice of the coronary sinus.
+• Doppler examination is used to characterize shunt volume and to
+determine flow pattern through the defect. Noninvasive calculation of
+the ratio of pulmonary to systemic blood flow, Qp:Qs, can be done
+with Doppler echocardiography but is no longer used stringently to
+make clinical decisions.
+• Contrast media or "bubble study" can help demonstrate a right-to-left
+shunt (e.g., if a sinus venosus defect cannot be visualized directly),
+especially with Valsalva maneuver.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Interatrial communications (atrial septal defects) Diagnosis
+DIAGNOSIS
+Test Result
+ECG
+• Not a diagnostic test, but diagnostic clues may be present. Often
+normal if the shunt is small.
+• P waves >2.5 mm, suggesting right atrial enlargement, or R-wave
+voltages in lead V1 greater than the upper limit of normal for age,
+suggesting right ventricular hypertrophy, may be present in larger
+defects. A notch near the apex of the R wave in the inferior limb
+leads, known as the crochetage pattern, is also found in patients with
+interatrial communications.
+• Primum-type defects frequently produce a counterclockwise frontal-
+plane loop and left-axis deviation.
+• Sinus venosus defects are associated with a P-wave axis <30°.[24]
+normal; or tall P waves,
+large R waves in V1,
+crochetage pattern in
+inferior limb leads
+chest x-ray
+• Not diagnostic, but diagnostic clues may be present.
+• May be normal if left-to-right shunt is small. With larger shunt
+volumes, heart may be enlarged and pulmonary vascular markings
+may be increased.
+• Cannot differentiate between different types of interatrial
+communications.
+normal or enlarged heart
+with increased pulmonary
+markings
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Interatrial communications (atrial septal defects) Diagnosis
+Other tests to consider
+Test Result
+pulse oximetry
+• May help to define the amount of right-to-left shunting and resulting
+cyanosis. Systemic arterial desaturation may occur in older patients
+as a consequence of elevated pulmonary vascular resistance, or in
+patients with left superior vena cava draining directly to the left atrium
+in unroofed coronary sinus defects.
+cyanosis if relevant right-
+to-left shunting
+chest CT/MRI
+• May be needed to help define pulmonary venous anatomy if
+echocardiography is insufficient. The ability to view structures
+simultaneously in all 3 dimensions makes CT/MRI valuable in
+delineating complex congenital heart disease, particularly in patients
+with limited acoustic windows.[10] Both CT and MR angiography
+help delineate extracardiac lesions that are not, or inadequately,
+shown on echocardiography. They may be needed in patients with
+interatrial communications to help define pulmonary venous anatomy
+if all pulmonary veins cannot be shown by transthoracic or trans-
+esophageal echocardiography.[10]
+• Hemodynamic data, direction of intracardiac shunting, and degree
+of shunting, can be calculated from MRI phase-contrast imaging. In
+addition, physiologic sequelae, including pulmonary artery dilation
+and pulmonary vascular pruning, can be identified.[10]
+clarification of pulmonary
+venous anatomy
+cardiac catheterization
+• Not required for diagnosis, but is used to detect pulmonary vascular
+resistance in the subset of patients at risk for pulmonary vascular
+obstructive disease; it is considered the gold standard for measuring
+hemodynamics in patients with congenital heart disease and
+advanced pulmonary vascular disease, especially to assess
+operability.[10]
+• If patients develop a right-to-left shunt, reversibility of the shunt with
+pulmonary vasodilators should be assessed to guide therapy. If
+the right-to-left shunt is reversible with pulmonary vasodilators, the
+interatrial communication can be surgically closed. However, if the
+right-to-left shunt is irreversible, surgery is not an option.
+• When available, inhaled nitric oxide, alone or in combination
+with oxygen, is considered the preferred agent for vasodilator
+testing. It is safe and short acting and offers a better pulmonary
+vasodilator effect than systemic agents. However, nitric oxide is
+not always affordable and thus is not readily available in all cardiac
+catheterization laboratories, particularly in low- to middle-income
+countries. Alternative vasodilator agents include epoprostenol,
+adenosine, iloprost, treprostinil, milrinone, and nitroglycerin.[10]
+detection of pulmonary
+vascular resistance;
+reversibility of right-to-left
+shunt
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Interatrial communications (atrial septal defects) Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Partial anomalous
+pulmonary venous
+drainage
+• Signs and symptoms similar
+to interatrial communications
+• Atrial septum intact
+with dilated right heart
+structures: identified by
+echocardiography in
+children, and MRI or CT in
+adults.
+Ventricular septal defect • Small ventricular septal
+defects (VSDs) are
+associated with a
+holosystolic murmur and
+normal first and second
+heart sounds. With a larger
+shunt volume (ratio of
+pulmonary vascular to
+systemic blood flow, Qp:Qs,
+>2), a mid-diastolic mitral
+valve flow murmur may
+be heard in addition to a
+holosystolic mid-frequency
+murmur.
+• VSD identified by Doppler
+echocardiography.
+Patent ductus arteriosus • Associated with prematurity.
+Associated with bounding
+peripheral pulses due to
+wide pulse pressure. The
+left ventricular impulse may
+be prominent. The murmur
+associated with a patent
+ductus arteriosus (PDA)
+is often described as a
+machinery-like continuous
+murmur. However, in some
+premature and newborn
+infants the murmur can be
+heard only in systole. A mid-
+diastolic mitral valve flow
+murmur may be heard.
+• PDA identified by Doppler
+echocardiography.
+Pulmonary stenosis • A click follows the first heart
+sound, which is best heard
+at the left upper sternal
+border.
+• The second heart sound
+may be normal, split, or
+single depending on the
+severity of the stenosis.
+• Pulmonary stenosis
+identified by Doppler
+echocardiography.
+Right bundle-branch
+block
+• Can produce a widely split
+second heart sound similar
+to that heard in patients with
+an interatrial communication.
+• ECG shows right bundle-
+branch block.
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Interatrial communications (atrial septal defects) Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+• The characteristic murmurs
+are absent.
+• Echocardiography shows
+no evidence of an interatrial
+communication.
+Other congenital heart
+defects
+• Interatrial communications
+occur in the context of other
+congenital heart conditions,
+including transposition of the
+great arteries, pulmonary
+atresia, and Ebstein
+anomaly.
+• Abnormal anatomy
+identified by Doppler
+echocardiography.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Interatrial communications (atrial septal defects) Management
+MANAGEMENT
+Approach
+Small interatrial communications can close spontaneously. If corrective closure is required, device closure
+in the catheterization laboratory or surgical closure can be used depending on the type of interatrial
+communication.[29] Minimally invasive surgical repair can be performed through limited sternal and
+parasternal incisions, anterolateral thoracotomies, or lateral minithoracotomies.[30]
+Interatrial communications should be treated by physicians experienced in the management of congenital
+heart disease.[23] [27]
+Indications for corrective closure
+Young patients with interatrial communications can be observed initially, as small defects may close or
+shrink and may not need corrective closure. If the ratio of pulmonary to systemic blood flow, Qp:Qs, is
+<1.5, the defect is of little prognostic importance and does not require closure. If the Qp:Qs ratio is or
+remains at 1.5 or greater, or there is evidence of right atrial enlargement, the defect requires closure to
+prevent heart failure, atrial arrhythmias, and pulmonary vascular obstructive disease.[31] This is usually
+performed at age 2 to 4 years. Patients who develop unremitting heart failure require earlier repair.
+A key consideration in patients with interatrial communications is the extent of pulmonary vascular
+resistance (PVR). Corrective closure is not recommended if PVR is ≥5 Wood units (WU). Instead,
+pulmonary vasodilator therapy should be initiated in an attempt to lower PVR.[23] [27] If pulmonary
+vasodilator treatment lowers PVR to <5 WU, corrective closure may be considered. If the patient is not
+responding and PVR remains ≥5 WU, corrective closure should generally not be performed.[23] Note that
+in some patients with a left-to-right shunt and a PVR ≥5WU, corrective closure or partial closure may still
+be considered by some clinicians on a case-by-case basis, weighing risks and benefits.
+Fixed pulmonary hypertension with shunt reversal as a result of pulmonary overcirculation is also referred
+to as Eisenmenger syndrome and is associated with various degrees of desaturation. Patients with
+Eisenmenger syndrome should avoid pregnancy, dehydration, and high altitudes. They are at increased
+risk of systemic thromboembolism. Endocardial pacing is therefore contraindicated and particular care
+must be taken with intravenous injections to avoid air embolism.
+Patients with Eisenmenger syndrome frequently develop erythrocytosis to compensate for the hypoxemia,
+which can lead to hyperviscosity. Hyperviscosity can produce symptoms of headache, fatigue, and
+sometimes mental status changes. Treatment of symptomatic hyperviscosity involves phlebotomy and
+intravenous infusion of saline. Routine phlebotomy should be avoided.
+Pulmonary vasodilator therapy may be used to improve quality of life. Those demonstrated to be of benefit
+include endothelin receptor antagonists (e.g., bosentan), the phosphodiesterase-5 inhibitors sildenafil
+or tadalafil, and, in limited studies, infusions of the prostanoid epoprostenol.[32] Oral therapy is usually
+favored to avoid complications associated with intravenous administration in patients with Eisenmenger
+syndrome. A pulmonary-to-systemic shunt (reversed Potts shunt) procedure may be considered as a
+last resort option for patients with pulmonary hypertension who have undergone surgical correction of
+congenital heart disease and are unresponsive to maximal medical therapy. It may improve exercise
+capacity and facilitate easier medical management. Heart and lung transplantation, or double lung
+transplantation with repair of the cardiac defect, may also be considered in selected patients with severe
+disease.[10]
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Interatrial communications (atrial septal defects) Management
+Options for corrective closure
+Treatment involves percutaneous closure or an operation (using either direct sutures or a patch of
+autologous pericardium) to close the defect. Device closure is used to treat secundum defects, but cannot
+usually be used in other types of interatrial communications due to the closeness of the defects to other
+cardiac structures. Surgical closure is indicated for large defects, defects with missing rims that prevent
+secure placement of a catheter device, or if associated lesions need corrective surgery simultaneously.
+• Ostium secundum atrial septal defect (ASD) or vestibular ASD: device closure is the preferred
+method if rims are adequate to secure a device. 
+Transesophageal echocardiographic image of an interatrial communication
+occluder device (arrow). LA: left atrium; RA: right atrium; SVC: superior vena cava
+Image courtesy of Patrick W. O'Leary, MD
+ If the rims are inadequate or there are large septal aneurysms or multiple fenestrations of the atrial
+septum, surgical closure is required.
+• Ostium primum defect: surgical closure with repair of the left atrioventricular valve is the most
+commonly used procedure.
+• Coronary sinus defect: surgical correction can be performed by simply closing the orifice of the
+coronary sinus. However, in the presence of a left superior vena cava, rerouting to the right atrium
+is needed to avoid significant systemic arterial desaturation.
+• Sinus venosus defect: anomalous right pulmonary veins are baffled via the defect to the left atrium.
+A Warden operation may also be performed, whereby the superior vena cava is transected and
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Interatrial communications (atrial septal defects) Management
+MANAGEMENT
+then reconnected to the right atrial appendage while a patch is placed to the orifice of the superior
+vena cava to route anomalous right pulmonary vein flow across the defect to the left atrium.
+Sinus venosus defect with partial anomalous pulmonary drainage and unroofed coronary sinus
+(especially if associated with a persistent left superior vena cava) should be corrected irrespective of
+shunt volume.
+Surgical correction can be performed with minimally invasive strategies through thoracotomies or
+ministernotomies, with equivalent results when compared with conventional median sternotomy
+procedures.[30]
+Prophylactic antibiotics to prevent endocarditis are required for the first 6 months after device or surgical
+closure.[23] [27] Patients with unrepaired cyanotic heart disease will also require endocarditis prophylaxis
+when undergoing certain interventions.
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+pulmonary vascular resistance (PVR)
+<5 Wood units (WU) and Qp:Qs <1.5
+1st observation
+PVR <5 WU and Qp:Qs ≥1.5, or
+evidence of right atrial enlargement
+1st corrective closure
+adjunct prophylactic antibiotics
+PVR ≥5 WU
+1st pulmonary vasodilator
+PVR drops to <5 WU after
+pulmonary vasodilator
+therapy (reversible)
+plus corrective closure
+adjunct prophylactic antibiotics
+PVR remains ≥5 WU after
+pulmonary vasodilator
+therapy (irreversible)
+plus continue pulmonary vasodilator
+adjunct monitoring and treatment of
+hyperviscosity
+adjunct pulmonary-to-systemic shunt (reversed
+Potts shunt)
+adjunct consider for heart-lung or double lung
+transplantation
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Interatrial communications (atrial septal defects) Management
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Interatrial communications (atrial septal defects) Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+pulmonary vascular resistance (PVR)
+<5 Wood units (WU) and Qp:Qs <1.5
+1st observation
+» Young patients with small interatrial
+communications can be observed, as the defect
+may close or shrink. If the ratio of pulmonary to
+systemic blood flow, Qp:Qs, is <1.5, the defect
+is of little prognostic importance and does not
+require closure.
+PVR <5 WU and Qp:Qs ≥1.5, or
+evidence of right atrial enlargement
+1st corrective closure
+» If the ratio of pulmonary to systemic blood
+flow, Qp:Qs, is or remains ≥1.5, or there is
+evidence of right atrial enlargement, the defect
+requires closure to prevent heart failure, atrial
+arrhythmias, and pulmonary vascular obstructive
+disease.[31] This is usually performed at age
+2 to 4 years. Patients who develop unremitting
+heart failure require earlier closure.
+» Ostium secundum atrial septal defect (ASD) or
+vestibular ASD: device closure is the preferred
+method if rims are adequate to secure a device.
+If the rims are inadequate or there are large
+septal aneurysms or multiple fenestrations of the
+atrial septum, surgical closure is required.
+» Ostium primum defect: surgical closure with
+repair of the left atrioventricular valve is the most
+commonly used procedure.
+» Coronary sinus defect: surgical closure can
+be performed by simply closing the orifice of
+the coronary sinus. More complex correction
+is needed in the presence of a persistent left
+superior vena cava.
+» Sinus venosus defect: anomalous right
+pulmonary veins are baffled via the defect to
+the left atrium. A Warden operation may also
+be performed, whereby the superior vena cava
+is transected and then reconnected to the right
+atrial appendage while a patch is placed to
+the orifice of the superior vena cava to route
+anomalous right pulmonary vein flow across the
+defect to the left atrium.
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Interatrial communications (atrial septal defects) Management
+Acute
+» Sinus venosus defect with partial anomalous
+pulmonary drainage and unroofed coronary
+sinus (especially if associated with a persistent
+left superior vena cava) should be corrected
+irrespective of shunt volume.
+» Surgical correction can be performed
+with minimally invasive strategies through
+thoracotomies or ministernotomies, with
+equivalent results when compared with
+conventional median sternotomy procedures.[30]
+adjunct prophylactic antibiotics
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» amoxicillin: children: 50 mg/kg orally one
+hour before procedure; adults: 2 g orally one
+hour before procedure
+OR
+» clindamycin: children: 20 mg/kg orally one
+hour before procedure; adults: 600 mg orally
+one hour before procedure
+» Required for the first 6 months after device or
+surgical closure to prevent endocarditis.[23] [27]
+» The antibiotics are given before a procedure
+that may cause bacteremia. Guidelines on
+which procedures require prophylaxis vary
+between countries, and local guidelines on
+endocarditis prophylaxis should be adhered
+to. For example, many guidelines no longer
+recommend prophylaxis for dental procedures,
+or for procedures involving the upper and lower
+gastrointestinal tract, genitourinary tract, or the
+upper and lower respiratory tract.
+» Clindamycin is an alternative to penicillin in
+patients with a penicillin allergy.
+PVR ≥5 WU
+PVR ≥5 WU 1st pulmonary vasodilator
+Primary options
+» bosentan: body weight ≤40 kg: 62.5 mg
+orally twice daily; body weight >40 kg: 62.5 to
+125 mg orally twice daily
+OR
+» sildenafil: 20-80 mg orally three times daily;
+10 mg intravenously every 8 hours
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Interatrial communications (atrial septal defects) Management
+MANAGEMENT
+Acute
+OR
+» tadalafil: 40 mg orally once daily
+Secondary options
+» epoprostenol: 2 nanograms/kg/minute
+intravenously initially, increase by 2
+nanograms/kg/minute every 15 minutes
+according to response
+» Corrective closure is not recommended if
+PVR is ≥5 WU. Instead, pulmonary vasodilator
+therapy should be initiated in an attempt to lower
+PVR.[23] [27]
+» Pulmonary vasodilators that have been
+shown to be of benefit include endothelin
+receptor antagonists (e.g., bosentan), the
+phosphodiesterase-5 inhibitors sildenafil or
+tadalafil, and, in limited studies, infusions of the
+prostanoid epoprostenol.[32]
+PVR drops to <5 WU after
+pulmonary vasodilator
+therapy (reversible)
+plus corrective closure
+Treatment recommended for ALL patients in
+selected patient group
+» If pulmonary vasodilator treatment lowers PVR
+to <5 WU, corrective closure may be considered
+(and vasodilator treatment discontinued).[23]
+» Ostium secundum atrial septal defect (ASD) or
+vestibular ASD: device closure is the preferred
+method if rims are adequate to secure a device.
+If the rims are inadequate or there are large
+septal aneurysms or multiple fenestrations of the
+atrial septum, surgical closure is required.
+» Ostium primum defect: surgical closure with
+repair of the left atrioventricular valve is the most
+commonly used procedure.
+» Coronary sinus defect: surgical closure can
+be performed by simply closing the orifice of
+the coronary sinus. More complex correction
+is needed in the presence of a persistent left
+superior vena cava.
+» Sinus venosus defect: anomalous right
+pulmonary veins are baffled via the defect to
+the left atrium. A Warden operation may also
+be performed, whereby the superior vena cava
+is transected and then reconnected to the right
+atrial appendage while a patch is placed to
+the orifice of the superior vena cava to route
+anomalous right pulmonary vein flow across the
+defect to the left atrium.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Interatrial communications (atrial septal defects) Management
+Acute
+» Sinus venosus defect with partial anomalous
+pulmonary drainage and unroofed coronary
+sinus (especially if associated with a persistent
+left superior vena cava) should be corrected
+irrespective of shunt volume.
+» Surgical correction can be performed
+with minimally invasive strategies through
+thoracotomies or ministernotomies, with
+equivalent results when compared with
+conventional median sternotomy procedures.[30]
+adjunct prophylactic antibiotics
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» amoxicillin: children: 50 mg/kg orally one
+hour before procedure; adults: 2 g orally one
+hour before procedure
+OR
+» clindamycin: children: 20 mg/kg orally one
+hour before procedure; adults: 600 mg orally
+one hour before procedure
+» Required for the first 6 months after surgical
+closure to prevent endocarditis.[23] [27]
+» The antibiotics are given before a procedure
+that may cause bacteremia. Guidelines on
+which procedures require prophylaxis vary
+between countries, and local guidelines on
+endocarditis prophylaxis should be adhered
+to. For example, many guidelines no longer
+recommend prophylaxis for dental procedures,
+or for procedures involving the upper and lower
+gastrointestinal tract, genitourinary tract, or the
+upper and lower respiratory tract.
+» Clindamycin is an alternative to penicillin in
+patients with penicillin allergy.
+PVR remains ≥5 WU after
+pulmonary vasodilator
+therapy (irreversible)
+plus continue pulmonary vasodilator
+Treatment recommended for ALL patients in
+selected patient group
+» Corrective closure is generally not
+recommended if the PVR remains ≥5 WU
+despite adequate pulmonary vasodilator therapy.
+Supportive medical therapy with pulmonary
+vasodilators is the mainstay of treatment, and
+should be continued.
+» Note that in some patients with a left-to-right
+shunt and PVR ≥5WU, corrective closure may
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Interatrial communications (atrial septal defects) Management
+MANAGEMENT
+Acute
+still be considered by some clinicians on a case-
+by-case basis, weighing risks and benefits.
+adjunct monitoring and treatment of
+hyperviscosity
+Treatment recommended for SOME patients in
+selected patient group
+» Fixed pulmonary hypertension with shunt
+reversal as a result of pulmonary overcirculation
+is also referred to as Eisenmenger syndrome
+and is associated with various degrees of
+desaturation. Patients with Eisenmenger
+syndrome frequently develop erythrocytosis to
+compensate for the hypoxemia, which can lead
+to hyperviscosity.
+» Hyperviscosity can produce symptoms of
+headache, fatigue, and sometimes mental status
+changes. Treatment of symptomatic patients
+involves phlebotomy and intravenous infusion of
+saline.
+» Routine phlebotomy should be avoided.
+adjunct pulmonary-to-systemic shunt (reversed
+Potts shunt)
+Treatment recommended for SOME patients in
+selected patient group
+» Last resort option for patients with pulmonary
+arterial hypertension who have undergone
+surgical correction of congenital heart disease
+and are unresponsive to maximal medical
+therapy. May improve exercise capacity and
+facilitate easier medical management.[10]
+adjunct consider for heart-lung or double lung
+transplantation
+Treatment recommended for SOME patients in
+selected patient group
+» Heart-lung transplantation may be considered
+for some patients. When feasible, surgical
+correction of the interatrial communication
+together with double lung transplantation may
+also be considered.[10]
+Patient discussions
+Patients require endocarditis prophylaxis for the first 6 months after device or surgical closure of an
+interatrial communication, and indefinitely if they have unrepaired cyanotic heart disease. Patients should
+report symptoms of fever, chest or abdominal pain, vomiting, syncope, or fatigue immediately. Restrictions
+on physical activities are generally not required. Patients with Eisenmenger syndrome should avoid
+pregnancy, dehydration, and high altitudes.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Interatrial communications (atrial septal defects) Follow up
+Monitoring
+Monitoring
+Routine follow-up for patients with small interatrial communications that do not require surgical closure
+should include assessment of symptoms, especially arrhythmias and paradoxic embolic events in adults.
+Pulmonary pressures, right ventricular function, and residual atrial shunting should be assessed by
+echocardiography. Patients who have had device closure of a secundum atrial septal defect should be
+assessed for symptoms of atrial arrhythmias, chest pain, or embolic events. Echocardiography is usually
+performed at 24 hours, 1 month, 3 months, and 1 year. Further monitoring is elective.[27] Attention should
+be paid to device placement, residual shunting, thrombus formation, and pericardial effusion.[27]
+Postoperative fever, chest or abdominal pain, vomiting, and fatigue may indicate pericardial effusion or
+cardiac tamponade and should be investigated immediately. Chest pain or syncope after device closure
+may be due to device erosion and should be investigated immediately.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Interatrial communications (atrial septal defects) Follow up
+FOLLOW UP
+Complications
+Complications Timeframe Likelihood
+device erosion short term low
+Presents with chest pain or syncope after device closure.
+pericardial effusion/tamponade short term low
+Presents after repair of an interatrial communication with postoperative fever, chest or abdominal pain,
+vomiting, and fatigue.
+paradoxic embolization long term medium
+Caused by embolism of a venous thrombus into the systemic arterial circulation through the interatrial
+communication. Requires the presence of a right-to-left shunt through the interatrial communication. A
+right-to-left shunt can occur intermittently in patients while coughing or during a Valsalva maneuver, or
+may be present at rest in patients with Eisenmenger physiology. This complication is usually seen in adults
+with an undiagnosed interatrial communication. It may present as a stroke or transient ischemic attack.
+Additionally, there can be peripheral emboli.
+congestive cardiac failure variable low
+Usually does not occur until after the fifth decade of life. In adults, symptoms include fatigue, decreased
+exercise tolerance, dyspnea on exertion, orthopnea, paroxysmal nocturnal dyspnea, and edema.
+Can also occur in infants with interatrial communications; the main presenting symptom in infants is
+tachypnea.
+infective endocarditis variable low
+Can occur as a complication of device closure or surgery. Antibiotic prophylaxis is recommended for the
+first 6 months after repair of an interatrial communication.[23] [27] Patients with unrepaired cyanotic heart
+disease will also require endocarditis prophylaxis when undergoing certain interventions.
+Often presents nonspecifically, and most commonly involves fever with possible physical signs of
+peripheral emboli: Osler nodes, Roth spots, or Janeway lesions. A cardiac murmur may sometimes be
+noted.
+Echocardiography, computed tomography (CT), magnetic resonance imaging (MRI), and positron emission
+tomography (PET)/CT imaging are useful for diagnosis.[33]
+atrial fibrillation variable low
+Symptoms include rapid palpitations, dizziness, or shortness of breath. Occurs in large defects as a result
+of atrial enlargement and hypertrophy. Treatment of interatrial communications may help in controlling
+atrial arrhythmias; however, incidence of recurrent arrhythmias is higher with delayed closure of interatrial
+communications. Pregnancy can precipitate atrial fibrillation due to the increased volume load. The
+incidence of atrial arrhythmias increases with age, especially between the fifth and seventh decades of
+life.[8] Atrial arrhythmias should be treated to restore and maintain sinus rhythm if possible.[40] 
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Interatrial communications (atrial septal defects) Follow up
+Prognosis
+The prognosis of interatrial communications without pulmonary vascular obstructive disease is excellent. The
+surgical mortality of an uncomplicated closure of an interatrial communication is less than 0.5%.[36]
+Transcatheter closure of interatrial communications has shown equivalent results compared with surgery, but
+a higher long-term reintervention rate.[37] Older age at the time of repair of an interatrial communication is
+associated with a higher rate of adverse events.[38] Life expectancy in patients with uncomplicated defects is
+equivalent to that of the normal population.
+The incidence of device erosion is <1%, and likely <1 in 1000.[39]
+Shunt reversal with inoperable Eisenmenger physiology is associated with a poor prognosis, as is persistent
+or recurrent pulmonary hypertension after surgical repair.[10]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Interatrial communications (atrial septal defects) Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+Pulmonary hypertension in congenital heart disease: a scientific statement
+from the American Heart Association (https://www.heart.org)   [10]
+Published by: American Heart Association Last published: 2023
+ACR Appropriateness Criteria® congenital or acquired heart disease
+ (https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [25]
+Published by: American College of Radiology Last published: 2023
+Recommendations for the adult cardiac sonographer performing
+echocardiography to screen for critical congenital heart disease in the
+newborn (https://www.asecho.org/guidelines-search/)   [26]
+Published by: American Society of Echocardiography Last published: 2021
+2018 AHA/ACC guideline for the management of adults with congenital heart
+disease (https://professional.heart.org/en/guidelines-and-statements)   [27]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2018
+Guidelines for the echocardiographic assessment of atrial septal defect and
+patent foramen ovale (https://www.asecho.org/guidelines-search/)   [28]
+Published by: American Society of Echocardiography; Society for
+Cardiac Angiography and Interventions
+Last published: 2015
+2020 ESC guidelines for the management of adult congenital heart disease
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [23]
+Published by: European Society of Cardiology Last published: 2020
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Interatrial communications (atrial septal defects) Guidelines
+Treatment guidelines
+International
+Pulmonary hypertension in congenital heart disease: a scientific statement
+from the American Heart Association (https://www.heart.org)   [10]
+Published by: American Heart Association Last published: 2023
+2023 ESC guidelines for the management of infective endocarditis (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [33]
+Published by: European Society of Cardiology Last published: 2023
+Advances in managing transition to adulthood for adolescents with
+congenital heart disease (https://professional.heart.org/en/guidelines-and-
+statements)   [34]
+Published by: American Heart Association Last published: 2022
+Guidelines for cardiovascular interventions in adults with congenital heart
+disease (https://ccs.ca/guidelines-and-position-statement-library/)   [35]
+Published by: Canadian Cardiovascular Society Last published: 2022
+2020 ESC guidelines for the management of adult congenital heart disease
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [23]
+Published by: European Society of Cardiology Last published: 2020
+2018 AHA/ACC guideline for the management of adults with congenital heart
+disease (https://professional.heart.org/en/guidelines-and-statements)   [27]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2018
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Interatrial communications (atrial septal defects) References
+REFERENCES
+Key articles
+• Jone PN, Ivy DD, Hauck A, et al. Pulmonary hypertension in congenital heart disease: a scientific
+statement from the American Heart Association. Circ Heart Fail. 2023 Jul;16(7):e00080.  Full
+text (https://www.ahajournals.org/doi/10.1161/HHF.0000000000000080)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37357777?tool=bestpractice.bmj.com)
+• Baumgartner H, De Backer J, Babu-Narayan SV, et al; ESC Scientific Document Group. 2020
+ESC guidelines for the management of adult congenital heart disease. Eur Heart J. 2021 Feb
+11;42(6):563-645.  Full text (https://academic.oup.com/eurheartj/article/42/6/563/5898606?login=false)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32860028?tool=bestpractice.bmj.com)
+• Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on clinical practice guidelines. Circulation. 2019 Apr 2;139(14):e698-800. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000603?rfr_dat=cr_pub
+++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30586767?tool=bestpractice.bmj.com)
+• Abrahamyan L, Dharma C, Alnasser S, et al. Long-term outcomes after atrial septal defect
+transcatheter closure by age and against population controls. JACC Cardiovasc Interv. 2021 Mar
+8;14(5):566-75.  Full text (https://www.sciencedirect.com/science/article/pii/S1936879820325073?via
+%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33663785?tool=bestpractice.bmj.com)
+References
+1. Naqvi N, McCarthy KP, Ho SY. Anatomy of the atrial septum and interatrial communications. J
+Thorac Dis. 2018 Sep;10(suppl 24):S2837-47.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC6174145)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30305943?tool=bestpractice.bmj.com)
+2. Redington AN, Anderson RH, Spicer DE. Interatrial communications. In: Wernovsky G, Anderson RH,
+Kumar K, et al, eds. Anderson’s Pediatric Cardiology. 4th edition. Philadelphia, PA: Elsevier; 2019. 
+3. Smallhorn JF, de Leval M, Stark J, et al. Isolated anterior mitral cleft. Two dimensional
+echocardiographic assessment and differentiation from "clefts" associated with atrioventricular septal
+defect. Br Heart J. 1982 Aug;48(2):109-16. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7093079?
+tool=bestpractice.bmj.com)
+4. Kanani M, Anderson RH, Elliott MJ. Clinical and morphologic evidence points to closure of the zone of
+apposition in atrioventricular septal defects. Eur J Cardiothorac Surg. 2005 May;27(5):932-3. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15848346?tool=bestpractice.bmj.com)
+5. al Zaghal AM, Li J, Anderson RH, et al. Anatomical criteria for the diagnosis of sinus venosus
+defects. Heart. 1997 Sep;78(3):298-304. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9391294?
+tool=bestpractice.bmj.com)
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Interatrial communications (atrial septal defects) References
+6. Yoo S-J, Lee S, de la Mora R, et al. (2022). New insights into sinus venosus defects from
+cross-sectional imaging. Congenital Heart Disease. 2022;17(1):5-23.    Full text (https://
+www.techscience.com/chd/v17n1/45210/html)
+7. Loomba RS, Tretter JT, Mohun TJ, et al. Identification and morphogenesis of vestibular
+atrial septal defects. J Cardiovasc Dev Dis. 2020 Sep 10;7(3):35.  Full text (https://
+www.mdpi.com/2308-3425/7/3/35)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32927616?
+tool=bestpractice.bmj.com)
+8. John Sutton MG, Tajik AJ, McGoon DC. Atrial septal defects in patients ages 60 years or older:
+operative results and long-term postoperative follow-up. Circulation. 1981 Aug;64(2):402-9.  Full
+text (http://circ.ahajournals.org/content/64/2/402.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/6788403?tool=bestpractice.bmj.com)
+9. Steele PM, Fuster V, Cohen M, et al. Isolated atrial septal defect with pulmonary vascular obstructive
+disease - long-term follow-up and prediction of outcome after surgical correction. Circulation.
+1987 Nov;76(5):1037-42.  Full text (https://www.ahajournals.org/doi/10.1161/01.cir.76.5.1037?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3664992?tool=bestpractice.bmj.com)
+10. Jone PN, Ivy DD, Hauck A, et al. Pulmonary hypertension in congenital heart disease: a scientific
+statement from the American Heart Association. Circ Heart Fail. 2023 Jul;16(7):e00080.  Full
+text (https://www.ahajournals.org/doi/10.1161/HHF.0000000000000080)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37357777?tool=bestpractice.bmj.com)
+11. van der Linde D, Konings EE, Slager MA, et al. Birth prevalence of congenital heart disease
+worldwide: a systematic review and meta-analysis. J Am Coll Cardiol. 2011 Nov 15;58(21):2241-7. 
+Full text (https://www.sciencedirect.com/science/article/pii/S0735109711030798?via%3Dihub)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22078432?tool=bestpractice.bmj.com)
+12. Reller MD, Strickland MJ, Riehle-Colarusso T, et al. Prevalence of congenital heart defects
+in metropolitan Atlanta, 1998-2005. J Pediatr. 2008 Dec;153(6):807-13.  Full text (https://
+www.doi.org/10.1016/j.jpeds.2008.05.059)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18657826?
+tool=bestpractice.bmj.com)
+13. Brida M, Chessa M, Celermajer D, et al. Atrial septal defect in adulthood: a new paradigm
+for congenital heart disease. Eur Heart J. 2022 Jul 21;43(28):2660-71. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34535989?tool=bestpractice.bmj.com)
+14. Verheugt CL, Uiterwaal CS, van der Velde ET, et al. Gender and outcome in adult congenital heart
+disease. Circulation. 2008 Jul 1;118(1):26-32.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIRCULATIONAHA.107.758086?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18559697?
+tool=bestpractice.bmj.com)
+15. Kuijpers JM, Mulder BJ, Bouma BJ. Secundum atrial septal defect in adults: a practical review and
+recent developments. Neth Heart J. 2015 Apr;23(4):205-11.  Full text (https://www.ncbi.nlm.nih.gov/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Interatrial communications (atrial septal defects) References
+REFERENCES
+pmc/articles/PMC4368528)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25884091?
+tool=bestpractice.bmj.com)
+16. Li QY, Newbury-Ecob RA, Terrett JA, et al. Holt-Oram syndrome is caused by mutation in TBX5,
+a member of the Brachyury (T) gene family. Nat Genet. 1997 Jan;15(1):21-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8988164?tool=bestpractice.bmj.com)
+17. Srivastava D, Olson EN. A genetic blueprint for cardiac development. Nature. 2000
+Sep 14;407(6801):221-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11001064?
+tool=bestpractice.bmj.com)
+18. Ching YH, Ghosh TK, Cross SJ, et al. Mutation in myosin heavy chain 6 causes atrial septal defect.
+Nat Genet. 2005 Apr;37(4):423-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15735645?
+tool=bestpractice.bmj.com)
+19. Harvey DC, Baer RJ, Bandoli G, et al. Association of alcohol use diagnostic codes in pregnancy
+and offspring conotruncal and endocardial cushion heart defects. J Am Heart Assoc. 2022 Jan
+18;11(2):e022175.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9238516)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35014860?tool=bestpractice.bmj.com)
+20. Parthiban A, Sachdeva R. Atrial septal defects. In: Shaddy RE, Penny DJ, Feltes TF, et al, eds. Moss
+and Adams' heart disease in infants, children, and adolescents: including the fetus and young adult.
+10th edition. Philadelphia, PA: Lippincott Williams & Wilkins; 2021.
+21. Butts RJ, Crean AM, Hlavacek AM, et al. Veno-venous bridges: the forerunners of the sinus venosus
+defect. Cardiol Young. 2011 Dec;21(6):623-30.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC4004967)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21729517?tool=bestpractice.bmj.com)
+22. Yang J, Qiu H, Qu P, et al. Prenatal alcohol exposure and congenital heart defects: a meta-analysis.
+PLoS One. 2015;10(6):e0130681.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4482023)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26110619?tool=bestpractice.bmj.com)
+23. Baumgartner H, De Backer J, Babu-Narayan SV, et al; ESC Scientific Document Group. 2020
+ESC guidelines for the management of adult congenital heart disease. Eur Heart J. 2021 Feb
+11;42(6):563-645.  Full text (https://academic.oup.com/eurheartj/article/42/6/563/5898606?login=false)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32860028?tool=bestpractice.bmj.com)
+24. Hamilton WT, Haffajee CI, Dalen JE, et al. Atrial septal defect secundum: clinical profile with
+physiologic correlates. In: Roberts WC, ed. Adult congenital heart disease. Philadelphia, PA: FA Davis;
+1987:395-407.
+25. Expert Panels on Cardiac Imaging and Pediatric Imaging, Krishnamurthy R, Suman G, et al.
+ACR Appropriateness Criteria® congenital or acquired heart disease. J Am Coll Radiol. 2023
+Nov;20(11s):S351-81.  Full text (https://www.jacr.org/article/S1546-1440(23)00617-8/fulltext)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/38040460?tool=bestpractice.bmj.com)
+26. Wasserman MA, Shea E, Cassidy C, et al. Recommendations for the adult cardiac sonographer
+performing echocardiography to screen for critical congenital heart disease in the newborn: from
+the American Society of Echocardiography. J Am Soc Echocardiogr. 2021 Mar;34(3):207-22. 
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Interatrial communications (atrial septal defects) References
+Full text (https://www.onlinejase.com/article/S0894-7317(20)30779-3/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33518447?tool=bestpractice.bmj.com)
+27. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on clinical practice guidelines. Circulation. 2019 Apr 2;139(14):e698-800. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000603?rfr_dat=cr_pub
+++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30586767?tool=bestpractice.bmj.com)
+28. Silvestry FE, Cohen MS, Armsby LB, et al. Guidelines for the echocardiographic assessment of
+atrial septal defect and patent foramen ovale: from the American Society of Echocardiography and
+Society for Cardiac Angiography and Interventions. J Am Soc Echocardiogr. 2015 Aug;28(8):910-58. 
+Full text (https://www.onlinejase.com/article/S0894-7317(15)00387-9/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26239900?tool=bestpractice.bmj.com)
+29. Butera G, Biondi-Zoccai G, Sangiorgi G, et al. Percutaneous versus surgical closure of secundum
+atrial septal defects: a systematic review and meta-analysis of currently available clinical evidence.
+EuroIntervention. 2011 Jul;7(3):377-85. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21729841?
+tool=bestpractice.bmj.com)
+30. Vida VL, Zanotto L, Zanotto L, et al. Minimally invasive surgery for atrial septal defects: a 20-
+year experience at a single centre. Interact Cardiovasc Thorac Surg. 2019 Jun 1;28(6):961-7. 
+Full text (https://academic.oup.com/icvts/article/28/6/961/5306600?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30726938?tool=bestpractice.bmj.com)
+31. Campbell M. Natural history of atrial septal defect. Br Heart J. 1970 Nov;32(6):820-6.  Full text
+(http://heart.bmj.com/content/heartjnl/32/6/820.full.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/5212356?tool=bestpractice.bmj.com)
+32. Barst RJ, Rubin LJ, Long WA, et al. A comparison of continuous intravenous epoprostenol
+(prostacyclin) with conventional therapy for primary pulmonary hypertension. N Engl J Med. 1996
+Feb 1;334(5):296-301.  Full text (https://www.nejm.org/doi/10.1056/NEJM199602013340504?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8532025?tool=bestpractice.bmj.com)
+33. Delgado V, Ajmone Marsan N, de Waha S, et al. 2023 ESC guidelines for the management of
+endocarditis. Eur Heart J. 2023 Oct 14;44(39):3948-4042.  Full text (https://academic.oup.com/
+eurheartj/article/44/39/3948/7243107)
+34. John AS, Jackson JL, Moons P, et al. Advances in managing transition to adulthood for adolescents
+with congenital heart disease: a practical approach to transition program design: a scientific statement
+from the American Heart Association. J Am Heart Assoc. 2022 Apr 5;11(7):e025278.  Full text
+(https://www.ahajournals.org/doi/10.1161/JAHA.122.025278)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35297271?tool=bestpractice.bmj.com)
+35. Marelli A, Beauchesne L, Colman J, et al. Canadian Cardiovascular Society 2022 guidelines
+for cardiovascular interventions in adults with congenital heart disease. Can J Cardiol. 2022
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Interatrial communications (atrial septal defects) References
+REFERENCES
+Jul;38(7):862-96.  Full text (https://www.onlinecjc.ca/article/S0828-282X(22)00260-4/fulltext)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/35460862?tool=bestpractice.bmj.com)
+36. Fuller SM, He X, Jacobs JP, et al. Estimating mortality risk for adult congenital heart surgery: an
+analysis of The Society of Thoracic Surgeons Congenital Heart Surgery Database. Ann Thorac
+Surg. 2015 Nov;100(5):1728-35;discussion 1735-6.  Full text (https://www.annalsthoracicsurgery.org/
+article/S0003-4975(15)01189-3/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26411754?
+tool=bestpractice.bmj.com)
+37. DiBardino DJ, McElhinney DB, Kaza AK, et al. Analysis of the US Food and Drug Administration
+Manufacturer and User Facility Device Experience database for adverse events involving Amplatzer
+septal occluder devices and comparison with the Society of Thoracic Surgery congenital cardiac
+surgery database. J Thorac Cardiovasc Surg. 2009 Jun;137(6):1334-41.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4230527)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19464444?tool=bestpractice.bmj.com)
+38. Abrahamyan L, Dharma C, Alnasser S, et al. Long-term outcomes after atrial septal defect
+transcatheter closure by age and against population controls. JACC Cardiovasc Interv. 2021 Mar
+8;14(5):566-75.  Full text (https://www.sciencedirect.com/science/article/pii/S1936879820325073?via
+%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33663785?tool=bestpractice.bmj.com)
+39. McElhinney DB, Quartermain MD, Kenny D, et al. Relative risk factors for cardiac erosion
+following transcatheter closure of atrial septal defects: a case-control study. Circulation.
+2016 May 3;133(18):1738-46.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIRCULATIONAHA.115.019987?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27002094?
+tool=bestpractice.bmj.com)
+40. Prystowsky EN, Benson DW Jr, Fuster V, et al. Management of patients with atrial fibrillation:
+a statement for healthcare professionals from the Subcommittee on Electrocardiography and
+Electrophysiology, American Heart Association. Circulation. 1996 Mar 15;93(6):1262-77.  Full
+text (http://circ.ahajournals.org/content/93/6/1262.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8653857?tool=bestpractice.bmj.com)
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Interatrial communications (atrial septal defects) Images
+Images
+Figure 1: Subtypes of interatrial communications. A: sinus venosus defect; B: ostium secundum defect; C:
+ostium primum defect; D: unroofed coronary sinus defect
+Mayo Clinic Foundation
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Interatrial communications (atrial septal defects) Images
+IMAGES
+Figure 2: Apical 4-chamber echocardiographic image demonstrating right ventricular enlargement in a patient
+with an interatrial communication. L: lateral; LV: left ventricle; RA: right atrium; RV: right ventricle; S: superior
+Image courtesy of Patrick W. O'Leary, MD
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Interatrial communications (atrial septal defects) Images
+Figure 3: Apical 4-chamber echocardiographic image of an ostium primum defect (arrows). LA: left atrium; LV:
+left ventricle; RA: right atrium
+Image courtesy of Patrick W. O'Leary, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Interatrial communications (atrial septal defects) Images
+IMAGES
+Figure 4: Parasternal short-axis echocardiographic image demonstrating right ventricular enlargement in a
+patient with an interatrial communication. LV: left ventricle; RV: right ventricle
+Image courtesy of Patrick W. O'Leary, MD
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Interatrial communications (atrial septal defects) Images
+Figure 5: Transesophageal echocardiographic image of an interatrial communication occluder device (arrow).
+LA: left atrium; RA: right atrium; SVC: superior vena cava
+Image courtesy of Patrick W. O'Leary, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Interatrial communications (atrial septal defects) Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Interatrial communications (atrial septal defects) Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Contributors:
+// Authors:
+Christoph Haller, MD
+Staff Cardiovascular Surgeon
+Division of Cardiovascular Surgery, Labatt Family Heart Centre, The Hospital for Sick Children, Assistant
+Professor, University of Toronto, Toronto, Canada
+DISCLOSURES: CH declares that he has no competing interests.
+// Acknowledgements:
+Dr Christoph Haller would like to gratefully acknowledge Dr Sachin Khambadkone, Dr Brandon Lane
+Phillips, Dr Frank Cetta, and Dr David J. Driscoll, previous contributors of this topic.
+DISCLOSURES: SK, BLP, FC, and DJD declare that they have no competing interests.
+// Peer Reviewers:
+Chawki Elzein, MD
+Professor of Surgery
+University of Illinois at Chicago, Advocate Children's Hospital, Chicago, IL
+DISCLOSURES: CE declares that he has no competing interests.

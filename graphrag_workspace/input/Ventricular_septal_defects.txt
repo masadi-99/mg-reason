@@ -1,0 +1,2006 @@
+# Ventricular septal defects
+
+=== Page 1 ===
+Ventricular
+septal defects
+Straight to the point of care
+Last updated: Jun 07, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  5
+Case history  8
+Diagnosis  10
+Approach  10
+History and exam  18
+Risk factors  19
+Tests  21
+Differentials  27
+Management  29
+Approach  29
+Treatment algorithm overview  32
+Treatment algorithm  33
+Primary prevention  40
+Secondary prevention  41
+Patient discussions  41
+Follow up  42
+Monitoring  42
+Complications  43
+Prognosis  43
+Guidelines  45
+Diagnostic guidelines  45
+Treatment guidelines  45
+Online resources  46
+References  47
+Images  53
+Disclaimer  63
+=== Page 3 ===
+Ventricular septal defects Overview
+Summary
+Ventricular septal defects (VSDs) are defects in the interventricular septum that allow shunting of blood
+between the left and right ventricles.
+Usually congenital, but rarely acquired after myocardial infarction or trauma.
+May be associated with other congenital defects such as tetralogy of Fallot.
+Significant left-to-right shunting results in pulmonary hypertension, which, if left untreated, can progress to
+shunt reversal with cyanosis and Eisenmenger syndrome.
+Small shunts may close spontaneously in childhood and can be managed by observation.
+Large shunts require surgical closure.
+Definition
+VSDs are congenital or acquired defects in the interventricular septum that allow shunting of blood between
+the left and right ventricles.
+Eisenmenger syndrome is shunt reversal (blood flowing from the right to the left ventricle) leading to the
+distribution of deoxygenated blood to the systemic arterial circulation.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Ventricular septal defects Theory
+THEORY
+Epidemiology
+Ventricular septal defects (VSDs) are among the most common congenital heart defects in infants and
+children, and an isolated VSD is seen in approximately 3 infants per 1000 live births.[7] Most of these close
+spontaneously in childhood.[8] [9] [10] [11] VSD may accompany other congenital defects.
+Type 4 (muscular) defects are the most common VSDs, along with type 2 (perimembranous).[12] [13]
+Down syndrome is commonly associated with atrioventricular septal defects, which are seen in between one
+third and one half of all patients.[14] [15] These may be atrial septal, ventricular septal, or both.[16] Overall,
+atrioventricular septal defects are thought to be present in about 0.29 to 0.54 per 1000 live births.[7][13] [17]
+Acquired VSDs, due to myocardial infarction or trauma, are rare.
+Etiology
+Congenital
+• Ventricular septal defects (VSDs) are usually developmental congenital conditions. No definite cause
+is known. In families with a strong history of congenital cardiovascular malformations, the incidence of
+VSD is increased. Certain genetic abnormalities have a high incidence of associated VSD, the most
+common being Down syndrome, which is associated with congenital cardiovascular malformations in
+one third to one half of cases.[14] [15]
+Acquired
+• In rare cases, a VSD can occur as a result of acute myocardial infarction (MI). This usually occurs 2 to
+5 days after the infarction and is marked by the onset of acute left-heart failure, chest pain, low cardiac
+output and shock.[6] VSD also occurs as a result of penetrating or, rarely, blunt trauma.
+Pathophysiology
+The pathophysiologies of all VSDs are essentially the same, regardless of location. Two factors determine
+the hemodynamic effects of a VSD: the size of the defect and the pulmonary vascular resistance. If the
+defect is able to limit the transmission of pressure from the left to the right side of the heart, it is called a
+restrictive defect.
+A small restrictive defect (pulmonary to systemic blood flow ratio [Qp:Qs] <1.5:1) leads to minimal left-to-right
+shunting across the ventricles, and is not associated with any increase in pulmonary vascular resistance or
+with any symptoms. If found in infancy there is a high likelihood of spontaneous closure; however, it has a
+good prognosis, even if it persists into adulthood.
+A moderate restrictive defect (Qp:Qs 1.5:1 to 2.5:1) will lead to left-to-right shunting and a variable amount
+of pulmonary hypertension. Initially, there is reactive pulmonary hypertension (pulmonary hypertension
+that is reversible with pulmonary vasodilators) with left-to-right shunting. Gradually, the pulmonary
+vascular resistance rises, resulting in decreased shunting. Persistent pulmonary hypertension eventually
+becomes "fixed" pulmonary hypertension, produced by permanent irreversible remodeling of the pulmonary
+vasculature. Pulmonary hypertension increases the back pressure on the heart, causing dilatation of the
+cardiac chambers and, eventually, heart failure.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Ventricular septal defects Theory
+In larger defects (Qp:Qs >2.5:1) and in late stages, significant pulmonary hypertension occurs and
+pulmonary vascular resistance rises to the point that the shunt reverses (Eisenmenger syndrome). Shunt
+reversal alludes to blood flowing from the right to the left ventricle, effectively "reversing" the flow seen
+through most VSDs. It results in unoxygenated blood from the systemic venous return passing directly into
+the systemic arterial circulation without going through the lungs to be oxygenated. Oxygen saturation in the
+systemic arterial circulation therefore falls, resulting in cyanosis. The VSD becomes inoperable at this point.
+In infancy, the mechanism of pulmonary hypertension is different from in adults, and is primarily due
+to increased pulmonary blood flow rather than increased pulmonary vascular resistance. However, the
+sequelae are the same. Reduced systemic perfusion is still seen in infants, resulting in heart failure.
+An acute VSD resulting from an acute MI will usually result in acute left-heart failure with pulmonary edema
+and shock.[6]
+Additional problems can arise with certain types of VSD. With type 1 defects, accompanying aortic
+regurgitation is common, produced by prolapse of the anterior aortic valve leaflet. With type 3 defects, there
+is often involvement of the atrioventricular valves and the atrial septum.
+Classification
+Classification according to location[1]
+VSDs are classified according to their location. There are 4 main types, 3 of which are known by several
+synonyms.
+Type 1
+• 6% of isolated VSDs in non-Asian populations, but up to 33% in Asian populations
+• Synonyms: conal defect, conal septal hypoplasia, sub-pulmonary defect, infundibular defect,
+supracristal defect, doubly committed juxta-arterial defect
+• Location: lies beneath the semilunar valves in the conal or outlet septum
+• Often associated with aortic regurgitation produced by prolapse of the anterior aortic valve leaflet
+Type 2
+• Synonyms: perimembranous defect, paramembranous defect, conoventricular defect
+• Location: confluent with the membranous septum, bordered by an atrioventricular (AV) valve
+Type 3
+• Synonyms: peri-inlet defect, AV canal type defect, AV septal defect, endocardial cushion defect
+• Location: involves the inlet of the ventricular septum immediately inferior to the AV valve apparatus
+• Typically occur in patients with Down syndrome
+Type 4
+• Up to 20% of VSDs in infants. Adult incidence is much lower
+• Synonym: muscular defect
+• Location: completely surrounded by muscle; multiple defects may be present, producing a "Swiss
+cheese" appearance of the septum
+•  Spontaneous closure may occur
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Ventricular septal defects Theory
+THEORY
+Simplified diagram of the left ventricular septum showing
+the anatomical locations of the ventricular septal defects
+From the collection of Dr Zuhdi Lababidi
+Classification by etiology
+Congenital
+• Most VSDs are the result of a developmental defect
+Acquired
+• Rare
+• Necrosis of the septum following MI can produce a VSD
+• Penetrating trauma (e.g., a stab wound) or, very rarely, blunt trauma can produce a VSD
+Classification by size[2]
+VSDs can be divided into small, moderate, and large defects according to size. The magnitude of the shunt
+produced by a VSD is described by the Qp:Qs ratio.
+The 2018 American Heart Association/American College of Cardiology guideline includes the following
+classification:
+• Small restrictive defects. The pulmonary vascular resistance is not significantly elevated and the left-
+to-right shunt is small (Qp:Qs <1.5:1).
+• Large nonrestrictive defects in cyanotic patients who have developed Eisenmenger syndrome, with
+pulmonary vascular resistance at systemic levels and shunt reversal (right-to-left).
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Ventricular septal defects Theory
+• Patients with moderately restrictive defects (Qp:Qs ≥1.5:1 and <2:1) who have not undergone closure
+for some reason. These patients often have mild-to-moderate pulmonary arterial hypertension.
+• Patients who have had their defects closed in childhood. These patients may have VSD patch leaks.
+International Society for Nomenclature of Paediatric and
+Congenital Heart Disease classification scheme for VSD[3]
+Alternate classification of VSD
+• Perimembranous central VSD
+• Inlet VSD without a common AV junction
+• Inlet perimembranous VSD without AV septal malalignment and without a common AV junction
+• Inlet perimembranous VSD with AV septal malalignment and without a common AV junction
+• Inlet muscular VSD
+• Trabecular muscular VSD
+• Trabecular muscular VSD: midseptal
+• Trabecular muscular VSD: apical
+• Trabecular muscular VSD: postero-inferior
+• Trabecular muscular VSD: anterosuperior
+• Trabecular muscular VSD: multiple (“Swiss cheese” septum)
+• Outlet VSD
+• Outlet VSD without malalignment
+• Outlet muscular VSD without malalignment
+• Doubly committed juxta-arterial VSD without malalignment
+• Doubly committed juxta-arterial VSD without malalignment and with a muscular
+postero-inferior rim
+• Doubly committed juxta-arterial VSD without malalignment and with a fibrous
+postero-inferior rim (perimembranous extension)
+• Outlet VSD with anteriorly malaligned outlet septum
+• Outlet muscular VSD with anteriorly malaligned outlet septum
+• Outlet perimembranous VSD with anteriorly malaligned outlet septum
+• Doubly committed juxta-arterial VSD with anteriorly malaligned fibrous outlet septum
+• Doubly committed juxta-arterial VSD with anteriorly malaligned fibrous outlet
+septum and a muscular postero-inferior rim
+• Doubly committed juxta-arterial VSD with anteriorly malaligned fibrous outlet
+septum and a fibrous postero-inferior rim (perimembranous extension)
+• Outlet VSD with posteriorly malaligned outlet septum
+• Outlet muscular VSD with posteriorly malaligned outlet septum
+• Outlet perimembranous VSD with posteriorly malaligned outlet septum
+• Doubly committed juxta-arterial VSD with posteriorly malaligned fibrous outlet septum
+• Doubly committed juxta-arterial VSD with posteriorly malaligned fibrous outlet
+septum and a muscular postero-inferior rim
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Ventricular septal defects Theory
+THEORY
+• Doubly committed juxta-arterial VSD with posteriorly malaligned fibrous outlet
+septum and a fibrous postero-inferior rim (perimembranous extension)
+International Classification of Diseases, 11th revision (ICD-11)[4]
+In ICD-11, VSDs are contained within the “Developmental anomalies” chapter and are defined as a
+congenital cardiac malformation in which there is a hole or pathway between the ventricular chambers. They
+are further subclassified as follows.
+Trabecular muscular ventricular septal defect
+• A congenital cardiac malformation in which there is a ventricular septal defect within the trabeculated
+component of the ventricular septum.
+Perimembranous central ventricular septal defect
+• A congenital cardiovascular malformation in which there is a ventricular septal defect that:
+• occupies the space that is usually closed by the interventricular part of the membranous septum
+• is usually adjacent to the area of fibrous continuity between the leaflets of an atrioventricular
+valve and an arterial valve
+• is adjacent to an area of mitral-tricuspid fibrous continuity
+• is located at the center of the base of the ventricular mass.
+Ventricular septal defect hemodynamically insignificant
+• A congenital cardiac malformation in which there is one or more small, clinically insignificant
+ventricular septal defect(s) in the absence of flow-related cardiac chamber dilation or abnormal
+elevation of pulmonary arterial pressure.
+Case history
+Case history #1
+An infant is noted at birth to have a cardiac murmur. Physical exam reveals a systolic murmur at the left
+sternal border. There is no clinical evidence of heart failure.
+Case history #2
+An infant presents with symptoms of shortness of breath on exertion, and faltering growth. Physical exam
+reveals a systolic murmur at the left sternal border and signs of congestive heart failure.
+Other presentations
+Eisenmenger syndrome presents with central cyanosis, with or without finger clubbing, and patients
+may have evidence of heart failure and a history of recurrent pulmonary infections. Erythrocytosis
+develops secondary to cyanosis, subsequently leading to iron deficiency and blood hyperviscosity. Key
+symptoms of Eisenmenger syndrome include headache, fatigue, dizziness, hemoptysis, atypical chest
+pain, palpitations, and dyspnea (may be on exertion only).[5] Usually, the patient will have a documented
+history of a ventricular septal defect (VSD) that was not corrected.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Ventricular septal defects Theory
+A VSD secondary to myocardial infarction (MI) presents 3 to 5 days after the initial MI with symptoms of
+heart failure or, in severe cases, cardiogenic shock.[6] Traumatic VSDs can present at a variety of time
+frames from immediate to delayed. The presence and severity of symptoms depend on the size of the
+VSD.[1]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Ventricular septal defects Diagnosis
+DIAGNOSIS
+Approach
+Most patients with a ventricular septal defect (VSD) will present in infancy and childhood following the
+detection of a murmur on routine examination. It is unusual for a VSD to present in adults. Most small
+defects spontaneously close by age 1 to 2 years; most moderate defects have already been diagnosed and
+treated before adulthood and most large untreated defects result in increased mortality in childhood, and are
+therefore no longer seen in adults.[11]
+If a VSD does present in adulthood, the context is usually one of the following:[2] [11]
+• Restrictive defects that failed to close in childhood but are not hemodynamically important; these pose
+a risk of endocarditis
+• Moderate-sized defects not yet closed; these patients typically have mild pulmonary hypertension
+• Large defects that lead to Eisenmenger syndrome (right-to-left shunt) and are inoperable
+• Patients who have had their defects closed in childhood but are under follow-up, some of whom may
+have or develop residual shunting from patch leaks.
+The diagnosis is usually suspected by the detection of a murmur on physical exam and confirmed by
+echocardiography.[2] [11] Chest x-ray and ECG provide supportive evidence of chamber enlargement but
+are not diagnostic. If the images obtained by echocardiography are inconclusive, or further assessment of
+complex associated abnormalities is required, magnetic resonance imaging (MRI) or computed tomography
+(CT) can be used.[21] Cardiac catheterization is used to confirm the estimation of the shunt in cases where
+the shunt estimation obtained by echocardiography was inadequate or did not concur with the clinical
+presentation.[1]
+Echocardiographic image of a type 4 (muscular) ventricular
+septal defect with color flow Doppler showing left-to-right shunt
+From the collection of Dr Kul Aggarwal
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Ventricular septal defects Diagnosis
+History
+There is often a history of a systolic murmur, usually present since birth. The patient may have no
+symptoms or, in cases of a moderate-sized defect, may develop shortness of breath with exertion as a
+result of heart failure or faltering growth. If a large, unoperated defect is present, shunt reversal should be
+suspected if there is a history of recurrent pulmonary infection and signs of cyanotic heart disease.
+A VSD secondary to myocardial infarction (MI) presents 3 to 5 days after the initial MI with symptoms of
+heart failure or, in severe cases, cardiogenic shock.[6] Traumatic VSDs can present at a variety of time
+frames from immediate to delayed; the presence and severity of symptoms depend on the size of the
+VSD.[1]
+Physical exam
+A holosystolic murmur can be heard at the lower left parasternal border. This may be accompanied by
+a palpable thrill. The pulmonic component of the second heart sound may be loud due to pulmonary
+hypertension. There may be signs of cardiomegaly, including displacement of the apical impulse
+downward and laterally on the precordium and, in case of right ventricular hypertrophy, a parasternal
+heave. Tachypnea may be present in infants who develop heart failure.
+Shunt reversal should be suspected if there is evidence of cyanosis, which is sometimes accompanied by
+clubbing of the nails.
+Initial investigations
+Echocardiogram
+• Echocardiography is the investigation of choice to confirm the diagnosis and evaluate the shunt
+as well as associated abnormalities.[2] [11] The defect can be seen on 2D images, and the shunt
+visualized on color flow imaging. When directed at the defect in the parasternal views, spectral
+Doppler will show a high-velocity systolic jet based on the gradient between the left ventricle and
+right ventricle above the baseline in systole. Additionally, chamber sizes can be assessed, and the
+tricuspid regurgitation jet can be used to determine the pulmonary arterial systolic pressure. In case
+of a type 1 defect, associated aortic regurgitation can be evaluated. Associated conditions such as
+tetralogy of Fallot can also be diagnosed.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Ventricular septal defects Diagnosis
+DIAGNOSIS
+Echocardiographic image of a type 4 (muscular) ventricular
+septal defect with color flow Doppler showing left-to-right shunt
+From the collection of Dr Kul Aggarwal
+Echocardiographic image with color flow Doppler showing left-to-right shunting across a
+type 1 ventricular septal defect at the supracristal (or doubly committed juxta-arterial) level
+From the collection of Dr Zuhdi Lababidi
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Ventricular septal defects Diagnosis
+Echocardiographic image with color flow Doppler showing left-to-right
+shunting across a type 3 ventricular septal defect at the inlet cushion level
+From the collection of Dr Zuhdi Lababidi
+Doppler image showing spectral recording of continuous-wave Doppler
+showing the left-to-right gradient across the ventricular septal defect
+From the collection of Dr Kul Aggarwal
+• The magnitude of the shunt produced by a VSD is described by the pulmonary-systemic blood flow
+ratio (Qp:Qs); this measurement is obtained by Doppler echocardiography.
+• Echocardiography should be ordered in every patient suspected of having a VSD (regardless of
+whether it is isolated or occurs in the context of a more complex condition) as it helps to establish
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Ventricular septal defects Diagnosis
+DIAGNOSIS
+or confirm the diagnosis, and guides appropriate management. A comprehensive transthoracic
+echocardiogram is recommended and can also evaluate pulmonary hypertension and any
+concomitant heart defects.[22] [23] [24]
+Chest x-ray
+• The chest x-ray may show a normal-sized cardiac silhouette, or show enlargement of the heart. If
+the shunting is significant, it may be accompanied by prominence of pulmonary vascular markings
+and pulmonary congestion.
+ECG
+• The ECG may be normal, or may show evidence of left atrial enlargement and left ventricular
+hypertrophy, or may show biventricular hypertrophy. The ECG is not diagnostic of a VSD, but
+provides supportive evidence of chamber enlargement (if present).
+Subsequent investigations
+Cardiac MRI
+• Although not commonly used in clinical practice for this purpose, MRI is an excellent modality to
+assess a VSD and also to quantify the shunt. It is reserved for cases with complex defects in need
+of further assessment, or where echocardiography is inconclusive.
+Cardiac CT scanning
+• Cardiac CT is not a first-line diagnostic test, but can be useful in patients in whom MRI is
+contraindicated or if MRI shows artifacts from pacemaker leads, for example. It also has the
+advantage of allowing assessment of coronary arteries.
+Right-heart cardiac catheterization
+• This is usually not needed, and is reserved for cases in which confirmation of shunt estimation
+is required, usually due to a discrepancy between the clinical presentation and the assessment
+of the VSD provided by imaging, or because imaging was inadequate in patients with difficult
+echocardiographic windows.[2]
+• An oximetric run on cardiac catheterization (continuous monitoring of oxygen saturation as the
+catheter is moved) will demonstrate a "step-up" in oxygen saturations in the right ventricle (i.e., the
+right ventricular saturation will be significantly higher than the right atrial saturation due to mixing of
+oxygenated blood from the left ventricle).
+• Contrast angiography of the left ventricle will demonstrate the location of the VSD and the site of
+shunting with contrast going into the right ventricle from the left ventricle. It may also demonstrate
+the presence of an aneurysm of the ventricular septum.
+• Pulmonary arterial pressures can be measured to provide an index of pulmonary vascular
+resistance. This information is useful to assess suitability for surgical correction.
+• If significant pulmonary hypertension is present, responsiveness to vasodilators (oxygen or nitric
+oxide) can be used to distinguish reactive from "fixed" pulmonary hypertension; patients whose
+pulmonary hypertension is reactive may benefit more from surgery.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Ventricular septal defects Diagnosis
+X-ray image showing a type 4 (muscular) ventricular septal defect on left ventriculography
+From the collection of Dr Zuhdi Lababidi
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Ventricular septal defects Diagnosis
+DIAGNOSIS
+X-ray image showing a type 2 (membranous) ventricular septal defect on left ventriculography
+From the collection of Dr Zuhdi Lababidi
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Ventricular septal defects Diagnosis
+X-ray image showing a type 2 (membranous) ventricular
+septal defect with an aneurysm on left ventriculography
+From the collection of Dr Zuhdi Lababidi
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Ventricular septal defects Diagnosis
+DIAGNOSIS
+X-ray angiographic image showing an aneurysm without left-to-right shunting
+From the collection of Dr Zuhdi Lababidi
+History and exam
+Key diagnostic factors
+systolic murmur left parasternal region (common)
+• This murmur is generally holosystolic and does not increase with inspiration (unlike tricuspid
+regurgitation).
+• The murmur is generally easily heard; a smaller defect generally results in a louder murmur.
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Ventricular septal defects Diagnosis
+faltering growth (common)
+• Congenital heart disease should always be excluded in infants and children with unexplained faltering
+growth.
+shortness of breath (common)
+• Shortness of breath on exertion tends to occur in patients with a long-standing moderate-sized shunt.
+Infants may also have tachypnea and shortness of breath with feeding and effort.
+Other diagnostic factors
+recurrent pulmonary infections (common)
+• May be attributable to shunt reversal in patients with large unoperated defects, especially when
+accompanied by physical signs of finger clubbing and/or cyanosis.
+loud pulmonary component of the second heart sound (common)
+• A sign of pulmonary hypertension, which typically develops in cases of significant left-to-right shunt.
+cyanosis (uncommon)
+• Occurs in cases of shunt reversal (Eisenmenger syndrome).[5]
+• The cause is a large uncorrected ventricular septal defect (VSD) shunt that produces severe
+pulmonary hypertension, increasing the right-heart pressure to the point that unoxygenated blood is
+forced straight into the left heart and systemic circulation.
+• Decreased blood flow in the pulmonary circulation contributes further to the cyanosis.
+finger clubbing (uncommon)
+• Finger clubbing is associated with a range of cyanotic congenital heart diseases, including ventricular
+septal defects (VSDs).
+recent myocardial infarction (usually within 3 to 5 days) (uncommon)
+• A recent history of myocardial infarction may indicate an acquired ventricular septal defect (VSD).[6]
+recent trauma (uncommon)
+• Rarely, a ventricular septal defect (VSD) can be caused by trauma.[1]
+Risk factors
+Strong
+family history of congenital heart disease
+• Congenital heart defects, including ventricular septal defects, are more likely in patients with a positive
+family history of such defects.[18]
+Down syndrome (trisomy 21)
+• Between one third and one half of people with Down syndrome have congenital heart disease, most
+commonly atrioventricular septal defects or ventricular septal defects.[14] [15]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Ventricular septal defects Diagnosis
+DIAGNOSIS
+Weak
+maternal alcohol consumption during pregnancy
+• Maternal alcohol use during pregnancy is associated with an increased incidence of congenital heart
+defects, including ventricular septal defect.[19]
+maternal cigarette smoking during pregnancy
+• Periconceptual maternal cigarette smoking (one month preconception until 3 months postconception)
+is associated with an increased risk of perimembranous ventricular septal defect and atrioventricular
+septal defect.[20]
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Ventricular septal defects Diagnosis
+Tests
+1st test to order
+Test Result
+echocardiography
+• The single most important and useful test in the diagnosis and
+follow-up of patients with ventricular septal defects (VSDs).[2] [11]
+ Comprehensive transthoracic echocardiogram can also evaluate any
+concomitant heart defects.[22] [23] [24] 2D imaging and color flow
+Doppler are usually diagnostic: the defect is clearly visualized on 2D
+views, and spectral-wave Doppler serves to confirm a high-velocity jet
+across the VSD demonstrating the left-to-right shunt. 
+• The degree of shunting can be estimated by Doppler, and a
+pulmonary-systemic blood flow ratio (Qp:Qs) can be determined.
+• Also diagnoses associated conditions (e.g., tetralogy of Fallot) and
+complications (chamber enlargement, aortic regurgitation).
+• Continuous-wave Doppler of the tricuspid regurgitation jet can be
+used to assess the degree of pulmonary hypertension.
+Echocardiographic image of a type 4 (muscular) ventricular
+septal defect with color flow Doppler showing left-to-right shunt
+From the collection of Dr Kul Aggarwal
+VSD visualized and
+diagnosed on 2D views;
+left-to-right shunt
+confirmed by the presence
+of a high-velocity jet
+across the VSD on color
+Doppler
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Ventricular septal defects Diagnosis
+DIAGNOSIS
+Test Result
+Echocardiographic image with color flow Doppler showing
+left-to-right shunting across a type 1 ventricular septal defect
+at the supracristal (or doubly committed juxta-arterial) level
+From the collection of Dr Zuhdi Lababidi
+Echocardiographic image with color flow Doppler
+showing left-to-right shunting across a type 3
+ventricular septal defect at the inlet cushion level
+From the collection of Dr Zuhdi Lababidi
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Ventricular septal defects Diagnosis
+Test Result
+Echocardiographic image showing ventricular
+septal defect at the inlet cushion level
+From the collection of Dr Zuhdi Lababidi
+Doppler image showing spectral recording of continuous-wave Doppler
+showing the left-to-right gradient across the ventricular septal defect
+From the collection of Dr Kul Aggarwal
+chest x-ray
+• In patients with small ventricular septal defects, the chest x-ray may
+be normal.
+• In patients with significant defects, there may be cardiomegaly and
+increased vascular markings.
+• In patients with Eisenmenger syndrome, the chest x-ray may show a
+prominent pulmonary conus with peripheral pruning of the pulmonary
+vascular markings.[5]
+ranges from normal
+to cardiomegaly and
+increased pulmonary
+vascular markings to
+peripheral pruning of
+vascular markings
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Ventricular septal defects Diagnosis
+DIAGNOSIS
+Test Result
+ECG
+• Not diagnostic of a ventricular septal defect, but provides supportive
+evidence of chamber enlargement if present.
+• The ECG may be normal in small, nonrestrictive defects.
+• In moderate-sized defects, there may be evidence of left ventricular
+and also sometimes left atrial enlargement.
+• In cases of larger shunts, there may be evidence of biventricular
+hypertrophy.
+• In a few patients, there may be predominant right ventricular
+hypertrophy.
+various findings
+depending upon size of
+defect and the presence
+pulmonary hypertension
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Ventricular septal defects Diagnosis
+Other tests to consider
+Test Result
+cardiac MRI
+• MRI and CT scan are complementary imaging modalities especially
+when other tests such as echocardiography are not optimal.
+MRI may be very useful in cases with complex defects or where
+echocardiography leaves some doubt.[21]
+visualization of the
+defect; evaluation of the
+degree of shunting
+cardiac CT scan
+• MRI and CT scan are complementary imaging modalities especially
+when other tests such as echocardiography are not optimal.[21] Can
+be particularly useful in patients in whom MRI is contraindicated or if
+MRI shows artifacts from pacemaker leads, for example. Also has the
+advantage of allowing assessment of coronary arteries.
+may show location of
+ventricular septal defect,
+as well as chamber sizes
+and function
+cardiac catheterization
+• Reserved for cases where a calculation of pressures and resistances
+is required, or noninvasive tests do not sufficiently define cardiac
+anatomy.[2]
+• Confirms the location of the shunt and the degree of pulmonary
+hypertension. Also serves to exclude significant concomitant
+coronary artery disease in older patients.
+• Measurement of pulmonary vascular resistance is used to assess
+suitability for surgical correction.
+X-ray image showing a type 4 (muscular)
+ventricular septal defect on left ventriculography
+From the collection of Dr Zuhdi Lababidi
+measurement of
+pulmonary artery
+pressures; demonstration
+of the location and degree
+of shunting
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Ventricular septal defects Diagnosis
+DIAGNOSIS
+Test Result
+X-ray image showing a type 2 (membranous)
+ventricular septal defect on left ventriculography
+From the collection of Dr Zuhdi Lababidi
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Ventricular septal defects Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Atrial septal defect • The murmur is usually higher
+up in the left parasternal
+region and results from
+flow across the pulmonic
+valve. Therefore, the murmur
+is much softer, mid or
+ejection systolic instead of
+holosystolic, and the second
+heart sound may have a
+wide and fixed (not changing
+with breathing) split.
+• An echocardiogram will
+demonstrate the defect and
+site of shunting by color flow.
+Patent ductus arteriosus • Associated with a continuous
+systolic and diastolic murmur
+at the base of the heart.
+• An echocardiogram will
+show the defect at the level
+of the ductus arteriosus.
+Mitral regurgitation • Mitral regurgitation results
+in a holosystolic murmur
+most prominent at the mitral
+area, and may radiate to
+the axilla or the lower left
+sternal border depending on
+the eccentricity of the mitral
+regurgitation jet.
+• An echocardiogram will
+reveal posterior motion of
+valve leaflets during mid-
+systole without evidence of a
+ventricular septal defects.
+Tricuspid regurgitation • Tricuspid regurgitation
+results in a holosystolic
+murmur at the lower left
+parasternal region. A
+characteristic finding in
+tricuspid regurgitation
+shared with other right-sided
+murmurs is an increase in
+the murmur intensity with
+inspiration (Carvalho sign).
+• An echocardiogram will
+demonstrate regurgitant
+flow across the tricuspid
+valve without evidence of a
+ventricular septal defect.
+Pulmonic stenosis • Ejection systolic murmur at
+the left upper parasternal
+border.
+• An echocardiogram will
+demonstrate turbulence of
+color flow and a gradient
+across the pulmonic valve
+without evidence of a
+ventricular septal defect.
+Tetralogy of Fallot • Typical infant presents in
+the newborn period with
+a murmur and cyanosis.
+The diagnosis may have
+been made prenatally on
+fetal echocardiogram. Some
+infants present at a later age
+with increasing cyanosis,
+murmur, or hypercyanotic
+• Echocardiogram will show
+the presence of the 3 other
+key findings in addition
+to the ventricular septal
+defect (i.e., presence of
+pulmonic stenosis, overriding
+aorta, and right ventricular
+hypertrophy).
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Ventricular septal defects Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+spells. May be associated
+with genetic syndromes such
+as DiGeorge syndrome.
+• Physical exam may reveal
+significant tachypnea and
+cyanosis in severe cases, an
+increased right ventricular
+(parasternal) impulse, a
+single second heart sound,
+and a harsh systolic ejection
+murmur heard best at the left
+sternal border. The intensity
+of the murmur depends on
+the degree of pulmonary
+stenosis and decreases with
+severe stenosis.
+Screening
+Routine physical exam at birth and other times will generally detect the murmur of ventricular septal defect
+leading to the diagnosis. All newborns should be screened for congenital heart defects, ideally using pulse
+oximetry. An echocardiogram is necessary only if the child has a murmur, or has unexplained faltering
+growth or heart failure signs. In the US and certain other countries, a failed pulse oximetry screen mandates
+echocardiographic evaluation for critical congenital heart disease.[25]
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Ventricular septal defects Management
+Approach
+Initially, the diagnosis of a ventricular septal defect (VSD) should be confirmed by echocardiography and
+an assessment made of the degree of shunting and the presence and degree of any associated pulmonary
+hypertension. The magnitude of the shunt produced by a VSD is described by the pulmonary-systemic blood
+flow ratio (Qp:Qs).
+In patients with small defects, observation is all that is required. In patients with significant shunts with Qp:Qs
+≥1.5:1 (moderate and large defects), surgical closure of the VSD is generally recommended. If the patient
+presents with symptoms of heart failure, the heart failure must be treated prior to surgical closure. In cases
+of severe pulmonary hypertension and Eisenmenger syndrome, closure of the VSD is contraindicated.
+Pulmonary vasodilators may be used to provide supportive treatment.[5] For advanced disease with
+Eisenmenger syndrome, heart-lung transplantation could be considered.[2] [5] [24]
+Children with congenital heart defects such as VSD should ideally begin transitioning to adult cardiology
+during early adolescence. It may be appropriate for the transition to continue into emerging adulthood
+(ages 18 to 25 years) for some patients. The American Heart Association guidelines recommend designing
+a transition program that is sympathetic to neurocognitive diversity and that emphasizes patient self-
+management.[26] [27]
+Patients with small congenital defects
+Patients with small defects (Qp:Qs <1.5:1) can be managed with observation. In infants, most small
+defects close spontaneously, and most of those that persist are of no hemodynamic importance.[2]
+Asymptomatic patients with moderate or large congenital defects
+Medium or large VSDs should be closed to prevent progression to severe pulmonary hypertension, heart
+failure, and Eisenmenger syndrome.[2] Surgical closure is recommended in adults with evidence of
+left ventricular volume overload and hemodynamically significant shunts (Qp:Qs ≥1.5:1) if: pulmonary
+artery (PA) systolic pressure is <50% systemic and pulmonary vascular resistance is less than one third
+systemic. Surgical closure may be considered: when a perimembranous or supracristal VSD causes
+worsening aortic regurgitation; with a history of infective endocarditis; or when PA systolic pressure
+is ≥50% systemic and/or pulmonary vascular resistance is greater than one third systemic with a left-
+to-right shunt (Qp:Qs ≥1.5:1).[2] [11] The usual procedure is open surgery in which a patch (bovine
+pericardium or synthetic material) is used to close the VSD.[2] One study found that surgical repair
+and transcatheter device closure of perimembranous VSDs in children were equally effective, with
+transcatheter closure being associated with shorter hospital stay, less blood transfused, and lower
+cost.[28] Percutaneous device closure of a VSD is an alternative option, in which an occluder device
+is placed through percutaneous access to close the VSD. The percutaneous approach may be used in
+patients who have type 2 or type 4 defects that are not in close proximity to the valves. It has also been
+utilized in cases with too high a risk for surgical closure due to serious comorbidities.[29] [30] [31] [32]
+Symptomatic patients with moderate or large congenital defects
+Patients who present with symptoms of congestive heart failure may be treated medically prior to surgical
+correction. Although small defects often close spontaneously in children, children with large defects may
+present with faltering growth and require surgical closure. Preoperative medical therapy may be used in
+infants to delay closure until the infant has grown enough and surgery can be performed; these medical
+therapies are almost never required in adults. Furosemide is the first-line treatment. ACE inhibitors and
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Ventricular septal defects Management
+MANAGEMENT
+digoxin can be added depending on the clinical response.[2] [33] Once the heart failure is adequately
+treated, open surgery or percutaneous device closure can be used to close the VSD.[2] Surgical closure
+is recommended in adults with evidence of left ventricular volume overload and hemodynamically
+significant shunts (Qp:Qs ≥1.5:1) if: PA systolic pressure is <50% systemic and pulmonary vascular
+resistance is less than one third systemic. Surgical closure may be considered: when a perimembranous
+or supracristal VSD causes worsening aortic regurgitation; with a history of infective endocarditis; or when
+PA systolic pressure is ≥50% systemic and/or pulmonary vascular resistance is greater than one third
+systemic with a left-to-right shunt (Qp:Qs ≥1.5:1).[2] [11] Anemia, if present, should be corrected by red
+blood cell transfusion, or by iron therapy in case of iron-deficiency anemia.
+If patients progress to shunt reversal with Eisenmenger syndrome, the VSD is inoperable and
+treatment is supportive with pharmacotherapy.[5] Drugs used to treat pulmonary hypertension include
+phosphodiesterase-5 (PDE-5) inhibitors (e.g., sildenafil, tadalafil), endothelin receptor antagonists (e.g.,
+bosentan, ambrisentan), and prostacyclins (e.g., epoprostenol).[24] Sildenafil and tadalafil have been
+shown to improve exercise capacity and hemodynamics in patients with Eisenmenger syndrome.[24] [34]
+ However, the US Food and Drug Administration (FDA) does not recommend the use of these agents
+for this indication in pediatric patients due to an increased risk of mortality with higher doses in one trial,
+unless the medical team consider that the benefits of treatment with the drug are likely to outweigh its
+potential risks.[35]  [Revatio (sildenafil): drug safety communication - FDA clarifies warning about pediatric
+use for pulmonary arterial hypertension] (https://www.fda.gov/Drugs/DrugSafety/ucm390876.htm) 
+ Bosentan and ambrisentan have also been shown to improve hemodynamics in Eisenmenger syndrome,
+but larger studies are needed.[24][36] Epoprostenol may be an alternative option to these agents.[37][38]
+[39] Monotherapy or combination therapy with these agents may be recommended, and the choice of
+regimen should be decided in consult with a specialist.
+In very severe cases, heart-lung transplantation can be considered.[5] [24]
+Patients with Eisenmenger syndrome frequently develop erythrocytosis to compensate for the hypoxemia,
+and some of them develop hyperviscosity.[5] Hyperviscosity manifests with headache, fatigue, dyspnea
+and dizziness.[5] Phlebotomy and intravenous infusion of saline may be performed in select patients if
+symptoms of hyperviscosity are severe.[5] Routine phlebotomy for asymptomatic erythrocytosis is not
+indicated. Anemia and volume depletion can cause similar symptoms and should be excluded before
+starting this type of therapy.[5]
+Patients with acquired VSD due to myocardial infarction
+Surgery is required in all patients, as mortality without surgery is extremely high.[6] Mortality is much
+lower with urgent surgery. Generally, patients undergo coronary angiography and intra-aortic balloon
+pump insertion prior to open surgery, in order to define coronary anatomy for possible coronary artery
+bypass grafting and to stabilize the patient with the intra-aortic balloon pump.[6] Concomitant coronary
+revascularization appears to improve outcomes.[40] Percutaneous device closure is an option if the risks
+of open surgical closure are too high.[41] [42]
+Patients with acquired VSD due to trauma
+VSD has been reported both after penetrating trauma such as stab wounds and, very rarely, after blunt
+trauma such as motor vehicle accident injuries. A traumatic VSD can manifest clinically over a range of
+time courses from immediate to delayed. A traumatic VSD is generally treated with surgical repair of the
+defect in patients with significant-sized defects. Small defects with insignificant shunts may be managed
+conservatively.
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Ventricular septal defects Management
+Prophylactic antibiotics
+Due to the high flow velocity across the VSD, there is an increased risk of infective endocarditis in patients
+with VSDs compared with the general population. Even small defects that are not hemodynamically
+significant may cause endocarditis.[43]
+A high index of suspicion should be maintained in these patients; infective endocarditis often presents
+nonspecifically and most commonly involves fever with possible physical signs of peripheral emboli: Osler
+nodes, Roth spots, or Janeway lesions.
+Antibiotic prophylaxis is no longer recommended in all patients with VSD, but is reserved for especially
+high-risk groups: patients with Eisenmenger syndrome; patients with a previous history of infective
+endocarditis; patients within 6 months following patch repair or percutaneous device closure of VSD;
+or patients with a residual defect following closure. Prophylaxis is no longer recommended for routine
+gastrointestinal procedures.[2] The development of endocarditis as a complication is an indication for
+corrective closure of the VSD regardless of its size.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Ventricular septal defects Management
+MANAGEMENT
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+congenital: small
+1st observation
+adjunct prophylactic antibiotics
+congenital: medium or large
+asymptomatic 1st corrective closure
+adjunct prophylactic antibiotics
+symptomatic with left-to-
+right shunt
+1st preoperative medical therapy
+plus corrective closure
+adjunct prophylactic antibiotics
+symptomatic with
+right-to-left shunt
+(Eisenmenger syndrome)
+1st supportive medical therapy with
+pulmonary vasodilators
+plus prophylactic antibiotics
+adjunct monitoring and treatment of
+hyperviscosity
+2nd heart-lung transplantation
+acquired
+due to myocardial
+infarction
+1st corrective closure following intra-aortic
+balloon pump insertion ± coronary artery
+bypass graft
+adjunct prophylactic antibiotics
+traumatic 1st corrective closure
+adjunct prophylactic antibiotics
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Ventricular septal defects Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+congenital: small
+1st observation
+» In cases of small restrictive ventricular septal
+defects with a pulmonary-systemic blood flow
+ratio (Qp:Qs) <1.5:1, observation and follow-up
+is all that is generally indicated.[2]
+» Small restrictive defects detected at birth
+without symptoms close spontaneously in most
+cases, and the prognosis of those that fail to
+close is excellent.[2]
+adjunct prophylactic antibiotics
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» amoxicillin: children: 50 mg/kg orally one
+hour before procedure; adults: 2 g orally one
+hour before procedure
+OR
+» clindamycin: children: 20 mg/ kg orally one
+hour before procedure; adults: 600 mg orally
+one hour before procedure
+Clindamycin is an alternative to penicillin in
+patients with penicillin allergy
+» Endocarditis is a complication of ventricular
+septal defects (VSDs), and a high index of
+suspicion must be maintained.
+» Infective endocarditis often presents
+nonspecifically, and most commonly involves
+fever with possible physical signs of peripheral
+emboli (Osler nodes, Roth spots, or Janeway
+lesions).
+» Prophylactic antibiotics are now only indicated
+in patients at particularly high risk of developing
+endocarditis.[2] In patients with a small VSD,
+this includes those with a previous history of
+infective endocarditis. Prophylaxis is no longer
+recommended for routine gastrointestinal
+procedures.
+congenital: medium or large
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Ventricular septal defects Management
+MANAGEMENT
+Acute
+asymptomatic 1st corrective closure
+» Medium or large ventricular septal defects
+(VSDs) should be closed to prevent progression
+to severe pulmonary hypertension, heart failure,
+and Eisenmenger syndrome.[2]
+» Surgical closure is recommended in adults
+with evidence of left ventricular volume overload
+and hemodynamically significant shunts (a
+pulmonary-systemic blood flow ratio [Qp:Qs]
+≥1.5:1) if: pulmonary artery (PA) systolic
+pressure is <50% systemic and pulmonary
+vascular resistance is less than one third
+systemic. Surgical closure may be considered:
+when a perimembranous or supracristal VSD
+causes worsening aortic regurgitation; with
+a history of infective endocarditis; or when
+PA systolic pressure is ≥50% systemic and/
+or pulmonary vascular resistance is greater
+than one third systemic with a left-to-right shunt
+(Qp:Qs ≥1.5:1).[2] 
+» The usual procedure is open surgery
+in which a patch (bovine pericardium or
+synthetic material) is used to close the VSD.[2]
+One study found that surgical repair and
+transcatheter device closure of perimembranous
+VSDs in children were equally effective, with
+transcatheter closure being associated with
+shorter hospital stay, less blood transfused, and
+lower cost.[28]
+» Percutaneous device closure is an option
+for type 4 (muscular) and some forms of type
+2 (perimembranous) defects, especially if the
+defect is away from the tricuspid valve and the
+aorta.[29] [30] [31] [32]
+adjunct prophylactic antibiotics
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» amoxicillin: children: 50 mg/kg orally one
+hour before procedure; adults: 2 g orally one
+hour before procedure
+OR
+» clindamycin: children: 20 mg/ kg orally one
+hour before procedure; adults: 600 mg orally
+one hour before procedure
+Clindamycin is an alternative to penicillin in
+patients with penicillin allergy
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Ventricular septal defects Management
+Acute
+» Endocarditis is a complication of ventricular
+septal defects, and a high index of suspicion
+must be maintained.
+» Infective endocarditis often presents
+nonspecifically, and most commonly involves
+fever with possible physical signs of peripheral
+emboli (Osler nodes, Roth spots, or Janeway
+lesions).
+» Prophylactic antibiotics are now only indicated
+in patients at particularly high risk of developing
+endocarditis.[2] This includes patients with
+a previous history of infective endocarditis,
+patients within 6 months following patch
+repair or percutaneous device closure, or
+patients with a residual defect following closure.
+Prophylaxis is no longer recommended for
+routine gastrointestinal procedures.
+symptomatic with left-to-
+right shunt
+1st preoperative medical therapy
+Primary options
+» furosemide: children: consult specialist for
+guidance on dose
+Secondary options
+» furosemide: children: consult specialist for
+guidance on dose
+--AND--
+» captopril: children: consult specialist for
+guidance on dose
+-or-
+» enalapril: children: consult specialist for
+guidance on dose
+--AND--
+» digoxin: children: consult specialist for
+guidance on dose
+» Medical therapy is not curative and is used to
+control heart failure symptoms prior to surgery.
+This is mainly required in infants to delay closure
+until the infant has grown enough and surgery
+can be performed; these therapies are almost
+never required in adults.
+» Medications include diuretics, and in some
+cases ACE inhibitors and digoxin.[2] [33]
+» Anemia, if present, should be corrected by red
+blood cell transfusion, or by iron therapy in case
+of iron-deficiency anemia.
+plus corrective closure
+Treatment recommended for ALL patients in
+selected patient group
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Ventricular septal defects Management
+MANAGEMENT
+Acute
+» The development of heart failure symptoms is
+an indication for surgery. Surgical closure should
+be considered with: a pulmonary-systemic blood
+flow ratio (Qp:Qs) ≥1.5:1; a perimembranous
+or supracristal ventricular septal defect (VSD)
+causing worsening aortic regurgitation; or
+a history of endocarditis.[2] Surgery can be
+performed once heart failure symptoms have
+been controlled with therapy.
+» The usual procedure is open surgery
+in which a patch (bovine pericardium or
+synthetic material) is used to close the VSD.[2]
+One study found that surgical repair and
+transcatheter device closure of perimembranous
+VSDs in children were equally effective, with
+transcatheter closure being associated with
+shorter hospital stay, less blood transfused, and
+lower cost.[28]
+» Percutaneous device closure is an option for
+type 4 (muscular) and some forms of type 2
+(perimembranous) defects, especially if they are
+away from the tricuspid valve or the aorta.[29]
+[30] [31] [32]
+adjunct prophylactic antibiotics
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» amoxicillin: children: 50 mg/kg orally one
+hour before procedure; adults: 2 g orally one
+hour before procedure
+OR
+» clindamycin: children: 20 mg/ kg orally one
+hour before procedure; adults: 600 mg orally
+one hour before procedure
+Clindamycin is an alternative to penicillin in
+patients with penicillin allergy
+» Endocarditis is a complication of ventricular
+septal defects, and a high index of suspicion
+must be maintained.
+» Infective endocarditis often presents
+nonspecifically, and most commonly involves
+fever with possible physical signs of peripheral
+emboli (Osler nodes, Roth spots, or Janeway
+lesions).
+» Prophylactic antibiotics are now only indicated
+in patients at particularly high risk of developing
+endocarditis.[2] This includes patients with
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Ventricular septal defects Management
+Acute
+a previous history of infective endocarditis,
+patients within 6 months following patch
+repair or percutaneous device closure, or
+patients with a residual defect following closure.
+Prophylaxis is no longer recommended for
+routine gastrointestinal procedures.
+symptomatic with right-to-
+left shunt (Eisenmenger
+syndrome)
+1st supportive medical therapy with
+pulmonary vasodilators
+» If patients progress to shunt reversal with
+Eisenmenger syndrome, the ventricular septal
+defect is inoperable and treatment is supportive
+with pharmacotherapy.[5]
+» Drugs used to treat pulmonary hypertension
+include phosphodiesterase-5 (PDE-5) inhibitors
+(e.g., sildenafil, tadalafil), endothelin receptor
+antagonists (e.g., bosentan, ambrisentan), and
+prostacyclins (e.g., epoprostenol).[24]
+» Sildenafil and tadalafil have been shown to
+improve exercise capacity and hemodynamics
+in patients with Eisenmenger syndrome.[24] [34]
+However, the US Food and Drug Administration
+(FDA) does not recommend the use of these
+agents for this indication in pediatric patients
+due to an increased risk of mortality with higher
+doses in one trial, unless the medical team
+consider that the benefits of treatment with the
+drug are likely to outweigh its potential risks.[35] 
+[Revatio (sildenafil): drug safety communication
+- FDA clarifies warning about pediatric use
+for pulmonary arterial hypertension] (https://
+www.fda.gov/Drugs/DrugSafety/ucm390876.htm)
+» Bosentan and ambrisentan have also
+been shown to improve hemodynamics in
+Eisenmenger syndrome, but larger studies are
+needed.[24] [36]
+» Epoprostenol may be an alternative option to
+these agents.[37] [38] [39]
+» Monotherapy or combination therapy with
+these agents may be recommended, and the
+choice of regimen should be decided in consult
+with a specialist.
+plus prophylactic antibiotics
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» amoxicillin: children: 50 mg/kg orally one
+hour before procedure; adults: 2 g orally one
+hour before procedure
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Ventricular septal defects Management
+MANAGEMENT
+Acute
+OR
+» clindamycin: children: 20 mg/ kg orally one
+hour before procedure; adults: 600 mg orally
+one hour before procedure
+Clindamycin is an alternative to penicillin in
+patients with penicillin allergy
+» Endocarditis is a complication of ventricular
+septal defects, and a high index of suspicion
+must be maintained.
+» Infective endocarditis often presents
+nonspecifically, and most commonly involves
+fever with possible physical signs of peripheral
+emboli (Osler nodes, Roth spots, or Janeway
+lesions).
+» Antibiotic prophylaxis is indicated in all patients
+with Eisenmenger syndrome.[2]
+adjunct monitoring and treatment of
+hyperviscosity
+Treatment recommended for SOME patients in
+selected patient group
+» Patients with Eisenmenger syndrome
+frequently develop erythrocytosis to compensate
+for the hypoxemia, and some of them develop
+hyperviscosity.[5] Hyperviscosity manifests with
+headache, fatigue, dyspnea, and dizziness.
+Phlebotomy and intravenous infusion of saline
+may be performed in select patients if symptoms
+of hyperviscosity are severe.[5] Routine
+phlebotomy for asymptomatic erythrocytosis is
+not indicated. Anemia and volume depletion can
+cause similar symptoms and should be excluded
+before starting this type of therapy.[5]
+2nd heart-lung transplantation
+» In some patients who are severely
+symptomatic, heart-lung transplant may
+be considered and, when feasible, surgical
+correction of the ventricular septal defect
+together with lung transplant may be
+considered.[5] [24] The survival of patients with
+Eisenmenger syndrome who receive a heart-
+lung transplant is similar to that of other heart-
+lung transplant recipients, or better, despite a
+more difficult operative course.[24] [44]
+acquired
+due to myocardial
+infarction
+1st corrective closure following intra-aortic
+balloon pump insertion ± coronary artery
+bypass graft
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Ventricular septal defects Management
+Acute
+» Patients generally present with acute left-
+heart failure, and mortality without surgery is
+extremely high.[6] Mortality is much lower with
+urgent surgery.
+» Generally, patients undergo coronary
+angiography and intra-aortic balloon pump
+insertion prior to surgery in order to define
+coronary anatomy for possible coronary
+artery bypass graft (CABG) and to stabilize
+the patient with the intra-aortic balloon
+pump. CABG is carried out at the same time
+as the corrective closure.[6] Concomitant
+coronary revascularization appears to improve
+outcomes.[40]
+» Percutaneous device closure is an option if
+the risks of open surgical closure are too high.
+[41] [42] [45] These patients still receive an
+angiogram and intra-aortic balloon insertion.
+adjunct prophylactic antibiotics
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» amoxicillin: children: 50 mg/kg orally one
+hour before procedure; adults: 2 g orally one
+hour before procedure
+OR
+» clindamycin: children: 20 mg/ kg orally one
+hour before procedure; adults: 600 mg orally
+one hour before procedure
+Clindamycin is an alternative to penicillin in
+patients with penicillin allergy
+» Endocarditis is a complication of ventricular
+septal defects (VSDs), and a high index of
+suspicion must be maintained.
+» Infective endocarditis often presents
+nonspecifically, and most commonly involves
+fever with possible physical signs of peripheral
+emboli (Osler nodes, Roth spots, or Janeway
+lesions).
+» Prophylactic antibiotics are now only indicated
+in patients at particularly high risk of developing
+endocarditis: patients with Eisenmenger
+syndrome; patients with a previous history of
+infective endocarditis; patients within 6 months
+following patch repair or percutaneous device
+closure of VSD; or patients with a residual
+defect following closure. Prophylaxis is no
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Ventricular septal defects Management
+MANAGEMENT
+Acute
+longer recommended for routine gastrointestinal
+procedures.[2]
+traumatic 1st corrective closure
+» A traumatic ventricular septal defect is
+generally treated with surgical repair of the
+defect in patients with significant-sized defects.
+Small defects with insignificant shunts may be
+managed conservatively.
+adjunct prophylactic antibiotics
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» amoxicillin: children: 50 mg/kg orally one
+hour before procedure; adults: 2 g orally one
+hour before procedure
+OR
+» clindamycin: children: 20 mg/ kg orally one
+hour before procedure; adults: 600 mg orally
+one hour before procedure
+Clindamycin is an alternative to penicillin in
+patients with penicillin allergy
+» Endocarditis is a complication of ventricular
+septal defects (VSDs), and a high index of
+suspicion must be maintained.
+» Infective endocarditis often presents
+nonspecifically, and most commonly involves
+fever with possible physical signs of peripheral
+emboli (Osler nodes, Roth spots, or Janeway
+lesions).
+» Prophylactic antibiotics are now only indicated
+in patients at particularly high risk of developing
+endocarditis: patients with Eisenmenger
+syndrome; patients with a previous history of
+infective endocarditis; patients within 6 months
+following patch repair or percutaneous device
+closure of VSD; or patients with a residual
+defect following closure. Prophylaxis is no
+longer recommended for routine gastrointestinal
+procedures.[2]
+Primary prevention
+Avoidance of alcohol and smoking during pregnancy is recommended. Maternal alcohol consumption and
+cigarette smoking are both associated with increased incidence of ventricular septal defects.[19] [20]
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Ventricular septal defects Management
+Secondary prevention
+In case of a febrile illness, endocarditis should be suspected and blood cultures obtained before initiating
+antibiotic therapy. Depending on the degree of suspicion, transthoracic or transesophageal echocardiography
+should be performed.[49] Prophylaxis is only indicated in patients at particularly high risk of developing
+endocarditis: patients with Eisenmenger syndrome; patients with a previous history of infective endocarditis;
+patients within 6 months following patch repair or percutaneous device closure of ventricular septal defect
+(VSD); or patients with a residual defect following closure. Prophylaxis is not recommended for routine
+gastrointestinal procedures.[2]
+Patient discussions
+It is important for patients to keep follow-up appointments and report any new symptoms immediately,
+especially shortness of breath on exertion. Patients should be advised to seek prompt medical attention in
+case of fever or tiredness, especially following dental work.
+Patients with congenital heart disease (CHD), even with the lower-complexity type, are at increased risk
+of developing atherosclerotic cardiovascular disease as they age, and show increased morbidity and
+mortality following cardiovascular events.[48] Patients should be educated about this risk and lifestyle
+elements such as obesity, diabetes mellitus and prediabetes, and arterial hypertension, and monitored for
+the development of such modifiable risk factors.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Ventricular septal defects Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+Asymptomatic individuals should undergo annual clinical follow-up. Issues to be monitored include
+development of aortic regurgitation, development of tricuspid regurgitation, assessment of left-to-
+right shunt, ventricular dysfunction, and assessment of pulmonary pressure. Routine surveillance via
+transthoracic echocardiogram at 3 to 5 yearly intervals is considered appropriate for asymptomatic
+individuals with small muscular ventricular septal defects (VSDs) or 1 to 2 yearly intervals in asymptomatic
+children with VSDs in other locations besides muscular septum.[23]
+In patients who have undergone repair or closure of a VSD, the degree of residual shunting and
+development of heart blocks or arrhythmias are additional issues that need to be monitored.
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Ventricular septal defects Follow up
+Complications
+Complications Timeframe Likelihood
+aortic regurgitation in type 1 defects long term high
+Flow of blood through a restriction causes a reduction in fluid pressure (the Venturi effect). If a Venturi
+effect occurs through a left-to-right shunt in proximity to the aortic valve, the valve can prolapse, causing
+aortic insufficiency and regurgitation. In such cases, surgical repair of the ventricular septal defect (VSD)
+should be considered in order to prevent worsening of the aortic regurgitation.[46]
+complication of surgical management: heart block long term low
+The surgical procedure may affect the conducting tissue in the heart thereby resulting in heart block. This
+may require implantation of a permanent pacemaker.[47]
+postoperative dysrhythmias long term low
+Cardiac dysrhythmias are a major source of morbidity and mortality for patients. Although rhythm disorders
+can often be observed with unrepaired or palliated defects, the most difficult cases usually involve patients
+who have undergone prior intracardiac repairs, especially when performed relatively late in life.
+Virtually the entire spectrum of rhythm disturbances can manifest in these patients.
+infective endocarditis variable low
+Due to the high flow velocity across the ventricular septal defect (VSD), there is an increased risk of
+infective endocarditis in patients with VSDs compared with the general population. Even small defects that
+are not hemodynamically significant may cause endocarditis.[43]
+A high index of suspicion should be maintained in these patients; infective endocarditis often presents
+nonspecifically and most commonly involves fever with possible physical signs of peripheral emboli (Osler
+nodes, Roth spots, or Janeway lesions).
+Antibiotic prophylaxis is no longer recommended in all patients with VSD, but is reserved for especially
+high-risk groups: patients with Eisenmenger syndrome; patients with a previous history of infective
+endocarditis; patients within 6 months following patch repair or percutaneous device closure of VSD;
+or patients with a residual defect following closure. Prophylaxis is no longer recommended for routine
+gastrointestinal procedures.[2]
+Three sets of blood cultures should be obtained prior to initiation of antibiotic therapy. A transesophageal
+echocardiogram should be obtained in all suspected cases of infective endocarditis. Treatment is guided
+by presentation, clinical findings, and organism virulence.
+Prognosis
+Patient outlook depends on the size of the defect.
+Asymptomatic restrictive ventricular septal defect
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Ventricular septal defects Follow up
+FOLLOW UP
+• This type, found in infants, closes spontaneously in about 50% of cases. Others are likely to remain
+asymptomatic.
+Moderate-sized restrictive defect
+• May be asymptomatic on presentation. If left untreated over the long-term, many will develop
+pulmonary hypertension and later, symptoms of congestive heart failure. If treated with closure, these
+patients overall have an excellent outcome.
+Large-sized nonrestrictive defects
+• These tend to produce early pulmonary hypertension and early heart failure symptoms requiring early
+closure. If not closed, patients may develop severe pulmonary hypertension with reversal of blood
+shunting, resulting in cyanosis and Eisenmenger syndrome, which is then inoperable and associated
+with a poor prognosis.
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Ventricular septal defects Guidelines
+Diagnostic guidelines
+International
+ACR appropriateness criteria: congenital or acquired heart disease
+ (https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [21]
+Published by: American College of Radiology Last published: 2023
+ACC/AHA/ASE/HRS/ISACHD/SCAI/SCCT/SCMR/SOPE 2020 appropriate use
+criteria for multimodality imaging during the follow-up care of patients with
+congenital heart disease (https://www.jacc.org/doi/10.1016/j.jacc.2019.10.002)  
+[23]
+Published by: American College of Cardiology Solution Set Oversight
+Committee and Appropriate Use Criteria Task Force
+Last published: 2020
+2020 ESC guidelines for the management of adult congenital heart disease
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [11]
+Published by: European Society of Cardiology Last published: 2020
+Treatment guidelines
+International
+Advances in managing transition to adulthood for adolescents with
+congenital heart disease (https://professional.heart.org/en/guidelines-and-
+statements)   [26]
+Published by: American Heart Association Last published: 2022
+2018 AHA/ACC guideline for the management of adults with congenital heart
+disease (http://professional.heart.org/professional/GuidelinesStatements/
+UCM_316885_Guidelines-Statements.jsp)   [2]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2018
+2020 ESC guidelines for the management of adult congenital heart disease
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [11]
+Published by: European Society of Cardiology Last published: 2020
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Ventricular septal defects Online resources
+ONLINE RESOURCES
+Online resources
+1. Revatio (sildenafil): drug safety communication - FDA clarifies warning about pediatric use for
+pulmonary arterial hypertension (https://www.fda.gov/Drugs/DrugSafety/ucm390876.htm)  (external
+link)
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Ventricular septal defects References
+Key articles
+• Stout KS, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines. Circulation. 2019 Apr 2;139(14):e698-800. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000603)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30586767?tool=bestpractice.bmj.com)
+• Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32860028?tool=bestpractice.bmj.com)
+• Expert Panels on Cardiac Imaging and Pediatric Imaging; Krishnamurthy R, Suman G, Chan SS,
+et al. ACR appropriateness criteria® congenital or acquired heart disease. J Am Coll Radiol. 2023
+Nov;20(11s):S351-81.  Full text (https://www.jacr.org/article/S1546-1440(23)00617-8/fulltext)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/38040460?tool=bestpractice.bmj.com)
+• John AS, Jackson JL, Moons P, et al. Advances in managing transition to adulthood for adolescents
+with congenital heart disease: a practical approach to transition program design: a scientific statement
+from the American Heart Association. J Am Heart Assoc. 2022 Apr 5;11(7):e025278.  Full text (https://
+www.doi.org/10.1161/JAHA.122.025278)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35297271?
+tool=bestpractice.bmj.com)
+References
+1. Warnes CA, Williams RG, Bashore TM, et al. ACC/AHA 2008 guidelines for the management of
+adults with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on Practice Guidelines (Writing Committee to Develop Guidelines on the
+Management of Adults With Congenital Heart Disease). Developed in collaboration with the American
+Society of Echocardiography, Heart Rhythm Society, International Society for Adult Congenital
+Heart Disease, Society for Cardiovascular Angiography and Interventions, and Society of Thoracic
+Surgeons. J Am Coll Cardiol. 2008 Dec 2;52(23):e143-263.  Full text (https://www.sciencedirect.com/
+science/article/pii/S0735109708033044)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19038677?
+tool=bestpractice.bmj.com)
+2. Stout KS, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines. Circulation. 2019 Apr 2;139(14):e698-800. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000603)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30586767?tool=bestpractice.bmj.com)
+3. Lopez L, Houyel L, Colan SD, et al. Classification of ventricular septal defects for the eleventh
+iteration of the International Classification of Diseases-Striving for Consensus: a report from
+the International Society for Nomenclature of Paediatric and Congenital Heart Disease. Ann
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Ventricular septal defects References
+REFERENCES
+Thorac Surg. 2018 Nov;106(5):1578-89. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30031844?
+tool=bestpractice.bmj.com)
+4. World Health Organization. International classification of diseases 11th revision (ICD-11). Jan 2022
+[internet publication].  Full text (https://www.who.int/standards/classifications/classification-of-diseases)
+5. Arvanitaki A, Giannakoulas G, Baumgartner H, et al. Eisenmenger syndrome: diagnosis, prognosis
+and clinical management. Heart. 2020 Nov;106(21):1638-45. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32690623?tool=bestpractice.bmj.com)
+6. Birnbaum Y, Fishbein MC, Blanche C, et al. Ventricular septal defect after acute myocardial
+infarction. New Engl J Med. 2002 Oct 31;347(18):1426-32. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12409546?tool=bestpractice.bmj.com)
+7. Liu Y, Chen S, Zühlke L, et al. Global birth prevalence of congenital heart defects 1970-2017: updated
+systematic review and meta-analysis of 260 studies. Int J Epidemiol. 2019 Apr 1;48(2):455-63.  Full
+text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469300)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30783674?tool=bestpractice.bmj.com)
+8. Garne E. Atrial and ventricular septal defects - epidemiology and spontaneous closure. J Matern Fetal
+Neonatal Med. 2006 May;19(5):271-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16753766?
+tool=bestpractice.bmj.com)
+9. Li X, Song GX, Wu LJ, et al. Prediction of spontaneous closure of isolated ventricular septal defects in
+utero and postnatal life. BMC Pediatr. 2016 Dec 8;16(1):207.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC5146819)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27931195?
+tool=bestpractice.bmj.com)
+10. Li X, Ren W, Song G, et al. Prediction of spontaneous closure of ventricular septal defect
+and guidance for clinical follow-up. Clin Cardiol. 2019 May;42(5):536-41.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC6522996)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30851056?tool=bestpractice.bmj.com)
+11. Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32860028?tool=bestpractice.bmj.com)
+12. Centers for Disease Control and Prevention. Congenital heart defects (CHDs): about ventricular septal
+defect. May 2024 [internet publication].  Full text (https://www.cdc.gov/heart-defects/about/ventricular-
+septal-defect.html)
+13. Reller MD, Strickland MJ, Riehle-Colarusso, et al. Prevalence of congenital heart defects
+in metropolitan Atlanta, 1998-2005. J Paediatr. 2008 Dec;153(6):807-13. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18657826?tool=bestpractice.bmj.com)
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Ventricular septal defects References
+14. Freeman SB, Taft LF, Dooley KJ, et al. Population-based study of congenital heart defects in Down
+syndrome. Am J Med Genet. 1998 Nov 16;80(3):213-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9843040?tool=bestpractice.bmj.com)
+15. Freeman SB, Bean LH, Allen EG, et al. Ethnicity, sex, and the incidence of congenital heart
+defects: a report from the National Down Syndrome Project. Genet Med. 2008 Mar;10(3):173-80. 
+Full text (https://www.gimjournal.org/article/S1098-3600(21)02177-8/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18344706?tool=bestpractice.bmj.com)
+16. Tubman RJ, Shields MD, Craig BG, et al. Congenital heart disease in Down's syndrome: two
+year prospective early screening study. BMJ. 1991 Jun 15;302(6790):1425-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1829969?tool=bestpractice.bmj.com)
+17. Martin SS, Aday AW, Almarzooq ZI, et al. 2024 Heart disease and stroke statistics: a report of US
+and global data from the American Heart Association. Circulation. 2024 Feb 20;149(8):e347-913. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001209)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38264914?tool=bestpractice.bmj.com)
+18. Øyen N, Poulsen G, Boyd HA, et al. Recurrence of congenital heart defects in families.
+Circulation. 2009 Jul 28;120(4):295-301.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIRCULATIONAHA.109.857987)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19597048?
+tool=bestpractice.bmj.com)
+19. Mateja WA, Nelson DB, Kroelinger CD, et al. The association between maternal alcohol use and
+smoking in early pregnancy and congenital cardiac defects. J Womens Health (Larchmt). 2012
+Jan;21(1):26-34. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21895513?tool=bestpractice.bmj.com)
+20. Bolin EH, Gokun Y, Romitti PA, et al. Maternal smoking and congenital heart defects, National
+Birth Defects Prevention Study, 1997-2011. J Pediatr. 2022 Jan;240:79-86.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC8712361)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34508749?tool=bestpractice.bmj.com)
+21. Expert Panels on Cardiac Imaging and Pediatric Imaging; Krishnamurthy R, Suman G, Chan SS,
+et al. ACR appropriateness criteria® congenital or acquired heart disease. J Am Coll Radiol. 2023
+Nov;20(11s):S351-81.  Full text (https://www.jacr.org/article/S1546-1440(23)00617-8/fulltext)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/38040460?tool=bestpractice.bmj.com)
+22. Corbett L, Forster J, Gamlin W, et al. A practical guideline for performing a comprehensive
+transthoracic echocardiogram in the congenital heart disease patient: consensus recommendations
+from the British Society of Echocardiography. Echo Res Pract. 2022 Oct 18;9(1):10.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9578224)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36253815?tool=bestpractice.bmj.com)
+23. Writing Group, Sachdeva R, Valente AM, et al. ACC/AHA/ASE/HRS/ISACHD/SCAI/SCCT/
+SCMR/SOPE 2020 appropriate use criteria for multimodality imaging during the follow-up care of
+patients with congenital heart disease: a report of the American College of Cardiology solution
+set oversight committee and appropriate use criteria task force, American Heart Association,
+American Society of Echocardiography, Heart Rhythm Society, International Society for Adult
+Congenital Heart Disease, Society for Cardiovascular Angiography and Interventions, Society of
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Ventricular septal defects References
+REFERENCES
+Cardiovascular Computed Tomography, Society for Cardiovascular Magnetic Resonance, and Society
+of Pediatric Echocardiography. J Am Soc Echocardiogr. 2020 Oct;33(10):e1-48. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33010859?tool=bestpractice.bmj.com)
+24. Jone PN, Ivy DD, Hauck A, et al. Pulmonary hypertension in congenital heart disease: a scientific
+statement from the American Heart Association. Circ Heart Fail. 2023 Jul;16(7):e00080.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/HHF.0000000000000080)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37357777?tool=bestpractice.bmj.com)
+25. Wasserman MA, Shea E, Cassidy C, et al. Recommendations for the adult cardiac sonographer
+performing echocardiography to screen for critical congenital heart disease in the newborn: from
+the American Society of Echocardiography. J Am Soc Echocardiogr. 2021 Mar;34(3):207-22.  Full
+text (https://www.doi.org/10.1016/j.echo.2020.12.005)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33518447?tool=bestpractice.bmj.com)
+26. John AS, Jackson JL, Moons P, et al. Advances in managing transition to adulthood for adolescents
+with congenital heart disease: a practical approach to transition program design: a scientific statement
+from the American Heart Association. J Am Heart Assoc. 2022 Apr 5;11(7):e025278.  Full text (https://
+www.doi.org/10.1161/JAHA.122.025278)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35297271?
+tool=bestpractice.bmj.com)
+27. Sood E, Newburger JW, Anixt JS, et al. Neurodevelopmental outcomes for individuals with congenital
+heart disease: updates in neuroprotection, risk-stratification, evaluation, and management: a scientific
+statement from the American Heart Association. Circulation. 2024 Mar 26;149(13):e997-1022. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000001211)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38385268?tool=bestpractice.bmj.com)
+28. Yang J, Yang L, Yu S, et al. Transcatheter versus surgical closure of perimembranous ventricular
+septal defects in children: a randomized controlled trial. J Am Coll Cardiol. 2014 Apr 1;63(12):1159-68.
+Full text (https://www.sciencedirect.com/science/article/pii/S0735109714002927?via%3Dihub)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24509270?tool=bestpractice.bmj.com)
+29. Szkutnik M, Qureshi SA, Kusa J, et al. Use of the Amplatzer muscular ventricular septal defect
+occluder for closure of perimembranous ventricular septal defects. Heart. 2007 Mar;93(3):355-8.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16980519?tool=bestpractice.bmj.com)
+30. Masura J, Gao W, Gavora P, et al. Percutaneous closure of perimembranous ventricular septal
+defects with the eccentric Amplatzer device: multicenter follow-up study. Pediatr Cardiol. 2005 May-
+Jun;26(3):216-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16082578?tool=bestpractice.bmj.com)
+31. Fu YC, Bass J, Amin Z, et al. Transcatheter closure of perimembranous ventricular septal defects
+using the new Amplatzer membranous VSD occluder: results of the U.S. phase I trial. J Am Coll
+Cardiol. 2006 Jan 17;47(2):319-25. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16412854?
+tool=bestpractice.bmj.com)
+32. Butera G, Carminati M, Chessa M, et al. Transcatheter closure of perimembranous ventricular septal
+defects: early and long-term results. J Am Coll Cardiol. 2007 Sep 18;50(12):1189-95. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17868812?tool=bestpractice.bmj.com)
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Ventricular septal defects References
+33. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022 May 3;145(18):e895-e1032.  Full text
+(https://www.doi.org/10.1161/CIR.0000000000001063)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35363499?tool=bestpractice.bmj.com)
+34. Chau EM, Fan KY, Chow WH. Effects of chronic sildenafil in patients with Eisenmenger syndrome
+versus idiopathic pulmonary arterial hypertension. Int J Cardiol. 2007 Sep 3;120(3):301-5. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/17174418?tool=bestpractice.bmj.com)
+35. Barst RJ, Ivy DD, Gaitan G, et al. A randomized, double-blind, placebo-controlled, dose-ranging
+study of oral sildenafil citrate in treatment-naive children with pulmonary arterial hypertension.
+Circulation. 2012 Jan 17;125(2):324-34. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22128226?
+tool=bestpractice.bmj.com)
+36. Galiè N, Beghetti M, Gatzoulis MA, et al. Bosentan therapy in patients with Eisenmenger syndrome: a
+multicenter, double-blind, randomized, placebo-controlled study. Circulation. 2006 Jul 4;114(1):48-54.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16801459?tool=bestpractice.bmj.com)
+37. Fernandes SM, Newburger JW, Lang P, et al. Usefulness of epoprostenol therapy in the severely ill
+adolescent/adult with Eisenmenger physiology. Am J Cardiol. 2003 Mar 1;91(5):632-5. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12615282?tool=bestpractice.bmj.com)
+38. Luna-Lopez R, Segura de la Cal T, Sarnago Cebada F, et al. Triple vasodilator therapy in pulmonary
+arterial hypertension associated with congenital heart disease. Heart. 2024 Feb 12;110(5):346-52.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37903556?tool=bestpractice.bmj.com)
+39. Ferrero P, Krishnathasan K, Constantine A, et al. Pulmonary arterial hypertension in congenital heart
+disease. Heart. 2023 Nov 14:heartjnl-2023-322890.
+40. Perrotta S, Lentini S. In patients undergoing surgical repair of post-infarction ventricular septal
+defect, does concomitant revascularization improve prognosis? Interact Cardiovasc Thorac Surg.
+2009 Nov;9(5):879-87.  Full text (http://icvts.oxfordjournals.org/content/9/5/879.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19692439?tool=bestpractice.bmj.com)
+41. Landzberg MJ, Lock JE. Transcatheter management of ventricular septal rupture after
+myocardial infarction. Semin Thorac Cardiovasc Surg. 1998 Apr;10(2):128-32. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9620460?tool=bestpractice.bmj.com)
+42. Pesonen E, Thilen U, Sandstrom S, et al. Transcatheter closure of post-infarction ventricular septal
+defect with the Amplatzer Septal Occluder device. Scand Cardiovasc J. 2000 Aug;34(4):446-8.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10983682?tool=bestpractice.bmj.com)
+43. Gabriel HM, Heger M, Innerhofer P, et al. Long-term outcome of patients with ventricular
+septal defect considered not to require surgical closure during childhood. J Am Coll Cardiol.
+2002 Mar 20;39(6):1066-71. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11897452?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Ventricular septal defects References
+REFERENCES
+44. Christie JD, Edwards LB, Kucheryavaya AY, et al. The registry of the International Society
+for Heart and Lung Transplantation: 29th adult lung and heart-lung transplant report-2012. J
+Heart Lung Transplant. 2012 Oct;31(10):1073-86.  Full text (https://www.jhltonline.org/article/
+S1053-2498(12)01212-0/fulltext)
+45. Pienvichit P, Piemonte TC. Percutaneous closure of postmyocardial infarction ventricular septal defect
+with the CardioSEAL septal occluder implant. Catheter Cardiovasc Interv. 2001 Dec;54(4):490-4.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11747187?tool=bestpractice.bmj.com)
+46. Bukhari SM, Desai M, Zurakowski D, et al. Fate of aortic regurgitation after isolated repair of
+ventricular septal defect with concomitant aortic regurgitation in children. JTCVS Open. 2023
+Mar;13:271-7.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10091386)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37063128?tool=bestpractice.bmj.com)
+47. Liberman L, Silver ES, Chai PJ, et al. Incidence and characteristics of heart block after heart surgery
+in pediatric patients: a multicenter study. J Thorac Cardiovasc Surg. 2016 Jul;152(1):197-202.  Full text
+(https://www.jtcvs.org/article/S0022-5223(16)30104-0/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27167020?tool=bestpractice.bmj.com)
+48. Brida M, De Rosa S, Legendre A, et al. Acquired cardiovascular disease in adults with congenital
+heart disease. Eur Heart J. 2023 Nov 14;44(43):4533-48.  Full text (https://academic.oup.com/
+eurheartj/article/44/43/4533/7284092)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37758198?
+tool=bestpractice.bmj.com)
+49. Baddour LM, Wilson WR, Bayer AS, et al. Infective endocarditis in adults: diagnosis, antimicrobial
+therapy, and management of complications: a scientific statement for healthcare professionals
+from the American Heart Association. Circulation. 2015 Oct 13;132(15):1435-86.  Full text (https://
+www.ahajournals.org/doi/10.1161/CIR.0000000000000296)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26373316?tool=bestpractice.bmj.com)
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Ventricular septal defects Images
+Images
+Figure 1: Simplified diagram of the left ventricular septum showing the anatomical locations of the ventricular
+septal defects
+From the collection of Dr Zuhdi Lababidi
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Ventricular septal defects Images
+IMAGES
+Figure 2: Echocardiographic image of a type 4 (muscular) ventricular septal defect with color flow Doppler
+showing left-to-right shunt
+From the collection of Dr Kul Aggarwal
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Ventricular septal defects Images
+Figure 3: Echocardiographic image with color flow Doppler showing left-to-right shunting across a type 1
+ventricular septal defect at the supracristal (or doubly committed juxta-arterial) level
+From the collection of Dr Zuhdi Lababidi
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Ventricular septal defects Images
+IMAGES
+Figure 4: Echocardiographic image with color flow Doppler showing left-to-right shunting across a type 3
+ventricular septal defect at the inlet cushion level
+From the collection of Dr Zuhdi Lababidi
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Ventricular septal defects Images
+Figure 5: Doppler image showing spectral recording of continuous-wave Doppler showing the left-to-right
+gradient across the ventricular septal defect
+From the collection of Dr Kul Aggarwal
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Ventricular septal defects Images
+IMAGES
+Figure 6: X-ray image showing a type 4 (muscular) ventricular septal defect on left ventriculography
+From the collection of Dr Zuhdi Lababidi
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Ventricular septal defects Images
+Figure 7: X-ray image showing a type 2 (membranous) ventricular septal defect on left ventriculography
+From the collection of Dr Zuhdi Lababidi
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Ventricular septal defects Images
+IMAGES
+Figure 8: X-ray image showing a type 2 (membranous) ventricular septal defect with an aneurysm on left
+ventriculography
+From the collection of Dr Zuhdi Lababidi
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Ventricular septal defects Images
+Figure 9: X-ray angiographic image showing an aneurysm without left-to-right shunting
+From the collection of Dr Zuhdi Lababidi
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Ventricular septal defects Images
+IMAGES
+Figure 10: Echocardiographic image showing ventricular septal defect at the inlet cushion level
+From the collection of Dr Zuhdi Lababidi
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Ventricular septal defects Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Ventricular septal defects Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 07, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Contributors:
+// Authors:
+Kul Aggarwal, MD, MRCP, FACC
+Professor of Clinical Medicine
+University of Missouri, Columbia, MO
+DISCLOSURES: KA declares that he has no competing interests.
+// Acknowledgements:
+Dr Kul Aggarwal would like to gratefully acknowledge Professor Zuhdi Lababidi, a previous contributor to
+this topic.
+DISCLOSURES: ZL declares that he has no competing interests.
+// Peer Reviewers:
+Michael Cheung, BSc (Hons), MB ChB, MRCP, FRACP
+Acting Head
+Department of Cardiology, Royal Children's Hospital, Melbourne, Australia
+DISCLOSURES: MC declares that he has no competing interests.
+Sachin Khambadkone, MD, DCH, DNB
+Consultant Paediatric Cardiologist and Honorary Senior Lecturer
+Great Ormond Street Hospital and Institute of Child Health, London, UK
+DISCLOSURES: SK declares that he has no competing interests.
+Tain-Yen Hsia, MD
+Attending Pediatric Cardiothoracic Surgeon
+Medical University of South Carolina Children's Hospital, Charleston, SC
+DISCLOSURES: TYH declares that he has no competing interests.

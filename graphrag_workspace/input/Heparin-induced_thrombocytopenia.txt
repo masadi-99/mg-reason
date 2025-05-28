@@ -1,0 +1,2052 @@
+# Heparin-induced thrombocytopenia
+
+=== Page 1 ===
+Heparin-induced
+thrombocytopenia
+Straight to the point of care
+Last updated: Jun 20, 2023
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  4
+Case history  5
+Diagnosis  7
+Approach  7
+History and exam  12
+Risk factors  14
+Tests  15
+Differentials  18
+Criteria  19
+Screening  20
+Management  21
+Approach  21
+Treatment algorithm overview  24
+Treatment algorithm  26
+Emerging  37
+Primary prevention  37
+Secondary prevention  37
+Patient discussions  37
+Follow up  38
+Monitoring  38
+Complications  39
+Prognosis  40
+Guidelines  41
+Diagnostic guidelines  41
+Treatment guidelines  41
+References  42
+Images  50
+Disclaimer  54
+=== Page 3 ===
+Heparin-induced thrombocytopenia Overview
+Summary
+Heparin-induced thrombocytopenia (HIT) is a severe drug reaction to heparin that can lead to life- and limb-
+threatening venous and/or arterial thromboembolism.
+Diagnosis requires the combination of a compatible clinical picture and laboratory confirmation of the
+presence of heparin-dependent platelet-activating HIT antibodies.
+The 4Ts score is commonly used to determine the clinical probability of HIT.
+Neither discontinuation of heparin alone nor initiation of a vitamin K antagonist alone (e.g., warfarin) is
+sufficient to stop the development of thrombosis in a patient with acute HIT.
+If a patient has suspected HIT and at least an intermediate-probability 4Ts score, all sources of heparin
+(including low molecular weight heparin) must be discontinued and a nonheparin anticoagulant should be
+initiated.
+Definition
+Heparin-induced thrombocytopenia (HIT) is a clinicopathologic syndrome that occurs when heparin-
+dependent, IgG antibodies bind to heparin/platelet factor 4 (PF4) complexes to activate platelets and produce
+a hypercoagulable state. This results in thrombocytopenia and/or thrombosis in temporal relationship to
+a preceding immunizing exposure to heparin.[1] HIT typically develops 5 to 10 days after exposure to
+heparin (range of 4-15 days) and can occur with unfractionated heparin, low molecular weight heparin,
+or, more rarely, fondaparinux. The presence of heparin-dependent antibodies alone, without any clinical
+manifestations, is insufficient for a diagnosis of HIT.
+Fondaparinux, a pentasaccharide anticoagulant, does not usually promote antibody binding to PF4, despite
+its structural similarity to heparin, owing to absent/weak cross-reactivity. Therefore, it has a very low risk of
+inducing HIT. Despite rare reports of fondaparinux-induced HIT, observational studies report the successful
+use of fondaparinux to treat HIT, and it is considered to be a nonheparin anticoagulant.[2] [3]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Heparin-induced thrombocytopenia Theory
+THEORY
+Epidemiology
+The prevalence of HIT may range from 0.1% to 5.0% in patients exposed to heparin, and varies significantly
+according to a number of host- and drug-related risk factors.[8] [9] Postoperative and trauma patients
+who receive heparin have the highest incidence of HIT (1% to 5%), whereas HIT is very uncommon in
+medical patients who receive prophylactic doses of heparin (<1%), and is extremely rare in obstetric patients
+(<0.1%).[10] [11] [12] [13] [14] The risk of HIT is significantly higher with unfractionated heparin compared
+with low molecular weight heparin (LMWH).[9] [15] [16]  Women appear to have a 1.5- to 2-fold increased
+risk of HIT compared with men.[17]
+Etiology
+The etiology of HIT is unknown. The rapid production of IgG antibodies (median of 4 days) without initial
+IgM antibody production suggests a secondary immune response, despite the absence of previous
+exposure to heparin in the majority of patients who develop HIT.[18] [19] These observations have led to the
+hypothesis that sensitization of the antiheparin/platelet factor 4 (PF4) antibody occurs as the result of other
+environmental exposures (e.g., bacterial infection) that produce the same antigen as the one produced by the
+heparin/PF4 complex.[20] [21]
+Pathophysiology
+Platelet factor 4 (PF4) molecules bind to heparin on the surface of platelets to form a neo-antigen that is
+recognized by HIT (IgG) antibodies.[22] [23] Antiheparin/PF4 antibodies bind to the large heparin/PF4
+complexes and activate the same or adjacent platelets through their Fc receptors.[24] [25] Activation of
+platelets leads to production of procoagulant platelet-derived microparticles and thrombin generation with the
+potential for development of the clinical manifestations that are characteristic of HIT (i.e., thrombocytopenia
+and venous and/or arterial thrombosis).[26] [27] Activation of monocytes and the endothelium have also
+been implicated in the pathogenesis of HIT.[28] [29] [30] Typically, HIT antibodies are transient, becoming
+undetectable within 100 days (depending on the assay performed).[5] [31]
+Classification
+Clinical classification of HIT
+Isolated HIT:
+• Patients who have thrombocytopenia secondary to HIT antibodies without evidence of thrombosis or
+other sequelae of HIT.[4]
+Delayed-onset HIT:
+• HIT that begins several days after heparin has been discontinued.[5]
+Rapid-onset HIT:
+• Refers to a platelet count drop occurring within 24 hours of exposure to heparin due to persistence
+of HIT antibodies from a recent exposure to heparin (i.e., typically <30 days but can be up to 100
+days).[5] An appropriate clinical picture and laboratory confirmation of HIT is essential since a rapid
+drop in platelet count is atypical for most patients with HIT and likely has other causes.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Heparin-induced thrombocytopenia Theory
+Case history
+Case history #1
+A 55-year-old woman presents with a left-leg deep vein thrombosis 2 days after being discharged from the
+hospital. She had been admitted with acute coronary syndrome and was treated with intravenous heparin
+for 6 days. Her platelet count has declined from 250 × 10⁹/L at the start of her treatment with heparin to 80
+× 10⁹/L. Her physical exam is unremarkable except for left-leg edema and tenderness.
+Case history #2
+A 65-year-old woman is admitted to a rehabilitation floor 10 days after undergoing elective right
+total hip arthroplasty. She received low molecular weight heparin (LMWH) for thromboprophylaxis
+beginning on postoperative day 1, but intravenous heparin was subsequently started on postoperative
+day 9 for confirmed pulmonary embolism. Her platelet count was 175 × 10⁹/L on admission to the
+rehabilitation floor compared with 350 × 10⁹/L when intravenous heparin was initiated. Her physical exam
+is unremarkable except for normal postoperative changes. A venous Doppler ultrasound of her leg is
+negative for deep vein thrombosis.
+Other presentations
+HIT less commonly presents as adrenal hemorrhagic necrosis (secondary to adrenal vein thrombosis),
+necrotizing skin lesions at heparin injection sites, cerebral venous thrombosis, or as an acute systemic
+reaction 30 minutes following an intravenous bolus of unfractionated heparin or subcutaneous LMWH
+(e.g., fever, chills, tachycardia, hypertension, dyspnea, cardiopulmonary arrest).[6] Rarely, patients
+with HIT-provoked deep vein thrombosis will present with venous limb gangrene (as a consequence of
+inappropriate treatment with a vitamin K antagonist).[7]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Heparin-induced thrombocytopenia Theory
+THEORY
+Venous limb gangrene of left foot in HIT: (A) dorsal aspect; (B) medial aspect; and (C) plantar aspect
+Rozati H, Shah SP, Peng YY. Lower limb gangrene postcardiac
+surgery. BMJ Case Reports. 2013; doi:10.1136/bcr-2012-008362
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Heparin-induced thrombocytopenia Diagnosis
+Approach
+HIT should be suspected when a patient presents with new thrombocytopenia and/or thrombosis in the
+context of confirmed or suspected exposure to heparin (i.e., unfractionated heparin, low molecular weight
+heparin [LMWH], or, more rarely, fondaparinux) within the past 100 days, particularly following recent cardiac
+or orthopedic surgery. HIT should also be considered when a patient presents with adrenal hemorrhagic
+necrosis (secondary to adrenal vein thrombosis), necrotizing skin lesions at heparin injection sites, or an
+acute systemic reaction in the context of exposure to heparin or LMWH within the past 100 days.
+Diagnosis requires the combination of both a compatible clinical picture and laboratory confirmation of the
+presence of heparin-dependent platelet-activating HIT antibodies. The presence of HIT antibodies alone,
+without any clinical manifestations, is not sufficient for a diagnosis of HIT.
+Clinical picture
+The first step is to determine the likelihood that a patient has HIT based on clinical criteria. This includes
+a careful review of the patient's history of heparin exposure (i.e., unfractionated heparin, LMWH, or
+fondaparinux). The risk of HIT, according to heparin type, in order from highest to lowest is as follows:
+unfractionated heparin >LMWH >fondaparinux.[16] [32] Fondaparinux, a pentasaccharide anticoagulant,
+does not usually promote antibody binding to platelet factor 4 (PF4), despite its structural similarity to
+heparin, owing to absent/weak cross-reactivity. Therefore, fondaparinux has a very low risk of inducing
+HIT. Observational studies report the successful use of fondaparinux to treat HIT, and it is considered to
+be a nonheparin anticoagulant.[2] [3]
+An absence of conditions or medications that cause thrombocytopenia increases the likelihood of HIT.
+A history of recent surgery (especially orthopedic or cardiovascular) or trauma increases the likelihood
+of HIT in patients exposed to heparin. Patients with a history of HIT who are re-exposed to heparin for at
+least 4 days are at risk of recurrence.
+Features consistent with a recent venous or arterial thromboembolic event are common (e.g., deep
+vein thrombosis [DVT], pulmonary embolism [PE], stroke, myocardial infarction [MI]). These include:
+new unilateral leg edema, tenderness, or discoloration (DVT); chest pain, tachypnea, hypotension, or
+tachycardia (PE or MI); focal neurologic deficits (stroke).
+Fever, chills, tachycardia, hypertension, dyspnea, or cardiopulmonary arrest may occur within 30 minutes
+of a dose of heparin and is usually accompanied by an abrupt drop in platelet count.
+Necrosis may be seen on examination at the heparin injection sites. Bleeding in patients with HIT is
+rare and there may be no or minimal signs of bleeding (e.g., petechiae, ecchymosis). Patients with
+adrenal hemorrhagic necrosis may present with abdominal pain, refractory hypotension, and Addisonian
+crisis. Patients with cerebral venous thrombosis may present with headache, nausea, vomiting, and/or
+neurologic deficits. Rarely, patients with HIT-provoked DVT will present with venous limb gangrene (as a
+consequence of inappropriate treatment with a vitamin K antagonist).[7]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Heparin-induced thrombocytopenia Diagnosis
+DIAGNOSIS
+Venous limb gangrene of left foot in HIT: (A) dorsal aspect; (B) medial aspect; and (C) plantar aspect
+Rozati H, Shah SP, Peng YY. Lower limb gangrene postcardiac
+surgery. BMJ Case Reports. 2013; doi:10.1136/bcr-2012-008362
+Clinical prediction tools
+A number of clinical prediction tools have been developed to help physicians determine clinical probability
+of HIT (e.g., 4Ts score, HIT expert probability [HEP] score).
+While the clinical prediction rules differ on specific details, they all focus on several key features:
+• Magnitude of the platelet count fall
+• Timing of the platelet count fall (or other HIT-related event) in relation to start of heparin
+• Presence or absence of alternative explanations for thrombocytopenia.
+The 4Ts score has been subject to greater evaluation than other tools, and is recommended by the
+American Society of Hematology:[36] [37] [38] [39] [40]
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Heparin-induced thrombocytopenia Diagnosis
+• Points from 0-2 are given for 4 categories: magnitude of Thrombocytopenia, Timing of onset of
+platelet fall (or other sequelae of HIT), Thrombosis, and oTher explanation for the platelet fall.
+• Pretest probability of HIT:
+• A low score (0-3) indicates <1% probability of HIT
+• An intermediate score (4-5) indicates approximately 10% probability of HIT
+• A high score (6-8) indicates approximately 50% probability of HIT.
+HIT can be excluded by a low 4T’s score without the need for further laboratory investigation, unless there
+is uncertainty over the accuracy of the patient’s results.[41] A typical high 4Ts score would be a patient
+who experiences a 50% drop in platelet count with a nadir ≥20 × 10⁹/L between days 5 and 10 of heparin
+exposure, and is found to have new thrombosis and no alternative explanation for the drop in platelet
+count.
+HEP score:[42]
+• Points from -3 to +3 are given for 8 categories: magnitude of fall in platelet count, timing of fall in
+platelet count, nadir platelet count, thrombosis, skin necrosis, acute systemic reaction, bleeding,
+other causes of thrombocytopenia.
+Laboratory confirmation of HIT
+A complete blood count (CBC) should be ordered in all patients with suspected HIT and typically shows
+a falling platelet count. The timing of the fall in platelet count (beginning from the first day of heparin
+exposure [day 0]) is key. An example would be a patient who experiences a 50% drop in platelet count
+with a nadir ≥20 × 10⁹/L between days 5 and 10 of heparin exposure. The platelet count does not have
+to fall below 150 × 10⁹/L for HIT to be considered (e.g., ≥50% decrease from baseline during the correct
+time frame is still suspicious for HIT, even if the absolute platelet nadir is >150 × 10⁹/L).
+It is not uncommon for the platelet count to initially fall after surgery and then rise to a level higher than
+the preoperative count (rebound thrombocytosis). In such cases, the postoperative rebound platelet count
+should be considered the new baseline count in these patients when determining the clinical probability of
+HIT. Thrombocytopenia in the context of pancytopenia reduces the likelihood of HIT.
+Coagulation studies (i.e., international normalized ratio, activated partial thromboplastin time) should be
+ordered in patients with suspected HIT to exclude coagulopathy. However, HIT may induce disseminated
+intravascular coagulation in 10% to 20% of patients; therefore, coagulopathy and low fibrinogen levels do
+not exclude HIT if the clinical scenario is otherwise consistent.[43]
+Patients with at least an intermediate clinical suspicion for HIT (i.e., 4Ts score of ≥4) should undergo
+testing for HIT antibodies.[38] A low 4Ts score (i.e., ≤3) alone has high negative predictive value;
+guidelines recommend against laboratory testing in these patients.[38] [41][44] [45] If, however, there is
+uncertainty about the score (e.g., multiple missing platelet counts, history of recent heparin exposure is
+unclear, concurrent potential causes of thrombocytopenia), testing for HIT should be considered.[38] [46]
+A wide variety of laboratory assays are used to confirm the presence of HIT antibodies. These assays
+generally fall into one of two categories:
+• Antigen assays (e.g., anti-platelet factor 4 [PF4]/H enzyme-linked immunosorbent assay [ELISA],
+H/PF4-PaGIA) are available at most clinical centers. Antigen assays are highly sensitive (>99%),
+but they have a high false-positive rate. False positives result from detection of all types of
+HIT antibodies, regardless of their ability to activate platelets.[47] For example, up to 50% of
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Heparin-induced thrombocytopenia Diagnosis
+DIAGNOSIS
+cardiovascular surgery patients will develop HIT antibodies, but only 2% of those patients will
+develop HIT.[11] ELISAs that detect IgG antibodies only are more specific for HIT and the higher
+the titer of the antigen assay, the higher the likelihood the patient has platelet-activating antibodies
+(i.e., the greater the likelihood the patient has HIT or improved specificity).[36] Some rapid
+immunoassays that can provide results in less than 30 minutes appear to have similar diagnostic
+properties to the ELISAs.[46] [48]
+• Functional assays (e.g., serotonin release assay, heparin-induced platelet activation) are limited to
+a small number of clinical centers, but have better specificity than the antigen assays. Functional
+assays detect antibodies based on their platelet‐activating properties (i.e., antibodies that are more
+likely to be clinically significant).[49] These assays have high sensitivity (>95%) and specificity
+(>95%) for HIT; therefore, in the context of a compatible clinical picture, a positive result confirms
+HIT and a negative result excludes HIT.[10] [50]
+As many centers do not have access to functional assays, diagnosis is often based on clinical suspicion
+for HIT (based on the 4Ts score) combined with antigen assay results, as shown in the table below.[51]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Heparin-induced thrombocytopenia Diagnosis
+Combination of clinical picture and laboratory evidence of HIT antibodies
+Created by the BMJ Knowledge Centre based on information from: Raschke RA, Gallo
+T, Curry SC, et al. Clinical effectiveness of a Bayesian algorithm for the diagnosis and
+management of heparin-induced thrombocytopenia. J Thromb Haemost. 2017 Aug;15(8):1640-5.
+Imaging
+Venous Doppler ultrasound should be ordered in patients with suspected DVT. New DVT (incompressible
+venous segment) or extension of a recent DVT (incompressible venous segment previously fully
+compressible) increases the likelihood of HIT.[52]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Heparin-induced thrombocytopenia Diagnosis
+DIAGNOSIS
+Computed tomography pulmonary angiogram (CTPA) or ventilation-perfusion scan (V/Q scan) should
+be performed in patients with suspected pulmonary embolism, and a cerebral computed tomography
+venogram (CTV) or magnetic resonance venography (MRV) of the head in patients with suspected
+cerebral venous thrombosis.[52]
+Thrombosis has been reported in up to 50% of patients with untreated HIT.[53] In the context of confirmed
+HIT, the presence of a DVT may lengthen the duration of treatment.
+History and exam
+Key diagnostic factors
+history of recent heparin exposure (common)
+• Received unfractionated heparin, low molecular weight heparin (LMWH), or fondaparinux for the past
+5-10 days (range 4-15 days) or within the past 100 days.
+• The risk of HIT, according to heparin type, in order from highest to lowest is as follows: unfractionated
+heparin >LMWH >fondaparinux.[16] [32]
+history of HIT (common)
+• Patients with a remote history of HIT who are re-exposed to unfractionated heparin or low molecular
+weight heparin for at least 4 days are at risk of recurrence.
+absence of conditions and medications that cause thrombocytopenia
+(common)
+• Increases the likelihood of HIT (e.g., sepsis; absence of drugs such as vancomycin, carbamazepine,
+sulfa drugs, antineoplastic agents, glycoprotein IIb/IIIa antagonists, quinine/quinidine).[54]
+history of recent surgery or trauma (common)
+• Postoperative and trauma patients who receive heparin have the highest incidence of HIT (1% to 5%),
+whereas HIT is very uncommon in medical patients who receive prophylactic doses of heparin (<1%),
+and is extremely rare in obstetric patients (<0.1%).[10] [11] [12] [13] [14]
+• Surgery/trauma releases platelet factor 4 (PF4), which increases the likelihood of HIT in patients
+exposed to heparin. The higher levels of PF4 produced by surgical and nonsurgical trauma favor
+the stoichometric concentrations of PF4 and heparin required to form the antigen recognized by HIT
+antibodies.[35]
+• The timing of the platelet fall in relationship to surgery/trauma is important because these events are
+also alternative causes of thrombocytopenia/thrombosis.
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Heparin-induced thrombocytopenia Diagnosis
+features consistent with recent venous or arterial thromboembolic event (e.g.,
+PE, DVT, stroke, MI) (common)
+• New unilateral leg edema and/or tenderness and/or discoloration is suggestive of deep vein
+thrombosis (DVT).
+• Chest pain, tachypnea, hypotension, and tachycardia are features of pulmonary embolism (PE) and
+myocardial infarction (MI).
+• New focal neurologic deficits are suggestive of stroke.
+• Thrombosis precedes thrombocytopenia in approximately 25% of patients with HIT.[53]
+• Ratio of venous to arterial thrombotic events in HIT is 2.4 to 4.1.[53]
+• Patients with cerebral venous thrombosis may present with headache, nausea, vomiting, and/or
+neurologic deficits.
+necrosis at heparin injection site(s) (uncommon)
+• May occur without thrombocytopenia.
+Other diagnostic factors
+absence of bleeding (common)
+• No or minimal petechiae/ecchymosis or other signs of bleeding.
+• Despite sometimes profound thrombocytopenia, bleeding in patients with HIT is rare.
+signs of adrenal hemorrhagic necrosis (uncommon)
+• Occurs in 3% to 5% of HIT patients.[55]
+• May present with abdominal pain, refractory hypotension, and Addisonian crisis.
+acute systemic reaction (uncommon)
+• Fever, chills, tachycardia, hypertension, dyspnea, or cardiopulmonary arrest within 30 minutes of a
+dose of heparin or low molecular weight heparin.
+• Usually accompanied by an abrupt drop in platelet count.
+signs of venous limb gangrene (uncommon)
+• Rarely, patients with HIT-provoked deep vein thrombosis (DVT) will present with venous limb gangrene
+(as a consequence of inappropriate treatment with a vitamin K antagonist).[7]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Heparin-induced thrombocytopenia Diagnosis
+DIAGNOSIS
+Venous limb gangrene of left foot in HIT: (A) dorsal aspect; (B) medial aspect; and (C) plantar aspect
+Rozati H, Shah SP, Peng YY. Lower limb gangrene postcardiac
+surgery. BMJ Case Reports. 2013; doi:10.1136/bcr-2012-008362
+Risk factors
+Strong
+recent heparin exposure (within past 100 days)
+• The risk of HIT, according to heparin type, in order from highest to lowest is as follows: unfractionated
+heparin >low molecular weight heparin (LMWH) >fondaparinux.[16] [32] There is a consensus that
+differences in the polysaccharide chain length and degree of sulfation of the drugs explains this
+ranking.[33] [34] Fondaparinux, at one third the length of heparin, still stimulates the formation of
+antiheparin/platelet factor 4 (PF4) HIT antibodies, but only rarely triggers the platelet activation
+required to elicit the clinical manifestations of HIT.[2]
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Heparin-induced thrombocytopenia Diagnosis
+• HIT typically develops 5 to 10 days after exposure to heparin (range of 4-15 days). It is important to
+be aware that, even if HIT antibody formation occurs during the typical day 5 to 10 window period,
+thrombocytopenia can occur later (even after heparin exposure has been discontinued).
+recent orthopedic or cardiovascular surgery
+• Postoperative and trauma patients who receive heparin have the highest incidence of HIT (1% to 5%),
+whereas HIT is very uncommon in medical patients who receive prophylactic doses of heparin (<1%),
+and is extremely rare in obstetric patients (<0.1%).[10] [11] [12] [13] [14]
+• A key link between patient population and risk for HIT is the circulating level of platelet factor 4
+(PF4). The higher levels of PF4 produced by surgical and nonsurgical trauma favor the stoichometric
+concentrations of PF4 and heparin required to form the antigen recognized by HIT antibodies.[35]
+Weak
+female sex
+• Women appear to have a 1.5- to 2-fold increased risk of HIT compared with men.[17] For reasons that
+are unclear, the difference according to sex is less apparent when low molecular weight heparin is the
+cause of HIT.
+Tests
+1st test to order
+Test Result
+CBC
+• The timing of the fall in platelet count (beginning from the first day
+of heparin exposure [day 0]) is key. An example would be a patient
+who experiences a 50% drop in platelet count with a nadir ≥20 × 10⁹/
+L between days 5 and 10 of heparin exposure.
+• The platelet count does not have to fall below 150 × 10⁹/L for HIT to
+be considered (e.g., ≥50% decrease from baseline during the correct
+time frame is still suspicious for HIT, even if the absolute platelet nadir
+is >150 × 10⁹/L).
+• It is not uncommon for the platelet count to initially fall after surgery
+and then rise to a level higher than the preoperative count (rebound
+thrombocytosis). In such cases, the postoperative rebound platelet
+count should be considered the new baseline count in these patients
+when determining the clinical probability of HIT. Thrombocytopenia in
+the context of pancytopenia reduces the likelihood of HIT.
+falling platelet count
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Heparin-induced thrombocytopenia Diagnosis
+DIAGNOSIS
+Other tests to consider
+Test Result
+4Ts score
+• The 4Ts score is commonly used to predict the clinical probability of
+HIT.[36] [37]
+• The 4Ts score has been subject to greater evaluation than
+other tools, and is recommended by the American Society of
+Hematology.[36] [37] [38] [39] [40] Points from 0-2 are given for
+4 categories: magnitude of Thrombocytopenia, Timing of onset
+of platelet fall (or other sequelae of HIT), Thrombosis, and oTher
+explanation for the platelet fall. Pretest probability of HIT: a low score
+(0-3) indicates <1% probability of HIT; an intermediate score (4-5)
+indicates approximately 10% probability of HIT; and a high score (6-8)
+indicates approximately 50% probability of HIT.
+• HIT can be excluded by a low 4Ts score without the need for
+further laboratory investigation unless there is uncertainty about the
+accuracy of the patient’s results.[41]
+• The HIT expert probability (HEP) score is an alternative scale.[42]
+score of 6-8 indicates high
+clinical suspicion for
+HIT; score of 4-5 indicates
+intermediate clinical
+suspicion for HIT; score of
+0-3 indicates low clinical
+suspicion for HIT
+HIT antigen assay
+• Antigen assays (e.g., anti-platelet factor 4 [PF4]/H enzyme-linked
+immunosorbent assay [ELISA], H/PF4-PaGIA) are available at most
+clinical centers. Antigen assays are highly sensitive (>99%), but they
+have a high false-positive rate. False positives result from detection
+of all types of HIT antibodies, regardless of their ability to activate
+platelets.[47] For example, up to 50% of cardiovascular surgery
+patients will develop HIT antibodies, but only 2% of those patients
+will develop HIT.[11] ELISAs that detect IgG antibodies only are
+more specific for HIT and the higher the titer of the antigen assay,
+the higher the likelihood the patient has platelet-activating antibodies
+(i.e., the greater the likelihood the patient has HIT or improved
+specificity).[36] Some rapid immunoassays that can provide results in
+less than 30 minutes appear to have similar diagnostic properties to
+the ELISAs.[46] [48]
+• Patients with at least an intermediate clinical suspicion for HIT
+(i.e., 4Ts score ≥4) should undergo laboratory testing for HIT
+antibodies.[38] A low 4Ts score (i.e., ≤3) alone has high negative
+predictive value; guidelines recommend against laboratory testing
+in these patients.[38] [44] [45] If, however, there is uncertainty
+about the score (e.g., multiple missing platelet counts, history of
+recent heparin exposure is unclear, concurrent potential causes of
+thrombocytopenia), testing for HIT should be considered.[38] [46]
+positive for HIT
+antibodies (with high titer
+value)
+HIT functional assay
+• Functional assays (e.g., serotonin release assay, heparin-induced
+platelet activation) are limited to a small number of clinical centers,
+but have better specificity than the antigen assays. Functional assays
+detect antibodies based on their platelet‐activating properties (i.e.,
+antibodies that are more likely to be clinically significant).[49] These
+assays have high sensitivity (>95%) and specificity (>95%) for HIT;
+therefore, in the context of a compatible clinical picture, a positive
+result confirms HIT and a negative result excludes HIT.[10] [50]
+• As many centers do not have access to functional assays, diagnosis
+is often based on clinical suspicion for HIT (based on the 4Ts score)
+combined with antigen assay results.[51]
+positive result confirms
+HIT; negative result
+excludes HIT (in the
+context of a compatible
+clinical picture)
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Heparin-induced thrombocytopenia Diagnosis
+Test Result
+coagulation studies
+• INR and aPTT should be ordered in patients with suspected HIT to
+exclude coagulopathy.
+• HIT may induce disseminated intravascular coagulation in 10% to
+20% of patients; therefore, coagulopathy and low fibrinogen levels do
+not exclude HIT if the clinical scenario is otherwise consistent.[43]
+may be normal or
+abnormal
+venous Doppler ultrasound
+• Should be ordered in all patients with suspected deep vein
+thrombosis (DVT).
+• New DVT (incompressible venous segment) or extension of a recent
+DVT (incompressible venous segment previously fully compressible)
+increases the likelihood of HIT.[52]
+• Thrombosis has been reported in up to 50% of patients with
+untreated HIT.[56]
+• In the context of confirmed HIT, the presence of a DVT may lengthen
+the duration of treatment.
+• Other tests may be appropriate depending on the thrombosis.
+inability to fully compress
+lumen of vein using
+ultrasound transducer
+computed tomography pulmonary angiogram (CTPA)
+• Should be performed in patients with suspected pulmonary
+embolism.[52]
+intraluminal filling defect
+seen on at least 2 views
+ventilation-perfusion scan (V/Q scan)
+• Should be performed in patients with suspected pulmonary
+embolism.[52]
+• An alternative to computed tomography pulmonary angiogram
+(CTPA). V/Q scan is a radiation- and medium-sparing procedure
+and may be appropriate for patients with contraindications or relative
+contraindications to CT (e.g., contrast allergy, moderate to severe
+renal failure, pregnancy, young patients).[57]
+multiple segmental
+defects seen with
+normal ventilation (high
+probability)
+cerebral computed tomography venogram
+• Should be performed in patients with suspected cerebral venous
+thrombosis.[52]
+intraluminal filling defect
+seen on at least 2 views
+magnetic resonance venography (head)
+• Should be performed in patients with suspected cerebral venous
+thrombosis.[52]
+flow defect and/or intense
+signal within cerebral
+veins or dural sinuses
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Heparin-induced thrombocytopenia Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Postoperative state • It is not uncommon for the
+platelet count to initially fall
+after surgery and then rise
+to a level higher than the
+preoperative count (rebound
+thrombocytosis).
+• The postoperative rebound
+platelet count should be
+considered the new baseline
+count in these patients when
+determining the clinical
+probability of HIT. This is
+particularly noteworthy
+in patients undergoing
+cardiovascular surgery
+who commonly form HIT
+antibodies (due to exposure
+to high doses of heparin),
+but rarely develop clinical
+evidence of HIT.
+• Thrombocytopenia due to
+surgery usually occurs within
+the first 24-48 hours and
+recovers spontaneously.
+• Thrombocytopenia that
+begins >4 days after
+surgery or lasts for >4 days
+after surgery should raise
+suspicion of HIT.
+Thrombotic
+thrombocytopenic
+purpura
+• New severe neurologic
+abnormalities, with or without
+fever and signs of anemia.
+• HIT assay test negative for
+HIT antibodies.
+• Microangiopathic hemolytic
+anemia with schistocytes on
+examination of peripheral
+blood smear.
+• Normal coagulation
+parameters.
+Drug-induced
+thrombocytopenic
+purpura
+• A thorough medical history is
+needed to identify potential
+drugs (e.g., vancomycin,
+carbamazepine, sulfa
+drugs, antineoplastic
+agents, glycoprotein IIb/
+IIIa antagonists, quinine/
+quinidine).
+• Platelet nadir may be <20 ×
+10⁹/L (rare in HIT).
+• Petechiae may be present.
+• No differentiating tests.
+Sepsis/severe infection • Septic patients tend to have
+hypotension, fever, and other
+signs of organ dysfunction.
+• Evidence of disseminated
+intravascular coagulation
+may also be present in
+patients with severe HIT.
+• HIT assay test negative for
+HIT antibodies.
+• Positive blood cultures.
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Heparin-induced thrombocytopenia Diagnosis
+Criteria
+4Ts score
+The 4Ts clinical prediction tool can be used to estimate the probability of a patient having HIT. Points are
+scored (0, 1, or 2) for each of the 4 categories (maximum possible score = 8).[36] [37]
+Thrombocytopenia
+• 2 points if >50% fall in platelet count to a platelet count nadir of ≥20 × 10⁹/L
+• 1 point if 30% to 50% fall in platelet count, or if the nadir is 10-19 × 10⁹/L
+• 0 points if <30% fall in the platelet count, or if the nadir is <10 × 10⁹/L.
+Timing* of onset of platelet fall (or other sequelae of HIT)
+• 2 points if onset is 5-10 days after starting heparin, or <1 day if there has been recent heparin (within
+past 30 days)
+• 1 point if onset is >10 days after starting heparin or if timing unclear; or if <1 day after starting heparin
+with recent heparin (past 31-100 days)
+• 0 points if onset is within 4 days of first-time heparin exposure (no recent heparin).
+Thrombosis or other sequelae
+• 2 points if there is a proven new thrombosis, or heparin skin necrosis, or acute systemic reaction after
+intravenous unfractionated heparin bolus
+• 1 point if there is progressive or recurrent thrombosis, or erythematous skin lesions, or suspected
+thrombosis (not proven)
+• 0 points if no thrombosis or other finding.
+oTther cause(s) of platelet fall
+• 2 points if none evident
+• 1 point if there is another possible cause
+• 0 points if there is another definite cause.
+Pretest probability score
+• High = 6-8 points (approximately 50% probability of HIT)
+• Intermediate = 4-5 points (approximately 10% probability of HIT)
+• Low = 0-3 points (<1% probability of HIT).
+*First day of immunizing heparin exposure is considered day 0. It is also worth noting that, if the patient
+undergoes surgery, the day that heparin is restarted after the procedure is considered day 0 of heparin
+exposure, even if the patient received heparin preoperatively. Surgery is a strong immunizing risk factor for
+HIT and can, therefore, potentially reset the clock for the development of HIT. Similarly, if heparin is given
+intraoperatively, the surgery date becomes day 0.
+A typical high score would be a patient who experiences a 50% drop in platelet count with a nadir ≥20 ×
+10⁹/L between days 5 and 10 of heparin exposure, and is found to have new thrombosis and no alternative
+explanation for the drop in platelet count.
+The 4Ts score has been subject to greater evaluation than other tools, and is recommended by the American
+Society of Hematology.[36] [37] [38] [39] [40]
+HIT expert probability (HEP) score[42]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Heparin-induced thrombocytopenia Diagnosis
+DIAGNOSIS
+Points from -3 to +3 are given for 8 categories: magnitude of fall in platelet count, timing of fall in platelet
+count, nadir platelet count, thrombosis, skin necrosis, acute systemic reaction, bleeding, other causes of
+thrombocytopenia.
+Screening
+Among patients receiving heparin in whom the risk of HIT is considered low (<0.1%), the American Society
+of Hematology (ASH) guideline panel suggests against platelet count monitoring to screen for HIT.[38] The
+potential benefit of screening is likely to be highest in settings where patients have a 1% or greater risk of
+HIT (e.g., patients receiving heparin or low molecular weight heparin [LMWH] following surgery or trauma)
+and a functional test for platelet‐activating antibodies is available to reduce the likelihood of false-positive
+results.[44]
+Screening for HIT usually means obtaining serial platelet counts in patients who are receiving unfractionated
+heparin/LMWH, or, more rarely, fondaparinux for at least 4 days, or in patients who have presented with
+thrombosis in the context of exposure to these drugs within the past 100 days. Due to the large number of
+alternative causes of thrombocytopenia, routine platelet count monitoring has the potential to cause harm
+due to unnecessary withdrawal of heparin and institution of nonheparin anticoagulants in patients who do not
+have HIT.
+HIT antibody assays are not appropriate for screening.
+Platelet count monitoring
+If screening is performed, platelet counts are typically checked every 2 or 3 days from day 4 to 14 (or until
+heparin is stopped, whichever comes first).[38] If a platelet count drop is noted during routine screening and
+the pretest probability of HIT is at least moderate (i.e., 4Ts score ≥4), confirmatory laboratory testing for HIT
+antibodies is recommended.
+It is also worth noting that, if the patient undergoes surgery, the day that heparin is restarted after the
+procedure is considered day 0 of heparin exposure, even if the patient received heparin preoperatively.
+Surgery is a strong immunizing risk factor for HIT and can, therefore, potentially reset the clock for the
+development of HIT. Similarly, if heparin is given intraoperatively, the surgery date becomes day 0.
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Heparin-induced thrombocytopenia Management
+Approach
+Treatment of suspected HIT is premised upon 4Ts score:
+• ≥4 indicating a high or intermediate clinical probability of HIT, or
+• ≤3 indicating a low probability of HIT.
+Diagnostic algorithm for heparin-induced thrombocytopenia
+Created by the BMJ Knowledge Centre
+Suspected HIT with 4Ts score ≥4, or confirmed acute HIT
+If a patient has suspected HIT and an intermediate- or high-probability 4Ts score (i.e., ≥4), all sources of
+heparin (including low molecular weight heparin [LMWH]) must be discontinued immediately (including
+heparin used for flushing lines) and a blood sample sent for laboratory confirmation of HIT.[38]
+Some clinicians are unaware that LMWH is contraindicated in patients with suspected or confirmed HIT;
+therefore, it is important to reiterate that LMWH should not be continued or started in these patients.
+If a vitamin K antagonist (e.g., warfarin) has been started, oral or intravenous vitamin K should be
+administered and the vitamin K antagonist discontinued. Vitamin K antagonists alone will not prevent the
+development of HIT-associated thrombosis. Furthermore, they increase the risk of venous gangrene if
+used without overlap with other nonheparin anticoagulants in patients with confirmed HIT who have not
+achieved platelet recovery.[58]
+A nonheparin anticoagulant should be initiated before the result of the HIT assay is available (even if the
+patient does not currently have thrombosis).[38] Therapeutic doses of a nonheparin anticoagulant should
+be given to patients with a high-probability 4Ts score (≥6), and patients with an intermediate-probability
+4Ts score (4 or 5) who are not at high risk of bleeding.[38] Therapeutic doses should be continued if HIT
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Heparin-induced thrombocytopenia Management
+MANAGEMENT
+is confirmed. Patients with an intermediate-probability 4Ts score who are at high risk of bleeding can
+be given prophylactic doses of a nonheparin anticoagulant while awaiting results of the HIT assay.[38]
+However, once HIT is confirmed, the dose should be increased to therapeutic levels if possible.[38]
+Choice of nonheparin anticoagulant
+The choice of nonheparin anticoagulant depends on clinical factors such as whether cardiac surgery or
+percutaneous coronary intervention (PCI) is necessary, the presence of renal impairment, and pregnancy.
+It may also depend on other factors such as cost, availability, and the ability to monitor the anticoagulant
+effect.
+Nonheparin anticoagulant options include argatroban, fondaparinux, bivalirudin, and the direct oral
+anticoagulants (DOACs) rivaroxaban and apixaban.[38] Fondaparinux and DOACs are not licensed for the
+treatment of HIT. However, fondaparinux is known to be a safe anticoagulant for prophylaxis (in patients
+without HIT or with remote HIT).
+Despite rare reports of fondaparinux-induced HIT, observational studies report the successful use of
+fondaparinux to treat HIT, and it is considered to be a nonheparin anticoagulant.[2] [3] A history of
+fondaparinux-induced HIT should be ruled out before use.
+Accumulated observational evidence suggests that the DOACs rivaroxaban, apixaban, and dabigatran
+may be safe and effective for the treatment of HIT.[59] [60] Most published reports have been for
+rivaroxaban.[61] [62] Edoxaban has been reported in a single case study for treatment of HIT, so it cannot
+be recommended for use for this indication.[63] However, edoxaban is known to be a safe anticoagulant
+for prophylaxis (in patients without HIT or with remote HIT).
+Cardiac surgery or PCI[38]
+• Nonurgent cardiac surgery should be delayed until the patient is HIT antibody negative (i.e.,
+approximately 60-100 days depending on the type of HIT assay used).[38] Options for these
+patients include argatroban, bivalirudin, fondaparinux, or a DOAC (rivaroxaban, apixaban, or
+dabigatran).[38]
+• Once scheduled, heparin can be used during cardiac surgery in patients with a previous history of
+HIT if HIT antibodies are negative, but exposure to heparin should be limited to the procedure with
+nonheparin anticoagulants used perioperatively.
+• In those requiring urgent cardiac surgery, bivalirudin is indicated. Use is generally limited to the
+procedure with other nonheparin alternatives used perioperatively.
+• Patients requiring PCI should be treated with bivalirudin, or, alternatively, argatroban as a second-
+line option.
+Renal impairment[38]
+• Argatroban is the preferred nonheparin anticoagulant in patients with renal insufficiency. Bivalirudin
+is an alternative option (a dose reduction may be required).
+• Argatroban can also be used in patients who require renal replacement therapy. Bivalirudin is
+an alternative option (a dose reduction may be required). Hemodialysis with regional citrate
+anticoagulation or saline flushes may be used instead of nonheparin anticoagulants once platelets
+have normalized.
+Pregnant or breast-feeding women[44] [45] [64]
+• None of the nonheparin anticoagulants are approved for use in pregnant or breast-feeding women.
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Heparin-induced thrombocytopenia Management
+• Danaparoid and fondaparinux have been used in this setting; however, there are limited data
+available to support this practice. Danaparoid is not available in the US.
+Suspected HIT with 4Ts score ≤3
+A low 4Ts score (i.e., ≤3) alone has high negative predictive value; guidelines recommend against
+laboratory testing in these patients.[38] [44] [45]
+Heparin (including LMWH) can be continued as needed if:
+• there is NO uncertainty about the 4Ts score, and/or
+• the clinician decides that a HIT assay is not necessary.
+Testing for HIT should be considered if:[38] [46]
+• there is uncertainty about the score (e.g., multiple missing platelet counts, history of recent heparin
+exposure is unclear, concurrent potential causes of thrombocytopenia).
+Heparin should be stopped immediately if:
+• clinical suspicion is sufficiently high to warrant the clinician ordering an assay.
+While awaiting assay results, an alternative nonheparin anticoagulant can be started in those patients
+requiring ongoing anticoagulation. DOACs (rivaroxaban, apixaban, or dabigatran) and fondaparinux are
+preferred (depending on the indication) over argatroban or bivalirudin until HIT is confirmed, because they
+have a lower risk of bleeding and are less costly.
+Platelet recovery
+Platelet recovery is generally said to have occurred when platelet levels have returned to >150 × 10⁹/
+L, or to the patient’s previous baseline platelet count if it was <150 × 10⁹/L. The duration of treatment
+for confirmed HIT is controversial. In patients with HIT-provoked thrombosis, 3 months of nonheparin
+anticoagulant therapy is reasonable. In patients without thrombosis, nonheparin anticoagulant therapy
+should continue at least until platelet recovery.[38] [45]
+Platelet recovery indicates that ongoing thrombin generation has been halted. The American Society of
+Hematology (ASH) refers to the state after platelet recovery, but prior to the functional assay becoming
+negative, as subacute HIT A.[38] Treatment options for subacute HIT A in nonpregnant patients include
+DOACs (rivaroxaban, apixaban, dabigatran); vitamin K antagonists (e.g., warfarin) are an alternative.[38]
+Warfarin is considered safe to use during breast-feeding. DOACs should not be taken during breast-
+feeding because of uncertainty about transfer into breast milk. Warfarin should be started at a low dose
+only after platelet recovery and overlapped with argatroban, bivalirudin, or fondaparinux for a minimum of
+5 days until the international normalized ratio (INR) is therapeutic. Argatroban prolongs the INR; therefore,
+a specialist should be consulted for guidance on switching to warfarin. Overlap is not required when
+switching from DOACs to warfarin; however, switching between oral anticoagulants should be done under
+specialist guidance and take individual patient circumstances into account.
+Fondaparinux is another option for ongoing treatment; however, it requires subcutaneous injections. It
+is preferred over warfarin in pregnant women, but data on its safety are limited. A specialist should be
+consulted for guidance on overlapping with fondaparinux because the time course will differ depending on
+the initial anticoagulant.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Heparin-induced thrombocytopenia Management
+MANAGEMENT
+Remote HIT
+Patients with a prior history of HIT may require thromboprophylaxis during medical admissions or
+following surgery. ASH guidelines recommend using a nonheparin anticoagulant (e.g., DOAC or
+fondaparinux) over unfractionated heparin or LMWH.[38]
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+suspected HIT with 4Ts score ≥4, or
+confirmed acute HIT
+1st stop heparin (including LMWH)
+immediately and take blood sample
+adjunct discontinue vitamin K antagonist (if
+started) and administer vitamin K
+nonpregnant normal
+renal function: requiring
+nonurgent cardiac
+surgery
+plus argatroban, bivalirudin, fondaparinux,
+or a direct oral anticoagulant + delay
+nonurgent surgery
+nonpregnant normal
+renal function: requiring
+urgent cardiac surgery
+plus bivalirudin
+nonpregnant normal
+renal function: requiring
+PCI
+plus bivalirudin or argatroban
+nonpregnant: requiring
+renal replacement
+therapy
+plus argatroban or bivalirudin
+nonpregnant: renal
+insufficiency not
+requiring renal
+replacement therapy
+plus argatroban or bivalirudin
+pregnant or breast-
+feeding
+plus fondaparinux
+suspected HIT with 4Ts score ≤3
+1st continue heparin and do not test for HIT
+unless there is uncertainty about the score
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Heparin-induced thrombocytopenia Management
+Ongoing ( summary )
+platelet recovery (subacute HIT A)
+1st continue initial anticoagulant and
+transition to warfarin or fondaparinux,
+or continue fondaparinux or direct oral
+anticoagulant
+requiring renal
+replacement therapy
+plus hemodialysis with regional citrate
+anticoagulation or saline flushes
+remote HIT
+1st thromboprophylaxis
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Heparin-induced thrombocytopenia Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+suspected HIT with 4Ts score ≥4, or
+confirmed acute HIT
+1st stop heparin (including LMWH)
+immediately and take blood sample
+» If a patient has suspected HIT and an
+intermediate- or high-probability 4Ts score
+(i.e., ≥4), all sources of heparin (including low
+molecular weight heparin [LMWH]) must be
+discontinued immediately (including heparin
+used for flushing lines). A blood sample should
+be sent for laboratory confirmation of HIT.[38]
+» Some clinicians are unaware that LMWH
+is contraindicated in patients with suspected
+or confirmed HIT; therefore, it is important to
+reiterate that LMWH should not be continued or
+started in these patients.
+adjunct discontinue vitamin K antagonist (if
+started) and administer vitamin K
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» phytonadione (vitamin K1): consult
+specialist for guidance on dose
+» If a vitamin K antagonist (e.g., warfarin)
+has been started, oral or intravenous vitamin
+K should be administered and the vitamin K
+antagonist discontinued.
+» Vitamin K antagonists alone will not prevent
+the development of HIT-associated thrombosis.
+Furthermore, they increase the risk of venous
+gangrene if used without overlap with other
+nonheparin anticoagulants in patients with
+confirmed HIT who have not achieved platelet
+recovery.[58]
+nonpregnant normal
+renal function: requiring
+nonurgent cardiac
+surgery
+plus argatroban, bivalirudin, fondaparinux,
+or a direct oral anticoagulant + delay
+nonurgent surgery
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» argatroban: consult specialist for guidance
+on dose
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Heparin-induced thrombocytopenia Management
+Acute
+Secondary options
+» bivalirudin: consult specialist for guidance
+on dose
+OR
+» fondaparinux: consult specialist for
+guidance on dose
+OR
+» rivaroxaban: consult specialist for guidance
+on dose
+OR
+» apixaban: consult specialist for guidance on
+dose
+OR
+» dabigatran etexilate: consult specialist for
+guidance on dose
+» A nonheparin anticoagulant should be
+initiated before the HIT assay result is available
+(even if the patient does not currently have
+thrombosis).[38] Therapeutic doses of a
+nonheparin anticoagulant should be given to
+patients with a high-probability 4Ts score (≥6),
+and patients with an intermediate-probability
+4Ts score (4 or 5) who are not at high risk of
+bleeding.[38] Therapeutic doses should be
+continued if HIT is confirmed. Patients with an
+intermediate-probability 4Ts score who are at
+high risk of bleeding can be given prophylactic
+doses of a nonheparin anticoagulant while
+awaiting results of the HIT assay.[38] However,
+once HIT is confirmed, the dose should be
+increased to therapeutic levels if possible.[38]
+» Nonurgent cardiac surgery should be delayed
+until the patient is HIT antibody negative (i.e.,
+approximately 60-100 days depending on the
+type of HIT assay used).[38]
+» Options for these patients include argatroban,
+bivalirudin, fondaparinux, or a direct oral
+anticoagulant (DOAC; rivaroxaban, apixaban, or
+dabigatran).[38] Fondaparinux and DOACs are
+not licensed for the treatment of HIT.
+» Despite rare reports of fondaparinux-induced
+HIT, observational studies report the successful
+use of fondaparinux to treat HIT, and it is
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Heparin-induced thrombocytopenia Management
+MANAGEMENT
+Acute
+considered to be a nonheparin anticoagulant.[2]
+[3] A history of fondaparinux-induced HIT should
+be ruled out before use.
+» Accumulated observational evidence suggests
+that the DOACs rivaroxaban, apixaban, and
+dabigatran may be safe and effective for the
+treatment of HIT.[59] [60] Most published reports
+have been for rivaroxaban.[61] [62] Edoxaban
+has only been reported in a single case study for
+treatment of HIT, so it cannot be recommended
+for use for this indication.[63]
+» Lead-in therapy with a parenteral anticoagulant
+before starting dabigatran is not required in
+patients with HIT.
+» Once scheduled, heparin can be used during
+cardiac surgery in patients with a previous
+history of HIT if HIT antibodies are negative,
+but exposure to heparin should be limited to the
+procedure with nonheparin anticoagulants used
+perioperatively.
+nonpregnant normal
+renal function: requiring
+urgent cardiac surgery
+plus bivalirudin
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» bivalirudin: consult specialist for guidance
+on dose
+» A nonheparin anticoagulant should be
+initiated before the HIT assay result is available
+(even if the patient does not currently have
+thrombosis).[38] Therapeutic doses of a
+nonheparin anticoagulant should be given to
+patients with a high-probability 4Ts score (≥6),
+and patients with an intermediate-probability
+4Ts score (4 or 5) who are not at high risk of
+bleeding.[38] Therapeutic doses should be
+continued if HIT is confirmed. Patients with an
+intermediate-probability 4Ts score who are at
+high risk of bleeding can be given prophylactic
+doses of a nonheparin anticoagulant while
+awaiting results of the HIT assay.[38] However,
+once HIT is confirmed, the dose should be
+increased to therapeutic levels if possible.[38]
+» Bivalirudin is the nonheparin anticoagulant of
+choice in patients who require urgent cardiac
+surgery.[38] Dose varies according to on-pump
+or off-pump procedures and requires special
+technical considerations to prevent intraoperative
+stasis of blood.[65] Use is generally limited to
+the procedure with other nonheparin alternatives
+used perioperatively.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Heparin-induced thrombocytopenia Management
+Acute
+nonpregnant normal
+renal function: requiring
+PCI
+plus bivalirudin or argatroban
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» bivalirudin: consult specialist for guidance
+on dose
+Secondary options
+» argatroban: consult specialist for guidance
+on dose; dose depends on activated clotting
+time
+» A nonheparin anticoagulant should be
+initiated before the HIT assay result is available
+(even if the patient does not currently have
+thrombosis).[38] Therapeutic doses of a
+nonheparin anticoagulant should be given to
+patients with a high-probability 4Ts score (≥6),
+and patients with an intermediate-probability
+4Ts score (4 or 5) who are not at high risk of
+bleeding.[38] Therapeutic doses should be
+continued if HIT is confirmed. Patients with an
+intermediate-probability 4Ts score who are at
+high risk of bleeding can be given prophylactic
+doses of a nonheparin anticoagulant while
+awaiting results of the HIT assay.[38] However,
+once HIT is confirmed, the dose should be
+increased to therapeutic levels if possible.[38]
+» Patients requiring percutaneous coronary
+intervention (PCI) should be treated with
+bivalirudin, or, alternatively, argatroban as a
+second-line option.[38]
+» High doses of argatroban are not
+recommended in PCI patients with clinically
+significant hepatic disease.
+nonpregnant: requiring
+renal replacement
+therapy
+plus argatroban or bivalirudin
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» argatroban: consult specialist for guidance
+on dose; a dose adjustment may be
+necessary in dialysis patients
+Secondary options
+» bivalirudin: consult specialist for guidance
+on dose
+» A nonheparin anticoagulant should be
+initiated before the HIT assay result is available
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Heparin-induced thrombocytopenia Management
+MANAGEMENT
+Acute
+(even if the patient does not currently have
+thrombosis).[38] Therapeutic doses of a
+nonheparin anticoagulant should be given to
+patients with a high-probability 4Ts score (≥6),
+and patients with an intermediate-probability
+4Ts score (4 or 5) who are not at high risk of
+bleeding.[38] Therapeutic doses should be
+continued if HIT is confirmed. Patients with an
+intermediate-probability 4Ts score who are at
+high risk of bleeding can be given prophylactic
+doses of a nonheparin anticoagulant while
+awaiting results of the HIT assay.[38] However,
+once HIT is confirmed, the dose should be
+increased to therapeutic levels if possible.[38]
+» Argatroban can be used in patients who
+require renal replacement therapy. Bivalirudin is
+an alternative option (a dose reduction may be
+required).[38]
+nonpregnant: renal
+insufficiency not
+requiring renal
+replacement therapy
+plus argatroban or bivalirudin
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» argatroban: consult specialist for guidance
+on dose
+Secondary options
+» bivalirudin: consult specialist for guidance
+on dose
+» A nonheparin anticoagulant should be
+initiated before the HIT assay result is available
+(even if the patient does not currently have
+thrombosis).[38] Therapeutic doses of a
+nonheparin anticoagulant should be given to
+patients with a high-probability 4Ts score (≥6),
+and patients with an intermediate-probability
+4Ts score (4 or 5) who are not at high risk of
+bleeding.[38] Therapeutic doses should be
+continued if HIT is confirmed. Patients with an
+intermediate-probability 4Ts score who are at
+high risk of bleeding can be given prophylactic
+doses of a nonheparin anticoagulant while
+awaiting results of the HIT assay.[38] However,
+once HIT is confirmed, the dose should be
+increased to therapeutic levels if possible.[38]
+» Argatroban is the preferred nonheparin
+anticoagulant in these patients. Bivalirudin is
+an alternative option (a dose reduction may be
+required).[38]
+pregnant or breast-
+feeding
+plus fondaparinux
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Heparin-induced thrombocytopenia Management
+Acute
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» fondaparinux: consult specialist for
+guidance on dose
+» A nonheparin anticoagulant should be
+initiated before the HIT assay result is available
+(even if the patient does not currently have
+thrombosis).[38] Therapeutic doses of a
+nonheparin anticoagulant should be given to
+patients with a high-probability 4Ts score (≥6),
+and patients with an intermediate-probability
+4Ts score (4 or 5) who are not at high risk of
+bleeding.[38] Therapeutic doses should be
+continued if HIT is confirmed. Patients with an
+intermediate-probability 4Ts score who are at
+high risk of bleeding can be given prophylactic
+doses of a nonheparin anticoagulant while
+awaiting results of the HIT assay.[38] However,
+once HIT is confirmed, the dose should be
+increased to therapeutic levels if possible.[38]
+» Nonheparin anticoagulants are not approved
+for use in pregnant or breast-feeding women.
+Danaparoid and fondaparinux have been used
+in this setting; however, there are limited data
+available to support this practice.[44] [45] [64]
+Danaparoid is not available in the US.
+» Despite rare reports of fondaparinux-induced
+HIT, observational studies report the successful
+use of fondaparinux to treat HIT, and it is
+considered to be a nonheparin anticoagulant.[2]
+[3] A history of fondaparinux-induced HIT should
+be ruled out before use.
+» Fondaparinux is not licensed for the treatment
+of HIT.
+suspected HIT with 4Ts score ≤3
+1st continue heparin and do not test for HIT
+unless there is uncertainty about the score
+Primary options
+» fondaparinux: consult specialist for
+guidance on dose
+OR
+» rivaroxaban: consult specialist for guidance
+on dose
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Heparin-induced thrombocytopenia Management
+MANAGEMENT
+Acute
+» apixaban: consult specialist for guidance on
+dose
+OR
+» dabigatran etexilate: consult specialist for
+guidance on dose
+» A low 4Ts score (i.e., ≤3) alone has high
+negative predictive value; guidelines recommend
+against laboratory testing in these patients.[38]
+[44] [45]
+» Heparin (including low molecular weight
+heparin [LMWH]) can be continued as needed
+if there is NO uncertainty about the 4Ts score,
+and/or the clinician decides that a HIT assay is
+not necessary.
+» Testing for HIT should be considered if there
+is uncertainty about the score (e.g., multiple
+missing platelet counts, history of recent heparin
+exposure is unclear, concurrent potential causes
+of thrombocytopenia).[38] [46]
+» Heparin should be stopped immediately if
+clinical suspicion is sufficiently high to warrant
+the clinician ordering an assay.
+» While awaiting assay results, an alternative
+nonheparin anticoagulant can be started in those
+requiring ongoing anticoagulation. Direct oral
+anticoagulants (DOACs; rivaroxaban, apixaban,
+or dabigatran) and fondaparinux are preferred
+(depending on the indication) over argatroban or
+bivalirudin until HIT is confirmed, because they
+have a lower risk of bleeding and are less costly.
+» Fondaparinux and DOACs are not licensed for
+the treatment of HIT.
+» Despite rare reports of fondaparinux-induced
+HIT, observational studies report the successful
+use of fondaparinux to treat HIT, and it is
+considered to be a nonheparin anticoagulant.[2]
+[3] A history of fondaparinux-induced HIT should
+be ruled out before use.
+» Accumulated observational evidence suggests
+that the DOACs rivaroxaban, apixaban, and
+dabigatran may be safe and effective for the
+treatment of HIT.[59] [60] Most published reports
+have been for rivaroxaban.[61] [62] Edoxaban
+has only been reported in a single case study for
+treatment of HIT, so it cannot be recommended
+for use for this indication.[63]
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Heparin-induced thrombocytopenia Management
+Acute
+» Lead-in therapy with a parenteral anticoagulant
+before starting dabigatran is not required in
+patients with HIT.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Heparin-induced thrombocytopenia Management
+MANAGEMENT
+Ongoing
+platelet recovery (subacute HIT A)
+platelet recovery (subacute HIT
+A)
+1st continue initial anticoagulant and
+transition to warfarin or fondaparinux,
+or continue fondaparinux or direct oral
+anticoagulant
+Primary options
+» warfarin: consult specialist for guidance on
+dose and switching from initial anticoagulant
+Secondary options
+» fondaparinux: consult specialist for
+guidance on dose and switching from initial
+anticoagulant
+OR
+» rivaroxaban: consult specialist for
+guidance on dose and switching from initial
+anticoagulant
+OR
+» apixaban: consult specialist for guidance on
+dose and switching from initial anticoagulant
+OR
+» dabigatran etexilate: consult specialist for
+guidance on dose and switching from initial
+anticoagulant
+» Platelet recovery is generally said to have
+occurred when platelet levels have returned
+to >150 × 10⁹/L, or to the patient’s previous
+baseline platelet count if it was <150 × 10⁹/L.
+» The duration of treatment for confirmed HIT
+is controversial. In patients with HIT-provoked
+thrombosis, 3 months of anticoagulant therapy
+is reasonable. In patients without thrombosis,
+nonheparin anticoagulant therapy should
+continue at least until platelet recovery.[38] [45]
+» Platelet recovery indicates that ongoing
+thrombin generation has been halted. The
+American Society of Hematology refers to
+the state after platelet recovery, but prior to
+the functional assay becoming negative, as
+subacute HIT A.[38] Treatment options for
+subacute HIT A in nonpregnant patients include
+direct oral anticoagulants (DOACs; rivaroxaban,
+apixaban, dabigatran); vitamin K antagonists
+(e.g., warfarin) are an alternative.[38]
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Heparin-induced thrombocytopenia Management
+Ongoing
+» Warfarin is considered safe to use during
+breast-feeding. DOACs should not be used
+during breast-feeding because of uncertainty
+about transfer into breast milk. Warfarin should
+be started at a low dose only after platelet
+recovery and overlapped with argatroban,
+bivalirudin, or fondaparinux for a minimum
+of 5 days until the international normalized
+ratio (INR) is therapeutic. Argatroban prolongs
+the INR; therefore, a specialist should be
+consulted for guidance on switching to warfarin.
+Overlap is not required when switching from
+DOACs to warfarin; however, switching between
+oral anticoagulants should be done under
+specialist guidance and take individual patient
+circumstances into account.
+» Fondaparinux is another option for ongoing
+treatment; however, it requires subcutaneous
+injections. It is preferred over warfarin in
+pregnant women, but data on its safety are
+limited. A specialist should be consulted for
+guidance on overlapping with fondaparinux
+because the time course will differ depending on
+the initial anticoagulant.
+» Fondaparinux is not licensed for the treatment
+of HIT.
+requiring renal
+replacement therapy
+plus hemodialysis with regional citrate
+anticoagulation or saline flushes
+Treatment recommended for ALL patients in
+selected patient group
+» If platelets have normalized, hemodialysis
+with regional citrate anticoagulation or saline
+flushes may be used instead of nonheparin
+anticoagulants.
+remote HIT
+1st thromboprophylaxis
+Primary options
+» rivaroxaban: consult specialist for guidance
+on dose
+OR
+» apixaban: consult specialist for guidance on
+dose
+OR
+» dabigatran etexilate: consult specialist for
+guidance on dose
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Heparin-induced thrombocytopenia Management
+MANAGEMENT
+Ongoing
+OR
+» edoxaban: consult specialist for guidance
+on dose
+OR
+» fondaparinux: consult specialist for
+guidance on dose
+» Patients with a prior history of HIT may
+require thromboprophylaxis during medical
+admissions or following surgery. American
+Society of Hematology guidelines recommend
+using a nonheparin anticoagulant (e.g., direct
+oral anticoagulant or fondaparinux) over
+unfractionated heparin or low molecular weight
+heparin.[38]
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Heparin-induced thrombocytopenia Management
+Emerging
+Plasmapheresis
+Proposed as a treatment strategy in patients with a recent history of HIT who require cardiopulmonary
+bypass surgery, and in patients with active HIT who are not responding to standard therapy. The evidence to
+date consists of retrospective case reports.[66] [67]
+Intravenous immune globulin
+Case reports suggest that high dose intravenous immune globulin can be considered for severe HIT that is
+refractory to standard treatments.[67][68]
+Primary prevention
+The best way to prevent HIT is to minimize or avoid heparin exposure. Direct oral anticoagulants such as
+dabigatran, rivaroxaban, apixaban, and edoxaban may be used as alternatives for thromboprophylaxis for
+some indications (e.g., following elective hip or knee arthroplasty).
+Secondary prevention
+The safety of prolonged re-exposure to unfractionated heparin, low molecular weight heparin (LMWH), or,
+more rarely, fondaparinux in patients with a previous history of HIT (i.e., currently HIT antibody negative) is
+unknown. Short-term exposure (<4 days) has been safely used in patients who require cardiac procedures
+and whose tests are currently negative for HIT antibodies. In general, avoidance of exposure to heparin is
+recommended in patients with a past history of HIT.
+Anticoagulants such as fondaparinux, rivaroxaban, dabigatran, apixaban, edoxaban, argatroban, or
+bivalirudin may be reasonable alternatives to heparin in a patient with a past history of HIT depending on the
+clinical situation. Regional citrate anticoagulation may be an option in patients with a past history of HIT who
+require renal replacement.
+Patient discussions
+Patients should consider adding "heparin allergy" to their list of drug allergies.
+Patients should consider obtaining a medical alert bracelet to notify healthcare professionals in an
+emergency situation that they should not receive heparin or low molecular weight heparin.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Heparin-induced thrombocytopenia Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+No monitoring after platelet recovery is required, other than routine monitoring of any ongoing
+anticoagulant therapy.
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Heparin-induced thrombocytopenia Follow up
+Complications
+Complications Timeframe Likelihood
+new venous or arterial thrombotic event short term high
+The risk of thrombosis in a patient with untreated HIT during the initial period is 30% to 50%, including a
+5% to 10% risk of thrombotic death.[38] Treatment with nonheparin anticoagulants appears to reduce the
+risk of thrombosis by 50% to 70%.[44]
+treatment-related bleeding short term high
+The risk of major bleeding during treatment with nonheparin anticoagulants varies significantly according
+to the agent used and patient comorbidity (estimated range 3% to 14%).[44]
+limb amputation short term low
+Limb amputation is required in 6% to 10% of patients with confirmed HIT.[56]
+To date, none of the nonheparin anticoagulants have been shown to reduce the risk of amputation in a
+patient with limb ischemia secondary to HIT-provoked macro- and microthrombosis.
+venous gangrene short term low
+In the past, when vitamin K antagonists (e.g., warfarin) were used for treatment of HIT without concurrent
+coverage with a nonheparin anticoagulant, protein C levels would fall faster than prothrombin levels, which
+induced a prothrombotic state. This can lead to serious adverse events, such as warfarin-induced skin
+necrosis and venous limb gangrene (distal ischemic limb necrosis in the absence of arterial occlusion).
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Heparin-induced thrombocytopenia Follow up
+FOLLOW UP
+Complications Timeframe Likelihood
+Venous limb gangrene of left foot in HIT (dorsal aspect)
+Rozati H, Shah SP, Peng YY. Lower limb gangrene postcardiac
+surgery. BMJ Case Reports. 2013; doi:10.1136/bcr-2012-008362
+Prognosis
+Platelet recovery in patients with confirmed HIT typically occurs within 1 week (median 4 days) of appropriate
+treatment, although it can take significantly longer in aggressive cases.[40] HIT antibodies are transient and
+usually spontaneously resolve within 100 days. In patients who do not experience initial complications, there
+are no known long-term implications of HIT other than the risk of recurrence on prolonged re-exposure to
+heparins.
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Heparin-induced thrombocytopenia Guidelines
+Diagnostic guidelines
+International
+Guidelines for management of venous thromboembolism: heparin-induced
+thrombocytopenia (https://www.hematology.org/education/clinicians/
+guidelines-and-quality-care/clinical-practice-guidelines)   [38]
+Published by: American Society of Hematology Last published: 2018
+Treatment and prevention of heparin-induced thrombocytopenia (https://
+journal.chestnet.org/retrieve/pii/S0012369212601305)   [44]
+Published by: American College of Chest Physicians Last published: 2012
+Treatment guidelines
+International
+Guidelines for management of venous thromboembolism: heparin-induced
+thrombocytopenia (https://www.hematology.org/education/clinicians/
+guidelines-and-quality-care/clinical-practice-guidelines)   [38]
+Published by: American Society of Hematology Last published: 2018
+Treatment and prevention of heparin-induced thrombocytopenia (https://
+journal.chestnet.org/article/S0012-3692(12)60130-5/fulltext)   [44]
+Published by: American College of Chest Physicians Last published: 2012
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Heparin-induced thrombocytopenia References
+REFERENCES
+Key articles
+• Warkentin T, Kelton J. Temporal aspects of heparin-induced thrombocytopenia. N
+Engl J Med. 2001;344:1286-1292.  Full text (http://www.nejm.org/doi/full/10.1056/
+NEJM200104263441704#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11320387?
+tool=bestpractice.bmj.com)
+• Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for
+management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018 Nov
+27;2(22):3360-92.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6258919)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30482768?tool=bestpractice.bmj.com)
+• Linkins LA, Dans AL, Moores LK, et al. Treatment and prevention of heparin-induced
+thrombocytopenia: antithrombotic therapy and prevention of thrombosis (9th ed). American College of
+Chest Physicians evidence-based clinical practice guidelines. Chest. 2012 Feb;141(2 Suppl):e495S-
+e530S.  Full text (https://journal.chestnet.org/article/S0012-3692(12)60130-5/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22315270?tool=bestpractice.bmj.com)
+• Watson H, Davidson S, Keeling D, et al. Guidelines on the diagnosis and management of heparin-
+induced thrombocytopenia: second edition. Br J Haematol. 2012 Dec;159(5):528-40.  Full text
+(https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.12059)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23043677?tool=bestpractice.bmj.com)
+References
+1. Warkentin T, Chong B, Greinacher A. Heparin-induced thrombocytopenia: towards consensus.
+Thromb Haemost. 1998 Jan;79(1):1-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9459312?
+tool=bestpractice.bmj.com)
+2. Warkentin TE. Fondaparinux: does it cause HIT? Can it treat HIT? Expert Rev Hematol. 2010
+Oct;3(5):567-81. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21083474?tool=bestpractice.bmj.com)
+3. Kang M, Alahmadi M, Sawh S, et al. Fondaparinux for the treatment of suspected heparin-induced
+thrombocytopenia: a propensity score-matched study. Blood. 2015 Feb 5;125(6):924-9. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/25515959?tool=bestpractice.bmj.com)
+4. Warkentin TE, Kelton JG. A 14-year study of heparin-induced thrombocytopenia. Am J Med. 1996
+Nov;101(5):502-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8948273?tool=bestpractice.bmj.com)
+5. Warkentin T, Kelton J. Temporal aspects of heparin-induced thrombocytopenia. N
+Engl J Med. 2001;344:1286-1292.  Full text (http://www.nejm.org/doi/full/10.1056/
+NEJM200104263441704#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11320387?
+tool=bestpractice.bmj.com)
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Heparin-induced thrombocytopenia References
+6. Linkins LA, Warkentin T. The approach to heparin-induced thrombocytopenia. Semin Respir
+Crit Care Med. 2008;29:66-74. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18302088?
+tool=bestpractice.bmj.com)
+7. Warkentin T, Elavathil L, Hayward C, et al. The pathogenesis of venous limb gangrene associated
+with heparin-induced thrombocytopenia. Ann Intern Med. 1997 Nov 1;127(9):804-12. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9382401?tool=bestpractice.bmj.com)
+8. Farley S, Cummings C, Heuser W, et al. Prevalence and overtesting of true heparin-
+induced thrombocytopenia in a 591-bed tertiary care, teaching hospital. J Intensive Care
+Med. 2019 Jun;34(6):464-71. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28978299?
+tool=bestpractice.bmj.com)
+9. Warkentin TE, Levine MN, Hirsh J, et al. Heparin-induced thrombocytopenia in patients treated with
+low-molecular-weight heparin or unfractionated heparin. N Engl J Med. 1995 May 18;332(20):1330-5. 
+Full text (https://www.nejm.org/doi/full/10.1056/NEJM199505183322003)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7715641?tool=bestpractice.bmj.com)
+10. Warkentin TE, Sheppard JA, Moore JC, et al. Laboratory testing for the antibodies that cause heparin-
+induced thrombocytopenia: how much class do we need? J Lab Clin Med. 2005 Dec;146(6):341-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16310517?tool=bestpractice.bmj.com)
+11. Warkentin T, Sheppard J, Horsewood P, et al. Impact of the patient population on the risk for heparin-
+induced thrombocytopenia. Blood. 2000 Sep 1;96(5):1703-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10961867?tool=bestpractice.bmj.com)
+12. Prandoni P, Siragusa S, Girolami B, et al. The incidence of heparin-induced thrombocytopenia
+in medical patients treated with low-molecular-weight heparin: a prospective cohort study.
+Blood. 2005 Nov 1;106(9):3049-54.  Full text (https://ashpublications.org/blood/article-lookup/
+doi/10.1182/blood-2005-03-0912)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16030191?
+tool=bestpractice.bmj.com)
+13. Lubenow N, Hinz P, Thomaschewski S, et al. The severity of trauma determines the immune
+response to PF4/heparin and the frequency of heparin-induced thrombocytopenia. Blood.
+2010 Mar 4;115(9):1797-803.  Full text (https://ashpublications.org/blood/article-lookup/
+doi/10.1182/blood-2009-07-231506)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19965682?
+tool=bestpractice.bmj.com)
+14. Lindhoff-Last E, Nakov R, Misselwitz F, et al. Incidence and clinical relevance of heparin-induced
+antibodies in patients with deep vein thrombosis treated with unfractionated heparin or low-molecular-
+weight heparin. Br J Haematol. 2002 Sep;118(4):1137-42. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12199798?tool=bestpractice.bmj.com)
+15. Martel N, Lee J, Wells PS. Risk for heparin-induced thrombocytopenia with unfractionated and low-
+molecular-weight heparin thromboprophylaxis: a meta-analysis. Blood. 2005 Oct 15;106(8):2710-5. 
+Full text (https://ashpublications.org/blood/article-lookup/doi/10.1182/blood-2005-04-1546)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15985543?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Heparin-induced thrombocytopenia References
+REFERENCES
+16. Junqueira DR, Zorzela LM, Perini E. Unfractionated heparin versus low molecular weight
+heparins for avoiding heparin-induced thrombocytopenia in postoperative patients. Cochrane
+Database Syst Rev. 2017 Apr 21;4:CD007557.  Full text (https://www.cochranelibrary.com/
+cdsr/doi/10.1002/14651858.CD007557.pub3/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28431186?tool=bestpractice.bmj.com)
+17. Warkentin TE, Sheppard JA, Sigouin CS, et al. Gender imbalance and risk factor interactions
+in heparin-induced thrombocytopenia. Blood. 2006 Nov 1;108(9):2937-41.  Full text (https://
+ashpublications.org/blood/article-lookup/doi/10.1182/blood-2005-11-012450)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16857993?tool=bestpractice.bmj.com)
+18. Warkentin TE, Sheppard JA, Moore JC, et al. Studies of the immune response in heparin-induced
+thrombocytopenia. Blood. 2009 May 14;113(20):4963-9.  Full text (http://www.bloodjournal.org/
+content/113/20/4963.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19144981?
+tool=bestpractice.bmj.com)
+19. Greinacher A, Kohlmann T, Strobel U, et al. The temporal profile of the anti-PF4/heparin
+immune response. Blood. 2009 May 14;113(20):4970-6.  Full text (http://www.bloodjournal.org/
+content/113/20/4970.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19109231?
+tool=bestpractice.bmj.com)
+20. Krauel K, Potschke C, Weber C, et al. Platelet factor 4 binds to bacteria, inducing antibodies
+cross-reacting with the major antigen in heparin-induced thrombocytopenia. Blood. 2011 Jan
+27;117(4):1370-8.  Full text (http://www.bloodjournal.org/content/117/4/1370.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20959601?tool=bestpractice.bmj.com)
+21. Greinacher A, Holtfreter B, Krauel K, et al. Association of natural anti-platelet factor 4/heparin
+antibodies with periodontal disease. Blood. 2011 Aug 4;118(5):1395-401.  Full text (http://
+www.bloodjournal.org/content/118/5/1395.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21659541?tool=bestpractice.bmj.com)
+22. Greinacher A, Alban S, Omer-Adam MA, et al. Heparin-induced thrombocytopenia: a stoichiometry-
+based model to explain the differing immunogenicities of unfractionated heparin, low-molecular-weight
+heparin, and fondaparinux in different clinical settings. Thromb Res. 2008;122(2):211-20. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/18262226?tool=bestpractice.bmj.com)
+23. Amiral J, Bridey F, Dreyfus M, et al. Platelet factor 4 complexed to heparin is the target for antibodies
+generated in heparin-induced thrombocytopenia. Thromb Haemost. 1992;68:95-96. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1514184?tool=bestpractice.bmj.com)
+24. Kelton JG, Smith JW, Warkentin TE, et al. Immunoglobulin G from patients with heparin-induced
+thrombocytopenia binds to a complex of heparin and platelet factor 4. Blood. 1994;83:3232-3239. 
+Full text (http://www.bloodjournal.org/content/bloodjournal/83/11/3232.full.pdf)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8193358?tool=bestpractice.bmj.com)
+25. Chong BH, Fawaz I, Chesterman CN, et al. Heparin-induced thrombocytopenia: mechanism of
+interaction of the heparin-dependent antibody with platelets. Br J Haematol. 1989;73:235-240. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/2818941?tool=bestpractice.bmj.com)
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Heparin-induced thrombocytopenia References
+26. Warkentin TE, Sheppard JI. Generation of platelet-derived microparticles and procoagulant activity
+by heparin-induced thrombocytopenia IgG/serum and other IgG platelet agonists: a comparison
+with standard platelet agonists. Platelets. 1999;10:319-326. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16801109?tool=bestpractice.bmj.com)
+27. Warkentin TE, Hayward CP, Boshkov LK, et al. Sera from patients with heparin-induced
+thrombocytopenia generate platelet-derived microparticles with procoagulant activity: an explanation
+for the thrombotic complications of heparin-induced thrombocytopenia. Blood. 1994;84:3691-3699. 
+Full text (http://www.bloodjournal.org/content/bloodjournal/84/11/3691.full.pdf)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7949124?tool=bestpractice.bmj.com)
+28. Visentin GP, Ford SE, Scott JP, et al. Antibodies from patients with heparin-induced thrombocytopenia/
+thrombosis are specific for platelet factor 4 complexed with heparin or bound to endothelial cells.
+J Clin Invest. 1994;93:81-88.  Full text (http://www.jci.org/articles/view/116987)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8282825?tool=bestpractice.bmj.com)
+29. Rauova L, Hirsch JD, Greene TK, et al. Monocyte-bound PF4 in the pathogenesis of heparin-
+induced thrombocytopenia. Blood. 2010;116:5021-5031.  Full text (http://www.bloodjournal.org/
+content/116/23/5021.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20724543?
+tool=bestpractice.bmj.com)
+30. Cines DB, Tomaski A, Tannenbaum S. Immune endothelial-cell injury in heparin-associated
+thrombocytopenia. N Engl J Med. 1987;316:581-589. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/3807952?tool=bestpractice.bmj.com)
+31. Warkentin T. Heparin-induced thrombocytopenia: pathogenesis and management. Br J
+Haematol. 2003;121:535-555. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12752095?
+tool=bestpractice.bmj.com)
+32. Salter BS, Weiner MM, Trinh MA, et al. Heparin-induced thrombocytopenia: a comprehensive clinical
+review. J Am Coll Cardiol. 2016 May 31;67(21):2519-32.  Full text (https://www.sciencedirect.com/
+science/article/pii/S0735109716324597?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27230048?tool=bestpractice.bmj.com)
+33. Rauova L, Poncz M, McKenzie SE, et al. Ultralarge complexes of PF4 and heparin are central to
+the pathogenesis of heparin-induced thrombocytopenia. Blood. 2005 Jan 1;105(1):131-8.  Full text
+(https://ashpublications.org/blood/article-lookup/doi/10.1182/blood-2004-04-1544)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15304392?tool=bestpractice.bmj.com)
+34. Greinacher A, Alban S, Dummel V, et al. Characterization of the structural requirements for a
+carbohydrate based anticoagulant with a reduced risk of inducing the immunological type of
+heparin-associated thrombocytopenia. Thromb Haemost. 1995 Sep;74(3):886-92. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8571316?tool=bestpractice.bmj.com)
+35. Greinacher A, Alban S, Omer-Adam MA, et al. Heparin-induced thrombocytopenia: a stoichiometry-
+based model to explain the differing immunogenicities of unfractionated heparin, low-molecular-weight
+heparin, and fondaparinux in different clinical settings. Thromb Res. 2008;122(2):211-20. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/18262226?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Heparin-induced thrombocytopenia References
+REFERENCES
+36. Lo G, Juhl D, Warkentin T, et al. Evaluation of pretest clinical score (4 T’s) for the diagnosis of heparin-
+induced thrombocytopenia in two clinical settings. J Thromb Haemost. 2006 Apr;4(4):759-65. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/16634744?tool=bestpractice.bmj.com)
+37. Warkentin TE, Heddle NM. Laboratory diagnosis of immune heparin-induced thrombocytopenia.
+Curr Hematol Rep. 2003 Mar;2(2):148-57. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12901146?
+tool=bestpractice.bmj.com)
+38. Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for
+management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018 Nov
+27;2(22):3360-92.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6258919)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30482768?tool=bestpractice.bmj.com)
+39. Cuker A, Gimotty PA, Crowther MA, et al. Predictive value of the 4Ts scoring system for
+heparin-induced thrombocytopenia: a systematic review and meta-analysis. Blood. 2012 Nov
+15;120(20):4160-7.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3501714)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/22990018?tool=bestpractice.bmj.com)
+40. Arepally GM. Heparin-induced thrombocytopenia. Blood. 2017 May 25;129(21):2864-72.  Full text
+(https://ashpublications.org/blood/article/129/21/2864/36268/Heparin-induced-thrombocytopenia)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28416511?tool=bestpractice.bmj.com)
+41. American Society of Hematology. Ten things physicians and patients should question. Choosing
+Wisely, an initiative of the ABIM Foundation. 2021 [internet publication].  Full text (https://
+web.archive.org/web/20230316185857/https://www.choosingwisely.org/societies/american-society-of-
+hematology)
+42. Cuker A, Arepally G, Crowther MA, et al. The HIT Expert Probability (HEP) Score: a novel pre-test
+probability model for heparin-induced thrombocytopenia based on broad expert opinion. J Thromb
+Haemost. 2010 Dec;8(12):2642-50. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20854372?
+tool=bestpractice.bmj.com)
+43. Warkentin TE. Anticoagulant failure in coagulopathic patients: PTT confounding and other
+pitfalls. Expert Opin Drug Saf. 2014 Jan;13(1):25-43. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23971903?tool=bestpractice.bmj.com)
+44. Linkins LA, Dans AL, Moores LK, et al. Treatment and prevention of heparin-induced
+thrombocytopenia: antithrombotic therapy and prevention of thrombosis (9th ed). American College of
+Chest Physicians evidence-based clinical practice guidelines. Chest. 2012 Feb;141(2 Suppl):e495S-
+e530S.  Full text (https://journal.chestnet.org/article/S0012-3692(12)60130-5/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22315270?tool=bestpractice.bmj.com)
+45. Watson H, Davidson S, Keeling D, et al. Guidelines on the diagnosis and management of heparin-
+induced thrombocytopenia: second edition. Br J Haematol. 2012 Dec;159(5):528-40.  Full text
+(https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.12059)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23043677?tool=bestpractice.bmj.com)
+46. Linkins LA, Bates SM, Lee AY, et al. Combination of 4Ts score and PF4/H-PaGIA for diagnosis
+and management of heparin-induced thrombocytopenia: prospective cohort study. Blood.
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Heparin-induced thrombocytopenia References
+2015 Jul 30;126(5):597-603.  Full text (https://ashpublications.org/blood/article-lookup/
+doi/10.1182/blood-2014-12-618165)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25926600?
+tool=bestpractice.bmj.com)
+47. Nagler M, Bachmann LM, Ten Cate H, et al. Diagnostic value of immunoassays for heparin-induced
+thrombocytopenia: a systematic review and meta-analysis. Blood. 2016 Feb 4;127(5):546-57.  Full text
+(https://ashpublications.org/blood/article-lookup/doi/10.1182/blood-2015-07-661215)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26518436?tool=bestpractice.bmj.com)
+48. Sun L, Gimotty PA, Lakshmanan S, et al. Diagnostic accuracy of rapid immunoassays for
+heparin-induced thrombocytopenia. A systematic review and meta-analysis. Thromb Haemost.
+2016 May 2;115(5):1044-55. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26763074?
+tool=bestpractice.bmj.com)
+49. Minet V, Dogné JM, Mullier F. Functional assays in the diagnosis of heparin-induced
+thrombocytopenia: a review. Molecules. 2017 Apr 11;22(4):E617.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC6153750)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28398258?tool=bestpractice.bmj.com)
+50. Pouplard C, Amiral J, Borg JY, et al. Decision analysis for use of platelet aggregation test, carbon
+14-serotonin release assay, and heparin-platelet factor 4 enzyme-linked immunosorbent assay for
+diagnosis of heparin-induced thrombocytopenia. Am J Clin Pathol. 1999 May;111(5):700-6. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/10230362?tool=bestpractice.bmj.com)
+51. Raschke RA, Gallo T, Curry SC, et al. Clinical effectiveness of a Bayesian algorithm for the diagnosis
+and management of heparin-induced thrombocytopenia. J Thromb Haemost. 2017 Aug;15(8):1640-5.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28622439?tool=bestpractice.bmj.com)
+52. Linkins LA. Heparin induced thrombocytopenia. BMJ. 2015 Jan 8;350:g7566. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25569604?tool=bestpractice.bmj.com)
+53. Greinacher A, Farner B, Kroll H, et al. Clinical features of heparin-induced thrombocytopenia
+including risk factors for thrombosis. A retrospective analysis of 408 patients. Thromb Haemost. 2005
+Jul;94(1):132-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16113796?tool=bestpractice.bmj.com)
+54. Vayne C, Guéry EA, Rollin J, et al. Pathophysiology and diagnosis of drug-induced
+immune thrombocytopenia. J Clin Med. 2020 Jul 13;9(7):2212.  Full text (https://
+www.mdpi.com/2077-0383/9/7/2212)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32668640?
+tool=bestpractice.bmj.com)
+55. Warkentin TE. Heparin-induced thrombocytopenia. Curr Hematol Rep. 2002 Sep;1(1):63-72. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/12901126?tool=bestpractice.bmj.com)
+56. Warkentin TE, Greinacher A, Koster A, et al. Treatment and prevention of heparin-induced
+thrombocytopenia: American College of Chest Physicians evidence-based clinical practice
+guidelines (8th ed). Chest. 2008 Jun;133(6 Suppl):340S-380S. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18574270?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Heparin-induced thrombocytopenia References
+REFERENCES
+57. Konstantinides SV, Torbicki A, Agnelli G, et al. 2014 ESC guidelines on the diagnosis and
+management of acute pulmonary embolism. Eur Heart J. 2014 Nov 14;35(43):3033-69. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/25173341?tool=bestpractice.bmj.com)
+58. Srinivasan AF, Rice L, Bartholomew JR, et al. Warfarin-induced skin necrosis and venous
+limb gangrene in the setting of heparin-induced thrombocytopenia. Arch Intern Med. 2004 Jan
+12;164(1):66-70.  Full text (https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/216469)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14718324?tool=bestpractice.bmj.com)
+59. Warkentin TE, Pai M, Linkins LA. Direct oral anticoagulants for treatment of HIT: update of
+Hamilton experience and literature review. Blood. 2017 Aug 31;130(9):1104-13.  Full text (https://
+ashpublications.org/blood/article-lookup/doi/10.1182/blood-2017-04-778993)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28646118?tool=bestpractice.bmj.com)
+60. Morgan RL, Ashoorion V, Cuker A, et al. Management of heparin-induced thrombocytopenia:
+systematic reviews and meta-analyses. Blood Adv. 2020 Oct 27;4(20):5184-93.  Full text
+(https://ashpublications.org/bloodadvances/article/4/20/5184/469707/Management-of-heparin-
+induced-thrombocytopenia)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33095876?
+tool=bestpractice.bmj.com)
+61. Linkins LA, Warkentin TE, Pai M, et al. Rivaroxaban for treatment of suspected or confirmed heparin-
+induced thrombocytopenia study. J Thromb Haemost. 2016 Jun;14(6):1206-10. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27061271?tool=bestpractice.bmj.com)
+62. Casan JM, Grigoriadis G, Chan N, et al. Rivaroxaban in treatment refractory heparin-induced
+thrombocytopenia. BMJ Case Rep. 2016 Aug 12;2016. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27520997?tool=bestpractice.bmj.com)
+63. Kanamoto R, Hiromatsu S, Anegawa T, et al. Use of edoxaban for the treatment of heparin-
+induced thrombocytopenia. Case Rep Vasc Med. 2020 Sep 7;2020:2367095.  Full text (https://
+www.hindawi.com/journals/crivam/2020/2367095)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32963878?tool=bestpractice.bmj.com)
+64. Chaudhary RK, Nepal C, Khanal N, et al. Management and outcome of heparin-induced
+thrombocytopenia in pregnancy: a systematic review. Cardiovasc Hematol Agents Med Chem.
+2015;13(2):92-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26695420?tool=bestpractice.bmj.com)
+65. Koster A, Selleng S. Management of intraoperative anticoagulation in patients with heparin-induced
+thrombocytopenia undergoing surgery. In: Warkentin TE, Greinacher A, eds. Heparin-induced
+thrombocytopenia. 5th ed. Boca Raton, FL: Informa Healthcare; 2013:550-72.
+66. Karafin MS, Sachais BS, Connelly-Smith L, et al. NHLBI state of the science symposium in therapeutic
+apheresis: knowledge gaps and research opportunities in the area of hematology-oncology. J
+Clin Apher. 2016 Feb;31(1):38-47. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25940408?
+tool=bestpractice.bmj.com)
+67. Onuoha C, Barton KD, Wong ECC, et al. Therapeutic plasma exchange and intravenous
+immune globulin in the treatment of heparin-induced thrombocytopenia: a systematic review.
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Heparin-induced thrombocytopenia References
+Transfusion. 2020 Nov;60(11):2714-36. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32812222?
+tool=bestpractice.bmj.com)
+68. Padmanabhan A, Jones CG, Pechauer SM, et al. IVIg for treatment of severe refractory heparin-
+induced thrombocytopenia. Chest. 2017 Sep;152(3):478-85.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC5812774)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28427966?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Heparin-induced thrombocytopenia Images
+IMAGES
+Images
+Figure 1: Venous limb gangrene of left foot in HIT: (A) dorsal aspect; (B) medial aspect; and (C) plantar
+aspect
+Rozati H, Shah SP, Peng YY. Lower limb gangrene postcardiac surgery. BMJ Case Reports. 2013;
+doi:10.1136/bcr-2012-008362
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Heparin-induced thrombocytopenia Images
+Figure 2: Combination of clinical picture and laboratory evidence of HIT antibodies
+Created by the BMJ Knowledge Centre based on information from: Raschke RA, Gallo T, Curry SC, et
+al. Clinical effectiveness of a Bayesian algorithm for the diagnosis and management of heparin-induced
+thrombocytopenia. J Thromb Haemost. 2017 Aug;15(8):1640-5.
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Heparin-induced thrombocytopenia Images
+IMAGES
+Figure 3: Diagnostic algorithm for heparin-induced thrombocytopenia
+Created by the BMJ Knowledge Centre
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Heparin-induced thrombocytopenia Images
+Figure 4: Venous limb gangrene of left foot in HIT (dorsal aspect)
+Rozati H, Shah SP, Peng YY. Lower limb gangrene postcardiac surgery. BMJ Case Reports. 2013;
+doi:10.1136/bcr-2012-008362
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Heparin-induced thrombocytopenia Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Heparin-induced thrombocytopenia Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 20, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Contributors:
+// Authors:
+Lori-Ann Linkins, MD, MSc(Clin Epi), FRCPC
+Associate Professor
+Department of Medicine, McMaster University, Thrombosis Consultant, Juravinski Hospital and Cancer
+Centre, Hamilton, Ontario, Canada
+DISCLOSURES: LL is an author of several references cited in this topic.
+// Peer Reviewers:
+Jeffrey S. Wasser, MD
+Assistant Clinical Professor of Medicine
+Acting Associate Chair of the Division of Hematology and Medical Oncology, University of Connecticut
+School of Medicine, Farmington, CT
+DISCLOSURES: JSW declares that he has no competing interests.
+Henry Watson, MD, FRCP, FRCPath
+Consultant Haematologist
+Aberdeen Royal Infirmary, Foresterhill Health Campus, Aberdeen, UK
+DISCLOSURES: HW declares that he has no competing interests.
+Simon Davidson, MPhil
+Clinical Scientist
+Royal Brompton Hospital, Honorary Clinical Lecturer, Imperial College London, London, UK
+DISCLOSURES: SD is a consultant for Mitsubishi Pharma, the manufacturer of argatroban.

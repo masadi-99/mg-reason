@@ -1,0 +1,1607 @@
+# Tricuspid stenosis
+
+=== Page 1 ===
+Tricuspid stenosis
+Straight to the point of care
+Last updated: Apr 02, 2025
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Case history  6
+Diagnosis  7
+Approach  7
+History and exam  9
+Risk factors  11
+Tests  13
+Differentials  16
+Criteria  16
+Management  18
+Approach  18
+Treatment algorithm overview  20
+Treatment algorithm  22
+Emerging  26
+Primary prevention  26
+Secondary prevention  26
+Patient discussions  26
+Follow up  27
+Monitoring  27
+Complications  28
+Prognosis  28
+Guidelines  30
+Diagnostic guidelines  30
+Treatment guidelines  31
+References  32
+Images  39
+Disclaimer  42
+=== Page 3 ===
+Tricuspid stenosis Overview
+Summary
+Tricuspid stenosis (TS) most commonly occurs as a late complication of acute rheumatic fever.
+TS rarely occurs in the absence of associated rheumatic mitral and/or aortic disease.
+Dyspnea is a common finding and usually relates to concomitant mitral valve stenosis.
+Prominent a-waves in the jugular venous wave form are a hallmark of tricuspid stenosis in patients who are in
+sinus rhythm.
+Transthoracic echocardiogram with Doppler flow is accurate for diagnosis.
+Most effective therapy is valve replacement.
+Definition
+TS is a rare condition defined by an abnormally elevated pressure gradient across the tricuspid valve during
+diastolic filling of the right ventricle.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Tricuspid stenosis Theory
+THEORY
+Epidemiology
+Rheumatic heart disease (RHD) is by far the most common cause of tricuspid stenosis (TS) in the US
+and throughout the world. In developed countries, the relative incidence of acute rheumatic fever (ARF)
+significantly decreased over the 20th century; however, the burden of ARF and RHD remains high in
+developing countries.[6] The Global Burden of Disease study estimated 38.0 to 40.8 million cases of RHD
+globally in 2017, with the highest prevalence, disability, and mortality in Oceania, South Asia, and sub-
+Saharan Africa. The prevalence ranged from 3.4 cases per 100,000 population in nonendemic countries
+to >1000 cases per 100,000 in endemic countries, with endemic defined as greater than 0.15 deaths per
+100,000 population among children ages 5-9 years.[7] Socioeconomic and environmental factors such
+as shortage of resources, lack of healthcare providers, and low level of awareness all contribute to the
+continued high incidence of ARF and RHD in developing countries. In developed countries such as the US, it
+is estimated that up to 50% of those with a history of ARF and carditis will go on to have chronic RHD.[8] [9]
+Isolated tricuspid valve involvement is extremely rare and clinical TS is usually discovered concomitantly
+with mitral and often aortic valve disease.[3] [10] [11] The overall incidence of TS in patients with RHD has
+been estimated at 9% to 15%, with clinically significant and more severe forms occurring in only 5%.[3] [12]
+[13] [14] [15] This results in an overall estimated prevalence of rheumatic TS in the US of 0.003 per 1000
+population.
+The incidence of ARF is equal between males and females; however, females tend to develop significant
+RHD more commonly.[16] [17] The only race in the US that has been shown to develop ARF and RHD at
+relatively higher rates are those of Polynesian descent living in Hawaii.
+Carcinoid heart disease occurs in 40% to 50% of patients with carcinoid syndrome and typically leads to
+tricuspid and pulmonary valve dysfunction.[18] [19]
+The incidence of congenital TS is rare, occurring in <0.1% of the population.
+Etiology
+Tricuspid stenosis (TS) most commonly occurs as a late complication of rheumatic heart disease (RHD). The
+etiology of rheumatic TS is still not entirely understood. In nearly all cases, an antecedent case of group A
+streptococcal pharyngitis is required.
+Rare causes of TS include carcinoid syndrome, infective endocarditis, and congenital disease. Carcinoid
+heart disease usually only occurs in patients whose primary intestinal tumor has metastasized to the liver, at
+which time a paraneoplastic process causes the tricuspid valve abnormalities.[19]
+Infective endocarditis affecting the tricuspid valve can also lead to TS and is most common among those who
+are intravenous drug abusers or those who have anatomically abnormal tricuspid valves at baseline.
+The etiology of congenital TS is not known, but is thought to be multifactorial with genetics and environmental
+factors both playing a role.
+Pathophysiology
+Anatomic abnormalities of the stenotic tricuspid valve vary by root cause, but generally include fusion of
+commissural leaflets and foreshortened chordae tendineae.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Tricuspid stenosis Theory
+In rheumatic heart disease (RHD), antibody cross-reactivity between antigens of group A streptococcus
+(GAS) and host valve tissue leads to an inflammatory response. This ultimately causes progressive fibrin
+deposition within the valve leaflet and along the cusps. Eventual fusion of leaflet commissures ensues and
+the chordae tendineae become thickened, fused, and foreshortened, resulting in tricuspid stenosis (TS).
+GAS-specific immunogenicity, host genetic predisposition, and degree of molecular mimicry are all thought to
+play a role in the development of acute rheumatic fever (ARF) and subsequent RHD.[6] [20]
+In carcinoid syndrome, the metastatic carcinoid tumors produce paraneoplastic substances (e.g., serotonin),
+which are thought to lead to the characteristic endocardial fibrous white plaque formation within the valve
+leaflets and tricuspid valve chordal apparatus.[19] These fibrous depositions lead to valve distortion,
+foreshortened leaflets, and the inability of the valve to coapt and open completely, resulting in TS and often
+tricuspid valve regurgitation.
+Infective endocarditis involving the tricuspid valve occurs when certain virulent strains of bacteria circulating
+in the bloodstream adhere to the surface of the valve. The subsequent inflammatory process results in fibrin,
+platelet, leukocyte, and red blood cell deposition along the valve leaflet with resulting vegetation formation.
+Vegetations can then result in further valve thickening, valve perforation, failure of coaptation, and ultimately
+in a reduced valve orifice and stenosis.
+Congenital TS results in some degree of hypoplasia of the right ventricle, pulmonary outflow, and an atrial
+level shunt. It usually results in annular hypoplasia, incompletely developed leaflets, abnormal chordae
+tendineae, and dysplastic papillary muscles.
+Distortion of the tricuspid valve apparatus and deficiency of the effective valve orifice are pathognomonic
+findings for all forms of TS, regardless of etiology. This reduction in the size of the valve orifice results in
+obstruction of blood flow from the right atrium into the right ventricle during diastole. Because the pressures
+in the right side of the heart are normally low, a pressure gradient as low as 5 mmHg can result in elevated
+right atrial pressures, depending on the atrial compliance.[11] [21] Chronically elevated right atrial pressures
+lead to signs and symptoms of systemic venous congestion including prominent jugular venous pulsations
+with an exaggerated a-wave. In more severe forms of TS, pulmonary blood flow is significantly decreased
+and cardiac output can become limited, especially at times of increased requirements (i.e., exercise). Right
+atrial enlargement and hypertrophy can contribute to the development of atrial fibrillation, which significantly
+exaggerates the symptoms of venous congestion due to the lack of atrial systole.
+Congenital tricuspid valve stenosis: 2D transthoracic echocardiogram apical 4 chamber view reveals
+a small tricuspid valve annulus (dash), RV hypoplasia, and a large atrial septal defect (ASD, arrow)
+From the personal collection of Martin Bocks; used with permission
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Tricuspid stenosis Theory
+THEORY
+Case history
+Case history #1
+An otherwise healthy 35-year-old man presents with complaints of fatigue, lower extremity swelling,
+fluttering neck sensation, and a sense of abdominal fullness. Symptoms began to occur over the last few
+months and have been slowly progressive. The patient, who is an avid cyclist, reports increasing dyspnea
+on exertion and the inability to exercise to his usual capacity. The patient's medical history is notable
+for an intermittent murmur, which was typically described as "innocent" when heard at routine well-child
+and health maintenance examinations. He underwent tonsillectomy and adenoidectomy at age 7 years
+for recurrent pharyngitis. There is no family history of early coronary artery disease, cardiomyopathy, or
+sudden death. He does not smoke and rarely drinks alcohol.
+Other presentations
+Tricuspid stenosis (TS) can occur as a result of bacterial endocarditis, especially among patients with
+endocardial pacemaker leads, artificial tricuspid valves, or in intravenous drug abusers.[1] [2] Under
+these conditions, the typical presenting symptoms may also include fever and other stigmata of infective
+endocarditis.
+Congenital TS typically presents during infancy or very early childhood, as opposed to adulthood. It is
+often associated with other structural heart defects and often presents with cyanosis when an atrial level
+shunt is also present.
+Carcinoid heart disease can cause TS and should be considered in any patient with typical carcinoid
+features, including facial flushing, intractable secretory diarrhea, and bronchoconstriction.
+TS caused by rheumatic heart disease can present with atrial fibrillation in up to 40% to 70% of
+patients.[3] [4] [5]
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Tricuspid stenosis Diagnosis
+Approach
+Clinically significant tricuspid stenosis (TS) can be suspected based on a history of acute rheumatic fever
+(ARF) as a child, presenting symptoms (fatigue, extremity swelling, fluttering neck discomfort, abdominal
+discomfort, or dyspnea), and on classic physical examination findings.[27] However, further studies such as
+ECG, echocardiogram, and cardiac catheterization are typically used to confirm the diagnosis. By far the
+most common presentation is as a late result of a single severe case or, multiple recurrent episodes of ARF
+and typically occurs anywhere from 16 to 40 years after initial group A streptococcus (GAS) exposure.[28]
+History
+Although the age range can vary, patients usually present at ages 20-39 years.[6] Most patients with
+symptomatic TS will present with fatigue, extremity swelling, fluttering neck discomfort, abdominal
+discomfort, or dyspnea that is slowly progressive over a period of months to years. The fatigue usually
+relates to some degree of limited cardiac output. The dyspnea usually results from concomitant rheumatic
+mitral stenosis, and is usually more pronounced when attempting exercise. The other symptoms relate to
+systemic venous congestion causing hepatomegaly, elevated jugular venous pressure (JVP), ascites, and
+edema.
+A critical piece of information to acquire is whether or not there is an antecedent history of ARF. Many
+adult patients may not have been informed of their actual diagnosis during childhood or the disease may
+have never been discovered. These patients may only remember an illness with a prolonged fever, rash,
+or severe joint pain. Similarly, the patient may only remember having had to endure a prolonged period
+of bed rest and being away from school. A history of persistent heart murmur beginning in late childhood
+that has been passed-off as benign or innocent may also be the only historical clue to antecedent episode
+of ARF. If a history of ARF is denied or unknown, these historical items should be sought out specifically.
+Features of flushing, diarrhea, and bronchospasm should raise the possibility of carcinoid syndrome,
+and these patients have a 50% chance of cardiac involvement. The vast majority of patients with cardiac
+involvement present with signs of right heart failure secondary to severe dysfunction of the tricuspid and
+pulmonary valves.
+Patients may present with unremitting or recurrent fever with generalized malaise and other physical
+stigmata of bacterial endocarditis. The patient may have an antecedent history of tricuspid valve
+replacement or intravenous drug use.
+Congenital stenosis usually presents in infancy or at an early age with symptoms of right heart failure and
+cyanosis and is often associated with other structural heart defects.
+Physical examination
+The patient's vital signs are often normal. Jugular venous pulsations are often elevated and a prominent
+presystolic a-wave during atrial contraction is considered to be a classic finding. However, in the presence
+of atrial fibrillation (patients with rheumatic TS may present with atrial fibrillation) when atrial systole is
+lost, this classic finding is absent, resulting in a lower index of suspicion for TS.
+Hepatomegaly, ascites, and peripheral edema are often observed in patients with moderate to severe TS.
+Focused cardiac examination reveals cardinal signs of TS. The precordium is usually quiet without a
+right ventricular lift or heave. A soft, low-frequency presystolic murmur can usually be auscultated at the
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Tricuspid stenosis Diagnosis
+DIAGNOSIS
+lower left sternal border in the fourth intercostal space. The murmur can be intensified with maneuvers
+that increase blood flow across the valve (e.g., inspiration, squatting, and isotonic exercise). An opening
+snap can sometimes be heard, but is often confused with the opening snap of a stenotic mitral valve,
+which is also often present. Similarly, the presystolic murmur of TS is often missed or attributed to mitral
+valve stenosis. Although there are characteristics of the two murmurs that can help differentiate one from
+the other, a high index of suspicion must be maintained for tricuspid valve involvement in a patient with
+polyvalvular rheumatic heart disease (RHD).
+Patients with endocarditis-associated TS will present with the same physical findings discussed above,
+occasionally with the physical stigmata of bacterial endocarditis (e.g., splinter hemorrhages, Osler nodes,
+and Janeway lesions).
+Hypoxemia predominates with congenital TS secondary to right-to-left atrial level shunting.
+There are no specific physical examination findings in patients with carcinoid heart disease that
+distinguish it from other forms of TS.
+Laboratory evaluation
+CBC and blood cultures should be used to evaluate for bacterial endocarditis. Comprehensive metabolic
+profile should be obtained to evaluate for significant hepatic congestion associated with systemic venous
+hypertension and as a general estimate of end-organ dysfunction (e.g., renal insufficiency). If carcinoid
+heart disease is suspected, 24-hour urinary excretion of 5-hydroxy-indole acetic acid (5-HIAA) may be
+used to determine whether it is present.
+Specialist referral, ECG, and imaging
+If a patient presents to a physician with a history concerning for ARF and many of the signs and
+symptoms described, it is appropriate to refer the patient to a cardiologist for further evaluation. The
+cardiology evaluation is likely to include repeat physical examination, chest x-ray, ECG, echocardiogram,
+and possibly referral for cardiac catheterization. Echocardiogram should be performed at the time
+the diagnosis is being considered; in general this is performed and interpreted by a specialist. Initial
+echocardiogram is usually transthoracic (2D or Doppler); however, transesophageal or 3D studies may be
+necessary if adequate images cannot be obtained. This includes cardiac MRI, which can help delineate
+tricuspid valve morphology and function as well as evaluate for underlying causes of tricuspid stenosis or
+better characterize the hemodynamic impact of tricuspid stenosis (e.g., right atrial dilation).[29]
+Although there are no clearly defined criteria in the literature for TS severity, severe TS is usually
+defined by the onset of overt symptoms accompanied by a mean gradient by echocardiogram or cardiac
+catheterization of ≥5 mmHg or >7 to 10 mmHg depending on the method and definition.[30] [31] [32]
+[33] Mild to moderate TS is usually asymptomatic, and has no clearly defined gradient range beyond the
+definition of TS diagnosed on a gradient of ≥2 mmHg. 
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Tricuspid stenosis Diagnosis
+Hemodynamic tracings obtained during cardiac catheterization from
+a woman with moderate to severe rheumatic tricuspid valve stenosis
+From the personal collection of Martin Bocks; used with permission
+Cardiac MRI may be useful in identifying valve abnormalities in carcinoid heart disease and reliably
+detecting progressive dilatation and right ventricle dysfunction.[34] [35] [36]
+Other imaging to consider includes cardiac computed tomography angiography (CTA) and [18F]
+fluorodeoxyglucose-positron emission tomography/computed tomography (FDG-PET/CT), particularly to
+detect valvular lesions and confirm endocarditis in cases where echocardiography has been inconclusive.
+[2]
+History and exam
+Key diagnostic factors
+history of acute rheumatic fever (ARF) during childhood (common)
+• Most common cause of rheumatic valvular disease and tricuspid stenosis (TS). A positive history
+should increase index of suspicion.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Tricuspid stenosis Diagnosis
+DIAGNOSIS
+dyspnea (common)
+• Usually due to concomitant mitral stenosis, which is present in >95% of cases of rheumatic TS.[3] [10]
+[11] [37] The absence or resolution of dyspnea may indicate progression of TS with severely limited
+pulmonary blood flow.
+elevated jugular venous pressure with prominent a-wave (common)
+• Prominent a-waves are hallmarks of TS in patients in sinus rhythm. In patients with atrial fibrillation, a-
+wave is lost, but jugular venous pressures are still elevated.
+low-frequency presystolic (diastolic) murmur at lower left sternal border
+(common)
+• Can be confused or attributed to similar murmur heard with mitral stenosis. Must have high index of
+suspicion for TS if other signs of right heart involvement are present. Murmur increases in intensity
+with inspiration and squatting.
+Other diagnostic factors
+age: 20-39 years (common)
+• This is the most common age for rheumatic heart disease (RHD) to present following childhood acute
+rheumatic fever (ARF).[6] 
+exercise intolerance (common)
+• In severe forms, cardiac output may be limited leading to fatigue and exercise intolerance.
+fatigue (common)
+• In severe forms, cardiac output may be limited leading to fatigue and exercise intolerance.
+jugular pulsations (common)
+• Prominent venous pulsations in the neck may cause fluttering and patient discomfort.
+abdominal swelling and discomfort (common)
+• Due to hepatomegaly and ascites from chronic systemic venous congestion.
+edema (common)
+• Occurs especially in extremities.
+cyanosis or hypoxemia (common)
+• Due to right-to-left atrial level shunting.
+atrial fibrillation (common)
+• TS caused by rheumatic heart disease can present with atrial fibrillation in up to 40% to 70% of
+patients.
+hepatomegaly (common)
+• Can be pulsatile in severe forms of TS.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Tricuspid stenosis Diagnosis
+ascites, edema, anasarca (common)
+• Related to degree of systemic venous hypertension.
+age: infancy or childhood (uncommon)
+• Congenital TS presents at an early age, and is often associated with cyanosis or other structural heart
+defects.
+episodic facial flushing, watery diarrhea, or bronchoconstriction
+(uncommon)
+• Symptoms of patients with carcinoid heart disease. These patients will also present with the symptoms
+of TS.
+absent right ventricular lift or heave (uncommon)
+• The absence of this sign suggests the right ventricle is protected from volume or pressure overload.
+In patients with mitral stenosis and pulmonary hypertension, right heart pressures are elevated and a
+right ventricular lift is usually present.
+opening snap (uncommon)
+• Can often be confused with opening snap of rheumatic mitral stenosis. However, the opening snap of
+TS will intensify during inspiration.
+endocarditis stigmata (e.g., splinter hemorrhages, Osler nodes, Janeway
+lesions) (uncommon)
+• Physical findings that relate to intracardiac vegetations embolizing to systemic peripheral arterial beds.
+Most commonly found in left-sided vegetations or if an intracardiac communication is present (e.g.,
+patent foramen ovale).
+Risk factors
+Strong
+group A streptococcal (GAS) pharyngitis
+• Outbreaks of acute rheumatic fever (ARF) follow epidemics of GAS pharyngitis or scarlet fever.
+Antibiotic treatment programs for documented GAS pharyngitis have markedly reduced the incidence
+of ARF and rheumatic heart disease (RHD).[6] Most patients with ARF develop elevated antibody titers
+to anti-streptococcal antigens, including streptolysin O, hyaluronidase, and streptokinase. Human host
+antibodies directed against GAS antigens have been demonstrated to cross-react with antigens (e.g.,
+myosin, tropomyosin, and laminin) of the human heart.[6][22] [23] [24]
+metastatic carcinoid tumors
+• Carcinoid heart disease usually only occurs in patients whose primary intestinal tumor has
+metastasized to the liver.[19] Metastatic carcinoid tumors produce paraneoplastic substances
+(e.g., serotonin), which are thought to lead to the characteristic endocardial fibrous white plaque
+formation within the valve leaflets and tricuspid valve chordal apparatus, which lead to valve distortion,
+foreshortened leaflets, and the inability of the valve to coapt and open completely.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Tricuspid stenosis Diagnosis
+DIAGNOSIS
+Weak
+artificial tricuspid valve
+• Tricuspid valve replacement leads to abnormal flow characteristics that predispose to bacterial
+superinfection in rare cases.
+intravenous drug use
+• Intravenous drug use provides a direct route for introducing bacteria into the bloodstream with
+secondary seeding of the tricuspid valve. Bacterial endocarditis secondary to intravenous drug use
+may rarely lead to leaflet thickening and fibrosis even in the presence of a previously normal valve.
+pacemaker/defibrillator leads crossing tricuspid valve orifice
+• Adhesions between lead and valve may lead to progressive fibrosis and restricted valve motion.[1]
+genetic predisposition and environmental factors
+• Etiology of congenital tricuspid stenosis is presumed to be multifactorial with genetics and
+environmental factors both playing a role.
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Tricuspid stenosis Diagnosis
+Tests
+1st test to order
+Test Result
+ECG
+• If sinus rhythm is present, a key finding is tall, peaked P-waves
+(>2.5 mm in II, III, V1) of right atrial enlargement in the absence of
+RVH.[11] Atrial fibrillation is present in up to 40% to 70% of patients
+with rheumatic tricuspid stenosis (TS).[3] [4] [5]
+sinus rhythm versus atrial
+fibrillation
+chest x-ray
+• Findings are nonspecific.
+cardiomediastinal
+silhouette may be normal
+in size to mildly enlarged,
+right atrial enlargement
+and prominence of right
+heart border may be
+appreciated; presence
+of single or multiple
+pulmonary opacities
+may indicate pulmonary
+embolization and
+abscess formation from
+vegetations in the right
+heart with infective
+endocarditis
+2D transthoracic echocardiogram
+• Normal appearing valve by 2D echocardiogram does not exclude
+TS. Doppler echocardiography also needs to be performed. The
+presence of an abnormally appearing tricuspid valve with normal
+appearing mitral and aortic valves should prompt consideration for
+carcinoid heart disease and dissuade the clinician from rheumatic
+heart disease as the etiology. Right atrial enlargement with dilated
+systemic and hepatic veins is consistent with more severe TS.
+thickened, fused, and
+doming tricuspid valve
+leaflets, restricted leaflet
+motion, reduced diameter
+of valve orifice, right atrial
+enlargement with dilated
+systemic and hepatic
+veins
+Doppler transthoracic echocardiogram
+• Transthoracic echocardiogram with Doppler has largely replaced
+cardiac catheterization as a means to diagnose TS and correlates
+well with hemodynamic data obtained during catheterization.[38]
+[39] Valve area has not correlated well with severity and has not
+been validated for clinical use. In the presence of moderate to severe
+tricuspid regurgitation, the valve area can be underestimated. A
+calculated valve area based on continuity equation <4.0 to 4.9 cm²
+is clinically significant TS. Others have indicated that a valve area <1
+cm², a pressure gradient of ≥5 mmHg or >7 to 10 mmHg (depending
+on definition), and a pressure half time of >190 msec indicates severe
+TS.[31] [32][33]
+elevated mean tricuspid
+valve gradient >2 mmHg,
+prolonged slope of
+antegrade flow; peak
+velocity across tricuspid
+valve >0.7 m/second
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Tricuspid stenosis Diagnosis
+DIAGNOSIS
+Test Result
+Echocardiogram with color Doppler reveals flow
+acceleration across the tricuspid valve and spectral
+Doppler reveals a mean TV gradient of 6 mmHg
+From the personal collection of Martin Bocks; used with permission
+liver function tests
+• Specificity for TS is poor. A normal value may also be obtained.
+mild elevation of
+aminotransferases may
+be present secondary to
+chronic hepatic venous
+congestion
+blood biochemistry
+• Minor metabolic abnormalities may be present depending on the
+extent of disease, such as elevated BUN and creatinine in renal
+insufficiency.
+abnormalities
+CBC
+• Polycythemia may suggest chronic hypoxemia secondary to
+diminished pulmonary blood flow or right-to-left shunting at the atrial
+level. Leukocytosis may indicate infective endocarditis.
+polycythemia in chronic
+hypoxemia or leukocytosis
+in infective endocarditis
+blood cultures
+• Bacterial or fungal cultures may indicate infective endocarditis.
+positive in infective
+endocarditis
+24-hour urinary excretion of 5-hydroxy-indole acetic acid (5-
+HIAA)
+• Twenty-four-hour urinary excretion of 5-HIAA is 10-fold higher than
+normal level in patients with carcinoid heart disease.[18]
+elevated in carcinoid
+heart disease
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Tricuspid stenosis Diagnosis
+Other tests to consider
+Test Result
+cardiac catheterization
+• Simultaneous right atrial and right ventricular pressures must be
+obtained over 8 to 10 cardiac cycles while breath-holding after normal
+inspiration. Tricuspid valve gradient can be provoked with normal
+saline bolus infusions. 
+transvalvular mean
+diastolic gradient ≥2
+mmHg indicates TS and a
+gradient ≥5 mgHg or >7 to
+10 mmHg (depending on
+definition) is considered
+severe
+cardiac MRI
+• May be useful in identifying valve abnormalities in carcinoid heart
+disease and reliably detecting progressive dilatation and right
+ventricle dysfunction.[34] [35] [36]
+valve abnormalities;
+progressive right ventricle
+dilatation
+3D transthoracic echocardiogram
+• May provide better anatomical imaging and more consistent
+estimations of valve area. May also be useful in identifying valve
+abnormalities in carcinoid heart disease.[35]
+may provide better
+anatomical imaging
+and more consistent
+estimations of valve area
+cardiac CT angiography (CTA)
+• May detect valve or paravalvular abnormalities not detected on
+echocardiogram.[2]
+valve abnormalities
+in nonvegetative
+endocarditis, paravalvular
+abscesses, periprosthetic
+valve complications
+[18F] fluorodeoxyglucose (FDG)-PET/CT
+• May be used to confirm diagnosis of endocarditis with or without
+positive blood cultures.[2]
+evidence of infective
+endocarditis, involved
+structures, embolic
+disease
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Tricuspid stenosis Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Cardiac tumors • There are no specific
+differentiating signs/
+symptoms.
+• Echocardiogram will
+often show tumors and
+differentiate cause.
+Systemic lupus
+erythematosus (SLE)
+• Malar rash, arthritis/
+arthralgias, pancytopenia,
+photosensitivity, renal
+involvement, alopecia, or
+Raynaud's phenomenon.
+• Antinuclear antibody, anti-
+dsDNA or anti-Sm antibodies
+may be positive in SLE.
+Constrictive pericarditis
+(CP)
+• Usually have a previous
+history of tuberculosis,
+pericarditis, cardiac surgery,
+mantle radiation, chest
+trauma, or connective tissue
+disease. Murmurs are
+rare with CP and jugular
+venous pulsations are less
+prominent.
+• Calcification of pericardium
+sometimes seen on chest x-
+ray.
+• Echocardiogram shows
+only mildly enlarged atrium
+and normal tricuspid valve
+without a gradient.
+• Cardiac catheterization
+reveals absence of tricuspid
+valve gradient and classic
+hemodynamic findings of CP.
+Restrictive
+cardiomyopathy
+• History is usually
+unremarkable. Systolic
+murmurs of mitral and
+tricuspid regurgitation are
+most common. Diastolic
+murmurs are less common.
+Jugular venous pulsations
+can be prominent.
+• Echocardiogram shows
+severe bi-atrial enlargement
+in the absence of significant
+AV valve gradient. Valve can
+sometimes be thickened,
+but shortened chordae and
+commissural fusion are
+rarely discovered.
+• Cardiac catheterization
+reveals classic findings of
+restrictive cardiomyopathy
+without tricuspid valve
+gradient.
+Criteria
+Tricuspid stenosis (TS) severity
+Although there are no clearly defined criteria in the literature for TS severity, severe TS is usually defined by
+the onset of overt symptoms accompanied by a mean gradient by echocardiogram or cardiac catheterization
+of ≥5 mmHg or >7 to 10 mmHg depending on the method and definition.[30] [31] [32] [33] Mild to moderate
+TS is usually asymptomatic, and has no clearly defined gradient range beyond the definition of TS diagnosed
+on a gradient of ≥2 mmHg. 
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Tricuspid stenosis Diagnosis
+Hemodynamic tracings obtained during cardiac catheterization from
+a woman with moderate to severe rheumatic tricuspid valve stenosis
+From the personal collection of Martin Bocks; used with permission
+ Supportive findings for hemodynamically significant TS include right atrial enlargement and a dilated inferior
+vena cava.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Tricuspid stenosis Management
+MANAGEMENT
+Approach
+The main goal of treatment is to relieve the symptoms that result from restricted diastolic filling of the right
+ventricle and diminished pulmonary blood flow.
+Symptomatic management
+Initial medical care consists of:
+• Assessment and treatment of the underlying etiology for the valvular pathology (e.g., antibiotics for
+bacterial endocarditis or somatostatin analogs for carcinoid syndrome)
+• Fluid and sodium restriction
+• Medications to treat cardiac arrhythmias secondary to right atrial distension (usually atrial fibrillation
+and/or flutter)
+• Pharmacotherapy with diuretics to reduce morbidity associated with systemic venous congestion.
+Activity is usually self-limited by the patient due to easy fatigability and diminished pulmonary blood flow.
+Surgery
+If right heart failure persists or if low cardiac output develops, surgical commissurotomy or valve
+replacement is indicated. Historically, the morbidity and mortality of tricuspid valve replacement have
+been very high, with most series reporting operative mortality in excess of 20%.[43] However, surgery
+on the tricuspid valve is most commonly carried out alongside surgery for other valve dysfunction, and
+many patients are treated later in the course of the disease.[36] Risk factors for mortality include urgent/
+emergent status, age >50 years, functional classification of heart failure, and elevated pulmonary artery
+pressures.[43]
+Successful percutaneous balloon valvotomy has been reported when the annulus size and subvalvar
+structures are normal.
+Once the pathology is corrected, dietary and activity restrictions are no longer necessary and medications
+may be weaned.
+Congenital tricuspid stenosis (TS)
+Infants with congenital TS often have incompletely developed cardiac valve leaflets, shortened
+or malformed chordae, small annuli, abnormal size, and number of the papillary muscles, or any
+combination of these defects. These patients usually have associated abnormalities of the pulmonary
+valve as well. In the most severe cases, the entire right heart is underdeveloped and incapable of
+handling an entire cardiac output.
+The infant with congenital TS may require single ventricle palliation (with an initial systemic-to-pulmonary
+artery shunt followed by a Fontan operation) or cardiac transplantation, plus preoperative prostaglandins
+and postoperative antiplatelet therapy. Alprostadil is given preoperatively. Infants should have frequent
+blood pressure checks and respiratory status should be monitored throughout treatment (e.g., continuous
+pulse oximetry). The duration and choice of antiplatelet therapy varies by institution. However, the most
+common protocol is to continue low-dose aspirin until the shunt is either taken down surgically or allowed
+to thrombose over time as the patient grows.
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Tricuspid stenosis Management
+TS with carcinoid heart disease
+Right heart failure should be treated with fluid and sodium restriction and use of diuretics. Somatostatin
+analogs (e.g., octreotide) have been shown to provide symptomatic improvement and improved
+perioperative survival.[44]
+Absolute and relative indications for intervention are not well established. Reviews have suggested that
+early valve intervention has better results compared with waiting for advanced disease.[45] However,
+early disease has not been clearly defined in the literature. Most authors support considering intervention
+at the onset of any cardiac-related symptoms or with the development of right ventricular dysfunction.
+Furthermore, expert guidelines recommend intervention in the following settings: severe TS (plus tricuspid
+regurgitation) with symptoms despite medical therapy; and severe TS (plus tricuspid regurgitation) in a
+patient undergoing left-sided valve intervention.[42]
+Some case reports have demonstrated that percutaneous balloon tricuspid dilatation is safe and effective
+for treating isolated severe TS in carcinoid heart disease.[46] However, the surgical approach is preferred
+by most experts, especially when there is concomitant regurgitation. Bioprosthetic valves are preferred
+and long-term results are promising.[47] [48] Concomitant replacement of affected pulmonary valves may
+also result in less right ventricular dilatation.[49] Valve surgery for carcinoid heart disease is of higher
+risk compared with most other forms of valve surgery; however, significant improvement in functional
+class has been reported in those who survive the surgery. Long-term complications generally relate to the
+tumor itself.[50]
+TS with rheumatic fever sequelae
+Mild to moderate disease:
+• Medical therapy for symptomatic patients is targeted towards relief of systemic venous congestion
+secondary to right heart failure and includes fluid and sodium restriction and diuretics to help
+decrease symptoms and improve hepatic function.
+Severe disease:
+• Surgical valve repair or replacement are the primary options. Warfarin therapy may be advised
+following either mechanical or bioprosthetic valve placement. Therefore, surgical repair is
+preferable to valve replacement whenever feasible. Successful percutaneous balloon valvotomy
+has been reported in some cases in which the annulus size and subvalvar structures were
+normal.[43] [51] [52][53] [54]
+• In rheumatic TS, the concomitant involvement of the mitral and aortic valve makes determining
+absolute and relative indications for tricuspid valve surgery very difficult. Usually the mitral valve
+is considered the most important valve to address as symptoms present much sooner and more
+frequently when it is affected. However, studies have shown that patients who have combined mitral
+and tricuspid valve repair have a better prognosis than those undergoing replacement of the mitral
+valve alone.[32] [55] However, a limited retrospective study has shown patients did well whether
+or not the tricuspid valve was surgically treated, or when treated they still had residual gradient.[3]
+Because rheumatic heart disease has declined in developed countries, literature on the long-
+term outcome of modern valve surgery for rheumatic disease is now scarce.[55] Evidence-based
+recommendations are therefore lacking. As rheumatic tricuspid stenosis is frequently associated
+with other valve lesions, indications for interventions should be based on symptoms and clinical
+consequences (global hemodynamic burden) of the valve lesion(s) and their interactions.[32]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Tricuspid stenosis Management
+MANAGEMENT
+TS with infective endocarditis
+Absolute indications for surgery for right-sided endocarditis:
+• Persistent bacteremia after 1 week of appropriate antibiotic therapy
+• Right ventricular dysfunction secondary to severe tricuspid regurgitation not manageable with
+diuretics
+• Respiratory failure requiring mechanical ventilation with recurrent pulmonary emboli
+• Involvement of left-sided heart structures
+• Large residual vegetations (>20 mm) with recurrent pulmonary emboli.[2]
+Relative indications for surgery:
+• Persistent bacteremia despite appropriate antibiotic therapy, candidal endocarditis, and large
+vegetations (>10 mm).
+No indications for surgery:
+• Appropriate antimicrobial therapy is initiated at the time of diagnosis, and further determined by the
+sensitivity of the organisms cultured. Duration is usually 4-6 weeks.[2]
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+congenital
+1st surgery + preoperative alprostadil
+plus postoperative antiplatelet therapy
+with carcinoid heart disease
+1st fluid and sodium restriction + loop diuretic
++ somatostatin analog + valve replacement
+surgery or balloon dilatation
+with rheumatic fever sequelae
+mild to moderate disease 1st fluid and sodium restriction + loop diuretic
+severe disease 1st surgical valve repair or replacement
+with infective endocarditis
+absolute indications for
+surgery
+1st appropriate antimicrobial therapy +
+surgery
+relative indications for
+surgery
+1st appropriate antimicrobial therapy +
+surgery
+no indications for
+surgery
+1st appropriate antimicrobial therapy
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Tricuspid stenosis Management
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Tricuspid stenosis Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+congenital
+1st surgery + preoperative alprostadil
+Primary options
+» alprostadil: neonates: 0.05 to 0.1
+micrograms/kg/minute intravenous infusion
+initially, adjust according to response, usual
+maintenance dose 0.01 to 0.4 micrograms/kg/
+minute until surgery
+» This represents a wide spectrum of disease
+that usually presents in early infancy due to
+cyanosis and right heart failure with ductal-
+dependent pulmonary blood flow (requiring
+continuous prostaglandin therapy to maintain
+ductal patency).
+» Infants may require single ventricle palliation
+(initial systemic-to-pulmonary artery shunt,
+second-stage hemi-Fontan or bidirectional Glenn
+procedure, and third-stage Fontan operation) or
+cardiac transplantation.
+» Alprostadil is given preoperatively. Infants
+should have frequent blood pressure checks
+and respiratory status should be monitored
+throughout treatment (e.g., continuous pulse
+oximetry).
+plus postoperative antiplatelet therapy
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» aspirin: neonates: 5-10 mg/kg/day orally
+» Aspirin is given postoperatively as an
+antiplatelet agent. The duration and choice
+of antiplatelet therapy varies by institution.
+However, the most common protocol is to
+continue low-dose aspirin until the shunt is either
+taken down surgically or allowed to thrombose
+over time as the patient grows.
+with carcinoid heart disease
+1st fluid and sodium restriction + loop diuretic
++ somatostatin analog + valve replacement
+surgery or balloon dilatation
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Tricuspid stenosis Management
+Acute
+Primary options
+» furosemide: adults: 20-80 mg orally every
+6-24 hours, maximum 600 mg/day
+-and-
+» octreotide: adults: 100-600 micrograms/day
+subcutaneously given in 2-4 divided doses for
+2 weeks, followed by 150 micrograms 3 times
+daily
+» Fluid and sodium restriction as well as the use
+of diuretics treat right heart failure.
+» Somatostatin analogs (e.g., octreotide)
+have been shown to provide symptomatic
+improvement and improved perioperative
+survival.[44]
+» Percutaneous balloon tricuspid dilatation is
+safe and effective for treating isolated severe
+TS in carcinoid heart disease and should be
+considered in those who are not operative
+candidates.[46]
+» Bioprosthetic valves are preferred and long-
+term results are promising.[47] [48] Concomitant
+replacement of affected pulmonary valves may
+also result in less right ventricular dilatation.[49]
+» Tricuspid valve repair is usually not feasible as
+the leaflets are so restricted that residual post-
+repair stenosis is highly likely.
+with rheumatic fever sequelae
+mild to moderate disease 1st fluid and sodium restriction + loop diuretic
+Primary options
+» furosemide: adults: 20-80 mg orally every
+6-24 hours, maximum 600 mg/day
+» Mild rheumatic tricuspid valve disease is
+usually asymptomatic and no specific therapy is
+indicated.
+» However, patients with more significant
+stenosis (or associated mitral and/or aortic valve
+disease) may present with symptoms of right
+heart failure (i.e., fatigue, dyspnea, abdominal
+discomfort, and swelling).
+» Initial medical therapy for symptomatic patients
+is targeted towards relief of systemic venous
+congestion and includes fluid and sodium
+restriction and diuretics to help decrease
+symptoms and improve hepatic function.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Tricuspid stenosis Management
+MANAGEMENT
+Acute
+severe disease 1st surgical valve repair or replacement
+» Severe rheumatic tricuspid valve disease is
+characterized by intractable right heart failure
+or low cardiac output that usually takes years to
+develop following the initial illness. In order to
+relieve symptoms and signs of right heart failure
+and diminished pulmonary blood flow due to
+obstruction to right ventricular inflow, surgical
+valve repair, or replacement are the primary
+options.
+» With tricuspid valve replacement, the risk of
+thrombosis is significant and many clinicians
+advise warfarin therapy following either
+mechanical or bioprosthetic valve placement.
+Therefore, surgical repair is preferable to valve
+replacement whenever feasible.[43] [53]
+» When the annulus size and subvalvar
+structures are normal, successful percutaneous
+balloon valvotomy has been reported.[51]
+[52] [54] The major adverse effect of balloon
+valvotomy is tricuspid regurgitation that may
+progress over time and ultimately require valve
+replacement.[32]
+with infective endocarditis
+absolute indications for
+surgery
+1st appropriate antimicrobial therapy +
+surgery
+» Absolute indications for tricuspid valve surgery
+include persistent bacteremia after appropriate
+antibiotic therapy for 1 week, right ventricular
+dysfunction secondary to severe tricuspid
+regurgitation, respiratory failure after recurrent
+pulmonary emboli, involvement of left-sided
+heart structures, large vegetations with recurrent
+pulmonary emboli.[2]
+» Surgery typically involves a midline
+sternotomy approach, central catheterization
+for cardiopulmonary bypass, and tricuspid
+valve replacement (with a bioprosthetic or
+mechanical valve) in a beating or arrested
+heart depending on the preference of the
+surgeon. Many clinicians advise warfarin therapy
+following either mechanical or bioprosthetic valve
+placement.
+» Appropriate antimicrobial therapy according
+to latest treatment guidelines is initiated at the
+time of diagnosis, and appropriate antibiotic
+or antifungal therapy is determined by the
+sensitivity of the organisms cultured. Effective
+therapy generally requires 4 to 6 weeks of
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Tricuspid stenosis Management
+Acute
+appropriate intravenous therapy. For certain
+organisms, synergy and increased efficacy may
+be achieved with a second antibiotic for the first
+2 weeks of therapy. See Infective endocarditis .
+relative indications for
+surgery
+1st appropriate antimicrobial therapy +
+surgery
+» Relative indications for surgery include
+persistent bacteremia despite appropriate
+antibiotic therapy, candidal endocarditis, and
+large vegetations (>10 mm).
+» Surgery typically involves a midline
+sternotomy approach, central catheterization
+for cardiopulmonary bypass, and tricuspid
+valve replacement (with a bioprosthetic or
+mechanical valve) in a beating or arrested
+heart depending on the preference of the
+surgeon. Many clinicians advise warfarin therapy
+following either mechanical or bioprosthetic valve
+placement.
+» Appropriate antimicrobial therapy according
+to latest treatment guidelines is initiated at the
+time of diagnosis and appropriate antibiotic
+or antifungal therapy is determined by the
+sensitivity of the organisms cultured. Effective
+therapy generally requires 4 to 6 weeks of
+appropriate intravenous therapy. For certain
+organisms, synergy and increased efficacy may
+be achieved with a second antibiotic for the first
+2 weeks of therapy. See Infective endocarditis .
+no indications for surgery 1st appropriate antimicrobial therapy
+» Infective endocarditis can affect both
+structurally normal and abnormal tricuspid
+valves.
+» Appropriate antimicrobial therapy according
+to latest treatment guidelines is initiated at the
+time of diagnosis, and appropriate antibiotic
+or antifungal therapy is determined by the
+sensitivity of the organisms cultured.
+» Effective therapy generally requires 4 to 6
+weeks of appropriate intravenous therapy. For
+certain organisms, synergy and increased
+efficacy may be achieved with a second
+antibiotic for the first 2 weeks of therapy. See
+Infective endocarditis .
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Tricuspid stenosis Management
+MANAGEMENT
+Emerging
+Transcatheter tricuspid valve replacement
+In patients who have undergone prior tricuspid valve replacement with a bioprosthetic valve (BPV) or tissue
+valve, eventual valve failure is inevitable. For high-risk operative patients, transcatheter tricuspid valve-
+in-valve (TVIV) replacement is now becoming a common intervention with either the Medtronic Melody™
+transcatheter pulmonary valve or the Edwards SAPIEN™ Transcatheter Heart Valve (THV).[56] [57] [58]
+[59] More trials are underway that will help to evaluate the effects of transcatheter TV therapies on clinical
+outcomes.[36] The framework of the previously placed BPV provides a landing zone for the transcatheter
+valve, which allows the interventional cardiologist to implant a new functional valve within the orifice of the
+old dysfunctional valve with a much lower risk than if a redo sternotomy and cardiopulmonary bypass were
+required.[60] [61]
+Primary prevention
+Primary prevention of rheumatic tricuspid stenosis includes prompt and complete antibiotic therapy in
+symptomatic patients with suspected group A streptococcal pharyngitis.[6][25] [26] Similarly, in patients with
+a documented history of acute rheumatic fever, secondary prevention or prophylaxis with long-term antibiotic
+therapy should be instituted following existing guidelines and recommendations.[6][25]
+Secondary prevention
+Endocarditis prophylaxis is recommended for all patients with prosthetic cardiac valves undergoing dental
+procedures that involve manipulation of gingival tissue or the periapical region of teeth or perforation of the
+oral mucosa.[2]
+Patient discussions
+If a patient with a prosthetic cardiac valve is due to undergo a dental procedure, this should be discussed
+with the dentist and physician to ensure antibiotic prophylaxis is administered if required. Patients are
+encouraged to lead an active lifestyle and exercise regularly under the supervision of their primary
+physician or cardiologist. Even in the absence of significant residual disease, exercise tolerance may be
+limited. Each patient should be encouraged to rest as needed during any exertional activity if worsening
+symptoms develop.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Tricuspid stenosis Follow up
+Monitoring
+Monitoring
+ECGs, chest x-rays, and echocardiograms should be performed annually to monitor for development or
+worsening of tricuspid stenosis and/or regurgitation.
+Patients not requiring surgery should have a follow-up visit with a cardiologist annually.
+Patients who underwent tricuspid surgery are typically seen in an outpatient cardiology clinic at 2 to 4
+weeks after hospital discharge, at 6 months and annually thereafter. For patients with mechanical valve
+prostheses, warfarin dosing is adjusted on an outpatient basis according to the international normalized
+ratio (INR).
+Endocarditis prophylaxis is recommended for all patients with prosthetic cardiac valves undergoing dental
+procedures that involve manipulation of gingival tissue or the periapical region of teeth or perforation of
+the oral mucosa.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Tricuspid stenosis Follow up
+FOLLOW UP
+Complications
+Complications Timeframe Likelihood
+surgical complications short term low
+Postoperative complications following tricuspid valve repair or replacement include pneumothorax,
+hemothorax, pericardial tamponade and arrhythmias (including third-degree atrioventricular block).
+Appropriate therapy for pneumothorax or hemothorax is placement of a chest tube.
+Pericardial tamponade is relieved by reopening the chest and evacuating blood and thrombus.
+Arrhythmias are treated with appropriate antiarrhythmic medications and third-degree atrioventricular block
+is treated with atrioventricular synchronous pacing using temporary atrial and ventricular pacing wires
+(placed intraoperatively).
+bacterial endocarditis variable low
+Dysplastic valves and prosthetic valves are prone to endocarditis (particularly associated with high-risk
+dental procedures).
+If a patient develops endocarditis, appropriate antimicrobial therapy should be instituted immediately and
+continued for a full 6-week course.[2]
+prosthetic valve failure variable low
+Mechanical valves may fail due to thrombosis. In order to prevent this complication, patients are treated
+with anticoagulant therapy (e.g., warfarin).[53]
+If a mechanical valve fails in the closed position, the patient will present with signs and symptoms of acute,
+severe tricuspid stenosis (TS). If the valve fails in the open position, the patient will present with signs and
+symptoms of acute, severe tricuspid regurgitation.
+Bioprosthetic valves may fail due to progressive calcification and patients may develop signs and
+symptoms of either TS or regurgitation.
+Prognosis
+Mild to moderate (asymptomatic) tricuspid stenosis
+In the absence of progression to severe disease, prognosis is good. Isolated mild to moderate tricuspid
+stenosis (TS) is well tolerated and rarely requires intervention. Progression to severe TS is common in
+patients with carcinoid heart disease if the malignancy is not treated. The frequency of progression to severe
+TS in rheumatic valve disease is variable. Regardless of the etiology, a follow-up visit with a cardiologist is
+recommended annually.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Tricuspid stenosis Follow up
+Severe (symptomatic) tricuspid stenosis
+Once symptoms occur, medical therapy is instituted and valve intervention is considered. For most, surgery
+(valve repair or replacement) will be the most likely treatment option offered. Perioperative mortality related
+to valve repair and replacement continues to be relatively high in the carcinoid group despite significant
+improvements in surgical and anesthetic techniques. Studies have demonstrated perioperative mortality
+ranging from 9% to 20%.[63] [64] Right ventricular dilatation, systolic dysfunction, and advanced New York
+Heart Association (NYHA) class have been implicated in those who suffered poor perioperative outcomes.
+Perioperative mortality with valve replacement in patients with TS secondary to other causes is much lower,
+likely due to a decreased incidence of coexisting tricuspid regurgitation and right ventricular dilatation.
+Following successful tricuspid valve repair or replacement, symptoms of right heart failure will generally
+subside within 6 months and the overall prognosis for these patients is very good. Heart failure is the
+predominant cause of early and late deaths, emphasizing the importance of timely referral before the
+development of end-stage cardiac disease.[43]
+Long-term survival for tricuspid valve replacement in carcinoid heart disease has been reported to be as
+high as 100% at median follow-up of 37 months.[64] Other studies reporting results of valve replacement for
+various acquired heart conditions have shown only modest results with 50% survival at 10 and 15 years.[43]
+[47] [63] [64]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Tricuspid stenosis Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR guideline for the evaluation
+and diagnosis of chest pain (https://professional.heart.org/en/guidelines-and-
+statements/guidelines-and-statements-search)   [40]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2021
+2020 ACC/AHA guideline for the management of patients with valvular heart
+disease (https://www.acc.org/guidelines)   [41]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2021
+Clinical practice guideline for the diagnosis and management
+of group A streptococcal pharyngitis: 2012 update (https://
+pubmed.ncbi.nlm.nih.gov/23091044)   [26]
+Published by: Infectious Diseases Society of America Last published: 2012
+2023 ESC guidelines for the management of endocarditis (https://
+doi.org/10.1093/eurheartj/ehad193)   [2]
+Published by: European Society of Cardiology Last published: 2023
+2021 ESC/EACTS guidelines for the management of valvular heart disease
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [42]
+Published by: European Society of Cardiology Last published: 2021
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Tricuspid stenosis Guidelines
+Treatment guidelines
+International
+The tricuspid valve: a review of pathology, imaging and current treatment
+options: a scientific statement from the American Heart Association (https://
+www.ahajournals.org/doi/full/10.1161/CIR.0000000000001232)   [36]
+Published by: American Heart Association Last published: 2024
+2020 ACC/AHA guideline for the management of patients with valvular heart
+disease (https://www.acc.org/guidelines)   [41]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2021
+Clinical practice guideline for the diagnosis and management
+of group A streptococcal pharyngitis: 2012 update (https://
+pubmed.ncbi.nlm.nih.gov/23091044)   [26]
+Published by: Infectious Diseases Society of America Last published: 2012
+Prevention of rheumatic fever and diagnosis and treatment of acute
+streptococcal pharyngitis (https://professional.heart.org/en/guidelines-and-
+statements)   [62]
+Published by: American Heart Association Last published: 2009
+2023 ESC guidelines for the management of endocarditis (https://
+doi.org/10.1093/eurheartj/ehad193)   [2]
+Published by: European Society of Cardiology Last published: 2023
+2021 ESC/EACTS guidelines for the management of valvular heart disease
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [42]
+Published by: European Society of Cardiology Last published: 2021
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Tricuspid stenosis References
+REFERENCES
+Key articles
+• WHO guideline on the prevention and diagnosis of rheumatic fever and rheumatic heart disease
+[Internet]. Geneva: World Health Organization; 2024.  Full text (https://www.ncbi.nlm.nih.gov/books/
+NBK609707)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/39631006?tool=bestpractice.bmj.com)
+• Vahanian A, Beyersdorf F, Praz F, et al. 2021 ESC/EACTS guidelines for the management of valvular
+heart disease. EuroIntervention. 2022 Feb 4;17(14):e1126-96.  Full text (https://www.doi.org/10.4244/
+EIJ-E-21-00009)
+• Writing Committee Members., Otto CM, Nishimura RA, et al. 2020 ACC/AHA Guideline for the
+management of patients with valvular heart disease: a report of the American College of Cardiology/
+American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2021
+Feb 2;77(4):e25-e197.  Full text (https://www.doi.org/10.1016/j.jacc.2020.11.018)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33342586?tool=bestpractice.bmj.com)
+References
+1. Andreas M, Burri H, Praz F, et al. Tricuspid valve disease and cardiac implantable electronic devices.
+Eur Heart J. 2024 Feb 1;45(5):346-65.  Full text (https://www.doi.org/10.1093/eurheartj/ehad783)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/38096587?tool=bestpractice.bmj.com)
+2. Delgado V, Ajmone Marsan N, de Waha S, et al. 2023 ESC guidelines for the management of
+endocarditis. Eur Heart J. 2023 Oct 14;44(39):3948-4042.  Full text (https://www.doi.org/10.1093/
+eurheartj/ehad193)
+3. Roguin A, Rinkevich D, Milo S, et al. Long-term follow-up of patients with severe rheumatic tricuspid
+stenosis. Am Heart J. 1998 Jul;136(1):103-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9665226?
+tool=bestpractice.bmj.com)
+4. Diker E, Aydogdu S, Ozdemir M, et al. Prevalence and predictors of atrial fibrillation in rheumatic
+valvular heart disease. Am J Cardiol. 1996 Jan 1;77(1):96-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8540469?tool=bestpractice.bmj.com)
+5. El-Sherif N. Rheumatic tricuspid stenosis: a haemodynamic correlation. Br Heart J. 1971
+Jan;33(1):16-31.  Full text (http://heart.bmj.com/content/heartjnl/33/1/16.full.pdf)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/5100362?tool=bestpractice.bmj.com)
+6. WHO guideline on the prevention and diagnosis of rheumatic fever and rheumatic heart disease
+[Internet]. Geneva: World Health Organization; 2024.  Full text (https://www.ncbi.nlm.nih.gov/books/
+NBK609707)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/39631006?tool=bestpractice.bmj.com)
+7. Watkins DA, Johnson CO, Colquhoun SM, et al. Global, regional, and national burden of
+rheumatic heart disease, 1990-2015. N Engl J Med. 2017 Aug 24;377(8):713-22.  Full text (https://
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Tricuspid stenosis References
+www.doi.org/10.1056/NEJMoa1603693)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28834488?
+tool=bestpractice.bmj.com)
+8. Horstkotte D, Niehues R, Strauer BE. Pathomorphological aspects, aetiology and natural history
+of acquired mitral valve stenosis. Eur Heart J. 1991 Jul;12 Suppl B:55-60. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1936027?tool=bestpractice.bmj.com)
+9. Majeed HA, Batnager S, Yousof AM, et al. Acute rheumatic fever and the evolution of rheumatic heart
+disease: a prospective 12 year follow-up report. J Clin Epidemiol. 1992 Aug;45(8):871-5. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/1624969?tool=bestpractice.bmj.com)
+10. Hauck AJ, Freeman DP, Ackermann DM, et al. Surgical pathology of the tricuspid valve: a study
+of 363 cases spanning 25 years. Mayo Clin Proc. 1988 Sep;63(9):851-63. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3045434?tool=bestpractice.bmj.com)
+11. Raman SV, Sparks EA, Boudoulas H, et al. Tricuspid valve disease: tricuspid valve complex
+perspective. Curr Probl Cardiol. 2002 Mar;27(3):103-42. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11979238?tool=bestpractice.bmj.com)
+12. Essop MR, Nkomo VT. Rheumatic and nonrheumatic valvular heart disease: epidemiology,
+management, and prevention in Africa. Circulation. 2005 Dec 6;112(23):3584-91.  Full text
+(http://circ.ahajournals.org/content/112/23/3584.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16330700?tool=bestpractice.bmj.com)
+13. Goswami KC, Rao MB, Dev V, et al. Juvenile tricuspid stenosis and rheumatic tricuspid valve
+disease: an echocardiographic study. Int J Cardiol. 1999 Dec 15;72(1):83-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10636636?tool=bestpractice.bmj.com)
+14. Yousof AM, Shafei MZ, Endrys G, et al. Tricuspid stenosis and regurgitation in rheumatic heart
+disease: a prospective cardiac catheterization study in 525 patients. Am Heart J. 1985 Jul;110(1 Pt
+1):60-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/4013991?tool=bestpractice.bmj.com)
+15. Kitchin A, Turner R. Diagnosis and treatment of tricuspid stenosis. Br Heart J. 1964 May;26:354-79. 
+Full text (http://heart.bmj.com/content/heartjnl/26/3/354.full.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/14156086?tool=bestpractice.bmj.com)
+16. Lawrence JG, Carapetis JR, Griffiths K, et al. Acute rheumatic fever and rheumatic heart disease:
+incidence and progression in the Northern Territory of Australia, 1997 to 2010. Circulation. 2013 Jul
+30;128(5):492-501.  Full text (https://www.doi.org/10.1161/CIRCULATIONAHA.113.001477)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/23794730?tool=bestpractice.bmj.com)
+17. Sultan FA, Moustafa SE, Tajik J, et al. Rheumatic tricuspid valve disease: an evidence-based
+systematic overview. J Heart Valve Dis. 2010 May;19(3):374-82. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20583402?tool=bestpractice.bmj.com)
+18. Fox DJ, Khattar RS. Carcinoid heart disease: presentation, diagnosis, and management.
+Heart. 2004 Oct;90(10):1224-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15367531?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Tricuspid stenosis References
+REFERENCES
+19. Davar J, Connolly HM, Caplin ME, et al. Diagnosing and managing carcinoid heart disease in patients
+with neuroendocrine tumors: an expert statement. J Am Coll Cardiol. 2017 Mar 14;69(10):1288-304. 
+Full text (https://www.doi.org/10.1016/j.jacc.2016.12.030)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28279296?tool=bestpractice.bmj.com)
+20. Cunningham MW. Rheumatic fever, autoimmunity, and molecular mimicry: the streptococcal
+connection. Int Rev Immunol. 2014 Jul-Aug;33(4):314-29.  Full text (https://pmc.ncbi.nlm.nih.gov/
+articles/PMC4669348)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24892819?
+tool=bestpractice.bmj.com)
+21. Reichek N, Shelburne JC, Perloff JK. Clinical aspects of rheumatic valvular disease. Prog Cardiovasc
+Dis. 1973 Mar-Apr;15(5):491-537. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/4571260?
+tool=bestpractice.bmj.com)
+22. Stevens D, Kaplan E. Streptococcal infections. Clinical aspects, microbiology and molecular
+pathogenesis. New York, NY: Oxford University Press; 2000:102-32.
+23. Kaplan EL, Wotton JT, Johnson DR. Dynamic epidemiology of group A streptococcal
+serotypes associated with pharyngitis. Lancet. 2001 Oct 20;358(9290):1334-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11684215?tool=bestpractice.bmj.com)
+24. Bisno AL, Brito MO, Collins CM. Molecular basis of group A streptococcal virulence. Lancet
+Infect Dis. 2003 Apr;3(4):191-200. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12679262?
+tool=bestpractice.bmj.com)
+25. Dajani A, Taubert K, Ferrieri P, et al. Treatment of acute streptococcal pharyngitis and prevention of
+rheumatic fever: a statement for health professionals. Committee on Rheumatic Fever, Endocarditis,
+and Kawasaki Disease of the Council on Cardiovascular Disease in the Young, the American
+Heart Association. Pediatrics. 1995 Oct;96(4 Pt 1):758-64. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7567345?tool=bestpractice.bmj.com)
+26. Shulman ST, Bisno AL, Clegg HW, et al; Infectious Diseases Society of America. Clinical practice
+guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by
+the Infectious Diseases Society of America. Clin Infect Dis. 2012 Nov 15;55(10):e86-102.  Full text
+(https://academic.oup.com/cid/article/55/10/e86/321183)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22965026?tool=bestpractice.bmj.com)
+27. Coffey S, Rayner J, Newton J, et al. Right-sided valve disease. Int J Clin Pract. 2014
+Oct;68(10):1221-6.  Full text (https://www.doi.org/10.1111/ijcp.12485)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25269950?tool=bestpractice.bmj.com)
+28. Carapetis JR, Beaton A, Cunningham MW, et al. Acute rheumatic fever and rheumatic heart
+disease. Nat Rev Dis Primers. 2016 Jan 14;2:15084.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/
+PMC5810582)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27188830?tool=bestpractice.bmj.com)
+29. Khalique OK, Cavalcante JL, Shah D, et al. Multimodality imaging of the tricuspid valve and
+right heart anatomy. JACC Cardiovasc Imaging. 2019 Mar;12(3):516-31.  Full text (https://
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Tricuspid stenosis References
+www.doi.org/10.1016/j.jcmg.2019.01.006)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30846125?
+tool=bestpractice.bmj.com)
+30. Oh JK, Tajik AJ, Seward JB. The echo manual. 3rd ed. Philadelphia, PA: Lippincott Williams & Wilkins;
+2006.
+31. Baumgartner H, Hung J, Bermejo J, et al; American Society of Echocardiography, European
+Association of Echocardiography. Echocardiographic assessment of valve stenosis: EAE/ASE
+recommendations for clinical practice. J Am Soc Echocardiogr. 2009 Jan;22(1):1-23. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19130998?tool=bestpractice.bmj.com)
+32. Vahanian A, Beyersdorf F, Praz F, et al. 2021 ESC/EACTS guidelines for the management of valvular
+heart disease. EuroIntervention. 2022 Feb 4;17(14):e1126-96.  Full text (https://www.doi.org/10.4244/
+EIJ-E-21-00009)
+33. British Society of Echocardiography. Echocardiography: valve disease assessment. Mar 2022 [internet
+publication].  Full text (https://www.bsecho.org/common/Uploaded%20files/Education/Posters/
+PUA006-Valve-disease-assessment-poster_print-ready.pdf)
+34. Sandmann H, Pakkal M, Steeds R. Cardiovascular magnetic resonance imaging in the assessment
+of carcinoid heart disease. Clin Radiol. 2009 Aug;64(8):761-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19589414?tool=bestpractice.bmj.com)
+35. Bhattacharyya S, Toumpanakis C, Burke M, et al. Features of carcinoid heart disease identified by
+two- and three-dimensional echocardiography and cardiac MRI. Circ Cardiovasc Imaging. 2010
+Jan;3(1):103-11. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19920029?tool=bestpractice.bmj.com)
+36. Davidson LJ, Tang GHL, Ho EC, et al. The tricuspid valve: a review of pathology, imaging, and current
+treatment options: a scientific statement from the American Heart Association. Circulation. 2024 May
+28;149(22):e1223-38.  Full text (https://www.doi.org/10.1161/CIR.0000000000001232)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/38660790?tool=bestpractice.bmj.com)
+37. Perloff PK, Harvey WP. Clinical recognition of tricuspid stenosis. Circulation. 1960 Sep;22:346-64.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/13734436?tool=bestpractice.bmj.com)
+38. Fawzy ME, Mercer EN, Dunn B, et al. Doppler echocardiography in the evaluation of tricuspid
+stenosis. Eur Heart J. 1989 Nov;10(11):985-90. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/2591399?tool=bestpractice.bmj.com)
+39. Ha JW, Chung N, Jang Yet al. Tricuspid stenosis and regurgitation: Doppler and color flow
+echocardiography and cardiac catheterization findings. Clin Cardiol. 2000 Jan;23(1):51-2. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/10680030?tool=bestpractice.bmj.com)
+40. Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline
+for the evaluation and diagnosis of chest pain: a report of the American College of Cardiology/
+American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021 Nov
+30;144(22):e368-e454.  Full text (https://www.doi.org/10.1161/CIR.0000000000001029)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/34709879?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Tricuspid stenosis References
+REFERENCES
+41. Writing Committee Members., Otto CM, Nishimura RA, et al. 2020 ACC/AHA Guideline for the
+management of patients with valvular heart disease: a report of the American College of Cardiology/
+American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2021
+Feb 2;77(4):e25-e197.  Full text (https://www.doi.org/10.1016/j.jacc.2020.11.018)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33342586?tool=bestpractice.bmj.com)
+42. Vahanian A, Beyersdorf F, Praz F, et al. 2021 ESC/EACTS Guidelines for the management
+of valvular heart disease. Eur Heart J. 28 Aug 2021 [Epub ahead of print].  Full text (https://
+www.doi.org/10.1093/eurheartj/ehab395)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34453165?
+tool=bestpractice.bmj.com)
+43. Filsoufi F, Anyanwu AC, Salzberg SP, et al. Long-term outcomes of tricuspid valve
+replacement in the current era. Ann Thorac Surg. 2005 Sep;80(3):845-50.  Full text (https://
+www.annalsthoracicsurgery.org/article/S0003-4975(04)02464-6/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16122441?tool=bestpractice.bmj.com)
+44. Marsh H, Martin K, Kvols L, et al. Carcinoid crises during anesthesia: successful treatment with a
+somatostatin analogue. Anesthesiology. 1987 Jan;66(1):89-91. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/2432806?tool=bestpractice.bmj.com)
+45. Bhattacharyya S, Davar J, Dreyfus G, et al. Carcinoid heart disease. Circulation. 2007
+Dec 11;116(24):2860-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18071089?
+tool=bestpractice.bmj.com)
+46. Oñate A, Alcibar J, Inguanzo R, et al. Balloon dilation of tricuspid and pulmonary valves in carcinoid
+heart disease. Tex Heart Inst J. 1993;20(2):115-9.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC325073/pdf/thij00041-0053.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8334362?
+tool=bestpractice.bmj.com)
+47. Scully HE, Armstrong CS. Tricuspid valve replacement. Fifteen years of experience with mechanical
+prostheses and bioprostheses. J Thorac Cardiovasc Surg. 1995 Jun;109(6):1035-41. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7776666?tool=bestpractice.bmj.com)
+48. Connolly HM, Nishimura RA, Smith HC, et al. Outcome of cardiac surgery for carcinoid heart disease.
+J Am Coll Cardiol. 1995 Feb;25(2):410-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7829795?
+tool=bestpractice.bmj.com)
+49. Connolly HM, Schaff HV, Mullany CJ, et al. Carcinoid heart disease: impact of pulmonary valve
+replacement in right ventricular function and remodeling. Circulation. 2002 Sep 24;106(12 Suppl
+1):I51-6.  Full text (http://circ.ahajournals.org/content/106/12_suppl_1/I-51.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12354709?tool=bestpractice.bmj.com)
+50. Bhattacharyya S, Raja SG, Toumpanakis C, et al. Outcomes, risks and complications of cardiac
+surgery for carcinoid heart disease. Eur J Cardiothorac Surg. 2011 Jul;40(1):168-72.  Full text
+(https://academic.oup.com/ejcts/article/40/1/168/600451)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21156347?tool=bestpractice.bmj.com)
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Tricuspid stenosis References
+51. Sancaktar O, Kumbasar SD, Semiz E, et al. Late results of combined percutaneous balloon
+valvuloplasty of mitral and tricuspid valves. Cathet Cardiovasc Diagn. 1998 Nov;45(3):246-50. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/9829880?tool=bestpractice.bmj.com)
+52. Ribeiro PA, al Zaibag M, Idris MT. Percutaneous double balloon tricuspid valvotomy for severe
+tricuspid stenosis: 3-year follow-up study. Eur Heart J. 1990 Dec;11(12):1109-12. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2292258?tool=bestpractice.bmj.com)
+53. Cheng A, Malkin C, Briffa NP. Antithrombotic therapy after heart valve intervention: review of
+mechanisms, evidence and current guidance. Heart. 2023 Dec 20;110(2):87-93. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37438054?tool=bestpractice.bmj.com)
+54. Yeter E, Ozlem K, Kiliç H, et al. Tricuspid balloon valvuloplasty to treat tricuspid stenosis. J Heart Valve
+Dis. 2010 Jan;19(1):159-60.
+55. Bernal JM, Pontón A, Diaz B, et al. Combined mitral and tricuspid valve repair in rheumatic
+valve disease: fewer reoperations with prosthetic ring annuloplasty. Circulation. 2010 May
+4;121(17):1934-40.  Full text (https://www.doi.org/10.1161/CIRCULATIONAHA.109.894873)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/20404254?tool=bestpractice.bmj.com)
+56. Tzifa A, Momenah T, Al Sahari A, et al. Transcatheter valve-in-valve implantation in the tricuspid
+position. EuroIntervention. 2014 Dec;10(8):995-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24755248?tool=bestpractice.bmj.com)
+57. Hoendermis ES, Douglas YL, van den Heuvel AF. Percutaneous Edwards SAPIEN valve implantation
+in the tricuspid position: case report and review of literature. EuroIntervention. 2012 Sep;8(5):628-33.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22995090?tool=bestpractice.bmj.com)
+58. Sorajja P, Whisenant B, Hamid N, et al. Transcatheter repair for patients with tricuspid regurgitation. N
+Engl J Med. 2023 May 18;388(20):1833-42.  Full text (https://www.doi.org/10.1056/NEJMoa2300525)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36876753?tool=bestpractice.bmj.com)
+59. Sala A, Hahn RT, Kodali SK, et al. Tricuspid valve regurgitation: current understanding and novel
+treatment options. J Soc Cardiovasc Angiogr Interv. 2023 Sep-Oct;2(5):101041.  Full text (https://
+www.doi.org/10.1016/j.jscai.2023.101041)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/39132395?
+tool=bestpractice.bmj.com)
+60. Cullen MW, Cabalka AK, Alli OO, et al. Transvenous, antegrade Melody valve-in-valve implantation
+for bioprosthetic mitral and tricuspid valve dysfunction: a case series in children and adults. JACC
+Cardiovasc Interv. 2013 Jun;6(6):598-605. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23683739?
+tool=bestpractice.bmj.com)
+61. Roberts PA, Boudjemline Y, Cheatham JP, et al. Percutaneous tricuspid valve replacement in
+congenital and acquired heart disease. J Am Coll Cardiol. 2011 Jul 5;58(2):117-22.  Full text (http://
+www.onlinejacc.org/content/58/2/117)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21718905?
+tool=bestpractice.bmj.com)
+62. Gerber MA, Baltimore RS, Eaton CB, et al. Prevention of rheumatic fever and diagnosis and
+treatment of acute Streptococcal pharyngitis. Circulation. 2009 Mar 24;119(11):1541-51.  Full
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Tricuspid stenosis References
+REFERENCES
+text (http://circ.ahajournals.org/content/119/11/1541.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19246689?tool=bestpractice.bmj.com)
+63. Møller JE, Pellikka PA, Bernheim AM, et al. Prognosis of carcinoid heart disease: analysis
+of 200 cases over two decades. Circulation. 2005 Nov 22;112(21):3320-7.  Full text (http://
+circ.ahajournals.org/content/112/21/3320.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16286584?tool=bestpractice.bmj.com)
+64. Castillo JG, Filsoufi F, Rahmanian PB, et al. Early and late results of valvular surgery for carcinoid
+heart disease. J Am Coll Cardiol. 2008 Apr 15;51(15):1507-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18402908?tool=bestpractice.bmj.com)
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Tricuspid stenosis Images
+Images
+Figure 1: Congenital tricuspid valve stenosis: 2D transthoracic echocardiogram apical 4 chamber view reveals
+a small tricuspid valve annulus (dash), RV hypoplasia, and a large atrial septal defect (ASD, arrow)
+From the personal collection of Martin Bocks; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Tricuspid stenosis Images
+IMAGES
+Figure 2: Hemodynamic tracings obtained during cardiac catheterization from a woman with moderate to
+severe rheumatic tricuspid valve stenosis
+From the personal collection of Martin Bocks; used with permission
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Tricuspid stenosis Images
+Figure 3: Echocardiogram with color Doppler reveals flow acceleration across the tricuspid valve and spectral
+Doppler reveals a mean TV gradient of 6 mmHg
+From the personal collection of Martin Bocks; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Tricuspid stenosis Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Tricuspid stenosis Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 02, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Contributors:
+// Authors:
+John R. Charpie, MD, PhD
+Professor
+Pediatrics and Communicable Diseases, Division Director, Pediatric Cardiology, Medical Director, Pediatric
+Cardiothoracic ICU, University of Michigan Congenital Heart Center, Ann Arbor, MI
+DISCLOSURES: JRC declares that he has no competing interests.
+Jeffrey D. Zampi, MD
+Associate Professor
+Pediatrics and Communicable Diseases, Director, Interventional Pediatric Cardiology, University of Michigan
+Congenital Heart Center, Ann Arbor, MI
+DISCLOSURES: JZ is a consultant for Medtronic Inc and Gore Medical. JZ serves on the data safety
+monitoring board for a clinical trial sponsored by Encore Medical. JZ has served as medical expert for
+several legal cases.
+Amanda D. McCormick MD,
+Assistant Professor
+Pediatrics and Communicable Diseases, University of Michigan Congenital Heart Center, Ann Arbor, MI
+DISCLOSURES: ADM receives grant funding from the NIH.
+// Acknowledgements:
+Dr John R. Charpie, Dr Jeffrey D. Zampi, and Dr Amanda D. McCormick would like to gratefully
+acknowledge Dr Martin L. Bocks, a previous contributor to this topic.
+DISCLOSURES: MLB declares that he has no competing interests.
+// Peer Reviewers:
+Lokesh Tejwani, MD, FACC
+Assistant Professor of Clinical Medicine
+University of Missouri Hospitals and Clinics, Harry S. Truman VA Hospital, Columbia, MO
+DISCLOSURES: LT declares that he has no competing interests.
+John Coltart, MD, FRCP, FACC, FESC, MRCS
+Consultant Cardiologist
+Cardio-thoracic Unit, Guy's and St Thomas' Hospital, London, UK
+DISCLOSURES: JC declares that he has no competing interests.

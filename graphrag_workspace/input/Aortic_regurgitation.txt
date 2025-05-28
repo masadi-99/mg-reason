@@ -1,0 +1,1713 @@
+# Aortic regurgitation
+
+=== Page 1 ===
+Aortic regurgitation
+Straight to the point of care
+Last updated: Dec 12, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  5
+Classification  6
+Case history  6
+Diagnosis  8
+Approach  8
+History and exam  11
+Risk factors  14
+Tests  16
+Differentials  22
+Criteria  23
+Management  25
+Approach  25
+Treatment algorithm overview  26
+Treatment algorithm  28
+Primary prevention  31
+Secondary prevention  31
+Patient discussions  31
+Follow up  33
+Monitoring  33
+Complications  34
+Prognosis  35
+Guidelines  36
+Diagnostic guidelines  36
+Treatment guidelines  37
+References  38
+Images  43
+Disclaimer  51
+=== Page 3 ===
+Aortic regurgitation Overview
+Summary
+Aortic regurgitation (AR) can be caused by primary disease of the aortic valve leaflets or dilation of the aortic
+root. It may develop acutely (acute AR) or over decades (chronic AR).
+Chronic AR may be asymptomatic for years until overt symptoms of congestive heart failure develop. Initial
+symptoms can include palpitations and uncomfortable awareness of the pounding heart when lying on the
+left side.
+Acute AR is a medical emergency, presenting with sudden onset of pulmonary edema and hypotension or
+cardiogenic shock. May also present as myocardial ischemia or aortic root dissection.
+Echocardiography is the best noninvasive test to diagnose and grade the severity of AR.
+Vasodilator therapy improves hemodynamics and delays the need for aortic valve replacement/repair (AVR)
+in asymptomatic patients with chronic severe AR.
+AVR is indicated in symptomatic patients or asymptomatic patients with LV ejection fraction (EF) ≤55%.
+AVR could also be considered for asymptomatic patients with severe AR and LVEF >55% and if LV end-
+systolic diameter is >50 mm (>25 mm/m²).
+Definition
+Aortic regurgitation (AR) is the diastolic leakage of blood from the aorta into the left ventricle. It occurs due
+to inadequate coaptation of valve leaflets resulting from either intrinsic valve disease or dilation of the aortic
+root. It can remain asymptomatic for decades before patients present with irreversible myocardial damage.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Aortic regurgitation Theory
+THEORY
+Epidemiology
+AR is not as common as aortic stenosis and mitral regurgitation. One US study showed a prevalence of 13%
+in men and 8.5% in women with most being trace or mild; a prevalence of 15.6% was reported in African-
+Americans.[3] Prevalence increases with age in both sexes.[4] Prevalence of moderate to severe AR has
+been estimated to be about 0.5% of the total US population.[5]
+Data from a large registry show that both men and women have equal proportion of different morphologic
+types of bicuspid aortic valve, but men tend to present with moderate to severe AR while women tend to
+present more commonly with moderate to severe aortic stenosis.[6]
+Etiology
+AR can be caused by primary disease of the aortic valve leaflets or dilation of the aortic root. In developing
+countries rheumatic heart disease is the most common cause, but congenital bicuspid aortic valve and aortic
+root dilation account for most of the cases in developed countries.[1] Causes of aortic root dilation include
+Marfan syndrome, related connective tissue diseases, and aortitis secondary to syphilis, Behcet, Takayasu,
+reactive arthritis, or ankylosing spondylitis. Endocarditis can lead to rupture of leaflets or even paravalvular
+leaks. Vegetations on the valvular cusps can also cause inadequate closure of leaflets, resulting in leakage
+of blood.[7] Aortic root dissection is a cause of acute AR.
+AR may develop acutely (acute AR) or over a period of many years in progressively increasing severity
+(chronic AR). An analysis of the causes of AR in patients >20 years of age undergoing isolated aortic valve
+replacement/repair (AVR) in a single US tertiary center from 1993-2005, found nonvalvular causes accounted
+for 54% of cases and valvular causes for 46%. Acute AR was responsible for only 18% of AVR, and, of
+these, 56% resulted from active infective endocarditis and 44% from aortic dissection. Aortic enlargement
+from unclear etiology was the most common cause of chronic AR, accounting for 34% of the total, followed
+by bicuspid congenital malformation (22% of total). Older patients most commonly had an unclear etiology.[8]
+The role of systemic hypertension in aortic root dilation leading to AR is a frequent source of debate. Aortic
+root diameter at the supra-aortic ridge, which is the site of commissural attachment, is significantly greater in
+hypertensive patients than in age- and sex-matched normotensive patients.[9]
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Aortic regurgitation Theory
+Causes of AR
+Dr Sanjeev Wasson and Dr Nishant Kalra; used with permission
+Pathophysiology
+AR can present acutely or over decades.
+Acute AR is a medical emergency with high mortality and results in an acute rise in left atrial pressure,
+pulmonary edema, and cardiogenic shock.
+During acute AR:
+• End-diastolic pressure in the left ventricle rises sharply.
+• The heart tries to compensate by increasing the heart rate and increasing the contractility (Starling's
+law) to keep up with the increased preload, but this is insufficient to maintain the normal stroke volume
+and fails.
+Chronic progressive AR results in:
+• Both left ventricular volume and pressure overload.
+• An increase in left ventricular volume and pressure causes an increase in wall tension.
+• According to Laplace's law, wall tension is directly proportional to the product of cavity pressure and
+radius, and inversely proportional to wall thickness.
+• To compensate for the increased wall tension, the heart wall undergoes hypertrophy. Both concentric
+and eccentric hypertrophy can occur but most are eccentric. Eccentric hypertrophy, in which
+sarcomeres are laid down in series, results from volume overload; concentric hypertrophy, in which
+sarcomeres replicate in parallel, results from pressure overload from increased systolic pressure to
+normalize the end-systolic stress.[10]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Aortic regurgitation Theory
+THEORY
+• Systolic hypertension occurs secondary to increased stroke volume, which combines both regurgitant
+and forward stroke volume.
+• The volume overload, which is directly related to the severity of the leak, results in an increase in left
+ventricular end-diastolic volume.
+• End-diastolic pressure remains normal due to an increase in ventricular compliance resulting from
+increased cavity size.
+In chronic AR, most patients remain asymptomatic for decades, as the left ventricle maintains forward stroke
+volume with compensatory chamber enlargement and hypertrophy. Eventually, the left ventricular systolic
+dysfunction supervenes and left ventricular end-diastolic pressure rises resulting in symptomatic congestive
+heart failure. Timing AVR before irreversible myocardial dysfunction develops is of critical importance.
+Classification
+Acute aortic regurgitation: clinically accepted criteria
+A medical emergency where the left heart rapidly decompensates due to its inability to handle a sudden
+increase in end-diastolic volume. Most commonly it results from aortic dissection or endocarditis and, in rare
+cases, trauma.
+Chronic aortic regurgitation: clinically accepted criteria
+Chronic regurgitation has a prolonged course over a period of months to years. The left ventricle is able to
+compensate for volume overload initially but then decompensates with the appearance of clinical symptoms
+of congestive heart failure.
+Case history
+Case history #1
+A 55-year-old white man presents with weakness, palpitations, and dyspnea on exertion. On physical
+exam, his blood pressure is 148/50 mmHg with a bounding pulse and an early diastolic murmur over the
+left sternal border. He denies any history of drug abuse, rheumatic fever, or connective tissue disorder.
+The patient is taking hydrochlorothiazide for high blood pressure. Echocardiography reveals a left
+ventricular ejection fraction (LVEF) of 55%, left ventricular end-diastolic diameter of 70 mm, and end-
+systolic diameter of 50 mm.
+Case history #2
+A 31-year-old black man presents to clinic for the first time for a routine physical exam. He denies any
+complaints. On physical exam the only abnormality is a systolic murmur best heard over the second right
+intercostal space and an early diastolic murmur best heard over the third left sternal border. LVEF is 55%
+to 60% with mild LV hypertrophy. Left ventricular end-systolic diameter is 45 mm and aortic root diameter
+is 3.5 cm.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Aortic regurgitation Theory
+Other presentations
+In acute AR, patients can present with sudden onset of pulmonary edema and hypotension or in
+cardiogenic shock. Patients may also present with signs and symptoms of myocardial ischemia or aortic
+root dissection.[1] Due to the acute nature of the AR, there may be no increase in left ventricular size,
+and the diastolic murmur may be short and/or soft due to diastolic pressure equilibrium between aorta
+and ventricle occurring before the end of diastole. Pulse pressure may not be increased due to reduced
+systolic pressure.[2]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Aortic regurgitation Diagnosis
+DIAGNOSIS
+Approach
+AR is usually detected on clinical exam with a diastolic murmur, or incidentally during echocardiogram
+evaluation for other causes. ECG, chest x-ray, and echocardiogram are routinely performed for all patients
+with features of AR.
+Acute AR: clinical presentation
+The patient can present with sudden onset of pulmonary edema and hypotension or in cardiogenic shock.
+Patients may also present with signs and symptoms of myocardial ischemia or aortic root dissection.[1]
+When valvular regurgitation is acute, many of the characteristic findings of chronic AR are absent and the
+severity of the problem may be underestimated. For example, during the physical exam, no increase in left
+ventricular (LV) size may be detected and the diastolic murmur may be short and/or soft due to diastolic
+pressure equilibrium between aorta and ventricle occurring before the end of diastole. Pulse pressure
+may not be increased due to reduced systolic pressure.[2]
+Signs and symptoms of pulmonary edema
+• Dyspnea
+• Pink frothy sputum
+• Pale and sweaty
+• Basal lung crepitations
+• Wheeze (cardiac asthma).
+Signs and symptoms of cardiogenic shock
+• Pale and/or cyanotic, cool to touch with mottled extremities
+• Evidence of hypoperfusion with altered mental status and decreased urine output
+• Rapid and faint peripheral pulses
+• Jugular venous distension
+• Third and fourth heart sounds may be present
+• Arrhythmias
+• Dyspnea.
+Myocardial ischemia, due to decreased perfusion pressure in acute severe AR, classically presents with
+central crushing chest pain radiating to the jaw or left arm. Aortic root dissection classically presents with
+chest pain radiating to the back.
+Acute AR: investigation and imaging
+ECG
+• Determines any arrhythmias and the rate of tachycardia. It will also rule out or diagnose myocardial
+ischemia or infarction.
+Chest x-ray
+• May not show cardiomegaly, which is a characteristic finding for chronic AR. There may be
+evidence of pulmonary edema with bilateral basal shadowing, pleural effusions at costophrenic
+angles, and fluid in the lung fissures.
+Transthoracic echocardiogram
+• One of the best noninvasive diagnostic tests to evaluate the valvular diseases.[16]
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Aortic regurgitation Diagnosis
+• Confirms the presence and severity of the valvular regurgitation, assesses LV size (which is usually
+normal) and systolic function, and determines a cause.
+Transoesophageal echocardiogram
+• Performed if aortic root dissection is suspected: classically, patients have chest pain that radiates to
+the back.[1]
+Chronic AR: clinical symptoms
+Patients have a protracted course and remain asymptomatic for decades. LV systolic dysfunction often
+precedes the development of symptoms. Patients may remain asymptomatic with normal exercise
+tolerance even with chronic severe AR due to LV compensation.
+Initial symptoms may include uncomfortable awareness of the pounding heart when lying on the left side,
+due to closer contact of the enlarged LV with the chest wall.[10] Palpitations occur frequently, secondary
+to premature ventricular contractions. These symptoms may persist for years before exercise intolerance
+occurs. With progressive systolic dysfunction, patients will complain of typical symptoms of congestive
+heart failure including fatigue, weakness, orthopnea, and paroxysmal nocturnal dyspnea.[17]
+Uncommonly, patients may complain of angina without coronary artery disease (CAD) at rest or with
+exercise. Myocardial ischemia can result in interstitial fibrosis, which further deteriorates LV systolic
+function. Syncope and sudden cardiac death are rare.
+Chronic AR: clinical signs
+Pulse
+• Arterial pulse shows rapid rise and a quick collapse (Corrigan pulse or water hammer pulse)
+resulting in widened pulse pressure >50 mmHg.
+• There are multiple eponymous peripheral hemodynamic signs associated with a bounding pulse
+and systolic hypertension of chronic severe AR. The sensitivity and specificity of these signs in
+diagnosing AR is low and should be used only as supportive evidence.[18]
+Apical impulse
+• Diffuse, hyperdynamic,and shifted inferiorly and leftward.
+• A systolic thrill may be palpable over the base of the heart or suprasternal notch due to increased
+stroke volume.
+Murmurs
+• The murmur of AR is a high-pitched early diastolic, decrescendo blowing sound, which is heard
+best with the diaphragm of the stethoscope just after A2.[19] The murmur is usually soft and can be
+accentuated with the patient sitting up, leaning forward, and holding his or her breath at the end of
+expiration.
+• The murmur due to valvular cause is best heard at the third and fourth intercostal space at the left
+sternal border. Regurgitation due to aortic dilation resulting from dissection or aneurysm is best
+heard at the second to third right intercostal space. Maneuvers that increase arterial pressure,
+such as squatting, accentuate the murmur, while inhalation of amyl nitrate or Valsalva, which lower
+arterial pressure, decreases the intensity of the murmur.
+• Moderate to severe AR is sometimes associated with an ejection systolic flow murmur after S1 due
+to the flow of increased stroke volume across a nonstenotic aortic valve. The murmur is an early
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Aortic regurgitation Diagnosis
+DIAGNOSIS
+peaking, crescendo-decrescendo systolic sound, best heard at the second right intercostal space,
+and can be differentiated from an aortic stenosis murmur by the absence of an ejection click.
+• Another murmur that is often associated with severe AR is the Austin Flint murmur. It is a soft,
+rumbling, mid to late diastolic murmur heard best at the apex. It is produced by the abutment of an
+aortic regurgitant jet against the LV endocardium.[20] An Austin Flint murmur is distinguished from
+the murmur of mitral stenosis by the absence of an opening snap and loud S1.
+Heart sounds
+• Chronic AR is also associated with changes in heart sounds. S1 may be due to early coaptation of
+the mitral valve leaflets from increased end-diastolic pressure. With increasing severity of AR, end-
+diastolic pressure can rise steeply above left atrial pressure causing even diastolic closure of the
+mitral valve.
+• LV dysfunction can result in S3 gallop or occasionally S4 due to LV hypertrophy. Inadequate closure
+of the aortic valve in severe AR may cause a soft A2 or even absent A2.
+Chronic AR: imaging and investigations
+Physical signs are not specific enough to judge the severity of the AR. Echocardiography should be
+performed for evaluation of symptomatic and asymptomatic chronic AR. If the echocardiogram is of
+insufficient quality, radionuclide angiography or magnetic resonance imaging (MRI) can be ordered to
+evaluate the valvular abnormality.
+ECG
+• Normal early in the disease but shows left axis deviation in chronic AR supporting LV volume
+overload. May also show signs of conduction abnormalities.[1]
+Chest x-ray
+• Cardiomegaly is a characteristic finding in chronic AR.
+Echocardiogram
+• For asymptomatic patients with chronic AR, the diagnosis can be established using a good-quality
+echocardiogram, and no further diagnostic testing is required.[1] This test allows visualization of
+the origin of the regurgitant jet and its width, and detection of the cause of aortic valve pathology. A
+transthoracic echocardiogram is usually adequate, but a transesophageal echocardiogram can be
+used if the quality of the transthoracic echocardiogram is inadequate.[1] [21]
+• Two-dimensional echocardiography helps in evaluating the valvular anatomy and the impact of
+volume overload on the ventricular size and function. M-mode imaging indirectly assesses the AR
+by detecting premature closure of the mitral valve and diastolic fluttering of the anterior mitral leaflet
+from the regurgitant aortic jet.
+• Doppler echocardiography is the most specific technique used for detecting the severity of
+regurgitation. Several indices are used to assess severity. Color flow Doppler provides visualization
+of the origin of the regurgitant jet and its width. There are several pulsed and continuous wave
+Doppler methods that give clues to the severity of AR. These include color flow, pulsed wave, and
+continuous wave Doppler.
+Exercise testing
+• In chronic severe AR, if the patient's physical activity is minimal or symptoms are equivocal,
+exercise testing is helpful to assess the functional status and symptomatic response.[1]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Aortic regurgitation Diagnosis
+Cardiac catheterization, angiography, or MRI
+• In asymptomatic patients with chronic AR, if the quality of the echocardiogram is inadequate to
+assess LV function, radionuclide angiography or MRI can be used.[1] [22]
+• In cases of acute AR, right and left heart catheterization shows severe elevations of LV end-
+diastolic pressure and pulmonary capillary wedge pressure (PCWP) due to sudden volume
+overloading of normal-sized LV. LV end-diastolic pressure is often much higher than PCWP
+because of early closure of the mitral valve.
+• Angiography is also used to evaluate coronary anatomy in patients with high risk for CAD and
+who will be undergoing aortic valve replacement/repair. In this setting, men aged >35 years,
+premenopausal women aged >35 years with risk factors for CAD, and postmenopausal women
+should undergo coronary angiography.
+History and exam
+Key diagnostic factors
+diastolic murmur (common)
+• The absence of diastolic murmur significantly reduces the likelihood of AR.[23]
+• The severity of the AR correlates well with the duration of murmur, instead of the intensity of murmur.
+In mild AR the murmur is early diastolic, and increases in duration to holodiastolic in severe AR.
+• A diastolic murmur may be absent in acute AR.
+Other diagnostic factors
+dyspnea (common)
+• Caused by pulmonary edema in acute AR, or progressive left ventricular dysfunction in chronic severe
+AR.
+fatigue (common)
+• Symptom of chronic AR due to progressive left ventricular dysfunction.
+weakness (common)
+• Symptom of chronic AR due to progressive left ventricular dysfunction.
+orthopnea (common)
+• Symptom of chronic AR due to progressive left ventricular dysfunction.
+paroxysmal nocturnal dyspnea (common)
+• Symptom of chronic AR due to progressive left ventricular dysfunction.
+pallor (common)
+• Sign of cardiogenic shock.
+mottled extremities (common)
+• Sign of cardiogenic shock.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Aortic regurgitation Diagnosis
+DIAGNOSIS
+rapid and faint peripheral pulse (common)
+• Sign of cardiogenic shock.
+jugular venous distension (common)
+• Sign of cardiogenic shock and congestive heart failure.
+basal lung crepitations (common)
+• Sign of pulmonary edema.
+altered mental status (common)
+• Sign of cardiogenic shock.
+urine output <30 mL/hour (common)
+• Sign of cardiogenic shock.
+soft S1 (common)
+• May be soft due to early coaptation of the mitral valve leaflets from increased end-diastolic pressure.
+soft or absent A2 (common)
+• Caused by inadequate closure of aortic valve in severe AR
+collapsing (water hammer or Corrigan) pulse (common)
+• Arterial pulse shows rapid rise and a quick collapse resulting in widened pulse pressure >50 mmHg.
+cyanosis (common)
+• Sign of acute AR.
+tachypnea (common)
+• Sign of acute AR with pulmonary edema.
+displaced, hyperdynamic apical impulse (common)
+• Present on chronic AR with left ventricular enlargement.
+chest pain (uncommon)
+• Most common in chronic AR, although can be presenting symptom in acute AR. Acute severe central
+crushing pain may indicate myocardial ischemia, or, if referred to the back, aortic dissection.
+pink frothy sputum (uncommon)
+• Sign of pulmonary edema.
+wheeze (cardiac asthma) (uncommon)
+• Sign of pulmonary edema.
+additional heart sounds (uncommon)
+• Left ventricular dysfunction can result in S3 gallop or occasionally S4 due to left ventricular
+hypertrophy.
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Aortic regurgitation Diagnosis
+arrhythmias (uncommon)
+• May be present in acute severe AR or chronic AR.
+ejection systolic flow murmur (uncommon)
+• Sometimes associated with moderate to severe AR. The murmur occurs after S1 due to the flow
+of increased stroke volume across a nonstenotic aortic valve. It is an early peaking, crescendo-
+decrescendo systolic sound, best heard at second right intercostal space, and can be differentiated
+from an aortic stenosis murmur by the absence of an ejection click.
+Austin Flint murmur (uncommon)
+• A soft, rumbling, mid to late diastolic murmur heard best at the apex. It is produced by the abutment
+of an aortic regurgitant jet against the left ventricular endocardium.[20] An Austin Flint murmur is
+distinguished from the murmur of mitral stenosis by the absence of an opening snap and loud S1. It is
+a specific finding for severe AR.
+systolic thrill (uncommon)
+• May be palpable over the base of the heart or suprasternal notch due to increased stroke volume.
+Hill sign (uncommon)
+• Systolic pressure over popliteal artery exceeds brachial systolic blood pressure by >60 mmHg.
+Peripheral hemodynamic sign associated with a bounding pulse and systolic hypertension of chronic
+severe AR.
+Bisferiens pulse (uncommon)
+• Double systolic arterial impulse.
+de Musset sign (uncommon)
+• Patient's head may bob in time with each heart beat. Peripheral hemodynamic sign associated with a
+bounding pulse and systolic hypertension of chronic severe AR.
+Muller sign (uncommon)
+• Pulsations of the uvula.
+Traube sign (uncommon)
+• Pistol shot sounds over the femoral artery with compression. Peripheral hemodynamic sign associated
+with a bounding pulse and systolic hypertension of chronic severe AR.
+Quincke sign (uncommon)
+• Subungual or lip capillary pulsations due to the large stroke volume. Peripheral hemodynamic sign
+associated with a bounding pulse and systolic hypertension of chronic severe AR.
+Duroziez sign (uncommon)
+• Systolic and diastolic murmurs heard over the femoral artery when compressed proximally and distally,
+respectively. Peripheral hemodynamic sign associated with a bounding pulse and systolic hypertension
+of chronic severe AR.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Aortic regurgitation Diagnosis
+DIAGNOSIS
+Mayen sign (uncommon)
+• Diastolic drop of blood pressure >15 mmHg with arm raised.
+Lighthouse sign (uncommon)
+• Blanching and flushing of forehead.
+Becker sign (uncommon)
+• Pulsations of retinal vessels.
+Landolfi sign (uncommon)
+• Alternating constriction and dilation of pupil.
+Rosenbach sign (uncommon)
+• Systolic pulsations of liver.
+Gerhardt sign (uncommon)
+• Pulsatile spleen.
+Lincoln sign (uncommon)
+• Pulsatile popliteal artery.
+Sherman sign (uncommon)
+• Dorsalis pedis pulse is unexpectedly prominent in age >75 years.
+palmar click (uncommon)
+• Palpable systolic flushing of palms.
+syncope (uncommon)
+• Rare presentation.
+Risk factors
+Strong
+bicuspid aortic valve
+• This congenital abnormality accounts for most of the cases of AR in developed countries.
+• Some pathologic abnormalities of bicuspid aortic root occur, which lead to proximal aortic dilation and
+worsening of AR.[8] [11]
+rheumatic fever
+• One of the most common causes of AR in developing countries.[1]
+endocarditis
+• Can lead to rupture of leaflets or even paravalvular leaks.
+• Vegetations on the valvular cusps can also cause inadequate closure of leaflets, resulting in leakage of
+blood.[7]
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Aortic regurgitation Diagnosis
+Marfan syndrome and related connective tissue disease
+• 80% of Marfan patients present at an early age with a diastolic murmur.[12]
+• Disorders such as Marfan syndrome often lead to progressive dilation of aortic root resulting in AR.
+aortitis
+• Inflammation of the aorta secondary to systemic diseases such as syphilis, Behcet, Takayasu, reactive
+arthritis, and ankylosing spondylitis results in weakening of the aortic root and dilation.[14]
+Weak
+systemic hypertension
+• Can lead to aortic root dilation and inadequate closure of aortic valve leaflets.[9] [13]
+older age
+• Older patients are more prone to develop AR along with aortic sclerosis.[15]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Aortic regurgitation Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+ECG
+• Provides only supportive evidence. Echocardiography is required to
+confirm the presence of AR.
+• Chronic severe AR: may demonstrate nonspecific ST-T wave
+changes, left ventricular hypertrophy (LVH) with left axis deviation
+due to compensatory LV chamber enlargement, or isolated premature
+ventricular contraction. In later stages of LV dysfunction, LV
+conduction delays may be seen.
+• Acute AR: may reveal some nonspecific ST-T wave changes and
+sinus tachycardia or arrhythmias; evidence of myocardial ischemia
+may also be present.
+• Conduction abnormalities can also be seen in active infective
+endocarditis resulting from paravalvular abscess.
+may show nonspecific ST-
+T wave changes, left axis
+deviation, or conduction
+abnormalities
+chest x-ray
+• Chronic AR may produce cardiomegaly in the leftward and inferior
+direction due to compensatory eccentric hypertrophy from increased
+end-diastolic volume. The aortic knob is typically prominent in severe
+hypertensive patients and those with aortic root dilation.
+• In chronic severe AR, the aortic root sometimes progressively
+enlarges due to increased stroke volume and increased systolic blood
+pressure; calcification of the aortic valve is uncommon in pure AR but
+can be seen in patients with combined atrial stenosis and AR.
+may show cardiomegaly
+echocardiogram
+• The preferred method for noninvasive detection and evaluation of the
+severity and etiology of AR.
+visualization of the origin
+of regurgitant jet and its
+width; detection of cause
+of aortic valve pathology
+M-mode and 2-dimensional imaging
+• Helps indirectly assess AR. Two-dimensional echocardiography is
+very important in evaluating the valvular anatomy, assessing aortic
+root dilation, and monitoring the left ventricular response to volume
+overload.
+assessment of valvular
+anatomy, aortic root
+dilation, and left
+ventricular response to
+volume overload
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Aortic regurgitation Diagnosis
+Test Result
+Parasternal long-axis view demonstrating aortic regurgitation jet
+From the collections of Dr Sanjeev Wasson
+and Dr Nishant Kalra; used with permission
+• Possible findings include premature closure of the mitral valve
+(severe/acute AR), diastolic fluttering of the anterior mitral leaflet from
+the regurgitant aortic jet, and hyperdynamic interventricular septal
+motion.
+color flow Doppler
+• One of the most specific and sensitive techniques used to judge
+the severity of the regurgitant flow by using the ratio of proximal jet
+width to left ventricular outflow tract and ratio of cross-sectional area
+of jet to left ventricular outflow tract. Vena contracta, which is the
+narrowest region of regurgitant jet just below the aortic valve, may
+also be used.[24]
+Parasternal long-axis view demonstrating
+aortic regurgitation jet width and height
+From the collections of Dr Sanjeev Wasson
+and Dr Nishant Kalra; used with permission
+detection and
+quantification of
+regurgitant flow
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Aortic regurgitation Diagnosis
+DIAGNOSIS
+Test Result
+Parasternal long-axis view demonstrating
+left ventricular outflow tract diameter
+From the collections of Dr Sanjeev Wasson
+and Dr Nishant Kalra; used with permission
+Parasternal long-axis view showing vena
+contracta of the aortic regurgitation jet
+From the collections of Dr Sanjeev Wasson
+and Dr Nishant Kalra; used with permission
+• The length of the jet column in the ventricle was previously used but
+is no longer considered a measure of severity.
+• Parasternal views are preferred over the apical view because of
+better axial resolution.
+pulsed wave Doppler
+• As AR gets worse, a greater degree of flow reversal occurs and
+holodiastolic flow reversal indicates severe AR; pulsed wave Doppler
+detection and
+quantification of
+holodiastolic flow reversal
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Aortic regurgitation Diagnosis
+Test Result
+can quantify this effect by assessing the regurgitant stroke volume
+and effective regurgitant orifice area.
+• The diastolic flow reversal is measured in the descending aorta from
+a suprasternal probe position.
+Pulsed wave Doppler of the regurgitant jet
+From the collections of Dr Sanjeev Wasson
+and Dr Nishant Kalra; used with permission
+Regurgitant stroke volume can be calculated by subtracting forward
+stroke volume, which can be determined at mitral valve, from total
+stroke volume (aortic valve). Both regurgitant stroke volume and
+regurgitant fraction can be calculated from this.
+• Effective regurgitant orifice area is another measure to assess the
+severity of AR, and can be calculated by dividing regurgitant stroke
+volume by jet velocity time integral of the AR assessed by continuous
+wave Doppler.[24]
+continuous wave Doppler
+• As AR gets worse, left ventricular diastolic pressure rapidly increases
+and aortic diastolic pressure rapidly falls, resulting in shorter pressure
+half-time or steeper slope of velocity deceleration. These measures
+can be used as part of the assessment of AR severity.
+may show shorter
+pressure half-time or
+steeper slope of velocity
+deceleration in severe AR
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Aortic regurgitation Diagnosis
+DIAGNOSIS
+Test Result
+Continuous wave Doppler of the regurgitant jet demonstrating
+pressure half-time of the aortic regurgitant velocity
+From the collections of Dr Sanjeev Wasson
+and Dr Nishant Kalra; used with permission
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Aortic regurgitation Diagnosis
+Other tests to consider
+Test Result
+radionuclide angiography
+• A useful noninvasive, accurate method of evaluating AR in patients
+with suboptimal echocardiogram. Serial measurements can be
+helpful in early detection of systolic dysfunction.[25]
+measurement of ejection
+fraction and regurgitation
+fraction; detection of
+relative ventricular
+enlargement
+MRI
+• Provides accurate assessment of ventricular diameters and volumes
+both in systole and diastole. Also allows accurate measurement
+of regurgitant volume and orifice size. MRI is the most accurate
+noninvasive technique for assessing AR, but is seldom used due
+to its high cost. MRI can be used for initial and serial evaluation of
+left ventricular function, volume, and AR severity in patients with an
+inconclusive echocardiogram.
+measurement of
+ventricular diameter
+and volume, regurgitant
+volume, and orifice size
+exercise stress testing
+• Not used as a diagnostic test, but can be used to assess the
+symptomatic response in patients with history of equivocal symptoms
+and chronic AR.[1]
+assessment of
+functional capacity and
+symptomatic response
+cardiac catheterization
+• Used to evaluate coronary anatomy in patients with high risk for
+coronary artery disease (CAD) and who will be undergoing aortic
+valve replacement/repair. Men aged >35 years, premenopausal
+women aged >35 years with risk factors for CAD, and
+postmenopausal women should undergo coronary angiography.
+Although echocardiogram accurately evaluates the severity of AR,
+if the results are inconclusive or discordant with clinical findings,
+cardiac catheterization should be performed to assess the severity
+of AR and left ventricular (LV) function.[1] With the help of aortic root
+angiography, the severity of AR and aortic root size can be assessed.
+evaluation of the extent
+and severity of CAD
+and measurement of
+associated LV function
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Aortic regurgitation Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Mitral regurgitation (MR) • Distinguishing signs are
+right ventricular heave, soft
+S1, split S2, and aloud P2.
+The classic murmur of MR
+is pansystolic at the apex
+radiating to the axilla.
+• CXR: pulmonary edema,
+enlarged left atrium and left
+ventricle, and mitral valve
+calcification.
+• ECG: can present with atrial
+fibrillation.
+• Echo: for MR it is used
+to assess left ventricular
+function.
+Mitral stenosis • Distinguishing features
+are a malar flush, low
+volume pulse, a tapping and
+undisplaced apex beat, and
+loud S1 with an opening
+snap.
+• The murmur is a rumbling
+mid-diastolic one, which
+can be distinguished from
+the Austin Flint murmur
+sometimes heard in severe
+AR by the absence of the
+opening snap and loud S1.
+• CXR: pulmonary edema,
+enlarged left atrium, and
+mitral valve calcification.
+• ECG: can present with atrial
+fibrillation. Right ventricular
+hypertrophy may also be
+present.
+• Echo: diagnostic for mitral
+stenosis.
+Aortic stenosis • Presentation includes
+dyspnea, dizziness, fainting,
+and congestive cardiac
+failure.
+• Characteristic signs are a
+slow rising pulse, heaving
+but undisplaced apex bear,
+left ventricular heave, and
+an ejection systolic murmur
+that radiates toward the
+carotids and can have an
+ejection click. This can
+be distinguished from the
+ejection systolic murmur that
+is sometimes heard with
+moderate or severe AR by
+absence of an ejection click
+and no radiation toward the
+carotids.
+• CXR: left ventricular
+hypertrophy (LVH), calcified
+aortic valve.
+• ECG: P-mitrale, LVH with
+strain pattern, left bundle
+branch block, or complete
+atrioventricular block.
+• Echo: diagnostic for aortic
+stenosis.
+Pulmonary regurgitation • Diamond-shaped diastolic
+murmur best heard in
+the second and third left
+intercostal spaces. The
+murmur increases with
+inspiration, and P2 is loud in
+the presence of pulmonary
+artery hypertension.
+• CXR: may show dilation of
+main pulmonary artery with
+right ventricular dilation.
+• ECG: right ventricular
+hypertrophy is usually
+present.
+• Echo: diagnostic for
+pulmonary regurgitation.
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Aortic regurgitation Diagnosis
+Criteria
+American College of Cardiology/American Heart Association (ACC/
+AHA) stages of chronic AR (2020)[1]
+Stages A and B of aortic regurgitation
+J Am Coll Cardiol. 2021 Feb, 77 (4) e25–e197; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Aortic regurgitation Diagnosis
+DIAGNOSIS
+Stages C and D of aortic regurgitation
+J Am Coll Cardiol. 2021 Feb, 77 (4) e25–e197; used with permission
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Aortic regurgitation Management
+Approach
+Acute AR is an emergency requiring urgent surgical intervention. Chronic AR has a protracted course and
+the patient may remain asymptomatic for decades. Many of those who have mild or moderate AR remain
+stable and may never require any corrective surgery. Surgery should be performed as soon as possible in
+patients with chronic AR who develop hemodynamic instability or heart failure.
+Acute AR
+Acute AR is a surgical emergency. Patients require assessment and management of the airway, with
+intubation if necessary. Positive inotropic agents (e.g., dobutamine) and a vasodilator (e.g., sodium
+nitroprusside) are recommended for hemodynamic support. The definitive management is with urgent
+surgery, especially for patients with AR resulting from infective endocarditis and aortic root dissection.[1]
+[22]
+Chronic AR
+The treatment of chronic AR depends on 5 factors:
+• Whether the regurgitation is mild, moderate, or severe
+• Whether the patient is asymptomatic or symptomatic
+• Whether the patient has normal left ventricular (LV) function or LV dysfunction
+• Whether the patient has LV dilation
+• Whether the patient is a surgical candidate.
+Mild to moderate disease
+Patients with mild to moderate disease (American College of Cardiology/American Heart Association
+[ACC/AHA] stage B, progressive AR) who are asymptomatic with normal LV function do not require
+treatment and can be reassured. In patients with this degree of AR severity, symptoms or LV dysfunction,
+if present, are unlikely to be due to AR. An alternative underlying cause such as hypertension, coronary
+artery disease, or a cardiomyopathy is more likely and should be investigated and treated. Periodic follow-
+up for symptom and functional status evaluation is recommended.
+In patients with moderate disease who are undergoing cardiac surgery for another indication, concomitant
+aortic valve replacement can be considered.[1]
+Severe disease
+Patients who have asymptomatic AR with LV ejection fraction (LVEF) >55% and LV end-systolic diameter
+(LVESD) <50 mm (ACC/AHA stage C1) require no treatment and the patient can be reassured. Periodic
+follow-up for symptom and functional status evaluation is recommended. If the patient is undergoing
+cardiac surgery for another indication, concomitant aortic valve replacement can be considered.[1]
+Note that in European Society of Cardiology (ESC) guidelines, the threshold for intervention in
+asymptomatic patients is LVEF <50%.[22]
+Aortic valve surgery is indicated in asymptomatic patients with chronic severe AR and LVEF ≤55%
+(ACC/AHA stage C2), if no other cause for systolic dysfunction is identified. Aortic valve surgery is also
+reasonable in patients with normal LV systolic function (LVEF >55%) when the LV is severely enlarged
+(LVESD >50 mm or indexed LVESD >25 mm/m²).[1] [27] Surgery can also be considered in patients
+with chronic severe AR and LVEF >55% at rest (ACC/AHA stage C1) who have a low surgical risk and a
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Aortic regurgitation Management
+MANAGEMENT
+progressive decline in LVEF to low-normal range (55% to 60%) or progressive increase in LV end-diastolic
+diameter (>65 mm) on at least 3 studies.[1]
+In patients who have severe AR with LV systolic dysfunction and/or symptoms but a prohibitive
+surgical risk, guideline-directed medical therapy (GDMT) for reduced LVEF and/or hypertension is
+recommended.[1]
+All symptomatic patients require surgery, regardless of their LV function and dilation.[1] [22] [27]
+Vasodilators may be used for symptomatic management while the patient is awaiting surgery.[1] If the
+patient is not a surgical candidate due to comorbidities, GDMT for reduced LVEF and/or hypertension is
+recommended.[1]
+The surgical options are aortic valve replacement (AVR) or repair. There is no difference in the indications
+for replacement or repair. AVR is performed in most patients requiring surgery. Aortic valve repair is
+possible in selected patients, but is only performed in specialist centers. Following surgery, most of the
+patients show reversal of LV dilation and improvement in EF. Preoperative LV function is the best predictor
+of long-term prognosis in patients undergoing AVR.[28] Patients with normal preoperative EF or a brief
+duration of LV dysfunction (<14 months) have greater improvement in LV diameters and early and late
+postoperative improvement in LV function.[29] Patients with impaired preoperative LV function have a
+greater risk of developing congestive heart failure and are at a higher risk of death compared with patients
+with normal preoperative LV function.[30] Among patients with LV dysfunction, survival among patients
+with preoperative severe LV dysfunction has improved dramatically since 1985 and has become almost
+equivalent to that among patients with nonsevere LV dysfunction. Prosthetic valve patients are at high risk
+for thromboembolism and need antithrombotic therapy. The risk of bleeding must be weighed against the
+benefit of anticoagulation.
+Transcatheter aortic valve implantation (TAVI) can be considered for carefully selected patients with
+severe AR and heart failure who are not surgical candidates, but it is rarely done.[1] [22] TAVI is not
+recommended for those with isolated severe AR who have indications for surgery and are candidates for
+surgery.[1]
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+acute AR
+1st inotropes + vasodilators + urgent aortic
+valve replacement/repair
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Aortic regurgitation Management
+Ongoing ( summary )
+chronic AR: mild to moderate
+no indications for other
+cardiac surgery
+1st reassurance and monitoring
+moderate disease and
+other cardiac surgery
+indicated
+1st consider concomitant aortic valve surgery
+chronic AR: severe, asymptomatic
+LVEF >55%, LVESD <50
+mm, no indications for
+other cardiac surgery
+1st reassurance and monitoring
+LVEF >55%, LVESD <50
+mm, and other cardiac
+surgery indicated
+1st consider concomitant aortic valve surgery
+LVEF ≤55% and/or
+LVESD >50 mm, surgical
+candidate
+1st aortic valve surgery
+progressive decrease in
+LVEF (<55% to 60%) or
+progressive increase in
+LV end-diastolic diameter
+(>65 mm), low surgical
+risk
+1st aortic valve surgery
+LVEF ≤55% and/or LVESD
+>50 mm, nonsurgical
+candidate
+1st guideline-directed medical therapy
+(GDMT)
+chronic AR: severe, symptomatic
+surgical candidate 1st aortic valve surgery
+nonsurgical candidate 1st guideline-directed medical therapy
+(GDMT) or transcatheter aortic valve
+implantation (TAVI)
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Aortic regurgitation Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+acute AR
+1st inotropes + vasodilators + urgent aortic
+valve replacement/repair
+Primary options
+» dobutamine: 0.5 micrograms/kg/min
+intravenously initially, titrate to effect,
+maximum 20 micrograms/kg/min
+--AND--
+» nitroprusside: 0.3 to 0.5 micrograms/kg/min
+intravenously, titrate to effect, maximum 10
+micrograms/kg/min
+» Acute AR is a surgical emergency.[1] [22]
+Hemodynamic support with inotropic agents and
+vasodilators may be necessary for stabilization. 
+» Aortic valve replacement or repair should be
+performed as soon as possible. Aortic valve
+repair is possible in selected patients, but is only
+performed in specialist centers.
+» Prosthetic valve patients are at high risk for
+thromboembolism and need antithrombotic
+therapy. The risk of bleeding must be weighed
+against the benefit of anticoagulation.
+» Intravenous infusion rates >10 micrograms/
+kg/minute may lead to cyanide toxicity with
+nitroprusside.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Aortic regurgitation Management
+Ongoing
+chronic AR: mild to moderate
+no indications for other
+cardiac surgery
+1st reassurance and monitoring
+» Patients with mild to moderate disease
+(American College of Cardiology/American Heart
+Association [ACC/AHA] stage B, progressive
+AR) who are asymptomatic with normal left
+ventricular (LV) function do not require treatment
+and can be reassured.
+» In these patients, any symptoms or LV
+dysfunction are unlikely to be due to AR.
+An alternative underlying cause such as
+hypertension, coronary artery disease, or a
+cardiomyopathy is more likely and should be
+investigated and treated.
+» Periodic follow-up for symptom and functional
+status evaluation is recommended.
+moderate disease and
+other cardiac surgery
+indicated
+1st consider concomitant aortic valve surgery
+» In patients with moderate disease who are
+undergoing other cardiac surgery for another
+indication, concomitant aortic valve replacement
+can be considered.[1]
+chronic AR: severe, asymptomatic
+LVEF >55%, LVESD <50
+mm, no indications for
+other cardiac surgery
+1st reassurance and monitoring
+» Patients who have asymptomatic AR with
+left ventricular ejection fraction (LVEF) >55%
+and LV end-systolic diameter (LVESD) <50 mm
+(American College of Cardiology/American Heart
+Association [ACC/AHA] stage C1) require no
+treatment and the patient can be reassured.
+Periodic follow-up for symptom and functional
+status evaluation is recommended.[1]
+» Note that in European Society of Cardiology
+(ESC) guidelines, the threshold for intervention
+in asymptomatic patients is LVEF <50%.[22]
+LVEF >55%, LVESD <50
+mm, and other cardiac
+surgery indicated
+1st consider concomitant aortic valve surgery
+» In patients with severe disease who are
+undergoing other cardiac surgery for another
+indication, concomitant aortic valve replacement
+can be considered.[1]
+LVEF ≤55% and/or
+LVESD >50 mm, surgical
+candidate
+1st aortic valve surgery
+» Aortic valve surgery is indicated in
+asymptomatic patients with chronic severe AR
+and left ventricular ejection fraction (LVEF) ≤55%
+(American College of Cardiology/American Heart
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Aortic regurgitation Management
+MANAGEMENT
+Ongoing
+Association [ACC/AHA] stage C2), if no other
+cause for systolic dysfunction is identified. Aortic
+valve surgery is also reasonable in patients with
+normal LV systolic function (LVEF >55%) when
+the LV is severely enlarged (LV end-systolic
+diameter [LVESD] >50 mm or indexed LVESD
+>25 mm/m²).[1] [27]
+» Aortic valve replacement is performed in most
+patients requiring surgery. Aortic valve repair
+is possible in selected patients, but it is only
+performed in specialist centers. Prosthetic valve
+patients are at high risk for thromboembolism
+and need antithrombotic therapy. The risk of
+bleeding must be weighed against the benefit of
+anticoagulation.
+progressive decrease in
+LVEF (<55% to 60%) or
+progressive increase in
+LV end-diastolic diameter
+(>65 mm), low surgical
+risk
+1st aortic valve surgery
+» Surgery can also be considered in patients
+with chronic severe AR and left ventricular
+ejection fraction (LVEF) >55% at rest (American
+College of Cardiology/American Heart
+Association [ACC/AHA] stage C1) who have a
+low surgical risk and a progressive decline in
+LVEF to low-normal range (<55% to 60%) or
+progressive increase in LV end-diastolic diameter
+(>65 mm) on at least 3 studies.[1]
+» Aortic valve replacement is performed in most
+patients requiring surgery. Aortic valve repair
+is possible in selected patients, but it is only
+performed in specialist centers. Prosthetic valve
+patients are at high risk for thromboembolism
+and need antithrombotic therapy. The risk of
+bleeding must be weighed against the benefit of
+anticoagulation.
+LVEF ≤55% and/or LVESD
+>50 mm, nonsurgical
+candidate
+1st guideline-directed medical therapy
+(GDMT)
+» In patients who have severe AR and left
+ventricular (LV) systolic dysfunction but are at
+prohibitive surgical risk, GDMT for hypertension
+and/or reduced LV ejection fraction (LVEF) is
+recommended.[1]
+chronic AR: severe, symptomatic
+surgical candidate 1st aortic valve surgery
+» Aortic valve surgery is indicated in
+symptomatic patients with chronic severe AR,
+regardless of systolic function.[1] [22] [27]
+» Aortic valve replacement is performed in most
+patients requiring surgery. Aortic valve repair
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Aortic regurgitation Management
+Ongoing
+is possible in selected patients, but it is only
+performed in specialist centers.
+» Prosthetic valve patients are at high risk for
+thromboembolism and need antithrombotic
+therapy. The risk of bleeding must be weighed
+against the benefit of anticoagulation.
+» Vasodilators may be used for symptomatic
+management, while the patient is awaiting
+surgery.[1]
+nonsurgical candidate 1st guideline-directed medical therapy
+(GDMT) or transcatheter aortic valve
+implantation (TAVI)
+» In symptomatic patients who have severe AR
+but are at prohibitive surgical risk, GDMT for
+hypertension and/or reduced left ventricular
+ejection fraction (LVEF) is recommended.[1]
+» TAVI can be considered for carefully selected
+patients with severe AR and heart failure who
+are not surgical candidates, but it is rarely
+done.[1] [22]
+Primary prevention
+Streptococcal throat infection should be treated with antibiotics to avoid the development of rheumatic fever.
+High blood pressure should be controlled to prevent damage to the aortic root. Intravenous drug abuse
+should be avoided. Good dental hygiene should be maintained.
+See Rheumatic fever .
+Secondary prevention
+Antibiotic prophylaxis is recommended for patients with prosthetic valves during surgical or dental procedures
+to prevent endocarditis.[34]
+Patient discussions
+Patients are encouraged to do moderate exercise, but patients with severe AR and left ventricular end-
+diastolic diameter >65 mm should be advised to avoid active sports.[39] Those on anticoagulation are
+advised to avoid contact sports.
+Patients should be advised of the possible complications of having a prosthetic valve, such as
+thromboembolism, infective endocarditis, hemolysis, structural valve failure, and arrhythmias. They
+are advised to seek medical help if they become suddenly breathless, develop a fever, or experience
+palpitations or sudden onset of weakness of a limb, or complete or partial loss of sight.
+Patients should also be advised about the risks of being on anticoagulation, the main one being
+hemorrhage. The patient should report unusual bruises, bleeding gums, coughing up blood, dark urine,
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Aortic regurgitation Management
+MANAGEMENT
+and black bowel movements. Ideally, they are advised to avoid any activity that may increase their
+chances of bruising or bleeding, such as contact sports. They are also reminded that they should tell
+the pharmacist, doctor, and dentist that they are taking warfarin, as some medications affect how the
+drug works: for example, broad-spectrum antibiotics and nonsteroidal anti-inflammatory drugs (NSAIDs).
+Patients are encouraged to attend every appointment to have their international normalized ratio checked.
+Cardiac rehabilitation is strongly recommended following aortic valve replacement procedures as it is
+beneficial in cardiac recovery and shown to decrease the risk of hospitalization and mortality within 1 year
+following cardiac valve surgery.[40]
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Aortic regurgitation Follow up
+Monitoring
+Monitoring
+Patients who present to their physician with AR on initial evaluation need to be followed up closely due
+to the protracted course and potential complications of the disease. These patients need to be serially
+monitored based on the severity of AR, left ventricular ejection fraction (LVEF), and left ventricular (LV)
+diameters.
+Serial echocardiograms are recommended every 3 to 5 years in asymptomatic patients with mild
+chronic AR, and every 1 to 2 years in asymptomatic people with moderate AR.[1] In patients with severe
+asymptomatic AR, echocardiogram is recommended every 6 to 12 months, with more frequent monitoring
+recommended with LV dilation.[1]
+Patients with aortic root dilation and diameter >4 cm should undergo serial evaluations of aortic root and
+ascending aorta by echocardiography or magnetic resonance imaging yearly. For more than 0.3 mm
+increase in aortic diameter, confirmation with computed tomography angiogram is recommended.
+Patients who undergo aortic valve replacement/repair need close follow-up during the early and
+late postoperative course and need to be serially monitored. Asymptomatic patients need to be
+followed up yearly for a complete history and physical exam. Any change in clinical status demands
+echocardiography.
+Prosthetic valve patients are at high risk for thromboembolism and need antithrombotic therapy. The risk
+of bleeding must be weighed against the benefit of anticoagulation.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Aortic regurgitation Follow up
+FOLLOW UP
+Complications
+Complications Timeframe Likelihood
+operative mortality short term medium
+There is a 4% risk of death with aortic valve replacement/repair (AVR), and the risk increases to 6.8% if
+performed along with coronary artery bypass graft.[33] [38]
+heart failure long term high
+The most common complication of severe AR. Mild to moderate AR may remain asymptomatic throughout
+the patient's life or may progress to severe AR and then heart failure.
+Chronic severe AR patients should be referred for aortic valve replacement/repair (AVR) as soon as they
+develop any symptoms, impaired exercise tolerance, or decreased ejection fraction.[32] [33]
+Patients with severe left ventricular dysfunction and symptoms of heart failure should be started on
+medical therapy (inotropes and vasodilators) and referred for AVR.
+arrhythmias long term low
+Stretching and dilation of the left atrium results in atrial fibrillation, which leads to weakness, dyspnea,
+palpitations, and occasionally syncope.
+The atrioventricular node, due to its proximity to the aortic valve, may be damaged secondary to stretching
+and scarring, which sometimes results in bradyarrhythmias and different degrees of block that are treated
+with medications and/or a pacemaker.
+infective endocarditis variable low
+Bacteremia with organisms likely to cause endocarditis results in this complication in patients with
+underlying structural valvular defects.
+Patients with AR are considered to be at low risk of developing endocarditis, and prophylactic antibiotics
+are not required before bacteremia-causing procedures.[34]
+sudden death variable low
+Sudden death is rare in patients with severe AR and normal ventricular function. Annual mortality is 0.4%.
+One paper reported unexpected sudden deaths in patients with maintained systolic function but severe
+ventricular dilation.[35]
+myocardial ischemia variable low
+Patients with AR may complain of angina without coronary artery disease due to increased myocardial
+oxygen requirement and decreased coronary flow reserve.[36] [37]
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Aortic regurgitation Follow up
+Prognosis
+The outcome and prognosis of patients depends on the magnitude of left ventricular (LV) function and
+symptoms.[29] [30] The 5-year survival in patients with normal LV function has been reported as 96%
+whereas that in patients with reduced LV function is 62%.[30] Long-term improvement in LV function
+is related to the immediate and short-term (first 6 months) response to surgery. Patients who have
+an immediate reduction in LV dilatation following surgery are more likely to have short- and long-term
+improvements in the ejection fraction (EF). Furthermore, patients who have an improvement in EF within
+the first 6 months following surgery are likely to have further late improvements in LV function after this time.
+The EF is unlikely to improve in patients who do not have an improvement in EF within the first 6 months of
+surgery.[29]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Aortic regurgitation Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+2020 ACC/AHA guideline for the management of patients with valvular
+heart disease (https://professional.heart.org/en/guidelines-and-statements/
+guidelines-and-statements-search)   [1]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2021
+2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR guideline for the evaluation
+and diagnosis of chest pain (https://professional.heart.org/en/guidelines-and-
+statements/guidelines-and-statements-search)   [26]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2021
+2021 ESC/EACTS guidelines for the management of valvular heart disease
+(https://www.escardio.org/Guidelines)   [22]
+Published by: European Society of Cardiology; European Association
+for Cardio-Thoracic Surgery
+Last published: 2021
+Assessment of valvular regurgitation. Part 1: aortic and pulmonary
+regurgitation (native valve disease) (https://academic.oup.com/ehjcimaging/
+article/11/3/223/2396923)   [16]
+Published by: European Association of Echocardiography Last published: 2010
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Aortic regurgitation Guidelines
+Treatment guidelines
+International
+2020 ACC/AHA guideline for the management of patients with valvular
+heart disease (https://professional.heart.org/en/guidelines-and-statements/
+guidelines-and-statements-search)   [1]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2021
+2018 AATS/ACC/SCAI/STS expert consensus systems of care document:
+operator and institutional recommendations and requirements for
+transcatheter aortic valve replacement: a joint report of the American
+Association for Thoracic Surgery, American College of Cardiology, Society
+for Cardiovascular Angiography and Interventions, and Society of Thoracic
+Surgeons (https://scai.org/publications/clinical-documents)   [31]
+Published by: American Association for Thoracic Surgery; American
+College of Cardiology; Society for Cardiovascular Angiography and
+Interventions; Society of Thoracic Surgeons
+Last published: 2019
+2021 ESC/EACTS guidelines for the management of valvular heart disease
+(https://www.escardio.org/Guidelines)   [22]
+Published by: European Society of Cardiology; European Association
+for Cardio-Thoracic Surgery
+Last published: 2021
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Aortic regurgitation References
+REFERENCES
+Key articles
+• Writing Committee Members, Otto CM, Nishimura RA, et al. 2020 ACC/AHA guideline for
+the management of patients with valvular heart disease: a report of the American College of
+Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J
+Am Coll Cardiol. 2021 Feb 2;77(4):e25-197.  Full text (https://www.sciencedirect.com/science/
+article/pii/S0735109720377962)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33342586?
+tool=bestpractice.bmj.com)
+• Vahanian A, Beyersdorf F, Praz F, et al. 2021 ESC/EACTS guidelines for the management of valvular
+heart disease. Eur Heart J. 2022 Feb 12;43(7):561-632.  Full text (https://academic.oup.com/
+eurheartj/article/43/7/561/6358470)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34453165?
+tool=bestpractice.bmj.com)
+References
+1. Writing Committee Members, Otto CM, Nishimura RA, et al. 2020 ACC/AHA guideline for
+the management of patients with valvular heart disease: a report of the American College of
+Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J
+Am Coll Cardiol. 2021 Feb 2;77(4):e25-197.  Full text (https://www.sciencedirect.com/science/
+article/pii/S0735109720377962)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33342586?
+tool=bestpractice.bmj.com)
+2. Siliste RN, Siliste C. Physical examination in aortic valve disease: do we still need it in the modern
+era? Cardiol Pract. 2020 Feb 26;18(12).  Full text (https://www.escardio.org/Journals/E-Journal-of-
+Cardiology-Practice/Volume-18/physical-examination-in-aortic-valve-disease-do-we-still-need-it-in-the-
+modern)
+3. Fox ER, Wilson RS, Penman AD, et al. Epidemiology of pure valvular regurgitation in the large
+middle-aged African American cohort of the Atherosclerosis Risk in Communities study. Am
+Heart J. 2007 Dec;154(6):1229-34. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18035099?
+tool=bestpractice.bmj.com)
+4. Singh JP, Evans JC, Levy D, et al. Prevalence and clinical determinants of mitral, tricuspid, and aortic
+regurgitation (the Framingham Heart Study). Am J Cardiol. 1999 Mar 15;83(6):897-902. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/10190406?tool=bestpractice.bmj.com)
+5. Nkomo VT, Gardin JM, Skelton TN, et al. Burden of valvular heart diseases: a population-based study.
+Lancet. 2006 Sep 16;368(9540):1005-11. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16980116?
+tool=bestpractice.bmj.com)
+6. Teo CG, Griffin BE. Epstein-Barr virus genomes in lymphoid cells: activation in mitosis and
+chromosomal location. Proc Natl Acad Sci U S A. 1987 Dec;84(23):8473-7.  Full text (https://
+pmc.ncbi.nlm.nih.gov/articles/PMC299566)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2825191?
+tool=bestpractice.bmj.com)
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Aortic regurgitation References
+7. Griffin FM Jr, Jones G, Cobbs CC. Aortic insufficiency in bacterial endocarditis. Ann Intern Med. 1972
+Jan;76(1):23-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/5021551?tool=bestpractice.bmj.com)
+8. Roberts WC, Ko JM, Moore TR, et al. Causes of pure aortic regurgitation in patients having isolated
+aortic valve replacement at a single US tertiary hospital (1993 to 2005). Circulation. 2006 Aug
+1;114(5):422-9.  Full text (http://circ.ahajournals.org/content/114/5/422.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16864725?tool=bestpractice.bmj.com)
+9. Kim M, Roman MJ, Cavallini MC, et al. Effect of hypertension on aortic root size and
+prevalence of aortic regurgitation. Hypertension. 1996 Jul;28(1):47-52.  Full text (http://
+hyper.ahajournals.org/content/28/1/47.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8675263?
+tool=bestpractice.bmj.com)
+10. Libby P, Bonow RO, Mann DL, et al. Braunwald's heart disease: a textbook of cardiovascular medicine.
+12th ed. Philadelphia: Elsevier; 2022.
+11. Roberts WC, Morrow AG, McIntosh CL, et al. Congenitally bicuspid aortic valve causing severe, pure
+aortic regurgitation without superimposed infective endocarditis: analysis of 13 patients requiring
+aortic valve replacement. Am J Cardiol. 1981 Feb;47(2):206-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7468467?tool=bestpractice.bmj.com)
+12. Brown OR, DeMots H, Kloster FE, et al. Aortic root dilatation and mitral valve prolapse in Marfan's
+syndrome: an echocardiographic study. Circulation. 1975 Oct;52(4):651-7.  Full text (http://
+circ.ahajournals.org/content/52/4/651.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1157278?
+tool=bestpractice.bmj.com)
+13. Nazarzadeh M, Pinho-Gomes AC, Smith Byrne K, et al. Systolic blood pressure and risk of valvular
+heart disease: a Mendelian randomization study. JAMA Cardiol. 2019 Aug 1;4(8):788-95.  Full
+text (https://jamanetwork.com/journals/jamacardiology/fullarticle/2737872)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31290937?tool=bestpractice.bmj.com)
+14. Bulkley BH, Roberts WC. Ankylosing spondylitis and aortic regurgitation: description of the
+characteristic cardiovascular lesion from study of eight necropsy patients. Circulation. 1973
+Nov;48(5):1014-27.  Full text (http://circ.ahajournals.org/content/48/5/1014.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/4751946?tool=bestpractice.bmj.com)
+15. Lindroos M, Kupari M, Heikkila J, et al. Prevalence of aortic valve abnormalities in the elderly: an
+echocardiographic study of a random population sample. J Am Coll Cardiol. 1993 Apr;21(5):1220-5.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8459080?tool=bestpractice.bmj.com)
+16. Lancellotti P, Tribouilloy C, Hagendorff A, et al. European Association of Echocardiography
+recommendations for the assessment of valvular regurgitation. Part 1: aortic and pulmonary
+regurgitation (native valve disease). Eur J Echocardiogr. 2010 Apr;11(3):223-44.  Full text (https://
+academic.oup.com/ehjcimaging/article/11/3/223/2396923)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20375260?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Aortic regurgitation References
+REFERENCES
+17. Saura D, López-Cuenca A, Oliva MJ, et al. Accuracy of systolic aortic regurgitation in the diagnosis
+of heart failure: a predictive approach. Int J Clin Pract. 2015 Apr;69(4):485-90. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25363480?tool=bestpractice.bmj.com)
+18. Babu AN, Kymes SM, Carpenter Fryer SM. Eponyms and the diagnosis of aortic regurgitation: what
+says the evidence? Ann Intern Med. 2003 May 6;138(9):736-42. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12729428?tool=bestpractice.bmj.com)
+19. Shindler DM. Practical cardiac auscultation. Crit Care Nurs Q. 2007 Apr-Jun;30(2):166-80. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/17356358?tool=bestpractice.bmj.com)
+20. Landzberg JS, Pflugfelder PW, Cassidy MM. et al. Etiology of the Austin Flint murmur. J Am
+Coll Cardiol. 1992 Aug;20(2):408-13. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1634679?
+tool=bestpractice.bmj.com)
+21. Brandt RR, Choi YH, Enriquez-Sarano M. Chronic aortic regurgitation: diagnosis and therapy in
+the modern era. Eur J Cardiol. 2020 May 27;18(22).  Full text (https://www.escardio.org/Journals/E-
+Journal-of-Cardiology-Practice/Volume-18/chronic-aortic-regurgitation-diagnosis-and-therapy-in-the-
+modern-era)
+22. Vahanian A, Beyersdorf F, Praz F, et al. 2021 ESC/EACTS guidelines for the management of valvular
+heart disease. Eur Heart J. 2022 Feb 12;43(7):561-632.  Full text (https://academic.oup.com/
+eurheartj/article/43/7/561/6358470)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34453165?
+tool=bestpractice.bmj.com)
+23. Choudhry NK, Etchells EE. The rational clinical examination: does this patient have aortic
+regurgitation? JAMA. 1999 Jun 16;281(23):2231-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10376577?tool=bestpractice.bmj.com)
+24. Zoghbi WA, Enriquez-Sarano M, Foster E, et al. Recommendations for evaluation of the severity
+of native valvular regurgitation with two-dimensional and Doppler echocardiography. J Am Soc
+Echocardiogr. 2003 Jul;16(7):777-802. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12835667?
+tool=bestpractice.bmj.com)
+25. Bonow RO. Radionuclide angiography in the management of asymptomatic aortic regurgitation.
+Circulation. 1991 Sep;84(3 suppl):I296-302. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1884499?
+tool=bestpractice.bmj.com)
+26. Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR guideline
+for the evaluation and diagnosis of chest pain: a report of the American College of Cardiology/
+American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021 Nov
+30;144(22):e368-454.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001029) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34709879?tool=bestpractice.bmj.com)
+27. National Institute for Health and Care Excellence. Heart valve disease presenting in adults:
+investigation and management. Nov 2021 [internet publication].  Full text (https://www.nice.org.uk/
+guidance/ng208)
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Aortic regurgitation References
+28. Gaasch WH, Andrias CW, Levine HJ. Chronic aortic regurgitation: the effect of aortic valve
+replacement on left ventricular volume, mass and function. Circulation. 1978 Nov;58(5):825-36. 
+Full text (http://circ.ahajournals.org/content/58/5/825.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/151609?tool=bestpractice.bmj.com)
+29. Bonow RO, Dodd JT, Maron BJ, et al. Long-term serial changes in left ventricular function and reversal
+of ventricular dilatation after valve replacement for chronic aortic regurgitation. Circulation. 1988
+Nov;78(5 Pt 1):1108-20.  Full text (http://circ.ahajournals.org/content/78/5/1108.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2972417?tool=bestpractice.bmj.com)
+30. Bonow RO, Picone AL, McIntosh CL, et al. Survival and functional results after valve replacement
+for aortic regurgitation from 1976 to 1983: impact of preoperative left ventricular function. Circulation.
+1985 Dec;72(6):1244-56.  Full text (http://circ.ahajournals.org/content/72/6/1244.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/4064269?tool=bestpractice.bmj.com)
+31. Bavaria JE, Tommaso CL, Brindis RG, et al. 2018 AATS/ACC/SCAI/STS expert eonsensus systems of
+care document: operator and institutional recommendations and requirements for transcatheter aortic
+valve replacement: a joint rport of the American Association for Thoracic Surgery, American College
+of Cardiology, Society for Cardiovascular Angiography and Interventions, and Society of Thoracic
+Surgeons. J Am Coll Cardiol. 2018 Jul 18;73(3):340-74.  Full text (https://www.sciencedirect.com/
+science/article/pii/S0735109718353774)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30031107?
+tool=bestpractice.bmj.com)
+32. Bonow RO, Rosing DR, McIntosh CL, et al. The natural history of asymptomatic patients with aortic
+regurgitation and normal left ventricular function. Circulation. 1983 Sep;68(3):509-17.  Full text (http://
+circ.ahajournals.org/content/68/3/509.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6872164?
+tool=bestpractice.bmj.com)
+33. Dujardin KS, Enriquez-Sarano M, Schaff HV, et al. Mortality and morbidity of aortic regurgitation
+in clinical practice: a long-term follow-up study. Circulation. 1999 Apr 13;99(14):1851-7.  Full
+text (http://circ.ahajournals.org/content/99/14/1851.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10199882?tool=bestpractice.bmj.com)
+34. Wilson W, Taubert KA, Gewitz M, et al. Prevention of infective endocarditis: guidelines from the
+American Heart Association. J Am Dent Assoc. 2007 Jun;138(6):739-45, 747-60. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17545263?tool=bestpractice.bmj.com)
+35. Bonow RO, Lakatos E, Maron BJ, et al. Serial long-term assessment of the natural history of
+asymptomatic patients with chronic aortic regurgitation and normal left ventricular systolic function.
+Circulation. 1991 Oct;84(4):1625-35.  Full text (http://circ.ahajournals.org/content/84/4/1625.long)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1914102?tool=bestpractice.bmj.com)
+36. Alexopoulos D, Kolovou G, Kyriakidis M, et al. Angina and coronary artery disease in patients with
+aortic valve disease. Angiology. 1993 Sep;44(9):707-11. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8357097?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Aortic regurgitation References
+REFERENCES
+37. Pathak R, Padmanabhan VT, Tortolani AJ, et al. Angina pectoris and coronary artery disease
+in isolated, severe aortic regurgitation. Am J Cardiol. 1986 Mar 1;57(8):649-51. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3953451?tool=bestpractice.bmj.com)
+38. Edwards FH, Peterson ED, Coombs LP, et al. Prediction of operative mortality after valve replacement
+surgery. J Am Coll Cardiol. 2001 Mar 1;37(3):885-92. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11693766?tool=bestpractice.bmj.com)
+39. Bonow RO, Cheitlin MD, Crawford MH, et al. Task Force 3: valvular heart disease. J Am Coll
+Cardiol. 2005 Apr 19;45(8):1334-40. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15837283?
+tool=bestpractice.bmj.com)
+40. Patel DK, Duncan MS, Shah AS, et al. Association of cardiac rehabilitation with decreased
+hospitalization and mortality risk after cardiac valve surgery. JAMA Cardiol. 2019 Dec 1;4(12):1250-9. 
+Full text (https://jamanetwork.com/journals/jamacardiology/fullarticle/2753611)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31642866?tool=bestpractice.bmj.com)
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Aortic regurgitation Images
+Images
+Figure 1: Causes of AR
+Dr Sanjeev Wasson and Dr Nishant Kalra; used with permission
+Figure 2: Parasternal long-axis view demonstrating aortic regurgitation jet
+From the collections of Dr Sanjeev Wasson and Dr Nishant Kalra; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Aortic regurgitation Images
+IMAGES
+Figure 3: Parasternal long-axis view demonstrating aortic regurgitation jet width and height
+From the collections of Dr Sanjeev Wasson and Dr Nishant Kalra; used with permission
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 45 ===
+Aortic regurgitation Images
+Figure 4: Parasternal long-axis view demonstrating left ventricular outflow tract diameter
+From the collections of Dr Sanjeev Wasson and Dr Nishant Kalra; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+45
+=== Page 46 ===
+Aortic regurgitation Images
+IMAGES
+Figure 5: Parasternal long-axis view showing vena contracta of the aortic regurgitation jet
+From the collections of Dr Sanjeev Wasson and Dr Nishant Kalra; used with permission
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 47 ===
+Aortic regurgitation Images
+Figure 6: Pulsed wave Doppler of the regurgitant jet
+From the collections of Dr Sanjeev Wasson and Dr Nishant Kalra; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+47
+=== Page 48 ===
+Aortic regurgitation Images
+IMAGES
+Figure 7: Continuous wave Doppler of the regurgitant jet demonstrating pressure half-time of the aortic
+regurgitant velocity
+From the collections of Dr Sanjeev Wasson and Dr Nishant Kalra; used with permission
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 49 ===
+Aortic regurgitation Images
+Figure 8: Stages A and B of aortic regurgitation
+J Am Coll Cardiol. 2021 Feb, 77 (4) e25–e197; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+49
+=== Page 50 ===
+Aortic regurgitation Images
+IMAGES
+Figure 9: Stages C and D of aortic regurgitation
+J Am Coll Cardiol. 2021 Feb, 77 (4) e25–e197; used with permission
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 51 ===
+Aortic regurgitation Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+51
+=== Page 52 ===
+Aortic regurgitation Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 53 ===
+Contributors:
+// Authors:
+Poorna R. Karuparthi, MD, FACC
+Associate Professor of Medicine
+University of Missouri-Columbia, Chief of Cardiology, Harry S. Truman Veterans' Hospital, Columbia, MO
+DISCLOSURES: PRK declares that he has no competing interests.
+// Acknowledgements:
+Dr Poorna R. Karuparthi would like to gratefully acknowledge Dr Sanjeev Wasson and Dr Nishant Kalra,
+previous contributors to this topic.
+DISCLOSURES: SW and NK declare that they have no competing interests.
+// Peer Reviewers:
+Kul Aggarwal, MD, MRCP, FACC, FACP
+Professor of Clinical Medicine
+University of Missouri-Columbia, Chief, Cardiology Section, Harry S. Truman Veterans Hospital, Columbia,
+MO
+DISCLOSURES: KA declares that he has no competing interests.
+Rajdeep Khattar, DM, FRCP, FACC, FESC
+Consultant Cardiologist and Honorary Senior Clinical Lecturer
+Manchester Heart Centre, Central Manchester and Manchester Children's NHS Foundation Trust,
+Manchester, UK
+DISCLOSURES: RK declares that he has no competing interests.
+John Pepper, MChir FRCS
+Consultant Cardiac Surgeon
+Department of Surgery, Royal Brompton Hospital, London, UK
+DISCLOSURES: JP declares that he has no competing interests.

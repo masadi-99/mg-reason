@@ -1,0 +1,2603 @@
+# Evaluation of syncope
+
+=== Page 1 ===
+Evaluation of syncope
+Straight to the point of care
+Last updated: Jan 05, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Theory  4
+Etiology  4
+Emergencies  7
+Urgent considerations  7
+Diagnosis  9
+Approach  9
+Differentials overview  15
+Differentials  17
+References  36
+Disclaimer  42
+=== Page 3 ===
+Evaluation of syncope Overview
+Summary
+Syncope is a sudden and transient loss of consciousness that is associated with a loss of postural tone,
+and resolves spontaneously and completely without intervention. Precise incidence rates are difficult to
+determine and depend on the features of the population studied. In the United States, syncope accounts
+for approximately 0.8% of all emergency department visits and 2% of all hospital admissions from the
+emergency department.[1]
+Although the pathophysiology of syncope is related to a transient decrease in cerebral blood flow, the causes
+of syncope are myriad and range from the benign to the life-threatening.
+Physicians must identify patients with potentially life-threatening processes (e.g., dysrhythmias, pulmonary
+embolism, subarachnoid hemorrhage, acute coronary syndromes), patients who may require hospitalization
+and intervention (e.g., patients with bradycardia or medication-induced orthostatic hypotension), and those
+with a more benign cause of syncope who can be discharged.[2]
+The history and the physical examination may identify an underlying cause of syncope in many patients.
+However, the lack of accurate historical information, and the fact that patients are often asymptomatic at the
+time of evaluation, combine to fuel diagnostic uncertainty.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Evaluation of syncope Theory
+THEORY
+Etiology
+The etiologies of syncope are myriad and can be classified in various ways, including cardiac, noncardiac,
+and unknown causes.[3] There may be a degree of overlap between cardiac and non-cardiac causes; the
+cause of syncope may not be determined (idiopathic etiology) in up to one third of cases.[4]
+Syncope is caused by the transient reduction in cerebral blood flow which results in hypoperfusion of
+both cerebral hemispheres simultaneously or sections of the brainstem thought to be responsible for the
+conscious state (the reticular activating system).
+The role of patient age in the diagnostic evaluation of syncope is not clearly defined. Although some studies
+suggest the importance of age as a predictor of poorer outcome in patients with syncope of any cause,
+others have demonstrated that age is not an independent predictor of adverse outcome in syncope.[5] [6] [7]
+While a single pathologic process often causes syncope in younger patients, in older patients it is often
+multifactorial. Older patients are especially prone to syncope as a consequence of a combination of
+age-related alterations in the cardiovascular system, multiple comorbidities, and the use of numerous
+medications.[8]
+Cardiac syncope
+Defined as syncope caused by bradycardia, tachycardia, or hypotension due to low cardiac index, blood flow
+obstruction, vasodilatation, or acute vascular dissection.[9]
+Dysrhythmias
+Produce syncope by decreasing ventricular filling and stroke volume, resulting in hypotension and diminished
+cerebral blood flow. Examples include:
+• Ventricular arrhythmias
+• Sinus node dysfunction: including bradycardia/tachycardia syndrome
+• Atrioventricular conduction system blocks
+• Paroxysmal supraventricular tachycardia
+• Inherited syndromes: long QT syndromes, Brugada syndrome
+• Implanted device malfunction: pacemaker or implantable cardioverter defibrillator; pacemaker
+malfunction may produce syncope as a result of bradydysrhythmias or pacemaker-induced tachycardia
+• Drug-induced proarrhythmias: sotalol, flecainide, quinidine, procainamide, disopyramide.
+Structural cardiac and cardiopulmonary disease
+• Cardiac valvular diseases
+• aortic or mitral stenosis: severe mitral stenosis is most commonly associated with syncope
+during periods of atrial fibrillation; exertional syncope may be due to aortic stenosis[10]
+• acute aortic, mitral, or tricuspid insufficiency
+• prosthetic valve dysfunction
+• Hypertrophic obstructive cardiomyopathy: exertional syncope may be due to hypertrophic
+cardiomyopathy
+• Acute myocardial ischemia/infarction: syncope is a relatively rare initial presentation of acute
+myocardial infarction and is related to dysrhythmia or pump failure
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Evaluation of syncope Theory
+• Atrial myxoma
+• Acute aortic dissection
+• Pulmonary embolism and pulmonary hypertension: acute pulmonary hypertension can cause a
+functional obstruction to pulmonary flow, abruptly decreasing left ventricular preload and thus cardiac
+output. This is most likely the mechanism of syncope associated with massive pulmonary embolism. In
+patients with chronic pulmonary hypertension, activities that acutely raise intrathoracic pressure, such
+as coughing or Valsalva during defecation, can produce the same phenomenon
+• Cardiac tamponade: increased pericardial pressure causes compression of the heart chambers and
+subsequently decreases cardiac output.
+Noncardiac syncope
+Reflex (neurally mediated)
+This is syncope due to a reflex that causes vasodilation, bradycardia, or both. It has several subtypes.
+• Vasovagal syndrome: the most common type of syncope in children and adults.[11] [12]
+• Carotid sinus syndrome
+• Situational syncope.
+Orthostatic
+• Dysautonomia:
+• Catecholamine disorders: baroreflex failure, dopamine-beta-hydroxylase deficiency,
+pheochromocytoma, neuroblastoma, familial paraganglioma syndrome, tetrahydrobiopterin
+deficiency
+• Central autonomic disorders: multiple system atrophy (Shy-Drager syndrome), Parkinson
+disease with autonomic failure
+• Orthostatic intolerance syndrome: postural tachycardia syndrome, mitral valve prolapse,
+idiopathic hypovolemia
+• Paroxysmal autonomic syncopes: neurocardiogenic syncope
+• Peripheral autonomic disorders: acute idiopathic polyneuropathy (Guillain-Barre syndrome),
+Chagas disease, diabetic autonomic failure, familial dysautonomia, pure autonomic failure
+(Bradbury-Eggleston syndrome).
+• Hypovolemia
+• Diarrhea
+• Hemorrhage (may be occult): gastrointestinal bleeding, tissue trauma, ruptured aortic aneurysm,
+ruptured ovarian cyst, ruptured ectopic pregnancy, retroperitoneal hemorrhage, ruptured spleen
+• Addison disease
+• Postexercise
+• Postprandial
+• Drug-induced (most common cause of orthostatic hypotension): for example, with diuretics,
+alpha-adrenergic blocking agents such as prazosin, ACE inhibitors, alcohol, clonidine, tricyclic
+antidepressants, phenothiazines, antihistamines, L-dopa, monoamine oxidase inhibitors. The effects of
+drugs and their interactions are exacerbated in older people because of the dysautonomia that occurs
+with aging.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Evaluation of syncope Theory
+THEORY
+Anatomic
+• Subclavian steal syndrome.
+Neurologic
+• Subarachnoid hemorrhage: unusual cause of syncope, presumably related to a sudden increase in
+intracranial pressure
+• Traumatic brain injury: transient reversible hypoperfusion in the brain may be caused by a sudden
+increase in intracranial pressure from trauma or other brain injuries that limit cerebral blood flow[13]
+• Migraine is uncommonly associated with syncope (may be vasovagal or due to orthostatic intolerance).
+Toxic or metabolic
+• Drug toxicities (such as antiarrhythmic agents causing proarrhythmic effects)
+• Antihypertensive agents (causing orthostatic hypotension)
+• Hypoglycemia
+• Hypoxia
+• Hyperventilation with hypocapnia.
+Psychiatric
+There is no true impairment of consciousness in these disorders.[14] [15]
+• Anxiety
+• Cataplexy
+• Conversion disorders can sometimes present as syncope.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Evaluation of syncope Emergencies
+Urgent considerations
+(See  Differentials  for more details)
+It is critical to identify patients with a high risk of death. The presence of structural heart disease or abnormal
+ECG findings indicate that a patient may be at high risk of death.[16] Causes of syncope that need to be
+excluded urgently include those listed below.
+Myocardial infarction and ischemia
+An acute myocardial infarction or a remote myocardial infarction, especially with left ventricular dysfunction,
+can result in syncope due to ventricular arrhythmia, which can be life-threatening. Patients may have a
+history of known coronary artery disease (CAD) and preceding chest pain. ECG should be performed
+immediately to look for signs of infarction such as ST-segment elevation, new left bundle branch block, and
+arrhythmias.
+Cardiac arrhythmias
+Bradyarrhythmia and tachyarrhythmia are potentially life-threatening conditions that present with syncope.
+A history of CAD, medications that promote AV block or torsades de pointes, and increased age increase
+the likelihood of arrhythmias. Less common causes of cardiac arrhythmias associated with sudden death,
+such as Wolff-Parkinson-White syndrome and inherited cardiac ion channel abnormalities (such as long QT
+syndrome and Brugada syndrome), should be excluded.
+Occult hemorrhage
+Significant hemorrhage from gastrointestinal bleeding, tissue trauma, ruptured aortic aneurysm, ruptured
+ovarian cyst, ruptured ectopic pregnancy, retroperitoneal hemorrhage, or ruptured spleen may present with
+syncope.
+Aortic dissection
+Needs to be considered in patients with chest and back pain. ECG may be abnormal if the dissection
+involves the coronary vessels, and chest x-ray may show a widened mediastinum; however, definitive testing
+with transesophageal echocardiogram (TEE) or contrast computed tomography (CT) chest is urgently
+required to show the intimal flap and false lumen of aortic dissection.
+Cardiac tamponade
+May be caused by acute myocardial infarction, aortic dissection, trauma, hypothyroidism, or pericarditis.
+Immediate pericardiocentesis is required.
+Severe hypoglycemia
+Severe hypoglycemia due to excessive administration of insulin, hepatic disease, or islet of Langerhans
+tumor may cause syncope. All patients presenting acutely with syncope should have blood glucose level
+measured as part of the initial assessment.
+Hypoglycemia and associated loss of consciousness is generally not transient unless treated, and thus
+hypoglycemia is often excluded from studies of syncope.
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Evaluation of syncope Emergencies
+EMERGENCIES
+Addison disease
+Acute, life-threatening addisonian crisis can present with syncope, nausea and vomiting, fever, hypotension,
+hyperpigmentation, and electrolyte abnormalities. Presumptive treatment with hydrocortisone is required to
+correct hypotension.[17]
+Massive pulmonary embolism
+Saddle pulmonary embolus produces cardiac outflow obstruction, resulting in decreased cerebral perfusion
+and syncope.[18] Prospective studies report pulmonary embolism in between 2.3% and 25.3% of patients
+hospitalized with syncope.[19]
+The history needs to include possible thromboembolic (TE) risk factors, such as previous TE disease,
+prolonged immobilization (e.g., flight >4 hours), smoking, oral contraceptive pill or hormone replacement
+therapy, known malignancy, or family history of TE.
+The history needs to include possible thromboembolic (TE) risk factors, such as previous TE disease,
+prolonged immobilization (e.g., flight >4 hours), smoking, oral contraceptive pill or hormone replacement
+therapy use, known malignancy, or family history of TE.
+Urgent evaluation with a CT pulmonary angiogram, ventilation/perfusion scan, D-dimer, or TEE (showing
+right heart failure or extension of thrombus in pulmonary artery) can help make the diagnosis, and ECG
+changes of S1Q3T3 or right bundle branch block may also be seen. Arterial blood gases can quantify the
+degree of hypoxia.[20]
+Thrombolysis should be considered for patients with massive pulmonary embolism causing cardiogenic
+shock.[21]
+Subarachnoid hemorrhage
+Headache, particularly when ‘thunderclap’ in nature, or the appearance of focal neurologic signs in a patient
+with syncope, should raise subarachnoid hemorrhage as a potential cause.
+There is no utility in routinely obtaining a head CT scan in patients with syncope because lack of either a
+headache or abnormal neurologic examination adequately rules out subarachnoid hemorrhage as the cause
+etiology of the syncopal event.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Evaluation of syncope Diagnosis
+Approach
+The initial steps when assessing a patient with suspected syncope are to differentiate syncope from
+nonsyncopal conditions, such as seizures, falls, psychogenic pseudosyncope, drop attacks, and transient
+ischemic attacks, and to try to identify the cause (mechanism) so that appropriate treatment may be
+offered.[11] Data from several studies have shown that history and physical exam can identify a potential
+cause of syncope in many patients whose primary disorder can be diagnosed.[11] [22]
+The next step is to assess the specific risk to the patient.[9] [11] For instance, the presence of structural heart
+disease or abnormal ECG findings indicates that an individual may be at higher risk of death.[16]
+History
+Syncope and nonsyncopal conditions, with real or apparent loss of consciousness, can be differentiated in
+most cases with a detailed clinical history, but this may sometimes be extremely difficult.[23] [24]
+When a patient presents to the emergency department, it is important to correctly differentiate benign from
+potentially life-threatening causes of syncope. Red flag symptoms indicating the latter include: chest pain,
+palpitations, back pain, hematemesis, melena before the syncopal episode, and syncope with exercise.[10]
+[25] Palpitations before loss of consciousness are a significant predictor of a cardiac cause of syncope.[26]
+A detailed account of the event is taken from the patient or bystander. Precipitating factors, prodrome of
+symptoms, patient's position at the time of event, duration of syncope, recovery time, and family history are
+all important points to be considered. The history helps to narrow the differential diagnosis, and aims to
+identify risk for conditions linked with a poor prognosis.[9]
+Specific triggers
+Situational syncope with activities, including coughing, swallowing, micturition, and defecation, suggests
+that the cause is neurally mediated or vasovagal. Neurally mediated syncope is frequently recurrent
+and precipitated by fatigue, hot environment, severe pain, starvation, alcohol consumption, emotional or
+stressful situations, and prolonged standing. The patient is usually in the standing position and complains of
+prodromal symptoms of feeling weak, and may have nausea, diaphoresis, palpitations, blurring of vision, and
+becomes noticeably pale. Fatigue is common after regaining consciousness.
+Syncope while shaving or turning the head to one side may be related to carotid sinus hypersensitivity,
+affecting mainly men aged ≥50 years.
+Differentiating between syncope and epileptic seizure
+Differentiating between syncope and epileptic seizure can sometimes be challenging. Information obtained
+from onlookers can help narrow the diagnosis. Seizures are typically associated with longer duration of loss
+of consciousness, loss of bowel and bladder control, rhythmic clonic movements, and disorientation after
+the episode. While tongue biting can occur in patients with syncope, it greatly increases the chance that the
+patient has had an epileptic seizure.[27]
+Twitching and jerking are often seen with vasovagal or cardiac syncope, but these can be differentiated
+from rhythmic jerking of all the limbs in tonic-clonic seizures. Further testing is required when the diagnosis
+remains uncertain.[12]
+Past medical history
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Taking a past medical history is important, particularly noting any known cardiovascular conditions.[9]
+Patients with advanced congestive heart failure, with low mean ejection fraction (<20%) and syncope, have
+increased risk of ventricular arrhythmia and 1-year mortality of 45%.[28] Some patients with pulmonary
+arterial hypertension have a history of syncope at the time of presentation, which is an independent predictor
+of a poor prognosis.[29]
+Symptomatic patients with Brugada syndrome have a higher risk of sudden death than do asymptomatic
+patients.[30] [31] Patients with hypertrophic cardiomyopathy who have had an episode of syncope also have
+a high risk of sudden death.[32]
+People with psychogenic pseudosyncope often have a history of frequent, recurrent episodes. The duration
+of apparent loss of consciousness is often long. It is more common in young women and there is a higher
+prevalence in people with a history of physical or sexual abuse.[9] [33]
+Family history
+A family history of syncope is important. Patients with exertional syncope and positive family history of
+syncope or sudden cardiac death are at increased risk of sudden death, and need further evaluation to rule
+out cardiac causes of syncope such as prolonged QT syndrome.
+Medication history
+A detailed medication history should be obtained and may provide useful information that suggests a
+possible cause of the syncopal episode. Drug classes that have been implicated in syncopal episodes
+include: diuretics, vasodilators, venodilators, negative chronotropes, and sedatives.[9]
+Vasoactive medications, including antihypertensive agents, antianginal medications, and medications used to
+treat erectile dysfunction, may lead to syncope because of their vasodilatory effects.
+Medication interactions may prolong the QT interval and lead to potentially life-threatening dysrhythmias.
+Elderly patients in particular are more susceptible to medication effects that may cause syncope, and close
+attention should be directed to potential medication interactions in these individuals.
+Physical exam and ECG
+Vital sign abnormalities, including persistent tachycardia or hypotension, are concerning and must prompt a
+search for an underlying cause.
+Blood pressure should be checked in both arms in supine and standing positions, on immediate standing,
+and after 3 minutes of standing.[9] Orthostatic hypotension is defined, by consensus, as a fall in systolic
+blood pressure of at least 20 mmHg and/or a fall in diastolic blood pressure of at least 10 mmHg within 3
+minutes of standing.[34] The European Cardiology Society has added a fall in systolic blood pressure to <90
+mmHg after 3 minutes of standing to the criteria for diagnosis of orthostatic hypotension.[11]
+Orthostatic hypotension may identify some patients with syncope related to volume depletion, autonomic
+insufficiency, or medications.[34] However, it is a common finding in asymptomatic patients. The diagnosis of
+orthostatic hypotension as the sole cause of syncope should probably represent a diagnosis of exclusion in
+high-risk patients, because many high-risk patients also have orthostasis.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Evaluation of syncope Diagnosis
+Pulse rate and rhythm are useful in the diagnosis of arrhythmias and pulmonary embolism. Cardiac
+auscultation may reveal murmurs (e.g., of aortic stenosis, atrial myxoma, and pulmonary arterial
+hypertension).
+A basic neurologic exam is required. The presence of sensory, motor, speech, or vision deficits suggests an
+underlying neurologic problem requiring further investigation or referral. In patients with suspected carotid
+hypersensitivity, carotid sinus massage may reproduce the symptoms. Carotid sinus massage should not be
+performed in patients who have experienced transient ischemic attack or stroke within the past 3 months or
+in patients with carotid bruits (unless carotid Doppler studies convincingly exclude significant carotid artery
+narrowing).[11]
+A 12-lead ECG should be performed on every patient presenting with syncope.[9] [35]
+Risk assessment
+The 2017 American College of Cardiology/American Heart Association/Heart Rhythm Society (ACC/AHA/
+HRS) guideline for the evaluation and management of patients with syncope recommends assessing
+short-term (up to 30 days after syncope) and long-term (up to 12 months of follow-up) risk of morbidity and
+mortality in people presenting with syncope in the outpatient clinic or emergency department.[9]
+Short-term risk factors
+• Male
+• No prodrome
+• Palpitations preceding loss of consciousness
+• Exertional syncope
+• Structural heart disease
+• Heart failure
+• Cerebrovascular disease
+• Family history of sudden cardiac death
+• Trauma
+• Evidence of bleeding
+• Persistent abnormal vital signs
+• Positive troponin.
+Long-term risk factors
+• Male
+• Older age
+• Absence of nausea/vomiting preceding syncopal event
+• Ventricular arrhythmia
+• Cancer
+• Structural heart disease
+• Heart failure
+• Cerebrovascular disease
+• High CHADS-2 score
+• Abnormal ECG
+• Abnormal glomerular filtration rate.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+The ACC/AHA/HRS guideline also considers factors associated with intermediate risk, where structured
+observation in the emergency department may be considered:[9]
+• 50 years of age or older
+• Prior history of cardiac disease
+• Cardiac device without evidence of dysfunction
+• Concerning ECG findings
+• Family history of early sudden cardiac death
+• Symptoms not consistent with reflex-mediated syncope.
+When the cause of syncope is unclear and the patient falls into the intermediate risk group, the use of a
+structured emergency department observation protocol may be effective as a means of reducing hospital
+admission.[9]
+Predictors of short-term adverse outcomes
+Often, despite a thorough history and physical examination, no obvious cause of syncope is identified. In
+these cases, it is important to identify those patients at highest risk of serious short-term outcomes.
+A number of studies have attempted to identify predictors of short-term adverse outcomes in patients
+presenting to the emergency department (ED) and whose initial workup did not reveal an obvious cause of
+syncope.[7] [36] [37]
+Patients who are clinically considered to be at intermediate or high risk for dysrhythmia or sudden death
+should be admitted to an inpatient unit, observation unit, or other monitored area. Although the definition of
+high- and low-risk patients is not consistent across studies, certain clinical and diagnostic features confer a
+lower or higher risk of adverse outcomes, including dysrhythmia.[36] [37]
+Patients thought to be low risk are those with syncope at a younger age (<40 years), syncope that occurred
+while in a standing position, or when moving from a sitting/supine position to standing, syncope triggered by
+a painful or emotionally distressing situation, or by cough, micturition or defecation.[7] [36]
+Patients with near syncope (patients who feel like they are going to pass out, but do not) have similar risks for
+adverse outcome when compared with patients with transient loss of consciousness, and should be treated
+similarly.[38]
+Patients presenting to the ED with syncope determined to be of benign etiology (clearly vasovagal or
+dehydration related) with a negative ED workup should be considered for discharge regardless of the
+presence of other risk factors.
+Ancillary tests
+Further investigations needs to be individualized so that the workup is cost-effective and appropriate.[9]
+The diagnosis of vasovagal syncope is based mostly on the history, physical examination, and eyewitness
+observation, if available, so further testing in this group may not be needed in healthy individuals. However,
+features may not be typical in older people, making the diagnosis less clear.[9]
+Blood tests may be useful and need to be tailored for a particular patient.[9] In practice, it is common to
+measure cardiac enzymes (e.g., high-sensitivity troponin) in all patients presenting in hospital with syncope,
+although the 2017 ACC/AHA/HRS guideline recommends targeting people with signs suggestive of acute
+myocardial infarction, such as chest pain or dyspnea.[9] 
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Evaluation of syncope Diagnosis
+Complete blood count (CBC) and blood glucose levels are useful routine tests. In an unselected group of
+patients presenting to the emergency department with syncope from any cause, a hematocrit <30% was an
+important predictor of adverse events.[39]
+Uremia and electrolyte abnormalities can cause seizures, and testing may help make the diagnosis in
+patients in whom seizure activity cannot be excluded. Elevated creatine kinase may also suggest seizures.
+In patients with anemia, stool guaiac examination should be considered to evaluate for occult gastrointestinal
+(GI) blood loss as a possible cause of syncope. To assess for colorectal cancer, the US and UK guidelines
+report risk thresholds for testing symptomatic patients.[40] [41] [42] The UK’s National Institute for Health and
+Care Excellence (NICE) recommends certain quantitative fecal immunochemical tests (FITs) to recognize
+and guide referral of patients at risk of colorectal cancer.[41] [42]
+Pregnancy testing is required for all sexually active women of childbearing age. Blood and urine toxicology
+screens are performed on patients with high clinical suspicion for alcohol misuse or illicit drug use, or in
+patients with no obvious cause for syncope on history and exam.
+Chest x-ray may be useful as a baseline.[43] It is an important initial test in some clinical circumstances, such
+as myocardial infarction, aortic dissection, and perforated peptic ulcer. There is no evidence to suggest that
+routine screening of patients with advanced imaging (such as computed tomography [CT] scans), functional
+cardiac echocardiography, or electrophysiological testing is indicated.[44]
+If a cardiovascular cause is suspected
+If a cardiac cause is suspected on ECG, transthoracic echocardiography is done to evaluate for the presence
+of organic heart disease.[43] One retrospective study of adults hospitalized with syncope found that 44% of
+patients with an abnormal physical exam or ECG had a significant echocardiographic finding, compared with
+10% of patients who had a normal physical exam and normal ECG.[45]
+Patients with organic heart disease as inpatients with, for example, electrophysiology studies, Holter
+monitors, and loop recorders for 24 to 48 hours. Various types of cardiac monitoring devices exist; choice
+is based on the frequency and nature of the syncopal events.[9] Electrophysiological studies may be
+considered in select patients where the etiology is suspected to be an arrhythmia. 
+In some patients, exercise testing or cardiac catheterization is necessary to confirm the presence of
+coronary artery disease. Exercise testing may also be used in select patients who have reported syncope or
+presyncopal symptoms associated with exercise. However, extreme caution is required and this test should
+only be performed in a suitable environment where advanced life support is available.[9]
+In patients with suspected atrial myxoma, transesophageal echocardiography and cardiac magnetic
+resonance imaging (MRI) are used to demonstrate the tumor. CT chest with contrast is indicated to
+visualize the abnormal aorta wall in patients with aortic dissection. Abdominal ultrasound (along with
+blood chemistries) is performed on people with suspected ruptured abdominal aortic aneurysm. Duplex
+ultrasonography is done in people with suspected subclavian steal syndrome.
+CT or MRI may be used if a cardiac cause is suspected but initial evaluation is inconclusive. If
+arrhythmogenic right ventricular cardiomyopathy (ARVC) or cardiac sarcoidosis is suspected, MRI may
+be considered.[9] Right ventricular angiography may also be performed if ARVC is suspected. 18F-
+fluorodeoxyglucose positron emission tomography may be considered if cardiac sarcoidosis is suspected. 
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Chest x-ray, D-dimer, CT pulmonary angiography, ventilation/perfusion scan, or pulmonary angiography are
+indicated in suspected pulmonary embolism (PE). The choice of investigation depends on the likelihood of
+PE and the patient’s comorbidities.
+If a neurologic (including neurally mediated) cause is suspected
+Tilt table test may be performed in apparently healthy young patients, or patients with recurrent syncope
+with a suspected neurally mediated (vasovagal) syncope. A positive tilt-table test suggests a tendency to
+vasovagal syncope, but does not provide a definitive diagnosis.
+Hemodynamic testing and autonomic reflex testing are performed to evaluate dysautonomia.
+Head CT scan is done in patients with neurologic deficits or trauma to the head secondary to a fall from
+syncope.[46]
+MRI, carotid Doppler ultrasonography, and magnetic resonance angiography are ordered to evaluate
+vertebrobasilar atherosclerosis in patients presenting with neurologic deficits.
+If seizure cannot be excluded, electroencephalography should be requested.
+If obstetric, gastrointestinal, or endocrine cause is suspected
+Transvaginal ultrasound is done in pregnant women to exclude ectopic pregnancy. A urine pregnancy test
+may also be followed up with serum human chorionic gonadotropin.
+CBC and blood chemistries are performed in all patients with (suspected) gastrointestinal (GI) bleeding.
+In upper GI bleeding, esophagogastroduodenoscopy may demonstrate underlying esophageal, gastric, or
+duodenal disease, whereas colonoscopy is performed in lower GI bleeding.
+Additional laboratory testing for C-peptide and sulfonylurea levels is indicated in suspected hypoglycemia.
+Patients with suspected Addison disease require measurement of electrolytes and morning serum cortisol,
+adrenocorticotropic hormone (stimulation test), and a CT abdomen.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Evaluation of syncope Diagnosis
+Differentials overview
+Common
+Acute coronary syndrome
+Ventricular arrhythmias
+Atrioventricular block
+Acute atrial fibrillation
+Congestive heart failure
+Volume depletion
+Sinus node dysfunction
+Aortic stenosis
+Upper gastrointestinal bleeding
+Lower gastrointestinal bleeding
+Neurally mediated
+Orthostatic hypotension
+Migraine
+Seizure
+Uncommon
+Wolff-Parkinson-White syndrome/preexcitation syndrome
+Cardiac tamponade
+Aortic dissection
+Pulmonary embolism
+Ruptured abdominal aortic aneurysm
+Brugada syndrome
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Uncommon
+Long QT syndrome
+Hypertrophic cardiomyopathy
+Arrhythmogenic right ventricular cardiomyopathy
+Mitral stenosis
+Atrial myxoma
+Cardiac sarcoidosis
+Paroxysmal supraventricular tachycardia
+Subclavian steal syndrome
+Implantable cardiac device malfunction
+Ectopic pregnancy
+Hypoglycemia
+Addison disease
+Vertebrobasilar transient ischemic attack
+Subarachnoid hemorrhage
+Psychogenic pseudosyncope
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Evaluation of syncope Diagnosis
+Differentials
+Common
+Acute coronary syndrome
+History Exam 1st Test Other tests
+history of coronary
+artery disease (CAD);
+risk factors for CAD
+(increasing age,
+male, hypertension,
+diabetes, obesity,
+hyperlipidemia); chest
+pain, palpitations,
+dyspnea, weakness,
+lightheadedness
+pale, diaphoretic;
+may have low BP;
+may be brady- or
+tachycardic; audible S3
+or S4; jugular venous
+distention if right
+ventricular failure from
+inferior wall myocardial
+infarction (MI); signs
+of congestive heart
+failure (CHF) such as
+peripheral edema and
+bibasilar rales
+»ECG: ST-segment
+elevation or depression,
+dynamic T-wave
+changes, new-onset left
+bundle branch block
+»cardiac enzymes:
+elevated in ST-elevation
+MI (STEMI) and non-
+STEMI (NSTEMI); not
+elevated in unstable
+angina
+»chest x-ray:
+increased alveolar
+markings; cardiomegaly
+Pulmonary edema
+causes increased
+alveolar markings
+and can be caused
+by ischemia
+secondary to acute
+coronary syndrome.
+Cardiomegaly suggests
+concomitant CHF.
+»echocardiography:
+wall motion
+abnormalities,
+decreased ejection
+fraction
+»coronary
+angiography:
+coronary anomalies;
+STEMI: critical
+occlusion of a coronary
+artery; NSTEMI and
+unstable angina:
+evidence of coronary
+artery narrowing
+Ventricular arrhythmias
+History Exam 1st Test Other tests
+recent or remote
+myocardial infarction
+(MI); history of coronary
+artery disease,
+previous cardiac arrest,
+mitral or aortic valve
+stenosis, or structural
+heart disease; family
+history of sudden
+death; may occur in
+the supine position or
+with exertion; absent
+may be asymptomatic
+at presentation with
+no physical finding; or
+hypoxemia, pulmonary
+rales, jugular venous
+distention, and
+hypotension
+»ECG: Q waves
+or signs of old MI;
+prolonged QT interval;
+delta waves if Wolff-
+Parkinson-White
+syndrome
+»cardiac enzymes:
+normal, unless
+associated with MI
+»chest x-ray:
+increased alveolar
+markings, cardiomegaly
+Pulmonary edema
+causes increased
+alveolar markings and
+can be caused by
+ischemia secondary to
+ventricular arrhythmias.
+Cardiomegaly suggests
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Common
+Ventricular arrhythmias
+History Exam 1st Test Other tests
+or brief prodrome (<5
+seconds) of palpitation
+and lightheadedness
+preceding syncope;
+valve replacement
+within the last 6 months
+concomitant congestive
+heart failure.
+»echocardiography:
+hypertrophic
+cardiomyopathy,
+valvular heart disease,
+low ejection fraction
+»external cardiac
+monitoring (e.g.,
+Holter monitor)
+or in-hospital
+telemetry: multiform
+premature ventricular
+complexes, couplets,
+nonsustained
+ventricular tachycardia
+(VT); arrhythmias
+associated with
+symptoms
+»implantable
+cardiac monitor:
+multiform premature
+ventricular complexes,
+couplets, nonsustained
+VT; arrhythmias
+associated with
+symptoms
+»exercise test:
+exercise-induced
+arrhythmia, congenital
+long QT syndrome;
+catecholaminergic
+polymorphic VT
+»electrophysiology
+studies: induction of
+monomorphic VT
+»coronary
+angiography:
+coronary obstruction,
+congenital
+abnormalities, valvular
+abnormalities, coronary
+anomalies
+Cardiac abnormalities
+can predispose to
+arrhythmias.
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Evaluation of syncope Diagnosis
+Common
+Atrioventricular block
+History Exam 1st Test Other tests
+older age; history
+of coronary artery
+disease or structural
+heart disease; use of
+medications resulting
+in atrioventricular (AV)
+block (such as beta-
+blockers, calcium-
+channel blockers,
+amiodarone); dizziness;
+fatigue; presyncope
+bradycardia; irregular
+pulse; cannon a-waves
+in the jugular venous
+pulsation (if third-
+degree block)
+»ECG: first-, second-,
+or third-degree block
+First-degree block:
+prolonged PR interval
+(>200 milliseconds).
+Second-degree block:
+more p waves than
+QRS complexes but
+clear relationship
+between p waves
+and QRS complexes,
+Mobitz I (Wenckebach)
+block (gradual
+prolongation of PR
+interval leading up
+to nonconducted p
+wave) or Mobitz II (non-
+Wenckebach) block
+(blockage of every
+other p wave).
+Third-degree block:
+more p waves than
+QRS complexes but
+no clear relationship
+between p waves
+and QRS complexes,
+ventricular rate typically
+30-40 bpm.
+»external cardiac
+monitoring (e.g.,
+Holter monitor)
+or in-hospital
+telemetry: transient
+AV block, sinus pauses
+»implantable
+cardiac monitor:
+transient AV block,
+sinus pauses
+»electrophysiology
+studies: determination
+of atrium-His and His-
+ventricle intervals
+◊ Acute atrial fibrillation
+History Exam 1st Test Other tests
+history of coronary
+artery disease or
+structural heart
+disease; may occur in
+the supine position;
+history of presyncope;
+chest pain, dyspnea,
+blurred vision,
+irregularly irregular
+pulse with or without
+rapid ventricular rate;
+sign of congestive
+heart failure (CHF)
+such as pulmonary
+rales, jugular venous
+distention, hypotension
+»ECG: irregularly
+irregular QRS rhythm
+with absent p waves
+»chest x-ray:
+cardiomegaly;
+pulmonary edema
+»external cardiac
+monitoring (e.g.,
+Holter monitor)
+or in-hospital
+telemetry: to establish
+type of atrial fibrillation;
+may have paroxysmal
+nature
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Common
+◊ Acute atrial fibrillation
+History Exam 1st Test Other tests
+weakness, and
+palpitations before
+syncope[26]
+Pulmonary edema
+causes increased
+alveolar markings and
+can be caused by
+ischemia secondary to
+acute atrial fibrillation.
+Cardiomegaly suggests
+concomitant CHF.
+»cardiac enzymes:
+normal unless
+underlying or resultant
+ischemia
+»implantable
+cardiac monitor: to
+establish type of atrial
+fibrillation; may have
+paroxysmal nature
+»echocardiography:
+valvular heart disease;
+left atrial dilation;
+reduced left ventricular
+ejection fraction
+Used to assess
+underlying cardiac
+disease.
+◊ Congestive heart failure
+History Exam 1st Test Other tests
+palpitations, fatigue,
+dyspnea, presyncope,
+orthopnea, paroxysmal
+nocturnal dyspnea
+pulmonary congestion;
+S3 gallop; lower
+extremity edema,
+jugular venous
+distention
+»ECG: evidence of
+underlying coronary
+artery disease, left
+ventricular hypertrophy,
+or atrial enlargement;
+may be conduction
+abnormalities and
+abnormal QRS duration
+»chest x-ray:
+cardiomegaly;
+pulmonary edema
+»echocardiography:
+low ejection fraction
+»external cardiac
+monitoring
+(e.g., Holter
+monitor) or in-
+hospital telemetry:
+frequent episodes
+of nonsustained
+ventricular tachycardia
+»B-type natriuretic
+peptide (BNP) or
+N-terminal pro-
+BNP (NT-proBNP):
+elevated
+BNP and NT-proBNP
+are produced by
+ventricular myocytes
+subjected to high
+stretch. In emergency
+settings, natriuretic
+peptide biomarker
+levels may be more
+useful for ruling out
+than ruling in heart
+failure.[47]
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Evaluation of syncope Diagnosis
+Common
+◊ Volume depletion
+History Exam 1st Test Other tests
+dizziness, lethargy,
+decreased urine output;
+history of cause, such
+as vomiting, diarrhea,
+or excessive diuretic
+use
+tachycardia,
+hypotension, dry
+mucosa, poor skin
+turgor
+»BP supine and
+standing: decrease
+of at least 20 mmHg in
+systolic BP or at least
+10 mmHg in diastolic
+BP within 3 minutes of
+standing
+»BUN: elevated
+»serum creatinine:
+may be elevated
+»serum electrolytes:
+may be hypernatremia
+◊ Sinus node dysfunction
+History Exam 1st Test Other tests
+lightheadedness,
+weakness, palpitations,
+dyspnea, angina
+bradycardia; a sinus
+pause >3 seconds;
+heart rate does not
+change with Valsalva
+maneuver
+»ECG: sinus pauses >3
+seconds
+»external cardiac
+monitoring
+(e.g., Holter
+monitor) or in-
+hospital telemetry:
+sinus pauses >3
+seconds; bradycardia,
+tachycardia-bradycardia
+syndrome
+Used for patients with
+paroxysmal symptoms.
+»implantable
+cardiac monitor:
+sinus pauses >3
+seconds; bradycardia,
+tachycardia-bradycardia
+syndrome
+Used for patients with
+paroxysmal symptoms.
+»electrophysiology
+studies: measures
+sinus nodal recovery
+time by overdrive
+suppression of the
+sinus node and
+sinoatrial conduction
+time
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Common
+◊ Sinus node dysfunction
+History Exam 1st Test Other tests
+Becoming an unpopular
+option in day-to-day
+practice.
+◊ Aortic stenosis
+History Exam 1st Test Other tests
+exertional dyspnea,
+angina, dizziness,
+syncope; late stages
+develop congestive
+heart failure (dyspnea,
+paroxysmal nocturnal
+dyspnea, peripheral
+edema)
+harsh ejection systolic
+murmur that radiates
+to carotids, murmur
+loudest at the left
+sternal edge and on
+squatting, and softer
+with Valsalva and
+isometric exercises;
+slow rising pulse; low
+carotid volume; S4 with
+systolic thrill; signs
+of congestive heart
+failure (pulmonary
+rales, lower extremity
+edema, jugular
+venous distention,
+hepatomegaly)
+»ECG: left ventricular
+hypertrophy (LVH); ST
+segment depression
+from left ventricular
+strain
+»chest x-ray:
+cardiomegaly;
+pulmonary edema
+Aortic stenosis can
+cause LVH and
+pulmonary edema.
+»echocardiography:
+evaluates the valve
+area (severity of
+stenosis); mean
+atrioventricular
+gradient; LVH; ejection
+fraction
+»cardiac
+catheterization:
+aortic and left ventricle
+pressure gradient;
+severity of stenosis;
+measures left ventricle
+end-diastolic volume
+and end-systolic
+volume
+Upper gastrointestinal bleeding
+History Exam 1st Test Other tests
+history of peptic ulcer
+disease; history of
+aspirin or nonsteroidal
+anti-inflammatory drug
+use; history alcohol
+excess; epigastric
+abdominal pain;
+hematemesis; melena;
+dizziness
+tachycardia,
+hypotension, abdominal
+tenderness and
+guarding; decreased
+bowel sounds; digital
+rectal exam showing
+melena or positive fecal
+occult blood
+»CBC: low Hb
+»blood chemistries:
+elevated BUN/
+creatinine ratio
+»chest x-ray: free air
+under diaphragm
+If perforated peptic
+ulcer present.
+»esophagogastroduodenoscopy:
+gastritis, duodenitis,
+peptic ulcer,
+esophageal varices, or
+Mallory-Weiss tear
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Evaluation of syncope Diagnosis
+Common
+Lower gastrointestinal bleeding
+History Exam 1st Test Other tests
+history of diverticular
+disease; weight loss;
+constipation; abdominal
+pain; rectal bleeding
+tachycardia,
+hypotension, abdominal
+tenderness and
+guarding; decreased
+bowel sounds; digital
+rectal exam showing
+mass or positive for
+fecal occult blood
+»CBC: low Hb
+»blood chemistries:
+elevated BUN/
+creatinine ratio
+»colonoscopy:
+bleeding from
+diverticular disease,
+polyps, or mass
+»stool guaiac or
+quantitative fecal
+immunochemical
+test: positive for blood
+Guaiac can react with
+food or medication
+leading to a false-
+positive result, but
+quantitative fecal
+immunochemical
+tests (FITs) use
+antibodies specific
+to the globin part of
+human hemoglobin to
+detect small amounts
+of blood.[42] [52]
+ As globin degrades
+while traversing the
+gastrointestinal tract,
+theoretically these
+tests are less likely
+to detect globin from
+upper gastrointestinal
+bleeding.[52] The US
+and UK guidelines
+report risk thresholds
+for testing symptomatic
+patients.[40] [41] [42]
+The UK’s National
+Institute for Health and
+Care Excellence (NICE)
+recommends certain
+quantitative FITs for the
+recognition and referral
+of patients at risk of
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Common
+Lower gastrointestinal bleeding
+History Exam 1st Test Other tests
+colorectal cancer.[41]
+[42]
+◊ Neurally mediated
+History Exam 1st Test Other tests
+recurrent episodes;
+duration of symptoms
+>4 years; history
+presyncope; prodromal
+symptoms such as
+nausea and vomiting;
+precipitated by sudden
+exposure to unpleasant
+sight, smell, or noxious
+stimuli, coughing,
+swallowing, defecation,
+micturition, Valsalva
+maneuver (e.g.,
+trumpet playing),
+postprandial, head
+rotation or pressure
+on carotid sinus (e.g.,
+tight collars, shaving),
+prolonged standing;
+history of cardiac
+disease is usually
+absent
+hypotension;
+bradycardia; may be a
+carotid bruit; if carotid
+hypersensitivity: carotid
+massage causes
+reduction in systolic
+BP ≥50 mmHg and/
+or sinus pause ≥3
+seconds; carotid sinus
+massage should not be
+performed in patients
+who have experienced
+transient ischemic
+attack or stroke within
+the past 3 months
+or in patients with
+carotid bruits (unless
+carotid Doppler studies
+convincingly exclude
+significant carotid artery
+narrowing).[11]
+»ECG: normal
+Performed to exclude
+cardiac causes of
+syncope.
+»no initial test:
+clinical diagnosis
+»tilt table testing:
+positive if syncope
+occurs or prodromal
+symptoms develop over
+time
+Head-up tilt table used
+to stand patient at 70°
+for 45 minutes.
+Used to confirm
+dysautonomia.
+Isoproterenol and
+nitroglycerin use
+increases sensitivity of
+the test but decreases
+specificity.
+◊ Orthostatic hypotension
+History Exam 1st Test Other tests
+precipitated by
+standing up, prolonged
+standing, or strenuous
+activity; may be other
+features of autonomic
+dysfunction, such as
+erectile dysfunction or
+disturbed micturition;
+history of medications
+causing hypotension
+or recent change of
+dosage; history of
+Parkinson disease,
+BP and heart rate are
+obtained while patient
+is supine then while
+standing; orthostatic
+hypotension if 20
+mmHg drop in systolic
+BP or 10 mmHg
+drop in diastolic BP
+within 3 minutes of
+standing; postural
+tachycardia syndrome if
+absence of a significant
+change in BP within
+5 minutes of standing
+»BP supine and
+standing: decrease
+of at least 20 mmHg in
+systolic BP or at least
+10 mmHg in diastolic
+BP within 3 minutes of
+standing
+»ECG: normal
+Performed to exclude
+cardiac causes of
+syncope.
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Evaluation of syncope Diagnosis
+Common
+◊ Orthostatic hypotension
+History Exam 1st Test Other tests
+diabetes, or Shy-Drager
+syndrome
+or upright tilt with an
+increase in heart rate
+of ≥30bpm associated
+with manifestations
+of orthostatic
+intolerance[34]
+◊ Migraine
+History Exam 1st Test Other tests
+associated with basilar
+artery migraine,
+premonitory aura
+terminates in loss of
+consciousness that is
+slow in onset; occipital
+headache associated
+with diplopia, vertigo,
+tinnitus, visual
+changes, and syncope;
+strong association with
+menstrual cycle
+no significant physical
+finding on examination
+»no initial test:
+clinical diagnosis
+»MRI and magnetic
+resonance
+angiography: should
+be normal
+Used to exclude other
+pathologies.
+◊ Seizure
+History Exam 1st Test Other tests
+younger age (<45
+years); duration of
+unconsciousness
+>5 minutes; sudden
+onset or brief aura
+(deja vu, olfactory,
+gustatory, visual);
+disorientation and
+drowsiness following an
+event; urinary or fecal
+incontinence; tonic-
+clonic movements
+tongue biting,
+particularly if it
+is lateral, has a
+high specificity for
+convulsive seizures;
+disorientation[9] [27]
+»electrolytes and
+glucose: low sodium,
+calcium, magnesium, or
+glucose
+»EEG: epileptiform
+discharges
+Guidelines for
+evaluating syncope
+suggest that EEGs be
+obtained only when
+likelihood of epilepsy is
+relatively high.[9]
+May be useful
+simultaneously
+with hemodynamic
+monitoring and tilt-
+table testing, if difficult
+»CT head or MRI:
+structural abnormality
+such as tumors
+Not indicated
+in patients with
+uncomplicated syncope
+but may be done to
+establish a specific
+diagnosis of underlying
+conditions that can
+cause seizures.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Common
+◊ Seizure
+History Exam 1st Test Other tests
+to distinguish among
+convulsive syncope,
+epileptic convulsions,
+and pseudosyncope.
+Uncommon
+Wolff-Parkinson-White syndrome/preexcitation syndrome
+History Exam 1st Test Other tests
+presyncope,
+palpitations,
+lightheadedness;
+history of recurrent
+tachycardia/
+supraventricular
+tachycardia; family
+history of sudden
+cardiac death
+diaphoretic, tachycardia »ECG: PR interval
+<0.12 seconds; wide
+QRS complex >0.12
+seconds with delta
+wave; secondary ST-T
+wave changes[35]
+»electrophysiology
+study: demonstration
+of accessory pathway
+Cardiac tamponade
+History Exam 1st Test Other tests
+underlying cause such
+as myocardial infarction
+(MI), aortic dissection,
+or trauma; may present
+insidiously as a result
+of pericarditis or,
+rarely, hypothyroidism;
+dizziness; dyspnea;
+fatigue
+hypotension, distended
+neck veins, muffled
+heart sounds; pulsus
+paradoxus (a drop of
+≥10 mmHg in arterial
+BP on inspiration)
+»ECG: low-voltage
+QRS; other changes
+depend on underlying
+cause, e.g., ST
+elevation in acute MI or
+nonspecific ST changes
+in pericarditis
+»chest x-ray: globular
+heart (if large effusion)
+»echocardiography:
+pericardial effusion
+causing collapse of
+great vessels and
+ventricles
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Evaluation of syncope Diagnosis
+Uncommon
+Aortic dissection
+History Exam 1st Test Other tests
+chest and back pain,
+tearing in nature;
+history of connective
+tissue disease, such
+as Ehlers-Danlos
+syndrome or Marfan
+syndrome
+hypotensive; unequal
+pulses or BP in both
+arms; acute pulmonary
+edema; focal neurologic
+sign of weakness,
+dysarthria, cranial
+nerve defects if carotid
+arteries involved
+»ECG: ST- and T-wave
+ischemic changes
+Cardiac ischemia
+occurs if low dissection
+involving the coronary
+arteries.
+»chest x-ray: widened
+mediastinum
+»transesophageal
+echocardiography:
+false lumen or flap
+in the ascending or
+descending aorta; new
+aortic regurgitation or
+pericardial tamponade
+»CT chest with
+contrast: false lumen
+or flap in the ascending
+or descending aorta
+Pulmonary embolism
+History Exam 1st Test Other tests
+dizziness, shortness
+of breath, pleuritic
+chest pain, hemoptysis;
+risk factors for
+thromboembolic
+disease, such
+as previous
+thromboembolism,
+recent limb
+trauma, prolonged
+immobilization,
+contraceptive pill
+use, or underlying
+malignancy
+tachycardia; tachypnea;
+hypotension; loud
+P2; jugular venous
+distention; right
+ventricular lift
+»ECG: sinus
+tachycardia; presence
+of S1, Q3, and T3
+Usually nonspecific.
+»D-dimer: nonspecific
+if positive; pulmonary
+embolism excluded if
+negative
+Utility is in its negative
+predictive value.
+»chest x-ray:
+decreased perfusion
+in a segment of
+pulmonary vasculature
+(Westermark sign);
+presence of pleural
+effusion
+Useful to exclude other
+causes of dyspnea or
+chest pain
+»CT pulmonary
+angiography:
+identification of
+thrombus in the
+pulmonary circulation
+»V/Q scan: ventilation/
+perfusion mismatch
+Useful in patients for
+whom CT pulmonary
+angiography in
+contraindicated (e.g.
+pregnancy, renal
+failure)
+»arterial blood
+gases: hypoxemia
+»pulmonary
+angiography:
+identification of
+thrombus in the
+pulmonary circulation
+Definitive test, rarely
+performed because it is
+invasive.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Uncommon
+Ruptured abdominal aortic aneurysm
+History Exam 1st Test Other tests
+abdominal and back
+pain
+tachycardia,
+hypotension, abdominal
+tenderness; pulsatile
+abdominal mass;
+decreased bowel
+sounds
+»CBC: decreased Hb
+»blood chemistries:
+elevation in BUN and
+creatinine
+»abdominal
+ultrasound:
+aneurysm;
+intraluminal thrombus;
+retroperitoneal
+hematoma
+»CT angiography:
+may demonstrate
+retroperitoneal
+hematoma,
+discontinuity of
+the aortic wall, or
+extravasation of
+contrast into the
+peritoneal cavity
+Also useful in
+diagnosing aortic
+aneurysms close to the
+origins of, or proximal
+to, the renal arteries
+◊ Brugada syndrome
+History Exam 1st Test Other tests
+southeast Asian
+ethnicity; history of
+syncope and seizures;
+family history of
+sudden cardiac death
+at young age;[48]
+recurrent episodes
+of self-terminating
+ventricular tachycardia
+(VT); symptomatic
+patients have a
+greater risk of sudden
+death compared
+with asymptomatic
+patients[31][49]
+normal physical exam »ECG: ST-segment
+elevation in right
+precordial leads (V1-
+V3) and right bundle
+branch block
+»electrophysiology
+study: induction of VT
+◊ Long QT syndrome
+History Exam 1st Test Other tests
+history of syncope;
+cardiac arrest; family
+history of sudden death
+at young age; ECG
+finding of long QT
+syndrome (LQTS) in
+family member
+exam usually normal;
+occasionally associated
+with syndactyly; other
+associated syndromes
+such as Jervell
+and Lange-Nielsen
+syndrome (hearing
+loss) and Andersen
+»ECG: prolongation
+of QT interval; varies
+inversely with heart rate
+T-wave alternans is
+a rare but diagnostic
+characteristic of
+LQTS; bizarre-looking,
+»external cardiac
+monitoring (e.g.,
+Holter monitor)
+or in-hospital
+telemetry: episode of
+torsades de pointes
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Evaluation of syncope Diagnosis
+Uncommon
+◊ Long QT syndrome
+History Exam 1st Test Other tests
+syndrome (scoliosis
+and short stature)
+pronounced U waves;
+U-wave alternans may
+also be seen.[35]
+Diagnostic for
+LQTS.[50]
+»implantable
+cardiac monitor:
+episode of torsades de
+pointes
+Diagnostic for
+LQTS.[50]
+◊ Hypertrophic cardiomyopathy
+History Exam 1st Test Other tests
+young age; family
+history of sudden
+death; dizziness;
+dyspnea; angina;
+palpitations; heart
+failure; presyncope
+ejection systolic
+murmur (does not
+radiate to carotids);
+murmur louder with
+Valsalva and isometric
+exercises; double or
+triple apical impulse
+displaced laterally;
+holosystolic murmur
+of mitral regurgitation
+due to systolic anterior
+motion of mitral leaflet;
+S4; signs of congestive
+heart failure (pulmonary
+rales, lower extremity
+edema, jugular
+venous distention,
+hepatomegaly)
+»ECG: left axis
+deviation; prominent Q
+waves in inferior and
+lateral leads
+»echocardiography:
+asymmetric septal
+hypertrophy; systolic
+anterior motion of
+anterior mitral valve
+leaflet; reversed E:A
+ratio with diastolic
+dysfunction; left atrial
+enlargement.
+»cardiac
+catheterization:
+increased left
+ventricular outflow
+tract gradient directly
+related to severity of
+obstruction; increased
+left ventricle filling
+pressures
+Useful if
+echocardiography is
+insufficient.
+◊ Arrhythmogenic right ventricular cardiomyopathy
+History Exam 1st Test Other tests
+often young age; may
+be a family history
+of heart disease or
+sudden death; history
+of palpitations, syncope
+with exercise
+in rare recessive form,
+skin changes and
+wooly hair; as disease
+progresses: signs of
+right or biventricular
+heart failure
+»ECG: epsilon waves,
+T wave inversion,
+localized QRS widening
+»echocardiography:
+dilated right ventricle
+(RV), right ventricle
+aneurysm
+»cardiac MRI:
+RV dilation, may
+demonstrate RV fibrous
+tissue (enhances in a
+delayed fashion) and
+RV fat
+Cardiac MRI can
+provide results which
+are diagnostic for this
+condition.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Arrhythmogenic right ventricular cardiomyopathy
+History Exam 1st Test Other tests
+»right ventricular
+angiography:
+focal wall motion
+abnormality, aneurysm
+◊ Mitral stenosis
+History Exam 1st Test Other tests
+history rheumatic fever;
+dyspnea on exertion;
+orthopnea; palpitations;
+hemoptysis;
+hoarseness of voice
+due to compression of
+left recurrent laryngeal
+nerve from left atrial
+enlargement against
+pulmonary artery
+irregularly irregular
+pulse if in atrial
+fibrillation; loud S1;
+murmur: low-pitched
+diastolic rumble best
+heard in expiration with
+patient lying on left
+side; opening snap;
+loud P2 if pulmonary
+hypertension present;
+signs of congestive
+heart failure (pulmonary
+rales, lower extremity
+edema, jugular
+venous distention,
+hepatomegaly)
+»ECG: large p
+waves (indicating left
+atrial enlargement);
+irregularly irregular
+pulse, absent p waves
+(if in atrial fibrillation)
+»chest x-ray:
+calcification of valve;
+enlarged left atrium,
+pulmonary edema
+»echocardiography:
+assesses valve area
+and transvalvular
+gradient (severity of
+stenosis); left atrial
+dilation
+◊ Atrial myxoma
+History Exam 1st Test Other tests
+fever, weight loss,
+dyspnea, palpitation,
+orthopnea, paroxysmal
+nocturnal dyspnea,
+presyncope and
+dizziness, symptoms of
+embolization
+jugular venous
+distention with
+prominent a wave; loud
+S1; tumor plop in early
+diastole
+»ECG: large p waves
+(indicating left atrial
+enlargement)
+»echocardiography:
+visualization of mass;
+left atrial hypertrophy
+»transesophageal
+echocardiography:
+visualization of mass;
+left atrial hypertrophy
+Provides better
+anatomic localization of
+tumor.
+»cardiac MRI:
+visualization of mass
+◊ Cardiac sarcoidosis
+History Exam 1st Test Other tests
+dizziness; palpitations;
+shortness of breath;
+signs for other organ
+involvement with
+»ECG: nonspecific, Q
+waves, axis deviation,
+»cardiac MRI:
+myocardial late
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Evaluation of syncope Diagnosis
+Uncommon
+◊ Cardiac sarcoidosis
+History Exam 1st Test Other tests
+fatigue; syncope or
+presyncope; may have
+known sarcoidosis
+affecting other
+organs[51]
+sarcoidosis (e.g.,
+audible rhonchi
+on pulmonary
+exam, nontender
+lymphadenopathy,
+red eyes, skin rash,
+tenderness and
+pain on joint exam,
+hepatomegaly), as
+disease progresses:
+signs of heart failure
+advanced conduction
+blocks, complete heart
+block, ventricular
+arrhythmia, multifocal
+and frequent premature
+ventricular complexes
+(PVCs)
+»echocardiography:
+regional abnormal wall
+motion or thinning or
+thickening, ventricular
+aneurysm especially
+localized thinning of
+basal interventricular
+septum[51]
+»chest x-ray:
+usually evidence of
+associated pulmonary
+sarcoid, hilar, and/
+or paratracheal
+adenopathy with upper
+lobe predominant,
+bilateral infiltrates
+gadolinium
+enhancement
+(indicating macroscopic
+interstitial fibrosis),
+involvement of the
+basal anterior septum
+and inferior septum
+with extension into
+the right ventricle is
+almost pathognomonic,
+localized wall
+thickening or thinning,
+ventricular wall
+aneurysms and wall
+motion abnormality[51] 
+»external cardiac
+monitoring (e.g.,
+Holter monitor)
+or in-hospital
+telemetry: advanced
+conduction blocks,
+complete heart block,
+ventricular arrhythmia,
+multifocal and frequent
+PVCs
+»implantable
+cardiac monitor:
+advanced conduction
+blocks, complete heart
+block, ventricular
+arrhythmia, multifocal
+and frequent PVCs
+»electrophysiological
+studies: advanced
+conduction blocks,
+inducible ventricular
+arrhythmias
+»18F-
+fluorodeoxyglucose
+(FDG) PET scan: a
+mismatch of perfusion
+defects and myocardial
+inflammation is
+characteristic[51]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Paroxysmal supraventricular tachycardia
+History Exam 1st Test Other tests
+palpitations, fatigue;
+risk factors include
+digoxin toxicity,
+substance misuse
+and previous surgery
+to correct congenital
+cardiac defects
+tachycardia; may
+detect rales or edema if
+congestive heart failure
+is present
+»ECG: regular
+tachycardia that does
+not vary in rate; P
+waves may have an
+unusual axis, such as
+being inverted in the
+inferior leads
+◊ Subclavian steal syndrome
+History Exam 1st Test Other tests
+muscle cramping due
+to ischemia with upper
+extremity exercise,
+often with arm above
+the head; if arm
+exercise exceeds the
+capacity of collateral
+blood, vertebrobasilar
+insufficiency can result
+in dizziness, vertigo,
+diplopia, syncope, or
+even dysarthria
+difference in BP or
+pulse measurements
+in the 2 arms with
+decreased brachial
+artery pressure on the
+affected side; induction
+of symptoms with
+exercise and bruit over
+supraclavicular area
+»duplex
+ultrasonography:
+retrograde blood flow in
+the vertebral artery
+◊ Implantable cardiac device malfunction
+History Exam 1st Test Other tests
+history of implantable
+cardiac device
+dysrhythmia
+(tachycardia or
+bradycardia)
+»electrocardiogram:
+may demonstrate lack
+of capture, abnormal
+rate
+Ectopic pregnancy
+History Exam 1st Test Other tests
+amenorrhea; known
+pregnancy; previous
+ectopic pregnancy;
+prior tubal surgery;
+pelvic inflammatory
+disease; IUD usage;
+abdominal pain; vaginal
+bleeding
+hypotensive;
+tachycardia; abdominal
+tenderness and
+guarding; decreased
+bowel sounds; cervical
+motion tenderness;
+vaginal bleeding
+»urinary pregnancy
+test: positive
+»CBC: may be low Hb
+»transvaginal
+ultrasound:
+visualization of ectopic
+pregnancy; empty
+uterus
+»serum human
+chorionic
+gonadotropin (hCG):
+positive
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Evaluation of syncope Diagnosis
+Uncommon
+Ectopic pregnancy
+History Exam 1st Test Other tests
+Absence of an
+intrauterine gestational
+sac at hCG
+concentrations above
+the serum hCG level
+1500 or 2000 IU/L
+strongly suggests an
+ectopic pregnancy.
+Hypoglycemia
+History Exam 1st Test Other tests
+gradual onset;
+associated with
+confusion, anxiety,
+somnolence,
+palpitations, lethargy;
+medication history
+including insulin or
+sulfonylurea oral
+hypoglycemic agents
+diaphoretic, tachypnea,
+tremor
+»plasma glucose:
+low; <50 mg/dL
+»C-peptide level: high
+in cases of insulinoma;
+normal or low in cases
+of exogenous insulin
+administration
+»sulfonylurea level:
+positive in sulfonylurea-
+induced hypoglycemia
+Addison disease
+History Exam 1st Test Other tests
+life-threatening
+crisis with syncope,
+nausea, vomiting;
+or insidious onset,
+fatigue, weakness,
+salt craving, dizziness;
+history of autoimmune
+disease such as type
+1 diabetes, Hashimoto
+thyroiditis, or systemic
+lupus erythematosus
+hypotension and/or
+postural hypotension;
+mucocutaneous
+hyperpigmentation;
+vitiligo
+»electrolytes: low
+sodium; elevated
+potassium
+»morning serum
+cortisol: low; <3
+micrograms/dL
+»adrenocorticotropic
+hormone
+stimulation test: poor
+response; cortisol <18
+micrograms/dL
+»CT abdomen: direct
+visualization of adrenal
+glands, may show
+swelling or calcification
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Evaluation of syncope Diagnosis
+DIAGNOSIS
+Uncommon
+Vertebrobasilar transient ischemic attack
+History Exam 1st Test Other tests
+syncope in association
+with other symptoms
+of brain stem ischemia
+(i.e., diplopia, tinnitus,
+vertigo, or dysarthria);
+duration of symptoms
+associated with
+transient ischemic
+attack (TIA) <24 hours
+nystagmus, ataxia,
+contralateral
+impairment of pain
+and temperature,
+ipsilateral loss of taste
+and numbness of
+extremities, completely
+resolved within 24
+hours
+»MRI: brainstem
+infarction, normal in TIA
+Advantage of early
+diagnosis of ischemia
+with diffusion-weighted
+imaging.
+»ECG: may show atrial
+fibrillation; may be
+normal
+»carotid Doppler
+ultrasonography:
+vertebrobasilar stenosis
+No studies have
+suggested that routine
+carotid Doppler
+ultrasonography is
+beneficial in patients
+with syncope.[3] [26]
+[53]
+»CT head: brainstem
+not well visualized; may
+have chronic ischemic
+changes
+Not a sensitive test for
+detecting brainstem
+ischemia.
+Commonly used
+modality because of
+widespread availability
+and ease of detecting
+hemorrhage.
+»magnetic
+resonance
+angiography: stenosis
+of vertebrobasilar artery
+Subarachnoid hemorrhage
+History Exam 1st Test Other tests
+history of severe
+headache, especially
+with rapid onset
+('thunderclap'); loss of
+consciousness
+altered mental status,
+focal neurologic deficit
+(although neurologic
+exam may be normal),
+neck pain/stiffness,
+meningismus, cranial
+nerve abnormalities
+»CT imaging: initial
+test is noncontrast brain
+imaging, may show
+collection of blood in
+the subdural space[54]
+»angiography: can
+provide diagnostic
+information and
+concurrent therapeutic
+intervention (coiling,
+clipping)
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Evaluation of syncope Diagnosis
+Uncommon
+◊ Psychogenic pseudosyncope
+History Exam 1st Test Other tests
+generalized anxiety
+disorder, panic disorder,
+somatization disorder,
+and major depression
+can be associated
+with psychogenic
+pseudosyncope;
+conversion disorder can
+present with apparent
+syncope; usually
+young; no known
+cardiac problems;
+frequent episodes of
+recurrent syncope,
+longer duration of loss
+of consciousness[15]
+no specific exam
+findings
+»no initial test:
+clinical diagnosis
+»tilt table testing:
+negative
+Head-up tilt table used
+to stand patient at 70°
+for 45 minutes.
+Patients with
+somatization disorder
+may develop a
+"psychogenic"
+response with
+syncope or prodromal
+symptoms.[55]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Evaluation of syncope References
+REFERENCES
+Key articles
+• Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and
+management of patients with syncope: a report of the American College of Cardiology/American
+Heart Association Task Force on Clinical Practice Guidelines, and the Heart Rhythm Society.
+Circulation. 2017 Aug 1;136(5):e60-122.  Full text (https://www.ahajournals.org/doi/abs/10.1161/
+CIR.0000000000000499)   Abstract
+• Brignole M, Moya A, de Lange FJ, et al. 2018 ESC guidelines for the diagnosis and management of
+syncope. Eur Heart J. 2018 Jun 1;39(21):1883-948.  Full text (https://academic.oup.com/eurheartj/
+article/39/21/1883/4939241)   Abstract
+• Antzelevitch C, Brugada P, Borggrefe M, et al. Brugada syndrome: report of the Second Consensus
+Conference. Heart Rhythm. 2005 Apr;2(4):429-40. Abstract
+• American College of Radiology. ACR appropriateness criteria: syncope. 2020 [internet publication]. 
+Full text (https://acsearch.acr.org/docs/3128014/Narrative)
+References
+1. Sun BC. Quality-of-life, health service use, and costs associated with syncope. Prog Cardiovasc
+Dis. 2013 Jan-Feb;55(4):370-75.  Full text (https://www.sciencedirect.com/science/article/abs/pii/
+S0033062012001867?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23472773?
+tool=bestpractice.bmj.com)
+2. Probst MA, Su E, Weiss RE, et al. Clinical Benefit of Hospitalization for Older Adults With Unexplained
+Syncope: A Propensity-Matched Analysis. Ann Emerg Med. 2019 Aug;74(2):260-69.  Full text
+(https://www.annemergmed.com/article/S0196-0644(19)30250-1/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31080027?tool=bestpractice.bmj.com)
+3. Sarasin FP, Louis-Simonet M, Carballo D, et al. Prospective evaluation of patients with syncope: a
+population-based study. Am J Med. 2001 Aug 15;111(3):177-84. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11530027?tool=bestpractice.bmj.com)
+4. D'Ascenzo F, Biondi-Zoccai G, Reed MJ, et al. Incidence, etiology and predictors of adverse
+outcomes in 43,315 patients presenting to the emergency department with syncope: an international
+meta-analysis. Int J Cardiol. 2013 Jul 15;167(1):57-62. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22192287?tool=bestpractice.bmj.com)
+5. Sun BC, Hoffman JR, Mangione CM, et al. Older age predicts short-term, serious
+events after syncope. J Am Geriatr Soc. 2007 Jun;55(6):907-12.  Full text (https://
+agsjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1532-5415.2007.01188.x)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17537092?tool=bestpractice.bmj.com)
+6. Grossman SA, Chiu D, Lipsitz L, et al. Can elderly patients without risk factors be discharged
+home when presenting to the emergency department with syncope? Arch Gerontol Geriatr.
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Evaluation of syncope References
+2014 Jan-Feb;58(1):110-14.  Full text (hhttps://www.sciencedirect.com/science/article/abs/pii/
+S0167494313001179?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23993263?
+tool=bestpractice.bmj.com)
+7. Gibson TA, Weiss RE, Sun BC. Predictors of Short-Term Outcomes after Syncope: A Systematic
+Review and Meta-Analysis. West J Emerg Med. 2018 May;19(3):517-23.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC5942019)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29760850?tool=bestpractice.bmj.com)
+8. Grubb BP, Karabin B. Syncope: evaluation and management in the geriatric patient. Clin
+Geriatr Med. 2012 Nov;28(4):717-28.  Full text (hhttps://www.geriatric.theclinics.com/article/
+S0749-0690(12)00070-5/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23101580?
+tool=bestpractice.bmj.com)
+9. Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation
+and management of patients with syncope: a report of the American College of Cardiology/
+American Heart Association Task Force on Clinical Practice Guidelines, and the Heart Rhythm
+Society. Circulation. 2017 Aug 1;136(5):e60-122.  Full text (https://www.ahajournals.org/doi/
+abs/10.1161/CIR.0000000000000499)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28280231?
+tool=bestpractice.bmj.com)
+10. National Institute for Health and Care Excellence. Heart valve disease presenting in adults:
+investigation and management. Nov 2021 [internet publication].  Full text (https://www.nice.org.uk/
+guidance/ng208)
+11. Brignole M, Moya A, de Lange FJ, et al. 2018 ESC guidelines for the diagnosis and management
+of syncope. Eur Heart J. 2018 Jun 1;39(21):1883-948.  Full text (https://academic.oup.com/
+eurheartj/article/39/21/1883/4939241)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29562304?
+tool=bestpractice.bmj.com)
+12. Wang CZ. Current diagnosis and management of children with vasovagal syncope. World J Pediatr.
+2007;3:98-103.
+13. Mckee AC, Daneshvar DH. The neuropathology of traumatic brain injury. Handb Clin Neurol.
+2015;127:45-66.  Full text (https://www.sciencedirect.com/science/article/pii/B9780444528926000040?
+via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25702209?tool=bestpractice.bmj.com)
+14. Wiener Z, Shapiro NI, Chiu DT, et al. The prevalence of psychiatric disease in emergency department
+patients with unexplained syncope. Intern Emerg Med. 2013 Aug;8(5):427-30.  Full text (https://
+link.springer.com/article/10.1007/s11739-013-0946-6)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23645509?tool=bestpractice.bmj.com)
+15. Alciati A, Shiffer D, Dipaola F, et al. Psychogenic Pseudosyncope: Clinical Features, Diagnosis and
+Management. J Atr Fibrillation. 2020 Jun-Jul;13(1):2399.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC7533137)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33024500?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Evaluation of syncope References
+REFERENCES
+16. Arnar DO. Syncope in patients with structural heart disease. J Intern Med. 2013 Apr;273(4):336-44. 
+Full text (https://onlinelibrary.wiley.com/doi/full/10.1111/joim.12027)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23510364?tool=bestpractice.bmj.com)
+17. Rushworth RL, Torpy DJ, Falhammar H. Adrenal Crisis. N Engl J Med. 2019 Aug
+29;381(9):852-61.  Full text (https://www.nejm.org/doi/10.1056/NEJMra1807486?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31461595?tool=bestpractice.bmj.com)
+18. Calvo-Romero JM, Pérez-Miranda M, Bureo-Dacal P. Syncope in acute pulmonary embolism. Eur
+J Emerg Med. 2004 Aug;11(4):208-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15249807?
+tool=bestpractice.bmj.com)
+19. Prandoni P, Lensing AW, Prins MH, et al. Prevalence of Pulmonary
+Embolism among Patients Hospitalized for Syncope. N Engl J Med. 2016 Oct
+20;375(16):1524-31.  Full text (https://www.nejm.org/doi/10.1056/NEJMoa1602172?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27797317?tool=bestpractice.bmj.com)
+20. Timmons S, Kingston M, Hussain M, et al. Pulmonary embolism: differences in presentation
+between older and younger patients. Age Ageing. 2003 Nov;32(6):601-5.  Full text (http://
+ageing.oxfordjournals.org/cgi/reprint/32/6/601)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/14600000?tool=bestpractice.bmj.com)
+21. Konstantinides SV, Meyer G, Becattini C, et al. 2019 ESC Guidelines for the diagnosis and
+management of acute pulmonary embolism developed in collaboration with the European
+Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary
+embolism of the European Society of Cardiology (ESC). Eur Respir J. 2019 Sep;54(3).  Full text
+(https://erj.ersjournals.com/content/54/3/1901647.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31473594?tool=bestpractice.bmj.com)
+22. Brignole M, Moya A, de Lange FJ, et al. Practical Instructions for the 2018 ESC Guidelines for the
+diagnosis and management of syncope. Eur Heart J. 2018 Jun 1;39(21):e43-e80.  Full text (https://
+academic.oup.com/eurheartj/article/39/21/e43/4939242)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29562291?tool=bestpractice.bmj.com)
+23. Wieling W, Ganzeboom KS, Krediet CT, et al. Initial diagnostic strategy in the case of transient
+losses of consciousness: the importance of the medical history [in Dutch]. Ned Tijdschr Geneeskd.
+2003 May 3;147(18):849-54. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12756875?
+tool=bestpractice.bmj.com)
+24. Sheldon R, Rose S, Ritchie D, et al. Historical criteria that distinguish syncope from seizures. J Am
+Coll Cardiol. 2002 Jul 3;40(1):142-8.  Full text (https://www.sciencedirect.com/science/article/pii/
+S073510970201940X?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12103268?
+tool=bestpractice.bmj.com)
+25. Asplund CA, O'Connor FG, Noakes TD. Exercise-associated collapse: an evidence-based
+review and primer for clinicians. Br J Sports Med. 2011 Nov;45(14):1157-62.  Full text (http://
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Evaluation of syncope References
+bjsm.bmj.com/content/45/14/1157.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21948122?
+tool=bestpractice.bmj.com)
+26. Alboni P, Brignole M, Menozzi C, et al. Diagnostic value of history in patients with syncope
+with or without heart disease. J Am Coll Cardiol. 2001 Jun 1;37(7):1921-8.  Full text (https://
+www.sciencedirect.com/science/article/pii/S0735109701012414?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11401133?tool=bestpractice.bmj.com)
+27. Brigo F, Nardone R, Bongiovanni LG. Value of tongue biting in the differential diagnosis between
+epileptic seizures and syncope. Seizure. 2012 Oct;21(8):568-72.  Full text (https://www.seizure-
+journal.com/article/S1059-1311(12)00151-3/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22770819?tool=bestpractice.bmj.com)
+28. Middlekauff HR, Stevenson WG, Stevenson LW, et al. Syncope in advanced heart failure: high risk
+of sudden death regardless of origin of syncope. J Am Coll Cardiol. 1993 Jan;21(1):110-6.  Full text
+(https://www.sciencedirect.com/science/article/pii/073510979390724F?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8417050?tool=bestpractice.bmj.com)
+29. Le RJ, Fenstad ER, Maradit-Kremers H, et al. Syncope in adults with pulmonary arterial
+hypertension. J Am Coll Cardiol. 2011 Aug 16;58(8):863-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21835323?tool=bestpractice.bmj.com)
+30. Antzelevitch C, Brugada P, Borggrefe M, et al. Brugada syndrome: report of the Second Consensus
+Conference. Heart Rhythm. 2005 Apr;2(4):429-40. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15898165?tool=bestpractice.bmj.com)
+31. Brugada J, Brugada R, Antzelevitch C, et al. Long-term follow-up of individuals with the
+electrocardiographic pattern of right bundle-branch block and ST-segment elevation in precordial
+leads V1 to V3. Circulation. 2002 Jan 1;105(1):73-8.  Full text (https://www.ahajournals.org/
+doi/10.1161/hc0102.101354)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11772879?
+tool=bestpractice.bmj.com)
+32. Spirito P, Autore C, Rapezzi C, et al. Syncope and risk of sudden death in hypertrophic
+cardiomyopathy. Circulation. 2009 Apr 7;119(13):1703-10.  Full text (https://www.ahajournals.org/
+doi/10.1161/CIRCULATIONAHA.108.798314)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19307481?tool=bestpractice.bmj.com)
+33. Iglesias JF, Graf D, Forclaz A, et al. Stepwise evaluation of unexplained syncope in a large
+ambulatory population. Pacing Clin Electrophysiol. 2009 Mar;32 (Suppl 1):S202-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19250095?tool=bestpractice.bmj.com)
+34. Freeman R, Wieling W, Axelrod FB, et al. Consensus statement on the definition of orthostatic
+hypotension, neurally mediated syncope and the postural tachycardia syndrome. Clin Auton Res. 2011
+Apr;21(2):69-72. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21431947?tool=bestpractice.bmj.com)
+35. Dovgalyuk J, Holstege C, Mattu A, et al. The electrocardiogram in the patient with syncope. Am J
+Emerg Med. 2007 Jul;25(6):688-701. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17606095?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Evaluation of syncope References
+REFERENCES
+36. Costantino G, Sun BC, Barbic F, et al. Syncope clinical management in the emergency department:
+a consensus from the first international workshop on syncope risk stratification in the emergency
+department. Eur Heart J. 2016 May 14;37(19):1493-8.  Full text (https://academic.oup.com/
+eurheartj/article/37/19/1493/1748716)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26242712?
+tool=bestpractice.bmj.com)
+37. Grossman SA, Fischer C, Lipsitz LA, et al. Predicting adverse outcomes in syncope. J Emerg Med.
+2007 Oct;33(3):233-9.  Full text (https://www.jem-journal.com/article/S0736-4679(07)00297-1/fulltext)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17976548?tool=bestpractice.bmj.com)
+38. Bastani A, Su E, Adler DH, et al. Comparison of 30-Day Serious Adverse Clinical Events for
+Elderly Patients Presenting to the Emergency Department With Near-Syncope Versus Syncope.
+Ann Emerg Med. 2019 Mar;73(3):274-80.  Full text (https://www.annemergmed.com/article/
+S0196-0644(18)31420-3/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30529112?
+tool=bestpractice.bmj.com)
+39. Quinn JV, Stiell IG, McDermott DA, et al. Derivation of the San Francisco Syncope Rule to predict
+patients with short-term serious outcomes. Ann Emerg Med. 2004 Feb;43(2):224-32. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/14747812?tool=bestpractice.bmj.com)
+40. Rex DK, Boland CR, Dominitz JA, et al. Colorectal cancer screening: recommendations for
+physicians and patients from the U.S. Multi-Society Task Force on colorectal cancer. Am J
+Gastroenterol. 2017 Jul;112(7):1016-30.  Full text (https://journals.lww.com/ajg/fulltext/2017/07000/
+colorectal_cancer_screening__recommendations_for.13.aspx)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28555630?tool=bestpractice.bmj.com)
+41. National Institute for Health and Care Excellence. Suspected cancer: recognition and referral. Oct
+2023 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng12)
+42. National Institute for Health and Care Excellence. Quantitative faecal immunochemical testing to guide
+colorectal cancer pathway referral in primary care. Aug 2023 [internet publication].  Full text (https://
+www.nice.org.uk/guidance/dg56)
+43. American College of Radiology. ACR appropriateness criteria: syncope. 2020 [internet publication]. 
+Full text (https://acsearch.acr.org/docs/3128014/Narrative)
+44. Huff JS, Decker WW, Quinn JV, et al. Clinical policy: critical issues in the evaluation and
+management of adult patients presenting to the emergency department with syncope. Ann
+Emerg Med. 2007 Apr;49(4):431-44. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17371707?
+tool=bestpractice.bmj.com)
+45. Ghani AR, Ullah W, Abdullah HMA, et al. The role of echocardiography in diagnostic evaluation of
+patients with syncope-a retrospective analysis. Am J Cardiovasc Dis. 2019;9(5):78-83.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6872465)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31763059?tool=bestpractice.bmj.com)
+46. Primary Writing Committee., Sandhu RK, Raj SR, et al. Canadian Cardiovascular Society
+Clinical Practice Update on the Assessment and Management of Syncope. Can J Cardiol. 2020
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Evaluation of syncope References
+Aug;36(8):1167-1177.  Full text (https://www.doi.org/10.1016/j.cjca.2019.12.023)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32624296?tool=bestpractice.bmj.com)
+47. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association
+Joint Committee on Clinical Practice Guidelines. Circulation. 2022 May 3;145(18):e895-1032. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35363499?tool=bestpractice.bmj.com)
+48. Nader A, Massumi A, Cheng J, et al. Inherited arrhythmic disorders: long QT and Brugada syndromes.
+Tex Heart Inst J. 2007;34(1):67-75.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1847921) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17420796?tool=bestpractice.bmj.com)
+49. Antzelevitch C, Brugada P, Brugada J, et al. Brugada syndrome: 1992-2002: a historical perspective.
+J Am Coll Cardiol. 2003 May 21;41(10):1665-71.  Full text (https://www.sciencedirect.com/
+science/article/pii/S0735109703003103?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12767644?tool=bestpractice.bmj.com)
+50. Moss AJ. Long QT syndrome. JAMA. 2003 Apr 23-30;289(16):2041-4. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12709446?tool=bestpractice.bmj.com)
+51. Kouranos V, Sharma R. Cardiac sarcoidosis: state-of-the-art review. Heart. 2021 Mar 4 [Epub ahead of
+print].  Full text (https://heart.bmj.com/content/early/2021/03/03/heartjnl-2019-316442.long)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/33674355?tool=bestpractice.bmj.com)
+52. Grobbee EJ, Wisse PHA, Schreuders EH, et al. Guaiac-based faecal occult blood tests versus
+faecal immunochemical tests for colorectal cancer screening in average-risk individuals. Cochrane
+Database Syst Rev. 2022 Jun 6;6(6):CD009276.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC9169237)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35665911?tool=bestpractice.bmj.com)
+53. Ammirati F, Colivicchi F, Santini M. Diagnosing syncope in clinical practice. Implementation of a
+simplified diagnostic algorithm in a multicentre prospective trial - the OESIL 2 study (Osservatorio
+Epidemiologico della Sincope nel Lazio). Eur Heart J. 2000 Jun;21(11):935-40.  Full text (http://
+eurheartj.oxfordjournals.org/cgi/reprint/21/11/935)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10806018?tool=bestpractice.bmj.com)
+54. Grossman SA, Fischer C, Bar JL, et al. The yield of head CT in syncope: a pilot study. Intern Emerg
+Med. 2007 Mar;2(1):46-9.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2780634)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17551685?tool=bestpractice.bmj.com)
+55. Grubb BP, Gerard G, Wolfe DA, et al. Syncope and seizures of psychogenic origin: identification
+with head-upright tilt table testing. Clin Cardiol. 1992 Nov;15(11):839-42.  Full text (https://
+onlinelibrary.wiley.com/doi/epdf/10.1002/clc.4960151109)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10969628?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Evaluation of syncope Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Evaluation of syncope Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 05, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Contributors:
+// Authors:
+Shamai Grossman, MD, MS
+Associate Professor of Medicine and Emergency Medicine
+Harvard Medical School Department, Vice Chair for Health Care Quality, Director, Observation Medicine,
+Beth Israel Deaconess Medical Center, Boston, MA
+DISCLOSURES: SG is an author of a reference cited in this topic.
+Christopher Fischer, MD
+Chair, Assistant Professor
+Mount Auburn Hospital,, Harvard Medical School, Boston, MA
+DISCLOSURES: CF is an author of a reference cited in this topic.
+// Acknowledgements:
+Dr Shamai Grossman and Dr Christopher Fischer would like to gratefully acknowledge Dr Sanjeev Wasson,
+Dr Sarabjeet Singh and Dr Nishant Kalra, the previous contributors to this topic. SS and NK declare that
+they have no competing interests.
+// Peer Reviewers:
+David Leaf, MD, MPH
+Professor of Medicine
+VA Greater Los Angeles Healthcare System, UCLA School of Medicine, Los Angeles, CA
+DISCLOSURES: DL declares that he has no competing interests.
+Sanjiv Petkar, MBBS, MD, DM (Cardiology), MRCP
+Consultant Cardiologist
+Heart and Lung Centre, New Cross Hospital, Wolverhampton, UK
+DISCLOSURES: SP has received funds for attending conferences, and fees for speaking and consultation,
+from Medtronic Inc. SP was also in receipt of funding for research, between 2007 and 2009, from Medtronic
+Inc. to the University of Manchester. SP was a Guideline Development Group member of the National
+Institute for Health and Care Excellence (formerly National Institute for Clinical Excellence) guidelines on
+transient loss of consciousness ('blackouts') management in adults and young people, published in August
+2010.
+Nicholas Gall, MSc, MD, FRCP
+Consultant Cardiologist
+Department of Cardiology, King's College Hospital, London, UK
+DISCLOSURES: NG declares that he has no competing interests.

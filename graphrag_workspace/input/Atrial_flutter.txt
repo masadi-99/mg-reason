@@ -1,0 +1,2527 @@
+# Atrial flutter
+
+=== Page 1 ===
+Atrial flutter
+Straight to the point of care
+Last updated: Dec 10, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  6
+Epidemiology  6
+Etiology  6
+Pathophysiology  6
+Classification  7
+Case history  8
+Diagnosis  9
+Approach  9
+History and exam  14
+Risk factors  15
+Tests  17
+Differentials  23
+Criteria  23
+Management  24
+Approach  24
+Treatment algorithm overview  28
+Treatment algorithm  30
+Secondary prevention  47
+Patient discussions  47
+Follow up  49
+Monitoring  49
+Complications  50
+Prognosis  52
+Guidelines  53
+Diagnostic guidelines  53
+Treatment guidelines  54
+Online resources  55
+References  56
+Images  62
+Disclaimer  70
+=== Page 3 ===
+Atrial flutter Overview
+Summary
+Atrial flutter, in the typical form, is characterized electrocardiographically by flutter waves, which are a saw-
+tooth pattern of atrial activation, most prominent in leads II, III, aVF, and V1.
+Atrial rates are typically above 250 bpm and up to 320 bpm.
+Ventricular rates range from 120 to 160 bpm, and most characteristically 150 bpm, because an associated
+2:1 atrioventricular block is common.
+This rhythm is commonly associated with atrial fibrillation, into which it may degenerate. Atrial fibrillation may
+also convert to atrial flutter.
+If the rhythm persists despite treatment of the underlying cause or in the absence of a reversible cause,
+electrical cardioversion is used to terminate the arrhythmia.
+If electrical cardioversion is unavailable or not acceptable to the patient, pharmacologic cardioversion may be
+attempted.
+Because of alterations in atrial activation, the ECG often fluctuates between both rhythms in the same
+patient.
+Definition
+Typical atrial flutter (counterclockwise cavotricuspid isthmus-dependent atrial flutter) is a macroreentrant atrial
+tachycardia with atrial rates usually above 250 bpm up to 320 bpm. It results from organized electrical activity
+in which large areas of the atrium take part in the reentrant circuit. The typical form depends on the so-
+called cavotricuspid isthmus for part of the circuit: tricuspid annulus as the anterior boundary and the crista
+terminalis/eustachian ridge as the posterior boundary, as well as the endocardial cavity of the right atrium.
+The term counterclockwise refers to the direction of activation when the tricuspid annulus is viewed en
+face, whereby activation occurs up the septum, down the right atrial free wall in a counterclockwise fashion.
+Characteristic features on ECG are negatively directed saw-tooth atrial deflections (f waves) seen in leads II,
+III, and aVF, with positively directed deflections in lead V1.[1] This rhythm is closely related to atrial fibrillation.
+[2] [3] [4]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Atrial flutter Overview
+OVERVIEW
+Typical atrial flutter with variable (3 to 4:1) block
+From the collection of Dr K.C. Wu
+Atrial fibrillation
+From the collection of Dr K.C. Wu
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Atrial flutter Overview
+Atrial flutter typically involves a circuit in the right atrium
+From: Cox D, Dougall H. Student BMJ. 2001;9:399-442; used with permission
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Atrial flutter Theory
+THEORY
+Epidemiology
+The overall incidence has been reported as 88/100,000 person-years, with increasing rates with older age.
+The incidence is 5/100,000 in people <50 years of age and 587/100,000 in those >80 years of age.[5] It
+occurs 2.5 times more frequently in men than in women, and increases exponentially with age.[6] Atrial
+fibrillation often coexists with atrial flutter, occurring in 24% to 62% of individuals before flutter ablation and
+in 30% to 70% after flutter ablation.[6] Most cases of atrial flutter (>98%) are associated with an identifiable
+predisposing event or a preexisting comorbidity.[5]
+Etiology
+Atrial flutter generally results from structural or functional conduction abnormalities of the atria. Structural
+abnormalities include atrial dilation due to a number of processes (see Risk Factors); incisional scars from
+prior atrial surgery, particularly for congenital heart disease; prior atrial ablation sites; and idiopathic fibrosis
+within the atrium. In addition, it can be precipitated by toxic and metabolic conditions such as thyrotoxicosis,
+alcoholism, or pericarditis. Patients taking antiarrhythmics for chronic suppression of atrial fibrillation
+may convert to atrial flutter, noted most commonly with Vaughan Williams class Ic drugs (flecainide and
+propafenone) and with class Ia (disopyramide, procainamide, quinidine) and amiodarone.[7] [8]
+Other medications that can cause or exacerbate atrial flutter and atrial fibrillation include sympathomimetics,
+stimulants, immune modulators, and antineoplastic agents.[9]
+Occasionally, atrial flutter can be congenital.[10]
+Pathophysiology
+The typical form of atrial flutter is a prototypic macroreentrant arrhythmia, in which the reentrant wavefront
+travels up the interatrial septum and down the right atrial free wall ("typical" form) or vice versa ("reverse
+typical" form). The lateral anatomic boundaries are critical to the development and maintenance of the
+circuit. One of these boundaries is the tricuspid valve annulus and is fixed or anatomic. The other is
+generally a functional line of block between the venae cavae.[11] Atypical flutters are seen when the
+cavotricuspid isthmus is not part of the circuit, and are characterized by a continuously undulating pattern
+by ECG that does not fit strict criteria for the typical and reverse typical forms of atrial flutter. This is a
+limitation in the mechanistic/anatomic classification scheme, as the exact mechanism can be determined
+only by electrophysiologic mapping studies and not from the ECG alone. Clinical presentations and
+electrophysiologic features of atypical atrial flutter and other types of atrial tachycardias can overlap.[2]
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Atrial flutter Theory
+Left panel: atrial activation in typical atrial flutter (AFL). Right panel: activation in reverse typical AFL.
+The atria are represented schematically in a left anterior oblique view, from the tricuspid (left) and mitral
+rings. The endocardium is shaded and the openings of the superior (SVC) and inferior vena cava (IVC),
+coronary sinus (CS), and pulmonary veins (PV) are shown. The direction of activation is shown by
+arrows. Dashed areas mark approximate location of zones of slow conduction and block. Lettering on
+the right-hand panel marks the low (LPS), mid (MPS), and high (HPS) posteroseptal wall, respectively
+From: Waldo AL. Heart. 2000 Aug;84(2):227-32; used with permission
+Classification
+American College of Cardiology/American Heart Association/Heart
+Rhythm Society classification of atrial flutter/atrial tachycardias[4]
+Atrial flutter is a macroreentrant atrial tachycardia with constant P wave/flutter morphology with a rate usually
+>250 bpm. It is distinguishable from focal atrial tachycardia, which has discrete P waves with an intervening
+isoelectric segment. Focal atrial tachycardia is caused mechanistically by micro-reentry or increased
+automaticity and generally has atrial rates in the range of 100-250 bpm.
+Cavotricuspid isthmus dependent (typical atrial flutter):
+• Counterclockwise atrial flutter with ECG flutter waves characterized by:
+• Negative deflection in leads II, III, aVF
+• Positive deflection in lead V1.
+• Clockwise atrial flutter (reverse typical atrial flutter) with ECG flutter waves characterized by:
+• Positive deflection in leads II, III, aVF
+• Negative deflection in lead V1.
+Non cavotricuspid isthmus dependent (atypical atrial flutter):
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Atrial flutter Theory
+THEORY
+• Re-entry that does not depend upon conduction through the cavotricuspid isthmus
+• Circuit is typically defined by atrial scars due to prior heart surgery, ablations, or idiopathic causes
+• Location determines ablation approach and risks
+• Multiple sites of re-entry may be present
+• Can occur in both the left and right atria.
+Case history
+Case history #1
+A 77-year-old man presents with palpitations and new shortness of breath, especially with exertion. He
+has a history of rheumatic fever in childhood. He has been told he has a murmur but does not recall
+having had an echocardiogram. He is otherwise healthy.
+Case history #2
+A 76-year-old man presents with progressive symptoms of dyspnea and increasing peripheral edema.
+He denies palpitations. He has a history of congestive heart failure from hypertensive heart disease.
+He reports that he is taking his medications as directed and has had no recent medication or dietary
+changes.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Atrial flutter Diagnosis
+Approach
+Patients with recent-onset atrial flutter generally present with palpitations, fatigue, light-headedness, chest
+pain, and/or dyspnea. In addition, exercise intolerance, worsening heart failure symptoms, and pulmonary
+complaints can also occur. Less commonly, hypotension, syncope, or embolic events can be the presenting
+symptoms.[4] The history should be directed at identifying the onset, frequency, and duration, and the
+presence of structural heart disease or precipitating cause.
+History
+In approximately 60% of patients, atrial flutter occurs as part of an acute disease process, and resolves
+with that process.[5] Identifying that underlying cause or trigger is therefore central to management. The
+history should establish whether there are any concurrent symptoms of an acute disease process, such
+as fever and cough in the case of pneumonia. A thorough past medical history should identify whether
+there is a history of any risk factors:
+• Hypertensive heart disease
+• Heart failure
+• Asthma
+• COPD
+• Hyperthyroidism
+• Mitral or tricuspid valve disease
+• Atrial fibrillation
+• Structural heart disease, such as hypertrophic cardiomyopathy or congenital heart disease
+• Recent cardiac or thoracic procedures, including ablation
+• Prior myocardial infarction (MI) or pulmonary embolism or other pathology that can cause atrial
+dilation
+• Diabetes.
+A drug history will reveal whether the patient is taking antiarrhythmics for chronic suppression of atrial
+fibrillation such as class Ic drugs (flecainide and propafenone) or class Ia (disopyramide, procainamide,
+quinidine) and amiodarone.[7] [8] [20] Digitalis drugs (e.g., digoxin) are also known to be a risk factor for
+atrial flutter.
+Physical examination
+The pulse in a patient with atrial flutter may be regular or irregularly irregular. On examining the jugular
+venous pressure, jugular venous pulsations with rapid flutter waves may be seen. Manifestations
+of the underlying cause should be sought through a thorough physical exam. Wheezing, rales, and
+hyperinflation suggest lung disease. Murmurs or rubs on auscultation suggest valvular disease,
+pericarditis, or congenital heart disease. Signs of hyperthyroidism may be present, such as tachycardia,
+fine tremor, goitre with or without nodules, palmar erythema, and hair thinning. Blood pressure should
+be taken and scars from recent cardiac or thoracic surgery looked for. These may suggest underlying
+conditions that may complicate therapy.
+Investigations
+The ECG pattern may fluctuate between atrial flutter and atrial fibrillation. The ECG is diagnostic:
+• In the typical form (counterclockwise atrial flutter): negatively directed saw-tooth atrial deflections (f
+waves) in leads II, III, and aVF, and positive deflections in V1 with atrial rates of 240 to 320 bpm.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Atrial flutter Diagnosis
+DIAGNOSIS
+• Typically there is 2:1 atrioventricular (AV) block and the characteristic ventricular rate is 150 bpm.
+• Variable block may occur leading to an irregular rate.
+• In the reverse typical form (clockwise isthmus-dependent flutter): positive flutter waves in leads II, III,
+and aVF, and negative flutter waves in lead V1.
+• Atypical flutter has an ECG pattern of continuous undulation of the atrial complex, not meeting criteria
+for typical or reverse typical flutter, with atrial rates >240 bpm.[3] [4]
+Typical atrial flutter with variable (3 to 4:1) block
+From the collection of Dr K.C. Wu
+Atrial fibrillation
+From the collection of Dr K.C. Wu
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Atrial flutter Diagnosis
+ 
+Close-up images of leads V1, II, III, aVF demonstrating the features of typical atrial flutter:
+positive saw-tooth deflections in lead V1 and negative deflections in leads II, III, aVF (arrows)
+From the collection of Dr K.C. Wu
+Reverse typical atrial flutter
+From: Waldo AL. Heart. 2000 Aug;84(2):227-32; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Atrial flutter Diagnosis
+DIAGNOSIS
+Selected leads from a patient with reverse typical atrial flutter confirmed at electrophysiologic
+study. The atrial deflections are negative in lead V1 and positive in leads II, III, aVF (arrows)
+Adapted from: Waldo AL. Heart. 2000 Aug;84(2):227-32; used with permission
+Atypical flutter with right bundle branch block
+From the collection of Dr K.C. Wu
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Atrial flutter Diagnosis
+Close up of leads II, III, V1 showing the continuously undulating pattern of
+atrial deflections not fitting the criteria for typical or reverse typical atrial flutter
+From the collection of Dr K.C. Wu
+Electrolyte abnormalities are generally not the sole cause of atrial flutter, but imbalances should be checked
+and corrected. Thyroid function tests should be checked to rule out thyroid disease as an underlying cause.
+Cardiac enzymes should be checked if acute MI is suspected, and digitalis levels taken if a patient is taking
+digitalis drugs (e.g., digoxin).
+A chest x-ray should be performed and pulmonary function tests should be considered, as atrial flutter is
+often associated with a known history of, or suggestive presentation for, lung disease. Spiral computed
+tomography with pulmonary embolism protocol may be considered if pulmonary embolism is suspected.
+The transthoracic echocardiogram should be used to detect structural heart disease. Specifically, atrial
+sizes can be measured and valvular disease, ventricular function, and pericardial disease assessed. Right
+ventricular systolic pressures can also be measured and indicate the presence or absence of pulmonary
+hypertension, which can be seen in pulmonary processes.
+Electrophysiologic studies are usually performed on patients with recurrent atrial flutter, particularly if
+antiarrhythmic drug therapy has been ineffective or not tolerated because of adverse effects, if the ventricular
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Atrial flutter Diagnosis
+DIAGNOSIS
+rate is difficult to control with drugs, or if atrial flutter persists despite resolution of acute underlying illness.
+Electrophysiology studies require the input of electrophysiologists and may assist in diagnosis, mapping for
+the critical isthmus (i.e., the cavotricuspid isthmus), and therapeutic ablation.
+An atrial electrogram recording can help visualize flutter waves when diagnosis is not clear. They are
+recorded by postsurgical epicardial leads, dual chamber pacemaker, or esophageal lead.
+Do not use imaging stress tests or coronary CT angiography routinely in the diagnosis of atrial flutter if there
+are no symptoms or signs of cardiovascular disease.[21]
+History and exam
+Key diagnostic factors
+worsening heart failure or pulmonary symptoms (common)
+• These are common underlying conditions, and worsening of symptoms may indicate other
+decompensation or new-onset atrial flutter.
+jugular venous pulsations with rapid flutter waves (common)
+• Rapid flutter waves can be noted in the jugular venous wave form.
+Other diagnostic factors
+palpitations (common)
+• Classic symptom, but because atrioventricular block usually results in normal ventricular rate, patients
+may not have this symptom.
+fatigue or lightheadedness (common)
+• Nonspecific but can be the main presenting symptom.
+chest pain (uncommon)
+• Can be symptom of atrial flutter, underlying myocardial ischemia, or a pulmonary embolic event.
+dyspnea (uncommon)
+• Can be a symptom of atrial flutter, underlying myocardial ischemia or a pulmonary embolic event.
+syncope (uncommon)
+• Rare presentation of atrial flutter.
+hypotension (uncommon)
+• Rare presentation of atrial flutter. Atrioventricular block typically results in normal ventricular rate and
+preservation of blood pressure.
+embolic events (uncommon)
+• Such as stroke. Rare presentation of atrial flutter.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Atrial flutter Diagnosis
+Risk factors
+Strong
+increasing age
+• The incidence is 5/100,000 in people <50 years of age and 587/100,000 in those >80 years of age. It
+is especially uncommon in children or young adults unless associated with structural heart disease.[5]
+[12]
+valvular dysfunction
+• Mitral or tricuspid valve stenosis or regurgitation can lead to atrial dilation. Dilation promotes the
+development and maintenance of reentrant circuits.
+atrial septal defects
+• Can lead to atrial dilation. Dilation promotes the development and maintenance of reentrant circuits.
+atrial dilation
+• Some pathologic conditions can lead to atrial dilation; or, rarely, this occurs in the absence of structural
+heart disease. Dilation promotes the development and maintenance of reentrant circuits.
+recent cardiac or thoracic procedures
+• Although atrial fibrillation is the most common postcardiac surgery arrhythmia, atrial flutter can occur
+and is due to pericarditis, alterations in autonomic tone, or atrial ischemia.[4] [13]
+• Transient atrial flutter in the first 2 months after pulmonary vein isolation procedures is common and
+may not necessitate long-term treatment. Can occur in up to 55% of such patients.[14]
+surgical or postablation scarring of atria
+• Any surgical incision involving the atria can result in atrial flutter with the flutter circuit involving atypical
+isthmuses between anatomic barriers, prior atrial incision sites, and scarred regions, as well as the
+cavotricuspid isthmus.[4] [12] [14] [15] [16] [17] [18]
+• Scarring from prior atrial ablation lesions can lead to development of a reentrant circuit.[14]
+• Approximately 10% to 30% incidence at 5- to 10-year follow-up after congenital heart disease
+operative corrections.[19] May also be associated with procedures such as valve surgery, in which
+atrial incisions or maze procedures were performed.
+heart failure
+• The risk of developing atrial flutter is increased 3.5 times in the presence of heart failure. In 16%
+of patients with atrial flutter, the arrhythmia was attributable to heart failure in a population-based
+epidemiologic study.[5]
+hyperthyroidism
+• May precipitate atrial fibrillation or atrial flutter.
+COPD
+• In 12% of patients with atrial flutter, the arrhythmia was attributable to COPD in a population-based
+epidemiologic study.[5] May precipitate atrial fibrillation or atrial flutter.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Atrial flutter Diagnosis
+DIAGNOSIS
+asthma
+• May precipitate atrial fibrillation or atrial flutter.
+pneumonia
+• May precipitate atrial fibrillation or atrial flutter.
+Weak
+antiarrhythmic drugs for atrial fibrillation
+• Conversion of paroxysmal atrial fibrillation to chronic, incessant atrial flutter has been noted most
+commonly with Vaughan Williams class Ic drugs (flecainide and propafenone) and with class Ia
+(disopyramide, procainamide, quinidine) and amiodarone.[7] [8] Can occur in up to 15% to 20% of
+patients treated with propafenone, flecainide, and amiodarone.[4]
+diabetes
+• Atrial flutter is more common in those with a history of diabetes.[5]
+digitalis use
+• Rarely, atrial flutter occurs as a result of digitalis (e.g., digoxin) toxicity.
+male sex
+• Incidence is 2.5 times higher in men than in women.[5]
+congenital or lone atrial flutter
+• This is rare.[10]
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Atrial flutter Diagnosis
+Tests
+1st test to order
+Test Result
+ECG
+• Essential for the clinical diagnosis of atrial flutter.
+• In the typical form (counterclockwise atrial flutter), negatively directed
+saw-tooth atrial deflections (f waves) in leads II, III, and aVF, and
+positive deflections in V1 with atrial rates of 240 to 320 bpm are seen.
+• 2:1 atrioventricular block is usually present in the typical form,
+resulting in the characteristic ventricular rate of 150 bpm. However,
+variable block may occur, leading to an irregular rate.
+• In the reverse typical form (clockwise isthmus-dependent flutter),
+positive flutter waves in leads II, III, and aVF, and negative flutter
+waves in lead V1 are seen.
+• Atypical flutter has an ECG pattern of continuous undulation of the
+atrial complex, not meeting criteria for typical or reverse typical flutter,
+with atrial rates >240 bpm.
+• Carotid massage or giving adenosine during ECG recording generally
+slows the ventricular rate to allow better visualization of the flutter
+waves if the diagnosis is not clear.
+•
+Typical atrial flutter with variable (3 to 4:1) block
+From the collection of Dr K.C. Wu
+changes diagnostic of
+typical, reverse typical, or
+atypical atrial flutter
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Atrial flutter Diagnosis
+DIAGNOSIS
+Test Result
+Close-up images of leads V1, II, III, aVF demonstrating the
+features of typical atrial flutter: positive saw-tooth deflections in
+lead V1 and negative deflections in leads II, III, aVF (arrows)
+From the collection of Dr K.C. Wu
+Reverse typical atrial flutter
+From: Waldo AL. Heart. 2000 Aug;84(2):227-32; used with permission
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Atrial flutter Diagnosis
+Test Result
+Selected leads from a patient with reverse typical atrial flutter
+confirmed at electrophysiologic study. The atrial deflections are
+negative in lead V1 and positive in leads II, III, aVF (arrows)
+Adapted from: Waldo AL. Heart. 2000
+Aug;84(2):227-32; used with permission
+Atypical flutter with right bundle branch block
+From the collection of Dr K.C. Wu
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Atrial flutter Diagnosis
+DIAGNOSIS
+Test Result
+Close up of leads II, III, V1 showing the continuously
+undulating pattern of atrial deflections not fitting
+the criteria for typical or reverse typical atrial flutter
+From the collection of Dr K.C. Wu
+thyroid function tests
+• To rule out underlying thyroid disease.
+normal; abnormal if
+underlying thyroid
+disease is present
+serum electrolytes
+• Electrolyte abnormalities are generally not the sole cause of atrial
+flutter, but imbalances should be checked and corrected.
+normal; abnormal if
+underlying electrolyte
+disturbances are present
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Atrial flutter Diagnosis
+Test to avoid
+Recommendations Rationale
+imaging stress tests
+• Avoid routine imaging stress tests for the workup of palpitations or
+presyncope.[21]
+• If there are no
+symptoms or signs
+of cardiovascular
+disease then cardiac
+imaging beyond
+a transthoracic
+echocardiogram is
+rarely needed.[21]
+coronary CT angiography
+• Avoid routine coronary CT angiography for the workup of palpitations
+or presyncope.[21]
+• If there are no
+symptoms or signs
+of cardiovascular
+disease then cardiac
+imaging beyond
+a transthoracic
+echocardiogram is
+rarely needed.[21]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Atrial flutter Diagnosis
+DIAGNOSIS
+Other tests to consider
+Test Result
+pulmonary function tests
+• Should be ordered if there is clinical suspicion of lung disease as a
+cause.
+normal; abnormal if
+underlying lung disease is
+present
+CXR
+• Should be ordered if there is clinical suspicion of lung disease as a
+cause.
+normal; may be abnormal
+if underlying lung disease
+is present
+digitalis level
+• Rarely a cause of atrial flutter, but digitalis toxicity may be considered
+in patients taking digitalis drugs (e.g., digoxin).
+normal; elevated in
+digitalis toxicity
+cardiac enzymes
+• May be considered if acute myocardial infarction (MI) is suspected.
+normal; elevated in MI
+spiral CT with pulmonary embolism protocol
+• May be considered if pulmonary emboli are suspected.
+normal; direct
+visualization of thrombus
+in a pulmonary artery in
+pulmonary embolism
+transthoracic echocardiogram
+• Atrial sizes can be measured.
+• Can also assess for valvular disease, ventricular function, and
+pericardial disease.
+• Right ventricular systolic pressures (RVSP) can also be measured.
+• Elevated RVSP indicates the presence of pulmonary hypertension,
+which can be seen in pulmonary processes.
+possible structural heart
+disease
+atrial electrogram recording
+• Recorded by postsurgical epicardial leads, dual chamber pacemaker,
+or esophageal lead.
+• Can help visualize flutter waves when the diagnosis is not clear.
+flutter waves
+electrophysiologic studies
+• Requires the input of electrophysiologists.
+• May be required for diagnosis, mapping of the critical isthmus (i.e.,
+the cavotricuspid isthmus), and therapeutic ablation.
+map of reentrant circuit
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Atrial flutter Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Atrial fibrillation • No differentiating signs/
+symptoms
+• ECG shows uncoordinated
+atrial activation with rapidly
+oscillating, fibrillatory waves
+that vary in amplitude,
+shape, and timing.[20]
+Atrial tachycardia • No differentiating signs/
+symptoms
+• Generally, by ECG, atrial
+tachycardia has isoelectric
+intervals between the P
+waves in all leads. At very
+high atrial rates, it may
+be extremely difficult to
+distinguish the two.[20]
+Criteria
+American College of Cardiology/American Heart Association/Heart
+Rhythm Society classification of atrial flutter/atrial tachycardias[4]
+Atrial flutter is a macroreentrant atrial tachycardia with constant P wave/flutter morphology with a rate usually
+>250 bpm. It is distinguishable from focal atrial tachycardia, which has discrete P waves with an intervening
+isoelectric segment. Focal atrial tachycardia is caused mechanistically by micro-reentry or increased
+automaticity and generally has atrial rates in the range of 100-250 bpm.
+Cavotricuspid isthmus dependent (typical atrial flutter):
+• Counterclockwise atrial flutter with ECG flutter waves characterized by:
+• Negative deflection in leads II, III, aVF
+• Positive deflection in lead V1.
+• Clockwise atrial flutter (reverse typical atrial flutter) with ECG flutter waves characterized by:
+• Positive deflection in leads II, III, aVF
+• Negative deflection in lead V1.
+Non cavotricuspid isthmus dependent (atypical atrial flutter):
+• Re-entry that does not depend upon conduction through the cavotricuspid isthmus
+• Circuit is typically defined by atrial scars due to prior heart surgery, ablations, or idiopathic causes
+• Location determines ablation approach and risks
+• Multiple sites of re-entry may be present
+• Can occur in both the left and right atria.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Atrial flutter Management
+MANAGEMENT
+Approach
+Hemodynamically unstable patients require urgent synchronized cardioversion. Hemodynamically
+stable patients can be treated with pharmacologic therapy; however, cardioversion (either electrical or
+pharmacologic) is an option in patients who do not respond to rate-control drugs. Patients with recurrent
+atrial flutter, or those who do not respond to elective cardioversion, may require catheter ablation of the
+cavotricuspid isthmus. Anticoagulation and treatment of any coexisting disease processes are important
+adjunctive therapies in all patients.
+Hemodynamically unstable
+If atrial flutter is associated with acute hemodynamic collapse involving symptomatic hypotension,
+congestive heart failure evidenced by pulmonary edema and/or elevated serum brain natriuretic
+peptide, or myocardial ischemia (acute ischemic ECG changes, angina), emergent direct current (DC)-
+synchronized cardioversion is indicated.[6] [23] This rhythm is generally successfully cardioverted with
+monophasic shocks using <50 J of energy, although the higher-energy initial shocks are indicated for
+emergent therapy and may be needed for elective cardioversions.[4] In patients with hemodynamic
+instability, initiation of anticoagulation should not delay DC cardioversion.[20]
+Hemodynamically stable: rate control
+Most commonly, patients in atrial flutter present with 2:1 or higher grades of atrioventricular (AV)
+conduction block and are thus stable hemodynamically. In approximately 60% of patients, atrial flutter
+occurs as part of an acute disease process.[5] When the underlying process resolves, sinus rhythm is
+generally restored and chronic therapy is not needed.
+AV-nodal blocking agents (e.g., beta-blockers, calcium-channel blockers, and amiodarone) are
+considered a first-line therapy for rate control in the immediate acute setting.[6] [8] Beta-blockers are
+indicated for rate control in patients with atrial flutter complicating acute coronary syndromes to reduce
+myocardial oxygen demands.[6] Beta-blockers should be used with caution in patients with COPD or
+asthma, because they might provoke bronchospasm; calcium-channel blockers are preferred if chronic
+lung disease is also present. Calcium-channel blockers are generally contraindicated or used with
+extreme caution in patients with heart failure.[8] Intravenous amiodarone is useful for acute control of the
+ventricular rate (in the absence of pre-excitation) in patients with atrial flutter and systolic heart failure
+when beta-blockers are contraindicated or ineffective.[8]
+Adequate rate control is more difficult with atrial flutter than with atrial fibrillation. However, most
+randomized controlled trials of AV nodal-blocking agents generally do not report data for atrial flutter
+alone, but rather combined groups of patients with atrial fibrillation and/or flutter.[4] In addition, slowing of
+the atrial rate can cause rapid one-to-one AV conduction, particularly with class Ic antiarrhythmic drugs in
+the absence of AV nodal-blocking agents.[4] [7] [8] For example, atrial flutter with a rate of 300 bpm that
+conducts 2:1 will result in a ventricular rate of 150 bpm. An antiarrhythmic drug that slows the flutter rate
+to 200 bpm might allow 1:1 AV nodal conduction in the absence of AV nodal blockers, thus resulting in a
+potentially clinically dangerous ventricular rate of 200 bpm.
+Hemodynamically stable: cardioversion or pacing
+If the rhythm persists despite pharmacologic therapy and treatment of the underlying cause (or in the
+absence of a reversible cause), elective synchronized cardioversion is generally preferred, both because
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Atrial flutter Management
+atrial flutter is extremely responsive to electrical cardioversion and because it is relatively difficult to rate
+control chronically.[4][8] [20] The success rate for external DC cardioversion, using 5 to 50 J of energy,
+is 95% to 100%.[34] [35] [36] Lower amounts are most successful with biphasic rather than monophasic
+waveforms. However, higher energies may be needed.[23] [34] [35] [36] 
+Rate-control agents are continued before cardioversion and discontinued when sinus rhythm is restored.
+However, they can be continued afterward to prevent rapid ventricular rate in case of recurrence. Dosage
+may need to be decreased after cardioversion if there is bradycardia or hypotension.
+Rapid atrial pacing is useful for acute conversion of atrial flutter in patients who have pacing wires in
+place as part of a permanent pacemaker or an implantable cardioverter-defibrillator, or for temporary atrial
+pacing after cardiac surgery.[4]
+The decision to perform a transesophageal echocardiogram prior to cardioversion (both electrical and
+chemical) to assess for left atrial or appendage thrombus should follow the recommendations for atrial
+fibrillation.[20]
+Hemodynamically stable: pharmacologic cardioversion
+If atrial flutter persists despite resolution of acute provocation, and electrical cardioversion is unavailable
+or not acceptable to the patient, pharmacologic cardioversion may be attempted if the patient has a
+normal QT interval and no structural heart disease. It is also an option when sedation is not tolerated or
+available.
+Intravenous ibutilide is the preferred agent for pharmacologic cardioversion; however, oral dofetilide may
+also be used.[4] Dofetilide is contraindicated in patients with long QT syndrome, QT prolongation, renal
+failure, and torsade de pointes. It requires specialist inpatient monitoring and should only be initiated by a
+physician experienced with its use.
+Pharmacologic cardioversion is less effective than synchronized cardioversion, with potential for being
+proarrhythmic. The success rate is 38% to 76% for conversion of atrial flutter to sinus rhythm, with the
+mean time to conversion reported to be 30 minutes in those who respond. Ventricular proarrhythmia,
+specifically sustained polymorphic ventricular tachycardia, occurs at a rate of 1.2% to 1.7%.[37] [38] [39]
+[40] For this reason, these drugs should not be given to those with severe structural heart disease and
+prolonged QT interval.
+The major risk associated with pharmacologic cardioversion is torsade de pointes. Patients with reduced
+left ventricular ejection fraction are at the highest risk. Pretreatment with magnesium may reduce the risk
+of torsade de pointes. Continuous ECG monitoring is required during administration of these agents and
+for at least 4 hours after completion of therapy (ibutilide), or at least 3 days (or 12 hours after conversion
+to normal sinus rhythm, whichever is greater) after completion of therapy (dofetilide).
+Intravenous class Ic agents and oral sotalol have relatively poor efficacy in acute conversion, are
+associated with significant adverse effects, and are not recommended.[4]
+The decision to perform a transesophageal echocardiogram prior to cardioversion (both electrical and
+chemical) to assess for left atrial or appendage thrombus should follow the recommendations for atrial
+fibrillation.[20]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Atrial flutter Management
+MANAGEMENT
+Recurrent or refractory atrial flutter: catheter ablation
+Catheter ablation of the cavotricuspid isthmus (CTI) is useful in patients with atrial flutter that is
+symptomatic or refractory to pharmacologic rate control, patients in whom at least one antiarrhythmic drug
+has failed, patients who develop atrial flutter as a result of antiarrhythmic therapy for atrial fibrillation, and
+patients with recurrent atrial flutter.
+Catheter ablation has a class I indication in the following clinical scenarios:[4] [6] [41]
+• Symptomatic or refractory to pharmacologic rate control
+• Recurrent symptomatic CTI-dependent flutter after failure of at least one antiarrhythmic agent
+• Symptomatic recurrent episodes of non-CTI-dependent flutter at experienced catheter ablation
+centers
+• Persistent atrial flutter or atrial flutter associated with tachycardia-mediated cardiomyopathy with
+depressed left ventricular function.
+Reasonable (class II) indications include:
+• CTI-dependent atrial flutter that occurs as the result of flecainide, propafenone, or amiodarone
+used for the treatment of atrial fibrillation
+• Patients undergoing catheter ablation of atrial fibrillation who also have a history of documented
+clinical or induced CTI-dependent atrial flutter
+• Primary therapy of recurrent symptomatic non-CTI-dependent flutter before therapeutic trials of
+antiarrhythmic drugs after carefully weighing the potential risks and benefits of treatment options
+• Asymptomatic patients with recurrent atrial flutter
+• First episode of symptomatic typical atrial flutter.
+Catheter ablation is effective at maintaining sinus rhythm in typical atrial flutter in which the CTI is a
+necessary part of the arrhythmic circuit. This invasive technique involves a femoral venous approach. An
+ablation catheter is placed at the isthmus between the inferior vena cava and the tricuspid annulus using
+either fluoroscopic guidance or a 3-dimensional electroanatomic mapping system. Radiofrequency energy
+is then applied to create a line of ablation from the tricuspid annulus to the inferior vena cava.
+The success rate for treatment of typical atrial flutter is high and has been reported at 92% for the first
+procedure and 97% for multiple procedures.[8] [41] [42] [43] Atypical flutter is more difficult to ablate,
+particularly when associated with congenital heart disease. In such situations, referral to an experienced
+center ought to be considered.
+Recurrent or refractory atrial flutter: long-term antiarrhythmic
+therapy
+Chronic pharmacologic therapy is generally not required. In approximately 60% of cases, atrial flutter
+arises in the setting of a precipitating cause and, once that acute process resolves, sinus rhythm is
+restored.[5]
+Most studies evaluating long-term antiarrhythmic therapy have grouped atrial flutter patients with atrial
+fibrillation patients. Therefore, exact efficacy rates are difficult to determine, but are probably around 50%
+for class I antiarrhythmics.[4]
+Antiarrhythmic drug choice depends on the presence or absence of underlying heart disease and any
+comorbidities. Options include amiodarone, dofetilide, sotalol, flecainide, and propafenone.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Atrial flutter Management
+AV nodal agents such as beta-blockers or calcium-channel blockers should be used in conjunction with
+class Ic drugs (e.g., flecainide, propafenone) because of the concern for slowing of the atrial flutter rate
+with resultant 1:1 AV conduction at high rates. However, class Ic drugs are contraindicated in patients with
+structural heart disease.
+Class III agents such as oral dofetilide, sotalol, and amiodarone resulted in maintenance of sinus rhythm
+in 73% of atrial flutter patients.[4] Amiodarone is generally less effective than dofetilide; however, it is less
+proarrhythmic than other antiarrhythmics and is relatively safe in patients with structural heart disease.[44]
+Dofetilide is contraindicated in patients with long QT syndrome, QT prolongation, renal failure, and
+torsade de pointes. Continuous ECG monitoring is required during administration and for at least 3 days
+(or 12 hours after conversion to normal sinus rhythm, whichever is greater) after completion of therapy. It
+should only be initiated by a physician experienced in its use. Sotalol has both class II beta-blocking and
+class III properties, and thus provides rate control.
+Anticoagulant therapy
+The guidelines for thromboembolic prophylaxis in atrial flutter are the same as those for atrial fibrillation.
+[8][20] [22][45][46]
+Selection of stroke risk reduction therapy should be guided by the patient’s risk of stroke, risks of bleeding
+with therapy, and their individual preferences.[20] The American Heart Association (AHA) and European
+Society of Cardiology (ESC) guidelines emphasize a risk factor-based approach using a validated
+clinical risk score such as the CHA2DS2-VASc score system.[8] [20] The CHA2DS2-VASc score is
+considered the most validated score; however, newer online calculators for risk scores, such as ATRIA
+(Anticoagulation and Risk Factors in Atrial Fibrillation) and GARFIELD (Global Anticoagulant Registry
+in the Field-Atrial Fibrillation), in comparison to CHA2DS2-VASc, may modestly improve discrimination
+between high versus low risk and may offer potential advantages in specific populations.[20] The HAS-
+BLED score can be used to assess bleeding risk.[20] 
+Observational studies have demonstrated a 1.7% to 7% risk of embolization during cardioversion from
+atrial flutter.[47] Anticoagulation management prior to ablation should be handled similarly to that before
+cardioversion for atrial fibrillation. Anticoagulation after catheter ablation for atrial flutter should follow the
+same approach for that after atrial fibrillation ablation. The incidence of thrombus or echo-dense material
+in the atria in patients with atrial flutter who are not anticoagulated ranges from 0% to 34% and increases
+with atrial flutter duration more than 48 hours.[48] Atrial mechanical stunning has also been documented
+to persist for several weeks after cardioversion.[49]
+The key options for anticoagulation are a vitamin K antagonist such as warfarin, or a direct oral
+anticoagulant (DOAC) such as dabigatran (a direct thrombin inhibitor), rivaroxaban, apixaban, or
+edoxaban (direct factor Xa inhibitors). Both vitamin K antagonists and DOACs are approved as
+efficacious agents for stroke prevention in this patient population.[20] In patients who are candidates
+for anticoagulation and do not have either moderate-severe rheumatic mitral stenosis or mechanical
+heart valves, DOACs are recommended over warfarin to reduce the risk of mortality, stroke, systemic
+embolism and intracranial hemorrhage.[20] While it is reasonable to use DOACs as first-line agents or as
+a subsequent replacement for warfarin in patients with atrial flutter, warfarin remains the first-line therapy
+in patients with AF and moderate-severe rheumatic mitral stenosis or mechanical heart valves.[20]
+DOACs are recommended over warfarin in eligible patients (i.e., patients who do not have moderate-
+to-severe mitral stenosis or a mechanical heart valve).[20] Bridging with a parenteral anticoagulant
+is not necessary when initiating DOACs for this indication. DOACs do not require monitoring of
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Atrial flutter Management
+MANAGEMENT
+anticoagulant activity; however, they must be used with caution in patients with renal impairment and
+a dose adjustment may be necessary. In the event of major bleeding, the effects of dabigatran can be
+reversed with idarucizumab, for reversal of apixaban, rivaroxaban, or edoxaban andexanet alfa can be
+used (recombinant coagulation factor Xa).[20]
+Edoxaban should not be used in patients with a creatinine clearance >95 mL/minute because of an
+increased risk of ischemic stroke.[20] Initial anticoagulation with subcutaneous low-molecular-weight
+heparin (LMWH) or intravenous unfractionated heparin may be necessary for patients presenting
+acutely with atrial flutter, pending full evaluation and selection of ongoing antithrombotic therapy;
+recommendations vary according to duration of symptoms and timing of cardioversion.
+Warfarin is an alternative to DOAC therapy indicated for selected patients (e.g., patients with mechanical
+heart valves, clinically significant rheumatic mitral stenosis. Intravenous unfractionated heparin or
+subcutaneous LMWH should be continued until an INR of 2-3 is achieved with warfarin therapy (bridging
+therapy).[20]
+If there are no risk factors for stroke, aspirin either alone or in combination with clopidogrel is not
+recommended to reduce the risk of stroke or to prevent thromboembolic events.[20]
+Anticoagulation should be established before cardioversion and is continued for at least 4 weeks after
+cardioversion, and may be required for longer in some patients.[20]
+For more detailed anticoagulation recommendations, see New-onset atrial fibrillation .
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial ( summary )
+hemodynamically unstable
+1st synchronized cardioversion
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Atrial flutter Management
+Acute ( summary )
+hemodynamically stable
+1st beta-blocker or calcium-channel blocker or
+amiodarone
+plus anticoagulation
+plus treat coexisting acute disease process
+2nd synchronized cardioversion
+plus anticoagulation
+plus treat coexisting acute disease process
+3rd pharmacologic conversion
+plus anticoagulation
+plus treat coexisting acute disease process
+with a permanent
+pacemaker or an
+implantable cardioverter-
+defibrillator or after
+cardiac surgery
+plus rapid atrial pacing
+Ongoing ( summary )
+recurrent atrial flutter or failure of
+elective cardioversion
+1st catheter ablation of the cavotricuspid
+isthmus (CTI)
+plus anticoagulation
+1st beta-blocker or calcium-channel blocker
+plus anticoagulation
+adjunct antiarrhythmic therapy
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Atrial flutter Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial
+hemodynamically unstable
+1st synchronized cardioversion
+» If atrial flutter is associated with acute
+hemodynamic collapse involving symptomatic
+hypotension, congestive heart failure evidenced
+by pulmonary edema and/or elevated serum
+brain natriuretic peptide, or myocardial ischemia
+(acute ischemic ECG changes, angina),
+emergent direct current (DC)-synchronized
+cardioversion is indicated.[6] [23]
+» This rhythm is generally successfully
+cardioverted with monophasic shocks using <50
+J of energy, although the higher-energy initial
+shocks are indicated for emergency therapy.[4]
+ Initiation of anticoagulation should not delay
+DC cardioversion in patients with hemodynamic
+instability.[20]
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Atrial flutter Management
+Acute
+hemodynamically stable
+1st beta-blocker or calcium-channel blocker or
+amiodarone
+Primary options
+» metoprolol tartrate: 2.5 to 5 mg intravenous
+bolus over 2 minutes initially, may repeat
+every 5 minutes to a total of 3 doses, followed
+by 25-100 mg orally (immediate-release)
+twice daily
+OR
+» esmolol: 500 micrograms/kg intravenously
+over 1 minute as a loading dose, followed by
+50 micrograms/kg/min infusion for 4 minutes,
+if no response after 5 minutes, repeat loading
+dose and increase infusion; consult specialist
+for further guidance on dose
+OR
+» diltiazem: 0.25 mg/kg/dose intravenous
+bolus over 2 minutes initially, may give
+second dose of 0.35 mg/kg/dose bolus over
+2 minutes if necessary, followed by 5-15 mg/
+hour infusion
+OR
+» verapamil: 2.5 to 10 mg intravenous bolus
+over 2 minutes initially, may give second
+dose of 5-10 mg bolus after 30 minutes if
+necessary, followed by 0.005 mg/kg/min
+infusion
+Secondary options
+» amiodarone: 150 mg intravenously over
+10 minutes initially, followed by 0.5 to 1 mg/
+minute infusion
+» Beta-blockers are indicated for rate control
+in patients with atrial flutter complicating acute
+coronary syndromes to reduce myocardial
+oxygen demands.[20] Beta-blockers should
+be used with caution in patients with COPD
+or asthma, because they might provoke
+bronchospasm; calcium-channel blockers
+are preferred if chronic lung disease is also
+present. Calcium-channel blockers are generally
+contraindicated or used with extreme caution
+in patients with heart failure.[8] Intravenous
+amiodarone is useful for acute control of the
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Atrial flutter Management
+MANAGEMENT
+Acute
+ventricular rate (in the absence of pre-excitation)
+in patients with atrial flutter and systolic heart
+failure when beta-blockers are contraindicated or
+ineffective.[8]
+plus anticoagulation
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» dabigatran etexilate: 150 mg orally twice
+daily
+OR
+» apixaban: 2.5 to 5 mg orally twice daily
+OR
+» edoxaban: 60 mg orally once daily
+OR
+» rivaroxaban: 20 mg orally once daily
+Secondary options
+» heparin: see local protocol for dosing
+guidelines, maintain activated partial
+thromboplastin time (aPTT) at 45-60 seconds
+-or-
+» enoxaparin: 1 mg/kg subcutaneously every
+12 hours
+--AND--
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target INR
+Starting dose can also be calculated
+using an online tool that takes patient
+characteristics and/or CYP2C9/VKORC1
+genotype information (if available)
+into account.  [WarfarinDosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+» The guidelines for thromboembolic prophylaxis
+in atrial flutter are the same as those for atrial
+fibrillation.[8] [20][22][45][46]
+» Selection of stroke risk reduction therapy
+should be guided by the patient’s risk of
+stroke, risks of bleeding with therapy, and their
+individual preferences.[20] The American Heart
+Association (AHA) and European Society of
+Cardiology (ESC) guidelines emphasize a
+risk factor-based approach using a validated
+clinical risk score such as the CHA2DS2-
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Atrial flutter Management
+Acute
+VASc score system.[8] [20] The CHA2DS2-
+VASc score is considered the most validated
+score; however, newer online calculators for risk
+scores, such as ATRIA (Anticoagulation and
+Risk Factors in Atrial Fibrillation) and GARFIELD
+(Global Anticoagulant Registry in the Field-Atrial
+Fibrillation), in comparison to CHA2DS2-VASc,
+may modestly improve discrimination between
+high versus low risk and may offer potential
+advantages in specific populations.[8] [20] 
+ The HAS-BLED score can be used to assess
+bleeding risk.[20]
+» The key options for anticoagulation are a
+vitamin K antagonist such as warfarin, or a direct
+oral anticoagulant (DOAC) such as dabigatran (a
+direct thrombin inhibitor), rivaroxaban, apixaban,
+or edoxaban (direct factor Xa inhibitors). Both
+vitamin K antagonists and DOACs are approved
+as efficacious agents for stroke prevention in
+this patient population.[20] In patients who
+are candidates for anticoagulation and do not
+have either moderate-severe rheumatic mitral
+stenosis or mechanical heart valves, DOACs
+are recommended over warfarin to reduce the
+risk of mortality, stroke, systemic embolism
+and intracranial hemorrhage.[20] While it is
+reasonable to use DOACs as first-line agents
+or as a subsequent replacement for warfarin
+in patients with atrial flutter, warfarin remains
+the first-line therapy in patients with AF and
+moderate-severe rheumatic mitral stenosis
+or mechanical heart valves.[20] DOACs are
+recommended over warfarin in eligible patients
+(i.e., patients who do not have moderate-
+to-severe mitral stenosis or a mechanical
+heart valve).[20]  Bridging with a parenteral
+anticoagulant is not necessary when initiating
+DOACs for this indication. DOACs do not
+require monitoring of anticoagulant activity;
+however, they must be used with caution in
+patients with renal impairment and a dose
+adjustment may be necessary. In the event of
+major bleeding, the effects of dabigatran can
+be reversed with idarucizumab; for reversal of
+apixaban, rivaroxaban, or edoxaban, andexanet
+alfa (recombinant coagulation factor Xa) can
+be used.[20]  Edoxaban should not be used
+in patients with a creatinine clearance >95
+mL/minute because of an increased risk of
+ischemic stroke.[20] Initial anticoagulation with
+subcutaneous low molecular weight heparin
+(LMWH) or intravenous unfractionated heparin
+may be necessary for patients presenting
+acutely with atrial flutter, pending full evaluation
+and selection of ongoing antithrombotic therapy
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Atrial flutter Management
+MANAGEMENT
+Acute
+(recommendations vary according to duration of
+symptoms and timing of cardioversion).
+» Warfarin is an alternative to DOAC therapy
+indicated for selected patients (e.g., patients
+with mechanical heart valves, clinically
+significant rheumatic mitral stenosis. Intravenous
+unfractionated heparin or subcutaneous
+LMWH should be continued until an INR of
+2-3 is achieved with warfarin therapy (bridging
+therapy).[20]
+» If there are no risk factors for stroke, aspirin
+either alone or in combination with clopidogrel is
+not recommended to reduce the risk of stroke or
+to prevent thromboembolic events.[20]
+» Anticoagulation should be established before
+cardioversion and is continued for at least 4
+weeks after cardioversion, and may be required
+for longer in some patients.[20]
+» For more detailed anticoagulation
+recommendations, see New-onset atrial
+fibrillation .
+plus treat coexisting acute disease process
+Treatment recommended for ALL patients in
+selected patient group
+» In approximately 60% of patients, atrial flutter
+accompanies an acute illness and resolves with
+that disease process.[5]
+2nd synchronized cardioversion
+» Recommended for acute treatment of patients
+who do not respond to pharmacologic therapy.
+» The decision to perform a transesophageal
+echocardiogram prior to cardioversion to assess
+for left atrial or appendage thrombus should
+follow the recommendations for atrial fibrillation.
+[20]
+» The success rate for external direct current
+cardioversion is 95% to 100% and can be
+generally achieved using 5-50 J of energy. Lower
+amounts are most successful with biphasic
+versus monophasic waveforms. However, higher
+energies may be needed.[23] [34] [35] [36]
+» Rate-control agents are continued before
+cardioversion and discontinued when sinus
+rhythm is restored. However, they can be
+continued afterward to prevent rapid ventricular
+rate in case of recurrence. Dosage may need
+to be decreased after cardioversion if there is
+bradycardia or hypotension.
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Atrial flutter Management
+Acute
+plus anticoagulation
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» dabigatran etexilate: 150 mg orally twice
+daily
+OR
+» apixaban: 2.5 to 5 mg orally twice daily
+OR
+» edoxaban: 60 mg orally once daily
+OR
+» rivaroxaban: 20 mg orally once daily
+Secondary options
+» heparin: see local protocol for dosing
+guidelines, maintain activated partial
+thromboplastin time (aPTT) at 45-60 seconds
+-or-
+» enoxaparin: 1 mg/kg subcutaneously every
+12 hours
+--AND--
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target INR
+Starting dose can also be calculated
+using an online tool that takes patient
+characteristics and/or CYP2C9/VKORC1
+genotype information (if available)
+into account.  [WarfarinDosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+» The guidelines for thromboembolic prophylaxis
+in atrial flutter are the same as those for atrial
+fibrillation.[8][20] [22][45][46]
+» Selection of stroke risk reduction therapy
+should be guided by the patient’s risk of stroke,
+risks of bleeding with therapy, and their individual
+preferences.[20] The AHA and ESC guidelines
+emphasize a risk factor-based approach
+using a validated clinical risk score such as
+the CHA2DS2-VASc score system.[8] [20] 
+ The CHA2DS2-VASc score is considered the
+most validated score; however, newer online
+calculators for risk scores, such as ATRIA and
+GARFIELD, in comparison to CHA2DS2-VASc,
+may modestly improve discrimination between
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Atrial flutter Management
+MANAGEMENT
+Acute
+high versus low risk and may offer potential
+advantages in specific populations.[8] [20]
+ The HAS-BLED score can be used to assess
+bleeding risk.[20]
+» The key options for anticoagulation are a
+vitamin K antagonist such as warfarin, or a
+DOAC such as dabigatran (a direct thrombin
+inhibitor), rivaroxaban, apixaban, or edoxaban
+(direct factor Xa inhibitors). Both vitamin K
+antagonists and DOACs are approved as
+efficacious agents for stroke prevention in
+this patient population.[20] In patients who
+are candidates for anticoagulation and do not
+have either moderate-severe rheumatic mitral
+stenosis or mechanical heart valves, DOACs
+are recommended over warfarin to reduce the
+risk of mortality, stroke, systemic embolism
+and intracranial hemorrhage.[20] While it is
+reasonable to use DOACs as first-line agents
+or as a subsequent replacement for warfarin
+in patients with atrial flutter, warfarin remains
+the first-line therapy in patients with AF and
+moderate-severe rheumatic mitral stenosis
+or mechanical heart valves.[20] DOACs are
+recommended over warfarin in eligible patients
+(i.e., patients who do not have moderate-
+to-severe mitral stenosis or a mechanical
+heart valve).[20] Bridging with a parenteral
+anticoagulant is not necessary when initiating
+DOACs for this indication. DOACs do not
+require monitoring of anticoagulant activity;
+however, they must be used with caution in
+patients with renal impairment and a dose
+adjustment may be necessary. In the event of
+major bleeding, the effects of dabigatran can
+be reversed with idarucizumab; for reversal of
+apixaban, rivaroxaban or edoxaban, andexanet
+alfa (recombinant coagulation factor Xa) can
+be used.[20] Edoxaban should not be used
+in patients with a creatinine clearance >95
+mL/minute because of an increased risk of
+ischemic stroke.[20] Initial anticoagulation
+with subcutaneous LMWH or intravenous
+unfractionated heparin may be necessary for
+patients presenting acutely with atrial flutter,
+pending full evaluation and selection of ongoing
+antithrombotic therapy (recommendations vary
+according to duration of symptoms and timing of
+cardioversion).
+» Warfarin is an alternative to DOAC therapy
+indicated for selected patients (e.g., patients
+with mechanical heart valves, clinically
+significant rheumatic mitral stenosis. Intravenous
+unfractionated heparin or subcutaneous
+LMWH should be continued until an INR of
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Atrial flutter Management
+Acute
+2-3 is achieved with warfarin therapy (bridging
+therapy).[20]
+» If there are no risk factors for stroke, aspirin
+either alone or in combination with clopidogrel is
+not recommended to reduce the risk of stroke or
+to prevent thromboembolic events.[20]
+» Anticoagulation should be established before
+cardioversion and is continued for at least 4
+weeks after cardioversion, and may be required
+for longer in some patients.[20]
+» For more detailed anticoagulation
+recommendations, see New-onset atrial
+fibrillation .
+plus treat coexisting acute disease process
+Treatment recommended for ALL patients in
+selected patient group
+» In approximately 60% of patients, atrial flutter
+accompanies an acute illness and resolves with
+that disease process.[5]
+3rd pharmacologic conversion
+Primary options
+» ibutilide: 0.01 mg/kg/dose intravenously
+(maximum 1 mg/dose) over 10 minutes
+initially, may repeat 10 minutes after initial
+dose if no response
+Secondary options
+» dofetilide: dose depends on QTc and renal
+function; consult specialist for guidance on
+dose
+» May be considered if electrical cardioversion
+is unavailable, or if the patient does not consent
+to electrical cardioversion. It is also an option
+when sedation is not tolerated or available. To be
+a candidate, a patient must have a normal QT
+interval and no structural heart disease.
+» Intravenous ibutilide is the preferred agent
+for pharmacologic cardioversion; however,
+oral dofetilide may also be used.[4] Dofetilide
+is contraindicated in patients with long QT
+syndrome, QT prolongation, renal failure, and
+torsade de pointes. It requires specialist inpatient
+monitoring and should only be initiated by a
+physician experienced with its use.
+» Less effective than synchronized
+cardioversion, with potential for being
+proarrhythmic. Mean time to conversion is
+reported to be 30 minutes in those who respond
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Atrial flutter Management
+MANAGEMENT
+Acute
+(38% to 76%). Ventricular proarrhythmia,
+specifically sustained polymorphic ventricular
+tachycardia, occurs at a rate of 1.2% to
+1.7%.[37] [38] [39] [40]
+» The major risk associated with pharmacologic
+cardioversion is torsade de pointes. Patients with
+reduced left ventricular ejection fraction are at
+the highest risk. Pretreatment with magnesium
+may reduce the risk of torsade de pointes.
+» Continuous ECG monitoring is required during
+administration of these agents and for at least 4
+hours after completion of therapy (ibutilide), or
+at least 3 days (or 12 hours after conversion to
+normal sinus rhythm, whichever is greater) after
+completion of therapy (dofetilide).
+plus anticoagulation
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» dabigatran etexilate: 150 mg orally twice
+daily
+OR
+» apixaban: 2.5 to 5 mg orally twice daily
+OR
+» edoxaban: 60 mg orally once daily
+OR
+» rivaroxaban: 20 mg orally once daily
+Secondary options
+» heparin: see local protocol for dosing
+guidelines, maintain activated partial
+thromboplastin time (aPTT) at 45-60 seconds
+-or-
+» enoxaparin: 1 mg/kg subcutaneously every
+12 hours
+--AND--
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target INR
+Starting dose can also be calculated
+using an online tool that takes patient
+characteristics and/or CYP2C9/VKORC1
+genotype information (if available)
+into account.  [WarfarinDosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Atrial flutter Management
+Acute
+» The guidelines for thromboembolic prophylaxis
+in atrial flutter are the same as those for atrial
+fibrillation.[8] [20][22][45][46]
+» Selection of stroke risk reduction therapy
+should be guided by the patient’s risk of stroke,
+risks of bleeding with therapy, and their individual
+preferences.[20] The AHA and ESC guidelines
+emphasize a risk factor-based approach
+using a validated clinical risk score such as
+the CHA2DS2-VASc score system.[8] [20] 
+ The CHA2DS2-VASc score is considered the
+most validated score; however, newer online
+calculators for risk scores, such as ATRIA and
+GARFIELD, in comparison to CHA2DS2-VASc,
+may modestly improve discrimination between
+high versus low risk and may offer potential
+advantages in specific populations.[8][20] 
+ The HAS-BLED score can be used to assess
+bleeding risk.[20]
+» The key options for anticoagulation are a
+vitamin K antagonist such as warfarin, or a
+DOAC such as dabigatran (a direct thrombin
+inhibitor), rivaroxaban, apixaban, or edoxaban
+(direct factor Xa inhibitors). Both vitamin K
+antagonists and DOACs are approved as
+efficacious agents for stroke prevention in
+this patient population.[20] In patients who
+are candidates for anticoagulation and do not
+have either moderate-severe rheumatic mitral
+stenosis or mechanical heart valves, DOACs
+are recommended over warfarin to reduce the
+risk of mortality, stroke, systemic embolism
+and intracranial hemorrhage.[20] While it is
+reasonable to use DOACs as first-line agents
+or as a subsequent replacement for warfarin
+in patients with atrial flutter, warfarin remains
+the first-line therapy in patients with AF and
+moderate-severe rheumatic mitral stenosis
+or mechanical heart valves.[20] DOACs are
+recommended over warfarin in eligible patients
+(i.e., patients who do not have moderate-
+to-severe mitral stenosis or a mechanical
+heart valve).[20] Bridging with a parenteral
+anticoagulant is not necessary when initiating
+DOACs for this indication. DOACs do not
+require monitoring of anticoagulant activity;
+however, they must be used with caution in
+patients with renal impairment and a dose
+adjustment may be necessary. In the event of
+major bleeding, the effects of dabigatran can
+be reversed with idarucizumab; for reversal of
+apixaban, rivaroxaban or edoxaban, andexanet
+alfa (recombinant coagulation factor Xa) can
+be used.[20] Edoxaban should not be used
+in patients with a creatinine clearance >95
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Atrial flutter Management
+MANAGEMENT
+Acute
+mL/minute because of an increased risk of
+ischemic stroke.[20] Initial anticoagulation
+with subcutaneous LMWH or intravenous
+unfractionated heparin may be necessary for
+patients presenting acutely with atrial flutter,
+pending full evaluation and selection of ongoing
+antithrombotic therapy (recommendations vary
+according to duration of symptoms and timing of
+cardioversion).
+» Warfarin is an alternative to DOAC therapy
+indicated for selected patients (e.g., patients
+with mechanical heart valves, clinically
+significant rheumatic mitral stenosis. Intravenous
+unfractionated heparin or subcutaneous
+LMWH should be continued until an INR of
+2-3 is achieved with warfarin therapy (bridging
+therapy).[20]
+» If there are no risk factors for stroke, aspirin
+either alone or in combination with clopidogrel is
+not recommended to reduce the risk of stroke or
+to prevent thromboembolic events.[20]
+» Anticoagulation should be established before
+cardioversion and is continued for at least 4
+weeks after cardioversion, and may be required
+for longer in some patients.[20]
+» For more detailed anticoagulation
+recommendations, see New-onset atrial
+fibrillation .
+plus treat coexisting acute disease process
+Treatment recommended for ALL patients in
+selected patient group
+» In approximately 60% of patients, atrial flutter
+accompanies an acute illness and resolves with
+that disease process.[5]
+with a permanent
+pacemaker or an
+implantable cardioverter-
+defibrillator or after
+cardiac surgery
+plus rapid atrial pacing
+Treatment recommended for ALL patients in
+selected patient group
+» Useful for acute conversion of atrial flutter in
+patients who have pacing wires in place as part
+of a permanent pacemaker or an implantable
+cardioverter-defibrillator, or for temporary atrial
+pacing after cardiac surgery.
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Atrial flutter Management
+Ongoing
+recurrent atrial flutter or failure of
+elective cardioversion
+1st catheter ablation of the cavotricuspid
+isthmus (CTI)
+» Useful in patients with atrial flutter that is
+symptomatic or refractory to pharmacologic
+rate control, patients in whom at least one
+antiarrhythmic drug has failed, patients who
+develop atrial flutter as a result of antiarrhythmic
+therapy for atrial fibrillation, and patients with
+recurrent atrial flutter.
+» Catheter ablation is effective at maintaining
+sinus rhythm in typical atrial flutter in which
+the CTI is a necessary part of the arrhythmic
+circuit. This invasive technique involves
+a femoral venous approach. An ablation
+catheter is placed at the isthmus between the
+inferior vena cava and the tricuspid annulus
+using either fluoroscopic guidance or a 3-
+dimensional electroanatomic mapping system.
+Radiofrequency energy is then applied to create
+a line of ablation from the tricuspid annulus to
+the inferior vena cava.
+» The success rate for treatment of typical atrial
+flutter is high and has been reported at 92%
+for the first procedure and 97% for multiple
+procedures.[8] [41] [42] [43]
+» Atypical flutter is more difficult to ablate,
+particularly when associated with congenital
+heart disease. In such situations, consider
+referral to an experienced center.
+plus anticoagulation
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» dabigatran etexilate: 150 mg orally twice
+daily
+OR
+» apixaban: 2.5 to 5 mg orally twice daily
+OR
+» edoxaban: 60 mg orally once daily
+OR
+» rivaroxaban: 20 mg orally once daily
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Atrial flutter Management
+MANAGEMENT
+Ongoing
+Secondary options
+» heparin: see local protocol for dosing
+guidelines, maintain activated partial
+thromboplastin time (aPTT) at 45-60 seconds
+-or-
+» enoxaparin: 1 mg/kg subcutaneously every
+12 hours
+--AND--
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target INR
+Starting dose can also be calculated
+using an online tool that takes patient
+characteristics and/or CYP2C9/VKORC1
+genotype information (if available)
+into account.  [WarfarinDosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+» The guidelines for thromboembolic prophylaxis
+in atrial flutter are the same as those for atrial
+fibrillation.[8] [20][22][45][46]
+» Selection of stroke risk reduction therapy
+should be guided by the patient’s risk of stroke,
+risks of bleeding with therapy, and their individual
+preferences.[20] The AHA and ESC guidelines
+emphasize a risk factor-based approach
+using a validated clinical risk score such as
+the CHA2DS2-VASc score system.[8] [20] 
+ The CHA2DS2-VASc score is considered the
+most validated score; however, newer online
+calculators for risk scores, such as ATRIA and
+GARFIELD, in comparison to CHA2DS2-VASc,
+may modestly improve discrimination between
+high versus low risk and may offer potential
+advantages in specific populations.[8] [20]
+ The HAS-BLED score can be used to assess
+bleeding risk.[20]
+» The key options for anticoagulation are a
+vitamin K antagonist such as warfarin, or a
+DOAC such as dabigatran (a direct thrombin
+inhibitor), rivaroxaban, apixaban, or edoxaban
+(direct factor Xa inhibitors). Both vitamin K
+antagonists and DOACs are approved as
+efficacious agents for stroke prevention in
+this patient population.[20] In patients who
+are candidates for anticoagulation and do not
+have either moderate-severe rheumatic mitral
+stenosis or mechanical heart valves, DOACs
+are recommended over warfarin to reduce the
+risk of mortality, stroke, systemic embolism
+and intracranial hemorrhage.[20] While it is
+reasonable to use DOACs as first-line agents
+or as a subsequent replacement for warfarin
+in patients with atrial flutter, warfarin remains
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Atrial flutter Management
+Ongoing
+the first-line therapy in patients with AF and
+moderate-severe rheumatic mitral stenosis
+or mechanical heart valves.[20] DOACs are
+recommended over warfarin in eligible patients
+(i.e., patients who do not have moderate-
+to-severe mitral stenosis or a mechanical
+heart valve).[20] Bridging with a parenteral
+anticoagulant is not necessary when initiating
+DOACs for this indication. DOACs do not
+require monitoring of anticoagulant activity;
+however, they must be used with caution in
+patients with renal impairment and a dose
+adjustment may be necessary. In the event of
+major bleeding, the effects of dabigatran can
+be reversed with idarucizumab; for reversal of
+apixaban, rivaroxaban or edoxaban, andexanet
+alfa (recombinant coagulation factor Xa) can
+be used.[20] Edoxaban should not be used
+in patients with a creatinine clearance >95
+mL/minute because of an increased risk of
+ischemic stroke.[20] Initial anticoagulation
+with subcutaneous LMWH or intravenous
+unfractionated heparin may be necessary for
+patients presenting acutely with atrial flutter,
+pending full evaluation and selection of ongoing
+antithrombotic therapy (recommendations vary
+according to duration of symptoms and timing of
+cardioversion).
+» Warfarin is an alternative to DOAC therapy
+indicated for selected patients (e.g., patients
+with mechanical heart valves, clinically
+significant rheumatic mitral stenosis. Intravenous
+unfractionated heparin or subcutaneous
+LMWH should be continued until an INR of
+2-3 is achieved with warfarin therapy (bridging
+therapy).[20]
+» If there are no risk factors for stroke, aspirin
+either alone or in combination with clopidogrel is
+not recommended to reduce the risk of stroke or
+to prevent thromboembolic events.[20]
+» Anticoagulation should be established before
+cardioversion and is continued for at least 4
+weeks after cardioversion, and may be required
+for longer in some patients.[20]
+» For more detailed anticoagulation
+recommendations, see New-onset atrial
+fibrillation .
+1st beta-blocker or calcium-channel blocker
+Primary options
+» metoprolol tartrate: 25-100 mg orally
+(immediate-release) twice daily
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Atrial flutter Management
+MANAGEMENT
+Ongoing
+OR
+» diltiazem: 120-360 mg/day orally (regular-
+release) given in 3-4 divided doses
+OR
+» verapamil: 240-320 mg/day orally (regular-
+release) given in 3-4 divided doses
+» Can be useful to control the ventricular rate in
+patients with hemodynamically tolerated atrial
+flutter. Beta-blockers should be used with caution
+in patients with COPD or asthma, because they
+might provoke bronchospasm; calcium-channel
+blockers are preferred if chronic lung disease is
+also present.
+plus anticoagulation
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» dabigatran etexilate: 150 mg orally twice
+daily
+OR
+» apixaban: 2.5 to 5 mg orally twice daily
+OR
+» edoxaban: 60 mg orally once daily
+OR
+» rivaroxaban: 20 mg orally once daily
+Secondary options
+» heparin: see local protocol for dosing
+guidelines, maintain activated partial
+thromboplastin time (aPTT) at 45-60 seconds
+-or-
+» enoxaparin: 1 mg/kg subcutaneously every
+12 hours
+--AND--
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target INR
+Starting dose can also be calculated
+using an online tool that takes patient
+characteristics and/or CYP2C9/VKORC1
+genotype information (if available)
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Atrial flutter Management
+Ongoing
+into account.  [WarfarinDosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+» The guidelines for thromboembolic prophylaxis
+in atrial flutter are the same as those for atrial
+fibrillation.[8] [20][22][45][46]
+» Selection of stroke risk reduction therapy
+should be guided by the patient’s risk of stroke,
+risks of bleeding with therapy, and their individual
+preferences.[20] The AHA and ESC guidelines
+emphasize a risk factor-based approach
+using a validated clinical risk score such as
+the CHA2DS2-VASc score system.[8] [20] 
+ The CHA2DS2-VASc score is considered the
+most validated score; however, newer online
+calculators for risk scores, such as ATRIA and
+GARFIELD, in comparison to CHA2DS2-VASc,
+may modestly improve discrimination between
+high versus low risk and may offer potential
+advantages in specific populations.[8][20] 
+ The HAS-BLED score can be used to assess
+bleeding risk.[20]
+» The key options for anticoagulation are a
+vitamin K antagonist such as warfarin, or a
+DOAC such as dabigatran (a direct thrombin
+inhibitor), rivaroxaban, apixaban, or edoxaban
+(direct factor Xa inhibitors). Both vitamin K
+antagonists and DOACs are approved as
+efficacious agents for stroke prevention in
+this patient population.[20] In patients who
+are candidates for anticoagulation and do not
+have either moderate-severe rheumatic mitral
+stenosis or mechanical heart valves, DOACs
+are recommended over warfarin to reduce the
+risk of mortality, stroke, systemic embolism
+and intracranial hemorrhage.[20] While it is
+reasonable to use DOACs as first-line agents
+or as a subsequent replacement for warfarin
+in patients with atrial flutter, warfarin remains
+the first-line therapy in patients with AF and
+moderate-severe rheumatic mitral stenosis
+or mechanical heart valves.[20] DOACs are
+recommended over warfarin in eligible patients
+(i.e., patients who do not have moderate-to-
+severe mitral stenosis or a mechanical heart
+valve).[20] DOACs are the preferred agents for
+ongoing anticoagulant therapy; examples include
+dabigatran (a direct thrombin inhibitor), and
+apixaban, edoxaban, or rivaroxaban (direct factor
+Xa inhibitors).[8] [20] Bridging with a parenteral
+anticoagulant is not necessary when initiating
+DOACs for this indication. DOACs do not require
+monitoring of anticoagulant activity; however,
+they must be used with caution in patients with
+renal impairment and a dose adjustment may be
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Atrial flutter Management
+MANAGEMENT
+Ongoing
+necessary.[20] In the event of major bleeding,
+the effects of dabigatran can be reversed
+with idarucizumab; for reversal of apixaban,
+or rivaroxaban or edoxaban, andexanet alfa
+(recombinant coagulation factor Xa) can be
+used.[20] DOACS are not recommended in
+patients with mechanical heart valves.[8] [20]
+ Edoxaban should not be used in patients with
+a creatinine clearance >95 mL/minute because
+of an increased risk of ischemic stroke.[20] 
+Initial anticoagulation with subcutaneous LMWH
+or intravenous unfractionated heparin may
+be necessary for patients presenting acutely
+with atrial flutter, pending full evaluation and
+selection of ongoing antithrombotic therapy
+(recommendations vary according to duration of
+symptoms and timing of cardioversion).[20]
+» Warfarin is an alternative to DOAC therapy
+indicated for selected patients (e.g., patients with
+mechanical heart valves, clinically significant
+rheumatic mitral stenosis, or severe renal
+impairment). Intravenous unfractionated heparin
+or subcutaneous LMWH should be continued
+until an INR of 2-3 is achieved with warfarin
+therapy (bridging therapy).[20]
+» If there are no risk factors for stroke, aspirin
+either alone or in combination with clopidogrel is
+not recommended to reduce the risk of stroke or
+to prevent thromboembolic events.[20]
+» Anticoagulation should be established before
+cardioversion and is continued for at least 4
+weeks after cardioversion, and may be required
+for longer in some patients.[20]
+» For more detailed anticoagulation
+recommendations, see New-onset atrial
+fibrillation .
+adjunct antiarrhythmic therapy
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» amiodarone: 100-400 mg orally once daily
+OR
+» dofetilide: dose depends on QTc and renal
+function; consult specialist for guidance on
+dose
+OR
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Atrial flutter Management
+Ongoing
+» sotalol: 80-160 mg orally twice daily
+OR
+» flecainide: 50-150 mg orally twice daily
+OR
+» propafenone: 150-300 mg orally
+(immediate-release) three times daily
+» Can be useful to maintain sinus rhythm in
+patients with symptomatic recurrent atrial flutter.
+» Drug choice depends on the presence or
+absence of underlying heart disease and any
+comorbidities. Options include amiodarone,
+dofetilide, and sotalol. Flecainide or propafenone
+must be given with a rate-control drug and
+should only be considered in patients who do not
+have structural or ischemic heart disease.
+» Amiodarone is less proarrhythmogenic than
+other antiarrhythmics and relatively safe in
+patients with structural heart disease.[44]
+» Dofetilide is contraindicated in patients with
+long QT syndrome, QT prolongation, renal
+failure, and torsade de pointes. Continuous ECG
+monitoring is required during administration and
+for at least 3 days (or 12 hours after conversion
+to normal sinus rhythm, whichever is greater)
+after completion of therapy. It should only be
+initiated by a physician experienced in its use.
+» Sotalol has both class II beta-blocking and
+class III properties, and thus provides rate
+control. It is contraindicated in patients with renal
+failure or creatinine clearance <40 mL/minute.
+» Antiarrhythmic dosing follows atrial fibrillation
+guidelines, as not many of the studies looked at
+atrial flutter separately.[4]
+Secondary prevention
+Anticoagulation is recommended for persistent or paroxysmal atrial flutter, as it is for atrial fibrillation, for the
+prevention of thromboembolic events including acute stroke.
+Patient discussions
+Recurrent palpitations should be reported to the cardiologist. Associated symptoms of chest pain,
+shortness of breath, and hypotension warrant a call to activate emergency medical services.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Atrial flutter Management
+MANAGEMENT
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Atrial flutter Follow up
+Monitoring
+Monitoring
+Patients presenting with acute atrial flutter who have paroxysmal, persistent, or permanent atrial flutter
+need long-term follow-up.
+• Depending on the nature of the underlying cause (i.e., coronary artery disease, valvular heart
+disease, or heart failure), patients should have regular follow-up at a minimum of every 3 to 6
+months.
+• Patients who are taking antiarrhythmic agents need follow-up ECG monitoring. Exercise stress
+testing is recommended to assess for drug-related ventricular tachycardia due to proarrhythmic
+effects of flecainide and propafenone.
+• A regular follow-up to check and monitor the international normalized ratio is mandatory for patients
+who are taking warfarin for anticoagulation.
+For patients with persistent atrial flutter that is felt to be secondary to a reversible cause, long-term follow-
+up may not be necessary after the initial treatment and evaluation of the atrial flutter, if the cause has
+been removed. For patients requiring continued therapy due to high risk of recurrence, follow-up should
+generally include the following general categories:
+• Adequate treatment of the associated medical/cardiac diagnosis
+• Periodic assessments of efficacy of therapy
+• Periodic evaluation for the adverse effects or complications of the therapy
+• Maintenance and monitoring of adequate anticoagulation
+• Reevaluation of the current therapy if the underlying cardiovascular problem changes or progresses
+or the atrial flutter becomes permanent.
+In the few patients with atrial flutter who have asymptomatic recurrences irrespective of the therapy
+(antiarrhythmic drug or ablation), chronic anticoagulation should be considered long term. If the patient
+is symptomatic, evaluation with Holter monitor, event monitor, or pacemaker/implantable cardioverter-
+defibrillator interrogations can be considered, largely to assure that ventricular rates are controlled, and to
+measure the number and duration of atrial flutter episodes. Clearly any change in the clinical status of a
+patient with a history of atrial flutter should prompt the physician to look for a recurrence as the cause of
+the clinical change.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Atrial flutter Follow up
+FOLLOW UP
+Complications
+Complications Timeframe Likelihood
+beta-blocker-associated exacerbation of reactive airway
+disease
+short term medium
+Beta-blockers may cause bronchospasm.They should be avoided in patients with known asthma or history
+of lung disease with prominent history of wheezing.
+myocardial ischemia short term low
+Demand ischemia can result from poor rate control.
+acute stroke short term low
+Patients usually have paroxysmal to persistent atrial flutter with risk factors to thromboembolic events,
+such as left atrial dilation, congestive heart failure, hypertension, diabetes, hyperlipidemia, and advanced
+age.
+Controversy exists as regards treatment of established embolic acute stroke in the presence of acute
+atrial flutter. Anticoagulation in this setting may cause hemorrhagic stroke. Consultation with specialist
+(neurologist) is highly recommended. Novel approaches to interrupt thrombus propagation by intravascular
+devices are being studied.
+medication-related bradycardia variable high
+Secondary to atrioventricular (AV) nodal blocking effects of beta-blockers and calcium-channel blockers.
+Can occur due to profound effects on the AV node while in atrial flutter or to the effects on the sinus node
+when in sinus rhythm, particularly in patients with underlying sinus node dysfunction.
+Can occur with antiarrhythmic drugs (e.g., flecainide or amiodarone) as well.
+May require changing drug, or adding permanent pacing.
+medication-related hypotension variable medium
+Secondary to the vasodilatory effects of beta-blockers and calcium-channel blockers, as well as the
+atrioventricular (AV) nodal effects slowing the heart rate.
+If this occurs, may resolve with lowering the dosage.
+Other causes of hypotension should also be explored.
+If the strategy was rate control only, consider AV nodal ablation for rate control; can also reconsider rhythm
+control in some patients.
+medication-related heart failure variable medium
+Due to the negative inotropic effects of beta-blockers and calcium-channel blockers, as well as some
+antiarrhythmic drugs.
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Atrial flutter Follow up
+Complications Timeframe Likelihood
+These drugs should be used cautiously in patients with poor left ventricular function and not at all in
+patients with overt clinical heart failure until the heart failure is treated and compensated.
+If heart rate control or rhythm control is the goal, amiodarone can be used to afford rate control or rhythm
+control with little depression of contractility.
+Optimization of heart failure regimen is also helpful.
+medication-related proarrhythmia variable medium
+May take many forms depending on the type and drug used. The most dangerous is ventricular
+arrhythmias such as ventricular tachycardia or torsades de pointes. Occurs with antiarrhythmic drugs that
+prolong the QT or with drugs that prolong conduction in patients with underlying coronary disease.
+medication-related thyroid dysfunction variable medium
+Amiodarone contains iodine.
+Elevated thyroid-stimulating hormone and hypothyroidism more common than hyperthyroidism unless the
+patient has a predilection to hyperthyroidism or a previous goiter.
+Can replace thyroid hormone orally for hypothyroidism but usually need to discontinue the drug if
+hyperthyroid and treat the symptoms of hyperthyroidism.
+complications of catheter ablation variable medium
+Complications vary with the technique and experience, and some have decreased with modification of
+ablation strategies. However, ablation for atrial flutter is generally quite safe.[41] [42]
+May include pneumothorax (0.2%), atrioventricular (AV) fistulae, hematomas (<0.3%), congestive
+heart failure exacerbation (<0.1%), cerebrovascular events (0% to 4%), pericardial effusion usually
+uncomplicated (25%), pericardial tamponade (1%), organized atrial tachyarrhythmias (13%), AV block
+(<1%), need for a pacemaker (<0.2%), and pulmonary embolus (<1%). Procedure-related death is
+extremely rare (estimated at 0.03%).[41]
+Most complications are handled acutely.
+tachycardia-mediated cardiomyopathy variable low
+From poor rate control and loss of active atrial contraction, a cardiomyopathy can result and support the
+need for rhythm conversion.
+medication-related pulmonary toxicity variable low
+Acute toxicity presents as acute respiratory distress syndrome within hours of giving amiodarone.
+The long-term toxicity causes inflammation and/or fibrosis.
+Symptoms of an unexplained cough or dyspnea should trigger investigation with a chest x-ray and
+pulmonary function tests (PFTs) with a diffusion capacity.
+PFTs should be considered as routine follow-up every 6 to 12 months while using the drug.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Atrial flutter Follow up
+FOLLOW UP
+Complications Timeframe Likelihood
+Will require discontinuation of the drug in most cases.
+Prognosis
+In approximately 60% of cases, atrial flutter occurs in the setting of an acute process.[5] Once that process
+has been treated, sinus rhythm is usually restored and chronic therapy is not required. The thromboembolic
+risk is similar to that of atrial fibrillation, and guidelines for prophylaxis should follow the atrial fibrillation
+guidelines. If all acute treatments and attempts at cardioversion and ablation fail, chronic atrial flutter is very
+difficult to rate control and is not as responsive to antiarrhythmic agents as atrial fibrillation.
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Atrial flutter Guidelines
+Diagnostic guidelines
+International
+2023 ACC/AHA/ACCP/HRS guideline for the diagnosis and management of
+atrial fibrillation: a report of the American College of Cardiology/American
+Heart Association Joint Committee on clinical practice guidelines (https://
+www.ahajournals.org/doi/10.1161/CIR.0000000000001193#d1e1251)   [20]
+Published by: American Heart Association; American College of
+Cardiology; American College of Clinical Pharmacy;Heart Rhythm Society
+Last published: 2023
+2015 ACC/AHA/HRS guideline for the management of adult patients with
+supraventricular tachycardia (https://www.acc.org/Guidelines)   [4]
+Published by: American College of Cardiology; American Heart
+Association; Heart Rhythm Society
+Last published: 2016
+2019 ESC guidelines for the management of patients with supraventricular
+tachycardia (https://www.escardio.org/Guidelines/Clinical-Practice-
+Guidelines)   [6]
+Published by: European Society of Cardiology Last published: 2019
+Atrial fibrillation: diagnosis and management (https://www.nice.org.uk/
+guidance/ng196)   [22]
+Published by: National Institute for Health and Care Excellence (UK) Last published: 2021
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Atrial flutter Guidelines
+GUIDELINES
+Treatment guidelines
+International
+2020 Canadian Cardiovascular Society/Canadian Heart Rhythm Society
+comprehensive guidelines for the management of atrial fibrillation (https://
+www.ccs.ca/en/guidelines/guidelines-library)   [45]
+Published by: Canadian Cardiovascular Society; Canadian Heart
+Rhythm Society
+Last published: 2020
+2023 ACC/AHA/ACCP/HRS guideline for the diagnosis and management of
+atrial fibrillation: a report of the American College of Cardiology/American
+Heart Association Joint Committee on clinical practice guidelines (https://
+www.ahajournals.org/doi/10.1161/CIR.0000000000001193#d1e1251)   [20]
+Published by: American Heart Association; American College of
+Cardiology; Heart Rhythm Society
+Last published: 2023
+2015 ACC/AHA/HRS guideline for the management of adult patients with
+supraventricular tachycardia (https://www.acc.org/Guidelines)   [4]
+Published by: American College of Cardiology; American Heart
+Association; Heart Rhythm Society
+Last published: 2016
+2014 AATS guidelines for the prevention and management of perioperative
+atrial fibrillation and flutter for thoracic surgical procedures (https://
+www.jtcvs.org/article/S0022-5223(14)00834-4/fulltext)   [13]
+Published by: American Association for Thoracic Surgery Last published: 2014
+2020 ESC guidelines for the diagnosis and management of atrial fibrillation
+ (https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [8]
+Published by: European Society of Cardiology; European Association
+for Cardio-Thoracic Surgery; European Heart Rhythm Association
+Last published: 2021
+2019 ESC guidelines for the management of patients with supraventricular
+tachycardia (https://www.escardio.org/Guidelines/Clinical-Practice-
+Guidelines)   [6]
+Published by: European Society of Cardiology Last published: 2019
+Atrial fibrillation: diagnosis and management (https://www.nice.org.uk/
+guidance/ng196)   [22]
+Published by: National Institute for Health and Care Excellence (UK) Last published: 2021
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Atrial flutter Online resources
+Online resources
+1. WarfarinDosing (http://www.warfarindosing.org/Source/Home.aspx)  (external link)
+ONLINE RESOURCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Atrial flutter References
+REFERENCES
+Key articles
+• Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of adult
+patients with supraventricular tachycardia. J Am Coll Cardiol. 2016 Apr 5;67(13):e27-115.  Full text
+(https://content.onlinejacc.org/article.aspx?articleid=2443667)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26409259?tool=bestpractice.bmj.com)
+• Hindricks G, Potpara T, Dagres N, et al. ESC Scientific Document Group. 2020 ESC guidelines for
+the diagnosis and management of atrial fibrillation developed in collaboration with the European
+Association for Cardio-Thoracic Surgery (EACTS): the Task Force for the diagnosis and management
+of atrial fibrillation of the European Society of Cardiology (ESC) developed with the special
+contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Heart J. 2021 Feb
+1;42(5):373-498.  Full text (https://academic.oup.com/eurheartj/article/42/5/373/5899003?login=false)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32860505?tool=bestpractice.bmj.com)
+• Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS guideline for the diagnosis
+and management of atrial fibrillation: a report of the American College of Cardiology/American Heart
+Association Joint Committee on clinical practice guidelines. Circulation. 2024 Jan 2;149(1):e1-156. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001193)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38033089?tool=bestpractice.bmj.com)
+References
+1. Estes NA 3rd, Halperin JL, Calkins H, et al; American College of Cardiology; American Heart
+Association Task Force on Performance Measures; Physician Consortium for Performance
+Improvement. ACC/AHA/Physician Consortium 2008 clinical performance measures for adults with
+nonvalvular atrial fibrillation or atrial flutter. J Am Coll Cardiol. 2008 Feb 26;51(8):865-84. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/18294574?tool=bestpractice.bmj.com)
+2. Saoudi N, Cosío F, Waldo A, et al. A classification of atrial flutter and regular atrial tachycardia
+according to electrophysiological mechanisms and anatomical bases; a statement from a joint
+expert group from the Working Group of Arrhythmias of the European Society of Cardiology and the
+North American Society of Pacing and Electrophysiology. Eur Heart J. 2001 Jul;22(14):1162-82. 
+Full text (https://academic.oup.com/eurheartj/article/22/14/1162/494426)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11440490?tool=bestpractice.bmj.com)
+3. Lévy S, Camm AJ, Saksena S, et al. International consensus on nomenclature and classification
+of atrial fibrillation; a collaborative project of the Working Group on Arrhythmias and the Working
+Group on Cardiac Pacing of the European Society of Cardiology and the North American Society of
+Pacing and Electrophysiology. Europace. 2003 Apr;5(2):119-22.  Full text (https://academic.oup.com/
+europace/article/5/2/119/2344543)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12633634?
+tool=bestpractice.bmj.com)
+4. Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of adult
+patients with supraventricular tachycardia. J Am Coll Cardiol. 2016 Apr 5;67(13):e27-115.  Full text
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Atrial flutter References
+(https://content.onlinejacc.org/article.aspx?articleid=2443667)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26409259?tool=bestpractice.bmj.com)
+5. Granada J, Uribe W, Chyou P, et al. Incidence and predictors of atrial flutter in the general population.
+J Am Coll Cardiol. 2000 Dec;36(7):2242-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11127467?
+tool=bestpractice.bmj.com)
+6. Brugada J, Katritsis DG, Arbelo E, et al; ESC Scientific Document Group. 2019 ESC guidelines
+for the management of patients with supraventricular tachycardia - the Task Force for the
+management of patients with supraventricular tachycardia of the European Society of Cardiology
+(ESC). Eur Heart J. 2020 Feb 1;41(5):655-720.  Full text (https://academic.oup.com/eurheartj/
+article/41/5/655/5556821#143629127)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31504425?
+tool=bestpractice.bmj.com)
+7. Naccarelli GV, Wolbrette DL, Luck JC. Proarrhythmia. Med Clin North Am. 2001 Mar;85(2):503-26;xii.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11233957?tool=bestpractice.bmj.com)
+8. Hindricks G, Potpara T, Dagres N, et al. ESC Scientific Document Group. 2020 ESC guidelines for
+the diagnosis and management of atrial fibrillation developed in collaboration with the European
+Association for Cardio-Thoracic Surgery (EACTS): the Task Force for the diagnosis and management
+of atrial fibrillation of the European Society of Cardiology (ESC) developed with the special
+contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Heart J. 2021 Feb
+1;42(5):373-498.  Full text (https://academic.oup.com/eurheartj/article/42/5/373/5899003?login=false)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32860505?tool=bestpractice.bmj.com)
+9. Tisdale JE, Chung MK, Campbell KB, et al. Drug-induced arrhythmias: a scientific statement
+from the American Heart Association. Circulation. 2020 Oct 13;142(15):e214-33.  Full text
+(https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000905?rfr_dat=cr_pub
+++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32929996?tool=bestpractice.bmj.com)
+10. Olgin JE, Zipes DG. Libby: Braunwald's heart disease: a textbook of cardiovascular medicine. 8th ed.
+Philadelphia, PA: Saunders Elsevier; 2007.
+11. Waldo AL. The interrelationship between atrial fibrillation and atrial flutter. Prog Cardiovasc
+Dis. 2005 Jul-Aug;48(1):41-56. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16194691?
+tool=bestpractice.bmj.com)
+12. Garson A Jr, Bink-Boelkens M, Hesslein PS, et al. Atrial flutter in the young: a collaborative study
+of 380 cases. J Am Coll Cardiol. 1985 Oct;6(4):871-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/4031302?tool=bestpractice.bmj.com)
+13. Frendl G, Sodickson AC, Chung MK, et al. 2014 AATS guidelines for the prevention and management
+of perioperative atrial fibrillation and flutter for thoracic surgical procedures. J Thorac Cardiovasc Surg.
+2014 Sep;148(3):e153-93.  Full text (https://www.jtcvsonline.org/article/S0022-5223(14)00834-4/
+fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25129609?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Atrial flutter References
+REFERENCES
+14. Kilicaslan F, Verma A, Yamaji H, et al. The need for atrial flutter ablation following pulmonary vein
+antrum isolation in patients with and without previous cardiac surgery. J Am Coll Cardiol. 2005 Mar
+1;45(5):690-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15734612?tool=bestpractice.bmj.com)
+15. Kalman JM, Olgin JE, Saxon LA, et al. Electrocardiographic and electrophysiologic characterization of
+atypical atrial flutter in man: use of activation and entrainment mapping and implications for catheter
+ablation. J Cardiovasc Electrophysiol. 1997 Feb;8(2):121-44. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9147698?tool=bestpractice.bmj.com)
+16. Akar JG, Kok LC, Haines DE, et al. Coexistence of type I atrial flutter and intra-atrial re-
+entrant tachycardia in patients with surgically corrected congenital heart disease. J Am Coll
+Cardiol. 2001 Aug;38(2):377-84. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11499727?
+tool=bestpractice.bmj.com)
+17. Verma A, Marrouche NF, Seshadri N, et al. Importance of ablating all potential right atrial flutter
+circuits in postcardiac surgery patients. J Am Coll Cardiol. 2004 Jul 21;44(2):409-14. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15261940?tool=bestpractice.bmj.com)
+18. Seiler J, Schmid DK, Irtel TA, et al. Dual-loop circuits in postoperative atrial macro re-entrant
+tachycardias. Heart. 2007 Mar;93(3):325-30.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC1861432)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16980513?tool=bestpractice.bmj.com)
+19. Kanter RJ, Garson A. Atrial arrhythmias during chronic follow-up of surgery for complex
+congenital heart disease. Pacing Clin Electrophysiol. 1997 Feb;20(2 Pt 2):502-11. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9058852?tool=bestpractice.bmj.com)
+20. Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS guideline for the diagnosis
+and management of atrial fibrillation: a report of the American College of Cardiology/American Heart
+Association Joint Committee on clinical practice guidelines. Circulation. 2024 Jan 2;149(1):e1-156. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001193)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38033089?tool=bestpractice.bmj.com)
+21. American College of Cardiology. Five things physicians and patients should question. Choosing
+Wisely, an initiative of the ABIM Foundation. 2023 [internet publication].  Full text (https://
+web.archive.org/web/20230402075927/https://www.choosingwisely.org/societies/american-college-of-
+cardiology)
+22. National Institute for Health and Care Excellence (UK). Atrial fibrillation: diagnosis and management.
+30 Jun 2021 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng196)
+23. Panchal AR, Bartos JA, Cabañas JG, et al; Adult Basic and Advanced Life Support Writing Group.
+Part 3: adult basic and advanced life support: 2020 American Heart Association guidelines for
+cardiopulmonary resuscitation and emergency cardiovascular care. Circulation. 2020 Oct 20;142(16
+suppl 2):S366-468.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000916?
+rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33081529?tool=bestpractice.bmj.com)
+24. Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC Guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Atrial flutter References
+21;43(40):3997-4126.  Full text (https://www.doi.org/10.1093/eurheartj/ehac262)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+25. Brugada J, Katritsis DG, Arbelo E, et al. 2019 ESC Guidelines for the management of patients with
+supraventricular tachycardiaThe Task Force for the management of patients with supraventricular
+tachycardia of the European Society of Cardiology (ESC). Eur Heart J. 2020 Feb 1;41(5):655-720. 
+Full text (https://www.doi.org/10.1093/eurheartj/ehz467)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31504425?tool=bestpractice.bmj.com)
+26. Goyal A, Sciammarella JC, Chhabra L, et al. Synchronized Electrical Cardioversion. [Updated 2023
+Mar 27]. In StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan.  Full text
+(https://www.ncbi.nlm.nih.gov/books/NBK482173)
+27. Resuscitation Council UK. Adult advanced life support guidelines. May 2021 [internet publication]. 
+Full text (https://www.resus.org.uk/library/2021-resuscitation-guidelines/adult-advanced-life-support-
+guidelines)
+28. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS Guideline for Management
+of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of
+the American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2018 Oct 2;72(14):e91-e220.  Full
+text (https://www.doi.org/10.1016/j.jacc.2017.10.054)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29097296?tool=bestpractice.bmj.com)
+29. National Institute for Health and Care Excellence. Atrial fibrillation: diagnosis and management. Jun
+2021 [internet publication]  Full text (https://www.nice.org.uk/guidance/ng196)
+30. Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the
+Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/
+American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2024 Jan
+2;149(1):e1-e156.  Full text (https://www.doi.org/10.1161/CIR.0000000000001193)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38033089?tool=bestpractice.bmj.com)
+31. Hindricks G, Potpara T, Dagres N, et al. 2020 ESC Guidelines for the diagnosis and management
+of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic
+Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the
+European Society of Cardiology (ESC) Developed with the special contribution of the European Heart
+Rhythm Association (EHRA) of the ESC. Eur Heart J. 2021 Feb 1;42(5):373-498.  Full text (https://
+www.doi.org/10.1093/eurheartj/ehaa612)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32860505?
+tool=bestpractice.bmj.com)
+32. Lucà F, Giubilato S, Di Fusco SA, et al. Anticoagulation in Atrial Fibrillation Cardioversion: What Is
+Crucial to Take into Account. J Clin Med. 2021 Jul 21;10(15):.  Full text (https://www.doi.org/10.3390/
+jcm10153212)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34361996?tool=bestpractice.bmj.com)
+33. Oxford Medical Education. DC Cardioversion. Dec 2014 [internet publication].  Full text (https://
+oxfordmedicaleducation.com/clinical-skills/procedures/dc-cardioversion)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Atrial flutter References
+REFERENCES
+34. Gallagher MM, Guo XH, Poloniecki JD, et al. Initial energy setting, outcome and efficiency in direct
+current cardioversion of atrial fibrillation and flutter. J Am Coll Cardiol. 2001 Nov 1;38(5):1498-504. 
+Full text (https://www.sciencedirect.com/science/article/pii/S0735109701015406)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11691530?tool=bestpractice.bmj.com)
+35. Van Gelder IC, Crijns HJ, Van Gilst WH, et al. Prediction of uneventful cardioversion and maintenance
+of sinus rhythm from direct-current electrical cardioversion of chronic atrial fibrillation and flutter.
+Am J Cardiol. 1991 Jul 1;68(1):41-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2058558?
+tool=bestpractice.bmj.com)
+36. Arnar DO, Danielsen R. Factors predicting maintenance of sinus rhythm after direct current
+cardioversion of atrial fibrillation and flutter: a reanalysis with recently acquired data. Cardiology.
+1996 May-Jun;87(3):181-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8725311?
+tool=bestpractice.bmj.com)
+37. Vos MA, Golitsyn SR, Stangl K, et al. Superiority of ibutilide (a new class III agent) over DL-sotalol
+in converting atrial flutter and atrial fibrillation. The Ibutilide/Sotalol Comparator Study Group. Heart.
+1998 Jun;79(6):568-75.  Full text (https://heart.bmj.com/content/79/6/568.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10078083?tool=bestpractice.bmj.com)
+38. Ellenbogen KA, Stambler BS, Wood MA, et al. Efficacy of intravenous ibutilide for rapid termination
+of atrial fibrillation and atrial flutter: a dose-response study. J Am Coll Cardiol. 1996 Jul;28(1):130-6. 
+Full text (https://www.sciencedirect.com/science/article/pii/0735109796001210)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8752805?tool=bestpractice.bmj.com)
+39. Abi-Mansour P, Carberry PA, McCowan RJ, et al. Conversion efficacy and safety of repeated
+doses of ibutilide in patients with atrial flutter and atrial fibrillation. Study Investigators. Am
+Heart J. 1998 Oct;136(4 Pt 1):632-42. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9778066?
+tool=bestpractice.bmj.com)
+40. Stambler BS, Wood MA, Ellenbogen KA, et al. Efficacy and safety of repeated intravenous doses of
+ibutilide for rapid conversion of atrial flutter or fibrillation. Ibutilide Repeat Dose Study Investigators.
+Circulation. 1996 Oct 1;94(7):1613-21.  Full text (https://circ.ahajournals.org/content/94/7/1613.long)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8840852?tool=bestpractice.bmj.com)
+41. Spector P, Reynolds MR, Calkins H, et al. Meta-analysis of ablation of atrial flutter and supraventricular
+tachycardia. Am J Cardiol. 2009 Sep 1;104(5):671-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19699343?tool=bestpractice.bmj.com)
+42. Pérez FJ, Schubert CM, Parvez B, et al. Long-term outcomes after catheter ablation of cavo-
+tricuspid isthmus dependent atrial flutter: a meta-analysis. Circ Arrhythm Electrophysiol. 2009
+Aug;2(4):393-401.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIRCEP.109.871665?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19808495?tool=bestpractice.bmj.com)
+43. Rodgers M, McKenna C, Palmer S, et al. Curative catheter ablation in atrial fibrillation and typical atrial
+flutter: systematic review and economic evaluation. Health Technol Assess. 2008 Nov;12(34):iii-iv;xi-
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Atrial flutter References
+xiii;1-198.  Full text (https://www.journalslibrary.nihr.ac.uk/hta/hta12340/#/full-report)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19036232?tool=bestpractice.bmj.com)
+44. Vassallo P, Trohman RG. Prescribing amiodarone: an evidence-based review of clinical
+indications. JAMA. 2007 Sep 19;298(11):1312-22.  Full text (https://jama.jamanetwork.com/
+article.aspx?articleid=208819)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17878423?
+tool=bestpractice.bmj.com)
+45. Andrade JG, Aguilar M, Atzema C, et al; Members of the Secondary Panel. The 2020 Canadian
+Cardiovascular Society/Canadian Heart Rhythm Society comprehensive guidelines for the
+management of atrial fibrillation. Can J Cardiol. Can J Cardiol. 2020 Dec;36(12):1847-948. 
+Full text (https://www.onlinecjc.ca/article/S0828-282X(20)30991-0/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33191198?tool=bestpractice.bmj.com)
+46. You JJ, Singer DE, Howard PA, et al. Antithrombotic therapy for atrial fibrillation: antithrombotic
+therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-
+based clinical practice guidelines. Chest. 2012 Feb;141(2 suppl):e531S-75S.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC3278056)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22315271?tool=bestpractice.bmj.com)
+47. Seidl K, Hauer B, Schwick NG, et al. Risk of thromboembolic events in patients with atrial flutter.
+Am J Cardiol. 1998 Sep 1;82(5):580-3. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9732883?
+tool=bestpractice.bmj.com)
+48. Weiss R, Marcovitz P, Knight BP, et al. Acute changes in spontaneous echo contrast and atrial function
+after cardioversion of persistent atrial flutter. Am J Cardiol. 1998 Nov 1;82(9):1052-5. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9817480?tool=bestpractice.bmj.com)
+49. Sparks PB, Jayaprakash S, Vohra JK, et al. Left atrial "stunning" following radiofrequency catheter
+ablation of chronic atrial flutter. J Am Coll Cardiol. 1998 Aug;32(2):468-75.  Full text (https://
+www.sciencedirect.com/science/article/pii/S0735109798002538?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9708477?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Atrial flutter Images
+IMAGES
+Images
+Figure 1: Typical atrial flutter with variable (3 to 4:1) block
+From the collection of Dr K.C. Wu
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Atrial flutter Images
+Figure 2: Atrial fibrillation
+From the collection of Dr K.C. Wu
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Atrial flutter Images
+IMAGES
+Figure 3: Atrial flutter typically involves a circuit in the right atrium
+From: Cox D, Dougall H. Student BMJ. 2001;9:399-442; used with permission
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Atrial flutter Images
+Figure 4: Left panel: atrial activation in typical atrial flutter (AFL). Right panel: activation in reverse typical
+AFL. The atria are represented schematically in a left anterior oblique view, from the tricuspid (left) and mitral
+rings. The endocardium is shaded and the openings of the superior (SVC) and inferior vena cava (IVC),
+coronary sinus (CS), and pulmonary veins (PV) are shown. The direction of activation is shown by arrows.
+Dashed areas mark approximate location of zones of slow conduction and block. Lettering on the right-hand
+panel marks the low (LPS), mid (MPS), and high (HPS) posteroseptal wall, respectively
+From: Waldo AL. Heart. 2000 Aug;84(2):227-32; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+65
+=== Page 66 ===
+Atrial flutter Images
+IMAGES
+Figure 5: Close-up images of leads V1, II, III, aVF demonstrating the features of typical atrial flutter: positive
+saw-tooth deflections in lead V1 and negative deflections in leads II, III, aVF (arrows)
+From the collection of Dr K.C. Wu
+Figure 6: Reverse typical atrial flutter
+From: Waldo AL. Heart. 2000 Aug;84(2):227-32; used with permission
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 67 ===
+Atrial flutter Images
+Figure 7: Selected leads from a patient with reverse typical atrial flutter confirmed at electrophysiologic study.
+The atrial deflections are negative in lead V1 and positive in leads II, III, aVF (arrows)
+Adapted from: Waldo AL. Heart. 2000 Aug;84(2):227-32; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+67
+=== Page 68 ===
+Atrial flutter Images
+IMAGES
+Figure 8: Atypical flutter with right bundle branch block
+From the collection of Dr K.C. Wu
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 69 ===
+Atrial flutter Images
+Figure 9: Close up of leads II, III, V1 showing the continuously undulating pattern of atrial deflections not
+fitting the criteria for typical or reverse typical atrial flutter
+From the collection of Dr K.C. Wu
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+69
+=== Page 70 ===
+Atrial flutter Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 71 ===
+Atrial flutter Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+71
+=== Page 72 ===
+Contributors:
+// Authors:
+Katherine C. Wu, MD, FACC
+Associate Professor of Medicine
+Johns Hopkins University, School of Medicine, Baltimore, MD
+DISCLOSURES: KCW declares that she has no competing interests.
+// Peer Reviewers:
+Richard C. Wu, MD
+Associate Professor of Medicine
+Director, Cardiac Electrophysiology Laboratory, UT Southwestern Medical Center, University Hospital, St.
+Paul, Dallas, TX
+DISCLOSURES: RCW declares that he has no competing interests.
+Reginald Ho, MD
+Clinical Assistant Professor
+Department of Medicine, Thomas Jefferson University Hospital, Philadelphia, PA
+DISCLOSURES: RH declares that he has no competing interests.
+George Juang, MD, FACC
+Director of Electrophysiology
+Long Island Arrhythmia Center, Mineola, NY
+DISCLOSURES: GJ declares that he has no competing interests.

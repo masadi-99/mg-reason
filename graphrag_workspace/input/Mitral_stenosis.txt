@@ -1,0 +1,1294 @@
+# Mitral stenosis
+
+=== Page 1 ===
+Mitral stenosis
+Straight to the point of care
+Last updated: Oct 01, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Case history  5
+Diagnosis  6
+Approach  6
+History and exam  9
+Risk factors  11
+Tests  12
+Differentials  14
+Criteria  14
+Management  16
+Approach  16
+Treatment algorithm overview  18
+Treatment algorithm  19
+Emerging  23
+Primary prevention  23
+Secondary prevention  23
+Follow up  24
+Monitoring  24
+Complications  24
+Prognosis  25
+Guidelines  26
+Diagnostic guidelines  26
+Treatment guidelines  26
+References  27
+Images  33
+Disclaimer  37
+=== Page 3 ===
+Mitral stenosis Overview
+Summary
+Mitral stenosis is a narrowing of the mitral valve orifice. Fusion of the leaflet commissures or encroachment
+by annular calcium reduces the orifice area. Usually occurs as a consequence of rheumatic fever in low- and
+middle-income countries but is more likely due to mitral annular calcification in high-income countries.
+Causes decreased filling of the left ventricle, while simultaneously increasing left atrial pressure, producing
+the syndrome of heart failure.
+As disease progresses, pulmonary hypertension and right heart failure occur.
+Mild disease can be treated symptomatically with diuretics. Moderate to severe disease requires mechanical
+correction of the valve obstruction by valvotomy, valve repair, or valve replacement.
+Definition
+Mitral stenosis is a narrowing of the mitral valve orifice, often caused by rheumatic valvulitis producing fusion
+of the valve commissures and thickening of the valve leaflets.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Mitral stenosis Theory
+THEORY
+Epidemiology
+Most cases of mitral stenosis are caused by rheumatic fever. While rheumatic fever is now very rare in
+high-income countries, it remains epidemic in much of the world. The greatest burden of acute rheumatic
+fever and rheumatic heart disease is in people in low- and middle-income countries and in populations
+of indigenous people living in poverty in high-income countries.[1] The highest prevalence and age-
+standardized mortality of rheumatic heart disease are in Oceania, South Asia, and central sub-Saharan
+Africa.[2] [3] There is no clear sex predilection for acute rheumatic fever, although rheumatic heart disease
+is much more common in females. Acute rheumatic fever is most common in tropical countries with no
+seasonal variation. The highest rates of acute rheumatic fever have been documented in Aboriginal
+children in the Northern Territory of Australia and Pacific peoples, including those living in the US and New
+Zealand.[4] In the US, the annual national incidence of rheumatic fever is unknown, as it is no longer a
+nationally notifiable disease.[5]
+Etiology
+Rheumatic fever leading to rheumatic heart disease is the main cause of mitral stenosis.
+Rarer causes of mitral stenosis include congenital deformity of the valve, the carcinoid syndrome, use of
+ergot and/or serotonergic drugs such as fenfluramine, SLE, mitral annular calcification (MAC) due to aging,
+and amyloidosis.
+It is thought that some M antigens are held in common by the heart and some strains of group A
+streptococci.[6] [7] Following infection by the organism (usually manifested as pharyngitis), the inflammatory
+response against the bacterium leads also to attack of the heart. This concept has, however, been
+challenged. There is evidence that, rather than immunological cross-reactivity giving rise to tissue damage,
+the streptococcal M protein may bind directly to the valvular collagen, inciting an inflammatory response.[8]
+While endocardium, myocardium, and pericardium may all be involved, it is the endocardium containing the
+heart valves that receives the most inflammatory damage. During an attack of acute rheumatic fever the
+mitral valve becomes thickened and retracted leading to mitral regurgitation. However, years later, fusion
+of the mitral leaflet commissures and thickening of the leaflets and subvalvular apparatus cause mitral
+stenosis.[9] It is still unclear whether this remote damage stems from hemodynamic stress on a previously
+damaged valve or is caused by ongoing inflammation from a smoldering rheumatic process.[10]
+As world populations age, MAC, a nonrheumatic build up of calcium in the mitral annulus, is another
+important cause of mitral stenosis. Here, the leaflets themselves are usually normal and stenosis is caused
+by encroachment of calcium on the mitral orifice.
+Pathophysiology
+The normal mitral valve has an orifice area of about 4 cm² that permits free flow of blood from the left atrium
+into the left ventricle during diastole. As the valve orifice becomes reduced in mitral stenosis, flow between
+left atrium and left ventricle is progressively impeded and pressure in the left atrium remains higher than that
+of the left ventricle.[9]
+By restricting flow, mitral stenosis results in 2 primary pathophysiologic consequences:
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Mitral stenosis Theory
+• Increased left atrial pressure is referred to the lungs, where it leads to congestion and the symptoms
+associated with it
+• The restricted orifice limits filling of the left ventricle, thereby limiting cardiac output.
+Thus, although left ventricular contractility is usually normal, the pathophysiologic effects of mitral stenosis
+produce a syndrome mimicking left heart failure.
+As left atrial pressure increases, a pressure overload encumbers the right ventricle, the chamber responsible
+for filling the left ventricle. With progression of the disease, pulmonary vasoconstriction adds to right
+ventricular pressure overload, and severe pulmonary hypertension may ensue.
+Whether left ventricular contractility is affected in mitral stenosis is still in debate.[11] [12] [13] Ejection
+performance is reduced in about one third of patients. In most patients this is secondary to increased
+afterload induced by reflexive vasoconstriction and is compounded by reduced preload from reduced
+left ventricular filling.[14] In such cases the ejection performance returns to normal following relief of the
+mitral stenosis.[15] However, in developing countries where the rheumatic process seems very aggressive,
+myocardial injury and impaired contractility may be present.[12]
+Case history
+Case history #1
+A 36-year-old prima gravida presents with dyspnea on exertion and two-pillow orthopnea (requiring two
+pillows at night to alleviate recumbent dyspnea) during her second trimester. Previous physical exams had
+disclosed no cardiac abnormalities. On current physical exam she has a loud first heart sound and a 2/6
+diastolic rumbling murmur.
+Case history #2
+An 83-year-old man presents with progressive dyspnea on exertion over the past year. He is frail and his
+activities are limited but he notes difficulty climbing five stairs to access his front door. He complains of
+two-pillow orthopnea. On physical exam his neck veins are elevated. No murmur is heard.
+Other presentations
+May present with atrial fibrillation, heart failure, or systemic embolism.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Mitral stenosis Diagnosis
+DIAGNOSIS
+Approach
+A history of dyspnea, orthopnea, paroxysmal nocturnal dyspnea, or peripheral edema is suggestive of mitral
+stenosis. Occasionally, a documented history of rheumatic fever may prompt the provider to seek a history
+probing for the typical symptoms.
+Mitral stenosis is usually diagnosed when the characteristic diastolic murmur is heard on physical
+examination. This is a low-pitched, rumbling murmur that is best heard at the heart apex with the patient in
+the left lateral position. It may be accentuated by having the patient perform handgrip exercises.
+Associated signs include an irregular pulse suggestive of atrial fibrillation, rales suggestive of left ventricular
+failure, and, in severe cases, signs of pulmonary hypertension (loud P2) and signs of right heart failure
+(peripheral edema and ascites).
+Investigations
+Transthoracic echocardiography (TTE) showing typical valve deformities is the definitive test for diagnosis
+of mitral stenosis and should be performed on all patients with a diastolic murmur.[22] [23] [24]
+Transthoracic echocardiogram: long-axis view of a rheumatic
+mitral valve showing classic doming of the leaflets in diastole
+From Siva A, Shah AM. Heart. 2005 Jan;91(1):e3. Used with permission
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Mitral stenosis Diagnosis
+Short-axis view of left ventricle with flattening of the interventricular
+septum secondary to right ventricular pressure overload
+From Siva A, Shah AM. Heart. 2005 Jan;91(1):e3. Used with permission
+ECG and chest x-ray (CXR) should also be performed. They are nonspecific for mitral stenosis but form
+a useful baseline of cardiac rhythm and function. ECG may reveal left atrial enlargement, right ventricular
+hypertrophy, and/or atrial fibrillation. CXR may show a double right heart border indicating an enlarged left
+atrium, a prominent pulmonary artery, and/or Kerley B lines.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Mitral stenosis Diagnosis
+DIAGNOSIS
+Kerley B lines (horizontal lines in the left lower zone): a radiologic change of pulmonary venous hypertension
+From Harley HR. Br Heart J. 1961 Jan;23(1):75-87. Used with permission
+Transesophageal echocardiography (TEE) is recommended if the diagnosis is unclear following TTE and
+also before anticipated valvotomy to examine for thrombus.[22] [23] Additionally, the echocardiographic
+appearance of the valve in mitral annular calcification-related mitral stenosis is quite different from
+rheumatic mitral stenosis. The mitral leaflets are usually normal, although in some cases the basal parts
+of the leaflets may be calcified. There is dense calcification of the mitral annulus, encompassing part
+or all of the annulus. TEE may be especially helpful in assessing the extent and density of the annular
+calcification.[24]
+Because of its invasive nature, cardiac catheterization should be performed only in patients with
+echocardiogram results that are difficult to interpret and when mechanical correction is contemplated.
+Measurement of left atrial and left ventricular pressure and cardiac output are entered into the Gorlin
+formula used to calculate mitral valve area.[25]
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Mitral stenosis Diagnosis
+Gorlin formula. MVA, mitral valve area; CO, cardiac output; HR, heart
+rate; dfp, diastolic filling period (seconds); p1-p2, mean mitral gradient
+Dynamic exercise testing
+For patients who fail to receive adequate relief from diuretics or when exercise-induced symptoms seem
+out of proportion to stenosis severity, hemodynamics should be measured at rest and with exercise either
+with echocardiography or cardiac catheterization to determine if surgical intervention is required.
+History and exam
+Key diagnostic factors
+history of rheumatic fever (common)
+• While rheumatic fever is the usual cause of mitral stenosis, the history of a previous attack of
+rheumatic fever is notoriously unreliable.[26]
+• Many patients who claim a rheumatic fever history have no evidence of rheumatic heart disease,
+whereas many patients with clear evidence of rheumatic valvulopathy deny ever having had rheumatic
+fever.
+dyspnea (common)
+• As the mitral valve orifice narrows, increased left atrial pressure results in pulmonary congestion.
+orthopnea (common)
+• As a consequence of increased left atrial pressure.
+opening snap on auscultation (common)
+• The stiffened valve opens with a snap.
+• In mitral annular calcification-related disease, the leaflets move relatively normally and this finding is
+absent.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Mitral stenosis Diagnosis
+DIAGNOSIS
+diastolic murmur (common)
+• Flow through the narrowed valve produces a low pitched rumbling murmur.
+• Best heard with the patient in the left lateral decubitus position and may be accentuated by having the
+patient perform handgrip exercise.
+• In MAC-related disease the murmur may be absent, perhaps owing to different anatomy from
+rheumatic disease.
+•
+loud P2 (common)
+• Sign of pulmonary hypertension and/or right ventricular failure.
+neck vein distension (common)
+• Sign of pulmonary hypertension and/or right ventricular failure.
+paroxysmal nocturnal dyspnea (uncommon)
+• As a consequence of increased left atrial pressure.
+hemoptysis (uncommon)
+• Sudden increases in pulmonary venous pressure, especially during exercise, may rupture bronchiolar
+vein anastomoses leading to hemoptysis.
+hoarseness (uncommon)
+• The enlarged left atrium may encroach upon the left recurrent laryngeal nerve producing vocal cord
+paralysis and hoarseness. This is known as Ortner syndrome.
+peripheral edema (uncommon)
+• As pulmonary hypertension becomes severe, right ventricular failure leads to right atrial hypertension,
+volume retention, and edema.
+ascites (uncommon)
+• Sign of severe pulmonary hypertension leading to right ventricular failure and right atrial hypertension.
+Other diagnostic factors
+40-50 years old in rheumatic mitral stenosis, 70-90 years old in mitral annular
+calcification (MAC)-related disease (common)
+• In high-income countries, the first symptoms of mitral stenosis related to rheumatic disease usually
+appear in the fourth and fifth decades of life. In low- and middle-income countries, symptoms occur at
+a younger age.[27] MAC-related disease is generally seen in older people.
+loud first heart sound (S1) (common)
+• The pandiastolic transvalvular gradient holds the valve open until the ventricular systole closes it,
+producing a loud S1.
+irregularly irregular pulse (uncommon)
+• Left atrial enlargement and increased age commonly cause atrial fibrillation in patients with mitral
+stenosis.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Mitral stenosis Diagnosis
+flushed cheeks (uncommon)
+• The patient may appear with prominent reddish cheeks, known as mitral facies.
+Risk factors
+Strong
+streptococcal infection
+• Untreated streptococcal infection with strains containing an M antigen that is cross-reactive with,
+or binds to, the myocardium is the major risk factor for developing rheumatic fever and subsequent
+rheumatic heart disease.[8] [16]
+• The most common infection is streptococcal pharyngitis. In the US, epidemic streptococcal infection
+occurs primarily in crowded situations such as schools, college dormitories, and military barracks.
+• Socioeconomic status must in some way influence the risk of contracting rheumatic fever, as there
+is a large difference in attack rate between developed and developing nations. How this risk factor
+translates to increased attack rates is uncertain.
+female sex
+• Women are 3 times more likely than men to have mitral stenosis.
+Weak
+ergot medications
+• Chronic ingestion of methysergide or ergotamine may result in endocardial thickening and valve
+dysfunction, commonly aortic and mitral stenosis.[17]
+serotonergic medications
+• Such as fenfluramine and dexfenfluramine. Valvular abnormalities, mostly regurgitant lesions, resulted
+in the voluntary withdrawal from market of fenfluramine and dexfenfluramine in September 1997.[18]
+systemic lupus erythematosus (SLE)
+• Mitral stenosis is a rare complication of SLE-related valvular disease.[19]
+amyloidosis
+• Cardiac amyloidosis can cause valvular thickening.[20]
+bronchial carcinoid syndrome
+• Carcinoid syndrome typically causes right heart valve disease (tricuspid and pulmonary valve) unless
+bronchial carcinoid is present, in which case left heart lesions may occur.[17]
+atherosclerotic risk factors
+• Mitral stenosis due to mitral annular calcification (MAC) is a process related to atherosclerosis and
+shares many of the same risk factors including age, hypertension, and inflammation.[21]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Mitral stenosis Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+ECG
+• This nonspecific test is performed at baseline and again if there is a
+change in the patient's rhythm.
+atrial fibrillation; left
+atrial enlargement; right
+ventricular hypertrophy
+CXR
+• Test ordered at baseline and again if there is a major change in
+symptoms.
+Kerley B lines (horizontal lines in the left lower zone): a
+radiologic change of pulmonary venous hypertension
+From Harley HR. Br Heart J. 1961
+Jan;23(1):75-87. Used with permission
+double right heart border
+indicating an enlarged
+left atrium; prominent
+pulmonary artery; Kerley
+B lines
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Mitral stenosis Diagnosis
+Test Result
+transthoracic echocardiography
+• When the typical findings of mitral stenosis are discovered on
+physical examination, an echocardiogram is the definitive test
+to confirm the diagnosis and to quantitate the severity of the
+disease.[22] [23]
+Transthoracic echocardiogram: long-axis view of a rheumatic
+mitral valve showing classic doming of the leaflets in diastole
+From Siva A, Shah AM. Heart. 2005 Jan;91(1):e3. Used with permission
+Short-axis view of left ventricle with flattening of the interventricular
+septum secondary to right ventricular pressure overload
+From Siva A, Shah AM. Heart. 2005 Jan;91(1):e3. Used with permission
+• Used to measure mitral orifice area and assess pulmonary artery
+pressure.
+• Also used to establish suitability of valve anatomy for balloon
+valvotomy.
+hockey stick-shaped
+mitral deformity
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Mitral stenosis Diagnosis
+DIAGNOSIS
+Other tests to consider
+Test Result
+transesophageal echocardiography (TEE)
+• Used to examine for left atrial thrombus that might be dislodged
+during valvotomy.[22] [23]
+• Additionally, TEE may be helpful in assessing mitral annular
+calcification-related mitral stenosis.
+presence of possible
+left atrial thrombus;
+calcification of mitral
+annulus; mitral leaflets
+are usually normal
+although in some cases
+the basal parts of the
+leaflets may be calcified
+cardiac catheterization
+• Used to calculate valve area.
+• Only performed if inadequate information is available from
+echocardiography and surgical correction is planned.
+high left atrial pressure,
+low left ventricular
+pressure, and low cardiac
+output
+dynamic exercise testing
+• Exercise response measured by echocardiography or cardiac
+catheterization.
+• If pulmonary capillary wedge (PCW) pressure or pulmonary artery
+pressure increase with exercise, the patient should be considered for
+valvotomy.
+pressures increase with
+exercise; PCW >25 mmHg
+or pulmonary systolic
+pressure >60 mmHg
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Left atrial myxoma • This left atrial tumor may
+obstruct the mitral orifice
+and mimic the signs and
+symptoms of mitral stenosis.
+• Echocardiography clearly
+shows a mass lesion.
+Unexplained atrial
+fibrillation
+• At rapid heart rates the signs
+of mitral stenosis may be
+difficult to discern.
+• Echocardiography excludes
+mitral stenosis.
+Criteria
+Stages of mitral valve disease[22]
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Mitral stenosis Diagnosis
+Stages of mitral stenosis (rheumatic disease)
+Adapted from Otto CM et al. J Am Coll Cardiol 2021:77:e25-e197
+In mitral annular calcification-related disease, the hemodynamic criteria are the same as for rheumatic
+disease. However, as most of these patients are older people, both left atrium and left ventricle compliance
+are usually reduced, adding another hemodynamic cause for the patient’s symptoms that will not be relieved
+even if mitral intervention is successful.[28] Additionally, the echocardiographic appearance of the valve is
+quite different from rheumatic mitral stenosis. The mitral leaflets are usually normal although in some cases
+they may be calcified. There is dense calcification of the mitral annulus, encompassing part or all of the
+annulus. Transesophageal echocardiography may be especially helpful in assessing the extent and density
+of the annular calcification.
+Echocardiographic variables relating to valvotomy outcome
+(rheumatic disease only)[29] [30] [31]
+Each of the following are graded on a severity score of 1 to 4:
+• Valve mobility
+• Calcification
+• Leaflet thickening
+• Subvalvular apparatus distortion
+The maximum pathologic score is 16 and the minimum is 4.
+Valve scores of <9 suggest a good outcome with balloon valvotomy.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Mitral stenosis Management
+MANAGEMENT
+Approach
+Mitral stenosis is a mechanical obstruction to inflow of the left ventricle. As such, definitive therapy for
+patients with rheumatic disease requires a mechanical solution by percutaneous balloon valvotomy, surgical
+mitral valve repair, or valve replacement. Definitive therapy should be offered to patients with severe
+symptomatic disease who are unlikely to benefit from medical therapy alone, and may be considered in
+some patients with severe asymptomatic disease.[22] [23] Management of mitral annular calcification (MAC)-
+related mitral stenosis is similar to the management of rheumatic disease; however, balloon valvotomy is not
+recommended in these patients.
+Rheumatic disease: progressive disease (gradient <5 mmHg, valve
+area >1.5 cm²)
+Patients with less than severe disease do not benefit from mechanical therapy, because it is not likely to
+significantly increase an already relatively adequate valve area.
+Rheumatic disease: severe asymptomatic disease (gradient >5
+mmHg, valve area <1.5 cm²)
+Asymptomatic patients with severe disease usually do not require therapy. However, balloon mitral
+valvotomy may be considered for patients with very severe disease (valve area <1.0 cm²) when valve
+morphology is favorable for that procedure or when atrial fibrillation intervenes. Pulmonary hypertension
+may also be considered in the decision to proceed to balloon valvotomy.[22] [23]
+Rheumatic disease: severe symptomatic disease (gradient >5
+mmHg, valve area <1.5 cm²)
+A diuretic may reduce left atrial pressure and relieve mild symptoms. However, patients with severe
+disease are unlikely to benefit from medical therapy alone, and mechanical relief from valve obstruction is
+often the only effective remedy for symptoms and for pulmonary hypertension.
+Percutaneous balloon valvotomy is the treatment of choice when valve anatomy is suitable for this
+procedure.[22] [23] [33] [34] [35] [36] [37]
+Valve mobility, calcification, leaflet thickening, and subvalvular apparatus distortion are graded on
+a severity score of 1 to 4.[29] Valves with a score of <9 are usually considered optimal for balloon
+valvotomy.
+In patients with higher valve scores, surgery to perform open valve repair (commissurotomy) may be
+possible. However, mitral valve replacement is more commonly performed.
+Patients with rheumatic mitral stenosis are usually relatively young. This complicates the choice of
+valve for replacement, as bioprosthetic valves are likely to suffer valve deterioration requiring repeat
+replacement within several years. Mechanical valves are durable and will likely last for the lifetime of
+the patient, yet are thrombogenic, and patients require anticoagulation with a vitamin K antagonist (e.g.,
+warfarin).[22] Bleeding complications from the anticoagulants used to prevent thromboembolism occur
+approximately at a rate of 2% per year.[37] In view of the disadvantages of each option, patient preference
+has a key role in choosing which type of replacement valve to use.
+For patients with multiple comorbid conditions that make open heart surgery high risk, balloon valvotomy
+may offer relief in rheumatic disease even when valve anatomy is suboptimal and valve score is high.
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Mitral stenosis Management
+For patients with mitral stenosis in normal sinus rhythm who experience worsening of symptoms with
+exercise, heart rate control with a beta-blocker may be considered.[22] Ivabradine may be an alternative
+to beta-blockers for rate control in these patients. Three trials compared beta-blockers and ivabradine
+for exercise tolerance in patients with severe mitral stenosis.[38] [39] [40] In all three trials, ivabradine
+improved exercise tolerance compared with baseline and in two of the trials, ivabradine was superior to
+beta blockade.[38] [39]
+MAC-related disease
+Medical therapy for MAC-related disease is identical to that of rheumatic disease (see above), with the
+exception of the type of anticoagulation used. While no studies exist to compare vitamin K antagonists
+to direct oral anticoagulants (DOACs) in MAC-related disease, current guidelines indicate that vitamin K
+antagonists are indicated in rheumatic disease because of ongoing inflammation. Thus DOACs may be
+suitable for atrial fibrillation in MAC patients.
+Balloon valvotomy is not an appropriate treatment option for patients with MAC-related disease. Balloon
+valvotomy is ineffective in these patients because the restriction to flow resides not in the valve itself, but
+rather, in dense calcification of the annulus which is resistant to dilation. Unfortunately the other major
+option, surgical valve replacement, has a poor outcome due to the risk atrioventricular disruption when
+the calcium in the annulus is removed to permit placement of a valvular prosthesis.[41] In one study, the
+median 30-day surgical mortality was 6.3%, but was as high as 27%.[42] Further, most patients with MAC
+are older people and have multiple comorbidities, additionally worsening prognosis. In general, if such
+patients are considered for surgery, they should be referred to surgeons with a high volume experience in
+treating MAC-related disease.
+Pregnancy
+Pregnant women with mitral stenosis may develop symptoms in the second trimester, when the demand
+for cardiac output increases by around 70%.
+A systematic review found a lack of evidence concerning effectiveness of the various treatments for
+valvular heart disease in pregnancy.[43] Diuretics are given to control mild symptoms. If symptoms
+worsen and heart failure threatens the life of mother and/or fetus, balloon valvotomy can be performed
+safely in patients with rheumatic disease.[44] MAC-related disease is extremely rare in pregnancy.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Mitral stenosis Management
+MANAGEMENT
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Ongoing ( summary )
+nonpregnant
+progressive
+asymptomatic disease
+(gradient <5 mmHg, valve
+area >1.5 cm²)
+1st no therapy required
+severe asymptomatic
+disease (gradient >5
+mmHg, valve area <1.5
+cm²)
+1st no therapy generally required
+adjunct balloon valvotomy, valve replacement or
+repair
+severe symptomatic
+disease (gradient >5
+mmHg, valve area <1.5
+cm²)
+1st diuretic
+plus balloon valvotomy, valve replacement or
+repair
+adjunct anticoagulation
+adjunct beta-blocker or ivabradine
+pregnant
+1st diuretic
+adjunct balloon valvotomy
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Mitral stenosis Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Ongoing
+nonpregnant
+progressive
+asymptomatic disease
+(gradient <5 mmHg, valve
+area >1.5 cm²)
+1st no therapy required
+» Patients with less than severe disease do not
+benefit from mechanical therapy, because it is
+not likely to significantly increase an already
+relatively adequate valve area.
+severe asymptomatic
+disease (gradient >5
+mmHg, valve area <1.5
+cm²)
+1st no therapy generally required
+» Asymptomatic patients with severe disease
+usually do not require therapy.
+adjunct balloon valvotomy, valve replacement or
+repair
+Treatment recommended for SOME patients in
+selected patient group
+» Balloon valvotomy for patients with rheumatic
+disease may be considered for asymptomatic
+patients with very severe disease (valve area
+<1.0 cm²) when valve morphology is favorable
+or when atrial fibrillation intervenes. The
+presence of pulmonary hypertension may also
+be considered in the decision to proceed to
+balloon valvotomy.
+» Balloon valvotomy is not an appropriate
+treatment option for patients with mitral annular
+calcification (MAC)-related disease. In patients
+with MAC, balloon valvotomy is ineffective
+because the restriction to flow resides not in
+the valve itself, but rather, in dense calcification
+of the annulus which is resistant to dilation.
+Surgical valve replacement has a poor outcome
+due to the risk atrioventricular disruption when
+the calcium in the annulus is removed to permit
+placement of a valvular prosthesis.[41] In one
+study, the median 30-day surgical mortality was
+6.3%, but was as high as 27%.[42] Further, most
+patients with MAC are older people and have
+multiple comorbidities, additionally worsening
+prognosis. In general, if such patients are
+considered for surgery, they should be referred
+to surgeons with a high volume experience in
+treating MAC-related disease.
+severe symptomatic
+disease (gradient >5
+1st diuretic
+Primary options
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Mitral stenosis Management
+MANAGEMENT
+Ongoing
+mmHg, valve area <1.5
+cm²)
+» furosemide: 40 mg orally once daily initially,
+titrate dose according to response, maximum
+600 mg/day
+OR
+» bumetanide: 0.5 mg orally once daily
+initially, titrate dose according to response,
+maximum 10 mg/day
+» A diuretic may reduce left atrial pressure and
+relieve mild symptoms, although diuretic therapy
+alone is rarely adequate to relieve symptoms.
+Mechanical relief from valve obstruction is often
+the only effective remedy for severe symptoms
+and for pulmonary hypertension.
+plus balloon valvotomy, valve replacement or
+repair
+Treatment recommended for ALL patients in
+selected patient group
+» Mechanical relief from valve obstruction
+is often the only effective remedy for severe
+symptoms and for pulmonary hypertension in
+patients with rheumatic disease. Percutaneous
+balloon valvotomy is the treatment of choice
+when valve anatomy is suitable for this
+procedure. Each of the following is graded
+on a severity score of 1 to 4: valve mobility,
+calcification, leaflet thickening, and subvalvular
+apparatus distortion. Thus a minimum score of 4
+and a maximum of 16 are possible. Valves with
+a score of less than 9 are usually considered
+optimal for balloon valvotomy. In patients with
+higher valve scores, surgery to perform open
+valve commissurotomy or valve replacement is
+undertaken.
+» Balloon valvotomy is not an appropriate
+treatment option for patients with mitral annular
+calcification (MAC)-related disease. In patients
+with MAC, balloon valvotomy is ineffective
+because the restriction to flow resides not in
+the valve itself, but rather, in dense calcification
+of the annulus which is resistant to dilation.
+Surgical valve replacement, has a poor outcome
+due to the risk atrioventricular disruption when
+the calcium in the annulus is removed to permit
+placement of a valvular prosthesis.[41] In one
+study, the median 30-day surgical mortality was
+6.3%, but was as high as 27%.[42] Further, most
+patients with MAC are older people and have
+multiple comorbidities, additionally worsening
+prognosis. In general, if such patients are
+considered for surgery, they should be referred
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Mitral stenosis Management
+Ongoing
+to surgeons with a high volume experience in
+treating MAC-related disease. 
+adjunct anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Patients undergoing valve replacement require
+anticoagulation. A vitamin K antagonist (e.g.,
+warfarin) is recommended in patients with
+rheumatic disease.[22] In patients with mitral
+annular calcification (MAC)-related disease,
+direct oral anticoagulants (DOACs) may be
+suitable for atrial fibrillation in these patients.
+However, no studies exist to compare vitamin K
+antagonists to DOACs in MAC-related disease.
+Consult your local protocols for further guidance
+on suitable anticoagulation options and doses.
+» Bleeding complications from the
+anticoagulants used to prevent
+thromboembolism occur approximately at a rate
+of 2% per year.[35]
+adjunct beta-blocker or ivabradine
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» atenolol: 25-100 mg orally once daily
+OR
+» ivabradine: 2.5 to 5 mg orally twice daily
+initially, titrate dose according to response
+and resting heart rate, maximum 15 mg/day
+» For patients with mitral stenosis in normal
+sinus rhythm who experience worsening of
+symptoms with exercise, heart rate control with a
+beta-blocker may be considered.[22]
+» Ivabradine may be an alternative to beta-
+blockers for rate control in these patients.
+Three trials compared beta-blockers and
+ivabradine for exercise tolerance in patients with
+severe mitral stenosis.[38] [39] [40] In all three
+trials, ivabradine improved exercise tolerance
+compared with baseline and in two of the trials,
+ivabradine was superior to beta blockade.[38]
+[39]
+pregnant
+1st diuretic
+Primary options
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Mitral stenosis Management
+MANAGEMENT
+Ongoing
+» furosemide: 40 mg orally once daily initially,
+titrate dose according to response, maximum
+600 mg/day
+OR
+» bumetanide: 0.5 mg orally once daily
+initially, titrate dose according to response,
+maximum 10 mg/day
+» Pregnant women with mitral stenosis may
+develop symptoms in the second trimester, when
+the demand for cardiac output increases by
+around 70%. A diuretic is given to control mild
+symptoms.
+» A systematic review found a lack of evidence
+concerning effectiveness of the various
+treatments for valvular heart disease in
+pregnancy.[43]
+adjunct balloon valvotomy
+Treatment recommended for SOME patients in
+selected patient group
+» If symptoms worsen despite diuretics and
+heart failure threatens the life of mother or child,
+balloon valvotomy can be performed safely in
+patients with rheumatic disease.
+» A systematic review found a lack of evidence
+concerning effectiveness of the various
+treatments for valvular heart disease in
+pregnancy.[43]
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Mitral stenosis Management
+Emerging
+Transcatheter mitral valve replacement (TMVR)
+The difficulties with surgery in patients with mitral annular calcification-related disease have led to an interest
+in TMVR. Several devices and techniques are currently under investigation but have not reached use in
+standard practice.[41]
+Primary prevention
+Early antibiotic therapy for streptococcal infection is helpful in preventing rheumatic fever.[16] However, the
+incidence of rheumatic fever began to fall before introduction of antibiotics, suggesting that other factors are
+involved.
+Secondary prevention
+Patients with a prosthetic cardiac valve or previous episode of infective endocarditis should receive
+antibiotic prophylaxis when undergoing high-risk procedures, such as dental procedures, and procedures on
+respiratory tract or infected skin, skin structures, or musculoskeletal tissue.[50]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Mitral stenosis Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+Patients with mitral stenosis should be seen in follow-up once a year to evaluate for changes in symptoms
+and to determine if pulmonary hypertension is developing.[22] [23]
+If history and physical exam detect a change in the patient's condition, repeat echocardiography to
+determine changes in stenosis severity and pulmonary pressure is indicated.
+For patients receiving warfarin, standard international normalized ratio determination with appropriate
+adjustment is recommended every 6 weeks.
+Complications
+Complications Timeframe Likelihood
+atrial fibrillation long term high
+Left atrial enlargement and increased age commonly cause atrial fibrillation in patients with mitral stenosis.
+Treatment involves correction of the abnormal rate/rhythm, along with anticoagulation.
+stroke long term high
+The yearly risk of thromboembolism, often causing stroke, may be as high as 15% in the patient with mitral
+stenosis and atrial fibrillation.[46] [47] [48]
+The combination of flow stasis caused by the stenotic valve and loss of mechanical propulsion from a
+fibrillating left atrium leads to thrombus formation, potential embolization, and stroke.
+If embolization occurs despite adequate anticoagulation with warfarin, aspirin can be added to the
+regimen.[49]
+Although the role of mechanical relief of mitral obstruction in preventing subsequent stroke is unknown,
+many would advocate mechanical therapy once the stroke patient is stable.
+warfarin-induced hemorrhage long term medium
+If bleeding occurs while the patient's INR is in the recommended 2.5 to 3.5 range, the bleeding source
+should be sought and treated directly.
+If bleeding occurs while the patient is overanticoagulated, the warfarin should be reversed by
+administration of vitamin K and fresh frozen plasma while the source of the bleeding is sought and treated.
+infective endocarditis long term low
+Although all damaged valves have the potential to become infected, infective endocarditis in mitral stenosis
+is relatively rare.
+Once it is identified, standard antibiotic therapy for 4 to 6 weeks is the usual therapy.[50]
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Mitral stenosis Follow up
+Prognosis
+With recognition of the proper use of anticoagulants and of the proper timing of mechanical intervention,
+prognosis is excellent.[30] In one study, the 12-year survival was 82%.[31] However, for patients with
+advanced symptoms and/or pulmonary hypertension treated medically the average survival is about 3
+years.[45]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Mitral stenosis Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR guideline for the evaluation
+and diagnosis of chest pain: a report of the American College of Cardiology/
+American Heart Association Joint Committee on clinical practice guidelines
+(https://professional.heart.org/en/guidelines-and-statements/guidelines-and-
+statements-search)   [32]
+Published by: American College of Cardiology/American Heart
+Association
+Last published: 2021
+2020 ACC/AHA guideline for the management of patients with valvular
+heart disease (https://professional.heart.org/en/guidelines-and-statements/
+guidelines-and-statements-search)   [22]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2020
+2021 ESC/EACTS guidelines for the management of valvular heart disease
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [23]
+Published by: European Society of Cardiology Last published: 2021
+Treatment guidelines
+International
+2020 ACC/AHA guideline for the management of patients with valvular
+heart disease (https://professional.heart.org/en/guidelines-and-statements/
+guidelines-and-statements-search)   [22]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2020
+2021 ESC/EACTS guidelines for the management of valvular heart disease
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [23]
+Published by: European Society of Cardiology Last published: 2021
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Mitral stenosis References
+Key articles
+• Stollerman GH. Rheumatogenic streptococci and autoimmunity. Clin Immunol Immunopathol.
+1991 Nov;61(2 Pt 1):131-42. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1914256?
+tool=bestpractice.bmj.com)
+• Fawzy ME, Choi WB, Mimish L, et al. Immediate and long-term effect of mitral balloon valvotomy on
+left ventricular volume and systolic function in severe mitral stenosis. Am Heart J. 1996 Aug;132(2 Pt
+1):356-60. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8701898?tool=bestpractice.bmj.com)
+• Writing Committee Members; Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline
+for the management of patients with valvular heart disease: a report of the American College of
+Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll
+Cardiol. 2021 Feb 2;77(4):e25-197.  Full text (https://www.sciencedirect.com/science/article/pii/
+S0735109720377962?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33342586?
+tool=bestpractice.bmj.com)
+• Wilkins GT, Weyman AE, Abascal VM, et al. Percutaneous balloon dilatation of the mitral valve: an
+analysis of echocardiographic variables related to outcome and the mechanism of dilation. Br Heart J.
+1988 Oct;60(4):299-308.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1216577)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/3190958?tool=bestpractice.bmj.com)
+• Palacios IF, Sanchez PL, Harrell LC, et al. Which patients benefit from percutaneous mitral
+balloon valvuloplasty? prevalvuloplasty and postvalvuloplasty variables that predict long-term
+outcome. Circulation. 2002 Mar 26;105(12):1465-71.  Full text (https://www.ahajournals.org/
+doi/10.1161/01.cir.0000012143.27196.f4)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11914256?
+tool=bestpractice.bmj.com)
+• Reyes VP, Raju Bs, Wynne J, et al. Percutaneous balloon valvuloplasty compared with open
+surgical commissurotomy for mitral stenosis. N Engl J Med. 1994 Oct 13;331(15):961-7.  Full
+text (http://www.nejm.org/doi/full/10.1056/NEJM199410133311501#t=article)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8084354?tool=bestpractice.bmj.com)
+• Subbarao KS, Nachiappan M, Irineu AP. Transventricular mitral commissurotomy in critical mitral
+stenosis during pregnancy. Asian Cardiovasc Thorac Ann. 2004 Sep;12(3):233-5. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15353462?tool=bestpractice.bmj.com)
+• Delgado V, Ajmone Marsan N, de Waha S, et al. 2023 ESC guidelines for the management of
+endocarditis: developed by the task force on the management of endocarditis of the European Society
+of Cardiology (ESC) endorsed by the European Association for Cardio-Thoracic Surgery (EACTS) and
+the European Association of Nuclear Medicine (EANM). Eur Heart J. 2023 Oct 14;44(39):3948-4042. 
+Full text (https://academic.oup.com/eurheartj/article/44/39/3948/7243107)
+References
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Mitral stenosis References
+REFERENCES
+1. Carapetis JR, Steer AC, Mulholland EK, et al. The global burden of group A streptococcal diseases.
+Lancet Infect Dis. 2005 Nov;5(11):685-94. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16253886?
+tool=bestpractice.bmj.com)
+2. Watkins DA, Johnson CO, Colquhoun SM, et al. Global, regional, and national burden of
+rheumatic heart disease, 1990-2015. N Engl J Med. 2017 Aug 24;377(8):713-22.  Full text (https://
+www.doi.org/10.1056/NEJMoa1603693)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28834488?
+tool=bestpractice.bmj.com)
+3. Roth GA, Mensah GA, Johnson CO, et al. Global burden of cardiovascular diseases and risk factors,
+1990-2019: update from the GBD 2019 study. J Am Coll Cardiol. 2020 Dec 22;76(25):2982-3021. 
+Full text (https://www.doi.org/10.1016/j.jacc.2020.11.010)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33309175?tool=bestpractice.bmj.com)
+4. Miyake CY, Gauvreau K, Tani LY, et al. Characteristics of children discharged from hospitals in the
+United States in 2000 with the diagnosis of acute rheumatic fever. Pediatrics. 2007 Sep;120(3):503-8.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17766522?tool=bestpractice.bmj.com)
+5. Centers for Disease Control and Prevention. Group A strep infection: clinical guidance for acute
+rheumatic fever. Mar 2024 [internet publication].  Full text (https://www.cdc.gov/groupastrep/diseases-
+hcp/acute-rheumatic-fever.html)
+6. Stollerman GH. Rheumatogenic streptococci and autoimmunity. Clin Immunol Immunopathol.
+1991 Nov;61(2 Pt 1):131-42. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1914256?
+tool=bestpractice.bmj.com)
+7. Smoot JC, Barbian KD, Van Gompel JJ, et al. Genome sequence and comparative microarray analysis
+of serotype M18 group A Streptococcus strains associated with acute rheumatic fever outbreaks. Proc
+Natl Acad Sci USA. 2002 Apr 2;99(7):4668-73.  Full text (http://www.pnas.org/content/99/7/4668.long)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11917108?tool=bestpractice.bmj.com)
+8. Tandon R, Sharma M, Chandrashekhar Y, et al. Revisiting the pathogenesis of rheumatic
+fever and carditis. Nat Rev Cardiol. 2013 Mar;10(3):171-7.  Full text (https://www.nature.com/
+articles/nrcardio.2012.197)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23319102?
+tool=bestpractice.bmj.com)
+9. Carabello BA. Modern management of mitral stenosis. Circulation. 2005 Jul 19;112(3):432-7. 
+Full text (http://circ.ahajournals.org/content/112/3/432.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16027271?tool=bestpractice.bmj.com)
+10. Krasuski RA, Bush A, Kay JE, et al. C-reactive protein elevation independently influences
+the procedural success of percutaneous balloon mitral valve commissurotomy. Am Heart
+J. 2003 Dec;146(6):1099-104. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14661006?
+tool=bestpractice.bmj.com)
+11. Heller SJ, Carelton RA. Abnormal left ventricular contraction in patients with mitral
+stenosis. Circulation. 1970 Dec;42(6):1099-110.  Full text (https://www.ahajournals.org/
+doi/10.1161/01.cir.42.6.1099?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Mitral stenosis References
+%20%200pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/5492542?
+tool=bestpractice.bmj.com)
+12. Mohan JC, Khalilullah M, Arora R. Left ventricular intrinsic contractility in pure rheumatic
+mitral stenosis. Am J Cardiol. 1989 Jul 15;64(3):240-2. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/2741834?tool=bestpractice.bmj.com)
+13. Hilder FJ, Javier RP, Cohen LS, et al. Myocardial dysfunction associated with valvular heart disease.
+Am J Cardiol. 1972 Sep;30(4):319-26. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/5056842?
+tool=bestpractice.bmj.com)
+14. Gash AK, Carabello BA, Cepin D, et al. Left ventricular ejection performance
+and systolic muscle function in patients with mitral stenosis. Circulation. 1983
+Jan;67(1):148-54.  Full text (https://www.ahajournals.org/doi/10.1161/01.cir.67.1.148?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/6847794?tool=bestpractice.bmj.com)
+15. Fawzy ME, Choi WB, Mimish L, et al. Immediate and long-term effect of mitral balloon valvotomy on
+left ventricular volume and systolic function in severe mitral stenosis. Am Heart J. 1996 Aug;132(2 Pt
+1):356-60. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8701898?tool=bestpractice.bmj.com)
+16. Dajani A, Taubert K, Ferrieri P, et al. Treatment of acute streptococcal pharyngitis and prevention of
+rheumatic fever: a statement for health professionals. Committee on Rheumatic Fever, Endocarditis,
+and Kawasaki Disease of the Council on Cardiovascular Disease in the Young, the American
+Heart Association. Pediatrics. 1995 Oct;96(4 Pt 1):758-64. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7567345?tool=bestpractice.bmj.com)
+17. Soler-Soler J, Galve E. Worldwide perspective of valve disease. Heart. 2000 Jun;83(6):721-5.  Full
+text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1760854/pdf/v083p00721.pdf)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10814642?tool=bestpractice.bmj.com)
+18. Gardin JM, Schumacher D, Constantine G, et al. Valvular abnormalities and cardiovascular
+status following exposure to dexfenfluramine or phentermine/fenfluramine. JAMA. 2000 Apr
+5;283(13):1703-9.  Full text (http://jama.jamanetwork.com/article.aspx?articleid=192554)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/10755496?tool=bestpractice.bmj.com)
+19. Roldan CA, Shively BK, Crawford MH. An echocardiographic study of valvular heart
+disease associated with systemic lupus erythematosus. N Engl J Med. 1996 Nov
+7;335(19):1424-30.  Full text (https://www.nejm.org/doi/10.1056/NEJM199611073351903?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8875919?tool=bestpractice.bmj.com)
+20. Kyle RA. Amyloidosis. Circulation. 1995 Feb 15;91(4):1269-71.  Full text (http://circ.ahajournals.org/
+content/91/4/1269.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7850970?
+tool=bestpractice.bmj.com)
+21. Kanjanauthai S, Nasir K, Katz R, et al. Relationships of mitral annular calcification to cardiovascular
+risk factors: the Multi-Ethnic Study of Atherosclerosis (MESA). Atherosclerosis. 2010
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Mitral stenosis References
+REFERENCES
+Dec;213(2):558-62.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2997868)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/20926076?tool=bestpractice.bmj.com)
+22. Writing Committee Members; Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline
+for the management of patients with valvular heart disease: a report of the American College of
+Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll
+Cardiol. 2021 Feb 2;77(4):e25-197.  Full text (https://www.sciencedirect.com/science/article/pii/
+S0735109720377962?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33342586?
+tool=bestpractice.bmj.com)
+23. Vahanian A, Beyersdorf F, Praz F, et al. 2021 ESC/EACTS Guidelines for the management
+of valvular heart disease. Eur Heart J. 28 Aug 2021 [Epub ahead of print].  Full text (https://
+www.doi.org/10.1093/eurheartj/ehab395)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34453165?
+tool=bestpractice.bmj.com)
+24. Pandian NG, Kim JK, Arias-Godinez JA, et al. Recommendations for the use of echocardiography in
+the evaluation of rheumatic heart disease: a report from the American Society of Echocardiography.
+J Am Soc Echocardiogr. 2023 Jan;36(1):3-28.  Full text (https://onlinejase.com/article/
+S0894-7317(22)00521-1/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36428195?
+tool=bestpractice.bmj.com)
+25. Gorlin R, Gorlin SG. Hydraulic formula for calculation of area of the stenotic mitral valve, other
+cardiac valves, and central circulatory shunts. I. Am Heart J. 1951 Jan;41(1):1-29. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/14799435?tool=bestpractice.bmj.com)
+26. American Heart Association. Guidelines for the diagnosis of rheumatic fever. Jones Criteria, 1992
+update. Special Writing Group of the Committee on Rheumatic Fever, Endocarditis, and Kawasaki
+Disease of the Council on Cardiovascular Disease in the Young of the American Heart Association.
+JAMA. 1992 Oct 21;268(15):2069-73. [Erratum in: JAMA. 1993 Jan 27;269(4):476.] Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1404745?tool=bestpractice.bmj.com)
+27. European Society of Cardiology. Mitral valve stenosis: epidemiology and causes in elderly patients.
+Jul 2018 [internet publication].  Full text (https://www.escardio.org/Journals/E-Journal-of-Cardiology-
+Practice/Volume-16/Mitral-valve-stenosis-epidemiology-and-causes-in-elderly-patients)
+28. Museedi AS, Le Jemtel TH. Mitral annular calcification-related valvular disease: a challenging entity. J
+Clin Med. 2024 Feb 3;13(3):896.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10856114)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/38337590?tool=bestpractice.bmj.com)
+29. Wilkins GT, Weyman AE, Abascal VM, et al. Percutaneous balloon dilatation of the mitral valve: an
+analysis of echocardiographic variables related to outcome and the mechanism of dilation. Br Heart J.
+1988 Oct;60(4):299-308.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1216577)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/3190958?tool=bestpractice.bmj.com)
+30. Palacios IF, Sanchez PL, Harrell LC, et al. Which patients benefit from percutaneous mitral
+balloon valvuloplasty? prevalvuloplasty and postvalvuloplasty variables that predict long-term
+outcome. Circulation. 2002 Mar 26;105(12):1465-71.  Full text (https://www.ahajournals.org/
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Mitral stenosis References
+doi/10.1161/01.cir.0000012143.27196.f4)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11914256?
+tool=bestpractice.bmj.com)
+31. Cannan CR, Nishimura RA, Reeder GS, et al. Echocardiographic assessment of commissural calcium:
+a simple predictor of outcome after percutaneous mitral balloon valvotomy. J Am Coll Cardiol. 1997
+Jan;29(1):175-80.  Full text (https://www.sciencedirect.com/science/article/pii/S0735109796004226)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8996311?tool=bestpractice.bmj.com)
+32. Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR guideline
+for the evaluation and diagnosis of chest pain: a report of the American College of Cardiology/
+American Heart Association Joint Committee on clinical practice guidelines. Circulation. 2021 Nov
+30;144(22):e368-454.  Full text (https://www.doi.org/10.1161/CIR.0000000000001029)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/34709879?tool=bestpractice.bmj.com)
+33. The National Institute for Health and Care Excellence. Heart valve disease presenting in adults:
+investigation and management. Nov 2021 [internet publication].  Full text (https://www.nice.org.uk/
+guidance/ng208/resources/heart-valve-disease-presenting-in-adults-investigation-and-management-
+pdf-66143721453253)
+34. Reyes VP, Raju Bs, Wynne J, et al. Percutaneous balloon valvuloplasty compared with open
+surgical commissurotomy for mitral stenosis. N Engl J Med. 1994 Oct 13;331(15):961-7.  Full
+text (http://www.nejm.org/doi/full/10.1056/NEJM199410133311501#t=article)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8084354?tool=bestpractice.bmj.com)
+35. Ben Farhat M, Ayari M, Maatouk F, et al. Percutaneous balloon versus surgical closed and open
+mitral commissurotomy: seven-year follow-up results of a randomized trial. Circulation. 1998
+Jan 27;97(3):245-50.  Full text (http://circ.ahajournals.org/content/97/3/245.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9462525?tool=bestpractice.bmj.com)
+36. Cardoso LF, Grinberg M, Rati MA, et al. Comparison between percutaneous balloon valvuloplasty
+and randomized study. Cardiology. 2002;98(4):186-90. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12566647?tool=bestpractice.bmj.com)
+37. Vongpatanasin W, Hillis LD, Lange RA. Prosthetic heart valves. N Engl J Med. 1996 Aug
+8;335(6):407-16. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8676934?tool=bestpractice.bmj.com)
+38. Saggu DK, Narain VS, Dwivedi SK, et al. Effect of ivabradine on heart rate and duration of exercise in
+patients with mild-to-moderate mitral stenosis: a randomized comparison with metoprolol. J Cardiovasc
+Pharmacol. 2015 Jun;65(6):552-4.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4461380)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25636072?tool=bestpractice.bmj.com)
+39. Parakh N, Chaturvedi V, Kurian S, et al. Effect of ivabradine vs atenolol on heart rate and effort
+tolerance in patients with mild to moderate mitral stenosis and normal sinus rhythm. J Card Fail. 2012
+Apr;18(4):282-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22464768?tool=bestpractice.bmj.com)
+40. Agrawal V, Kumar N, Lohiya B, et al. Metoprolol vs ivabradine in patients with mitral stenosis
+in sinus rhythm. Int J Cardiol. 2016 Oct 15;221:562-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27420578?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Mitral stenosis References
+REFERENCES
+41. El-Eshmawi A, Tang GHL, Sun E, et al. Contemporary surgical techniques for mitral valve replacement
+in extensive mitral annular calcification. JTCVS Tech. 2023 Oct 20;22:1-12.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC10750984)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/38152201?tool=bestpractice.bmj.com)
+42. Schumacher B, Luderitz B. Rate issues in atrial fibrillation: consequences of tachycardia and therapy
+for rate control. Am J Cardiol. 1998 Oct 16;82(8A):29N-36. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9809898?tool=bestpractice.bmj.com)
+43. Henriquez DD, Roos-Hesselink JW, Schalij MJ, et al. Treatment of valvular heart disease
+during pregnancy for improving maternal and neonatal outcome. Cochrane Database
+Syst Rev. 2011 May 11;(5):CD008128.  Full text (https://www.cochranelibrary.com/cdsr/
+doi/10.1002/14651858.CD008128.pub2/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21563164?tool=bestpractice.bmj.com)
+44. Subbarao KS, Nachiappan M, Irineu AP. Transventricular mitral commissurotomy in critical mitral
+stenosis during pregnancy. Asian Cardiovasc Thorac Ann. 2004 Sep;12(3):233-5. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15353462?tool=bestpractice.bmj.com)
+45. Roy SB, Gopinath N. Mitral stenosis. Circulation. 1968;38(suppl):68-76. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/4889600?tool=bestpractice.bmj.com)
+46. Kellogg F, Liu CK, Fishman IW, et al. Systemic and pulmonary emboli before and after mitral
+commissurotomy. Circulation. 1961 Aug;24:263-6.  Full text (https://www.ahajournals.org/
+doi/10.1161/01.cir.24.2.263?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/13752364?
+tool=bestpractice.bmj.com)
+47. Levine HJ, Pauker SG, Eckman MH. Antithrombotic therapy in valvular heart disease. Chest.
+1995 Oct;108(4 suppl):360S-70S. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7555189?
+tool=bestpractice.bmj.com)
+48. Chiang CW, Lo SK, Ko YS, et al. Predictors of systemic embolism in patients with mitral stenosis: a
+prospective study. Ann Intern Med. 1998 Jun 1;128(11):885-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9634425?tool=bestpractice.bmj.com)
+49. Pérez-Gómez F, Salvador A, Zumalde J, et al. Effect of antithrombotic therapy in patients with mitral
+stenosis and atrial fibrillation: a sub-analysis of NASPEAF randomized trial. Eur Heart J. 2006
+Apr;27(8):960-7.  Full text (https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/
+ehi667)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16330464?tool=bestpractice.bmj.com)
+50. Delgado V, Ajmone Marsan N, de Waha S, et al. 2023 ESC guidelines for the management of
+endocarditis: developed by the task force on the management of endocarditis of the European Society
+of Cardiology (ESC) endorsed by the European Association for Cardio-Thoracic Surgery (EACTS) and
+the European Association of Nuclear Medicine (EANM). Eur Heart J. 2023 Oct 14;44(39):3948-4042. 
+Full text (https://academic.oup.com/eurheartj/article/44/39/3948/7243107)
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Mitral stenosis Images
+Images
+Figure 1: Transthoracic echocardiogram: long-axis view of a rheumatic mitral valve showing classic doming of
+the leaflets in diastole
+From Siva A, Shah AM. Heart. 2005 Jan;91(1):e3. Used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Mitral stenosis Images
+IMAGES
+Figure 2: Short-axis view of left ventricle with flattening of the interventricular septum secondary to right
+ventricular pressure overload
+From Siva A, Shah AM. Heart. 2005 Jan;91(1):e3. Used with permission
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Mitral stenosis Images
+Figure 3: Kerley B lines (horizontal lines in the left lower zone): a radiologic change of pulmonary venous
+hypertension
+From Harley HR. Br Heart J. 1961 Jan;23(1):75-87. Used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Mitral stenosis Images
+IMAGES
+Figure 4: Gorlin formula. MVA, mitral valve area; CO, cardiac output; HR, heart rate; dfp, diastolic filling
+period (seconds); p1-p2, mean mitral gradient
+Figure 5: Stages of mitral stenosis (rheumatic disease)
+Adapted from Otto CM et al. J Am Coll Cardiol 2021:77:e25-e197
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Mitral stenosis Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Mitral stenosis Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 01, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Contributors:
+// Authors:
+Blase Carabello, MD
+Professor Emeritus, East Carolina University
+Director Valve Program, Roper St Francis Health Care, Charleston, SC
+DISCLOSURES: BC declares that he has no competing interests.
+// Peer Reviewers:
+John R. Charpie, MD, PhD
+Associate Professor of Pediatrics
+Medical Director, Pediatric Cardiothoracic Intensive Care Unit, University of Michigan Congenital Heart
+Center, C.S. Mott Children's Hospital, Ann Arbor, MI
+DISCLOSURES: JRC declares that he has no competing interests.
+David Leaf, MD, MPH
+Professor of Medicine
+VA Greater Los Angeles Healthcare System, UCLA School of Medicine, Los Angeles, CA
+DISCLOSURES: DL declares that he has no competing interests.

@@ -1,0 +1,1545 @@
+# Focal atrial tachycardia
+
+=== Page 1 ===
+Focal atrial tachycardia
+Straight to the point of care
+Last updated: Jun 04, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  6
+Classification  6
+Case history  7
+Diagnosis  10
+Approach  10
+History and exam  13
+Risk factors  14
+Investigations  16
+Differentials  18
+Criteria  19
+Management  21
+Approach  21
+Treatment algorithm overview  25
+Treatment algorithm  26
+Patient discussions  33
+Follow up  35
+Monitoring  35
+Complications  35
+Prognosis  35
+Guidelines  36
+Diagnostic guidelines  36
+Treatment guidelines  36
+References  37
+Images  40
+Disclaimer  46
+=== Page 3 ===
+Focal atrial tachycardia Overview
+Summary
+Focal atrial tachycardia occurs in the settings of structurally normal heart, coronary artery disease,
+congestive heart failure, cardiac surgery, catecholamine ingestion, digoxin toxicity, and alcohol dependency.
+Symptoms and signs include palpitations, fatigue, presyncope/syncope, chest pain, and dyspnea.
+ECG shows a regular atrial tachycardia with P-wave morphology different from that in sinus tachycardia.
+A trial of adenosine can help differentiate focal AT from other supraventricular tachycardias.
+Initial therapy should be guided by cause, comorbid conditions, hemodynamic status, and patient preference.
+First-line options for hemodynamically stable patients include intravenous beta-blockers or calcium-channel
+blockers, or catheter ablation.
+For sustained focal atrial tachycardia, cardiology consultation, class Ic or III antiarrhythmic agents, and
+ablative therapy are appropriate.
+Definition
+Focal atrial tachycardia (focal AT) is characterized as a rapid regular rhythm arising from a discrete area
+within the atria. It occurs in a wide range of clinical conditions, including catecholamine excess, digoxin
+toxicity, congenital heart disease, and cardiomyopathy. Focal AT is often confused with other regular
+supraventricular tachycardias, specifically re-entrant tachycardias, sinus tachycardia, and atrial flutter. It may
+be difficult to diagnose by ECG alone. The diagnosis of focal AT is usually based on ECG, clinical history,
+and response to interventions such as vagal maneuvers and adenosine.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Focal atrial tachycardia Theory
+THEORY
+Epidemiology
+Focal atrial tachycardia is a relatively uncommon arrhythmia that occurs in all age groups and represents
+approximately 3% to 17% of the patients referred for supraventricular tachycardia ablation.[1] There is
+no pattern in relation to sex or ancestry. Of the supraventricular tachycardias observed in children, atrial
+tachycardia accounts for 10% to 23% in children with normal hearts. Prevalence is higher among patients
+with congenital heart disease or a history of cardiac surgery.[2] [3]
+Etiology
+Focal atrial tachycardia (focal AT) has a variety of causes. It may occur in healthy people, although often
+there is underlying cardiac pathology.[1] [4] [5] Associated conditions include cardiomyopathies, ischemic
+heart disease, previous cardiac surgery, cardiac ablation, and hyperthyroidism.
+People without cardiac pathology may develop this rhythm in the setting of exogenous stimulants such as
+amphetamines, cocaine, and acute alcohol intoxication. Focal AT is the classic presenting rhythm in patients
+with digoxin toxicity and is typically associated with AV nodal block.
+Focal atrial tachycardia in an 88-year-old woman with 2:1 AV nodal
+block in the setting of digoxin therapy and potassium 2.8 mEq/L
+From the collection of Sarah Stahmer, MD
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Focal atrial tachycardia Theory
+Focal atrial tachycardia in a 35-year-old with history of recent cocaine use
+From the collection of Sarah Stahmer, MD
+Focal atrial tachycardia in a 55-year-old with ischemic cardiomyopathy
+From the collection of Sarah Stahmer, MD
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Focal atrial tachycardia Theory
+THEORY
+Pathophysiology
+Atrial tachycardia is the least common and often the most challenging of the regular supraventricular
+tachycardias. It may arise from either atria or from structures contiguous with the atria, such as the
+pulmonary veins and superior vena cava. The anatomy of the atrium and surrounding structures serve as
+a substrate for arrhythmia initiation and propagation. Electrophysiological testing has shown that there are
+three possible mechanisms: abnormal automaticity of nonsinus atrial tissue, triggered automaticity due to
+delay after depolarization, and micro-re-entry within the atria. Re-entrant circuits are dependent on areas of
+differential conduction and recovery and the presence of anatomic boundaries. Vulnerable atrial tissue due to
+scarring, disease, or medications can give rise to paroxysmal atrial tachycardias sustained by the bordering
+mitral and tricuspid annuli, orifices of the vena cava, pulmonary veins, and coronary sinus. Atrial tissues,
+such as the crista terminalis and pulmonary veins, are common sites for automaticity or triggered activity.
+The 12-lead ECG rarely provides clues to the cause. These are usually distinguished in the laboratory setting
+and rarely clinically.
+In healthy people, the most likely cause is enhanced automaticity from a single focus in the atrium. It is
+usually seen in the setting of catecholamine excess, exacerbations of chronic lung disease, acute alcohol
+ingestion, and electrolyte imbalances. This rhythm tends to accelerate to its maximal rate and does not start
+with a premature atrial contraction. It typically shows beat-to-beat variability during warm-up and decelerates
+gradually. The contour of the P wave differs from the sinus P wave, with heart rates usually <200 bpm.
+Automatic atrial tachycardia tends to be incessant, particularly in children.
+Re-entry is probably the underlying mechanism in people with diseased atrial tissue or those who have
+undergone cardiac surgery or ablation involving the atria. The arrhythmia circumnavigates the surgical scar,
+forming separate functional or anatomic limbs of the tachycardia. Slow conduction and unidirectional block
+induced by a premature beat completes the re-entrant circuit. A premature atrial beat starts the tachycardia
+loop, and alternations in the re-entrant circuit conduction can abruptly terminate the tachycardia, imparting it
+a paroxysmal nature.
+Atrial tachycardias due to triggered activity are usually seen in patients with a known cardiomyopathy taking
+digoxin. These rhythms tend to be prolonged and are difficult to treat. They are also characterized by a warm-
+up period at onset and a cool-down period at termination rather than the abrupt nature of re-entrant loops.
+Atrial tachycardias due to digoxin toxicity typically involve AV block.
+Classification
+Atrial tachycardias[1]
+• Sinus tachycardia: regular tachycardia with uniform P wave before every QRS. Rate shows gradual
+variation in response to sympathetic/parasympathetic stimulation.
+• Focal atrial tachycardia: recurrent, regular tachycardia with a fixed heart rate at 100 to 250 bpm. P
+waves are visible before every QRS, and are uniform in their appearance when looking at a single
+lead. Onset and termination of arrhythmia are abrupt.
+• AV node re-entrant tachycardia: regular tachycardia with a fixed rate in the range of 140 to 280 bpm. P
+waves may be visible, but usually follow the QRS complex with a short R-P interval.
+• Multifocal atrial tachycardia: irregular tachycardia at a rate of 120 to 200 bpm. P waves occur before
+every QRS, and there are at least three different P-wave morphologies when looking at a single lead.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Focal atrial tachycardia Theory
+• Atrial flutter: new-onset atrial flutter usually has a fixed heart rate of 145 to 150 bpm due to 2:1 AV
+block and an atrial flutter rate of 300 bpm. When medicated with AV node-blocking agents, the heart
+rate may be irregular, indicating variable AV block.
+• Atrial fibrillation: irregular tachycardia with beat-to-beat variation in heart rate, P waves replaced by
+fibrillatory waves.
+Case history
+Case history #1
+An 88-year-old woman with history of dilated cardiomyopathy presents with nausea, lightheadedness, and
+a racing heart. She is taking digoxin and recently her diuretic dosage has been increased. On exam she
+is alert but weak. Her BP is 108/88 mmHg, and pulse 88 bpm and regular. The lungs are clear. An ECG
+shows a sustained atrial tachycardia at 180 bpm with 2:1 AV block. Serum potassium is 2.8 mEq/L.
+Focal atrial tachycardia in an 88-year-old woman with 2:1 AV nodal
+block in the setting of digoxin therapy and potassium 2.8 mEq/L
+From the collection of Sarah Stahmer, MD
+Case history #2
+A previously healthy 35-year-old man presents following intoxication from alcohol and cocaine. He is
+feeling weak and shaky with reduced exercise tolerance. His BP is 110/70 mmHg and heart rate 160
+bpm and regular. An ECG shows a narrow complex atrial tachycardia. He is given adenosine 6 mg
+intravenously. There is abrupt slowing of the ventricular response rate with no effect on the atrial rate.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Focal atrial tachycardia Theory
+THEORY
+Focal atrial tachycardia in a 35-year-old with history of recent cocaine use
+From the collection of Sarah Stahmer, MD
+ECG following cardioversion of focal atrial tachycardia in a 35-year-old with history of recent cocaine use
+From the collection of Sarah Stahmer, MD
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Focal atrial tachycardia Theory
+Other presentations
+Presentations of focal atrial tachycardia are highly variable, ranging from nonspecific complaints of
+fatigue and light headedness to congestive heart failure and syncope. Brief episodes of tachycardia
+may elicit complaints of chest fluttering or palpitations. Sustained runs of tachycardia will probably have
+more marked presentations, such as ischemia in patients with underlying coronary artery disease,
+and congestive heart failure and syncope in patients with preexisting cardiomyopathy. Sustained atrial
+tachycardias can also precipitate cardiomyopathy, particularly in children.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Focal atrial tachycardia Diagnosis
+DIAGNOSIS
+Approach
+Diagnosis is based on history, the 12-lead ECG, and exclusion of alternative tachyarrhythmic diagnoses
+through observation of response to maneuvers. However, inspection of the ECG does not usually reveal the
+underlying cause.[8] [9]
+Diagnostic algorithm for differentiating atrial tachycardias from other narrow
+QRS tachycardias. AV = atrioventricular, PAC = premature atrial contraction
+From the collection of Sarah Stahmer, MD
+History/physical
+Patients may have a history of prior cardiac disease, COPD, or asthma.[10] Drug history may identify
+use of digoxin, aminophylline, beta-agonists, potassium-wasting diuretics, over-the-counter cold or sinus
+medications, or substance abuse. A history of recent atrial fibrillation ablation or prior cardiac surgery
+may be present.[11] There may be symptoms of chest pain, shortness of breath, nausea/vomiting,
+lightheadedness, syncope, palpitations, or fatigue or weakness. Physical exam may detect rales or edema
+if congestive heart failure is present.
+ECG/Telemetry
+The atrial rate in focal atrial tachycardia (focal AT) is typically between 100 and 250 bpm. There is
+typically a warm-up of the rate for the initial few beats. Often the arrhythmia will occur in short bursts with
+abrupt onset and cessation.
+The ECG should show atrial P waves, and their morphology should be different from the P waves in
+sinus rhythm. There is typically an isoelectric segment between P waves. At times, irregularity is seen,
+especially at onset (warm-up) and termination (warm-down).
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Focal atrial tachycardia Diagnosis
+The PR interval is typically >0.12 seconds (120 milliseconds). The morphology of the P wave in leads aVL
+and V1 may provide clues about the site of origin. A positive P wave in lead V1 carries 93% sensitivity and
+88% specificity for a left atrial focus. In contrast, a positive or biphasic P wave in aVL predicts a right atrial
+focus with 88% sensitivity and 79% specificity.[12]
+Focal atrial tachycardia in a 55-year-old with ischemic cardiomyopathy
+From the collection of Sarah Stahmer, MD
+If the atrial rate is not excessively fast, each P wave will be conducted to the ventricle. If the rate is
+excessive, or there is AV nodal disease or suppression due to medications, Wenckebach or Mobitz type I
+second-degree heart block may be seen. In digoxin toxicity, in addition to atrial tachycardia and AV nodal
+block, there are often signs of abnormal automaticity of nonatrial tissues, such as junctional or ventricular
+ectopy.
+An ambulatory 24-hour (Holter) or longer ECG recording (wearable or implantable loop recorder) may be
+helpful for diagnosis and management in patients with focal AT that occurs sporadically.[1]
+Hypokalemia alone can predispose nonsinus atrial tissue to spontaneously depolarize, particularly in
+patients using digoxin.
+Vagal maneuvers or adenosine
+An incessant tachycardia that does not show normal variation to pain, respirations, and changes in
+sympathetic/parasympathetic tone typical of a sinus-based tachycardia indicates a nonsinus origin.
+Vagal maneuvers will either have no effect or create an AV nodal block. The nodal block slows the
+ventricular response rate but has no effect on the atrial rate. Adenosine causes AV node blockade and
+may transiently suppress, or more rarely terminate, the tachycardia.[13] [14]
+Vagal maneuvers or adenosine may help differentiate atrial tachycardia from other causes of
+supraventricular tachycardia, however this information can be misleading or limited if the tachycardia
+terminates.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Focal atrial tachycardia Diagnosis
+DIAGNOSIS
+Response to adenosine 6 mg intravenously
+From the collection of Sarah Stahmer, MD
+The differential diagnosis of atrial tachycardia will often include sinus tachycardia, AV node re-entrant
+tachycardia, AV re-entrant tachycardia or atrial flutter.
+• Sinus tachycardia will transiently slow in response, with slowing of the sinus rate and prolongation
+of the PR interval before AV block (if it occurs).
+• AV node re-entrant tachycardia or AV re-entrant tachycardia (accessory pathway mediated
+supraventricular tachycardia) will abruptly cease, with resumption of sinus rhythm after a pause.
+• In atrial flutter there will be transient slowing of the ventricular response rate with AV block. The
+characteristic flutter waves will be revealed and will be unaffected.
+This is not a foolproof therapeutic intervention, as some atrial tachycardias, particularly those due to micro
+re-entry, will break in response to these maneuvers. Most will show no response or show transient AV
+block with persistent atrial depolarization (P waves).
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Focal atrial tachycardia Diagnosis
+Further tests
+Serum analysis should follow clinical suspicion of etiology. Electrolytes should be routine. Levels of
+medications that can predispose patients to these rhythms can be ordered when appropriate, specifically
+theophylline and digoxin. When drugs of abuse are suspected, specifically cocaine, amphetamines, and
+ethanol, quantitative supportive data can be valuable. Thyroid-stimulating hormone (TSH) level helps rule
+out suspected hyperthyroidism.
+Echocardiography can be helpful in patients for whom the underlying cause is suspected to be due to
+previously undiagnosed cardiac pathology, such as valvular disease and cardiomyopathies. Patients
+with evidence of hemodynamic compromise or heart failure should have an echo performed as soon as
+possible.
+Electrophysiologic study (EPS) is an invasive test that can assist in confirming the origin and site of
+arrhythmogenesis for selected patients for whom the diagnosis is unclear or who are not responding to
+empiric therapies. It can be curative if coupled with ablation.[1]
+History and exam
+Key diagnostic factors
+cardiac disease (common)
+• Previous myocardial infarction, cardiac or great vessel surgery, congenital heart disease, or
+cardiomyopathy predisposes to focal atrial tachycardia.
+Other diagnostic factors
+medications (common)
+• Include aminophylline, beta-agonists, potassium-wasting diuretics, or over-the-counter cold/sinus
+medications that contain phenylephrine.
+palpitations (common)
+• The beating of the heart becomes clinically manifest when the rate is discordant with clinical context--
+for example, a heart rate of 160 bpm while lying in bed.
+fatigue, weakness (common)
+• Result from poor cardiac output and decreased exercise tolerance.
+chest pain (uncommon)
+• Chest pressure, pain, or dyspnea suggests an acute coronary syndrome, which may be a precipitating
+event or a result of the tachyarrhythmia.
+shortness of breath, cough (uncommon)
+• Indicate worsening of baseline COPD or congestive heart failure, which may precipitate the
+arrhythmia.
+• Other symptoms include fever, sputum, wheezing, nocturnal cough, orthopnea, and paroxysmal
+nocturnal dyspnea.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Focal atrial tachycardia Diagnosis
+DIAGNOSIS
+nausea, vomiting (uncommon)
+• Symptoms of digoxin toxicity.
+lightheadedness, syncope (uncommon)
+• Indicate hemodynamic compromise from the tachyarrhythmia.
+rales (uncommon)
+• Indicate congestive heart failure.
+edema (uncommon)
+• Indicates congestive heart failure.
+Risk factors
+Strong
+substance misuse (alcohol ingestion/withdrawal, cocaine, amphetamines)
+• These are associated with catecholamine excess.[6] The proposed mechanism is enhanced
+automaticity of nonpacemaker cells.
+Focal atrial tachycardia in a 35-year-old with history of recent cocaine use
+From the collection of Sarah Stahmer, MD
+digoxin toxicity
+• The risk is increased in the setting of kidney disease, hypokalemia, hypomagnesemia and drug
+interactions that may increase digoxin concentrations (e.g., amiodarone, verapamil, quinidine).[6]
+• Focal AT with AV nodal block is a classic presenting dysrhythmia in digoxin intoxication.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Focal atrial tachycardia Diagnosis
+Focal atrial tachycardia in an 88-year-old woman with 2:1 AV nodal
+block in the setting of digoxin therapy and potassium 2.8 mEq/L
+From the collection of Sarah Stahmer, MD
+previous cardiac surgery to correct congenital heart defects
+• Congenital defects include transposition of the great vessels and atrial septal defects.[7]
+• Cardiac surgery leaves scar tissue in the atrial tissue, which provides a substrate for micro re-entry
+pathways.
+Weak
+coronary artery disease
+• Given the rarity of focal atrial tachycardia (focal AT), its multiple mechanisms, and disease
+associations, much of the data linking this arrhythmia to a cause are observational.
+exacerbation of chronic lung disease
+• A variety of supraventricular tachyarrhythmias have been associated with acute respiratory illnesses,
+the most common being multifocal atrial tachycardia.
+• Focal AT is less common, but the underlying mechanisms of enhanced automaticity are the same:
+hypoxia, administration of medications such as methylxanthines and beta-agonists, and electrolyte
+disturbances.
+theophylline
+• Theophylline increases atrial automaticity, which can predispose to supraventricular tachycardia,
+including atrial tachycardia.[6]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Focal atrial tachycardia Diagnosis
+DIAGNOSIS
+Investigations
+1st test to order
+Test Result
+ECG
+• Most useful for initial diagnosis of atrial tachycardia.
+• The P-wave morphology may be different from that in sinus rhythm
+when compared with a prior ECG.
+regular tachycardia that
+does not vary in rate;
+P waves may have an
+unusual axis
+digoxin level
+• In patients who are on digoxin therapy, focal atrial tachycardia (focal
+AT) is a classic arrhythmogenic toxic manifestation.
+Focal atrial tachycardia in an 88-year-old woman with 2:1 AV nodal
+block in the setting of digoxin therapy and potassium 2.8 mEq/L
+From the collection of Sarah Stahmer, MD
+elevated if digoxin toxicity
+theophylline level elevated if theophylline
+toxicity
+CXR
+• May diagnose underlying cardiopulmonary disease that would
+predispose the patient to this arrhythmia.
+abnormalities suggestive
+of cardiac disease,
+such as increased
+cardiothoracic ratio, lung
+pathology or evidence of
+prior cardiac surgery
+electrolytes
+• Should be routinely measured in most patients.
+• Electrolytes are rarely the primary cause, but abnormality may
+precipitate focal AT in patients with a predisposition. For example,
+the patient on digoxin for congestive heart failure may develop this
+rhythm in the setting of hypokalemia
+hypokalemia
+toxicology screen
+• When drugs of abuse are suspected, quantitative supportive data can
+be valuable.
+may quantify cocaine,
+amphetamines, or ethanol
+use
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Focal atrial tachycardia Diagnosis
+Other tests to consider
+Test Result
+vagal maneuvers, adenosine
+• Helpful in differentiating atrial tachycardia from other causes of
+supraventricular tachycardia.
+Response to adenosine 6 mg intravenously
+From the collection of Sarah Stahmer, MD
+vagal maneuvers will
+either have no effect or
+cause AV node block
+(slowing ventricular
+rate); adenosine causes
+AV node block and may
+transiently suppress
+or rarely terminate
+tachycardia
+thyroid-stimulating hormone suppressed in
+hyperthyroidism
+echocardiogram
+• Patients with evidence of hemodynamic compromise or heart failure
+should have an echo performed as soon as possible.
+may show underlying
+cause such as
+valvular disease or
+cardiomyopathy
+ambulatory 24-hour (Holter) ECG or event recorder
+• May be helpful in patients with transient focal AT that occurs several
+times a week. In patients with less frequent episodes, an event
+or wearable loop recorder may be more useful than a 24-hour
+recording.[1]
+may record events in
+patients with transient
+episodes
+electrophysiologic study (EPS)
+• Invasive study that can identify the site of the tachycardia and
+underlying mechanism.
+• EPS involving ablation can be curative and may be offered as first-
+line therapy to select patients.[1]
+inducible arrhythmia and
+mechanism determine the
+origin of focal AT within
+the atria
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Focal atrial tachycardia Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Sinus tachycardia • This arrhythmia is usually
+compensatory for a reduced
+stroke volume because
+of heart failure or volume
+depletion, or because of
+sympathetic stimulation from
+pain, fear, or exogenous
+catecholamines.
+• The presence of a clinical
+disease state plus variation
+in the atrial rate will usually
+differentiate this arrhythmia
+from atrial tachycardia.
+• Vagal maneuvers/adenosine
+will cause sinus tachycardia
+to transiently slow down,
+with slowing of the sinus rate
+and prolongation of the PR
+interval before AV block (if it
+occurs).
+AV node re-entrant
+tachycardia
+• This supraventricular
+tachycardia shares some
+of the causes of focal atrial
+tachycardia (focal AT).
+Hence, the two may be
+indistinguishable based on
+history and physical exam.
+• On vagal maneuvers or
+administering adenosine, in
+contrast with focal AT, AV
+node re-entrant tachycardia
+will abruptly cease. After
+a pause, sinus rhythm will
+resume.
+• The 12-lead ECG may show
+P waves, which can be
+differentiated from the P
+waves of atrial tachycardia
+by the shortened RP interval
+created by retrograde
+activation of the atria.
+• The P waves in atrial
+tachycardia are found
+in the second half of the
+tachycardia cycle (long RP/
+short PR intervals).
+AV re-entrant tachycardia
+or accessory pathway
+mediated tachycardia
+• Difficult to distinguish from
+focal AT. Vagal maneuvers
+or adenosine may terminate
+this tachycardia in contrast
+with focal AT.
+• The 12-lead ECG may
+show retrograde P waves
+(inverted in leads II, III and
+AVF) in the mid part of the
+tachycardia cycle (mid-RP
+intervals). Sinus rhythm ECG
+may show presence of pre-
+excitation (Delta wave).
+• The P waves in atrial
+tachycardia are found
+in the second half of the
+tachycardia cycle (long RP/
+short PR intervals).
+Atrial flutter • This supraventricular
+tachycardia shares many
+of the causes of focal AT.
+Hence, the two may be
+indistinguishable based on
+history and physical exam.
+• Vagal maneuvers/adenosine
+will transiently slow the
+ventricular response
+• The 12-lead ECG will show
+a regular tachycardia with
+the ventricular response
+rate being a multiple of the
+atrial flutter rate (usually 300
+bpm).
+• Unmedicated flutter will
+usually present in 2:1 AV
+block with the ventricular
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Focal atrial tachycardia Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+rate with AV block. The
+characteristic flutter waves
+will be revealed and will be
+unaffected.
+response being 148-150
+bpm.
+• The flutter waves will
+typically distort the baseline,
+particularly in leads II, III,
+and AVF for typical right
+sided counterclockwise atrial
+flutter.
+• When AV block is induced in
+atrial tachycardia, there is an
+isoelectric interval between P
+waves, which is not seen in
+atrial flutter.
+Postural orthostatic
+tachycardia syndrome
+• Symptoms of orthostatic
+intolerance (palpitations,
+lightheadedness, blurred
+vision, presyncope and
+syncope, tremor, generalized
+weakness, fatigue) and an
+increase in heart rate on
+standing.
+• Nonorthostatic symptoms
+may include dyspnea,
+gastrointestinal symptoms
+(bloating, nausea, diarrhea,
+constipation and abdominal
+pain), headache, sleep
+disturbance, cognitive
+impairment, chest pain, and
+bladder disturbance.
+• The patient may also have
+signs and symptoms of
+associated comorbidities,
+such as those of Ehlers-
+Danlos syndrome and
+autoimmune diseases,
+particularly Hashimoto’s
+thyroiditis and celiac
+disease.
+• 10-minute standing test:
+patient’s heart rate will
+typically increase by ≥30
+bpm (≥40 bpm in patients
+ages 12-19 years old) after
+changing position from
+supine to standing, and
+no orthostatic hypotension
+(sustained drop in systolic
+blood pressure by ≥20
+mmHg).
+• 24-hour Holter monitor:
+can help confirm the
+diagnosis by demonstrating
+the association between
+tachycardia and orthostatic
+changes.
+• Tilt-table test: may be used
+if the diagnosis is unclear
+following initial assessment
+or if the patient is not able
+to perform a 10-minute
+standing test. A positive test
+demonstrates orthostatic
+tachycardia with changing
+position. ECG will show
+P waves similar to sinus
+rhythm or sinus tachycardia.
+Criteria
+ECG
+Focal atrial tachycardia (focal AT) is usually a regular tachycardia with an atrial rate typically between 100
+and 250 bpm. The ECG must show atrial P waves, and their morphology should be different from the P
+waves in sinus rhythm. There is typically an isoelectric segment between P waves. At times, irregularity is
+seen, especially at onset (warm-up) and termination (warm-down).
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Focal atrial tachycardia Diagnosis
+DIAGNOSIS
+Focal AT is diagnosed based on the 12-lead ECG and exclusion of alternative tachyarrhythmic diagnoses
+through observation of response to maneuvers.
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Focal atrial tachycardia Management
+Approach
+The response to any given therapy is dependent on the underlying mechanism of the arrhythmia. Focal
+atrial tachycardias due to triggered activity may be terminated by adenosine or overdrive pacing, but the
+response to beta blockers or calcium channel blockers may be variable. Arrhythmias caused by enhanced
+automaticity often convert spontaneously on withdrawal of the offending agent. They can be transiently
+suppressed by adenosine or by overdrive pacing and may be terminated by beta blockers or calcium
+channel blockers. Persistent arrhythmias of this type are often resistant to pace termination, electrical
+cardioversion, and pharmacologic therapy, and they ultimately require catheter ablation. A micro-re-entrant
+atrial tachycardia response to adenosine, beta blockers, and calcium channel blockers may be variable. Re-
+entrant arrhythmias may require direct current (DC) cardioversion and, possibly, use of antiarrhythmic drugs.
+Electrophysiologic study involving ablation can be curative and may be offered as first-line therapy to select
+patients.[1]
+The mechanisms of focal atrial tachycardia (focal AT) are difficult to distinguish clinically. There is no clear
+hierarchy of therapies. The presence of an underlying cause, comorbid conditions, hemodynamic status, and
+patient preference can be used to guide initial therapy.[16]
+Differentiating the type of arrhythmia
+Adenosine causes AV node blockade with slowing of the ventricular response rate or cessation
+of the atrial tachycardia, and can be helpful in differentiating focal AT from other supraventricular
+tachycardias.[13] Effects are usually transient. If the focal AT terminates with adenosine then the
+information provided may be misleading or limited. For example, when attempting to differentiate
+atrioventricular nodal re-entrant tachycardia/atrioventricular re-entrant tachycardia from focal AT,
+adenosine may cause transient AV block with persistent atrial tachycardia, supporting the diagnosis of
+focal AT. The response to adenosine may also assist in identifying the atrial tachycardia mechanism.
+Focal AT due to triggered activity may terminate with adenosine, in contrast with re-entrant atrial
+tachycardias, which usually do not.[1][14] [15]
+The telemetry strip during administration should be carefully inspected for placement of P waves at the
+time the rhythm breaks. A very short RP interval with a final P wave suggests a re-entrant supraventricular
+tachycardia.
+Transient slowing of the ventricular response rate with sustained atrial activity indicates flutter or focal
+AT. Flutter will have the characteristic saw tooth pattern of an atrial macro-re-entrant circuit. Focal AT will
+show discrete P waves with an isoelectric baseline.
+Lack of response to adenosine suggests either sinus tachycardia or focal AT, and strongly suggests that
+the rhythm is not re-entrant supraventricular tachycardia or atrial flutter.
+Some forms of atrial tachycardia will break in response to adenosine.[17]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Focal atrial tachycardia Management
+MANAGEMENT
+Response to adenosine 6 mg intravenously
+From the collection of Sarah Stahmer, MD
+Electrophysiologic study (EPS) can identify the site of the tachycardia and underlying mechanism. EPS
+involving ablation can be curative and may be offered as first-line therapy to select patients.[1]
+General principles for treating patients with focal AT
+Patients are usually symptomatic due to the increased heart rate, which is uncomfortable but also may
+exacerbate underlying conditions, such as coronary artery disease or valvular heart disease. Treatment
+efforts should focus on ensuring hemodynamic stability and treating complications of the rhythm such as
+congestive heart failure, which usually require slowing the heart rate. This may be difficult in some cases,
+and interventions should be chosen with careful consideration of the clinical context.
+The clinical context is often the primary clue to the underlying mechanism. For example, focal AT in the
+context of acute alcohol intoxication is probably because of enhanced automaticity. These often convert
+spontaneously once the offending agent (alcohol, cocaine, or amphetamines) is withdrawn. Those that
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Focal atrial tachycardia Management
+do not resolve spontaneously are often resistant to pace termination (which produces, at best, only a
+transient suppression of the arrhythmia), electrical cardioversion, and pharmacologic therapy. Catheter
+ablation is often the only effective treatment.
+If there is a history of known cardiac defect or prior cardiac surgery, the focal AT may be due to re-entry.
+Re-entry arrhythmias are amenable to pace termination, cardioversion, ablation, and pharmacologic
+intervention. Of interest is the fact that repair of cardiac defects may reduce the incidence of focal AT.[18]
+Triggered arrhythmias are difficult to distinguish clinically. They are known to behave in a fashion
+somewhere in between that of automatic and re-entrant arrhythmias and are therefore more amenable to
+pharmacologic intervention.
+Digoxin toxicity
+Digoxin toxicity should be suspected if there is a history of congestive heart failure, the patient is taking
+digoxin, and the rhythm is atrial tachycardia with evidence of atrioventricular blockade.
+Initial work-up should focus on determining whether the patient is hemodynamically compromised from
+the rhythm itself and, if so, considering digoxin immune antibody fragments (Fab) therapy if the patient is
+found to be digoxin toxic. The treatment is supportive care while repleting potassium and/or withholding
+digoxin.
+Focal atrial tachycardia in an 88-year-old woman with 2:1 AV nodal
+block in the setting of digoxin therapy and potassium 2.8 mEq/L
+From the collection of Sarah Stahmer, MD
+Approach to initial treatment in patients with focal AT; digoxin
+excess not suspected
+Intravenous beta-blockers, or the calcium-channel blockers diltiazem and verapamil, are recommended
+as first-line therapy to treat focal AT. For those patients who do not respond to these initial interventions,
+amiodarone or ibutilide may be effective. In the acute setting, the benefit of amiodarone may be due to
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Focal atrial tachycardia Management
+MANAGEMENT
+its beta-blocking effects, but better tolerated than beta-blockers in patients with impaired left ventricular
+function. Ibutilide has been reported to be effective in some cases of focal AT, but its mechanism of
+action is not clear.[1] [15] EPS involving ablation can be curative and may be offered as first-line therapy
+to select patients who prefer to avoid long-term pharmacologic therapy e.g., younger patients or those
+with certain occupations, such as pilots.[1] Catecholamine excess is largely suspected by a history of
+medication use, cocaine, amphetamines, or alcohol withdrawal with clinical features of catecholamine
+excess on examination (agitation, diaphoresis, hypertension). 
+Focal AT can be caused by sudden surges in circulating catecholamines through use of amphetamines,
+cocaine, or products containing catecholamines. Patients are rarely hemodynamically compromised, and
+treatment should be supportive. Those who do not respond to supportive measures, do not have a history
+of cocaine use, and are hemodynamically unstable may be treated with beta-blockers. Those who are still
+refractory may be treated with direct current (DC) cardioversion.
+Patients who are hemodyamically compromised or have drug-resistant rhythms are candidates for
+synchronized cardioversion.[15] The response to cardioversion is dependent in part on the underlying
+mechanism of the tachycardia. Micro-re-entrant tachycardias are likely to readily convert to sinus rhythm,
+triggered focal AT will have a variable response, and cardioversion is not likely to be effective in focal AT
+with an automatic mechanism.
+Approach to sustained, refractory or recurrent focal AT
+Management of focal AT beyond the initial stabilization period and for those refractory to initial
+interventions may benefit from additional pharmacologic therapy, which should be done in consultation
+with a cardiologist. Class Ic antiarrhythmics are first choice and class III antiarrhythmics second choice.
+Many patients with sustained and/or recurrent atrial tachycardias are referred for catheter ablative therapy.
+The success of this treatment depends on the site of origin and underlying mechanism.[1]
+Children
+Pediatric atrial tachycardias are uncommon. Atrial tachycardia in children is often incessant and
+refractory to typical treatments used for atrioventricular nodal re-entrant tachycardia; tachycardia-induced
+cardiomyopathy is commonly observed. The cause is usually idiopathic but identified risk factors include
+viral infections, atrial tumors, and surgery for congenital heart disease.
+The treatment of pediatric patients with atrial tachycardia includes medications to suppress the arrhythmia
+and/or control the ventricular response and catheter ablation. Beta-blockers, digoxin, and antiarrhythmics
+are often effective as first-line pharmacologic interventions to achieve rate control. Many children will
+have spontaneous resolution of the arrhythmia. Patients with incessant tachycardias will usually require
+catheter ablation, which is associated with a high degree of success, a low complication rate, and a low
+recurrence rate.
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Focal atrial tachycardia Management
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial ( summary )
+adult: undifferentiated
+supraventricular tachycardia
+1st adenosine
+Acute ( summary )
+adult: focal AT; digoxin excess not
+suspected
+hemodynamically stable
+focal AT
+1st beta-blocker or calcium-channel blocker
+1st catheter ablation
+2nd amiodarone or ibutilide
+3rd third-line pharmacotherapy or direct
+current (DC) cardioversion + cardiology
+consult
+hemodynamically
+unstable focal AT
+1st direct current (DC) cardioversion
+adult: focal AT; digoxin toxicity
+suspected
+1st supportive care
+adjunct digoxin immune Fab
+child
+1st anti-arrhythmic medication ± catheter
+ablation
+Ongoing ( summary )
+adult: sustained or recurrent focal AT
+1st catheter ablation
+1st antiarrhythmic medication
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Focal atrial tachycardia Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial
+adult: undifferentiated
+supraventricular tachycardia
+1st adenosine
+Primary options
+» adenosine: adults: 6 mg/dose intravenously
+initially, followed by 12 mg/dose in 1-2
+minutes if no effect, may repeat 12 mg/
+dose once more in 1-2 minutes if no effect,
+maximum 30 mg/total dose
+» Causes AV node blockade with slowing of the
+ventricular response rate or cessation of the
+atrial tachycardia.[13] Effects are transient, and
+can be misleading when trying to differentiate
+from other forms of supraventricular tachycardia,
+if the focal AT terminates with adenosine.
+Response to adenosine 6 mg intravenously
+From the collection of Sarah Stahmer, MD
+» Transient slowing of the ventricular response
+rate with sustained atrial activity indicates flutter
+or focal AT. Flutter will have the characteristic
+saw tooth pattern of an atrial macro-re-entrant
+circuit. Focal AT will show discrete P waves with
+an isoelectric baseline.
+» Lack of response to adenosine suggests
+either sinus tachycardia or focal AT, and strongly
+suggests that the rhythm is not re-entrant
+supraventricular tachycardia or atrial flutter.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Focal atrial tachycardia Management
+Initial
+» Some forms of atrial tachycardia will break in
+response to adenosine.[17]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Focal atrial tachycardia Management
+MANAGEMENT
+Acute
+adult: focal AT; digoxin excess not
+suspected
+hemodynamically stable
+focal AT
+1st beta-blocker or calcium-channel blocker
+Primary options
+» diltiazem: adults: 0.25 mg/kg intravenously
+initially, followed by 10 mg/hour infusion,
+consult specialist for further guidance on
+dose
+OR
+» esmolol: adults: 500 micrograms/kg/
+dose intravenously initially, followed by 50
+micrograms/kg/minute infusion for 4 minutes,
+if no response after 5 minutes repeat loading
+dose and increase infusion, consult specialist
+for further guidance on dose
+Secondary options
+» verapamil: adults: 5-10 mg intravenously
+initially, followed by 10 mg 30 minutes later
+if no effect, consult specialist for further
+guidance on dose
+OR
+» metoprolol tartrate: adults: 5 mg/dose
+intravenously initially, may repeat every 5
+minutes, maximum 3 doses
+» Calcium-channel blockers or beta-blockers
+may be helpful in controlling the ventricular
+response rate or breaking the tachycardia.[1]
+» Catecholamine excess should be suspected
+if there is a history or suspicion of recent use of
+exogenous catecholamines, cocaine, or alcohol
+with clinical features of catecholamine excess
+(agitation, diaphoresis, hypertension).
+» Supportive care and withdrawal of any
+offending agent are first-line therapy. Supportive
+care includes intravenous fluids for any
+hemodynamic instability without overt congestive
+heart failure, as well as correction of any
+associated electrolyte imbalance.
+» Beta-blockers should be used with caution if
+there is a suspicion that the dysrhythmia was
+triggered by cocaine.[1]
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Focal atrial tachycardia Management
+Acute
+Focal atrial tachycardia in a 35-year-
+old with history of recent cocaine use
+From the collection of Sarah Stahmer, MD
+» Blocking the beta receptors leaves the
+circulating norepinephrine free to activate
+the alpha receptors with no opposing beta
+effects. This may induce hypertensive crisis and
+vasospasm.
+» Beta-blockers are generally reserved for
+patients who are not suspected to have taken
+cocaine, and who are refractory to supportive
+care, show evidence of cardiac ischemia, or are
+hemodynamically unstable.
+» The effects of any pharmacologic intervention
+for focal AT are often unpredictable given the
+multitude of causes and underlying mechanisms.
+For this reason, if there are any concerns about
+the potential risks of giving an agent to a stable
+patient, agents should be chosen that are short
+acting and can be stopped if there are adverse
+effects.
+» Beta-blockers and calcium-channel
+blockers should be avoided in patients with
+decompensated heart failure or hemodynamic
+instability. Beta-blockers should also be avoided
+in patients with active pulmonary disease.
+1st catheter ablation
+» Electrophysiologic study involving ablation
+may aid in diagnosing the mechanism of the
+tachycardia; it can be curative and may be
+offered as first-line therapy to select patients.[1]
+» The need to confirm the mechanism of SVT
+and preference for an alternative to long-term
+pharmacologic therapy are factors that may
+support the use of catheter ablation.
+» Catheter ablation is a specialized intervention
+undertaken by electrophysiologists and
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Focal atrial tachycardia Management
+MANAGEMENT
+Acute
+may be dependent on availability of an
+electrophysiologist.
+2nd amiodarone or ibutilide
+Primary options
+» amiodarone: adults: 150 mg intravenously
+over 10 minutes, followed by 1 mg/minute
+infusion over 6 hours (total dose 360 mg),
+then 0.5 mg/minute infusion over 18 hours
+(total dose 540 mg)
+OR
+» ibutilide: adults body weight <60 kg: 0.01
+mg/kg intravenously as a single dose; adults
+body weight ≥60 kg: 1 mg intravenously as
+a single dose; may repeat dose after 10
+minutes if no response
+» Patients who are refractory or have
+contraindications to adenosine, beta-blockers, or
+calcium-channel blockers may benefit from these
+second-line medications.
+» Amiodarone is a highly effective agent in the
+management of a wide range of supraventricular
+and ventricular tachycardias.[1] It prolongs the
+duration of the action potential and the refractory
+period in atrial and ventricular tissues, slows
+automaticity in pacemaker cells, and slows AV
+nodal conduction. Patients should, therefore, be
+closely monitored when this treatment is started.
+» Ibutilide has been reported to be effective
+in some cases of focal AT, but its mechanism
+of action is not clear.[1] [15] Continuous ECG
+monitoring is recommended and caution should
+be used in patients with QT prolongation.
+3rd third-line pharmacotherapy or direct
+current (DC) cardioversion + cardiology
+consult
+Primary options
+» flecainide: adults: 50 mg orally every 12
+hours initially, increase gradually according to
+response, maximum 300 mg/day
+OR
+» propafenone: adults: 150 mg orally
+(immediate-release) every 8 hours initially,
+increase gradually according to response,
+maximum 900 mg/day; 225 mg orally
+(extended-release) every 12 hours initially,
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Focal atrial tachycardia Management
+Acute
+increase gradually according to response,
+maximum 850 mg/day
+» Patients who are refractory to second-line
+pharmacotherapy should be referred for a
+cardiology consult. Cardioversion may be
+effective in some cases; usually if re-entry is the
+mechanism. Other forms of focal AT are often
+resistant to electrical disruption. Medications
+that may be effective are in the Ic class of
+antiarrhythmics. Because of the risk of untoward
+side effects with these medications, cardiology
+consultation is advised when considering these
+therapies.
+hemodynamically
+unstable focal AT
+1st direct current (DC) cardioversion
+» Electrical disruption may be effective in
+some cases of focal AT. When a patient has
+become unstable, it is reasonable to attempt
+DC cardioversion when it is clear that the
+tachyarrhythmia is nonsinus and is responsible
+for the hemodynamic compromise.
+» Electrical disruption is usually only effective if
+re-entry is the mechanism; other forms of focal
+AT are typically resistant to electrical disruption.
+» If an underlying cause is identified, this should
+be treated.
+adult: focal AT; digoxin toxicity
+suspected
+1st supportive care
+» Digoxin toxicity should be suspected if there
+is a history of congestive heart failure, the
+patient is taking digoxin, and the rhythm is atrial
+tachycardia with evidence of atrioventricular
+blockade.
+» When atrial tachycardia is a manifestation of
+digoxin toxicity, treatment is aimed at supportive
+care, withholding digoxin, optimizing volume
+status, and replacing potassium if there is a
+deficit.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Focal atrial tachycardia Management
+MANAGEMENT
+Acute
+Focal atrial tachycardia in an 88-year-old
+woman with 2:1 AV nodal block in the setting
+of digoxin therapy and potassium 2.8 mEq/L
+From the collection of Sarah Stahmer, MD
+» This approach is usually sufficient for restoring
+sinus rhythm.
+adjunct digoxin immune Fab
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» digoxin immune Fab: adults: consult
+specialist for guidance on dose
+» Patients with evidence of refractory
+arrhythmias, particularly ventricular, or
+hemodynamically compromising AV block may
+benefit from digoxin-specific antibody fragments
+(Fab) therapy to bind digoxin.[19]
+child
+1st anti-arrhythmic medication ± catheter
+ablation
+» Pediatric atrial tachycardias are uncommon.
+Atrial tachycardia in children is often incessant
+and refractory to typical treatments used for
+atrioventricular nodal re-entrant tachycardia;
+tachycardia-induced cardiomyopathy is
+commonly observed.
+» The treatment of pediatric patients with atrial
+tachycardia includes medications to suppress
+the arrhythmia and/or control the ventricular
+response and catheter ablation. Beta-blockers,
+digoxin, and antiarrhythmics such as amiodarone
+are often effective as first-line pharmacologic
+interventions to achieve rate control. Many
+children will have spontaneous resolution of the
+arrhythmia.
+» Amiodarone should not be used in babies
+<1 month old because of the additive benzyl
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Focal atrial tachycardia Management
+Acute
+alcohol, which may precipitate metabolic
+acidosis and gasping syndrome.[20]
+» Patients with incessant tachycardias will
+usually require catheter ablation, which is
+associated with a high degree of success, a low
+complication rate, and a low recurrence rate.
+» Selection of drug therapy in children should be
+under specialist guidance.
+Ongoing
+adult: sustained or recurrent focal AT
+1st catheter ablation
+» Many patients with sustained and/or recurrent
+atrial tachycardias are referred for catheter
+ablative therapy. The success of this treatment
+depends on the site of origin and underlying
+mechanism.[1] The presence of recurring
+symptoms, persistent tachycardia leading
+to heart failure, and unsuccessful medical
+treatment, are factors that may support the use
+of catheter ablation for focal atrial tachycardia.
+» Catheter ablation is a specialized intervention
+undertaken by electrophysiologists and
+may be dependent on availability of an
+electrophysiologist.
+1st antiarrhythmic medication
+» There is limited evidence that these drugs
+are moderately effective for the long-term
+pharmacologic therapy of focal AT. Most of the
+evidence for the long-term use of these drugs in
+the management of focal AT come from studies
+in children. Due to the risk of proarrhythmia and
+other potential complications it is important to
+consider individual benefit versus harm.[1] Class
+Ic or class III antiarrhythmics are typically used
+in this setting. Consult a specialist for guidance
+on selection and dose of antiarrhythmics.
+Patient discussions
+Precipitants such as alcohol or cocaine/amphetamines should be avoided. Patients should also
+be advised to avoid over-the-counter cold/sinus medications that contain phenylephrine. Patients
+should report episodes of syncope, presyncope, chest pain, or palpitations to their physicians, as
+these symptoms may indicate recurrent focal atrial tachycardia. Patients on long-term anti-arrhythmic
+medications may require specific follow-up to monitor for efficacy and/or toxicity. Patients should be
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Focal atrial tachycardia Management
+MANAGEMENT
+educated about specific adverse effects associated with their anti-arrhythmic medications, such as
+symptoms of thyroid dysfunction among patients taking amiodarone.
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Focal atrial tachycardia Follow up
+Monitoring
+Monitoring
+All patients should be referred for follow-up with either a primary care physician or cardiologist. The
+urgency of the referral and need for cardiology follow-up depends on the likelihood of recurrence of
+focal atrial tachycardia, risk of complications from therapies initiated, and planned interventions, such as
+catheter ablation.
+Complications
+Complications Timeframe Likelihood
+congestive heart failure short term medium
+Patients, including children, with sustained tachycardias may develop congestive heart failure.[22]
+Treatment is focused on stopping the arrhythmia.
+resistance to therapy short term medium
+Many of these dysrhythmias are recurrent and resistant to pharmacologic intervention.
+Refer for catheter ablation, which is curative in many cases.
+cardiomyopathy short term low
+This is a rare complication, secondary to incessant atrial tachycardia.
+Cardiomyopathy is observed in patients with delayed presentations, often older children or patients with
+already compromised cardiopulmonary reserves. It often reverses once the tachycardia is controlled.
+Prognosis
+Prognosis depends on the ability to control the arrhythmia. This is further influenced by the patient's age,
+underlying cause of the arrhythmia, tolerance of adverse effects of the chosen treatment, and comorbidities.
+Eventually, the rhythm is controlled in nearly all patients, but some may go through a period of trial and error,
+ultimately needing ablative therapy. This treatment may have to be repeated.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Focal atrial tachycardia Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+ACC/AHA/HRS guideline for the management of adult patients with
+supraventricular tachycardia (https://professional.heart.org/professional/
+GuidelinesStatements/UCM_492626_Guidelines-Statements-Search-Page.jsp) 
+[1]
+Published by: American College of Cardiology; American Heart
+Association Task Force on Clinical Practice Guidelines; Heart Rhythm
+Society
+Last published: 2015
+2019 ESC guidelines for the management of patients with supraventricular
+tachycardia (https://www.escardio.org/Guidelines)   [15]
+Published by: European Society of Cardiology (ESC) Last published: 2019
+Treatment guidelines
+International
+ACC/AHA/HRS guideline for the management of adult patients with
+supraventricular tachycardia (https://professional.heart.org/professional/
+GuidelinesStatements/UCM_492626_Guidelines-Statements-Search-Page.jsp) 
+[1]
+Published by: American College of Cardiology; American Heart
+Association Task Force on Clinical Practice Guidelines; Heart Rhythm
+Society
+Last published: 2015
+JCS/JHRS 2020 guideline on pharmacotherapy of cardiac arrhythmias (https://
+www.j-circ.or.jp/english/cj/jcs-guidelines)   [21]
+Published by: Japanese Circulation Society Last published: 2020
+2019 ESC guidelines for the management of patients with supraventricular
+tachycardia (https://www.escardio.org/Guidelines)   [15]
+Published by: European Society of Cardiology Last published: 2019
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Focal atrial tachycardia References
+Key articles
+• Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of
+adult patients with supraventricular tachycardia: a report of the American College of Cardiology/
+American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm
+Society. J Am Coll Cardiol. 2016 Apr 5;67(13):e27-e115.  Full text (http://content.onlinejacc.org/
+article.aspx?articleid=2443667)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26409259?
+tool=bestpractice.bmj.com)
+• Brugada J, Katritsis DG, Arbelo E, et al. 2019 ESC guidelines for the management of patients with
+supraventricular tachycardia. The Task Force for the management of patients with supraventricular
+tachycardia of the European Society of Cardiology (ESC). Eur Heart J. 2020 Feb 1;41(5):655-720. 
+Full text (https://academic.oup.com/eurheartj/article/41/5/655/5556821)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31504425?tool=bestpractice.bmj.com)
+References
+1. Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of
+adult patients with supraventricular tachycardia: a report of the American College of Cardiology/
+American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm
+Society. J Am Coll Cardiol. 2016 Apr 5;67(13):e27-e115.  Full text (http://content.onlinejacc.org/
+article.aspx?articleid=2443667)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26409259?
+tool=bestpractice.bmj.com)
+2. Salerno JC, Kertesz NJ, Friedman RA, et al. Clinical course of atrial ectopic tachycardia is age-
+dependent: results and treatment in children <3 or >3 or = 3 years of age. J Am Coll Cardiol. 2004 Feb
+4;43(3):438-44. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15013128?tool=bestpractice.bmj.com)
+3. Doniger SJ, Sharieff GQ. Pediatric dysrhythmias. Pediatr Clin North Am. 2006 Feb;53(1):85-105, vi.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16487786?tool=bestpractice.bmj.com)
+4. Ferguson JD, DiMarco JP. Contemporary management of paroxysmal supraventricular tachycardia.
+Circulation. 2003 Mar 4;107(8):1096-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12615783?
+tool=bestpractice.bmj.com)
+5. Poutiainen AM, Koistinen MJ, Airaksinen KE, et al. Prevalence and natural course of ectopic
+atrial tachycardia. Eur Heart J. 1999 May;20(9):694-700. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10208790?tool=bestpractice.bmj.com)
+6. Tisdale JE, Chung MK, Campbell KB, et al. Drug-induced arrhythmias: a scientific statement
+from the American Heart Association. Circulation. 2020 Oct 13;142(15):e214-33.  Full text
+(https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000905?rfr_dat=cr_pub
+++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32929996?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Focal atrial tachycardia References
+REFERENCES
+7. Loomba RS, Chandrasekar S, Sanan P, et al. Association of atrial tachyarrhythmias with atrial septal
+defect, Ebstein's anomaly and Fontan patients. Expert Rev Cardiovasc Ther. 2011 Jul;9(7):887-93.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21809970?tool=bestpractice.bmj.com)
+8. DeVoe JE, Judkins DZ, Woods L. What is the best approach to the evaluation of resting
+tachycardia in an adult? J Fam Pract. 2007 Jan;56(1):59-61. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17217901?tool=bestpractice.bmj.com)
+9. Thavendiranathan P, Bagai A, Khoo C, et al. Does this patient with palpitations have a cardiac
+arrhythmia? JAMA. 2009 Nov 18;302(19):2135-43. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19920238?tool=bestpractice.bmj.com)
+10. Hanrahan JP, Grogan DR, Baumgartner RA, et al. Arrhythmias in patients with chronic obstructive
+pulmonary disease (COPD): occurrence frequency and the effect of treatment with the inhaled long-
+acting beta2-agonists arformoterol and salmeterol. Medicine (Baltimore). 2008 Nov;87(6):319-28.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19011503?tool=bestpractice.bmj.com)
+11. Gerstenfeld EP, Marchlinski FE. Mapping and ablation of left atrial tachycardias occurring after atrial
+fibrillation ablation. Heart Rhythm. 2007 Mar;4(suppl 3):S65-72. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17336888?tool=bestpractice.bmj.com)
+12. Chauhan VS, Krahn GJ, Skanes AC, et al. Supraventricular tachycardia. Med Clin North
+Am. 2001 Mar;85(2):193-223, ix. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11233946?
+tool=bestpractice.bmj.com)
+13. Innes JA. Review article: adenosine use in the emergency department. Emerg Med
+Australas. 2008 Jun;20(3):209-15. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18549383?
+tool=bestpractice.bmj.com)
+14. Iwai S, Markowitz SM, Stein KM, et al. Response to adenosine differentiates focal from macroreentrant
+atrial tachycardia: validation using three-dimensional electroanatomic mapping. Circulation. 2002 Nov
+26;106(22):2793-9.  Full text (https://www.ahajournals.org/doi/10.1161/01.cir.0000040587.73251.48?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12451005?tool=bestpractice.bmj.com)
+15. Brugada J, Katritsis DG, Arbelo E, et al. 2019 ESC guidelines for the management of patients with
+supraventricular tachycardia. The Task Force for the management of patients with supraventricular
+tachycardia of the European Society of Cardiology (ESC). Eur Heart J. 2020 Feb 1;41(5):655-720. 
+Full text (https://academic.oup.com/eurheartj/article/41/5/655/5556821)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31504425?tool=bestpractice.bmj.com)
+16. Fox DJ, Tischenko A, Krahn AD, et al. Supraventricular tachycardia: diagnosis and management.
+Mayo Clin Proc. 2008 Dec;83(12):1400-11. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19046562?
+tool=bestpractice.bmj.com)
+17. Engelstein ED, Lippman N, Stein KM, et al. Mechanism-specific effects of adenosine on atrial
+tachycardia. Circulation. 1994 Jun;89(6):2645-54. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8205677?tool=bestpractice.bmj.com)
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Focal atrial tachycardia References
+18. Vecht JA, Saso S, Rao C, et al. Atrial septal defect closure is associated with a reduced prevalence
+of atrial tachyarrhythmia in the short to medium term: a systematic review and meta-analysis.
+Heart. 2010 Nov;96(22):1789-97. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20965992?
+tool=bestpractice.bmj.com)
+19. Antman EM, Wenger TL, Butler VP Jr, et al. Treatment of 150 cases of life-threatening digitalis
+intoxication with digoxin-specific Fab antibody fragments: final report of a multicenter study.
+Circulation. 1990 Jun;81(6):1744-52. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2188752?
+tool=bestpractice.bmj.com)
+20. Perry J, Fenrich AL, Hulse JE, et al. Pediatric use of amiodarone: efficacy and safety in critically ill
+patients from a multicenter protocol. J Am Coll Cardiol. 1996 Apr;27(5):1246-50. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8609351?tool=bestpractice.bmj.com)
+21. Ono K, Iwasaki YK, Akao M, et al. JCS/JHRS 2020 guideline on pharmacotherapy of cardiac
+arrhythmias. Circ J. 2022 Oct 25;86(11):1790-924.  Full text (https://www.jstage.jst.go.jp/article/
+circj/86/11/86_CJ-20-1212/_article)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35283400?
+tool=bestpractice.bmj.com)
+22. Nerheim P, Birger-Botkin S, Piracha L, et al. Heart failure and sudden death in patients
+with tachycardia-induced cardiomyopathy and recurrent tachycardia. Circulation.
+2004 Jul 20;110(3):247-52. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15226218?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Focal atrial tachycardia Images
+IMAGES
+Images
+Figure 1: Focal atrial tachycardia in an 88-year-old woman with 2:1 AV nodal block in the setting of digoxin
+therapy and potassium 2.8 mEq/L
+From the collection of Sarah Stahmer, MD
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Focal atrial tachycardia Images
+Figure 2: Focal atrial tachycardia in a 35-year-old with history of recent cocaine use
+From the collection of Sarah Stahmer, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Focal atrial tachycardia Images
+IMAGES
+Figure 3: ECG following cardioversion of focal atrial tachycardia in a 35-year-old with history of recent cocaine
+use
+From the collection of Sarah Stahmer, MD
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Focal atrial tachycardia Images
+Figure 4: Focal atrial tachycardia in a 55-year-old with ischemic cardiomyopathy
+From the collection of Sarah Stahmer, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Focal atrial tachycardia Images
+IMAGES
+Figure 5: Diagnostic algorithm for differentiating atrial tachycardias from other narrow QRS tachycardias. AV =
+atrioventricular, PAC = premature atrial contraction
+From the collection of Sarah Stahmer, MD
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 45 ===
+Focal atrial tachycardia Images
+Figure 6: Response to adenosine 6 mg intravenously
+From the collection of Sarah Stahmer, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+45
+=== Page 46 ===
+Focal atrial tachycardia Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 47 ===
+Focal atrial tachycardia Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+47
+=== Page 48 ===
+Contributors:
+// Authors:
+Danesh Kella, MBBS, FHRS
+Assistant Professor
+Department of Cardiovascular Diseases, Division of Heart Rhythm, Mayo Clinic, Jacksonville, FL
+DISCLOSURES: DK receives honoraria from Zoll Medical.
+// Acknowledgements:
+Dr Danesh Kella would like to gratefully acknowledge Dr Sarah Stahmer, previous contributor to this topic.
+// Peer Reviewers:
+Kathryn L. Berlacher, MD, MS
+Assistant Professor and Cardiology Fellowship Program Director
+University of Pittsburgh Medical Center, Pittsburgh, PA
+DISCLOSURES: KLB declares that she has no competing interests.
+Mehak Dhande, MD
+Clinical Cardiac Electrophysiology Fellow
+University of Pittsburgh Medical Center, Pittsburgh, PA
+DISCLOSURES: MD declares that she has no competing interests.
+Amal Mattu, MD
+Associate Professor of Emergency Medicine
+University of Maryland Medical Center, Baltimore, MD
+DISCLOSURES: AM declares that he has no competing interests.
+Vias Markides, MB(Hons), BS(Hons), MD, FRCP
+Consultant Cardiologist
+Royal Brompton & Harefield NHS Trust, Imperial College London, London, UK
+DISCLOSURES: VM declares that he has no competing interests.

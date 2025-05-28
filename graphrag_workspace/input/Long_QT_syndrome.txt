@@ -1,0 +1,2611 @@
+# Long QT syndrome
+
+=== Page 1 ===
+Long QT syndrome
+Straight to the point of care
+Last updated: Aug 29, 2023
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  5
+Classification  7
+Case history  8
+Diagnosis  10
+Approach  10
+History and exam  20
+Risk factors  22
+Investigations  24
+Differentials  28
+Criteria  29
+Screening  30
+Management  31
+Approach  31
+Treatment algorithm overview  35
+Treatment algorithm  36
+Emerging  47
+Primary prevention  47
+Secondary prevention  47
+Patient discussions  47
+Follow up  48
+Monitoring  48
+Complications  49
+Prognosis  50
+Guidelines  51
+Diagnostic guidelines  51
+Treatment guidelines  52
+Online resources  53
+References  54
+Images  62
+Disclaimer  68
+=== Page 3 ===
+Long QT syndrome Overview
+Summary
+Long QT syndrome (LQTS) is characterized by a prolonged QT interval on ECG, which may be congenital or
+acquired.
+In congenital LQTS, genetic mutations affect ion channels important in myocardial repolarization.
+Acquired LQTS may occur secondary to ingestion of QT interval-prolonging drugs, electrolyte imbalances, or
+bradyarrhythmias.
+Patients with LQTS are at increased risk of syncope, ventricular arrhythmias (including torsades de pointes),
+and sudden cardiac death.
+Unless there is an identifiable reversible cause, treatment primarily involves lifestyle modification and beta-
+blocker therapy with the implantation of a cardioverter-defibrillator in selected cases.
+Definition
+Long QT syndrome (LQTS) is a congenital or acquired condition that is characterized by a prolonged
+QT interval on the surface ECG and is associated with a high risk of sudden cardiac death due to
+ventricular tachyarrhythmias. In congenital LQTS, mutations within 17 identified genes result in a variety of
+channelopathies affecting myocardial repolarization, thus prolonging the QT interval.
+Published definitions of the normal QT interval vary. A prolonged QT interval is defined as a heart rate-
+corrected QT interval (QTc) of >450 ms in males and >460 ms in females.[1] The European Society of
+Cardiology suggests using a QTc of ≥480 ms for diagnosing LQTS and using a QTc of 460-479 as a
+borderline range where a diagnosis may be considered along with other criteria.[2]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+3
+=== Page 4 ===
+Long QT syndrome Theory
+THEORY
+Epidemiology
+Historically, only the most severe cases of LQTS were detected and reported, suggesting that the condition
+was extremely rare.[9] However, it is currently estimated that at least 1 in 2000 to 1 in 2500 people worldwide
+are affected with congenital LQTS, although its observed prevalence has increased as awareness and
+screening for the condition has improved.[4] [5] [11] Untreated LQTS has an annual rate of sudden cardiac
+death of <0.5% in asymptomatic patients, which rises to approximately 5% in patients who have a history of
+syncope.[2] LQTS is thought to be responsible for approximately 3000 sudden deaths in the US annually.[11]
+[12] [13] [14] The 10-year mortality rate in untreated, symptomatic index cases is approximately 50%.[5]
+The mean age of patients at presentation is 14 years.[2] Few data are available to suggest worldwide racial
+or ethnic variation in prevalence, but this has not been widely studied. LQTS is more commonly diagnosed
+in women, which may be a spurious observation resulting from the higher upper limit for the corrected QT
+interval (QTc) in postpubertal females than in males (460 ms and 450 ms, respectively), although one report
+suggests a slightly higher incidence in women on the basis of genetics.[15] About 70% to 85% of patients
+with LQTS have an identifiable genetic mutation.[2] [5] The LQT1, LQT2, and LQT3 subtypes of the condition
+constitute over 90% of cases for which a gene can be identified, with LQT4 to LQT15 accounting for the
+remainder. KCNQ1 mutations, which lead to LQT1, account for up to 35% to 45% of genotyped patients and
+are the most commonly identified mutations in these patients, followed by KCNH2 mutations, which lead to
+LQT2.[16] Romano-Ward syndrome is the most common form of LQTS and has an autosomal dominant form
+of inheritance, as opposed to the Jervell and Lange-Nielsen syndrome, which is a rare autosomal recessive
+form of LQTS.[8]
+The overall incidence and prevalence of acquired LQTS is not known and is difficult to estimate. In one
+retrospective review of hospital admissions, 0.7% of patients had a corrected QT interval >500 ms.[17] In
+another case-control study from a cohort of hospitalized cancer patients, 1.5% had a corrected QT interval
+>500 ms.[18]
+Etiology
+Genetic mutations identified in 17 genes account for congenital LQTS, with those in the following 3 genes
+constituting 90% to 95% of cases where a gene can be identified.[3] [5] [8] [16] [19] [20]
+• LQT1 arises from loss-of-function mutations in the KCNQ1 gene, which encodes a potassium channel
+responsible for the slow component of the delayed rectifier current (IKs). A homozygous mutation in
+KCNQ1 results in the autosomal recessive Jervell and Lange-Nielsen syndrome (JLNS).
+• LQT2 arises from loss-of-function mutations in the KCNH2 gene, which encodes a potassium channel
+responsible for the rapid component of the delayed rectifier current (IKr).
+• LQT3 arises from gain-of-function mutations in the SCN5A gene, which encodes a sodium channel.
+While the number of genes implicated in causing LQTS has expanded to 17, some have limited or disputed
+evidence casting doubt on their association with disease.[7]
+Acquired LQTS results from a wide variety of causative factors:
+• Some of the drugs known to prolong the QT interval or cause depletion of potassium and/
+or magnesium are quinidine, procainamide, sotalol, amiodarone, disopyramide, dofetilide,
+phenothiazines, tricyclic antidepressants, and methadone.[21] [22]  [Credible Meds (Arizona CERT):
+drugs that prolong the QT interval] (https://crediblemeds.org/index.php/login/dlcheck)  Certain cancer
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 5 ===
+Long QT syndrome Theory
+treatments are also known to cause QT prolongation, e.g., kinase inhibitors, growth factor inhibitors,
+androgen-deprivation therapies, and chimeric antigen receptor T-cell therapies.[23] [24]
+• Electrolyte imbalances: in particular hypokalemia, hypomagnesemia, and hypocalcemia.
+• Bradyarrhythmias: any sudden bradycardia or atrioventricular (AV) nodal block may result in QT
+prolongation or pause-dependent QT prolongation.
+• Central nervous system (CNS) lesions: such as intracranial hemorrhage (especially subarachnoid
+hemorrhage) and ischemic strokes.
+• Malnutrition: liquid protein diet, starvation.
+• Intense exercise training may be a cause of reversible long QT interval in athletes.[25]
+Pathophysiology
+In congenital LQTS, a number of identified genetic mutations cause the alteration of a specific ion channel
+current, leading to the pathophysiologic prolongation of repolarization, which equates to QT interval
+prolongation on the ECG.
+In LQT1 and LQT2, mutations reduce function of the delayed rectifier potassium currents (IKs and IKr,
+respectively), which shuttle potassium ions out of the myocardial cell during repolarization, thus making the
+cell more negative and returning it to the baseline state of approximately -90 mV.
+• LQT1 results from heterozygous loss-of-function mutations in the KCNQ1 gene, which encodes
+the alpha subunit of the slow-activating potassium channel responsible for the slow component
+of IKs. These mutations lead to dysfunctional IKs channels, which in turn lead to dispersion of
+repolarization from the epicardial to the endocardial surface, allowing potential development of
+ventricular tachyarrhythmias. Electrocardiographically, there are characteristic prolonged QT intervals
+associated with a broad-based T wave.[16]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+5
+=== Page 6 ===
+Long QT syndrome Theory
+THEORY
+ECG findings in type 1 long QT syndrome
+From the collection of Dr James P. Daubert
+• LQT2 results from mutations in the KCNH2 gene, which encodes the alpha (HERG) subunit
+of the potassium channel responsible for the rapid component of IKr. These mutations lead to
+dysfunctional IKr channels, which in turn lead to slowed repolarization and transmural dispersion of
+repolarization. This predisposes to ventricular tachyarrhythmias, particularly torsades de pointes.
+Electrocardiographically, there are characteristic low-amplitude and notched T waves.[16]
+ECG findings in type 2 long QT syndrome
+From the collection of Dr James P. Daubert
+• LQT3 results from mutations in the SCN5A gene, which encodes for rapidly inactivating sodium
+channels, resulting in a gain of function of a late sodium current allowing an inward flow of sodium
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 7 ===
+Long QT syndrome Theory
+ions to persist long into the plateau phase of the action potential, thereby prolonging repolarization.
+Electrocardiographically, there are characteristic long ST segments with a late-appearing T wave
+resulting in a long QT interval.[16]
+ECG findings in type 3 long QT syndrome
+From the collection of Dr James P. Daubert
+• A hereditary form of complete AV block resulting from degeneration of the bundle of His and its
+branches has been linked to the SCN5A gene (mutations of which are responsible for LQT3), which
+encodes for rapidly inactivating sodium channels, resulting in a gain of function of a late sodium
+current allowing an inward flow of sodium ions to persist long into the plateau phase of the action
+potential, thereby prolonging repolarization.
+The many causes of acquired LQTS result in prolongation of the QT interval through a variety of
+pathophysiologic mechanisms.[26]
+• Hypokalemia causes hyperpolarization of myocardial cell membranes with consequent prolongation of
+repolarization, which equates to QT interval prolongation on the ECG.
+• Hypomagnesemia, which often coexists with hypokalemia, causes early afterdepolarizations, which in
+turn lead to prolonged repolarization of myocardial cells and subsequent QT interval prolongation on
+the ECG.
+• Hypocalcemia prolongs the plateau phase of the action potential, thereby prolonging repolarization of
+myocardial cells, which equates to prolongation of the QT interval on the ECG.
+The likelihood of developing acquired LQTS is influenced by genetic variants that affect the repolarization
+reserve of a patient, such as D85N in KCNE1.[5]
+Classification
+Congenital
+The condition is inherited as a monogenic disorder with primarily autosomal dominant inheritance and
+variable penetrance. Multiple genetic mutations have been identified as the cause of LQTS.[3] [4] [5] [6]
+• LQT1 is due to mutations in the KCNQ1 gene.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+7
+=== Page 8 ===
+Long QT syndrome Theory
+THEORY
+• LQT2 is due to mutations in the KCNH2 gene.
+• LQT3 is due to mutations in the SCN5A gene.
+• LQT4 to LQT17 have been described but are responsible for <10% of cases; affected genes include
+CALM1/2/3, TRDN, KCNE1/2, KCNJ2, and CACNA1C.
+While 17 genes have been implicated in causing LQTS, some have limited or disputed evidence casting
+doubt on their association with disease.[7]
+Inherited as either an autosomal dominant or a recessive trait, LQTS can be phenotypically classified into
+several congenital syndromes.
+• Romano-Ward syndrome is inherited as an autosomal dominant trait. It may result from a mutation in
+any one of the identified genes and is not associated with deafness.[8]
+• Jervell and Lange-Nielsen syndrome is inherited as an autosomal recessive trait and results from
+a homozygous mutation in KCNQ1. It is clinically characterized by a very severe form of LQTS and
+sensorineural deafness,[9] and those affected may experience their first cardiac event during infancy.
+This is much rarer than the Romano-Ward (autosomal dominant) pattern.
+• Andersen-Tawil syndrome, also known as hypokalemic periodic paralysis or LQT7, is a rare autosomal
+dominant condition resulting from a mutation in the KCNJ2 gene.[5] These patients have periodic
+paralysis and ventricular tachyarrhythmias, and have a variety of dysmorphic features.[10]
+• Timothy syndrome (LQTS8), a rare autosomal dominant syndrome associated with syndactyly, cardiac
+malformations, autism, and dysmorphic features.[2]
+Acquired
+Many factors are associated with the development of a prolonged QT interval:
+• Drugs
+• Electrolyte imbalances
+• Bradyarrhythmias
+• CNS lesions
+• Malnutrition
+• Pathologic genetic variants in KCNE1 and KCNE2.[5]
+Case history
+Case history #1
+A 14-year-old girl, with a history of spells involving loss of consciousness, currently on antiepileptic drugs
+for a diagnosis of seizure disorder, presents to her pediatrician concerned about recurrent "seizures"
+despite taking her medication.
+Case history #2
+An 18-year-old, previously healthy, female college student suddenly collapses while rushing to class on
+a cold winter morning. Bystanders find her unresponsive and pulseless with agonal breathing. CPR is
+immediately commenced and emergency medical services are called.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 9 ===
+Long QT syndrome Theory
+Other presentations
+The condition may also be discovered as an incidental ECG finding during the routine investigation of
+an unrelated presenting complaint. For example, a patient referred to a cardiologist with a concern of a
+heart murmur, determined to be an innocent flow murmur, may have an initial ECG revealing a prolonged
+corrected QT interval (QTc) of 0.49 seconds, suggesting the presence of LQTS.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+9
+=== Page 10 ===
+Long QT syndrome Diagnosis
+DIAGNOSIS
+Approach
+The diagnosis of LQTS is not straightforward, as nearly 2.5% of the normal population may have a mildly
+prolonged QT interval, and nearly 25% of patients genotypically positive for LQTS may have normal-
+appearing QT intervals.[31] The QT interval is affected by heart rate (the slower the heart rate the longer the
+QT interval); therefore, rate-corrected QT interval (QTc) is used. Patients with LQTS may be risk-stratified for
+the probability of a future cardiac event (syncope, cardiac arrest, or sudden death) according to genotype,
+sex, age, and length of the QTc. It is also important to take into consideration any history of past symptoms
+when assessing the patient's risk of a future cardiac event. A careful history can help elucidate the presence
+of LQTS and identify its genetic subtype in the congenital form of the condition, or highlight the cause of QT
+interval prolongation in acquired LQTS. An ECG should be undertaken in all suspected cases.
+The Schwartz criteria, based on ECG findings (length of corrected QT interval [QTc], presence of torsades
+de pointes, visible T-wave alternans, presence of notched T waves, low heart rate for age in children), clinical
+history (presence of syncope, congenital deafness), and family history (of LQTS or sudden death) can be
+used to aid the diagnosis of LQTS.[32] [33]
+Presenting features
+LQTS commonly presents in young people with cardiac arrest or unexplained syncope and is frequently
+misdiagnosed as epilepsy. It should therefore be considered in all such presentations, and a thorough
+history, including a review of premonitory symptoms and a corroborative history, is essential as it can help
+differentiate between cardiac syncope, epilepsy, and other causes of syncope, some of which may be
+benign conditions.
+Cardiac syncope is characterized by premonitory symptoms such as palpitations, chest pain, and
+dyspnea. During the syncopal episode, pallor and cyanosis are common features, and the recovery period
+is brief and characterized by flushing.
+In a patient with documented LQTS and syncope, it is important to try to identify triggers for syncope, as
+this may suggest a certain subtype of the syndrome.
+• Patients with LQT1 typically have events (i.e., syncope or sudden death) during heightened
+adrenergic tone such as in exercise, particularly swimming.[34]
+• Patients with LQT2 commonly have events during arousal or when startled, as by a telephone or
+alarm clock.[34]
+• Female patients with LQTS are more prone to developing arrhythmic symptoms during the first 9
+postpartum months, particularly patients with LQT2.[35]
+• Patients with LQT3 commonly have events at rest and during bradycardia.[34]
+Both congenital and acquired LQTS may present with palpitations secondary to premature ventricular
+complex and tachyarrhythmias including torsades de pointes, although the more common symptom is
+syncope (or cardiac arrest).
+Acquired LQTS secondary to electrolyte imbalance may present with associated symptoms of
+hypokalemia, hypomagnesemia, and/or hypocalcemia.
+• Hypokalemia is normally asymptomatic, but it may cause muscle weakness if severe.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 11 ===
+Long QT syndrome Diagnosis
+• Hypomagnesemia may present with muscle weakness secondary to associated hypokalemia, as
+well as tetany (manifested as carpopedal spasm) and numbness (periorally and in the extremities)
+secondary to associated hypocalcemia.
+Complete atrioventricular (AV) block may present with palpitations, syncope or presyncope, angina,
+and symptoms of reduced cardiac output (cold and clammy extremities, fatigue, listlessness, poor effort
+tolerance, dizziness, oliguria).
+LQTS may also be discovered as an incidental ECG finding during the routine investigation of an
+unrelated presenting complaint such as a cardiac murmur, or during genetic diagnostic testing for another
+condition.[36]
+Medication history
+Drugs known to prolong the QT interval or cause depletion of potassium and/or magnesium may
+precipitate symptoms in patients with congenital LQTS or be the primary cause of acquired LQTS:
+• Quinidine, procainamide, sotalol, amiodarone, disopyramide, dofetilide, phenothiazines, tricyclic
+antidepressants, and methadone.[21] [22]  [Credible Meds (Arizona CERT): drugs that prolong the
+QT interval] (https://crediblemeds.org/index.php/login/dlcheck)
+• Certain cancer treatments are also known to cause QT prolongation, e.g., kinase inhibitors, growth
+factor inhibitors, androgen-deprivation therapies, and chimeric antigen receptor T-cell therapies.[23]
+[24]
+Medical history
+Some medical conditions are known to cause acquired LQTS:
+• Any sudden bradycardia or AV nodal block may result in QT prolongation or pause-dependent QT
+prolongation.
+• Central nervous system lesions, such as intracranial hemorrhage (especially subarachnoid
+hemorrhage) and ischemic strokes.
+Knowledge of the patient's medical history may also be helpful in identifying possible therapeutic drugs
+known to prolong the QT interval that the patient may be taking.
+Family history
+Review of the family history is extremely important to assist in making the diagnosis when it is in doubt,
+understand the penetrance of the condition, and screen, treat, and potentially avert cardiac arrest in family
+members.
+If possible, the ECGs and medical records of all family members should be reviewed.
+On occasion, a family member may have more pathologic findings than the affected proband; more
+commonly, the proband is the most severely involved.
+Developing a family pedigree may help in discovering other affected but undiagnosed family members.
+There may be a family history of complete AV block, which may indicate a diagnosis of acquired LQTS
+secondary to this condition.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+11
+=== Page 12 ===
+Long QT syndrome Diagnosis
+DIAGNOSIS
+Physical exam
+Patients with Jervell and Lange-Nielsen syndrome have a very severe form of LQTS associated with
+sensorineural deafness.[9]
+Patients with Andersen-Tawil syndrome have periodic paralysis (transient paralysis involving any part
+of the body and lasting seconds to hours, typically resolving spontaneously and sometimes associated
+with confusion and altered mental status) and ventricular tachyarrhythmias, and have a variety of
+dysmorphic features including micrognathia, low-set ears, widely spaced eyes, clinodactyly, syndactyly,
+and scoliosis.[10]
+Severe hypokalemia may cause muscle weakness.
+Patients with hypocalcemia may have positive Chvostek sign (twitching of facial muscles in response
+to tapping the facial nerve in the area of the parotid gland) and Trousseau sign (carpopedal spasm in
+response to inflation of a blood pressure (BP) cuff creating pressure in the upper limb greater than systolic
+BP).
+Signs of reduced cardiac output (cold, clammy, pale, or cyanosed extremities; hypotension; confusion)
+may be present in complete AV block.
+Schwartz criteria
+The Schwartz criteria are diagnostic criteria for LQTS and are distinct from the criteria used to risk-stratify
+patients with known LQTS. Points are assigned to ECG, clinical, and familial findings. Patients with 3.5
+or more points have a high probability of having LQTS, those with 1.5 to 3 points have an intermediate
+probability, and those with 1 or no points have a low probability of having LQTS.[32][33]
+ECG findings (in the absence of medications or disorders known to affect these features)
+• Corrected QT interval (QTc), defined as QT interval (in seconds) divided by the square root of the
+RR interval (in seconds):
+• ≥480 ms = 3 points
+• 460-479 ms = 2 points
+• 450-459 ms (in males) = 1 point.
+• QTc 4th minute of recovery from exercise stress test ≥480 ms = 1 point
+• Torsades de pointes = 2 points
+• Visible T-wave alternans = 1 point
+• Notched T wave in 3 leads = 1 point
+• Low heart rate for age (resting heart rate below the 2nd percentile for age) = 0.5 points.
+Clinical history
+• Syncope (cannot receive points for both syncope and torsades de pointes)
+• With stress = 2 points
+• Without stress = 1 point.
+• Congenital deafness = 0.5 points.
+Family history (the same family member cannot be counted for LQTS and sudden death)
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 13 ===
+Long QT syndrome Diagnosis
+• Family members with definite LQTS = 1 point
+• Unexplained sudden cardiac death under age 30 years among immediate family = 0.5 points.
+Resting ECG
+A resting ECG is crucial in the diagnosis of LQTS and should be undertaken in all suspected cases in
+order to confirm QT interval prolongation, help identify the LQTS subtype, and uncover any causative or
+contributory reversible factors. When measuring the QT interval, it may be helpful for the patient to move
+rapidly from lying to standing.[2]
+In a patient with documented LQTS, it is very important to obtain ECGs from parents, siblings, and
+especially any family member with presyncope or syncope.
+Careful attention must be given to the QT interval and the corrected QT interval (QTc). ECG findings
+associated with a high risk of life-threatening arrhythmias include T-wave alternans and functional 2:1
+block.[5]
+ECG showing QT prolongation (QTc = 519 ms)
+Chong DW, Ankolekar SJ, McDonald J. BMJ Case Reports. 2009; doi:10.1136/bcr.01.2009.1426
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+13
+=== Page 14 ===
+Long QT syndrome Diagnosis
+DIAGNOSIS
+ECG showing a corrected QTc interval of 760 ms
+Iniesta I, Yotti R, Garcia-Pastor A. BMJ Case Reports. 2009; doi:10.1136/bcr.06.2008.0285
+ Inspection and appreciation of the T wave and whether it is monophasic or multiphasic may also be
+helpful.
+• The QT interval is the ECG representation of ventricular depolarization and subsequent
+repolarization and may be measured in any lead in which it looks prolonged.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 15 ===
+Long QT syndrome Diagnosis
+ECG showing QT prolongation (QTc = 519 ms)
+Chong DW, Ankolekar SJ, McDonald J. BMJ Case Reports. 2009; doi:10.1136/bcr.01.2009.1426
+• QT interval is measured using either tangent or threshold methods.The threshold method,
+measured from the onset of the initial wave of the QRS complex to where the T wave returns to the
+isoelectric baseline, has probably been the most commonly used.[1] [37] In the tangent method,
+the downslope of the T wave is extrapolated to the isoelectric baseline and this intersection is used
+for the end of the T wave. One study comparing the two methods found that the tangent method
+resulted in shorter QT intervals than the threshold method, and both methods were found to have
+high validity and diagnostic accuracy; however, the two methods need different cut-off values for
+use in practice.[38]
+• The QT interval can also be measured with digital recordings using on screen calipers. Automated
+QT intervals are typically longer than manual measurements in lead II or V5 since they use the
+earliest lead for QRS onset and the latest lead for T-wave offset.[1] Some computerized ECG
+systems allow visualization of the automated QT interval (and other interval) measurements so they
+can be verified. 
+• The most commonly used formula to calculate the QTc is Bazett's formula: QT divided by the
+square root of the RR interval, where all intervals must be in seconds. The RR interval is the
+interval between each QRS complex, and should ideally be that immediately preceding the QT
+interval and averaged for 3 to 5 complexes. Sinus arrhythmia may lead to overestimation (or
+underestimation) of the QTc with 3 or even 5 complexes, so a broader average RR interval may be
+used in such cases.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+15
+=== Page 16 ===
+Long QT syndrome Diagnosis
+DIAGNOSIS
+ECG showing a corrected QTc interval of 760 ms
+Iniesta I, Yotti R, Garcia-Pastor A. BMJ Case Reports. 2009; doi:10.1136/bcr.06.2008.0285
+• Attention must be given to convert all measurements to seconds, otherwise the QTc measurement
+will be erroneous and meaningless. Online calculators are now available.
+Each subtype of LQTS shows different characteristic ECG changes, although these are not universally
+present.
+• LQT1 is characterized by prolonged QT intervals associated with a broad-based T wave.[16]
+ECG findings in type 1 long QT syndrome
+From the collection of Dr James P. Daubert
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 17 ===
+Long QT syndrome Diagnosis
+• LQT2 is characterized by low-amplitude and notched T waves.[16]
+ECG findings in type 2 long QT syndrome
+From the collection of Dr James P. Daubert
+• LQT3 is characterized by long ST segments with a late-appearing T wave resulting in a long QT
+interval.[16]
+ECG findings in type 3 long QT syndrome
+From the collection of Dr James P. Daubert
+Complete AV block, which can result in prolongation of the QT interval, or pause-dependent QT
+prolongation, resulting in acquired LQTS, show characteristic ECG changes:
+• Sinus rhythm with normal atrial rate (represented by P-wave rate)
+• No relationship between P waves and QRS complexes
+• Widening of the QRS complex
+• Ventricular rate (represented by QRS complex rate) <50 bpm.
+Electrolyte abnormalities associated with acquired LQTS show characteristic ECG changes.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+17
+=== Page 18 ===
+Long QT syndrome Diagnosis
+DIAGNOSIS
+• Hypokalemia is characterized by ST depression, flattened T waves, prominent U waves, and a
+prolonged QT interval.
+• Hypomagnesemia in itself does not have well-defined ECG abnormalities but, as it is often
+associated with hypokalemia and hypocalcemia, ECG changes associated with these may be
+present.
+• Hypocalcemia causes isolated prolongation of the QT interval.
+Serum electrolyte measurement
+Hypokalemia, hypomagnesemia, and hypocalcemia may precipitate symptoms in patients with
+unrecognized congenital LQTS or be the primary cause of acquired LQTS. Serum electrolytes should
+therefore be measured in all patients found to have a prolonged QT interval on ECG.
+Holter monitor
+All patients with suspected or confirmed congenital LQTS should undergo Holter monitoring, the main
+purpose of which is to evaluate the behavior of the QT interval during:
+• Bradycardia (at night)
+• Tachycardia
+• Sudden pauses (e.g., postextrasystolic).
+Marked changes in QT morphology during the above changes in heart rate aid diagnosis.[39]
+Holter monitoring may also allow the clinician to identify nonsustained ventricular arrhythmias in patients
+with LQTS who are asymptomatic, thereby assisting the decision-making process as to whether medical
+and/or device therapy should be initiated. A Holter monitor-derived "QT clock" may be used to improve
+detection of QT prolongation.[39]
+Exercise tolerance testing
+All patients with suspected or confirmed congenital LQTS should undergo an exercise tolerance test to
+identify abnormal QT interval prolongation during exercise and recovery, which is helpful in:
+• Diagnosing LQTS, especially LQT1, in which the QT interval and QTc increase more than those of
+the controls or LQT2 and LQT3 patients
+• Diagnosing LQTS when the QT interval is borderline prolonged
+• Assisting in the prescription of a maximum exercise level for patients presenting with exercise-
+induced symptoms of presyncope or syncope, by simulating similar circumstances in a controlled
+environment.
+Echocardiography
+Echocardiography is helpful to assess for and rule out regional wall motion abnormalities suggestive
+of myocardial scarring or infarction. It is also helpful in ruling out and characterizing valvular stenotic or
+regurgitant lesions.
+This investigation should be carried out in patients with suspected structural heart disease as suggested
+by a history of coronary artery disease, myocardial infarction, or valvular heart disease requiring surgical
+correction. SCN5A mutations in LQT3 may also exhibit cardiomyopathy.[40]
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 19 ===
+Long QT syndrome Diagnosis
+Genetic testing
+Determination of the patient's genotype is recommended for all patients with a high probability of
+congenital LQTS (Schwartz score ≥3.5).[5] [41] For patients with an intermediate probability of congenital
+LQTS (Schwartz score 1.5 to 3), testing of established genes may be considered, mainly to help rule out
+a diagnosis.[5] Definitive disease-associated genes are currently KCNQ1, KCNH2, SCN5A, and CALM
+1, 2, and 3; in patients with a high probability of congenital LQTS, CACNA1C and KCNE1 may also be
+considered.[5] For patients with defined syndromes, specific genes should be tested, for example KCNQ1
+and KCNE1 in Jervell and Lange-Nielsen syndrome, or CACNA1C in Timothy syndrome.[5]
+The identification of specific gene mutations enables:[5]
+• Pinpointing of the exact channelopathy responsible for the LQTS, thus identifying the subtype
+• Risk stratification of patients with congenital LQTS
+• Mapping of the mutation's inheritance so that family members can be screened
+• Initiation of gene-specific prophylactic treatment.
+Genetic testing has a sensitivity of approximately 70% to 85% in index cases.[2] [5] It requires expert
+interpretation, and can be costly.[5] [42] In the absence of a family history of LQTS, it is not indicated for
+asymptomatic individuals with borderline QTc intervals (<480 ms). However, genetic testing is indicated
+when there is a very strong clinical diagnosis or when the QTc exceeds 500 ms on serial ECGs and a
+reversible cause is absent.[5] [42]
+Certain genetic subtypes are associated with particularly severe phenotypes that have a higher incidence
+of sudden cardiac death (such as KCNQ1-A341V or SCN5A-G1631D), whereas others are associated
+with milder disease.[5] Patients with multiple LQTS gene mutations are at higher risk for breakthrough
+cardiac events during follow-up.[43] Family members should have variant-specific genetic testing once
+a disease-causing variant has been identified in an index case. Early identification of affected family
+members is important, even in those with a normal baseline QTc, and genetic testing can be carried out in
+children from birth.[2] [5]
+In patients with acquired LQTS, genetic testing for defined disease-associated genes should be offered to
+those who experienced drug-induced torsades de pointes, are ages <40 years, and have a QTc interval
+>440 ms (males) and >450 ms (females) in the absence of the likely causative drug.[5] In these patients,
+a variant can be identified in >60% of cases.[5] Family screening is recommended for patients where a
+QT-prolonging drug is prescribed or being considered.[5]
+European Society of Cardiology guidelines recommend that a diagnosis of LQTS is made in the presence
+of a pathogenic mutation, regardless of QT interval.[2]
+Epinephrine test
+This test involves a catecholamine challenge with a brief infusion of epinephrine and must be performed
+with immediate access to advanced life support and external defibrillation. It is not recommended by
+European guidelines due to low reproducibility.[2] However, it may be helpful in the diagnosis of LQT1 in
+which the QT interval and QTc increase more than those of the controls or LQT2 and LQT3 patients.[44]
+Electrophysiology study
+Investigating for inducible ventricular arrhythmias using electrophysiology studies has not been shown to
+have significant value in the diagnosis, treatment, or risk stratification of patients with LQTS.[2]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+19
+=== Page 20 ===
+Long QT syndrome Diagnosis
+DIAGNOSIS
+History and exam
+Key diagnostic factors
+history of known gene mutation (common)
+• Includes KCNQ1 gene mutations, KCNH2 gene mutations, SCN5A gene mutations, and CALM gene
+mutations.
+use of drugs or circumstances known to increase the QT interval (common)
+• Some of the drugs known to prolong the QT interval or cause depletion of potassium and/
+or magnesium are quinidine, procainamide, sotalol, amiodarone, disopyramide, dofetilide,
+phenothiazines, tricyclic antidepressants, and methadone.[21] [22]  [Credible Meds (Arizona CERT):
+drugs that prolong the QT interval] (https://crediblemeds.org/index.php/login/dlcheck)  Certain cancer
+treatments are also known to cause QT prolongation, e.g., kinase inhibitors, growth factor inhibitors,
+androgen-deprivation therapies, and chimeric antigen receptor T-cell therapies.[23] [24] 
+• Electrolyte imbalances and bradyarrhythmias may result in QT prolongation.
+syncope during heightened adrenergic tones (common)
+• Patients with LQT1 typically have cardiac events during exercise, particularly swimming.
+syncope during arousal or surprise (common)
+• Patients with LQT2 commonly have cardiac events during arousal or when startled, as by a telephone
+or alarm clock.
+arrhythmic symptoms postpartum (common)
+• Female patients with LQT2 are more prone to developing arrhythmic symptoms during the first 9
+postpartum months.[35]
+syncope at rest and during bradycardia (common)
+• Patients with LQT3 commonly have cardiac events at rest and during bradycardia.
+cardiac syncope (common)
+• Normally secondary to ventricular tachyarrhythmias or bradyarrhythmias.
+• Characterized by premonitory symptoms such as palpitations, chest pain, and dyspnea. During the
+syncopal episode, pallor and cyanosis are common features, and the recovery period is brief and
+characterized by flushing.
+• Complete atrioventricular block may present with cardiac syncope.
+palpitations (common)
+• Congenital and acquired LQTS may present with palpitations secondary to premature ventricular
+complex and tachyarrhythmias including torsades de pointes.
+periodic paralysis (uncommon)
+• Patients with Andersen-Tawil syndrome have periodic paralysis (transient paralysis involving any part
+of the body and lasting seconds to hours, typically resolving spontaneously and sometimes associated
+with confusion and altered mental status).
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 21 ===
+Long QT syndrome Diagnosis
+dysmorphic features (uncommon)
+• Patients with Andersen-Tawil syndrome have a variety of dysmorphic features[10] including
+micrognathia, low-set ears, widely spaced eyes, clinodactyly, syndactyly, and scoliosis. The very rare
+Timothy syndrome (LQT8) can include dysmorphic features such as small upper jaw, low set ears,
+flattened nasal bridge, and cutaneous syndactyly.
+sensorineural deafness (uncommon)
+• Jervell and Lange-Nielsen syndrome is a very severe form of LQTS associated with sensorineural
+deafness.[9]
+Other diagnostic factors
+dizziness (common)
+• Consequence of poor cerebral perfusion due to reduced cardiac output in complete atrioventricular
+block and transient ventricular tachyarrhythmias or torsades de pointes.
+angina (uncommon)
+• Potential symptom of complete atrioventricular block.
+fatigue (uncommon)
+• Fatigue, listlessness, and poor effort tolerance are symptoms of reduced cardiac output in complete
+atrioventricular block.
+oliguria (uncommon)
+• Consequence of poor renal perfusion due to reduced cardiac output in complete atrioventricular block.
+muscle weakness (uncommon)
+• Although hypokalemia is normally asymptomatic, it may cause muscle weakness if severe.
+tetany (uncommon)
+• Hypocalcemia causes tetany, which manifests as carpopedal spasm.
+numbness (uncommon)
+• Hypocalcemia causes numbness periorally and in the extremities.
+Chvostek's sign (uncommon)
+• Twitching of facial muscles in response to tapping the facial nerve in the area of the parotid gland,
+elicited in hypocalcemia.
+Trousseau's sign (uncommon)
+• Carpopedal spasm in response to inflation of a blood pressure (BP) cuff creating pressure in the upper
+limb greater than systolic BP, elicited in hypocalcemia.
+cold and pale extremities (uncommon)
+• Signs of reduced cardiac output secondary to compensatory peripheral vasoconstriction may be
+present in complete atrioventricular block.
+• Extremities may be cyanosed and clammy.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+21
+=== Page 22 ===
+Long QT syndrome Diagnosis
+DIAGNOSIS
+hypotension (uncommon)
+• Sign of reduced cardiac output in complete atrioventricular block.
+confusion (uncommon)
+• Consequence of poor cerebral perfusion due to reduced cardiac output in complete atrioventricular
+block.
+Risk factors
+Strong
+KCNQ1 gene mutations
+• LQT1 arises from mutations in the KCNQ1 gene. KCNQ1 mutations are the most commonly identified
+in genotyped patients. A homozygous mutation in KCNQ1 results in the autosomal recessive Jervell
+and Lange-Nielsen syndrome.[16]
+KCNH2 gene mutations
+• LQT2 arises from mutations in the KCNH2 gene. KCNH2 mutations are the second most commonly
+identified, accounting for up to 35% to 45% of genotyped patients.[16]
+SCN5A gene mutations
+• LQT3 arises from mutations in the SCN5A gene.[16]
+QT interval-prolonging drugs
+• Ingestion of drugs known to prolong the QT interval is a recognized risk factor in the development of
+acquired LQTS, and may reveal subclinical congenital LQTS.[27]
+• Some of the drugs known to prolong the QT interval or cause depletion of potassium and/or
+magnesium include quinidine, procainamide, sotalol, amiodarone, disopyramide, dofetilide,
+phenothiazines, tricyclic antidepressants, and methadone.[21] [22]  [Credible Meds (Arizona CERT):
+drugs that prolong the QT interval] (https://crediblemeds.org/index.php/login/dlcheck)  Certain cancer
+treatments are also known to cause QT prolongation, e.g., kinase inhibitors, growth factor inhibitors,
+androgen-deprivation therapies, and chimeric antigen receptor T-cell therapies.[23] [24]
+hypokalemia
+• Hypokalemia causes hyperpolarization of myocardial cell membranes with consequent prolongation of
+repolarization, thus prolonging the QT interval.
+hypomagnesemia
+• Hypomagnesemia causes early afterdepolarizations, which in turn lead to prolonged repolarization of
+myocardial cells, thus prolonging the QT interval.
+hypocalcemia
+• Hypocalcemia prolongs the plateau phase of the action potential, thereby prolonging repolarization of
+myocardial cells, thus prolonging the QT interval.
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 23 ===
+Long QT syndrome Diagnosis
+bradyarrhythmias
+• Any sudden bradycardia or atrioventricular nodal block may result in QT prolongation or pause-
+dependent QT prolongation.
+central nervous system lesions
+• Lesions such as intracranial hemorrhage (especially subarachnoid hemorrhage) and ischemic strokes.
+Weak
+female sex
+• LQTS is more commonly diagnosed in women, which may be a spurious observation resulting from
+the higher upper limit for the corrected QT interval (QTc) in postpubertal females than in males (460
+ms and 450 ms, respectively), although one report suggests a slightly higher incidence in females on
+the basis of genetics.[15]
+• In early childhood, boys with LQT1 are more likely to experience syncope or sudden death, but boys
+are less likely than girls to have symptoms later in life.[8] [28]
+• Women with LQT2 appear to be at higher risk of cardiac arrest, syncope, and/or sudden death than
+men and remain at risk into adulthood.[29] [30]
+• Number of overall deaths is greater in women than in men.[28]
+malnutrition
+• Starvation and a liquid protein diet are known triggers of a prolonged QT interval.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+23
+=== Page 24 ===
+Long QT syndrome Diagnosis
+DIAGNOSIS
+Investigations
+1st test to order
+Test Result
+ECG for LQT1
+• Resting ECG for LQT1.
+ECG findings in type 1 long QT syndrome
+From the collection of Dr James P. Daubert
+• Should be undertaken in all suspected cases.[16]
+• QT interval and corrected QT interval (QTc) should be assessed.
+• T-wave morphology (monophasic or multiphasic) should be
+assessed.
+• QT interval is measured using either tangent or threshold methods.
+• QTc calculated using Bazett's formula: QT divided by the square root
+of the RR interval, where the RR interval is the interval between each
+QRS complex (ideally that immediately preceding the QT interval and
+averaged for 3 to 5 complexes).
+• All measurements in seconds.
+prolonged QT intervals
+associated with a broad-
+based T wave
+ECG for LQT2
+• Resting ECG for LQT2.
+low-amplitude and
+notched T waves
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 25 ===
+Long QT syndrome Diagnosis
+Test Result
+ECG findings in type 2 long QT syndrome
+From the collection of Dr James P. Daubert
+• Should be undertaken in all suspected cases.[16]
+• QT interval and QTc should be assessed.
+• T-wave morphology (monophasic or multiphasic) should be
+assessed.
+• QT interval is measured using either tangent or threshold methods.
+• QTc calculated using Bazett's formula: QT divided by the square root
+of the RR interval, where the RR interval is the interval between each
+QRS complex (ideally that immediately preceding the QT interval and
+averaged for 3 to 5 complexes).
+• All measurements in seconds.
+ECG for LQT3
+• Resting ECG for LQT3.
+ECG findings in type 3 long QT syndrome
+From the collection of Dr James P. Daubert
+• Should be undertaken in all suspected cases.[16]
+• QT interval and QTc should be assessed.
+• T-wave morphology (monophasic or multiphasic) should be
+assessed.
+• QT interval is measured using either tangent or threshold methods.
+• QTc calculated using Bazett's formula: QT divided by the square root
+of the RR interval, where the RR interval is the interval between each
+QRS complex (ideally that immediately preceding the QT interval and
+averaged for 3 to 5 complexes).
+• All measurements in seconds.
+long ST segments with
+a late-appearing T wave
+resulting in a long QT
+interval
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+25
+=== Page 26 ===
+Long QT syndrome Diagnosis
+DIAGNOSIS
+Test Result
+ECG for hypokalemia and hypomagnesemia
+• Hypokalemia is a known cause of acquired LQTS.
+• Should be undertaken in all suspected cases.
+• QT interval and QTc should be assessed.
+• T-wave morphology (monophasic or multiphasic) should be
+assessed.
+• QT interval is measured using either tangent or threshold methods.
+• QTc calculated using Bazett's formula: QT divided by the square root
+of the RR interval, where the RR interval is the interval between each
+QRS complex (ideally that immediately preceding the QT interval and
+averaged for 3 to 5 complexes).
+• All measurements in seconds.
+ST depression, flattened
+T waves, prominent U
+waves, and prolonged QT
+interval in hypokalemia;
+ECG changes of
+coexisting hypokalemia in
+hypomagnesemia
+ECG for hypocalcemia
+• Hypocalcemia is a known cause of acquired LQTS.
+• Should be undertaken in all suspected cases.
+• QT interval and QTc should be assessed.
+• T-wave morphology (monophasic or multiphasic) should be
+assessed.
+• QT interval is measured using either tangent or threshold methods.
+• QTc calculated using Bazett's formula: QT divided by the square root
+of the RR interval, where the RR interval is the interval between each
+QRS complex (ideally that immediately preceding the QT interval and
+averaged for 3 to 5 complexes).
+• All measurements in seconds.
+isolated prolongation of
+the QT interval
+ECG for complete atrioventricular (AV) block
+• AV nodal block may result in QT prolongation or pause-dependent
+QT prolongation.
+sinus rhythm with normal
+atrial rate (represented
+by P-wave rate), no
+relationship between
+P waves and QRS
+complexes, widening of
+QRS complex, ventricular
+rate (represented by QRS
+complex rate) <50 bpm
+serum potassium
+• Hypokalemia may precipitate symptoms in patients with unrecognized
+congenital LQTS or be the primary cause of acquired LQTS.
+hypokalemia
+serum magnesium
+• Hypomagnesemia may precipitate symptoms in patients with
+unrecognized congenital LQTS or be the primary cause of acquired
+LQTS.
+hypomagnesemia
+serum calcium
+• Hypocalcemia may precipitate symptoms in patients with
+unrecognized congenital LQTS or be the primary cause of acquired
+LQTS.
+hypocalcemia
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 27 ===
+Long QT syndrome Diagnosis
+Other tests to consider
+Test Result
+Holter monitor
+• To evaluate the behavior of the QT interval during bradycardia (at
+night), tachycardia, or sudden pauses (e.g., postextrasystolic).
+• To identify nonsustained ventricular arrhythmias in asymptomatic
+patients with LQTS.
+• A Holter monitor-derived "QT clock" may be used to improve
+detection of QT prolongation.[39]
+intermittent QT and
+corrected QT interval
+prolongation associated
+with ventricular
+arrhythmias
+exercise tolerance test
+• Especially useful in the diagnosis of LQT1.
+• QT and corrected QT interval increase more in LQT1 than in LQT2
+and LQT3.
+• Useful for diagnosis when the QT interval is borderline prolonged.
+• Assists in the prescription of a maximum exercise level for patients
+presenting with exercise-induced symptoms of presyncope or
+syncope.
+QT and corrected QT
+interval prolongation
+echocardiography
+• To assess for and rule out regional wall motion abnormalities
+suggestive of myocardial scarring or infarction.
+• Helpful in ruling out and characterizing valvular stenotic or regurgitant
+lesions.
+assessment of regional
+wall motion and valve
+function
+genetic testing
+• Pinpoints the channelopathy responsible for the LQTS, thus
+identifying the subtype.[41]
+• Aids risk stratification of patients.
+• Allows mapping of the mutation's inheritance so family members can
+be screened.
+• Relatively low sensitivity of approximately 70%, requires expert
+interpretation, and is very costly.[5] [42] In the absence of a family
+history of LQTS, it is not indicated for asymptomatic individuals
+with borderline QTc intervals (<480 ms). However, genetic testing
+is indicated when there is a very strong clinical diagnosis or when
+the QTc exceeds 500 ms on serial ECGs and a reversible cause is
+absent.[5] [42]
+• Patients with multiple LQTS gene mutations are at higher risk for
+breakthrough cardiac events during follow-up.[43]
+mutations in the KCNQ1
+gene in LQT1, mutations
+in the KCNH2 gene in
+LQT2, mutations in the
+SCN5A gene in LQT3
+epinephrine test
+• Must be performed with immediate access to advanced life support
+and external defibrillation.
+• Especially useful in the diagnosis of LQT1.
+QT and corrected QT
+interval prolongation
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+27
+=== Page 28 ===
+Long QT syndrome Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Acquired structural heart
+disease
+• History of coronary artery
+disease (CAD), myocardial
+infarction (MI), or valvular
+heart disease requiring
+surgical correction.
+• Echocardiographic
+changes consistent with
+CAD, previous MI, and
+valvular heart disease.
+Echocardiography may
+show regional left ventricular
+wall motion abnormalities
+suggestive of infarction
+and/or scarring. Valvular
+lesions such as regurgitant
+and/or stenotic valves
+in combination with left
+ventricular dysfunction
+may be identified by
+echocardiography.
+• ECG changes consistent
+with previous MI
+characterized by presence of
+Q waves.
+Neurocardiogenic
+(vasovagal) syncope
+• Triggers include cough,
+micturition, defecation,
+swallowing, upright posture,
+prolonged standing, heat,
+and hunger.
+• Premonitory symptoms
+include sweating, feeling hot,
+and nausea.
+• Recovery period: nausea
+and vomiting.
+• BP measurement may show
+orthostatic hypotension,
+particularly when provoked
+during a tilt table test.
+• ECG shows normal QT
+interval.
+Neurologic syncope • Triggers include anxiety
+and stress in panic attack;
+fatigue, stress, and missed
+meals in migraine.
+• Premonitory symptoms
+include hyperventilation,
+paresthesiae in fingers
+and lips in panic attack;
+headache, visual
+disturbance, sensitivity to
+light and sound in migraine.
+• ECG shows normal QT
+interval.
+Catecholaminergic
+polymorphic ventricular
+tachyarrhythmias
+• No differentiating signs or
+symptoms.
+• History extremely similar
+to that of LQTS, with
+arrhythmias triggered
+• ECG is unremarkable at
+rest, with no significant
+prolongation of QT interval.
+• Exercise test provokes
+premature ventricular
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 29 ===
+Long QT syndrome Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+by physical activity and
+emotional stress.
+contractions with
+bidirectional ventricular
+tachyarrhythmias on ECG.
+• Genetic testing shows
+mutations in the RyR2 gene
+in autosomal dominant
+inheritance and mutations
+in the CASQ2 gene in
+autosomal recessive
+inheritance.
+Epilepsy • Triggers include inadequate
+sleep, alcohol, photic
+stimulation, drugs.
+• Premonitory symptoms:
+aura.
+• Syncopal episode:
+convulsive movement,
+tongue biting, and
+incontinence.
+• Recovery period: prolonged
+postictal state.
+• EEG shows epileptiform
+abnormalities.
+• ECG shows normal QT
+interval.
+Criteria
+Schwartz criteria (1993-2012 LQTS diagnostic criteria)[32][33]
+The Schwartz criteria are diagnostic criteria for LQTS and are distinct from the criteria used to risk-stratify
+patients with known LQTS.
+Points are assigned to ECG, clinical, and familial findings. Patients with 3.5 or more points have a high
+probability of having LQTS, those with 1.5 or 3 points have an intermediate probability, and those with 1 or no
+points have a low probability of having LQTS.
+ECG findings (in the absence of medications or disorders known to affect these features)
+• Corrected QT interval (QTc), defined as QT interval (in seconds) divided by the square root of the RR
+interval (in seconds):
+• ≥480 ms = 3 points
+• 460-479 ms = 2 points
+• 450-459 ms (in males) = 1 point
+• QTc 4th minute of recovery from exercise stress test ≥480 ms = 1 point
+• Torsades de pointes = 2 points
+• Visible T-wave alternans = 1 point
+• Notched T wave in 3 leads = 1 point
+• Low heart rate for age (resting heart rate below the 2nd percentile for age) = 0.5 points.
+Clinical history
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+29
+=== Page 30 ===
+Long QT syndrome Diagnosis
+DIAGNOSIS
+• Syncope (cannot receive points for both syncope and torsades de pointes)
+• With stress = 2 points
+• Without stress = 1 point.
+• Congenital deafness = 0.5 points.
+Family history (the same family member cannot be counted for LQTS and sudden death)
+• Family members with definite LQTS = 1 point
+• Unexplained sudden cardiac death under age 30 years among immediate family = 0.5 points.
+Screening
+Prenatal screening
+Fetal genetic screening may allow determination of the presence of a given mutation, although the
+phenotypic penetrance of the mutation in utero cannot be determined solely on the basis of the genotype.
+Fetal genetic screening is not performed in routine clinical practice.
+12-lead ECG
+Although not universally implemented, in parts of Italy infants and young athletes are screened by ECG for
+LQTS.[45] [46]
+Models using a 12-lead ECG to screen newborns for LQTS have been developed that appear to be cost-
+effective and successful in improving survival.[47]
+In the US, there is no screening program of asymptomatic people for LQTS.
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 31 ===
+Long QT syndrome Management
+Approach
+Given the increasing prevalence of LQTS and the associated risk of sudden cardiac death, primary care
+providers are likely to find themselves encountering challenging management decisions.
+The mainstay of treatment for LQTS, unless there is an identifiable reversible cause, is lifestyle modification
+and beta-blocker therapy with the implantation of a cardioverter-defibrillator (ICD) in patients who have had a
+previous cardiac arrest and in those continuing to have symptoms despite beta-blockade.
+Acquired LQTS
+In acquired LQTS, management involves thorough assessment in order to identify and remove or treat the
+causative factor.
+• Drug history should be taken to identify and remove drugs known to prolong the QT interval
+or cause depletion of potassium and/or magnesium, including quinidine, procainamide,
+sotalol, amiodarone, disopyramide, dofetilide, phenothiazines, tricyclic antidepressants, and
+methadone.[21] [22]  [Credible Meds (Arizona CERT): drugs that prolong the QT interval] (https://
+crediblemeds.org/index.php/login/dlcheck)
+• Serum electrolytes should be measured and corrected, in cases of hypokalemia, hypomagnesemia,
+and hypocalcemia; the goals of therapy include achieving a “high normal” potassium (of at least 4.0
+to 4.5 mEq).
+• Follow-up serial, periodic ECG monitoring is recommended until the QT interval has normalized.
+• Any sudden bradycardia or atrioventricular (AV) nodal block may result in QT prolongation or
+pause-dependent QT prolongation. If an identifiable cause is not present, treatment involves
+implantation of a pacemaker (temporarily if the bradycardia or AV block improves, permanently if
+symptomatic bradycardia or AV block persists).
+• Beta-blocker therapy, and lifestyle modification with avoidance of any further QT-prolonging drugs
+and monitoring, are indicated if removal of the causative drug is not possible due to medical
+necessity.
+• Prophylactic treatment with beta-blockers and lifestyle modification are not indicated in these
+patients if the QT-prolonging agent is identified and removed.
+• Cardiac events may include syncope, ventricular tachyarrhythmias, torsades de pointes, or cardiac
+arrest. For details of management, see Sustained ventricular tachycardias  and Cardiac arrest .
+Some patients with acquired LQTS may ultimately be diagnosed with congenital LQTS, and they should
+be managed as other patients with congenital LQTS (e.g., with beta-blockers, lifestyle modifications, and
+consideration of ICD).
+Congenital LQTS without previous cardiac event
+Treatment of congenital LQTS in patients without a previous cardiac event (e.g., syncope, ventricular
+tachyarrhythmias, torsades de pointes, or cardiac arrest) is dependent on whether the patient is at low- or
+high-risk of events.
+Low risk (probability of first cardiac event before age 40 of <49%) is defined as: men or women with LQT1
+or LQT2 and QTc <500 ms; men with LQT3 and QTc <500 ms; women with LQT3 (irrespective of level of
+QTc prolongation).
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+31
+=== Page 32 ===
+Long QT syndrome Management
+MANAGEMENT
+High risk (probability of first cardiac event 50% or higher) is defined as: men or women with LQT1 or
+LQT2 and QTc ≥500 ms; men with LQT3 and QTc ≥500 ms.[29]
+The 1-2-3 LQTS risk calculator is an alternative risk stratification tool that estimates the 5-year risk of life-
+threatening arrhythmias for patients with LQTS based on QT interval and genotype; it may assist in the
+identification of patients who would benefit from ICD placement.[2] [48]
+Low risk:
+• Lifestyle modification and monitoring
+• Patients with LQT1 are at increased risk with activities that increase sympathetic activation,
+such as swimming, emotional stress, and exercise; they should avoid swimming unless
+cleared by LQTS experts, and should avoid extreme exertion until under optimal therapy and
+fully counseled.[5]
+• Patients with LQT2 are at high risk if woken from sleep or disturbed by a sudden noise.[5]
+Removal of alarm clocks and telephones from bedrooms is recommended.[5]
+• In general, competitive sports or similar extreme exertion should be avoided by patients with
+LQTS. However, patients who wish to engage in competitive sports should be referred for
+expert evaluation for risk stratification.[3] In one retrospective analysis of a cohort of patients
+with genotype-positive LQTS who were treatment-adherent, their participation in competitive
+or recreational sports was not associated with cardiac events or death.[49] Activities that are
+of low risk include golf, curling, cricket, billiards, or bowling.[50] Noncompetitive swimming,
+especially for LQT1 patients, must be limited and, if performed, should be done under close
+supervision. Selected low-risk patients without a history of exercise-induced symptoms may
+be considered for sports participation in consultation with an expert in LQTS and with careful
+education and consideration of options.[51]
+• All patients must avoid other sympathomimetics and factors that may prolong the QT interval,
+such as drugs including quinidine, procainamide, sotalol, amiodarone, disopyramide,
+dofetilide, phenothiazines, tricyclic antidepressants, and methadone.[21] [22]  [Credible Meds
+(Arizona CERT): drugs that prolong the QT interval] (https://crediblemeds.org/index.php/
+login/dlcheck)  Consult a drug formulary for a full list of drugs that prolong the QT interval.
+• Electrolyte loss due to vomiting, diarrhea, or excessive sweating should be replaced with
+electrolyte solutions in order to avoid hypokalemia and hypomagnesemia. Patients with
+LQT2 particularly require adequate potassium levels, and oral supplementation may be
+beneficial.[5]
+• Beta-blockers
+• The mainstay of medical treatment for patients with congenital LQTS is beta-blocker therapy,
+ideally nonselective beta-blockers (e.g., nadolol, propranolol).[2] As ventricular arrhythmias
+may arise during a state of high adrenergic tone, particularly increasing the occurrence of
+afterdepolarizations, beta-blockers are used to blunt adrenergic stimulation.
+• Beta-blockers themselves will not shorten the QT interval, but their use is thought to
+prevent ventricular tachyarrhythmias, although they may provide less protection to patients
+with LQT3. Data from one study show that beta-blocker therapy reduces the risk of life-
+threatening cardiac events in females with LQT3; however, efficacy in males could not be
+determined conclusively because of the low number of events.[52]
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 33 ===
+Long QT syndrome Management
+• The efficacy of beta-blocker therapy may be assessed with exercise tolerance testing to
+ensure the heart rate response is blunted.
+• Although no randomized controlled trials exist, observational data suggest a strong mortality
+benefit with beta-blocker therapy.[28] [53]
+• Beta-blocker therapy should also be considered in patients with a normal QTc interval in the
+presence of a pathogenic mutation.[2]
+High risk:
+• Lifestyle modification and monitoring: the recommendations are the same as for low-risk patients.
+• Beta-blockers: the recommendations are the same as for low-risk patients.
+• Implantable cardioverter-defibrillator (ICD): in Jervell and Lange-Nielsen syndrome and in certain
+very high-risk patients with LQT1, LQT2, or LQT3, ICD can be considered but expert consultation
+should be sought first.[2] This should include a discussion regarding the risks of not having an ICD
+and the advantages/disadvantages of an ICD, single- or dual-chamber depending on the individual
+patient and following specialist cardiologist or electrophysiologist advice.
+• Mexiletine: should be considered in patients with confirmed LQT3, especially those with syncope
+or ICD shocks despite beta-blocker therapy; use in other genotypes is being investigated.[5] [54]
+[55] Oral testing should be carried out to ensure that the QTc is shortened by at least 40ms before
+prescribing mexiletine long term.[2] There is currently no evidence on whether mexiletine should be
+given alone or in combination with beta-blocker therapy for patients with LQT3.[2]
+• Left cardiac sympathetic denervation: may be considered in patients with recurrent syncope despite
+treatment with beta-blockers or in those requiring multiple appropriate ICD shocks.[2] It may also be
+an option in patients who are deemed not to be ideal candidates for an ICD, such as children, due
+to the physical limitations of age and height and the psychologic distress of ICD shocks. 
+Congenital LQTS with previous cardiac event
+Cardiac events may include syncope, ventricular tachyarrhythmias, torsades de pointes, or cardiac arrest.
+For details of management, see Sustained ventricular tachycardias  and Cardiac arrest .
+Lifestyle modification
+• Required in all patients with congenital LQTS; the recommendations are the same as for patients
+without a previous cardiac event.
+Beta-blocker therapy
+• Required in all patients with congenital LQTS; the recommendations are the same as for patients
+without a previous cardiac event.
+Implantable cardioverter-defibrillator (ICD)
+• Use of an ICD, in conjunction with beta-blockers, has proven invaluable in the treatment of patients
+with LQTS who have recurrent arrhythmic syncope or documented torsades de pointes despite
+optimally dosed beta-blocker therapy.[2] [56] [57]
+• ICDs are now considered appropriate therapy for:
+• Patients who have had a previous cardiac arrest.[2]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+33
+=== Page 34 ===
+Long QT syndrome Management
+MANAGEMENT
+• Those with recurrent arrhythmic syncope despite beta-blocker therapy, or in those whom
+beta-blocker therapy is contraindicated or not tolerated.[2]
+• Some patients with high-risk LQTS, especially patients with LQT2 or those with multiple
+mutations.[58]
+• Jervell and Lange-Nielsen syndrome.
+Mexiletine
+• Should be considered in patients with confirmed LQT3, especially those with syncope or ICD
+shocks despite beta-blocker therapy; use in other genotypes is being investigated.[2] [5] [54] [55]
+Left cardiac sympathetic denervation
+• Sometimes called stellate ganglionectomy, this procedure involves surgical resection of the lower
+half of the left stellate ganglion along with several other thoracic ganglia (T2 to T4) in an attempt to
+partially denervate the heart.[59]
+• This procedure is available at specialized medical centers and referral should be considered for:
+• Patients who cannot tolerate beta-blockers or in whom beta-blockers are contraindicated[2]
+• Those with recurrent arrhythmic syncope despite beta-blocker therapy[2]
+• Patients receiving multiple ICD shocks[2]
+• Patients in whom ICD implantation is contraindicated or declined[2]
+• Children in whom an ICD, due to the physical limitations of age and height and the
+psychological distress of ICD shocks, is not appropriate.
+• Jervell and Lange-Nielsen syndrome.
+• Development of a minimally invasive thoracoscopic approach makes left cardiac sympathetic
+denervation a more attractive option for these patients. Left cardiac sympathetic denervation is well
+tolerated and does not negatively affect cardiovascular performance.[2] Side effects may occur with
+this treatment though, and breakthrough events occur in half of the patients after the procedure.[2]
+[60]
+Permanent pacemaker
+• When combined with beta-blockers, atrial (or, less optimally, ventricular) pacing, which prevents
+bradycardia, may facilitate the uptitration of beta-blockers to more effective antiarrhythmic doses
+and can also serve to prevent pause-dependent torsades de pointes.[61]
+• A permanent pacemaker in conjunction with beta-blocker therapy should be considered if:
+• The patient continues to have symptoms despite a left cardiac sympathetic denervation
+• There is a lack of surgical experience in thoracoscopic left cardiac sympathetic denervation
+(and the patient declines referral to a specialized center).
+• However, no randomized study exists comparing the efficacy of pacemakers combined with beta-
+blockers versus ICDs in preventing symptoms in patients with LQTS. Pacemakers are infrequently
+used in LQTS given the similar risks of indwelling leads that an ICD system has and lack of back-up
+defibrillation.
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 35 ===
+Long QT syndrome Management
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+acquired LQTS
+1st removal or treatment of causative factor(s)
+adjunct beta-blocker, lifestyle modification, and
+monitoring
+congenital LQTS without previous
+cardiac event
+low risk 1st lifestyle modification and monitoring
+plus beta-blocker
+high risk 1st lifestyle modification and monitoring
+plus beta-blocker
+adjunct left cardiac sympathetic denervation
+adjunct implantable cardioverter-defibrillator (ICD)
+adjunct mexiletine
+congenital LQTS with previous
+cardiac event
+1st beta-blocker
+plus lifestyle modification and monitoring
+adjunct implantable cardioverter-defibrillator (ICD)
+adjunct mexiletine
+2nd left cardiac sympathetic denervation
+plus continue beta-blocker, lifestyle
+modification, and monitoring
+3rd permanent pacemaker
+plus continue beta-blocker, lifestyle
+modification, and monitoring
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+35
+=== Page 36 ===
+Long QT syndrome Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+acquired LQTS
+1st removal or treatment of causative factor(s)
+» In acquired LQTS, management involves
+thorough assessment in order to identify and
+remove or treat the causative factor.
+» Take a drug history to identify and remove
+drugs known to prolong the QT interval
+or cause depletion of potassium and/or
+magnesium.[21] [22]  [Credible Meds (Arizona
+CERT): drugs that prolong the QT interval]
+(https://crediblemeds.org/index.php/login/
+dlcheck)  Consult a drug formulary for a full list of
+drugs that prolong the QT interval.
+» Measure serum electrolytes and correct
+hypokalemia, hypomagnesemia, and
+hypocalcemia; the goals of therapy include
+achieving a “high normal” potassium (of at least
+4.0 to 4.5 mEq).
+» Follow-up serial, periodic ECG monitoring until
+QT interval has normalized.
+» Any sudden bradycardia or atrioventricular
+(AV) nodal block may result in QT prolongation
+or pause-dependent QT prolongation. If an
+identifiable cause is not present, treatment
+involves implantation of a pacemaker (temporary
+if the bradycardia or AV block improves,
+permanent if symptomatic bradycardia or AV
+block persists).
+» Prophylactic treatment with beta-blockers and
+lifestyle modification are not indicated in these
+patients if the QT-prolonging agent is identified
+and removed.
+» Cardiac events may include syncope,
+ventricular tachyarrhythmias, torsades de
+pointes, or cardiac arrest. For details of
+management, see Sustained ventricular
+tachycardias  and Cardiac arrest .
+adjunct beta-blocker, lifestyle modification, and
+monitoring
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 37 ===
+Long QT syndrome Management
+Acute
+» nadolol: adults: 40 mg orally once daily
+initially, increase according to response,
+maximum 320 mg/day
+OR
+» propranolol hydrochloride: neonates:
+consult specialist for guidance on dose;
+children: 1 mg/kg/day orally (immediate-
+release) given in 3 divided doses initially,
+increase according to response, maximum
+8 mg/kg/day; adults: 30-160 mg/day orally
+(immediate-release) given in 3 divided doses
+» Beta-blockers and lifestyle modifications may
+be indicated if removal of the causative drug is
+not possible due to medical necessity.
+» Ideally nonselective beta-blockers (e.g.,
+nadolol, propranolol) are used.[2]
+» As ventricular arrhythmias may arise
+during a state of high adrenergic tone,
+particularly increasing the occurrence of
+afterdepolarizations, beta-blockers are used
+to blunt adrenergic stimulation. Beta-blockers
+themselves do not shorten the QT interval,
+but their use is thought to prevent ventricular
+tachyarrhythmias.
+» Low-dose beta-blockers are prescribed initially
+and titrated up as tolerated.
+» Dose adjustments may be required to avoid
+symptomatic bradycardia.
+» Electrolyte loss due to vomiting, diarrhea, or
+excessive sweating should be replaced with
+electrolyte solutions.
+» Sympathomimetics, factors that may prolong
+the QT interval, and startling acoustic stimulation
+such as alarm clocks should be avoided.
+» Generally, competitive sports and extreme
+exertion should be avoided. However, patients
+who wish to engage in competitive sports
+should be referred for expert evaluation for
+risk stratification.[3] Selected low-risk patients
+without a history of exercise-induced symptoms
+may be considered for sports participation
+in consultation with an expert in LQTS and
+with careful education and consideration of
+options.[51]
+» ECG should be monitored annually or
+biannually and after initiation or adjustment of
+beta-blocker therapy (if applicable).
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+37
+=== Page 38 ===
+Long QT syndrome Management
+MANAGEMENT
+Acute
+» Exercise testing and/or Holter monitoring
+should be carried out to confirm adequate beta-
+blockade after the initiation of beta-blockers,
+assess ongoing adequacy of beta-blockade,
+and augment dosage as necessary in children
+undergoing somatic growth (if applicable).
+» Measure serum electrolytes to monitor
+for hypokalemia, hypomagnesemia, and
+hypocalcemia.
+» Review medication for drugs contraindicated in
+LQTS.
+» Consult a drug formulary for a full list of drugs
+that prolong the QT interval.
+» Take symptom history for detection of interim
+syncope.
+congenital LQTS without previous
+cardiac event
+low risk 1st lifestyle modification and monitoring
+» Cardiac events may include syncope,
+ventricular tachyarrhythmias, torsades de
+pointes, or cardiac arrest.
+» Low risk: corrected QT interval (QTc) <500 ms
+in men or women with LQT1 and LQT2, women
+with LQT3.
+» Electrolyte loss due to vomiting, diarrhea,
+or excessive sweating should be replaced
+with electrolyte solutions. Patients with LQT2
+particularly require adequate potassium levels,
+and oral supplementation may be beneficial.[5]
+» Sympathomimetics, factors that may prolong
+the QT interval, and startling acoustic stimulation
+such as alarm clocks should be avoided
+(especially for LQT2 patients).
+» Generally, competitive sports and extreme
+exertion should be avoided, and noncompetitive
+swimming (especially for LQT1 patients) should
+be limited and done under close supervision.
+However, patients who wish to engage in
+competitive sports should be referred for expert
+evaluation for risk stratification.[3] Selected
+low-risk patients without a history of exercise-
+induced symptoms may be considered for
+sports participation in consultation with an
+expert in LQTS and with careful education and
+consideration of options.[51]
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 39 ===
+Long QT syndrome Management
+Acute
+» ECG should be monitored annually or
+biannually and after initiation or adjustment of
+beta-blocker therapy (if applicable).
+» Exercise testing and/or Holter monitoring
+should be carried out to confirm adequate beta-
+blockade after the initiation of beta-blockers (if
+applicable), assess ongoing adequacy of beta-
+blockade, and augment dosage as necessary
+in children undergoing somatic growth (if
+applicable).
+» Measure serum electrolytes to monitor
+for hypokalemia, hypomagnesemia, and
+hypocalcemia.
+» Review medication for drugs contraindicated in
+LQTS.
+» Consult a drug formulary for a full list of drugs
+that prolong the QT interval.
+» Take symptom history for detection of interim
+syncope.
+plus beta-blocker
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» nadolol: adults: 40 mg orally once daily
+initially, increase according to response,
+maximum 320 mg/day
+OR
+» propranolol hydrochloride: neonates:
+consult specialist for guidance on dose;
+children: 1 mg/kg/day orally (immediate-
+release) given in 3 divided doses initially,
+increase according to response, maximum
+8 mg/kg/day; adults: 30-160 mg/day orally
+(immediate-release) given in 3 divided doses
+» Cardiac events may include syncope,
+ventricular tachyarrhythmias, torsades de
+pointes, or cardiac arrest.
+» The mainstay of medical treatment for all
+patients with LQTS is beta-blocker therapy,
+ideally nonselective beta-blockers (e.g., nadolol,
+propranolol).[2] As ventricular arrhythmias
+may arise during a state of high adrenergic
+tone, particularly increasing the occurrence of
+afterdepolarizations, beta-blockers are used
+to blunt adrenergic stimulation. Beta-blockers
+themselves do not shorten the QT interval,
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+39
+=== Page 40 ===
+Long QT syndrome Management
+MANAGEMENT
+Acute
+but their use is thought to prevent ventricular
+tachyarrhythmias.
+» Low risk: corrected QT interval (QTc) <500 ms
+in men or women with LQT1 and LQT2, women
+with LQT3.
+» There is some debate concerning the
+administration of beta-blockers to patients with
+LQT3 verified by genotyping. Data from one
+study show that beta-blocker therapy reduces
+the risk of life-threatening cardiac events in
+females with LQT3; however, efficacy in males
+could not be determined conclusively because of
+the low number of events.[52] 
+» Beta-blocker therapy should also be
+considered in patients with a normal QTc interval
+in the presence of a pathogenic mutation.[2]
+» Low-dose beta-blockers are prescribed initially
+and titrated up as tolerated.
+» Dose adjustments may be required to avoid
+symptomatic bradycardia.
+high risk 1st lifestyle modification and monitoring
+» Cardiac events may include syncope,
+ventricular tachyarrhythmias, torsades de
+pointes, or cardiac arrest.
+» High risk: corrected QT interval (QTc) >500 ms
+in men or women with LQT1 and LQT2 and in
+men with LQT3, and QTc >550 ms.
+» Electrolyte loss due to vomiting, diarrhea,
+or excessive sweating should be replaced
+with electrolyte solutions. Patients with LQT2
+particularly require adequate potassium levels,
+and oral supplementation may be beneficial.[5]
+» Sympathomimetics, factors that may prolong
+the QT interval, and startling acoustic stimulation
+such as alarm clocks should be avoided
+(especially for LQT2 patients).
+» Generally, competitive sports and extreme
+exertion should be avoided, and noncompetitive
+swimming (especially for LQT1 patients) should
+be limited and done under close supervision.
+However, patients who wish to engage in
+competitive sports should be referred for expert
+evaluation for risk stratification.[3] 
+» ECG should be monitored annually or
+biannually and after initiation or adjustment of
+beta-blocker therapy (if applicable).
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 41 ===
+Long QT syndrome Management
+Acute
+» Exercise testing and/or Holter monitoring
+should be carried out to confirm adequate beta-
+blockade after the initiation of beta-blockers (if
+applicable), assess ongoing adequacy of beta-
+blockade, and augment dosage as necessary
+in children undergoing somatic growth (if
+applicable).
+» Measure serum electrolytes to monitor
+for hypokalemia, hypomagnesemia, and
+hypocalcemia.
+» Review medication for drugs contraindicated in
+LQTS.
+» Consult a drug formulary for a full list of drugs
+that prolong the QT interval.
+» Take symptom history for detection of interim
+syncope.
+plus beta-blocker
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» nadolol: adults: 40 mg orally once daily
+initially, increase according to response,
+maximum 320 mg/day
+OR
+» propranolol hydrochloride: neonates:
+consult specialist for guidance on dose;
+children: 1 mg/kg/day orally (immediate-
+release) given in 3 divided doses initially,
+increase according to response, maximum
+8 mg/kg/day; adults: 30-160 mg/day orally
+(immediate-release) given in 3 divided doses
+» Cardiac events may include syncope,
+ventricular tachyarrhythmias, torsades de
+pointes, or cardiac arrest. The mainstay of
+medical treatment for all patients with LQTS is
+beta-blocker therapy, ideally nonselective beta-
+blockers (e.g., nadolol, propranolol).[2]
+» As ventricular arrhythmias may arise
+during a state of high adrenergic tone,
+particularly increasing the occurrence of
+afterdepolarizations, beta-blockers are used
+to blunt adrenergic stimulation. Beta-blockers
+themselves do not shorten the QT interval,
+but their use is thought to prevent ventricular
+tachyarrhythmias.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+41
+=== Page 42 ===
+Long QT syndrome Management
+MANAGEMENT
+Acute
+» High risk: corrected QT interval (QTc) >500 ms
+in men or women with LQT1 and LQT2 and in
+men with LQT3 and QTc >550 ms.
+» There is some debate concerning the
+administration of beta-blockers to patients with
+LQT3 verified by genotyping. Data from one
+study show that beta-blocker therapy reduces
+the risk of life-threatening cardiac events in
+females with LQT3; however, efficacy in males
+could not be determined conclusively because of
+the low number of events.[52] 
+» Low-dose beta-blockers are prescribed initially
+and titrated up as tolerated.
+» Dose adjustments may be required to avoid
+symptomatic bradycardia.
+adjunct left cardiac sympathetic denervation
+Treatment recommended for SOME patients in
+selected patient group
+» May be considered in patients with recurrent
+syncope despite treatment with beta-blockers
+or in those requiring multiple appropriate ICD
+shocks. It may also be an option in patients
+who are deemed not to be ideal candidates for
+an ICD, such as children, due to the physical
+limitations of age and height and the psychologic
+distress of ICD shocks.
+adjunct implantable cardioverter-defibrillator (ICD)
+Treatment recommended for SOME patients in
+selected patient group
+» Cardiac events may include syncope,
+ventricular tachyarrhythmias, torsades de
+pointes, or cardiac arrest.
+» In Jervell and Lange-Nielsen syndrome
+patients, and in certain very high-risk patients
+with LQT1, LQT2, or LQT3, ICD can be
+considered but expert consultation should be
+sought first.[2] This should include a discussion
+with the patient regarding the risks of not having
+an ICD and the advantages and disadvantages
+of an ICD.
+» Single- or dual-chamber depending on the
+individual patient and following specialist
+(cardiologist or electrophysiologist) advice.
+adjunct mexiletine
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 43 ===
+Long QT syndrome Management
+Acute
+» mexiletine: consult specialist for guidance
+on dose
+» Should be considered in patients with
+confirmed LQT3, especially those with syncope
+or ICD shocks despite beta-blocker therapy; use
+in other genotypes is being investigated.[5] [54]
+[55]
+» Oral testing should be carried out to ensure
+that the QTc is shortened by at least 40 ms
+before prescribing mexiletine long term.[2] There
+is currently no evidence on whether mexiletine
+should be given alone or in combination with
+beta-blocker therapy for patients with LQT3.[2]
+congenital LQTS with previous
+cardiac event
+1st beta-blocker
+Primary options
+» nadolol: adults: 40 mg orally once daily
+initially, increase according to response,
+maximum 320 mg/day
+OR
+» propranolol hydrochloride: neonates:
+consult specialist for guidance on dose;
+children: 1 mg/kg/day orally (immediate-
+release) given in 3 divided doses initially,
+increase according to response, maximum
+8 mg/kg/day; adults: 30-160 mg/day orally
+(immediate-release) given in 3 divided doses
+» Cardiac events may include syncope,
+ventricular tachyarrhythmias, torsades de
+pointes, or cardiac arrest.
+» The mainstay of medical treatment for all
+patients with LQTS is beta-blocker therapy,
+ideally nonselective beta-blockers (e.g., nadolol,
+propranolol).[2] As ventricular arrhythmias
+may arise during a state of high adrenergic
+tone, particularly increasing the occurrence of
+afterdepolarizations, beta-blockers are used
+to blunt adrenergic stimulation. Beta-blockers
+themselves do not shorten the QT interval,
+but their use is thought to prevent ventricular
+tachyarrhythmias.
+» Low-dose beta-blockers are prescribed initially
+and titrated up as tolerated.
+» Dose adjustments may be required to avoid
+symptomatic bradycardia.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+43
+=== Page 44 ===
+Long QT syndrome Management
+MANAGEMENT
+Acute
+plus lifestyle modification and monitoring
+Treatment recommended for ALL patients in
+selected patient group
+» Cardiac events may include syncope,
+ventricular tachyarrhythmias, torsades de
+pointes, or cardiac arrest.
+» Electrolyte loss due to vomiting, diarrhea,
+or excessive sweating should be replaced
+with electrolyte solutions. Patients with LQT2
+particularly require adequate potassium levels,
+and oral supplementation may be beneficial.[5] 
+» Sympathomimetics, factors that may prolong
+the QT interval, and startling acoustic stimulation
+such as alarm clocks should be avoided
+(especially for LQT2 patients).
+» Generally, competitive sports and extreme
+exertion should be avoided, and noncompetitive
+swimming (especially for LQT1 patients) should
+be limited and done under close supervision.
+However, patients who wish to engage in
+competitive sports should be referred for expert
+evaluation for risk stratification.[3] Selected
+low-risk patients without a history of exercise-
+induced symptoms may be considered for
+sports participation in consultation with an
+expert in LQTS and with careful education and
+consideration of options.[51]
+» ECG should be monitored annually or
+biannually and after initiation or adjustment of
+beta-blocker therapy (if applicable).
+» Exercise testing and/or Holter monitoring
+should be carried out to confirm adequate beta-
+blockade after the initiation of beta-blockers (if
+applicable), assess ongoing adequacy of beta-
+blockade, and augment dosage as necessary
+in children undergoing somatic growth (if
+applicable).
+» Measure serum electrolytes to monitor
+for hypokalemia, hypomagnesemia, and
+hypocalcemia.
+» Review medication for drugs contraindicated in
+LQTS.
+» Consult a drug formulary for a full list of drugs
+that prolong the QT interval.
+» Take symptom history for detection of interim
+syncope.
+adjunct implantable cardioverter-defibrillator (ICD)
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 45 ===
+Long QT syndrome Management
+Acute
+Treatment recommended for SOME patients in
+selected patient group
+» Use of an ICD, in conjunction with beta-
+blockers, has proven invaluable in the treatment
+of patients with LQTS who have recurrent
+arrhythmic syncope or documented torsades
+de pointes despite optimally dosed beta-blocker
+therapy.[2] [56] [57]
+» Indications for an ICD include any of the
+following: previous ventricular tachyarrhythmias
+and/or torsades de pointes, previous cardiac
+arrest, persistent syncope, some patients with
+high-risk LQTS, especially patients with LQT2 or
+those with multiple mutations, contraindications
+or intolerance to beta-blockers.[2] [58]
+» Single- or dual-chamber depending on the
+individual patient and following specialist
+(cardiologist or electrophysiologist) advice.
+adjunct mexiletine
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» mexiletine: consult specialist for guidance
+on dose
+» Should be considered in patients with
+confirmed LQT3, especially those with syncope
+or ICD shocks despite beta-blocker therapy; use
+in other genotypes is being investigated.[2] [5]
+[54] [55]
+2nd left cardiac sympathetic denervation
+» Sometimes called stellate ganglionectomy,
+this procedure involves surgical resection of the
+lower half of the left stellate ganglion along with
+several other thoracic ganglia (T2 to T4) in an
+attempt to partially denervate the heart.
+» Indications include inadequate response to
+or not a candidate for implantable cardioverter-
+defibrillator (ICD), receipt of multiple ICD shocks,
+and children in whom an ICD is not appropriate
+due to the physical limitations of age and height
+and the psychological distress of ICD shocks.[2]
+» A thoracoscopic left cardiac sympathetic
+denervation has been developed, and is now
+routinely done by experienced surgeons in
+specialized medical centers.
+plus continue beta-blocker, lifestyle
+modification, and monitoring
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+45
+=== Page 46 ===
+Long QT syndrome Management
+MANAGEMENT
+Acute
+Treatment recommended for ALL patients in
+selected patient group
+» Beta-blocker therapy should be continued
+unless contraindicated or poorly tolerated.
+3rd permanent pacemaker
+» Indicated if symptoms continue despite
+sympathectomy.
+» If there is a lack of surgical experience
+in thoracoscopic left cardiac sympathetic
+denervation (and the patient declines referral to
+a specialized center).
+» Single- or dual-chamber depending on the
+individual patient and following specialist
+(cardiologist or electrophysiologist) advice.
+plus continue beta-blocker, lifestyle
+modification, and monitoring
+Treatment recommended for ALL patients in
+selected patient group
+» Beta-blocker therapy should be continued
+unless contraindicated or poorly tolerated.
+» When combined with beta-blockers, ventricular
+pacing, which prevents bradycardia, may
+facilitate the up-titration of beta-blockers to more
+effective anti-arrhythmic doses and can also
+serve to prevent pause-dependent torsades de
+pointes.[61]
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 47 ===
+Long QT syndrome Management
+Emerging
+Cystic fibrosis transmembrane conductance regulator (CFTR)
+modulators
+Early data suggest that the cystic fibrosis drug lumacaftor/ivacaftor may be of clinical use in LQT2
+patients through its action on the hERG (human ether-a-go-go) gene trafficking defect affecting potassium
+channels.[5]
+Primary prevention
+Because congenital LQTS is an inherited condition, primary prevention is not applicable. Early detection and
+treatment of hypokalemia and hypomagnesemia, and avoidance of drugs known to prolong the QT interval
+where possible, may prevent some cases of acquired LQTS.
+Patients starting QT-prolonging anticancer therapy should have a baseline assessment for underlying risk
+factors and have their QT interval monitored before and during treatment.[23] [24]
+Secondary prevention
+Patients should be advised to avoid drugs known to have the potential to prolong the QT interval or
+cause depletion of potassium and/or magnesium, such as quinidine, procainamide, sotalol, amiodarone,
+disopyramide, dofetilide, phenothiazines, tricyclic antidepressants, and methadone.[21] [22]  [Credible Meds
+(Arizona CERT): drugs that prolong the QT interval] (https://crediblemeds.org/index.php/login/dlcheck) 
+Energy drinks that contain large amounts of caffeine may lead to QT prolongation and caution should be
+exercised in patients with LQTS.[63]
+Patients with LQT2 should avoid startling acoustic stimulation such as alarm clocks. In general, competitive
+sports or similar extreme exertion should be avoided by patients with LQTS. However, patients who wish to
+engage in competitive sports should be referred for expert evaluation for risk stratification.[3]
+Parental genetic counseling and testing prior to conception is recommended to determine the potential risk of
+having a child affected with LQTS.
+In-vitro fertilization, with implantation of a fertilized oocyte confirmed to be free of the known mutation, may
+be an option for parents carrying an affected gene.
+Patient discussions
+Patients should be advised to:
+• Avoid drugs known to have the potential to prolong the QT interval or cause depletion of potassium
+and/or magnesium, such as quinidine, procainamide, sotalol, amiodarone, disopyramide, dofetilide,
+phenothiazines, tricyclic antidepressants, and methadone.[21] [22]  [Credible Meds (Arizona
+CERT): drugs that prolong the QT interval] (https://crediblemeds.org/index.php/login/dlcheck) 
+Energy drinks that contain large amounts of caffeine may lead to QT prolongation and caution
+should be exercised in patients with LQTS.[63]
+• Avoid alarm clocks or loud, unexpected noises (especially LQT2 patients)
+• Avoid unsupervised swimming (especially LQT1 patients)
+• Report any syncopal episodes immediately
+• Replace electrolyte loss due to vomiting, diarrhea, or excessive sweating with electrolyte solutions.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+47
+=== Page 48 ===
+Long QT syndrome Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+EGCs are undertaken routinely on an annual or biannual basis and after initiation or adjustment of beta-
+blocker therapy.
+Exercise testing and/or Holter monitoring is done to confirm adequate beta-blockade after the initiation of
+beta-blockers, assess ongoing adequacy of beta-blockade, and augment dosage as necessary in children
+undergoing somatic growth.
+Serum electrolyte measurement to monitor for hypokalemia, hypomagnesemia, and hypocalcemia.
+Medication review for drugs contraindicated in LQTS, such as quinidine, procainamide, sotalol,
+amiodarone, disopyramide, dofetilide, phenothiazines, and tricyclic antidepressants.  [Credible Meds
+(Arizona CERT): drugs that prolong the QT interval] (https://crediblemeds.org/index.php/login/dlcheck)
+Symptom history for detection of interim syncope.
+Consideration of genotyping to facilitate family evaluation, and confirmation of full evaluation of family.
+Patients with LQTS who undergo general anesthesia require careful perioperative monitoring, as they
+are at high risk of torsades de pointes perioperatively. Little is known about the effects of LQTS during
+pregnancy, but the incidence of dysrhythmia increases postpartum, so careful monitoring of LQTS
+patients in the postpartum period is also required.[62]
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 49 ===
+Long QT syndrome Follow up
+Complications
+Complications Timeframe Likelihood
+torsades de pointes variable medium
+A polymorphic ventricular tachyarrhythmias (VT) secondary to genetic mutations that lead to dysfunctional
+potassium channels and subsequent slowed repolarization and transmural dispersion of repolarization,
+which predisposes to VT.
+Rhythm strips showing torsades de pointes
+Chong DW, Ankolekar SJ, McDonald J. BMJ Case Reports. 2009; doi:10.1136/bcr.01.2009.1426
+Treatment is with intravenous magnesium and electrical cardioversion.
+Torsades de pointes with associated pause-dependent VT is additionally treated with temporary ventricular
+pacing or isoproterenol.
+In addition, electrolyte abnormalities (hypokalemia, hypomagnesemia, hypocalcemia) should be corrected,
+and drugs known to prolong the QT interval or cause depletion of potassium and/or magnesium should be
+discontinued.
+cardiac arrest variable low
+Secondary to polymorphic ventricular tachyarrhythmias degenerating into ventricular fibrillation.
+Emergency treatment is with CPR and defibrillation as per the adult advanced life support protocol.
+In addition, electrolyte abnormalities (hypokalemia, hypomagnesemia, hypocalcemia) should be corrected,
+and drugs known to prolong the QT interval or cause depletion of potassium and/or magnesium, such
+as quinidine, procainamide, sotalol, amiodarone, disopyramide, dofetilide, phenothiazines, and tricyclic
+antidepressants, should be discontinued.  [Credible Meds (Arizona CERT): drugs that prolong the QT
+interval] (https://crediblemeds.org/index.php/login/dlcheck)
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+49
+=== Page 50 ===
+Long QT syndrome Follow up
+FOLLOW UP
+Complications Timeframe Likelihood
+sudden cardiac death variable low
+Secondary to cardiac arrest resulting from polymorphic ventricular tachyarrhythmias.
+Prognosis
+Asymptomatic and undiagnosed
+These patients may have normal life expectancy and may remain asymptomatic. Patients with congenital
+LQTS may pass on the specific mutation to their offspring, who may then become symptomatic. Prognosis
+is variable and depends on risk stratification for the probability of a future cardiac event (syncope, cardiac
+arrest, or sudden death), which in turn depends on the history of symptoms, genotype, sex, age, and length
+of the corrected QT interval (QTc).
+Asymptomatic and diagnosed
+These patients may have normal life expectancy and may remain asymptomatic. Treatment with beta-
+blockers may be considered if high-risk features are identified. Lifestyle modifications, especially in patients
+with congenital LQTS, should be emphasized and encouraged. These patients may progress to become
+symptomatic.[43]
+Symptomatic with ≥1 syncopal episodes
+These patients are at risk of recurrent syncopal episodes. Careful attention must be given to minimize all
+identifiable triggers that may prolong the QT interval, including drugs and electrolyte abnormalities. These
+patients benefit most from treatment with beta-blockers and an implantable cardioverter-defibrillator (ICD).
+Symptomatic with cardiac arrest
+These patients are at highest risk of recurrent episodes of syncope and/or cardiac arrest. Previous cardiac
+arrest carries a higher risk of LQTS-related sudden death. Careful attention must be given to minimize all
+identifiable triggers that may prolong the QT interval, including drugs and electrolyte abnormalities. Survival
+is enhanced with beta-blocker and ICD therapy.
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 51 ===
+Long QT syndrome Guidelines
+Diagnostic guidelines
+International
+HRS/EHRA/APHRS expert consensus statement on the diagnosis and
+management of patients with inherited primary arrhythmia syndromes
+(http://www.hrsonline.org/Policy-Payment/Clinical-Guidelines-Documents?
+SearchText=&seeall=1)   [3]
+Published by: Heart Rhythm Society; European Heart Rhythm
+Association; Asia Pacific Heart Rhythm Society
+Last published: 2013
+European Heart Rhythm Association (EHRA)/Heart Rhythm Society (HRS)/Asia
+Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm Society
+(LAHRS) Expert Consensus Statement on the state of genetic testing for
+cardiac diseases (https://www.escardio.org/Guidelines/Scientific-Documents)
+[5]
+Published by: European Heart Rhythm Association (EHRA)Heart
+Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin
+American Heart Rhythm Society (LAHRS)
+Last published: 2022
+2022 ESC Guidelines for the management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [2]
+Published by: European Society of Cardiology Last published: 2022
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+51
+=== Page 52 ===
+Long QT syndrome Guidelines
+GUIDELINES
+Treatment guidelines
+International
+HRS/EHRA/APHRS expert consensus statement on the diagnosis and
+management of patients with inherited primary arrhythmia syndromes (http://
+www.hrsonline.org/Practice-Guidance/Clinical-Guidelines-Documents?
+SearchText=&seeall=1)   [3]
+Published by: Heart Rhythm Society; European Heart Rhythm
+Association; Asia Pacific Heart Rhythm Society
+Last published: 2013
+2022 ESC Guidelines for the management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [2]
+Published by: European Society of Cardiology Last published: 2022
+2017 AHA/ACC/HRS guideline for management of patients with
+ventricular arrhythmias and the prevention of sudden cardiac death
+(http://professional.heart.org/professional/GuidelinesStatements/
+UCM_316885_Guidelines-Statements.jsp)   [27]
+Published by: American College of Cardiology; American Heart
+Association Task Force; European Society of Cardiology Committee for
+Practice Guidelines
+Last published: 2018
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 53 ===
+Long QT syndrome Online resources
+Online resources
+1. Credible Meds (Arizona CERT): drugs that prolong the QT interval (https://crediblemeds.org/index.php/
+login/dlcheck)  (external link)
+ONLINE RESOURCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+53
+=== Page 54 ===
+Long QT syndrome References
+REFERENCES
+Key articles
+• Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://www.doi.org/10.1093/eurheartj/ehac262)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+• Priori SG, Wilde AA, Horie M, et al. HRS/EHRA/APHRS expert consensus statement on the
+diagnosis and management of patients with inherited primary arrhythmia syndromes. Heart
+Rhythm. 2013 Dec;10(12):1932-63.  Full text (https://www.heartrhythmjournal.com/article/
+S1547-5271%2813%2900552-3/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24011539?
+tool=bestpractice.bmj.com)
+• Wilde AAM, Semsarian C, Márquez MF, et al. European Heart Rhythm Association (EHRA)/Heart
+Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm
+Society (LAHRS) expert consensus statement on the state of genetic testing for cardiac diseases.
+Europace. 2022 Sep 1;24(8):1307-67.  Full text (https://www.doi.org/10.1093/europace/euac030)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35373836?tool=bestpractice.bmj.com)
+• Roden DM. Clinical practice. Long-QT syndrome. N Engl J Med. 2008 Jan 10;358(2):169-76. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/18184962?tool=bestpractice.bmj.com)
+• Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for
+management of patients with ventricular arrhythmias and the prevention of sudden cardiac
+death: a report of the American College of Cardiology/American Heart Association Task
+Force on clinical practice guidelines and the Heart Rhythm Society. Circulation. 2018 Sep
+25;138(13):e272-391.  Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000549?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29084731?tool=bestpractice.bmj.com)
+• Sauer AJ, Moss AJ, McNitt S, et al. Long QT syndrome in adults. J Am Coll Cardiol. 2007 Jan
+23;49(3):329-37. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17239714?tool=bestpractice.bmj.com)
+• Schwartz PJ, Moss AJ, Vincent GM, et al. Diagnostic criteria for the long QT syndrome. An update.
+Circulation. 1993 Aug;88(2):782-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8339437?
+tool=bestpractice.bmj.com)
+• Schwartz PJ, Crotti L. QTc behavior during exercise and genetic testing for the long-QT
+syndrome. Circulation. 2011 Nov 15;124(20):2181-4.  Full text (https://www.doi.org/10.1161/
+CIRCULATIONAHA.111.062182)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22083145?
+tool=bestpractice.bmj.com)
+References
+1. Rautaharju PM, Surawicz B, Gettes LS, et al. AHA/ACCF/HRS recommendations for the
+standardization and interpretation of the electrocardiogram: part IV: the ST segment, T and
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 55 ===
+Long QT syndrome References
+U waves, and the QT interval: a scientific statement from the American Heart Association
+Electrocardiography and Arrhythmias Committee, Council on Clinical Cardiology; the American
+College of Cardiology Foundation; and the Heart Rhythm Society: endorsed by the International
+Society for Computerized Electrocardiology. Circulation. 2009 Mar 17;119(10):e241-50. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.108.191096?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19228821?tool=bestpractice.bmj.com)
+2. Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://www.doi.org/10.1093/eurheartj/ehac262)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+3. Priori SG, Wilde AA, Horie M, et al. HRS/EHRA/APHRS expert consensus statement on the
+diagnosis and management of patients with inherited primary arrhythmia syndromes. Heart
+Rhythm. 2013 Dec;10(12):1932-63.  Full text (https://www.heartrhythmjournal.com/article/
+S1547-5271%2813%2900552-3/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24011539?
+tool=bestpractice.bmj.com)
+4. Wallace E, Howard L, Liu M, et al. Long QT syndrome: genetics and future perspective. Pediatr
+Cardiol. 2019 Oct;40(7):1419-30.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6785594)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31440766?tool=bestpractice.bmj.com)
+5. Wilde AAM, Semsarian C, Márquez MF, et al. European Heart Rhythm Association (EHRA)/Heart
+Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm
+Society (LAHRS) expert consensus statement on the state of genetic testing for cardiac diseases.
+Europace. 2022 Sep 1;24(8):1307-67.  Full text (https://www.doi.org/10.1093/europace/euac030)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35373836?tool=bestpractice.bmj.com)
+6. Beckmann BM, Scheiper-Welling S, Wilde AAM, et al. Clinical utility gene card for: long-QT
+syndrome. Eur J Hum Genet. 2021 Dec;29(12):1825-32.  Full text (https://www.doi.org/10.1038/
+s41431-021-00904-y)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34031550?
+tool=bestpractice.bmj.com)
+7. Adler A, Novelli V, Amin AS, et al. An international, multicentered, evidence-based reappraisal of
+genes reported to cause congenital long QT syndrome. Circulation. 2020 Feb 11;141(6):418-28. 
+Full text (https://www.doi.org/10.1161/CIRCULATIONAHA.119.043132)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31983240?tool=bestpractice.bmj.com)
+8. Roden DM. Clinical practice. Long-QT syndrome. N Engl J Med. 2008 Jan 10;358(2):169-76. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/18184962?tool=bestpractice.bmj.com)
+9. Jervell A, Lange-Nielsen F. Congenital deaf-mutism, functional heart disease with prolongation
+of the Q-T interval and sudden death. Am Heart J. 1957 Jul;54(1):59-68. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/13435203?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+55
+=== Page 56 ===
+Long QT syndrome References
+REFERENCES
+10. Plaster NM, Tawil R, Tristani-Firouzi M, et al. Mutations in Kir2.1 cause the developmental and
+episodic electrical phenotypes of Andersen's syndrome. Cell. 2001 May 18;105(4):511-9. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/11371347?tool=bestpractice.bmj.com)
+11. Schwartz PJ, Stramba-Badiale M, Crotti L, et al. Prevalence of the congenital long-QT
+syndrome. Circulation. 2009 Nov 3;120(18):1761-7.  Full text (https://www.ahajournals.org/
+doi/10.1161/CIRCULATIONAHA.109.863209?url_ver=Z39.88-2003&rfr_id=ori%3Arid
+%3Acrossref.org&rfr_dat=cr_pub++0pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19841298?tool=bestpractice.bmj.com)
+12. Schwartz PJ, Priori SG, Napolitano C. How really rare are rare diseases?: The intriguing case
+of independent compound mutations in the long QT syndrome. J Cardiovasc Electrophysiol.
+2003 Oct;14(10):1120-21. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14521668?
+tool=bestpractice.bmj.com)
+13. Modell SM, Lehmann MH. The long QT syndrome family of cardiac ion channelopathies: a HuGE
+review. Genet Med. 2006 Mar;8(3):143-55. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16540748?
+tool=bestpractice.bmj.com)
+14. Vincent GM. The long-QT syndrome - bedside to bench to bedside. N Engl J Med.
+2003 May 8;348(19):1837-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12736277?
+tool=bestpractice.bmj.com)
+15. Imboden M, Swan H, Denjoy I, et al. Female predominance and transmission distortion in the long-
+QT syndrome. N Engl J Med. 2006 Dec 28;355(26):2744-51.  Full text (http://www.nejm.org/doi/
+full/10.1056/NEJMoa042786#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17192539?
+tool=bestpractice.bmj.com)
+16. Moss AJ. Long QT syndrome. JAMA. 2003 Apr 23-30;289(16):2041-4. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12709446?tool=bestpractice.bmj.com)
+17. Yu H, Zhang L, Liu J, et al. Acquired long QT syndrome in hospitalized patients. Heart Rhythm. 2017
+Jul;14(7):974-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28323171?tool=bestpractice.bmj.com)
+18. Lin Y, Yu H, Liu F, et al. Hospitalized cancer patients with acquired long QT syndrome-a
+matched case-control study. Cardiooncology. 2020;6:3.  Full text (https://www.doi.org/10.1186/
+s40959-020-0057-2)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32154029?
+tool=bestpractice.bmj.com)
+19. Napolitano C, Priori SG, Schwartz PJ, et al. Genetic testing in the long QT syndrome: development
+and validation of an efficient approach to genotyping in clinical practice. JAMA. 2005 Dec
+21;294(23):2975-80.  Full text (https://jamanetwork.com/journals/jama/fullarticle/202046)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/16414944?tool=bestpractice.bmj.com)
+20. Vincent GM. Long QT syndrome. Cardiol Clin. 2000 May;18(2):309-25. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10849875?tool=bestpractice.bmj.com)
+21. Krantz MJ, Martin J, Stimmel B, et al. QTc interval screening in methadone treatment. Ann Intern
+Med. 2009 Mar 17;150(6):387-95.  Full text (http://annals.org/aim/fullarticle/744382/qtc-interval-
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 57 ===
+Long QT syndrome References
+screening-methadone-treatment)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19153406?
+tool=bestpractice.bmj.com)
+22. Tisdale JE, Chung MK, Campbell KB, et al. Drug-induced arrhythmias: a scientific
+statement from the American Heart Association. Circulation. 2020 Oct 13;142(15):e214-33. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000905?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32929996?tool=bestpractice.bmj.com)
+23. Lyon AR, López-Fernández T, Couch LS, et al. 2022 ESC guidelines on cardio-oncology developed in
+collaboration with the European Hematology Association (EHA), the European Society for Therapeutic
+Radiology and Oncology (ESTRO) and the International Cardio-Oncology Society (IC-OS). Eur Heart
+J. 2022 Nov 1;43(41):4229-361.  Full text (https://www.doi.org/10.1093/eurheartj/ehac244)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/36017568?tool=bestpractice.bmj.com)
+24. Giraud EL, Ferrier KRM, Lankheet NAG, et al. The QT interval prolongation potential of anticancer and
+supportive drugs: a comprehensive overview. Lancet Oncol. 2022 Sep;23(9):e406-15. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36055309?tool=bestpractice.bmj.com)
+25. Dagradi F, Spazzolini C, Castelletti S, et al. Exercise training-induced repolarization abnormalities
+masquerading as congenital long QT syndrome. Circulation. 2020 Dec 22;142(25):2405-15.  Full text
+(https://www.doi.org/10.1161/CIRCULATIONAHA.120.048916)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33073610?tool=bestpractice.bmj.com)
+26. El-Sherif N, Turitto G. Electrolyte disorders and arrhythmogenesis. Cardiol J. 2011;18(3):233-45.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21660912?tool=bestpractice.bmj.com)
+27. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for
+management of patients with ventricular arrhythmias and the prevention of sudden cardiac
+death: a report of the American College of Cardiology/American Heart Association Task
+Force on clinical practice guidelines and the Heart Rhythm Society. Circulation. 2018 Sep
+25;138(13):e272-391.  Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000549?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29084731?tool=bestpractice.bmj.com)
+28. Sauer AJ, Moss AJ, McNitt S, et al. Long QT syndrome in adults. J Am Coll Cardiol. 2007 Jan
+23;49(3):329-37. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17239714?tool=bestpractice.bmj.com)
+29. Priori SG, Schwartz PJ, Napolitano C, et al. Risk stratification in the long-QT syndrome. N
+Engl J Med. 2003 May 8;348(19):1866-74.  Full text (http://www.nejm.org/doi/full/10.1056/
+NEJMoa022147#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12736279?
+tool=bestpractice.bmj.com)
+30. Migdalovich D, Moss AJ, Lopes CM, et al. Mutation and gender-specific risk in type 2 long QT
+syndrome: implications for risk stratification for life-threatening cardiac events in patients with long
+QT syndrome. Heart Rhythm. 2011 Oct;8(10):1537-43. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21440677?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+57
+=== Page 58 ===
+Long QT syndrome References
+REFERENCES
+31. Goldenberg I, Horr S, Moss AJ, et al. Risk for life-threatening cardiac events in patients with genotype-
+confirmed long-QT syndrome and normal-range corrected QT intervals. J Am Coll Cardiol. 2011 Jan
+4;57(1):51-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21185501?tool=bestpractice.bmj.com)
+32. Schwartz PJ, Moss AJ, Vincent GM, et al. Diagnostic criteria for the long QT syndrome. An update.
+Circulation. 1993 Aug;88(2):782-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8339437?
+tool=bestpractice.bmj.com)
+33. Schwartz PJ, Crotti L. QTc behavior during exercise and genetic testing for the long-QT
+syndrome. Circulation. 2011 Nov 15;124(20):2181-4.  Full text (https://www.doi.org/10.1161/
+CIRCULATIONAHA.111.062182)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22083145?
+tool=bestpractice.bmj.com)
+34. Schwartz PJ, Priori SG, Spazzolini C, et al. Genotype-phenotype correlation in the long-QT syndrome:
+gene-specific triggers for life-threatening arrhythmias. Circulation. 2001 Jan 2;103(1):89-95. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/11136691?tool=bestpractice.bmj.com)
+35. Seth R, Moss AJ, McNitt S, et al. Long QT syndrome and pregnancy. J Am Coll Cardiol.
+2007 Mar 13;49(10):1092-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17349890?
+tool=bestpractice.bmj.com)
+36. Landstrom AP, Chahal AA, Ackerman MJ, et al. Interpreting incidentally identified variants in genes
+associated with heritable cardiovascular disease: a scientific statement from the American Heart
+Association. Circ Genom Precis Med. 2023 Apr;16(2):e000092.  Full text (https://www.doi.org/10.1161/
+HCG.0000000000000092)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36970980?
+tool=bestpractice.bmj.com)
+37. Goldenberg I, Moss AJ, Zareba W. QT interval: how to measure it and what is "normal". J Cardiovasc
+Electrophysiol. 2006 Mar;17(3):333-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16643414?
+tool=bestpractice.bmj.com)
+38. Vink AS, Neumann B, Lieve KVV, et al. Determination and interpretation of the QT interval.
+Circulation. 2018 Nov 20;138(21):2345-58.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIRCULATIONAHA.118.033943?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30571576?
+tool=bestpractice.bmj.com)
+39. Page A, Aktas MK, Soyata T, et al. "QT clock" to improve detection of QT prolongation
+in long QT syndrome patients. Heart Rhythm. 2016 Jan;13(1):190-98.  Full text (http://
+www.heartrhythmjournal.com/article/S1547-5271(15)01127-3/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26334569?tool=bestpractice.bmj.com)
+40. Wilde AAM, Amin AS. Clinical spectrum of SCN5A mutations: long QT syndrome, Brugada
+syndrome, and cardiomyopathy. JACC Clin Electrophysiol. 2018 May;4(5):569-79.  Full text (https://
+www.sciencedirect.com/science/article/pii/S2405500X18302081?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29798782?tool=bestpractice.bmj.com)
+41. Musunuru K, Hershberger RE, Day SM, et al. Genetic testing for inherited cardiovascular diseases:
+a scientific statement from the American Heart Association. Circ Genom Precis Med. 2020
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 59 ===
+Long QT syndrome References
+Aug;13(4):e000067.  Full text (https://www.ahajournals.org/doi/10.1161/HCG.0000000000000067?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32698598?tool=bestpractice.bmj.com)
+42. Ackerman MJ, Priori SG, Willems S, et al. HRS/EHRA expert consensus statement on the state of
+genetic testing for the channelopathies and cardiomyopathies. Heart Rhythm. 2011 Aug;8(8):1308-39.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21787999?tool=bestpractice.bmj.com)
+43. Rohatgi RK, Sugrue A, Bos JM, et al. Contemporary outcomes in patients with long QT syndrome. J
+Am Coll Cardiol. 2017 Jul 25;70(4):453-62. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28728690?
+tool=bestpractice.bmj.com)
+44. Vyas H, Hejlik J, Ackerman MJ. Epinephrine QT stress testing in the evaluation of congenital
+long-QT syndrome: diagnostic accuracy of the paradoxical QT response. Circulation. 2006 Mar
+21;113(11):1385-92.  Full text (http://circ.ahajournals.org/content/113/11/1385.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16534005?tool=bestpractice.bmj.com)
+45. Schwartz PJ. Pro: newborn ECG screening to prevent sudden cardiac death. Heart
+Rhythm. 2006 Nov;3(11):1353-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17074644?
+tool=bestpractice.bmj.com)
+46. Schwartz PJ, Stramba-Badiale M, Segantini A, et al. Prolongation of the QT interval and the sudden
+infant death syndrome. N Engl J Med. 1998 Jun 11;338(24):1709-14.  Full text (http://www.nejm.org/
+doi/full/10.1056/NEJM199806113382401#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9624190?tool=bestpractice.bmj.com)
+47. Quaglini S, Rognoni C, Spazzolini C, et al. Cost-effectiveness of neonatal ECG screening for the
+long QT syndrome. Eur Heart J. 2006 Aug;27(15):1824-32.  Full text (https://academic.oup.com/
+eurheartj/article/27/15/1824/2887219)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16840497?
+tool=bestpractice.bmj.com)
+48. Mazzanti A, Trancuccio A, Kukavica D, et al. Independent validation and clinical implications of the
+risk prediction model for long QT syndrome (1-2-3-LQTS-Risk). Europace. 2022 Apr 5;24(4):614-9. 
+Full text (https://www.doi.org/10.1093/europace/euab238)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34505884?tool=bestpractice.bmj.com)
+49. Aziz PF, Sweeten T, Vogel RL, et al. Sports participation in genotype positive children with
+long QT syndrome. JACC Clin Electrophysiol. 2015 Mar-Apr;1(1-2):62-70.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4540361)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26301263?tool=bestpractice.bmj.com)
+50. Maron BJ, Chaitman BR, Ackerman MJ, et al. Recommendations for physical activity and recreational
+sports participation for young patients with genetic cardiovascular diseases. Circulation. 2004 Jun
+8;109(22):2807-16.  Full text (http://circ.ahajournals.org/content/109/22/2807.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15184297?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+59
+=== Page 60 ===
+Long QT syndrome References
+REFERENCES
+51. Johnson JN, Ackerman MJ. Competitive sports participation in athletes with congenital long
+QT syndrome. JAMA. 2012 Aug 22;308(8):764-5. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22820673?tool=bestpractice.bmj.com)
+52. Wilde AA, Moss AJ, Kaufman ES, et al. Clinical aspects of type 3 long-QT syndrome:
+an international multicenter study. Circulation. 2016 Sep 20;134(12):872-82.  Full
+text (https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.116.021823?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27566755?tool=bestpractice.bmj.com)
+53. Hobbs JB, Peterson DR, Moss AJ, et al. Risk of aborted cardiac arrest or sudden cardiac death
+during adolescence in the long-QT syndrome. JAMA. 2006 Sep 13;296(10):1249-54.  Full text
+(https://jamanetwork.com/journals/jama/fullarticle/203339)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16968849?tool=bestpractice.bmj.com)
+54. Mazzanti A, Maragna R, Faragli A, et al. Gene-specific therapy with mexiletine reduces arrhythmic
+events in patients with long QT syndrome type 3. J Am Coll Cardiol. 2016 Mar 8;67(9):1053-8.  Full
+text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4773513)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26940925?tool=bestpractice.bmj.com)
+55. Bos JM, Crotti L, Rohatgi RK, et al. Mexiletine shortens the QT interval in patients with
+potassium channel-mediated type 2 long QT syndrome. Circ Arrhythm Electrophysiol. 2019
+May;12(5):e007280.  Full text (https://www.ahajournals.org/doi/10.1161/CIRCEP.118.007280?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31006312?tool=bestpractice.bmj.com)
+56. Zareba W, Moss AJ, Daubert JP, et al. Implantable cardioverter defibrillator in high-risk long
+QT syndrome patients. J Cardiovasc Electrophysiol. 2003 Apr;14(4):337-41. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12741701?tool=bestpractice.bmj.com)
+57. Garratt CJ, Elliott P, Behr E, et al. Heart Rhythm UK position statement on clinical indications
+for implantable cardioverter defibrillators in adult patients with familial sudden cardiac death
+syndromes. Europace. 2010 Aug;12(8):1156-75.  Full text (https://academic.oup.com/europace/
+article/12/8/1156/449311)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20663787?
+tool=bestpractice.bmj.com)
+58. Biton Y, Rosero S, Moss AJ, et al. Primary prevention with the implantable cardioverter-defibrillator
+in high-risk long-QT syndrome patients. Europace. 2019 Feb 1;21(2):339-46.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC6365807)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29947754?tool=bestpractice.bmj.com)
+59. Schwartz PJ, Priori SG, Cerrone M, et al. Left cardiac sympathetic denervation in the management
+of high-risk patients affected by the long-QT syndrome. Circulation. 2004 Apr 20;109(15):1826-33. 
+Full text (http://circ.ahajournals.org/content/109/15/1826.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15051644?tool=bestpractice.bmj.com)
+60. Waddell-Smith KE, Ertresvaag KN, Li J, et al. Physical and psychological
+consequences of left cardiac sympathetic denervation in long-QT syndrome and
+catecholaminergic polymorphic ventricular tachycardia. Circ Arrhythm Electrophysiol. 2015
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 61 ===
+Long QT syndrome References
+Oct;8(5):1151-8.  Full text (https://www.ahajournals.org/doi/10.1161/CIRCEP.115.003159?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26224781?tool=bestpractice.bmj.com)
+61. Viskin S. Cardiac pacing in the long QT syndrome: review of available data and practical
+recommendations. J Cardiovasc Electrophysiol. 2000 May;11(5):593-600. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10826941?tool=bestpractice.bmj.com)
+62. Drake E, Preston R, Douglas J. Brief review: anesthetic implications of long QT syndrome
+in pregnancy.Can J Anaesth. 2007 Jul;54(7):561-72. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17602043?tool=bestpractice.bmj.com)
+63. Shah SA, Szeto AH, Farewell R, et al. Impact of high volume energy drink consumption on
+electrocardiographic and blood pressure parameters: a randomized trial. J Am Heart Assoc.
+2019 Jun 4;8(11):e01131  Full text (https://www.ahajournals.org/doi/10.1161/JAHA.118.011318?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31137991?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+61
+=== Page 62 ===
+Long QT syndrome Images
+IMAGES
+Images
+Figure 1: ECG findings in type 1 long QT syndrome
+From the collection of Dr James P. Daubert
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 63 ===
+Long QT syndrome Images
+Figure 2: ECG findings in type 2 long QT syndrome
+From the collection of Dr James P. Daubert
+Figure 3: ECG findings in type 3 long QT syndrome
+From the collection of Dr James P. Daubert
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+63
+=== Page 64 ===
+Long QT syndrome Images
+IMAGES
+ Figure 4: ECG showing QT prolongation (QTc = 519 ms)
+Chong DW, Ankolekar SJ, McDonald J. BMJ Case Reports. 2009; doi:10.1136/bcr.01.2009.1426
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 65 ===
+Long QT syndrome Images
+Figure 5: ECG showing a corrected QTc interval of 760 ms
+Iniesta I, Yotti R, Garcia-Pastor A. BMJ Case Reports. 2009; doi:10.1136/bcr.06.2008.0285
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+65
+=== Page 66 ===
+Long QT syndrome Images
+IMAGES
+Figure 6: ECG findings in type 1 long QT syndrome
+From the collection of Dr James P. Daubert
+Figure 7: ECG findings in type 2 long QT syndrome
+From the collection of Dr James P. Daubert
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 67 ===
+Long QT syndrome Images
+Figure 8: ECG findings in type 3 long QT syndrome
+From the collection of Dr James P. Daubert
+Figure 9: Rhythm strips showing torsades de pointes
+Chong DW, Ankolekar SJ, McDonald J. BMJ Case Reports. 2009; doi:10.1136/bcr.01.2009.1426
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+67
+=== Page 68 ===
+Long QT syndrome Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 69 ===
+Long QT syndrome Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 29, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2023. All rights reserved.
+69
+=== Page 70 ===
+Contributors:
+// Authors:
+Mehmet K. Aktas, MD, MBA
+Associate Professor of Medicine
+University of Rochester Medical Center, Rochester, NY
+DISCLOSURES: MKA declares that he has received research grants from Astra Zeneca, Medtronic, and
+Boston Scientific. MKA has served as consultant for Abbott and Huxley Medical. MKA holds a patent for
+"ECG Clock Electrocardiogram Based Diagnostic Device and Method" (US patent #10,085,667). He is the
+author of a reference cited in this topic.
+James P. Daubert, MD
+Professor of Medicine
+Duke University Medical Center, Duke Clinical Research Institute, Durham, NC
+DISCLOSURES: JPD declares that he has received honoraria for advisory boards, steering committees,
+data safety monitoring boards, events committees, and lecture fees from Abbott, Acutus Medical, Affera
+Inc., Biosense Webster, Biotronik, Boston Scientific, Farapulse, Gilead Sciences Inc., Medtronic, Microport,
+Phillips, and Vytronus; and research grants from Abbott, Biosense Webster, Boston Scientific, Farapulse,
+and Medtronic. He receives royalty payments from Wiley, Springboard and McGraw Hill for textbook
+authorship and educational materials. JPD declares that he has no stock, stock options, or other forms of
+ownership. He is the author of a reference cited in this topic.
+// Peer Reviewers:
+Sami Viskin, MD
+Director of Cardiac Hospitalization
+Department of Cardiology, Tel Aviv Medical Center, Tel Aviv, Israel
+DISCLOSURES: SV declares that he has no competing interests.
+Elizabeth S. Kaufman, MD
+Associate Professor
+Heart and Vascular Center, MetroHealth Campus, Case Western Reserve University, Cleveland, OH
+DISCLOSURES: ESK declares that she has no competing interests.

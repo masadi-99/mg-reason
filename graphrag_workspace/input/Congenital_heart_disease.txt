@@ -1,0 +1,1279 @@
+# Congenital heart disease
+
+=== Page 1 ===
+Congenital
+heart disease
+Straight to the point of care
+Last updated: Aug 06, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Introduction  3
+Contents  4
+Epidemiology  4
+Classification  4
+Anatomic and anatomic-physiologic classification of congenital heart disease
+ 5
+Ventricular septal defect (VSD)  5
+Interatrial communications  8
+Atrioventricular septal defect (AVSD)  13
+Patent ductus arteriosus (PDA)  15
+Partial anomalous pulmonary venous connection (PAPVC)  15
+Tetralogy of Fallot (TOF)  16
+Pulmonary valve atresia with a ventricular septal defect  18
+Pulmonary atresia with an intact ventricular septum  18
+d-Transposition of the great arteries (d-TGA)  18
+Truncus arteriosus  19
+Ebstein anomaly  20
+Total anomalous pulmonary venous connection (TAPVC)  20
+Tricuspid valve atresia  21
+Hypoplastic left heart syndrome (HLHS)  21
+Left ventricular outflow tract (LVOT) obstruction  22
+Aortic coarctation  22
+Pulmonary valve stenosis  23
+Coronavirus disease 2019 (COVID-19) and congenital heart disease  23
+Online resources  25
+Guidelines  
+References  26
+Images  32
+Disclaimer  43
+=== Page 3 ===
+Congenital heart disease Overview
+Introduction
+Congenital heart disease (CHD) is the most common birth defect, although still relatively rare.  [Centers
+for Disease Control and Prevention (CDC): facts about congenital heart defects] (https://www.cdc.gov/
+ncbddd/heartdefects/facts.html)  Screening for fetal CHD includes ultrasonography in the second trimester of
+pregnancy and postpartum clinical exam; however, detection rates are low.[1] [2] [3] Fetal echocardiography
+is becoming the definitive test for diagnosis. The American Society of Echocardiography has produced
+recommendations for when to refer for fetal imaging, although they acknowledge there are local differences
+in referral indications depending on the population being screened.[4]
+Early recognition of CHD is important because clinical presentation and deterioration may be sudden and
+some treatable defects may even cause death before diagnosis.[1]
+The surgical and medical treatment of CHD has markedly improved over the last 50 years. The first
+successful open heart surgeries for intracardiac defects were carried out in the US in the 1950s.[5] [6] [7]
+ It was the introduction of machines that perfused the vital organs while a surgeon carefully repaired a non-
+beating heart that revolutionized the field of corrective surgery. Survival well into adulthood is now expected
+for most babies born with CHD.[8]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Congenital heart disease Contents
+CONTENTS
+Epidemiology
+Worldwide, the prevalence of congenital heart disease (CHD) is estimated to be 0.8% to 1.2% of live
+births.[9] In high-income North America, including the US, the birth prevalence of CHD is estimated to
+be 12.3 per 1000 (95% CI, 10.9 to 13.8). An estimated 1% or a minimum of 40,000 infants per year are
+expected to be affected by CHD each year in the US. Around, 25%, or 2.4 per 1000 live births, will undergo
+invasive treatment in the first year of life. The most common type of congenital heart defect is bicuspid aortic
+valve, which occurs in 13.7 of every 1000 people.[10]
+Chromosomal abnormalities (e.g., DiGeorge syndrome, Down syndrome, or Turner syndrome) are found in
+8% to 10% of individuals with CHDs and single-nucleotide or pathogenic copy number variants are found in
+5% to 15%.[10]
+Recent reports show a significant decrease in mortality among patients with CHDs. In 2020, there were 2817
+deaths related to CHD in the US, an 11.9% decrease from 2010, and the age-adjusted death rate was 0.9
+deaths per 100,000 people, an 18.2% decrease from 2010.[10] Due to the improved survival, there is now
+an aging population of adults with CHD who present with complications related to acquired cardiovascular
+disease (e.g., thromboembolic events and arrhythmias).[8][11] [12] The increased risk of morbidity and
+mortality from premature atherosclerotic cardiovascular disease (ASCVD) in this group, poses an increasing
+challenge and highlights the need for long-term monitoring of patients and awareness of their ASCVD risk
+factors.[8]
+Classification
+Left-to-right shunts
+• Lesions that allow blood to shunt from the left side to the right side of the heart. They are associated
+with varying degrees of increased pulmonary blood flow and are typically acyanotic. In some defects,
+the site of the shunt may not be within the heart itself.
+• Cyanosis occurs only if the lesions are large and are not repaired in childhood, and if the patient
+develops pulmonary vascular obstructive disease (Eisenmenger physiology). Echocardiography is
+the primary imaging modality, and, in the current era, the role of cardiac catheterization is primarily for
+intervention.[13]
+• Examples include:
+◊ Ventricular septal defect (VSD)
+◊ Atrial septal defect (ASD)
+◊ Atrioventricular septal defect (AVSD)
+◊ Patent ductus arteriosus (PDA)
+◊ Partial anomalous pulmonary venous connection (PAPVC).
+Right-to-left shunts
+• Lesions that result in deoxygenated blood reaching the aorta and are associated with an increased or
+decreased pulmonary blood flow.
+• Examples include:
+◊ Tetralogy of Fallot (TOF)
+◊ Pulmonary valve atresia with or without a VSD
+◊ d-Transposition of the great arteries (d-TGA)
+◊ Truncus arteriosus
+◊ Ebstein anomaly
+◊ Total anomalous pulmonary venous connection (TAPVC)
+◊ Hypoplastic left heart syndrome (HLHS).
+Obstructive valvular and non-valvular lesions
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Congenital heart disease Contents
+• Left ventricular outflow tract (LVOT) obstruction
+• Coarctation of the aorta
+• Pulmonary valve stenosis (PS)
+• Aortic valve stenosis (AS)
+Anatomic and anatomic-physiologic classification
+of congenital heart disease
+Congenital heart defects can also be classified using the anatomic/physiologic (AP) classification introduced
+by the American Heart Association/American College of Cardiology (AHA/ACC) task force in their 2018
+guidelines.[14]
+In the AP system, a patient is classified with both an "A" class and "P'' class based on the “highest” relevant
+anatomic or physiologic feature, and patients may move from one AP classification to another over time. If
+clinical status worsens, the classification will change to a higher severity group, but improvement in status;
+for example, after an intervention such as valve replacement or control of arrhythmia, can result in change to
+a lower severity classification.
+In the 2020 guidelines for the management of adults with congenital heart defects published by the European
+Society of Cardiology (ESC), only the anatomic classification is used, without the physiologic component.[15]
+ There are differences in the severity rating across both classification systems; for example, congenital
+aortic valve stenosis and congenital mitral valve disease are considered mild defects in the ESC guidelines,
+whereas the AHA/ACC guidelines grade them as moderate.
+Ventricular septal defect (VSD)
+VSD is the most common form of CHD, accounting for 20% of all cases, excluding bicuspid aortic valve
+and mitral valve prolapse.[16] Subtypes based on location include: perimembranous (in the area of the
+membranous septum); outlet (below 1 or both semilunar valves); inlet (inferior to the atrioventricular [AV]
+valves); and muscular (in the muscular or trabeculated portion of the ventricular septum).[17]
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Congenital heart disease Contents
+CONTENTS
+Subtypes of ventricular septal defects: (A) outlet; (B) perimembranous; (C) inlet; (D) muscular
+Mayo Clinic Foundation
+Perimembranous defects typically occur as a solitary lesion and can sometimes close spontaneously by
+apposition of the septal leaflet of the tricuspid valve to the defect. Outlet defects may be large and associated
+with more complex forms of congenital heart disease such as tetralogy of Fallot. Both perimembranous and
+outlet VSDs are in close proximity to the right cusp of the aortic valve. Because of the Venturi effect, these
+defects can cause prolapse of an aortic valve cusp, which results in both a restriction to flow through the VSD
+and regurgitation of the aortic valve.[18] Inlet defects do not close spontaneously and may be associated with
+AVSD and AV valve regurgitation. Muscular defects are the most common type of VSDs in newborns and the
+vast majority close spontaneously before 2 years of age. 
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Congenital heart disease Contents
+Apical 4-chamber echocardiographic image of a muscular VSD (arrow).
+(RA) right atrium; (LA) left atrium; (RV) right ventricle; (LV) left ventricle
+Image courtesy of Patrick W. O'Leary, MD
+Children with a small VSD develop normally and are asymptomatic. With larger defects, the excess
+pulmonary blood flow that ensues after the age of 6-8 weeks when the normal decrease in the pulmonary
+blood flow occurs may lead to the developments of tachypnea, tachycardia, pallor, poor feeding, and poor
+weight gain. Pulmonary vascular remodeling and obstructive disease usually do not develop in infants,
+but can develop by 2 years of age. If left untreated, most moderate to large VSD eventually lead to severe
+pulmonary hypertension and at some point reversal of the shunt occurs, leading to central cyanosis. This
+condition, called Eisenmenger syndrome, does not typically occur until later in life. Once a patient develops
+Eisenmenger physiology, closure of the VSD is contraindicated.[19] [20]
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Congenital heart disease Contents
+CONTENTS
+Patients have a low-to-mid frequency holosystolic murmur, a prominent precordial impulse, and, in patients
+with pulmonary hypertension, a loud and single second heart sound. If the left-to-right shunt is large, patients
+develop a mid-diastolic flow murmur ("rumble") across the mitral valve.
+CXR and ECG can be normal in small VSDs. In larger defects, there is cardiac enlargement and increased
+pulmonary vascular markings on CXR, and ECG reveals left ventricle hypertrophy; right ventricle
+hypertrophy can occur with larger defects. Inlet-type VSDs are associated with left axis deviation on ECG.
+Echocardiography provides important information regarding the anatomy of the defect, the volume of the
+shunt, and right ventricular pressure.[21] [22]
+CXR demonstrating pulmonary overcirculation
+Mayo Clinic Foundation
+The goal of treatment is to ensure adequate somatic growth and prevent pulmonary vascular obstructive
+disease. In the absence of the development of pulmonary hypertension, VSDs typically lead to left ventricular
+(LV) enlargement, which serves as an indication for closure. Small VSDs with restrictive flow may be left
+untreated with need for continuous surveillance for the development of LV enlargement and endocarditis.
+Large VSDs and defects associated with aortic regurgitation due to aortic valve cusp prolapse or excess
+pulmonary blood flow may require diuretics and an increased caloric formula, followed by closure of the
+defect (either surgical closure or transcatheter device closure). Those with increased pulmonary blood flow
+and faltering growth are closed surgically between 1 and 4 months of age; most large defects are typically
+closed by 6-9 months of age. For patients with Eisenmenger syndrome, pulmonary vasodilator therapy is the
+treatment of choice, and women of childbearing age should be informed that pregnancy is not advised due to
+high maternal mortality and fetal complications.[19] [20]
+For more information see Ventricular septal defects .
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Congenital heart disease Contents
+Interatrial communications
+Interatrial communications include atrial septal defects (ASDs) and other pre-tricuspid shunts (e.g., sinus
+venosus defect and unroofed coronary sinus). Pre-tricuspid shunts are defined as the presence of a left-to-
+right shunt that occur proximal to the right atrio-ventricular valve. As compared to post-tricuspid shunts (such
+as ventricular septal defect and patent ductus arteriosus), these defects are characterized by low-pressure
+shunting and varying degree of volume shunting. Pre-tricuspid shunts represent 6% to 10% of all CHDs and
+have a female-to-male predominance of 2:1.[23] The main types consist of ostium secundum atrial septal
+defect (60% to 70% of all pre-tricuspid shunts), which occur in the area of the fossa ovalis; ostium primum
+defect, a form of atrioventricular septal defect (AVSD), in the inferior aspect of the atrial septum; superior and
+inferior sinus venosus defects (in which the interatrial septum is intact), which are present at the site of the
+entry of the superior and inferior vena cava, respectively, into the right atrium; unroofed coronary sinus, the
+least common type.
+Subtypes of atrial septal defects: (A) sinus venosus; (B) ostium
+secundum; (C) ostium primum; (D) unroofed coronary sinus
+Mayo Clinic Foundation
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Congenital heart disease Contents
+CONTENTS
+Apical 4-chamber echocardiographic image of an ostium primum
+ASD (arrow). (RA) right atrium; (LA) left atrium; (LV) left ventricle
+Image courtesy of Patrick W. O'Leary, MD
+Unroofed coronary sinus is not a true atrial septal defect. It occurs when the roofing process of the coronary
+sinus in fetal life is incomplete, thus allowing the coronary sinus and left atrium to communicate.
+Children with isolated pre-tricuspid shunts are frequently asymptomatic.[24] It is the most commonly missed
+CHD diagnosis in childhood, frequently not discovered until adulthood. Untreated defects of moderate to
+large size lead to exercise intolerance, atrial arrhythmias, and increased pulmonary blood flow. An actual
+increase in pulmonary vascular resistance is much more rare than in post-tricuspid shunts and occurs later in
+life, more commonly in specific subpopulations such as those with Down syndrome. Paradoxical embolization
+through the defect occurs almost exclusively in patients with an ASD secundum.
+In patients with moderate to large defects, exam reveals an increased right ventricular impulse, a widely split
+fixed second heart sound, and a soft systolic ejection murmur best heard at the upper left sternal border,
+which is caused by increased blood flow through the pulmonary valve, rather than through the ASD. In large
+defects, a diastolic murmur may also be present at the lower sternal border secondary to excessive blood
+flow through the tricuspid valve.[24]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Congenital heart disease Contents
+CXR is not helpful in determining the subtype and may be normal with a small ASD. ECG may also be
+normal in small secundum, sinus venous, and unroofed coronary sinus ASDs. With a larger shunt, there may
+be right atrial enlargement, right ventricular hypertrophy, or right axis deviation.
+Parasternal short axis echocardiographic image demonstrating right ventricular
+enlargement in a patient with an ASD. (RV) right ventricle; (LV) left ventricle
+Image courtesy of Patrick W. O'Leary, MD
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Congenital heart disease Contents
+CONTENTS
+Apical 4-chamber echocardiographic image demonstrating right ventricular enlargement
+in a patient with an ASD. (RA) right atrium; (RV) right ventricle; (LV) left ventricle
+Image courtesy of Patrick W. O'Leary, MD
+Ostium primum-type defects are characterized by an initial counterclockwise frontal plane loop and left axis
+deviation.[24]
+Treatment involves either an operation or percutaneous device closure.[25]
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Congenital heart disease Contents
+Transesophageal echocardiographic image of an ASD occluder device
+(arrow). (RA) right atrium; (LA) left atrium; (SVC) superior vena cava
+Image courtesy of Patrick W. O'Leary, MD
+Device closure is the preferred method for ostium secundum defects if the defect is of adequate size (the
+largest closure device available is 40 mm in diameter) and if there are adequate septal rims to secure the
+device.[26] In most other subtypes, device closure is not feasible due to lack of rims and proximity to other
+cardiac structures, although recent reports suggest successful device closure of anatomically fit superior
+sinus venosus defects.[27] Partial AVSD (ostium primum ASD and a cleft mitral valve) can be repaired after
+the age of 18-24 months in most patients and involves closure of the mitral cleft in addition to the ASD.
+For more information see Interatrial communications .
+Atrioventricular septal defect (AVSD)
+Represents 4% to 5% of all CHDs and is found in 40% of children with Down syndrome.[28] This defect
+is also called endocardial cushion defect or atrioventricular (AV) canal defect. Endocardial cushions close
+the ostium primum and form portions of the AV valves and the ventricular septum. AVSDs may be partial or
+complete; 1 type of a partial AVSD is a primum atrial septal defect (ASD). A complete AVSD consists of a
+primum ASD and a contiguous inlet ventricular septal defect (VSD). 
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Congenital heart disease Contents
+CONTENTS
+Apical 4-chamber echocardiographic image of complete AVSD. Note the ostium primum ASD (*) and the
+contiguous inlet VSD (arrow). (RA) right atrium; (LA) left atrium; (RV) right ventricle; (LV) left ventricle
+Image courtesy of Patrick W. O'Leary, MD
+Presentation and findings on examination of patients with complete and partial AVSDs are similar to patients
+with a VSD or ASD, respectively. Severity is also determined by the volume of the shunt, extent of the AV
+valve abnormalities, associated cardiac and extracardiac anomalies, and the relative size of the 2 ventricles.
+ECG is likely to reveal an initial counterclockwise frontal plane loop and a superior QRS axis.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Congenital heart disease Contents
+12-lead ECG in an infant with complete AVSD; the ECG is significant for left axis deviation
+Mayo Clinic Foundation
+Patients with complete AVSDs usually have cardiomegaly and increased pulmonary vascular markings on
+CXR.[29]
+Children with a complete AVSD require surgical repair, usually performed at 3-6 months of age. They require
+lifelong follow-up, as approximately 15% of patients develop progressive AV valve regurgitation or left
+ventricle outflow tract obstruction.[14]
+Patent ductus arteriosus (PDA)
+A ductus arterious normally closes within several days of birth and is an essential component of normal in
+utero cardiovascular physiology. Persistent patency occurs in 1 in 2000 live births in full-term infants but is
+much more common in preterm neonates.[30] In preterm infants, a PDA has been noted during admission
+to the hospital in 42% of neonates weighing 500-999 g, 21% weighing 1000-1499 g, and 7% weighing
+1500-1750 g.[31] There is also a 30-fold higher incidence in patients born at higher altitudes. PDA represents
+9% to 12% of all CHDs.
+Patients are asymptomatic when the ductus is small. With increasing size, newborns present with signs of
+increased pulmonary blood flow, a wide pulse pressure and "bounding" pulses. Eisenmenger physiology,
+secondary to elevated pulmonary vascular resistance and shunt reversal, may occur if the PDA is large
+and long standing, and initially results in cyanosis only in the lower half of the body with gradual increase in
+systemic mixing and cyanosis as the disease progresses.[20]
+Typically, a PDA produces a continuous murmur, best heard at the left infraclavicular area. The murmur is
+continuous because the aortic pressure is higher than the pulmonary artery pressure during both systole
+and diastole. If the shunt is large, a diastolic mitral flow murmur also may be heard. In some preterm and
+newborn infants, the murmur may be heard only in systole and can be confused with the murmur of a VSD.
+ECG and CXR often are normal. In a large PDA, biventricular hypertrophy on the surface ECG, and
+increased pulmonary blood flow and cardiomegaly on CXR may be present. Echocardiography allows
+delineation of the PDA anatomy, and direction and volume of the shunt.[32] Further assessment of the
+anatomy and proximity to other structures can be obtained with cross-sectional imaging such as a computed
+tomography study.[22]
+In preterm infants, the ductus can often be closed with indomethacin or ibuprofen, or failing that, ligated
+surgically.[33] In older children and adults, in the absence of significant pulmonary arterial hypertension,
+PDAs are closed percutaneously using coils or devices.[14] [26] Diuretics can be used to treat patients with
+excess pulmonary blood flow until definitive closure.
+For more information see Patent ductus arteriosus .
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Congenital heart disease Contents
+CONTENTS
+Partial anomalous pulmonary venous connection
+(PAPVC)
+An anomaly where ≥1 (but not all) pulmonary veins connect to the systemic veins or right atrium, instead
+of to the left atrium. This defect represents <1% of all CHD. Anomalous connection of the right upper/
+middle pulmonary vein(s) is associated with a sinus venosus defect; connection of the right lower pulmonary
+vein(s) to the inferior vena cava may be part of an inferior sinus venosus defect, also referred to as "Scimitar
+syndrome."[34]
+Presentation, ECG, and CXR findings are similar to patients with ASDs, although patients with only one
+abnormal vein are not infrequently clinically asymptomatic. The clinical presentation of patients with Scimitar
+syndrome varies from relatively asymptomatic adults to severely ill infants with ipsilateral lung hypoplasia,
+respiratory tract infections, and pulmonary hypertension.[35]
+Transthoracic echocardiography may be insufficient to diagnose PAPVC accurately in adults, and other
+imaging modalities such as transesophageal echocardiography, CT, or MRI may be necessary.
+Surgical intervention is indicated if the shunt volume creates significant right-sided volume overload, which is
+associated with a pulmonary outflow murmur and occasionally a diastolic tricuspid inflow murmur.[24]
+Tetralogy of Fallot (TOF)
+TOF is the most common cyanotic CHD, representing 4% to 8% of all defects, and can occur as a solitary
+cardiac lesion, or as part of a genetic syndrome, the most common of which is DiGeorge syndrome (a
+microdeletion of 22q11.2).[36] It consists of 4 abnormalities: outlet ventricular septal defect (VSD), right
+ventricular outflow tract (RVOT) obstruction, an aorta that overrides the crest of the ventricular septum, and
+RV hypertrophy, a result of RVOT obstruction. 
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Congenital heart disease Contents
+Parasternal long axis echocardiographic image in a patient with tetralogy of Fallot. The
+aorta (Ao) overrides the VSD (*). (LA) left atrium; (RV) right ventricle; (LV) left ventricle
+Image courtesy of Patrick W. O'Leary, MD
+If RVOT obstruction is mild, mild or no right-to-left shunt occurs and there is no apparent cyanosis, a
+physiologic setting sometimes referred to as "pink tetralogy." Most patients with TOF, however, have
+progressive cyanosis after birth followed by dyspnea on exertion as a young child. Secondary erythrocytosis
+develops as a compensatory mechanism for chronic hypoxemia. Poor somatic growth may be present.
+Hypercyanotic or "tet spells" are hypoxic episodes consisting of an abrupt onset of rapid shallow breathing,
+increased agitation, cyanosis, and a decrease in murmur intensity due to reduced blood flow through the
+RVOT. Without treatment, these can cause profound hypoxemia, seizures, and death. Older children with
+hypoxic spells will squat to increase systemic vascular resistance and thereby reduce hypoxemia.
+A loud ejection systolic murmur is heard at the left upper sternal border with radiation to both axillae due
+to the RVOT obstruction. Rarely, patients with minimal RVOT obstruction present with only mild cyanosis
+and may develop signs of excess pulmonary blood flow due to a left-to-right shunt through the VSD. A right
+ventricular impulse may be present.
+Classically, CXR is normal except for decreased pulmonary vascular markings. Fewer than 25% of infants
+have the classically described "boot-shaped" cardiac silhouette.
+Severely hypoxic infants may be treated with prostaglandin E1 to re-open or maintain the patency of the
+ductus arteriosus and increase pulmonary blood flow. If this does not improve the hypoxemia, the patient
+may require a systemic-to-pulmonary artery graft, such as a modified Blalock-Taussig shunt, until definitive
+repair (which includes patch closure of the VSD and relief of RVOT obstruction).[37] Complete repair may be
+performed in certain centers in the newborn period, although most clinicians favor it at 3 months of age or
+when progressive cyanosis develops. Surgical results have been excellent in recent decades, although many
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Congenital heart disease Contents
+CONTENTS
+patients repaired as young children require reimplantation of a competent pulmonary valve when older, which
+can be performed either surgically or in a transcatheter procedure.[14]
+Follow-up imaging is essential to identify timely need for valve replacement, type of treatment required, and
+to monitor treatment outcome.[38] Ventricular arrhythmias are a potential life-risking long-term complication
+of repaired TOF, with the likely etiology being slowly conducting anatomic isthmuses created at the
+time of the original surgical repair. Treatment includes ablation with or without intracardiac cardioverter
+defibrillator.[39]
+For more information see Tetralogy of Fallot .
+Pulmonary valve atresia with a ventricular septal
+defect
+This often is considered to be the most severe form of tetralogy of Fallot where the pulmonary valve does
+not develop. Seventy per cent of patients have a patent ductus arteriosus (PDA) that maintains pulmonary
+blood flow. Others have multiple systemic-to-pulmonary collateral vessels. Pulmonary artery anomalies are
+common and include hypoplasia, nonconfluence, and abnormal distribution.[40]
+Patients are usually cyanotic at birth. A continuous murmur from the PDA or systemic-to-pulmonary artery
+collaterals may be audible. The second heart sound is single. ECG shows right axis deviation and right
+ventricular hypertrophy. CXR reveals markedly decreased pulmonary vascularity.
+Prostaglandin E1 is commenced to maintain patency of the ductus arteriosus. Most patients are also likely
+to require a systemic-to-pulmonary shunt to maintain adequate pulmonary blood flow. Patients with large,
+confluent pulmonary arteries may have a single-stage repair; others require a staged repair. Patients with
+multiple systemic-to-pulmonary artery collaterals are at risk of developing early pulmonary hypertension,
+which initially can be segmental.[20]
+Pulmonary atresia with an intact ventricular septum
+This defect is rare and severity depends upon commonly associated right ventricular and tricuspid valve
+hypoplasia. Coronary artery-to-right ventricle fistulae are also associated with this defect.[41] A large,
+unrestrictive atrial septal defect (ASD) is required for survival as there is no outlet from the right ventricle to
+the pulmonary arteries.
+There are no exam findings characteristic of this defect. CXR reveals cardiomegaly with a prominent right
+atrium and ECG shows atrial enlargement. Echocardiography is utilized to determine right ventricular size
+and tricuspid valve hypoplasia.
+A restrictive ASD is a medical emergency in these patients and requires an urgent balloon atrial septostomy.
+Patients should be treated with prostaglandin E1 to maintain ductal patency because the patent ductus
+arteriosus is the only source of pulmonary blood flow.[42] [43]
+Most patients require staged operations that potentially allow the tricuspid valve and right ventricle to
+increase in size. A modified Fontan operation or a 1.5 ventricle repair may be necessary if the right ventricle
+and tricuspid valve do not reach an adequate size to allow a 2 ventricle repair. A 1.5 ventricle repair involves
+a bidirectional cavopulmonary shunt (“Glenn” anastomosis) to divert superior vena caval blood flow to
+the pulmonary arteries to reduce right ventricular preload, closure of the ASD, and establishment of right
+ventricle-to-pulmonary artery continuity. Patients with coronary artery-to-right ventricle fistulae may require a
+modified Fontan operation.
+d-Transposition of the great arteries (d-TGA)
+A common CHD representing 4% of all defects. In this defect, the aorta arises from the right ventricle and
+the pulmonary artery arises from the left ventricle. As a result, deoxygenated systemic venous blood travels
+from the right ventricle to the aorta without passing through the lungs, and pulmonary venous blood travels
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Congenital heart disease Contents
+from the left ventricle to the lungs via the pulmonary artery. The systemic and pulmonary circulations are in
+parallel rather than series. This is not compatible with life without a communication between the 2 circuits,
+such as a ventricular septal defect (VSD), atrial septal defect (ASD), or patent ductus arteriosus (PDA). Most
+patients with d-TGA do not have a VSD and a third of those with a VSD have associated pulmonary stenosis
+(PS).
+Patients present in the first few hours of birth with cyanosis as a medical emergency.
+Exam reveals a prominent right ventricular impulse, a single loud second heart sound (due to the anterior
+position of the aorta), and no murmur, or a systolic ejection murmur in those with a VSD and pulmonary
+stenosis.
+Prostaglandin E1 is used to maintain patency of the ductus arteriosus and most patients also require an
+atrial septostomy to enhance mixing at the atrial level. The arterial switch operation, including coronary
+artery button reimplantation is the best option for patients with d-TGA and a normal pulmonary valve, and
+is performed in the first weeks of life. Once the pulmonary vascular resistance decreases, the left ventricle
+is no longer conditioned to pump against the higher resistance associated with the systemic circulation.
+TGA-VSD should be repaired in the newborn period if identified at that time. However, successful late repair
+(1-2 months of age) has been reported, albeit with increased morbidity. Patients with the combination of
+TGA, VSD, and PS may have undergone a Rastelli operation. This operation uses an angled VSD patch to
+direct blood from the left ventricle (LV) across the VSD to the anterior aorta. This procedure also involves
+placement of a conduit from the right ventricle (RV) to the pulmonary artery (PA). Although this operation
+results in restoration of the LV as the systemic ventricle, long-term management often involves multiple
+reoperations for replacement of the RV-to-PA conduit. Although no longer used, mainly older adults (>35-40
+years of age) born with D-TGA have undergone the atrial switch procedure, either in the form of the Senning
+or the Mustard operation.[38] The RV is the systemic ventricle after these procedures.[26] Around 80% of
+these patients have had good outcome several decades after surgery. However, long-term complications,
+including arrhythmias and conduction abnormalities, systemic or pulmonary venous baffle obstruction or
+regurgitation, and systemic right ventricular dysfunction resulting in heart failure, occur in the vast majority
+of adult patients.[14] Adults presenting with RV dysfunction post atrial switch procedures are candidates for
+heart transplant.[26]
+Truncus arteriosus
+Comprises <1% of all CHD. It consists of a large outlet ventricular septal defect (VSD) and only 1 great
+artery, the truncus, arising from the heart, which gives rise to the coronary arteries, the pulmonary arteries,
+and the aorta. Four subtypes exist, based on the presence or absence of a main pulmonary artery, the
+branching of the pulmonary arteries and the formation of the aorta.[44]
+Subtypes of truncus arteriosus with ventricular septal defect (type A): Type A1: main pulmonary
+artery is present and bifurcates into the left and right pulmonary arteries Type A2:right and left
+branch pulmonary arteries arise from a common trunk. Type A3: One branch pulmonary artery
+arises from the common trunk and the other is absent/arises from a PDA or the aorta. Type
+A4: Truncus with aortic arch hypoplasia, coarctation or interrupted aortic arch and a large PDA
+Calder L et al. Am Heart J 1976 Jul;92(1):23-38; used with permission
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Congenital heart disease Contents
+CONTENTS
+A microdeletion of 22q11.2 (DiGeorge syndrome), interrupted aortic arch, and truncal valve insufficiency are
+common associated anomalies.
+Patients present with congestive heart failure (CHF) or cyanosis.
+Exam reveals a prominent right ventricle impulse and a systolic ejection murmur at the left sternal border.
+There may also be a truncal valve ejection click. Truncal valve regurgitation results in a decrescendo diastolic
+murmur. Interruption of the aorta and a restrictive PDA results in decreased femoral pulses.
+Right ventricular dominance of infancy is seen on ECG, and CXR reveals cardiomegaly with increased
+pulmonary markings. Transthoracic echocardiography helps accurately identify various aspects of this lesion.
+[3] [45][46]
+CHF is treatable with diuretics. Surgical repair entails closure of the VSD, separation of the pulmonary and
+systemic circulations, and placement of a right ventricle-to-pulmonary artery conduit. Surgery is typically
+performed by 2-3 months of age to prevent the development of pulmonary hypertension with elevated
+pulmonary vascular resistance. Patients may also require multiple transcatheter interventions or reoperations
+to treat dysfunction of the right ventricle-to-pulmonary conduit.[47] Operative mortality is greater with
+associated anomalies, such as interruption of the aortic arch.
+Ebstein anomaly
+A rare malformation of the tricuspid valve in which abnormal delamination of the septal and posterior
+valve leaflets leads to various degrees of tricuspid regurgitation, which can be severe at an early stage of
+life.[48] [49] [50] As a result of the lack of delamination and depending on its severity, some part of the right
+ventricle (RV) becomes “atrialized,” meaning that it lies below the level of the deformed tricuspid valve,
+and does not contribute to the forward flow. In rare cases, left ventricular (LV) myopathy is also present.
+In 80% to 94% of patients, a concomitant interatrial communication is present.[50] Cyanosis may occur
+due to streaming of deoxygenated blood from the eccentric tricuspid valve regurgitation jet and through the
+interatrial communication.
+Patients have split first and second heart sounds. CXR reveals a markedly enlarged heart with a prominent
+right-sided border and decreased pulmonary vascularity. ECG shows tall "p" waves in limb lead II and a right
+bundle branch block pattern.[50] [51] Wolff Parkinson White syndrome is found in at least 15% of patients.
+Echocardiography, both transthoracic and transesophageal assist in evaluating the valvular structural
+abnormalities and atrialized RV.[3] Cardiac MRI is helpful in delineating the degree of RV atrialization, its
+size, and its function.
+There is a wide range of anatomic and physiologic severity. Patients with minimal cardiomegaly and tricuspid
+regurgitation lead normal lives without needing surgery. Newborns with severe forms of Ebstein anomaly
+require prostaglandin E1 to augment pulmonary blood flow until pulmonary vascular resistance falls,
+and some do well without surgery. However, management may prove difficult in a subset of patients with
+massive cardiomegaly. Severe tricuspid regurgitation is an indication for surgery, after careful hemodynamic
+evaluation.[26]
+Surgical interventions consist of tricuspid valve repair, replacement, or repair via Da Silva’s cone operation,
+which is a more extensive surgery in which the tricuspid valve is repaired, the annulus is returned to its
+anatomic location and excessive atrial tissue is resected. When performed by skilled operators, the results of
+the cone operation in terms of valve function are excellent.[52]
+Total anomalous pulmonary venous connection
+(TAPVC)
+Comprising <1% of all CHD, TAPVC occurs when all the pulmonary veins connect to the systemic venous
+system or the right atrium. TAPVC can be subdivided into supracardiac, cardiac, infracardiac, and mixed
+types, of which the supracardiac is the most common. TAPVC results in fully oxygenated blood from the
+lungs being directed back to the right atrium, and survival requires a defect in the atrial septum, without
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Congenital heart disease Contents
+which blood cannot reach the aorta.[53] TAPVC can be complicated by obstruction of the veins that drain the
+pulmonary venous confluence, resulting in pulmonary hypertension and congestion.
+Patients with unobstructed pulmonary veins and a large intra-atrial communication have mild cyanosis and
+increased pulmonary blood flow. Examination reveals a prominent right ventricle impulse and a systolic
+ejection murmur. A CXR shows moderate cardiomegaly and increased pulmonary vascular markings. The
+supracardiac form of TAPVC classically reveals a "snowman" configuration. Echocardiography can show a
+dilated right atrium and right ventricle, and a posterior pulmonary venous confluence.[3]
+Patients require surgery but have excellent long-term survival.
+Patients with obstructed pulmonary venous blood flow present with respiratory distress secondary to
+pulmonary edema. This is common in newborns who have an infracardiac connection, and patients require
+emergency surgical repair.[53] Mortality is as high as 40%, despite prompt surgery.
+Tricuspid valve atresia
+Results in the absence of a direct communication between the right atrium and right ventricle. This anomaly
+represents approximately 3% of all CHD. Initial survival is dependent on an intra-atrial communication.
+Presentation and treatment depend on the relationship of the great arteries (normal or transposed), presence
+of a ventricular septal defect (VSD), and severity of pulmonary valve stenosis.
+Typically, patients present with cyanosis. The apical impulse may be prominent. The second heart sound
+may be single or split. A systolic murmur may be due to a VSD or pulmonary stenosis, while a mid-diastolic
+apical murmur may be due to increased pulmonary blood flow and congestive heart failure.
+CXR reveals cardiomegaly with a prominent right atrial border. Pulmonary vascular markings vary
+depending on the degree of pulmonary stenosis. ECG is characterized by left axis deviation and an initial
+counterclockwise frontal plane loop. There may be left ventricle hypertrophy.
+If the source of pulmonary blood flow is not reliable, the patient should be treated with prostaglandin
+E1 until a systemic-to-pulmonary artery shunt can be established. Those with transposed great arteries
+have unrestricted pulmonary blood flow and require pulmonary artery banding to prevent pulmonary
+vascular obstructive disease and/or pulmonary edema, along with anticongestive medications. All patients
+ultimately undergo a Fontan operation in which the systemic venous return is connected directly to the
+pulmonary arteries (total cavo-pulmonary connection).[38] Long-term survival exceeds 85% at 10-year
+post-surgery follow-up. Long-term complications of the Fontan operation include conduction abnormalities,
+arrhythmia, disorders of the lymphatics leading to plastic bronchitis and protein-losing enteropathy,
+congestive hepatopathy with liver fibrosis and ultimate cirrhosis and failure of the Fontan circulation
+warranting heart transplantation.
+Hypoplastic left heart syndrome (HLHS)
+Refers to a spectrum of lesions that includes an intact ventricular septum with underdevelopment of the
+left ventricle, and mitral and aortic valves. Patients commonly have coarctation of the aorta. Newborns can
+appear normal for several days after birth but are dependent on a patent ductus arteriosus (PDA). Once the
+ductus closes, they develop shock.
+Examination reveals diminished lower extremity pulses and an increased right ventricular impulse.
+Echocardiography is used for pre- and postoperative assessment, although visualizing the coronary artery
+anatomy can be a challenge due to the commonly associated aortic hypoplasia.[46]
+Untreated, HLHS is lethal, although mortality has been markedly reduced in the last decade. Patients require
+a staged surgical approach.[54]
+Stage 1 is a Norwood procedure, consisting of reconstruction of the aortic arch using the main pulmonary
+artery and a modified Blalock-Taussig shunt supplying blood flow to the pulmonary artery branches.
+Recently, placement of a right ventricle to pulmonary artery (Sano) shunt has been used as an alternative
+to a Blalock-Taussig shunt during stage 1 palliation.[54] Stage 2 consists of replacing the modified Blalock-
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Congenital heart disease Contents
+CONTENTS
+Taussig shunt (or Sano shunt) with a bidirectional cavopulmonary (Glenn) anastomosis. Stage 3 consists
+of completion of the cavopulmonary connection and formation of the Fontan circulation, as detailed in the
+section on tricuspid atresia. In recent years, hybrid surgical/interventional catheterization procedures have
+been utilized with branch pulmonary artery bands to restrict pulmonary blood flow, and stent deployment
+to maintain ductal patency, although the utility of this approach remains unclear. Cardiac transplantation is
+sometimes pursued as an alternative strategy to staged surgery.[55] Long-term complications of the Fontan
+circulation are similar to those described in the section on tricuspid atresia, and there is some evidence that
+in the presence of a systemic right ventricle these may occur at an earlier stage.
+Left ventricular outflow tract (LVOT) obstruction
+Includes 4 subtypes: aortic valve stenosis, supravalvular stenosis, discrete subvalvular stenosis, and tunnel
+subaortic stenosis.
+Aortic valve stenosis is the most common and represents 5% of all CHD.[56] The leaflets or cusps are
+usually malformed or thickened. Approximately 2% of the general population has a bicuspid aortic valve,
+but many of these individuals never develop clinically significant aortic valve stenosis or regurgitation.
+Supravalvular stenosis occurs as an area of discrete or diffuse narrowing just distal to the sinotubular
+junction in the ascending aorta. It is frequently associated with Williams syndrome or a defect in the elastin
+gene on chromosome 7. Discrete subvalvular stenosis occurs when there is a fibromuscular ridge that
+causes obstruction just below the aortic valve. Turbulence of blood flow can cause damage to the valve
+leaflets of the aortic valve, resulting in progressive aortic regurgitation. Tunnel subaortic stenosis refers to a
+longer stenotic segment of the outflow tract when compared to discrete subvalvular stenosis.
+Presentation depends on the severity of the obstruction. Most patients are asymptomatic. Older patients
+may present with chest pain or syncope. A subset of patients present with poor left ventricular function, low
+cardiac output, and signs of shock and congestive heart failure ("critical" aortic stenosis).
+Examination reveals a crescendo-decrescendo systolic murmur, heard best at the left sternal border with
+radiation to the upper right sternal border. Moderate or severe stenosis results in a palpable thrill and delayed
+pulses. An ejection click may also be heard just after the first heart sound in patients with aortic valve
+stenosis. The click does not vary with respiration, in contrast to a pulmonary valve ejection click. Patients
+with concurrent aortic regurgitation also have a decrescendo diastolic murmur and a wide pulse pressure.
+ECG inconsistently shows evidence of left ventricular hypertrophy. Severe LVOT stenosis is associated with
+flattening or inversion of the T waves in leads V5 and V6.
+CXR may reveal a prominent aorta as a result of poststenotic dilation. Echocardiography helps accurately
+evaluate aortic valve morphology and estimate the pressure gradient across the LVOT. In valvular aortic
+stenosis, the Doppler-estimated mean gradient is utilized to assess severity. The gradient will vary with the
+cardiac output.
+Patients with "critical" aortic stenosis require emergency relief of the stenosis. Symptomatic patients also
+require relief of the obstruction, regardless of the degree of the stenosis. Infants with severe valvular stenosis
+require balloon valvuloplasty, although surgery may be required for coexistent aortic regurgitation. Surgical
+valvotomy or valve replacement is considered for older children and adults. Patients with severe stenosis
+followed in the Second Natural History Study of Congenital Heart Defects had a 25-year survival rate of
+81%.[57] Dilatation of the aorta, either at the level of the root or the ascending part, is present in 20% to
+84% of patients with a bicuspid aortic valve, and in adult patients should be replaced when it reaches a
+diameter of 5.5 cm, or 5 cm if an aortic valve surgery is needed, or the patient has an inherited thoracic aortic
+aneurysm.[58]
+Aortic coarctation
+Constitutes 5% of CHD and is more common in males; aortic coarction is associated with Turner syndrome
+in females. It consists of a posterior ledge of tissue that protrudes into the aorta and is typically described
+as juxtaductal because it occurs across the ductus arteriosus. It is commonly associated with a bicuspid
+aortic valve (70% to 75% of patients with aortic coarctation have a bicuspid aortic valve, yet only about 7% of
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Congenital heart disease Contents
+patients with bicuspid aortic valve also have aortic coarctation) and less commonly with a ventricular septal
+defect or subvalvular aortic stenosis.[59]
+Patients with mild obstruction may not present until adolescence with a heart murmur or systemic
+hypertension. In those with severe obstruction, the patent ductus arteriosus (PDA) is the major source of
+systemic blood flow distal to the obstruction, which means that neonates develop metabolic acidosis and
+shock as the ductus closes.
+The lower extremities have lower oxygen saturation and decreased pulses, in addition to congestive heart
+failure in patients with severe obstruction. It is important to take the blood pressure in both upper extremities
+and 1 leg before making the diagnosis as it is easy to miss the diagnosis in patients with a coarctation
+proximal to the left subclavian artery or those with an anomalous origin of the right subclavian artery.
+Turbulent blood flow through the area of coarctation produces a systolic murmur. Patients with an associated
+bicuspid aortic valve have an ejection click.
+Infants, paradoxically, have right ventricular hypertrophy on ECG and echocardiography because of the PDA
+supplying the aorta distal to the obstruction. Older patients have signs of left ventricular hypertrophy. CT
+and MRI may be useful in defining the anatomy of the coarctation in stent implantation. The most commonly
+used surgical repair method is an extended end-to-end anastomosis, which when performed by skilled
+operators, has excellent duration and long-term outcomes.[60] Other surgical techniques include subclavian
+flap repair and use of a prosthetic graft. Repair in the newborn period is associated with an increased
+incidence of recurrence, which is best treated by stent placement. Other long-term complications include
+aneurysm formation at the site of the anastomosis and aortic dissection. Despite its localized nature, it is
+well appreciated that aortic coarctation causes systemic endothelial dysfunction, and many patients are
+at a risk of developing early-onset hypertension, which can lead to cardiovascular adverse events such as
+stroke, peripheral arterial disease, and ischemic heart disease.[61] Up to 10% of patients develop intracranial
+vascular microaneurysms (sometimes referred to as “berry aneurysms), especially in the anatomic area
+of the circle of Willis.[62] Life-long follow-up, even in patients who do not have a residual obstruction, is
+extremely important.
+For more information see Aortic coarctation .
+Pulmonary valve stenosis
+Represents up to 8% of all CHD and is commonly found in patients with Noonan syndrome. Most children
+present with an asymptomatic murmur. However, neonates with critical pulmonary valve stenosis present with
+cyanosis secondary to a right-to-left shunting of blood at the atrial level.[63]
+Examination reveals an increased right ventricular impulse, a click following the first heart sound that varies
+with respiration, a normally split to a widely split second heart sound depending on the severity, and a
+crescendo-decrescendo ejection murmur. With increasing severity of stenosis, the pulmonary ejection
+click occurs earlier in systole; in the most severe cases, the click may merge with the first heart sound and
+become inaudible.[49] Conversely, the second heart sound splits more widely with increasing severity of
+stenosis and may become fixed in severe stenosis. In very severe stenosis, the pulmonary component of the
+second sound may become difficult to hear due to the loud murmur that spills into diastole. A fourth heart
+sound may be heard in patients with right ventricular failure.[49]
+ECG may reveal right axis deviation and a CXR may show signs of right ventricular enlargement. Typically,
+there is poststenotic dilation of the pulmonary arteries.
+Balloon valvuloplasty is the preferred treatment, and at 10-year follow-up 84% of patients do not require
+further intervention.[63] The long-term outcome is excellent. If valve replacement is ultimately needed, it can
+be performed either surgically or via a transcatheter approach.
+For more information see Pulmonary stenosis .
+CONTENTS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Congenital heart disease Contents
+CONTENTS
+Coronavirus disease 2019 (COVID-19) and congenital
+heart disease
+People with CHD may be at increased risk for more severe COVID-19 infection, particularly those with more
+severe anatomic and physiologic features of CHD.[64] [65] Simple biventricular defects, complex ventricular
+defects, and heart surgery are associated with severe COVID-19.[66] Recommendations for prevention and
+management of COVID-19 in adults with CHD, based on risk stratification, have been published.[65][67]
+It is recommended that cardiac medications, including aspirin, angiotensin-converting enzyme (ACE)
+inhibitors, angiotensin-II receptor antagonists, beta-blockers, diuretics, and antiarrhythmic medications are
+continued during COVID-19 illness, unless there is a clear contraindication.[64]
+For more information see Coronavirus disease 2019 (COVID-19) .
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Congenital heart disease Online resources
+Online resources
+1. Centers for Disease Control and Prevention (CDC): facts about congenital heart defects (external link)
+(https://www.cdc.gov/ncbddd/heartdefects/facts.html)
+ONLINE RESOURCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Congenital heart disease References
+REFERENCES
+Key articles
+• Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC Guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines. Circulation. 2019 Apr 2;139(14):e698-800. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000603)
+• Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC Guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606)
+• American College of Radiology. Appropriateness criteria: congenital or acquired heart disease. 2023
+[internet publication].  Full text (https://acsearch.acr.org/docs/3102389/Narrative)
+• Toro-Salazar OH, Steinberger J, Thomas W, et al. Long-term follow-up of patients after coarctation
+of the aorta repair. Am J Cardiol. 2002 Mar 1;89(5):541-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11867038?tool=bestpractice.bmj.com)
+References
+1. Wren C, Richmond S, Donaldson L. Presentation of congenital heart disease in infancy: implications
+for routine examination. Arch Dis Child Fetal Neonatal Ed. 1999 Jan;80(1):F49-53.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1720871)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10325813?tool=bestpractice.bmj.com)
+2. Kardasevic M, Kardasevic A. The importance of heart murmur in the neonatal period and
+justification of echocardiographic review. Med Arch. 2014 Aug;68(4):282-4.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4240565)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25568554?tool=bestpractice.bmj.com)
+3. Wasserman MA, Shea E, Cassidy C, et al. Recommendations for the adult cardiac sonographer
+performing echocardiography to screen for critical congenital heart disease in the newborn: from the
+American Society of Echocardiography. J Am Soc Echocardiogr. 2021 Mar;34(3):207-22.  Full text
+(https://onlinejase.com/article/S0894-7317(20)30779-3/fulltext)
+4. Moon-Grady AJ, Donofrio MT, Gelehrter S, et al. Guidelines and recommendations for performance
+of the fetal echocardiogram: an update from the American Society of Echocardiography.
+J Am Soc Echocardiogr. 2023 Jul;36(7):679-723.  Full text (https://onlinejase.com/article/
+S0894-7317(23)00206-7/fulltext)
+5. Allen HD, Driscoll DJ, Feltes TF, et al. Moss and Adams' heart disease in infants, children, and
+adolescents. 7th ed. Philadelphia, PA: Lippincott Williams & Wilkins;xxv-vi.
+6. Meisner H. Milestones in surgery: 60 years of open heart surgery. Thorac Cardiovasc Surg.
+2014 Dec;62(8):645-50.  Full text (https://www.thieme-connect.com/products/ejournals/
+html/10.1055/s-0034-1384802)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25083834?
+tool=bestpractice.bmj.com)
+7. Cohn LH. Fifty years of open-heart surgery. Circulation. 2003 May 6;107(17):2168-70.  Full text
+(https://www.ahajournals.org/doi/10.1161/01.CIR.0000071746.50876.E2)
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Congenital heart disease References
+8. Brida M, De Rosa S, Legendre A, et al. Acquired cardiovascular disease in adults with congenital
+heart disease. Eur Heart J. 2023 Nov 14;44(43):4533-48.  Full text (https://academic.oup.com/
+eurheartj/article/44/43/4533/7284092)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37758198?
+tool=bestpractice.bmj.com)
+9. GBD 2017 Congenital Heart Disease Collaborators. Global, regional, and national burden of
+congenital heart disease, 1990-2017: a systematic analysis for the Global Burden of Disease Study
+2017. Lancet Child Adolesc Health. 2020 Mar;4(3):185-200.  Full text (https://www.thelancet.com/
+journals/lanchi/article/PIIS2352-4642(19)30402-X/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31978374?tool=bestpractice.bmj.com)
+10. Tsao CW, Aday AW, Almarzooq ZI, et al. Heart disease and stroke statistics-2023 update: a report
+from the American Heart Association. Circulation. 2023 Feb 21;147(8):e93-621.  Full text (https://
+www.ahajournals.org/doi/10.1161/CIR.0000000000001123)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36695182?tool=bestpractice.bmj.com)
+11. Chessa M, Brida M, Gatzoulis MA, et al. Emergency department management of patients with
+adult congenital heart disease: a consensus paper from the ESC Working Group on Adult
+Congenital Heart Disease, the European Society for Emergency Medicine (EUSEM), the European
+Association for Cardio-Thoracic Surgery (EACTS), and the Association for Acute Cardiovascular
+Care (ACVC). Eur Heart J. 2021 Jul 8;42(26):2527-35.  Full text (https://academic.oup.com/
+eurheartj/article/42/26/2527/6280168)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34021343?
+tool=bestpractice.bmj.com)
+12. Hart TB. Paraquat--a review of safety in agricultural and horticultural use. Hum Toxicol. 1987
+Jan;6(1):13-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3546082?tool=bestpractice.bmj.com)
+13. Driscoll D. Fundamentals of pediatric cardiology. Philadelphia, PA: Lippincott Williams & Wilkins;
+2006:73-88.
+14. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC Guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines. Circulation. 2019 Apr 2;139(14):e698-800. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000603)
+15. Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC Guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606)
+16. Nadas AS, Fyler DC. Pediatric cardiology. 3rd ed. Philadelphia, PA: WB Saunders; 1972:348.
+17. Lopez L, Houyel L, Colan SD, et al. Classification of ventricular septal defects for the eleventh iteration
+of the international classification of diseases-striving for consensus: a report from the International
+Society for Nomenclature of Paediatric and Congenital Heart Disease. Ann Thorac Surg. 2018
+Nov;106(5):1578-89.  Full text (https://www.annalsthoracicsurgery.org/article/S0003-4975(18)31003-8/
+fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30031844?tool=bestpractice.bmj.com)
+18. Eroğlu AG, Oztunç F, Saltik L, et al. Aortic valve prolapse and aortic regurgitation in patients
+with ventricular septal defect. Pediatr Cardiol. 2003 Jan-Feb;24(1):36-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12360382?tool=bestpractice.bmj.com)
+19. Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and
+treatment of pulmonary hypertension. Eur Heart J. 2022 Oct 11;43(38):3618-731.  Full text (https://
+academic.oup.com/eurheartj/article/43/38/3618/6673929)
+20. Jone PN, Ivy DD, Hauck A, et al. Pulmonary hypertension in congenital heart disease: a scientific
+statement from the American Heart Association. Circ Heart Fail. 2023 Jul;16(7):e00080.  Full
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Congenital heart disease References
+REFERENCES
+text (https://www.ahajournals.org/doi/full/10.1161/HHF.0000000000000080)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37357777?tool=bestpractice.bmj.com)
+21. Budts W, Miller O, Babu-Narayan SV, et al. Imaging the adult with simple shunt lesions: position
+paper from the EACVI and the ESC WG on ACHD. Endorsed by AEPC (Association for European
+Paediatric and Congenital Cardiology). Eur Heart J Cardiovasc Imaging. 2021 May 10;22(6):e58-70. 
+Full text (https://academic.oup.com/ehjcimaging/article/22/6/e58/6041760)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33338215?tool=bestpractice.bmj.com)
+22. Sachdeva R, Valente AM, Armstrong AK, et al. ACC/AHA/ASE/HRS/ISACHD/SCAI/SCCT/
+SCMR/SOPE 2020 appropriate use criteria for multimodality imaging during the follow-up care of
+patients with congenital heart disease: a report of the American College of Cardiology Solution
+Set Oversight Committee and Appropriate Use Criteria Task Force, American Heart Association,
+American Society of Echocardiography, Heart Rhythm Society, International Society for Adult
+Congenital Heart Disease, Society for Cardiovascular Angiography and Interventions, Society of
+Cardiovascular Computed Tomography, Society for Cardiovascular Magnetic Resonance, and Society
+of Pediatric Echocardiography. J Am Coll Cardiol. 2020 Feb 18;75(6):657-703.  Full text (https://
+www.sciencedirect.com/science/article/pii/S073510971937812X)
+23. Fyler DC. Atrial deptal defect decundum. Nadas' pediatric cardiology. Philadelphia, PA: Hanley &
+Belfus; 1992:513-24.
+24. Romfh A, Pluchinotta FR, Porayette P, et al. Congenital heart defects in adults : a field guide for
+cardiologists. J Clin Exp Cardiolog. 2012 Jun 15;(suppl 8):007.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC3842121)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24294540?
+tool=bestpractice.bmj.com)
+25. Rigatelli G, Cardaioli P, Hijazi ZM. Contemporary clinical management of atrial septal defects in the
+adult. Expert Rev Cardiovasc Ther. 2007 Nov;5(6):1135-46. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18035929?tool=bestpractice.bmj.com)
+26. Marelli A, Beauchesne L, Colman J, et al. Canadian Cardiovascular Society 2022 guidelines
+for cardiovascular interventions in adults with congenital heart disease. Can J Cardiol. 2022
+Jul;38(7):862-96.  Full text (https://onlinecjc.ca/article/S0828-282X(22)00260-4/fulltext)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/35460862?tool=bestpractice.bmj.com)
+27. Hansen JH, Duong P, Jivanji SGM, et al. Transcatheter correction of superior sinus venosus atrial
+septal defects as an alternative to surgical treatment. J Am Coll Cardiol. 2020 Mar 24;75(11):1266-78. 
+Full text (https://www.sciencedirect.com/science/article/pii/S0735109720302722)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32192652?tool=bestpractice.bmj.com)
+28. Fyler DC, Buckley LP, Hellenbrand WE. Endocardial cushion defect: report of the New England
+Regional Infant Cardiac Program. J Pediatr. 1980;65:441-4.
+29. Calkoen EE, Hazekamp MG, Blom NA, et al. Atrioventricular septal defect: from embryonic
+development to long-term follow-up. Int J Cardiol. 2016 Jan 1;202:784-95. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26476030?tool=bestpractice.bmj.com)
+30. Dice JE, Bhatia J. Patent ductus arteriosus: an overview. J Pediatr Pharmacol Ther. 2007
+Jul;12(3):138-46.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462096)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23055849?tool=bestpractice.bmj.com)
+31. Peterec SM, Warshaw JB. The premature newborn. In: McMillan JA, Feigin RD, et al, eds. Oski's
+pediatrics principles & practice. 4th ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2006:226.
+32. Hamrick SEG, Sallmon H, Rose AT, et al. Patent ductus arteriosus of the preterm infant.
+Pediatrics. 2020 Nov;146(5):e20201209.  Full text (https://publications.aap.org/pediatrics/
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Congenital heart disease References
+article/146/5/e20201209/75323/Patent-Ductus-Arteriosus-of-the-Preterm-Infant)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33093140?tool=bestpractice.bmj.com)
+33. Aranda JV, Clyman R, Cox B, et al. A randomized, double-blind, placebo-controlled trial on intravenous
+ibuprofen L-lysine for the early closure of nonsymptomatic patent ductus arteriosus within 72 hours
+of birth in extremely low-birth-weight infants. Am J Perinatol. 2009 Mar;26(3):235-45. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19067286?tool=bestpractice.bmj.com)
+34. Neill CA, Ferencz C, Sabiston DC, et al. The familial occurrence of hypoplastic right lung with
+systemic arterial supply and venous drainage: "Scimitar syndrome." Bull Johns Hopkins Hosp. 1960
+Jul;107:1-21. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14426379?tool=bestpractice.bmj.com)
+35. Vida VL, Padalino MA, Boccuzzo G, et al. Scimitar syndrome: a European Congenital Heart
+Surgeons Association (ECHSA) multicentric study. Circulation. 2010 Sep 21;122(12):1159-66.  Full
+text (https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.109.926204)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20823387?tool=bestpractice.bmj.com)
+36. Bailliard F, Anderson RH. Tetralogy of fallot. Orphanet J Rare Dis. 2009 Jan 13;4:2.  Full text (https://
+ojrd.biomedcentral.com/articles/10.1186/1750-1172-4-2)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19144126?tool=bestpractice.bmj.com)
+37. Fraser CD, McKenzie ED, Cooley DA. Tetralogy of Fallot: surgical management individualized to
+the patient. Ann Thorac Surg. 2001 May;71(5):1556-61. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11383800?tool=bestpractice.bmj.com)
+38. American College of Radiology. Appropriateness criteria: congenital or acquired heart disease. 2023
+[internet publication].  Full text (https://acsearch.acr.org/docs/3102389/Narrative)
+39. Krieger EV, Zeppenfeld K, DeWitt ES, et al. Arrhythmias in repaired tetralogy of fallot: a
+scientific statement from the American Heart Association. Circ Arrhythm Electrophysiol. 2022
+Nov;15(11):e000084.  Full text (https://www.ahajournals.org/doi/full/10.1161/HAE.0000000000000084)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36263773?tool=bestpractice.bmj.com)
+40. Liao PK, Edwards WD, Julsrud PR, et al. Pulmonary blood supply in patients with pulmonary
+atresia and ventricular septal defect. J Am Coll Cardiol. 1985 Dec;6(6):1343-50.  Full text (https://
+www.sciencedirect.com/science/article/pii/S0735109785802230?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/4067114?tool=bestpractice.bmj.com)
+41. Kasznica J, Ursell PC, Blanc WA, et al. Abnormalities of the coronary circulation in pulmonary
+atresia and intact ventricular septum. Am Heart J. 1987 Dec;114(6):1415-20. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3687696?tool=bestpractice.bmj.com)
+42. Akkinapally S, Hundalani SG, Kulkarni M, et al. Prostaglandin E1 for maintaining ductal
+patency in neonates with ductal-dependent cardiac lesions. Cochrane Database Syst
+Rev. 2018 Feb 27;2(2):CD011417.  Full text (https://www.cochranelibrary.com/cdsr/
+doi/10.1002/14651858.CD011417.pub2/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29486048?tool=bestpractice.bmj.com)
+43. Schneider AW, Blom NA, Bruggemans EF, et al. More than 25 years of experience in managing
+pulmonary atresia with intact ventricular septum. Ann Thorac Surg. 2014 Nov;98(5):1680-6.  Full
+text (https://www.annalsthoracicsurgery.org/article/S0003-4975(14)01287-9/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25149048?tool=bestpractice.bmj.com)
+44. Calder L, Van Praagh R, Van Praagh S, et al. Truncus arteriosus communis. Clinical,
+angiocardiographic, and pathologic findings in 100 patients. Am Heart J. 1976 Jul;92(1):23-38.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/985630?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Congenital heart disease References
+REFERENCES
+45. Chikkabyrappa S, Mahadevaiah G, Buddhe S, et al. Common arterial trunk: physiology, imaging,
+and management. Semin Cardiothorac Vasc Anesth. 2019 Jun;23(2):225-36. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30596352?tool=bestpractice.bmj.com)
+46. Frommelt P, Lopez L, Dimas VV, et al. Recommendations for multimodality assessment of congenital
+coronary anomalies: a guide from the American Society of Echocardiography: developed in
+collaboration with the Society for Cardiovascular Angiography and Interventions, Japanese Society
+of Echocardiography, and Society for Cardiovascular Magnetic Resonance. J Am Soc Echocardiogr.
+2020 Mar;33(3):259-94.  Full text (https://onlinejase.com/article/S0894-7317(19)31083-1/fulltext)
+47. Khambadkone S, Coats L, Taylor A, et al. Percutaneous pulmonary valve implantation in
+humans: results in 59 consecutive patients. Circulation. 2005 Aug 23;112(8):1189-97.  Full text
+(http://circ.ahajournals.org/content/112/8/1189.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16103239?tool=bestpractice.bmj.com)
+48. New England Regional Infant Cardiac Program. Report of the New England Regional Infant
+Cardiac Program. Pediatrics. 1980 Feb;65(2 Pt 2):375-461. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/7355042?tool=bestpractice.bmj.com)
+49. Bruce CJ, Connolly HM. Right-sided valve disease deserves a little more respect. Circulation.
+2009 May 26;119(20):2726-34.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIRCULATIONAHA.108.776021)
+50. Attenhofer Jost CH, Connolly HM, Dearani JA, et al. Ebstein's anomaly. Circulation. 2007 Jan
+16;115(2):277-85.  Full text (https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.106.619338)
+51. Schiebler GL, Adams P, Anderson RC, et al. Clinical study of twenty-three cases of Ebstein's anomaly
+of the tricuspid valve. Circulation. 1959 Feb;19(2):165-87.  Full text (http://circ.ahajournals.org/
+content/circulationaha/19/2/165.full.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/13629777?
+tool=bestpractice.bmj.com)
+52. Lange R, Burri M, Eschenbach LK, et al. Da Silva's cone repair for Ebstein's anomaly: effect on right
+ventricular size and function. Eur J Cardiothorac Surg. 2015 Aug;48(2):316-20.  Full text (https://
+academic.oup.com/ejcts/article/48/2/316/446510/Da-Silva-s-cone-repair-for-Ebstein-s-anomaly)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25535206?tool=bestpractice.bmj.com)
+53. Geva T, Van Praagh S. Anomalies of the pulmonary veins. In: Allen HD, Driscoll DJ, Feltes TF, et
+al. Moss and Adams' heart disease in infants, children, and adolescents. 7th ed. Philadelphia, PA:
+Lippincott Williams & Wilkins; 2008:775-6.
+54. Ohye RG, Sleeper LA, Mahony L, et al; Pediatric Heart Network Investigators. Comparison of
+shunt types in the Norwood procedure for single-ventricle lesions. N Engl J Med. 2010 May
+27;362(21):1980-92.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2891109)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/20505177?tool=bestpractice.bmj.com)
+55. Merrill WH, Frist WH, Stewart JR, et al. Heart transplantation in children. Ann Surg. 1991
+May;213(5):393-8.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1358457)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2025059?tool=bestpractice.bmj.com)
+56. Mitchell SC, Korones SB, Berendes HW. Congenital heart disease in 56,109 births: incidence
+and natural history. Circulation. 1971 Mar;43(3):323-32. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/5102136?tool=bestpractice.bmj.com)
+57. Keane JF, Driscoll DJ, Gersony WM, et al. Second natural history study of congenital heart defects:
+results of treatment of patients with aortic valvar stenosis. Circulation. 1993 Feb;87(2 suppl):I16-27.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8425319?tool=bestpractice.bmj.com)
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Congenital heart disease References
+58. Isselbacher EM, Preventza O, Hamilton Black J 3rd, et al. 2022 ACC/AHA guideline for the
+diagnosis and management of aortic disease: a report of the American Heart Association/American
+College of Cardiology Joint Committee on clinical practice guidelines. Circulation. 2022 Dec
+13;146(24):e334-482.  Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000001106)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36322642?tool=bestpractice.bmj.com)
+59. Sinning C, Zengin E, Kozlik-Feldmann R, et al. Bicuspid aortic valve and aortic coarctation in
+congenital heart disease-important aspects for treatment with focus on aortic vasculopathy.
+Cardiovasc Diagn Ther. 2018 Dec;8(6):780-8.  Full text (https://cdt.amegroups.org/
+article/view/21779/22183)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30740325?
+tool=bestpractice.bmj.com)
+60. Vasile CM, Laforest G, Bulescu C, et al. From crafoord's end-to-end anastomosis approach to
+percutaneous interventions: coarctation of the aorta management strategies and reinterventions. J Clin
+Med. 2023 Nov 27;12(23):7350.  Full text (https://www.mdpi.com/2077-0383/12/23/7350)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/38068402?tool=bestpractice.bmj.com)
+61. Toro-Salazar OH, Steinberger J, Thomas W, et al. Long-term follow-up of patients after coarctation
+of the aorta repair. Am J Cardiol. 2002 Mar 1;89(5):541-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11867038?tool=bestpractice.bmj.com)
+62. Natraj Setty HSS, Shivanand P, Narendhiran P, et al. Coarctation of aorta presenting as spontaneous
+subarachnoid hemorrhage in a young female: a case report of a rare clinical entity. Cardiol Res. 2019
+Aug;10(4):241-4.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6681846)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31413782?tool=bestpractice.bmj.com)
+63. Cuypers JA, Witsenburg M, van der Linde D, et al. Pulmonary stenosis: update on diagnosis and
+therapeutic options. Heart. 2013 Mar;99(5):339-47.
+64. Alsaied T, Aboulhosn JA, Cotts TB, et al. Coronavirus disease 2019 (COVID-19) pandemic
+implications in pediatric and adult congenital heart disease. J Am Heart Assoc. 2020 Jun
+16;9(12):e017224.  Full text (https://www.ahajournals.org/doi/abs/10.1161/JAHA.120.017224)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32441586?tool=bestpractice.bmj.com)
+65. Diller GP, Gatzoulis MA, Broberg CS, et al. Coronavirus disease 2019 in adults with congenital heart
+disease: a position paper from the ESC working group of adult congenital heart disease, and the
+International Society for Adult Congenital Heart Disease. Eur Heart J. 2021 May 14;42(19):1858-65. 
+Full text (https://academic.oup.com/eurheartj/article/42/19/1858/6031689)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33313664?tool=bestpractice.bmj.com)
+66. Ehwerhemuepha L, Roth B, Patel AK, et al. Association of congenital and acquired cardiovascular
+conditions with COVID-19 severity among pediatric patients in the US. JAMA Netw Open. 2022 May
+2;5(5):e2211967.  Full text (https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2792374)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35579899?tool=bestpractice.bmj.com)
+67. Radke RM, Frenzel T, Baumgartner H, et al. Adult congenital heart disease and the
+COVID-19 pandemic. Heart. 2020 Sep;106(17):1302-9.  Full text (https://heart.bmj.com/
+content/106/17/1302.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32522822?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Congenital heart disease Images
+IMAGES
+Images
+Figure 1: Subtypes of ventricular septal defects: (A) outlet; (B) perimembranous; (C) inlet; (D) muscular
+Mayo Clinic Foundation
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Congenital heart disease Images
+Figure 2: Apical 4-chamber echocardiographic image of a muscular VSD (arrow). (RA) right atrium; (LA) left
+atrium; (RV) right ventricle; (LV) left ventricle
+Image courtesy of Patrick W. O'Leary, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Congenital heart disease Images
+IMAGES
+Figure 3: CXR demonstrating pulmonary overcirculation
+Mayo Clinic Foundation
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Congenital heart disease Images
+Figure 4: Subtypes of atrial septal defects: (A) sinus venosus; (B) ostium secundum; (C) ostium primum; (D)
+unroofed coronary sinus
+Mayo Clinic Foundation
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Congenital heart disease Images
+IMAGES
+Figure 5: Apical 4-chamber echocardiographic image of an ostium primum ASD (arrow). (RA) right atrium;
+(LA) left atrium; (LV) left ventricle
+Image courtesy of Patrick W. O'Leary, MD
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Congenital heart disease Images
+Figure 6: Parasternal short axis echocardiographic image demonstrating right ventricular enlargement in a
+patient with an ASD. (RV) right ventricle; (LV) left ventricle
+Image courtesy of Patrick W. O'Leary, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Congenital heart disease Images
+IMAGES
+Figure 7: Apical 4-chamber echocardiographic image demonstrating right ventricular enlargement in a patient
+with an ASD. (RA) right atrium; (RV) right ventricle; (LV) left ventricle
+Image courtesy of Patrick W. O'Leary, MD
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Congenital heart disease Images
+Figure 8: Transesophageal echocardiographic image of an ASD occluder device (arrow). (RA) right atrium;
+(LA) left atrium; (SVC) superior vena cava
+Image courtesy of Patrick W. O'Leary, MD
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Congenital heart disease Images
+IMAGES
+Figure 9: Apical 4-chamber echocardiographic image of complete AVSD. Note the ostium primum ASD (*)
+and the contiguous inlet VSD (arrow). (RA) right atrium; (LA) left atrium; (RV) right ventricle; (LV) left ventricle
+Image courtesy of Patrick W. O'Leary, MD
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Congenital heart disease Images
+Figure 10: 12-lead ECG in an infant with complete AVSD; the ECG is significant for left axis deviation
+Mayo Clinic Foundation
+Figure 11: Parasternal long axis echocardiographic image in a patient with tetralogy of Fallot. The aorta (Ao)
+overrides the VSD (*). (LA) left atrium; (RV) right ventricle; (LV) left ventricle
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Congenital heart disease Images
+IMAGES
+Image courtesy of Patrick W. O'Leary, MD
+Figure 12: Subtypes of truncus arteriosus with ventricular septal defect (type A): Type A1: main pulmonary
+artery is present and bifurcates into the left and right pulmonary arteries Type A2:right and left branch
+pulmonary arteries arise from a common trunk. Type A3: One branch pulmonary artery arises from the
+common trunk and the other is absent/arises from a PDA or the aorta. Type A4: Truncus with aortic arch
+hypoplasia, coarctation or interrupted aortic arch and a large PDA
+Calder L et al. Am Heart J 1976 Jul;92(1):23-38; used with permission
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Congenital heart disease Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Congenital heart disease Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Aug 06, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 45 ===
+Contributors:
+// Authors:
+Karen K. Stout, MD, FACC
+Professor of Medicine
+Adjunct Professor of Pediatrics and Cardiology, Division of Cardiology, University of Washington, Seattle,
+WA
+DISCLOSURES: KKS is an author of a guideline cited in this topic.
+Yonatan Buber, MD
+Associate Professor of Medicine
+Department of Internal Medicine, Division of Cardiology, University of Washington, Seattle, WA
+DISCLOSURES: YB declares that he has no competing interests.
+// Acknowledgements:
+Dr Karen S. Stout and Dr Yonatan Buber would like to gratefully acknowledge Dr Sachin Khambadkone, Dr
+Nathaniel W. Taggart, and Dr Frank Cetta, the previous contributors to this topic. SK, NWT, and FC declare
+that they have no competing interests.
+// Peer Reviewers:
+Tain-Yen Hsia, MD
+Attending Pediatric Cardiothoracic Surgeon
+Medical University of South Carolina Children's Hospital, Charleston, SC
+DISCLOSURES: TYH declares that he has no competing interests.

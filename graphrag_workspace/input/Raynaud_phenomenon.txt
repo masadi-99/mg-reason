@@ -1,0 +1,3127 @@
+# Raynaud phenomenon
+
+=== Page 1 ===
+Raynaud phenomenon
+Straight to the point of care
+Last updated: Oct 04, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  5
+Classification  5
+Case history  5
+Diagnosis  7
+Approach  7
+History and exam  18
+Risk factors  21
+Tests  23
+Differentials  24
+Management  26
+Approach  26
+Treatment algorithm overview  30
+Treatment algorithm  32
+Emerging  59
+Primary prevention  59
+Secondary prevention  59
+Patient discussions  59
+Follow up  60
+Monitoring  60
+Complications  61
+Prognosis  62
+Guidelines  63
+Diagnostic guidelines  63
+Treatment guidelines  63
+References  65
+Images  75
+Disclaimer  84
+=== Page 3 ===
+Raynaud phenomenon Overview
+Summary
+Raynaud phenomenon (RP) is common, affecting between 3% and 5% of the population.
+The diagnosis is made clinically: digits turn white (pallor) then blue with deoxygenation and/or red with
+reperfusion; pallor is well demarcated.
+Primary RP often needs no pharmacologic treatment. Keeping warm, smoking cessation, regular exercise,
+and avoiding stress are recommended. Pharmacologic treatment can be considered in people with mild
+disease who do not respond to lifestyle measures. Potential treatment options include calcium-channel
+blockers, angiotensin-II receptor antagonists, selective serotonin-reuptake inhibitors (SSRIs), topical nitrates,
+alpha-blockers, and ACE inhibitors.
+Secondary RP can be severe, especially when associated with systemic sclerosis (SSc). Other underlying
+conditions, exposures, or drugs can also cause secondary RP. In severe secondary RP, calcium-channel
+blockers, phosphodiesterase-5 inhibitors, prostacyclins, atorvastatin, and bosentan are potential treatment
+options, with only the most severe cases warranting surgical intervention.
+Complications in secondary RP include severe digital ischemia, gangrene, digital ulcers, and infection.
+Pain relief and wound care of digital ulcers may be important adjunctive treatments.
+Definition
+Raynaud phenomenon (RP) is characterized by vasospasm that causes digits to change color to white
+(pallor) from lack of blood flow, usually brought on by cold temperatures. Affected areas subsequently turn
+blue due to deoxygenation and/or red due to reperfusion. Both primary and secondary RP can be painful;
+however, secondary RP can lead to complications from prolonged periods of ischemia.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Raynaud phenomenon Theory
+THEORY
+Epidemiology
+Meta-analysis of observational studies suggests a primary RP prevalence of approximately 3% to 5% in the
+general population.[3] The lowest prevalence was found in Japan (1.6%) and the highest in the US (7.5%).
+The pooled annual incidence of primary RP was 0.25%.[3]
+RP is more common in women and in colder climates.[4]
+Etiology
+RP is highly heritable, with reported estimates ranging from 55% to 64%.[5] A large genome-wide
+association study identified three genomic regions associated with RP, implicating three genes: ADRA2A,
+IRX1, and to a lesser extent MICB.[5] People with gene variants at these loci may have a higher risk of
+developing RP. In primary or secondary RP, a family history of RP or connective tissue disease may be
+present.[3]
+Primary or idiopathic RP
+The cause of primary RP is not fully understood. Vasospasm is a normal reaction to cold or temperature
+change, but this is exaggerated in primary RP. It has been suggested that this dysfunction in
+thermoregulation is due to genetic factors resulting in the overexpression and overactivity of alpha-2
+adrenergic receptors, ultimately leading to extreme vasoconstriction.[2] [5]
+The association with primary RP and other vasospastic conditions such as migraines and Prinzmetal variant
+coronary angina suggests a common cause.[2] [3][6]
+Secondary RP
+Secondary RP is associated with an underlying cause such as an underlying medical condition,
+environmental exposure, or specific drugs.[2]
+Underlying conditions:
+• Autoimmune connective tissue disease (ACTD), especially systemic sclerosis (SSc), scleroderma, or
+inflammatory myositis
+• Other rheumatologic diseases (e.g., rheumatoid arthritis, Sjogren syndrome, vasculitis)
+• Vascular occlusive diseases (e.g., Buerger disease)
+• Hematologic syndromes
+• Malignancy
+• Infections
+• Peripheral vascular disease.
+See Systemic sclerosis (scleroderma) , Rheumatoid arthritis , Sjogren syndrome , and Buerger disease .
+Environmental exposures:
+• Vibration injury (from tools e.g., jackhammers)
+• Frostbite.
+See Frostbite .
+Drugs:[7]
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Raynaud phenomenon Theory
+• Beta-blockers
+• Migraine therapies (e.g., clonidine, ergotamine)
+• Chemotherapy (e.g., bleomycin, cisplatin, vinblastine)
+• Cyclosporine
+• Stimulants (e.g., caffeine, cocaine, amphetamines).
+Environmental exposure-related secondary RP is different from others in that there is not necessarily a fixed
+defect of the vascular walls of arteries/arterioles, whereas in other secondary RP there are potentially more
+exaggerated vascular abnormalities and endothelial dysfunction.[8] [9]
+Pathophysiology
+Normal thermoregulation in response to cold temperatures involves a decrease in blood flow through
+arteriovenous (AV) anastomoses, and this is mediated by alpha-2 adrenergic receptors in these vessels.
+In both primary and secondary RP, the overexpression and overactivity of alpha-2 adrenergic receptors
+results in decreased nitrous oxide concentrations in the vascular smooth muscle, resulting in extreme
+vasoconstriction and consequently pallor, cyanosis, and/or rubor.[2] [5][10] [11][12] Thermoregulatory
+responses are exaggerated in acral skin, and RP therefore usually appears on the fingers and toes, and
+more rarely the ears, nose, tongue, nipples, or the entire hand/arm or foot/leg.[2]
+One genome-wide association study (GWAS) suggests that variants in the ADRA2A gene region cause
+increased expression of alpha-2 adrenergic receptors in arterial tissue.[5]
+Classification
+The classification of RP into two clinical subtypes helps distinguish patients with dysregulation of the
+thermoregulatory pathway (primary RP) from those who experience altered vascular reactivity due to an
+underlying causative process (secondary RP).[1]
+Primary or idiopathic RP[2]
+RP not associated with an underlying cause. Although primary RP can be exacerbated by environmental
+factors (e.g., cold exposure, stress, drugs), it follows a nonprogressive course, and the clinical manifestations
+are reversible and usually do not result in tissue damage.
+Secondary RP[2]
+RP associated with an underlying cause. Secondary RP may lead to progressively severe clinical
+manifestations, resulting in permanent tissue damage when left untreated. Several causes have been
+associated with secondary RP. See Etiology .
+Case history
+Case history #1
+An 18-year-old healthy woman presents with fingertips that turn white, then blue and red, in the cold. She
+is otherwise well and is a nonsmoker. Her symptoms have been occurring for 3 years. Her mother has RP.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Raynaud phenomenon Theory
+THEORY
+The remainder of her history and physical exam is unremarkable. She has a normal complete blood count
+and a negative antinuclear antibody. She has primary RP.
+Case history #2
+A 50-year-old woman has developed puffy hands, new RP, and difficulties swallowing over the last year.
+Her chest and abdominal exams are unremarkable. She does not have inflammatory arthritis. She has
+some small dot-like telangiectasia on her hands and lips. Her antinuclear antibody is positive and has a
+nucleolar pattern. There are dilated capillaries seen at the nailbed, proximal to the nail, on several fingers.
+She currently has a digital ulcer. She has systemic sclerosis (scleroderma).
+Other presentations
+RP causes pain, discomfort, and sometimes paresthesia. Rarely, ulcers on the fingers and toes occur
+(and much less commonly on the ears, nose, hand, wrist, or forearm). More severe cases usually occur
+only when RP is secondary to an underlying cause, in particular connective tissue disorders such as
+systemic sclerosis (SSc), scleroderma, systemic lupus erythematosus, Sjogren syndrome, rheumatoid
+arthritis, or polymyositis. Secondary RP is associated with vasculitis, severe peripheral vascular disease
+(such as Buerger disease), and rarely malignancy or chemotherapy. Environmental trauma (e.g.,
+excessive vibration exposure in jackhammer operators, frostbite) can also precipitate RP. In medium-
+vessel vasculitis disorders such as polyarteritis nodosa and occasionally systemic lupus erythematosus,
+gangrene of the fingertip or entire finger may occur.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Raynaud phenomenon Diagnosis
+Approach
+The workup should include:
+• Clinical symptoms compatible with Raynaud phenomenon (RP)
+• A history to determine the frequency/severity of the attacks
+• Smoking history
+• Review of systems
+• Family history of RP and other connective tissue disease
+• Physical exam focusing on features of RP and associated connective tissue disease
+• Investigations may include CBC, erythrocyte sedimentation rate (ESR) or C-reactive protein,
+antinuclear antibody (ANA), and urinalysis
+• Referral to a rheumatologist or other specialist if necessary (i.e., for determining if RP is secondary to
+a connective tissue disease and/or help with respect to treatment in severe RP).
+History
+RP is diagnosed following a thorough history eliciting features of pallor of digits with subsequent cyanosis
+and/or rubor. It is normal for digits to turn mottled or cyanotic in the cold; pallor should be present to make
+the diagnosis. The history should focus on:
+• The location (fingertips or tips of the toes are the most common)
+• A clear demarcation of color change that usually is circumferential around the digit
+• Cyanosis and/or rubor on rewarming.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Raynaud phenomenon Diagnosis
+DIAGNOSIS
+Cyanotic Raynaud phenomenon (RP) in a patient with mixed connective tissue disease
+From the personal collection of Dr Janet Pope; used with permission
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Raynaud phenomenon Diagnosis
+Well-demarcated pallor of the 3rd finger in a patient with primary Raynaud phenomenon (RP)
+From the personal collection of Dr Janet Pope; used with permission
+Indicators of increased severity of RP are attacks in warm weather (without exposure to cold or air
+conditioning), late onset RP (age >40 years), and the presence of complications such as digital ulcers.
+A history of other systemic vasospasm symptoms such as migraine, irritable bowel, or anorexia may
+indicate primary RP, as well as increased vasodilatory responses to stimuli such as warmth, alcohol, and
+spicy food.[4]
+A review of systems should rule out secondary causes such as connective tissue disease, which could
+include inflammatory arthritis, prolonged morning stiffness (such as in metacarpophalangeal, radiocarpal,
+and proximal interphalangeal joints), rash, photosensitivity, alopecia, significant dry eyes/dry mouth,
+puffiness of fingers or tightness of the skin, or significant esophageal dysmotility/GERD.
+A family history of RP and other connective tissue disease such as rheumatoid arthritis, systemic lupus
+erythematosus, scleroderma, Sjogren syndrome, polymyositis, and juvenile idiopathic arthritis should
+be sought. Other causes of secondary RP may be obvious, such as malignancy, chemotherapeutic
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Raynaud phenomenon Diagnosis
+DIAGNOSIS
+exposure, or severe peripheral vascular disease. Taking a clear drug and occupational history may also
+help diagnose secondary RP.[4]
+RP can be confused with other vascular diseases, but biphasic or triphasic color change is not present
+in these conditions. Onset of primary RP is rare after 40 years of age and often begins in adolescence.
+If the patient is young and has no signs/symptoms of connective tissue disease, primary RP should be
+suspected. In this instance, a good history and physical exam are often sufficient.
+Exam
+Physical exam should include:
+• An overview of general health and blood pressure (BP). Where asymmetrical RP is present, BP
+should be checked in both arms.[4]
+• Checking peripheral pulse to identify obstructive vascular disease. If RP sounds atypical (e.g.,
+older age of onset of symptoms compatible with systemic disease), then blood pressure should
+be checked in both arms to rule out major discrepancies between arms, and the presence of
+carotid bruits should be checked. Giant cell arteritis and Takayasu arteritis, for example, can be
+accompanied by large-vessel narrowing, which can affect blood pressure in a limb and can also
+produce carotid bruits.
+• Checking upper limb circulation to identify arterial occlusion. The Allen test should be performed
+by asking the patient to clench their fist and raise their arm, and pressure should be applied to the
+radial and ulnar arteries. Pressure should then be released one artery at a time, and color should
+return to the hand when the patient opens their fingers. If pallor persists, this suggests occlusion of
+the uncompressed artery.[4] An abnormal test in a young patient is suggestive of Buerger disease.
+See Buerger disease .
+• Checking for complications, including digital ulcers, digital pits (fibrotic plugs from ischemia), digital
+tuft resorption, threatened ischemic digit, gangrene of the fingertip/entire finger, infection including
+osteomyelitis, or autoamputation. These are strong signs of secondary RP.[4]
+• A detailed skin exam to identify signs of an associated disorder (e.g., connective tissue disease),
+which can include telangiectasia, sclerodactyly, dactylitis or synovitis, malar rash, splinter
+hemorrhages, livedo reticularis, tightening of the skin in other areas (e.g., around the mouth), and
+alopecia areata.[4] [6]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Raynaud phenomenon Diagnosis
+Digital infarcts and nailfold changes
+From the personal collection of Dr Janet Pope; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Raynaud phenomenon Diagnosis
+DIAGNOSIS
+Digital pits on the 3rd finger of the left hand
+From the personal collection of Dr Janet Pope; used with permission
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Raynaud phenomenon Diagnosis
+Digital ulcer in a patient with secondary Raynaud phenomenon (RP)
+From the personal collection of Dr Janet Pope; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Raynaud phenomenon Diagnosis
+DIAGNOSIS
+Raynaud phenomenon (RP) and inflammatory arthritis with
+sclerodactyly distal to the proximal interphalangeal joints
+From the personal collection of Dr Janet Pope; used with permission
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Raynaud phenomenon Diagnosis
+Swollen/puffy fingers in a patient with secondary Raynaud phenomenon (RP)
+From the personal collection of Dr Janet Pope; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Raynaud phenomenon Diagnosis
+DIAGNOSIS
+Secondary Raynaud phenomenon (RP) with sclerodactyly
+From the personal collection of Dr Janet Pope; used with permission
+Early diagnosis and management of concomitant connective tissue disease is crucial in improving
+outcomes in RP.[4] The likelihood of underlying connective tissue disease increases when age of onset is
+more than 40 years.
+Investigations
+In most cases, a good history and physical exam are sufficient for diagnosis. However, as secondary RP
+may pre-date a connective tissue disease or may coincide with the onset of underlying conditions (e.g.,
+diffuse cutaneous systemic sclerosis or polymyositis), all patients presenting with RP should undergo the
+following tests when available:[4]
+• ANA with titer and pattern
+• CBC
+• ESR or CRP
+• Urinalysis.
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Raynaud phenomenon Diagnosis
+Capillary microscopy is usually not performed in primary care, but early referral to a rheumatologist who
+can perform this is recommended to exclude connective tissue disease.[4]
+Follow-up should take place if a patient has:
+• Strongly positive ANA
+• Dilated capillaries at the nailbed
+• An uncommon ANA pattern such as an anticentromere pattern
+• An elevated ESR and/or CRP (less predictive).
+Visible dilated capillaries at the nailbed
+From the personal collection of Dr Janet Pope; used with permission
+Follow-up is necessary in these patients as 30% will develop a connective tissue disease within the next
+5 years. In particular, an anticentromere antibody and/or dilated capillaries at the periungual region are
+predictive for scleroderma.[28]
+A referral to a rheumatologist should be considered if secondary RP is suspected, or if complications such
+as digital ulcers are present. The presence of digital ulceration is generally thought to exclude a diagnosis
+of primary RP, so a secondary cause should be sought if ulceration occurs.[4]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Raynaud phenomenon Diagnosis
+DIAGNOSIS
+Rarely, RP can be caused by obstruction of blood flow by a cervical rib. This can be identified on chest x-
+ray, although this investigation is not carried out routinely on patients with mild RP and is ordered only if
+there is a high index of suspicion.
+History and exam
+Key diagnostic factors
+digit pain/discomfort (common)
+• Common presenting symptom.
+digital paresthesia (common)
+• Paresthesias can occur when the fingers are rewarming. However, paresthesias are common and
+nonspecific, so RP would not be considered in a patient with hand paresthesias without a history of
+well-demarcated pallor of fingers.[4]
+pallor of digits (common)
+• This must be present to diagnose primary and secondary RP.[29]
+red and/or blue discoloration of digits (common)
+• At least one must be present to diagnose primary RP and secondary RP.[29]
+dilated capillaries at nailbeds (common)
+• Occurs mainly in secondary RP; if present, secondary RP should be assumed until proven otherwise.
+Dilated capillaries result from dropout of capillaries with secondary hyperplasia and hypertrophy of the
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Raynaud phenomenon Diagnosis
+remaining blood vessels. On inspection, these capillaries can appear like discrete red pen marks and
+are often seen around the cuticle.
+•
+Visible dilated capillaries at the nailbed
+From the personal collection of Dr Janet Pope; used with permission
+well-defined discoloration (common)
+• In all cases of RP there are well-defined areas of pallor, which then display cyanosis followed by
+rubor.[29]
+magnification of nailbeds (common)
+• Presence of dilated capillaries at the nailbeds that look like red pen marks are often seen at the cuticle.
+This finding is highly specific for secondary RP, although not sensitive. It helps to rule in secondary RP
+if positive.[30]
+Other diagnostic factors
+heartburn (uncommon)
+• May indicate secondary RP.
+dysphagia (uncommon)
+• May indicate secondary RP.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Raynaud phenomenon Diagnosis
+DIAGNOSIS
+puffy hands (uncommon)
+• May indicate secondary RP.
+tight skin (uncommon)
+• May indicate secondary RP.
+arthralgia (uncommon)
+• May indicate secondary RP.
+photosensitivity (uncommon)
+• May indicate secondary RP.
+oral/nasal ulcers (uncommon)
+• May indicate secondary RP.
+alopecia (uncommon)
+• May indicate secondary RP.
+butterfly rash (uncommon)
+• May indicate secondary RP.
+sclerodactyly (uncommon)
+• May rarely be a complication of longstanding and frequent RP but if not in a patient with connective
+tissue disease, the tightening of the skin is usually distal to proximal interphalangeal joints (i.e., not
+entire fingers).
+telangiectasia (uncommon)
+• May indicate secondary RP.
+pleuritic chest pain (uncommon)
+• May indicate secondary RP.
+digital ulcers (uncommon)
+• A recognized complication of RP. The presence of digital ulceration is generally thought to exclude a
+diagnosis of primary RP, so a secondary cause should be sought if ulceration occurs.
+digital pits (uncommon)
+• A recognized complication of RP.
+digital tuft resorption (uncommon)
+• A recognized complication of RP.
+gangrene of fingertip/finger (uncommon)
+• A recognized complication of RP.
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Raynaud phenomenon Diagnosis
+raised painful red lesions on finger tips (uncommon)
+• Sometimes RP features are accompanied by chilblains (perniosis), but this is a separate condition
+with red raised areas on tips of toes or fingers in the cold, often like frostbite. They may heal with
+desquamation, may be painful, are often multiple, and may be cyclical.
+autoamputation (uncommon)
+• A recognized complication of RP. Nearly only in secondary RP.
+Risk factors
+Strong
+female
+• Primary RP is more common in women than in men.[2] [3]
+• Secondary RP is more common in women (up to 9:1) in conditions such as systemic lupus
+erythematosus, scleroderma, and other connective tissue diseases.
+family history
+• In primary or secondary RP, a family history of RP or connective tissue disease may be present.[2] [3]
+connective tissue disease
+• RP occurs in 20% of patients with rheumatoid arthritis, 40% to 45% with systemic lupus
+erythematosus, 13% to 17% with Sjogren syndrome, 10% with polymyositis, >80% with mixed
+connective tissue disease, and >90% with scleroderma.[13] [14] [15] [16] [17] [18][19]
+use of certain drugs
+• Drug-induced RP can be caused by various drugs including beta-blockers, clonidine, ergotamine,
+certain chemotherapy (e.g., bleomycin, cisplatin, vincristine), cyclosporine, and stimulants (e.g.,
+caffeine, cocaine, amphetamines). There are limited data available regarding the prevalence.[7]
+vibration injury
+• Prevalence of RP appears to increase with exposure to vibration in the workplace.[2] [20] [21]
+• Vibration injury (also called hand-arm vibration syndrome) occurs from repeated use of vibrating
+hand-held machinery. Jackhammer operation and other causes of vibration injury increase the risk
+of developing RP.[22] It can cause numbness, tingling, and pain and may persist even after the
+occupation ceases. It occurs more often with tools of a certain acceleration amplitude and if used for
+longer duration. There is no diagnostic test, so the history and observed RP can be helpful.[23]
+Buerger disease
+• Up to 40% of patients with Buerger disease (also known as thromboangiitis obliterans) experience
+RP.[6] Buerger disease involves repeated inflammation and thrombosis of digital arteries or arterioles.
+Smoking is a major risk factor, and chewing tobacco is also a risk. It is more common in men and often
+between the ages of 20 and 40 years.[24] See Buerger disease .
+Weak
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Raynaud phenomenon Diagnosis
+DIAGNOSIS
+prolonged cold exposure/frostbite
+• There have been case reports of RP onset after frostbite, and one population-based study reports a
+significant association between RP and previous frostbite.[25] See Frostbite .
+colder climate
+• The prevalence of RP is higher in colder climates.[21]
+smoking
+• Smoking can exacerbate RP.[26] [27]
+ischemia
+• Vascular ischemia (e.g., subclavian steal syndrome or peripheral vascular disease) can cause RP.
+migraine
+• RP may be more common in people with migraines.[3]
+glaucoma
+• RP may be more common in people with glaucoma.
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Raynaud phenomenon Diagnosis
+Tests
+1st test to order
+Test Result
+clinical diagnosis
+• In most cases, a good history and physical exam are sufficient
+for diagnosis. However, as secondary RP may pre-date a
+connective tissue disease or may coincide with the onset of
+underlying conditions (e.g., diffuse cutaneous systemic sclerosis or
+polymyositis), all patients presenting with RP should undergo further
+testing where available.[4]
+clinical features of RP
+antinuclear antibody
+• Ordered if connective tissue disease, especially systemic lupus
+erythematosus, is suspected.
+• Normal in primary RP.
+• In secondary RP is often positive with a centromere pattern.
+• Approximately 30% of RP patients with a positive, centromere pattern
+antinuclear antibody (ANA) will develop a connective tissue disease
+in the following 5 years.[28]
+strongly positive ANA
+or uncommon pattern
+such as centromere or
+nucleolar are suggestive
+of secondary RP; however,
+a positive ANA is common
+in the general population
+CBC
+• Normal in primary RP, may be abnormal in secondary RP. Any
+connective tissue disease may cause anemia. In systemic lupus
+erythematosus, cytopenias are often present.
+normal in primary RP;
+may show low WBC,
+anemia, and low platelet
+count in secondary RP
+erythrocyte sedimentation rate
+• Normal in primary RP, may be elevated in secondary RP.
+normal in primary RP;
+may be elevated in
+secondary RP
+C-reactive protein
+• Normal in primary RP, may be elevated in secondary RP.
+normal in primary RP;
+may be elevated in
+secondary RP
+urinalysis
+• Normal in primary RP; may show RBCs and/or protein in secondary
+RP such as in systemic lupus erythematosus or vasculitis with active
+glomerulonephritis.
+normal in primary RP;
+may show RBCs and/or
+protein in secondary RP
+Other tests to consider
+Test Result
+capillaroscopy
+• Not usually performed in primary care. Used to identify abnormalities
+suggestive of underlying connective tissue disease, such as dilated
+capillaries at the nailbeds.
+normal in primary RP;
+dilated capillaries
+suggestive of secondary
+RP
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Raynaud phenomenon Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Normal response to cold • Normal hands can be
+mottled in cold. RP has
+classic pallor that is well
+demarcated.
+• No differentiating tests.
+Cyanosis/
+cryoglobulinemia
+• Blue digits in cold but no
+distal digital pallor.
+• Detection of circulating
+cryoglobulins.
+Chilblains (perniosis) • Symptoms include pruritus,
+erythema, and ulceration.
+• An acute response to cold
+temperatures but can be
+chronic.
+• No differentiating tests.
+Frostbite • True tissue freezing.
+History of prolonged/severe
+exposure to cold.[2] [4] [6]
+• No differentiating tests.
+Acrocyanosis • There is no ischemia (no
+pallor in this condition),
+which is characterized by
+nonparoxysmal, in most
+cases persistent, painless
+bluish-red symmetric
+discolorations of the hands
+and often the feet. History
+with lack of pallor (no well-
+demarcated white color
+change).[8]
+• No differentiating tests.
+Erythromelalgia • Usually provoked by heat.
+• Characterized by painful red
+extremities, burning, and
+increased skin temperature
+of affected area.[8]
+• Thrombocytosis may be
+underlying cause.
+Livedo reticularis • Lacy purple appearance of
+skin at extremities.
+• Venous blood flow sluggish.
+• Usually found on legs.
+• May be positive for
+antiphospholipid antibodies
+(e.g., anticardiolipin
+antibodies, lupus
+anticoagulant).
+Carpal tunnel syndrome • Numbness and tingling of
+fingertips, with no distal
+digital pallor.
+• Associated conditions may
+be present: pregnancy,
+hypothyroidism, diabetes, or
+rheumatoid arthritis.
+• Positive Tinel or Phalen test
+in carpal tunnel syndrome.
+• Nerve conduction studies:
+focal slowing of conduction
+velocity in the median
+sensory nerves across the
+carpal tunnel (necessary
+only if symptoms are severe
+or there is wasting of the
+thenar eminence).
+• Elevated thyroid-stimulating
+hormone, blood glucose, and
+serum abnormalities of other
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Raynaud phenomenon Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Lack of color change in
+carpal tunnel syndrome.
+associated conditions may
+be present.
+Cervical rib or other
+subclavian compression
+• May develop RP, but
+ischemia is often positional
+with the arm above the head.
+• CXR may demonstrate
+cervical rib. Routine
+screening of mild RP would
+not require this investigation,
+as it would be performed
+only if there was a high index
+of suspicion.
+Subclavian steal
+syndrome
+• Symptoms/signs of
+peripheral ischemia usually
+present unilaterally.
+• Dizziness, syncope, and
+vertigo common.
+• Duplex ultrasonography
+demonstrates retrograde
+blood flow and occlusive
+lesions of vascular
+architecture.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Approach
+There is minimal evidence on the comparative efficacy of treatment options for Raynaud phenomenon (RP),
+and management varies depending on disease severity and symptoms.[4]
+Treatment for primary or mild secondary RP usually consists of lifestyle changes and pharmacologic
+therapies. Treatment for moderate to severe secondary RP may warrant additional pharmacologic therapies
+or surgery if patients have progressed to digital ulceration or gangrene.
+In all patients, if treatment is ineffective, if there is suspicion of connective tissue disease or another
+underlying condition (secondary RP), or if treatment for severe secondary RP is needed (e.g., digital
+ulceration or critical ischemia), referral to a rheumatologist is recommended.[4]
+Lifestyle measures
+Many cases of RP do not require pharmacologic treatment unless symptoms become severe.
+Nonpharmacologic interventions should be considered first in primary or mild secondary RP and mainly
+include preventative measures and avoidance of triggers, for instance:[4] [31]
+• Keeping warm and avoiding damp (e.g., wear gloves, use hand warmers)
+• Moisturizing dry skin
+• Quitting smoking
+• Avoiding injury to digits and vibration exposure
+• Avoiding stress
+• Withdrawal from vasoconstrictor drugs when possible
+• Avoiding drugs known to exacerbate RP (e.g., beta-blockers, ergotamine, clonidine, cyclosporine,
+caffeine, cocaine, amphetamines).
+If dexterity limitations are reported, patients should undergo occupational therapy assessment for aids
+(e.g., key holders).
+Pharmacologic treatment can be considered in people with mild disease who do not respond to lifestyle
+measures. Lifestyle measures should also be considered alongside pharmacologic treatment in people
+with secondary RP who have progressed to digital ulceration. Additional recommendations include
+moisturising the skin around ulcers, avoiding contact with cleaning agents, avoiding injury to digits,
+avoiding manipulation of ulcers, wearing protective gloves, and promoting circulation through exercise.[32]
+Pharmacologic treatments
+Calcium-channel blockers
+The goals of pharmacologic treatment are to decrease frequency, severity, and duration of attacks.
+The recommended first-line pharmacologic treatment is calcium-channel blockers, which have been
+shown to decrease the frequency/severity of attacks, often by 30%.[4] [33][34] [35]  Meta-analyses have
+demonstrated that dihydropyridine calcium-channel blockers are effective in primary and secondary RP.
+Recommended agents include nifedipine, nicardipine, and less well-studied agents, including amlodipine
+or felodipine.[4] [35][36] [37][38]
+Nondihydropyridine calcium-channel blockers (e.g., diltiazem) can be offered if dihydropyridine calcium-
+channel blockers cannot be used or are ineffective.[4] [36][39]
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Raynaud phenomenon Management
+Calcium-channel blockers may not be effective in all patients and may have adverse effects such as
+hypotension, lightheadedness, flushing, and ankle puffiness. Short-acting calcium-channel blockers
+may cause orthostatic hypotension, and many people with RP are young and have normal-to-low blood
+pressure. If the short-acting calcium-channel blocker is tolerated but not effective, then the dose can be
+increased.[4]
+Alternative vasodilators
+There is a lack of evidence for the use of vasodilators other than calcium-channel blockers in RP.[40]
+ However, when calcium-channel blockers have failed or are not tolerated, other vasodilators may be
+trialed.[4] [35] [41]
+Two studies have shown a reduction in RP attacks in patients treated with the angiotensin-II receptor
+antagonist losartan, with one study showing improvement in RP symptoms compared with nifedipine.[42]
+[43] [44]
+The association between selective serotonin-reuptake inhibitors (SSRIs) and RP is controversial.
+Treatment with fluoxetine showed a decrease in frequency and severity of attacks in one randomized
+trial.[45] However, other studies report that SSRIs may exacerbate RP symptoms.[7] [46]
+Topical nitrates have been shown to be effective in reducing the frequency and severity of attacks,
+reducing ulcer size, lowering Raynaud’s Condition Score (RCS), and improving blood flow in several
+randomized controlled trials; however, adverse effects such as headaches may limit their use.[47] [48]
+[49] [50]
+Treatment with the alpha-blocker prazosin has shown modest improvement in RP in three randomized
+controlled trials; however, adverse effects may be common and no further trials have been conducted
+since 1986.[51] [52] [53]
+ACE inhibitors have also been used as alternatives to calcium-channel blockers but have shown
+conflicting results.[44] A 2021 systematic review found that captopril and enalapril may increase the
+frequency of attacks in primary RP.[40] A randomized controlled trial found that treatment with quinapril
+showed no improvement in secondary RP attacks.[54]
+Severe disease
+Phosphodiesterase-5 (PDE-5) inhibitors (e.g., sildenafil, tadalafil, and vardenafil) can be used for patients
+with moderate to severe secondary RP when calcium-channel blockers have failed or are not tolerated.
+[4] [41] [55][56] Two trials have shown positive benefit with sildenafil in RP. One was a multicenter trial that
+studied limited cutaneous systemic sclerosis patients with significant RP who were nonsmokers, while
+the other was a single-site crossover trial in patients with RP.[57] [58] Tadalafil has also shown positive
+results in an RP trial in scleroderma and mixed connective tissue disease patients with at least 4 attacks
+per week. The medication was effective and also seemed to help digital ulcers, which was a secondary
+end point.[59] Similarly, when examining the results of vardenafil compared with placebo in a randomized
+crossover trial, there was a reduction in the number of attacks per week, the cumulative duration of
+attacks, and RCS in 53 patients with either primary or secondary RP.[60] One PDE-5 inhibitor trial has
+shown negative data for RP.[61] Long-acting PDE-5 inhibitors (e.g., tadalafil) may be better tolerated than
+short-acting PDE-5 inhibitors, causing less hypotension and perhaps better adherence. A 2023 Cochrane
+systematic review reported that PDE-5 inhibitors may reduce the frequency and duration of RP attacks;
+however, the evidence was of low certainty and little to no difference in pain was reported.[62]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Prostacyclins (particularly iloprost), sometimes in combination with sildenafil, are used to treat
+complications of severe secondary RP, such as threatened digital loss due to ischemia and digital
+ulcers.[4] [33] These drugs can be effective for several months after treatment. Treatment with
+prostacyclins alone has been shown to decrease the frequency/severity of attacks and heals/prevents
+digital ulcers.[41] [63] Intravenous iloprost is generally considered to be the first-line prostacyclin;
+however, the intravenous formulation may not be available in some countries, and the inhaled formulation
+is generally not recommended for this indication. Therefore, intravenous epoprostenol can be used as an
+alternative to intravenous iloprost. Inhaled prostacyclins are not commonly used for RP; however, they
+have a role in treating pulmonary arterial hypertension in connective tissue diseases and can improve RP
+symptoms. Oral prostacyclins are usually not stable and/or well absorbed and tend to be less effective
+than intravenous iloprost.[64] [65]
+Atorvastatin has also been found to decrease new ulcer formation in patients with secondary RP and may
+be used in patients with past or present ulcers, but is not indicated for the prevention of digital ulcers.[35]
+[66]
+Bosentan, an endothelial receptor antagonist, has also been used for the prevention of systemic
+sclerosis-related digital ulcers.[67] [68] [69] It has been found to reduce the incidence of new ulcers by
+30% to 50%.[68] However, it is not superior to usual care in healing current ulcers. It had no effect on
+uncomplicated RP in the systemic sclerosis digital ulcer trials.[67] [70][71]
+Aspirin may be beneficial in helping prevent microthrombi formation, but there are no trials with aspirin in
+RP.[72]
+Wound care of digital ulcers should also be considered.[35] Topical antibacterials can be used if there is
+no evidence of a significant infection, but they may be working as a barrier and lubricant more than an
+antibacterial.
+Antibiotics should be given when ulcers are infected. Infections are often due to  Staphylococcus aureus 
+or  Pseudomonas aeruginosa , but can also be caused by  Escherichia coli ,  Enterococcus faecalis , 
+Streptococcus epidermidis , or  Bacillus morganii .[73] If there is frank purulence, it is advisable to take
+a swab for culture and sensitivities prior to starting antibiotics, and to tailor treatment based on swab
+sensitivities and severity of infection. Examples of antibiotic options may include cloxacillin, cephalexin,
+or erythromycin. However, you should consult your local protocols for guidance. If infection is not
+resolved after 7 days of treatment (e.g., continued discolored purulence), treat for another 3 to 7 days. If
+osteomyelitis is suspected, seek specialist advice from a microbiologist. See Osteomyelitis .
+Pain relief is an important component of symptom management. Vasodilators treat the pain of RP if they
+are effective in reducing the frequency, severity, or duration of attacks. However, analgesics may be
+required to treat pain from severe or prolonged ischemia or complications such as gangrene or digital
+ulcers. Local pain management algorithms should be followed, and treatment should be tailored to
+medical history and any relative/absolute contraindications. Simple analgesics such as acetaminophen
+and nonsteroidal anti-inflammatory drugs (NSAIDs) may be sufficient. Opioids may be required. Digital
+ulcers may be very painful, and opioids such as codeine or oxycodone may be indicated. Rarely,
+transdermal fentanyl is used if other opioids are not effective or not tolerated, typically for patients with
+gangrene or osteomyelitis.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Raynaud phenomenon Management
+Surgery
+There is limited evidence in support of surgical management of RP. For patients with secondary RP
+who have progressed to digital ulceration or gangrene, however, surgery may be indicated.[4] For some
+digital ulcers, debridement by a surgeon may be necessary to remove necrotic tissue and/or infection
+and promote healing. If gangrene has progressed in spite of treatment, amputation of the digit may be
+required.
+Surgical sympathectomy may be effective in the treatment of severe RP that has failed pharmacologic
+treatment.[6] [35] Techniques available include stellate ganglion or lumbar sympathetic blocks,
+proximal cervical sympathectomies via endoscopic surgery, and selective palmar and/or digital
+sympathectomies.[74] Such techniques may not be available in all centers. A 2022 study reported pain
+relief with prevention of major amputation in 68 children with rheumatologic disorders presenting with RP
+after sympathetic blocks (including stellate ganglion blocks).[75] In one retrospective study of 17 patients
+with systemic sclerosis, localized palmar or digital sympathectomy improved pain and ulcer healing.[76]
+Complementary and alternative therapies
+Several alternative therapies or supplements have been claimed to help improve RP; however, these
+lack sufficient evidence and rely on patient testimonials. Complementary and alternative therapies that
+have been investigated in randomized controlled trials include evening primrose oil, omega-3 fatty acids, 
+Ginkgo biloba , biofeedback, acupuncture, and low-level laser therapy.[77] [78] [79] [80] [81][82] A review
+and meta-analysis of complementary and alternative medicines in the treatment of RP found most trials
+were negative, of poor quality, and done prior to 1990.[83] However, given the limited risks associated with
+these treatments, using them as an adjunctive therapy may be considered for patients at any stage of RP
+severity, but patients should be informed on their lack of shown efficacy.
+One study involving patients with RP who were deficient in vitamin D showed improvements on the visual
+analog scale with use of oral vitamin D3 supplementation compared with placebo supplementation.[84]
+The effects of ceramic or silver-lined gloves in RP have also been investigated. One study reported
+improvement in pain and dexterity in patients using ceramic-lined gloves for 3 months compared with
+cotton gloves, whereas a 2022 study investigating silver-lined gloves found no improvement compared
+with normal gloves.[85] [86]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+severe secondary RP: critical
+ischemia with digital ulcers or
+threatened digital loss
+1st prostacyclin and/or phosphodiesterase-5
+inhibitor
+plus lifestyle measures
+plus treatment of underlying condition
+adjunct atorvastatin
+adjunct analgesia
+adjunct aspirin
+adjunct surgical debridement
+adjunct systemic antibiotics
+adjunct topical antibacterial ointment
+adjunct bosentan
+2nd surgical sympathectomy
+plus lifestyle measures
+plus treatment of underlying condition
+adjunct atorvastatin
+adjunct analgesia
+adjunct aspirin
+adjunct surgical debridement
+adjunct systemic antibiotics
+adjunct topical antibacterial ointment
+adjunct bosentan
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Raynaud phenomenon Management
+Ongoing ( summary )
+primary or mild secondary RP
+1st lifestyle measures
+adjunct analgesia
+adjunct complementary and alternative therapies
+2nd calcium-channel blocker
+plus lifestyle measures
+adjunct analgesia
+adjunct complementary and alternative therapies
+3rd ACE inhibitor or angiotensin-II receptor
+antagonist
+plus lifestyle measures
+adjunct analgesia
+adjunct complementary and alternative therapies
+3rd selective serotonin-reuptake inhibitor
+plus lifestyle measures
+adjunct analgesia
+adjunct complementary and alternative therapies
+3rd topical nitrate
+plus lifestyle measures
+adjunct analgesia
+adjunct complementary and alternative therapies
+4th alpha-blocker
+plus lifestyle measures
+adjunct analgesia
+adjunct complementary and alternative therapies
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+severe secondary RP: critical
+ischemia with digital ulcers or
+threatened digital loss
+1st prostacyclin and/or phosphodiesterase-5
+inhibitor
+Primary options
+» epoprostenol: 2 nanograms/kg/min
+intravenous infusion initially, increase by 2
+nanograms/kg/min every 15 mins or longer
+according to response
+Use permanent central line. Dose escalation
+dependent on tolerability.
+OR
+» sildenafil: 12.5 mg orally twice daily initially,
+increase according to response, maximum
+100 mg/day (given in 2-3 divided doses)
+OR
+» tadalafil: 5-40 mg orally once daily
+OR
+» vardenafil: consult specialist for guidance
+on dose
+» Prostacyclins (particularly iloprost) are used
+to treat complications of severe secondary RP,
+such as threatened digital loss due to ischemia
+and digital ulcers.[4] [33] These drugs can be
+effective for several months after treatment.
+Treatment with prostacyclins alone has been
+shown to decrease the frequency/severity of
+attacks and heals/prevents digital ulcers.[41]
+[63] Intravenous iloprost is generally considered
+to be the first-line prostacyclin; however, the
+intravenous formulation may not be available in
+some countries, and the inhaled formulation is
+generally not recommended for this indication.
+Therefore, intravenous epoprostenol can be
+used as an alternative to intravenous iloprost.
+» Phosphodiesterase-5 (PDE-5) inhibitors
+(e.g., sildenafil, tadalafil, vardenafil) can be
+used for patients with moderate to severe
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Raynaud phenomenon Management
+Acute
+secondary RP when calcium-channel blockers
+have failed or are not tolerated.[4][41] [55]
+[56] Trials have shown a positive benefit with
+sildenafil in RP.[57] [58] Longer-acting PDE-5
+inhibitors such as tadalafil are also used.
+Although dosing for tadalafil is more convenient,
+it has shown positive findings in RP only in a
+small crossover study, but not in combination
+with prostacyclins.[59] A trial of vardenafil
+versus placebo in RP has shown that vardenafil
+is associated with a reduction in frequency
+and duration of RP attacks and Raynaud's
+Condition Score (RCS).[60] A 2023 Cochrane
+systematic review reported that PDE-5 inhibitors
+may reduce the frequency and duration of RP
+attacks.[62]
+» A prostacyclin would not normally be combined
+with a PDE-5 inhibitor due to the potential for
+drug interactions. Also, combining a prostacyclin
+and PDE-5 inhibitor can cause significant
+hypotension. However, if RP is sufficently
+severe to warrant prostanoid treatment, the
+patient would likely be referred to an expert
+center where a combination treatment may be
+considered.
+plus lifestyle measures
+Treatment recommended for ALL patients in
+selected patient group
+» Lifestyle measures should also be considered
+alongside treatment in people with secondary
+RP who have progressed to digital ulceration.
+These include keeping warm and avoiding damp:
+for instance, by wearing gloves or using hand
+warmers. Patients should be advised to quit
+smoking and avoid drugs known to exacerbate
+RP (e.g., beta-blockers, ergotamine, clonidine,
+cyclosporine, caffeine, cocaine, amphetamines).
+Avoiding injury to digits and exposure to
+vibration, as well as minimizing stress, are
+also recommended. Vasoconstrictor drugs
+should be discontinued where possible.[4] [31]
+ Patients should also be advised to moisturize
+the skin around ulcers, avoid contact with
+cleaning agents, avoid manipulation of ulcers,
+wear protective gloves, and promote circulation
+through exercise.[32] If dexterity limitations are
+reported, patients should undergo occupational
+therapy assessment for aids (e.g., key holders).
+plus treatment of underlying condition
+Treatment recommended for ALL patients in
+selected patient group
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Acute
+» Treatment for the underlying condition that has
+resulted in secondary RP should be instigated
+after appropriate specialist consultation.
+adjunct atorvastatin
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» atorvastatin: 40 mg orally once daily
+» Atorvastatin has been found to decrease new
+ulcer formation in patients with secondary RP
+and may be used in patients with past or present
+ulcers, but is not indicated for the prevention of
+digital ulcers.[35] [66]
+adjunct analgesia
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» acetaminophen: 325-1000 mg orally/rectally
+every 4-6 hours when required, maximum
+4000 mg/day
+OR
+» ibuprofen: 300-400 mg orally every 4-6
+hours when required, maximum 2400 mg/day
+OR
+» naproxen: 250-500 mg orally twice daily
+when required, maximum 1250 mg/day
+OR
+» diclofenac potassium: 50 mg orally
+(immediate-release) twice or three times daily
+when required
+OR
+» diclofenac sodium: 100 mg orally
+(extended-release) once daily when required
+Secondary options
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+OR
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Raynaud phenomenon Management
+Acute
+» oxycodone: 5-10 mg orally (immediate-
+release) every 4-6 hours when required; 10
+mg orally (extended-release) every 12 hours
+when required
+Tertiary options
+» fentanyl transdermal: 12.5 micrograms/hour
+patch applied every 72 hours, increase to
+25 micrograms/hour patch applied every 72
+hours if required
+» Pain relief is an important component of
+symptom management. Vasodilators treat the
+pain of RP if they are effective in reducing
+the frequency, severity, or duration of attacks.
+However, analgesics may be required to treat
+pain from severe or prolonged ischemia or
+complications such as gangrene or digital ulcers.
+» Local pain management algorithms should
+be followed, and treatment should be tailored
+to medical history and any relative/absolute
+contraindications. Simple analgesics such
+as acetaminophen and nonsteroidal anti-
+inflammatory drugs (NSAIDs) may be sufficient.
+Short- or long-acting opioids may be required.
+Digital ulcers may be very painful, and codeine
+or oxycodone may be indicated. Rarely,
+transdermal fentanyl is used if other opioids are
+not effective or not tolerated, typically for patients
+with gangrene or osteomyelitis.
+adjunct aspirin
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» aspirin: 81 mg orally once daily
+» Aspirin may be beneficial in helping prevent
+microthrombi formation.
+adjunct surgical debridement
+Treatment recommended for SOME patients in
+selected patient group
+» If there is a large fingertip ulcer, debridement
+by a surgeon may be necessary to remove
+necrotic tissue and/or infection and to promote
+healing.[4] If gangrene has progressed in spite
+of treatment, amputation of the digit may be
+required.
+adjunct systemic antibiotics
+Treatment recommended for SOME patients in
+selected patient group
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Acute
+Primary options
+» cephalexin: 500 mg orally four times daily
+Secondary options
+» erythromycin base: 250-500 mg orally four
+times daily
+» Antibiotics should be given when ulcers
+are infected. Infections are often due to 
+Staphylococcus aureus  or  Pseudomonas
+aeruginosa , but can also be caused by 
+Escherichia coli ,  Enterococcus faecalis , 
+Streptococcus epidermidis , or  Bacillus morganii
+.[73] If there is frank purulence, it is advisable
+to take a swab for culture and sensitivities prior
+to starting antibiotics, and to tailor treatment
+based on swab sensitivities and severity of
+infection. Examples of antibiotic options may
+include cloxacillin, cephalexin, or erythromycin.
+However, you should consult your local protocols
+for guidance.
+» If infection is not resolved after 7 days of
+treatment (e.g., continued discolored purulence),
+treat for another 3 to 7 days.
+» If osteomyelitis is suspected, seek specialist
+advice from a microbiologist. See Osteomyelitis .
+adjunct topical antibacterial ointment
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» mupirocin topical: apply ointment thinly to
+ulcer twice daily
+OR
+» bacitracin/polymyxin B topical: apply
+ointment thinly to ulcer twice daily
+» Topical antibacterials can be used if there is no
+evidence of a serious infection, but these may be
+working as a barrier and lubricant more than an
+antibacterial.
+adjunct bosentan
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Raynaud phenomenon Management
+Acute
+» bosentan: 62.5 mg orally twice daily for 1
+month, followed by 125 mg orally twice daily
+thereafter
+Restricted distribution in US.
+» Can be used to help prevent formation of
+systemic sclerosis-related digital ulcers.[67] [68]
+[69] It has been found to reduce the incidence of
+new ulcers by 30% to 50%.[68] However, it is not
+superior to usual care in healing current ulcers.
+» Liver function tests need to be checked
+monthly during treatment, and the duration of
+treatment required for prevention of digital ulcers
+is unknown but may be indefinitely.[67] [70][71]
+ This use is off-label in the US.
+2nd surgical sympathectomy
+» Surgical sympathectomy may be effective
+in the treatment of severe RP that has
+failed pharmacologic treatment.[6] [35]
+ Techniques available include stellate ganglion
+or lumbar sympathetic blocks, proximal
+cervical sympathectomies via endoscopic
+surgery, and selective palmar and/or digital
+sympathectomies.[74] Such techniques may
+not be available in all centers. A 2022 study
+reported pain relief with prevention of major
+amputation in 68 children with rheumatologic
+disorders presenting with RP after sympathetic
+blocks (including stellate ganglion blocks).[75]
+ In one retrospective study of 17 patients
+with systemic sclerosis, localized palmar or
+digital sympathectomy improved pain and ulcer
+healing.[76]
+plus lifestyle measures
+Treatment recommended for ALL patients in
+selected patient group
+» Lifestyle measures should also be considered
+alongside treatment in people with secondary
+RP who have progressed to digital ulceration.
+These include keeping warm and avoiding damp:
+for instance, by wearing gloves or using hand
+warmers. Patients should be advised to quit
+smoking and avoid drugs known to exacerbate
+RP (e.g., beta-blockers, ergotamine, clonidine,
+cyclosporine, caffeine, cocaine, amphetamines).
+Avoiding injury to digits and exposure to
+vibration, as well as minimizing stress, are
+also recommended. Vasoconstrictor drugs
+should be discontinued where possible.[4] [31]
+ Patients should also be advised to moisturize
+the skin around ulcers, avoid contact with
+cleaning agents, avoid manipulation of ulcers,
+wear protective gloves, and promote circulation
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Acute
+through exercise.[32] If dexterity limitations are
+reported, patients should undergo occupational
+therapy assessment for aids (e.g., key holders).
+plus treatment of underlying condition
+Treatment recommended for ALL patients in
+selected patient group
+» Treatment for the underlying condition that has
+resulted in secondary RP should be instigated
+after appropriate specialist consultation.
+adjunct atorvastatin
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» atorvastatin: 40 mg orally once daily
+» Atorvastatin has been found to decrease
+new ulcer formation in patients with secondary
+RP and may be used in patients with past or
+present digital ulcers, but is not indicated for the
+prevention of digital ulcers.[35] [66]
+adjunct analgesia
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» acetaminophen: 325-1000 mg orally/rectally
+every 4-6 hours when required, maximum
+4000 mg/day
+OR
+» ibuprofen: 300-400 mg orally every 4-6
+hours when required, maximum 2400 mg/day
+OR
+» naproxen: 250-500 mg orally twice daily
+when required, maximum 1250 mg/day
+OR
+» diclofenac potassium: 50 mg orally
+(immediate-release) twice or three times daily
+when required
+OR
+» diclofenac sodium: 100 mg orally
+(extended-release) once daily when required
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Raynaud phenomenon Management
+Acute
+Secondary options
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+OR
+» oxycodone: 5-10 mg orally (immediate-
+release) every 4-6 hours when required; 10
+mg orally (extended-release) every 12 hours
+when required
+Tertiary options
+» fentanyl transdermal: 12.5 micrograms/hour
+patch applied every 72 hours, increase to
+25 micrograms/hour patch applied every 72
+hours if required
+» Pain relief is an important component of
+symptom management. Vasodilators treat the
+pain of RP if they are effective in reducing
+the frequency, severity, or duration of attacks.
+However, analgesics may be required to treat
+pain from severe or prolonged ischemia or
+complications such as gangrene or digital ulcers.
+» Local pain management algorithms should
+be followed, and treatment should be tailored
+to medical history and any relative/absolute
+contraindications. Simple analgesics such
+as acetaminophen and nonsteroidal anti-
+inflammatory drugs (NSAIDs) may be sufficient.
+Short- or long-acting opioids may be required.
+Digital ulcers may be very painful, and codeine
+or oxycodone may be indicated. Rarely,
+transdermal fentanyl is used if other opioids
+are not effective or not tolerated, typically for
+patients with gangrene or osteomyelitis. Local
+palmar and/or digital sympathectomy is a last-
+line option.
+adjunct aspirin
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» aspirin: 81 mg orally once daily
+» Aspirin may be beneficial in helping prevent
+microthrombi formation.
+adjunct surgical debridement
+Treatment recommended for SOME patients in
+selected patient group
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Acute
+» If there is a large fingertip ulcer, debridement
+by a surgeon may be necessary to remove
+necrotic tissue and/or infection and to promote
+healing.[4] If gangrene has progressed in spite
+of treatment, amputation of the digit may be
+required.
+adjunct systemic antibiotics
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» cephalexin: 500 mg orally four times daily
+Secondary options
+» erythromycin base: 250-500 mg orally four
+times daily
+» Antibiotics should be given when ulcers
+are infected. Infections are often due to 
+Staphylococcus aureus  or  Pseudomonas
+aeruginosa , but can also be caused by 
+Escherichia coli ,  Enterococcus faecalis , 
+Streptococcus epidermidis , or  Bacillus morganii
+.[73] If there is frank purulence, it is advisable
+to take a swab for culture and sensitivities prior
+to starting antibiotics, and to tailor treatment
+based on swab sensitivities and severity of
+infection. Examples of antibiotic options may
+include cloxacillin, cephalexin, or erythromycin.
+However, you should consult your local protocols
+for guidance. 
+» If infection is not resolved after 7 days of
+treatment (e.g., continued discolored purulence),
+treat for another 3 to 7 days.
+» If osteomyelitis is suspected, seek specialist
+advice from a microbiologist. See Osteomyelitis .
+adjunct topical antibacterial ointment
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» mupirocin topical: apply ointment thinly to
+ulcer twice daily
+OR
+» bacitracin/polymyxin B topical: apply
+ointment thinly to ulcer twice daily
+» Topical antibacterials can be used if there is no
+evidence of a serious infection, but these may be
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Raynaud phenomenon Management
+Acute
+working as a barrier and lubricant more than an
+antibacterial.
+adjunct bosentan
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» bosentan: 62.5 mg orally twice daily for 1
+month, followed by 125 mg orally twice daily
+thereafter
+Restricted distribution in US.
+» Can be used to help prevent formation of
+systemic sclerosis-related digital ulcers.[67] [68]
+[69] It has been found to reduce the incidence of
+new ulcers by 30% to 50%.[68] However, it is not
+superior to usual care in healing current ulcers.
+» Liver function tests need to be checked
+monthly during treatment, and the duration of
+treatment required for prevention of digital ulcers
+is unknown but may be indefinitely.[67] [70][71] 
+This use is off-label in the US.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Ongoing
+primary or mild secondary RP
+1st lifestyle measures
+» Many patients with RP do not require treatment
+unless symptoms become severe.
+» Nonpharmacologic interventions should be
+considered first in primary or mild secondary
+RP and mainly include preventative measures
+and avoidance of triggers. These include
+keeping warm and avoiding damp: for instance,
+by wearing gloves or using hand warmers.
+Advice should be given about quitting smoking,
+moisturizing dry skin, and avoiding drugs
+known to exacerbate RP (e.g., beta-blockers,
+ergotamine, clonidine, cyclosporine, caffeine,
+cocaine, amphetamines). Avoiding injury to digits
+and exposure to vibration, as well as minimizing
+stress, are also recommended. Vasoconstrictor
+drugs should be discontinued where possible.[4]
+[31]
+adjunct analgesia
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» acetaminophen: 325-1000 mg orally/rectally
+every 4-6 hours when required, maximum
+4000 mg/day
+OR
+» ibuprofen: 300-400 mg orally every 4-6
+hours when required, maximum 2400 mg/day
+OR
+» naproxen: 250-500 mg orally twice daily
+when required, maximum 1250 mg/day
+OR
+» diclofenac potassium: 50 mg orally
+(immediate-release) twice or three times daily
+when required
+OR
+» diclofenac sodium: 100 mg orally
+(extended-release) once daily when required
+Secondary options
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Raynaud phenomenon Management
+Ongoing
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+OR
+» oxycodone: 5-10 mg orally (immediate-
+release) every 4-6 hours when required; 10
+mg orally (extended-release) every 12 hours
+when required
+Tertiary options
+» fentanyl transdermal: 12.5 micrograms/hour
+patch applied every 72 hours, increase to
+25 micrograms/hour patch applied every 72
+hours if required
+» Pain relief is an important component of
+symptom management. Vasodilators treat the
+pain of RP if they are effective in reducing
+the frequency, severity, or duration of attacks.
+However, additional analgesics may be required
+to treat pain.
+» Local pain management algorithms should
+be followed, and treatment should be tailored
+to medical history and any relative/absolute
+contraindications. Simple analgesics such
+as acetaminophen and nonsteroidal anti-
+inflammatory drugs (NSAIDs) may be sufficient.
+Short- or long-acting opioids may be required.
+Digital ulcers may be very painful, and codeine
+or oxycodone may be indicated. Rarely,
+transdermal fentanyl is used if other opioids
+are not effective or not tolerated, typically for
+patients with gangrene or osteomyelitis. Local
+palmar and/or digital sympathectomy is a last-
+line option.
+adjunct complementary and alternative therapies
+Treatment recommended for SOME patients in
+selected patient group
+» Several alternative therapies or supplements
+have been claimed to help improve RP; however,
+these lack sufficient evidence and rely on
+patient testimonials. Complementary and
+alternative therapies that have been investigated
+in randomized controlled trials include evening
+primrose oil, omega-3 fatty acids, Ginkgo
+biloba, biofeedback, acupuncture, and low-
+level laser therapy.[77] [78] [79] [80] [81] [82]
+ A review and meta-analysis of complementary
+and alternative medicines in the treatment of
+RP found most trials were negative, of poor
+quality, and done prior to 1990.[83] However,
+given the limited risks associated with these
+treatments, using them as an adjunctive therapy
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Ongoing
+may be considered for patients at any stage of
+RP severity, but patients should be informed on
+their lack of shown efficacy.
+» One study involving patients with RP who were
+deficient in vitamin D showed improvements on
+the visual analog scale with use of oral vitamin
+D3 supplementation compared with placebo
+supplementation.[84]
+» The effects of ceramic or silver-lined gloves
+in RP have also been investigated. One study
+reported improvement in pain and dexterity in
+patients using ceramic-lined gloves for 3 months
+compared with cotton gloves, whereas a 2022
+study investigating silver-lined gloves found no
+improvement compared with normal gloves.[85]
+[86]
+»
+2nd calcium-channel blocker
+Primary options
+» nifedipine: 10 mg orally (immediate-
+release) three times daily, titrate according to
+response, maximum 180 mg/day; 30-60 mg
+orally (extended-release) once daily
+OR
+» nicardipine: 20 mg orally three times daily,
+maximum 120 mg/day
+Secondary options
+» felodipine: 2.5 mg orally once daily, titrate
+according to response, maximum 10 mg/day
+OR
+» amlodipine: 2.5 mg orally once daily, titrate
+according to response, maximum 10 mg/day
+Tertiary options
+» diltiazem: 30 mg orally (immediate-release)
+four times daily, maximum 360 mg/day
+» Calcium-channel blockers have been shown to
+decrease the frequency/severity of RP attacks,
+often by 30%.[4] [33] [34][35]  Meta-analyses
+have demonstrated that dihydropyridine calcium-
+channel blockers are effective in primary and
+secondary RP. Recommended agents include
+nifedipine, nicardipine, and less well-studied
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 45 ===
+Raynaud phenomenon Management
+Ongoing
+agents, including amlodipine or felodipine.[4][35]
+[36] [37] [38]
+» Nondihydropyridine classes of calcium-channel
+blockers (e.g., diltiazem) can be offered if
+dihydropyridine calcium-channel blockers cannot
+be used or are ineffective.[4] [36][39]
+» Calcium-channel blockers may not be effective
+in all patients and may have adverse effects
+such as hypotension, lightheadedness, flushing,
+and ankle puffiness. Short-acting calcium-
+channel blockers may cause orthostatic
+hypotension, and many people with RP are
+young and have normal-to-low blood pressure.
+If the short-acting calcium-channel blocker is
+tolerated but not effective, then the dose can be
+increased.[4]
+» Calcium-channel blockers can be prescribed
+on an "as required" basis, such as in cold
+weather.
+plus lifestyle measures
+Treatment recommended for ALL patients in
+selected patient group
+» Lifestyle measures should also be considered
+alongside treatment in people with primary
+or mild secondary RP, and mainly include
+preventative measures and avoidance of
+triggers. These include keeping warm and
+avoiding damp: for instance, by wearing gloves
+or using hand warmers. Advice should be given
+about quitting smoking, moisturizing dry skin,
+and avoiding drugs known to exacerbate RP
+(e.g., beta-blockers, ergotamine, clonidine,
+cyclosporine, caffeine, cocaine, amphetamines).
+Avoiding injury to digits and exposure to
+vibration, as well as minimizing stress, are also
+recommended. Vasoconstrictor drugs should be
+discontinued where possible.[4] [31]
+adjunct analgesia
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» acetaminophen: 325-1000 mg orally/rectally
+every 4-6 hours when required, maximum
+4000 mg/day
+OR
+» ibuprofen: 300-400 mg orally every 4-6
+hours when required, maximum 2400 mg/day
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+45
+=== Page 46 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Ongoing
+OR
+» naproxen: 250-500 mg orally twice daily
+when required, maximum 1250 mg/day
+OR
+» diclofenac potassium: 50 mg orally
+(immediate-release) twice or three times daily
+when required
+OR
+» diclofenac sodium: 100 mg orally
+(extended-release) once daily when required
+Secondary options
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+OR
+» oxycodone: 5-10 mg orally (immediate-
+release) every 4-6 hours when required; 10
+mg orally (extended-release) every 12 hours
+when required
+Tertiary options
+» fentanyl transdermal: 12.5 micrograms/hour
+patch applied every 72 hours, increase to
+25 micrograms/hour patch applied every 72
+hours if required
+» Pain relief is an important component of
+symptom management. Vasodilators treat the
+pain of RP if they are effective in reducing
+the frequency, severity, or duration of attacks.
+However, additional analgesics may be required
+to treat pain.
+» Local pain management algorithms should
+be followed, and treatment should be tailored
+to medical history and any relative/absolute
+contraindications. Simple analgesics such
+as acetaminophen and nonsteroidal anti-
+inflammatory drugs (NSAIDs) may be sufficient.
+Short- or long-acting opioids may be required.
+Digital ulcers may be very painful, and codeine
+or oxycodone may be indicated. Rarely,
+transdermal fentanyl is used if other opioids
+are not effective or not tolerated, typically for
+patients with gangrene or osteomyelitis. Local
+palmar and/or digital sympathectomy is a last-
+line option.
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 47 ===
+Raynaud phenomenon Management
+Ongoing
+adjunct complementary and alternative therapies
+Treatment recommended for SOME patients in
+selected patient group
+» Several alternative therapies or supplements
+have been claimed to help improve RP; however,
+these lack sufficient evidence and rely on
+patient testimonials. Complementary and
+alternative therapies that have been investigated
+in randomized controlled trials include evening
+primrose oil, omega-3 fatty acids, Ginkgo
+biloba, biofeedback, acupuncture, and low-
+level laser therapy.[77] [78] [79] [80] [81] [82]
+ A review and meta-analysis of complementary
+and alternative medicines in the treatment of
+RP found most trials were negative, of poor
+quality, and done prior to 1990.[83] However,
+given the limited risks associated with these
+treatments, using them as an adjunctive therapy
+may be considered for patients at any stage of
+RP severity, but patients should be informed on
+their lack of shown efficacy.
+» One study involving patients with RP who were
+deficient in vitamin D showed improvements on
+the visual analog scale with use of oral vitamin
+D3 supplementation compared with placebo
+supplementation.[84]
+» The effects of ceramic or silver-lined gloves
+in RP have also been investigated. One study
+reported improvement in pain and dexterity in
+patients using ceramic-lined gloves for 3 months
+compared with cotton gloves, whereas a 2022
+study investigating silver-lined gloves found no
+improvement compared with normal gloves.[85]
+[86]
+»
+3rd ACE inhibitor or angiotensin-II receptor
+antagonist
+Primary options
+» losartan: 25-100 mg orally once daily
+OR
+» captopril: 25-150 mg orally three times daily
+» ACE inhibitors (e.g., captopril) have also been
+used as alternatives to calcium-channel blockers
+but have shown conflicting results.[44] A 2021
+systematic review found that captopril and
+enalapril may increase the frequency of attacks
+in primary RP.[40] A randomized controlled trial
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+47
+=== Page 48 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Ongoing
+found that treatment with quinapril showed no
+improvement in secondary RP attacks.[54]
+» Two studies have shown a reduction in RP
+attacks in patients treated with the angiotensin-
+II receptor antagonist losartan, with one
+study showing improvement in RP symptoms
+compared with nifedipine.[42] [43] [44]
+plus lifestyle measures
+Treatment recommended for ALL patients in
+selected patient group
+» Lifestyle measures should also be considered
+alongside treatment in people with primary
+or mild secondary RP, and mainly include
+preventative measures and avoidance of
+triggers. These include keeping warm and
+avoiding damp: for instance, by wearing gloves
+or using hand warmers. Advice should be given
+about quitting smoking, moisturizing dry skin,
+and avoiding drugs known to exacerbate RP
+(e.g., beta-blockers, ergotamine, clonidine,
+cyclosporine, caffeine, cocaine, amphetamines).
+Avoiding injury to digits and exposure to
+vibration, as well as minimizing stress, are also
+recommended. Vasoconstrictor drugs should be
+discontinued where possible.[4] [31]
+adjunct analgesia
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» acetaminophen: 325-1000 mg orally/rectally
+every 4-6 hours when required, maximum
+4000 mg/day
+OR
+» ibuprofen: 300-400 mg orally every 4-6
+hours when required, maximum 2400 mg/day
+OR
+» naproxen: 250-500 mg orally twice daily
+when required, maximum 1250 mg/day
+OR
+» diclofenac potassium: 50 mg orally
+(immediate-release) twice or three times daily
+when required
+OR
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 49 ===
+Raynaud phenomenon Management
+Ongoing
+» diclofenac sodium: 100 mg orally
+(extended-release) once daily when required
+Secondary options
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+OR
+» oxycodone: 5-10 mg orally (immediate-
+release) every 4-6 hours when required; 10
+mg orally (extended-release) every 12 hours
+when required
+Tertiary options
+» fentanyl transdermal: 12.5 micrograms/hour
+patch applied every 72 hours, increase to
+25 micrograms/hour patch applied every 72
+hours if required
+» Pain relief is an important component of
+symptom management. Vasodilators treat the
+pain of RP if they are effective in reducing
+the frequency, severity, or duration of attacks.
+However, additional analgesics may be required
+to treat pain.
+» Local pain management algorithms should
+be followed, and treatment should be tailored
+to medical history and any relative/absolute
+contraindications. Simple analgesics such
+as acetaminophen and nonsteroidal anti-
+inflammatory drugs (NSAIDs) may be sufficient.
+Short- or long-acting opioids may be required.
+Digital ulcers may be very painful, and codeine
+or oxycodone may be indicated. Rarely,
+transdermal fentanyl is used if other opioids
+are not effective or not tolerated, typically for
+patients with gangrene or osteomyelitis. Local
+palmar and/or digital sympathectomy is a last-
+line option.
+adjunct complementary and alternative therapies
+Treatment recommended for SOME patients in
+selected patient group
+» Several alternative therapies or supplements
+have been claimed to help improve RP; however,
+these lack sufficient evidence and rely on
+patient testimonials. Complementary and
+alternative therapies that have been investigated
+in randomized controlled trials include evening
+primrose oil, omega-3 fatty acids, Ginkgo
+biloba, biofeedback, acupuncture, and low-
+level laser therapy.[77] [78] [79] [80] [81] [82]
+ A review and meta-analysis of complementary
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+49
+=== Page 50 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Ongoing
+and alternative medicines in the treatment of
+RP found most trials were negative, of poor
+quality, and done prior to 1990.[83] However,
+given the limited risks associated with these
+treatments, using them as an adjunctive therapy
+may be considered for patients at any stage of
+RP severity, but patients should be informed on
+their lack of shown efficacy.
+» One study involving patients with RP who were
+deficient in vitamin D showed improvements on
+the visual analog scale with use of oral vitamin
+D3 supplementation compared with placebo
+supplementation.[84]
+» The effects of ceramic or silver-lined gloves
+in RP have also been investigated. One study
+reported improvement in pain and dexterity in
+patients using ceramic-lined gloves for 3 months
+compared with cotton gloves, whereas a 2022
+study investigating silver-lined gloves found no
+improvement compared with normal gloves.[85]
+[86]
+»
+3rd selective serotonin-reuptake inhibitor
+Primary options
+» fluoxetine: 20-60 mg orally once daily
+» Selective serotonin-reuptake inhibitors (SSRIs)
+may be used as a third-line option when other
+drugs have failed or are not tolerated.
+» The association between SSRIs and RP is
+controversial. Treatment with the SSRI fluoxetine
+also showed a decrease in frequency and
+severity of attacks in one randomized trial.[45]
+ However, other studies report that SSRIs may
+exacerbate RP symptoms.[7] [46]
+plus lifestyle measures
+Treatment recommended for ALL patients in
+selected patient group
+» Lifestyle measures should also be considered
+alongside treatment in people with primary
+or mild secondary RP, and mainly include
+preventative measures and avoidance of
+triggers. These include keeping warm and
+avoiding damp: for instance, by wearing gloves
+or using hand warmers. Advice should be given
+about quitting smoking, moisturizing dry skin,
+and avoiding drugs known to exacerbate RP
+(e.g., beta-blockers, ergotamine, clonidine,
+cyclosporine, caffeine, cocaine, amphetamines).
+Avoiding injury to digits and exposure to
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 51 ===
+Raynaud phenomenon Management
+Ongoing
+vibration, as well as minimizing stress, are also
+recommended. Vasoconstrictor drugs should be
+discontinued where possible.[4] [31]
+adjunct analgesia
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» acetaminophen: 325-1000 mg orally/rectally
+every 4-6 hours when required, maximum
+4000 mg/day
+OR
+» ibuprofen: 300-400 mg orally every 4-6
+hours when required, maximum 2400 mg/day
+OR
+» naproxen: 250-500 mg orally twice daily
+when required, maximum 1250 mg/day
+OR
+» diclofenac potassium: 50 mg orally
+(immediate-release) twice or three times daily
+when required
+OR
+» diclofenac sodium: 100 mg orally
+(extended-release) once daily when required
+Secondary options
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+OR
+» oxycodone: 5-10 mg orally (immediate-
+release) every 4-6 hours when required; 10
+mg orally (extended-release) every 12 hours
+when required
+Tertiary options
+» fentanyl transdermal: 12.5 micrograms/hour
+patch applied every 72 hours, increase to
+25 micrograms/hour patch applied every 72
+hours if required
+» Pain relief is an important component of
+symptom management. Vasodilators treat the
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+51
+=== Page 52 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Ongoing
+pain of RP if they are effective in reducing
+the frequency, severity, or duration of attacks.
+However, additional analgesics may be required
+to treat pain.
+» Local pain management algorithms should
+be followed, and treatment should be tailored
+to medical history and any relative/absolute
+contraindications. Simple analgesics such
+as acetaminophen and nonsteroidal anti-
+inflammatory drugs (NSAIDs) may be sufficient.
+Short- or long-acting opioids may be required.
+Digital ulcers may be very painful, and codeine
+or oxycodone may be indicated. Rarely,
+transdermal fentanyl is used if other opioids
+are not effective or not tolerated, typically for
+patients with gangrene or osteomyelitis. Local
+palmar and/or digital sympathectomy is a last-
+line option.
+adjunct complementary and alternative therapies
+Treatment recommended for SOME patients in
+selected patient group
+» Several alternative therapies or supplements
+have been claimed to help improve RP; however,
+these lack sufficient evidence and rely on
+patient testimonials. Complementary and
+alternative therapies that have been investigated
+in randomized controlled trials include evening
+primrose oil, omega-3 fatty acids, Ginkgo
+biloba, biofeedback, acupuncture, and low-
+level laser therapy.[77] [78] [79] [80] [81] [82]
+ A review and meta-analysis of complementary
+and alternative medicines in the treatment of
+RP found most trials were negative, of poor
+quality, and done prior to 1990.[83] However,
+given the limited risks associated with these
+treatments, using them as an adjunctive therapy
+may be considered for patients at any stage of
+RP severity, but patients should be informed on
+their lack of shown efficacy.
+» One study involving patients with RP who were
+deficient in vitamin D showed improvements on
+the visual analog scale with use of oral vitamin
+D3 supplementation compared with placebo
+supplementation.[84]
+» The effects of ceramic or silver-lined gloves
+in RP have also been investigated. One study
+reported improvement in pain and dexterity in
+patients using ceramic-lined gloves for 3 months
+compared with cotton gloves, whereas a 2022
+study investigating silver-lined gloves found no
+improvement compared with normal gloves.[85]
+[86]
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 53 ===
+Raynaud phenomenon Management
+Ongoing
+»
+3rd topical nitrate
+Primary options
+» nitroglycerin topical: (2%) apply to the
+affected area(s) twice daily
+» Topical nitroglycerin may be used as a third-
+line option when other drugs have failed or are
+not tolerated.
+» Topical nitrates have been shown to be
+effective in reducing the frequency and severity
+of attacks, reducing ulcer size, lowering
+Raynaud’s Condition Score, and improving blood
+flow in several randomized controlled trials;
+however, adverse effects such as headaches
+may limit their use.[47] [48] [49] [50]
+plus lifestyle measures
+Treatment recommended for ALL patients in
+selected patient group
+» Lifestyle measures should also be considered
+alongside treatment in people with primary
+or mild secondary RP, and mainly include
+preventative measures and avoidance of
+triggers. These include keeping warm and
+avoiding damp: for instance, by wearing gloves
+or using hand warmers. Advice should be given
+about quitting smoking, moisturizing dry skin,
+and avoiding drugs known to exacerbate RP
+(e.g., beta-blockers, ergotamine, clonidine,
+cyclosporine, caffeine, cocaine, amphetamines).
+Avoiding injury to digits and exposure to
+vibration, as well as minimizing stress, are also
+recommended. Vasoconstrictor drugs should be
+discontinued where possible.[4] [31]
+adjunct analgesia
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» acetaminophen: 325-1000 mg orally/rectally
+every 4-6 hours when required, maximum
+4000 mg/day
+OR
+» ibuprofen: 300-400 mg orally every 4-6
+hours when required, maximum 2400 mg/day
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+53
+=== Page 54 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Ongoing
+» naproxen: 250-500 mg orally twice daily
+when required, maximum 1250 mg/day
+OR
+» diclofenac potassium: 50 mg orally
+(immediate-release) twice or three times daily
+when required
+OR
+» diclofenac sodium: 100 mg orally
+(extended-release) once daily when required
+Secondary options
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+OR
+» oxycodone: 5-10 mg orally (immediate-
+release) every 4-6 hours when required; 10
+mg orally (extended-release) every 12 hours
+when required
+Tertiary options
+» fentanyl transdermal: 12.5 micrograms/hour
+patch applied every 72 hours, increase to
+25 micrograms/hour patch applied every 72
+hours if required
+» Pain relief is an important component of
+symptom management. Vasodilators treat the
+pain of RP if they are effective in reducing
+the frequency, severity, or duration of attacks.
+However, additional analgesics may be required
+to treat pain from severe or prolonged ischemia
+or complications such as gangrene or digital
+ulcers.
+» Local pain management algorithms should
+be followed, and treatment should be tailored
+to medical history and any relative/absolute
+contraindications. Simple analgesics such
+as acetaminophen and nonsteroidal anti-
+inflammatory drugs (NSAIDs) may be sufficient.
+Short- or long-acting opioids may be required.
+Digital ulcers may be very painful, and codeine
+or oxycodone may be indicated. Rarely,
+transdermal fentanyl is used if other opioids
+are not effective or not tolerated, typically for
+patients with gangrene or osteomyelitis. Local
+palmar and/or digital sympathectomy is a last-
+line option.
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 55 ===
+Raynaud phenomenon Management
+Ongoing
+adjunct complementary and alternative therapies
+Treatment recommended for SOME patients in
+selected patient group
+» Several alternative therapies or supplements
+have been claimed to help improve RP; however,
+these lack sufficient evidence and rely on
+patient testimonials. Complementary and
+alternative therapies that have been investigated
+in randomized controlled trials include evening
+primrose oil, omega-3 fatty acids, Ginkgo
+biloba, biofeedback, acupuncture, and low-
+level laser therapy.[77] [78] [79] [80] [81] [82]
+ A review and meta-analysis of complementary
+and alternative medicines in the treatment of
+RP found most trials were negative, of poor
+quality, and done prior to 1990.[83] However,
+given the limited risks associated with these
+treatments, using them as an adjunctive therapy
+may be considered for patients at any stage of
+RP severity, but patients should be informed on
+their lack of shown efficacy.
+» One study involving patients with RP who were
+deficient in vitamin D showed improvements on
+the visual analog scale with use of oral vitamin
+D3 supplementation compared with placebo
+supplementation.[84]
+» The effects of ceramic or silver-lined gloves
+in RP have also been investigated. One study
+reported improvement in pain and dexterity in
+patients using ceramic-lined gloves for 3 months
+compared with cotton gloves, whereas a 2022
+study investigating silver-lined gloves found no
+improvement compared with normal gloves.[85]
+[86]
+»
+4th alpha-blocker
+Primary options
+» prazosin: 1 mg orally twice daily
+» Alpha-blockers may be used as a fourth-line
+option when all other drugs have failed or are not
+tolerated.
+» Treatment with the alpha-blocker prazosin
+has shown modest improvement in RP in three
+randomized controlled trials; however, adverse
+effects may be common and no further trials
+have been conducted since 1986.[51] [52] [53]
+plus lifestyle measures
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+55
+=== Page 56 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Ongoing
+Treatment recommended for ALL patients in
+selected patient group
+» Lifestyle measures should also be considered
+alongside treatment in people with primary
+or mild secondary RP, and mainly include
+preventative measures and avoidance of
+triggers. These include keeping warm and
+avoiding damp: for instance, by wearing gloves
+or using hand warmers. Advice should be given
+about quitting smoking, moisturizing dry skin,
+and avoiding drugs known to exacerbate RP
+(e.g., beta-blockers, ergotamine, clonidine,
+cyclosporine, caffeine, cocaine, amphetamines).
+Avoiding injury to digits and exposure to
+vibration, as well as minimizing stress, are also
+recommended. Vasoconstrictor drugs should be
+discontinued where possible.[4] [31]
+adjunct analgesia
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» acetaminophen: 325-1000 mg orally/rectally
+every 4-6 hours when required, maximum
+4000 mg/day
+OR
+» ibuprofen: 300-400 mg orally every 4-6
+hours when required, maximum 2400 mg/day
+OR
+» naproxen: 250-500 mg orally twice daily
+when required, maximum 1250 mg/day
+OR
+» diclofenac potassium: 50 mg orally
+(immediate-release) twice or three times daily
+when required
+OR
+» diclofenac sodium: 100 mg orally
+(extended-release) once daily when required
+Secondary options
+» codeine sulfate: 15-60 mg orally every 4-6
+hours when required, maximum 360 mg/day
+OR
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 57 ===
+Raynaud phenomenon Management
+Ongoing
+» oxycodone: 5-10 mg orally (immediate-
+release) every 4-6 hours when required; 10
+mg orally (extended-release) every 12 hours
+when required
+Tertiary options
+» fentanyl transdermal: 12.5 micrograms/hour
+patch applied every 72 hours, increase to
+25 micrograms/hour patch applied every 72
+hours if required
+» Pain relief is an important component of
+symptom management. Vasodilators treat the
+pain of RP if they are effective in reducing
+the frequency, severity, or duration of attacks.
+However, additional analgesics may be required
+to treat pain.
+» Local pain management algorithms should
+be followed, and treatment should be tailored
+to medical history and any relative/absolute
+contraindications. Simple analgesics such
+as acetaminophen and nonsteroidal anti-
+inflammatory drugs (NSAIDs) may be sufficient.
+Short- or long-acting opioids may be required.
+Digital ulcers may be very painful, and codeine
+or oxycodone may be indicated. Rarely,
+transdermal fentanyl is used if other opioids
+are not effective or not tolerated, typically for
+patients with gangrene or osteomyelitis. Local
+palmar and/or digital sympathectomy is a last-
+line option.
+adjunct complementary and alternative therapies
+Treatment recommended for SOME patients in
+selected patient group
+» Several alternative therapies or supplements
+have been claimed to help improve RP; however,
+these lack sufficient evidence and rely on
+patient testimonials. Complementary and
+alternative therapies that have been investigated
+in randomized controlled trials include evening
+primrose oil, omega-3 fatty acids, Ginkgo
+biloba, biofeedback, acupuncture, and low-
+level laser therapy.[77] [78] [79] [80] [81] [82]
+ A review and meta-analysis of complementary
+and alternative medicines in the treatment of
+RP found most trials were negative, of poor
+quality, and done prior to 1990.[83] However,
+given the limited risks associated with these
+treatments, using them as an adjunctive therapy
+may be considered for patients at any stage of
+RP severity, but patients should be informed on
+their lack of shown efficacy.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+57
+=== Page 58 ===
+Raynaud phenomenon Management
+MANAGEMENT
+Ongoing
+» One study involving patients with RP who were
+deficient in vitamin D showed improvements on
+the visual analog scale with use of oral vitamin
+D3 supplementation compared with placebo
+supplementation.[84]
+» The effects of ceramic or silver-lined gloves
+in RP have also been investigated. One study
+reported improvement in pain and dexterity in
+patients using ceramic-lined gloves for 3 months
+compared with cotton gloves, whereas a 2022
+study investigating silver-lined gloves found no
+improvement compared with normal gloves.[85]
+[86]
+»
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 59 ===
+Raynaud phenomenon Management
+Emerging
+OnabotulinumtoxinA
+There are no large randomized controlled trials. One small trial assessed the efficacy of local injections
+of onabotulinumtoxinA (botulinum toxin type A) versus placebo in improving blood flow to the hands of
+patients with RP secondary to scleroderma. It found some short-term benefit though it questioned its clinical
+meaningfulness, and blood flow was not significantly different at 4 months.[87] A 2023 systematic review and
+meta-analysis identified 13 studies investigating the use of onabotulinumtoxinA (botulinum toxin type A) for
+treating RP. The findings indicated a reduction in both pain and impairment.[88] However, further randomized
+controlled trials with larger sample sizes are required.
+Primary prevention
+A healthy lifestyle, such as avoiding smoking, avoiding injury to digits and vibration exposure, regularly
+exercising, maintaining a healthy weight, avoiding high doses of thyroid hormone replacement therapy, as
+well as avoiding prolonged exposure to cold temperatures (e.g., by wearing proper outdoor clothing) may
+reduce the onset of RP in at-risk individuals, but prospective studies in this area are lacking. At-risk people
+may include those with a strong family history of RP and/or systemic sclerosis.
+Secondary prevention
+Secondary prevention in patients with RP focuses on reducing attacks through implementing lifestyle
+measures. The risk of attacks can be mitigated by avoiding smoking, avoiding injury to digits and vibration
+exposure, regularly exercising, moisturizing dry skin, avoiding drugs known to exacerbate RP, and keeping
+warm and avoiding damp.[31]
+Keeping warm will depend on where a person is living and working. Mild evenings and even air conditioning
+can trigger RP. Measures to keep the head, hands, and feet warm and dry are especially recommended,
+as these are more sensitive to temperature changes. Examples can include having adequate blankets
+while sleeping, wearing waterproof clothing, wearing heated gloves or socks, having a local heater in the
+workplace, heating a vehicle with a remote starter and/or using a steering wheel cover, and wearing mittens
+in grocery stores.
+Patient discussions
+Advice to mitigate RP attacks should include:
+• Staying warm and avoiding damp (e.g., having adequate blankets while sleeping, wearing
+waterproof clothing, using heated gloves or socks, having a local heater in the workplace, heating a
+vehicle with a remote starter and/or using a steering wheel cover, wearing mittens in grocery stores)
+• Moisturizing dry skin
+• Quitting smoking
+• Avoiding injury to digits and vibration exposure
+• Avoiding stress
+• Doing regular exercise, although there is no evidence to suggest that this improves RP.
+Many pharmacologic treatments for RP cause lightheadedness, flushing, or more rarely peripheral edema
+(puffy feet) and palpitations. Medical attention should be sought if adverse effects are severe.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+59
+=== Page 60 ===
+Raynaud phenomenon Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+RP should be monitored by regular symptom review and physical exam. If underlying connective tissue
+disease is suspected, capillary microscopy at the nailbeds should be arranged. Patients with abnormally
+dilated capillaries are at increased risk of developing a connective tissue disease (especially scleroderma)
+over the following 3 to 5 years.[28]
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 61 ===
+Raynaud phenomenon Follow up
+Complications
+Complications Timeframe Likelihood
+necrosis with gangrene long term medium
+Necrosis may occur in secondary RP but not in primary RP. This complication results from the progression
+of digital ulcers and ischemia and may lead to autoamputation or require surgical amputation. In digital
+ulcers with scleroderma, only 60% of ulcers heal by 6 months, with 1% to 2% requiring amputation.[71]
+[91]
+autoamputation long term low
+May result from severe digital ischemia and tissue necrosis.
+ischemic digital ulcers variable medium
+The likelihood of developing digital ulcers increases with disease duration, probably due to worsening
+obliterative vasculopathy. The presence of digital ulceration is generally thought to exclude a diagnosis
+of primary RP, so a secondary cause should be sought if ulceration occurs. Ischemic digital ulcers are
+found on the digit tips. Treatment of digital ulcers includes prostacyclins and phosphodiesterase-5 (PDE-5)
+inhibitors.[58] [64] Bosentan may be used for prevention of digital ulcers.[68]
+traumatic digital ulcers variable medium
+Traumatic ulcers (particularly in scleroderma) are often located on the extensor surfaces of the fingers.
+Creased areas with little underlying subcutaneous tissue (such as the extensor surfaces of the proximal
+interphalangeal joints) are particularly vulnerable.
+Treating traumatic ulcers with vasodilator therapy is not appropriate. Treatment should be targeted at
+protecting the digits from further trauma and treating superimposed infection as it arises; analgesia is often
+required.
+digital tuft resorption variable medium
+Moderate risk in secondary RP; does not occur in primary RP. Ischemia causes loss of tissue pulp and
+should be treated with prostacyclins and PDE-5 inhibitors.
+threatened ischemic digit variable medium
+Patients with severe ischemia should be treated with intravenous prostacyclins such as iloprost or
+epoprostenol, and sildenafil or other PDE-5 inhibitors such as tadalafil and vardenafil. If necessary a
+sympathetic block should be considered. Techniques available include stellate ganglion blockage, proximal
+cervical sympathectomies via endoscopic surgery, and local palmar and/or digital sympathectomies. Such
+techniques may not be available in all centers.
+digital pits variable medium
+Fibrotic plugs due to ischemia occur in RP and should be treated with prostacyclins and PDE-5 inhibitors.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+61
+=== Page 62 ===
+Raynaud phenomenon Follow up
+FOLLOW UP
+Complications Timeframe Likelihood
+cellulitis/osteomyelitis variable medium
+Digital ulcers can become infected and may require topical or oral antibiotics and appropriate wound care.
+If osteomyelitis is suspected, seek specialist advice from a microbiologist.
+Prognosis
+Prognosis
+The course may fluctuate in both primary and secondary RP. Symptoms worsen in cold weather and during
+seasonal changes with the absolute daily change in temperature and on cold, wet days. Not keeping warm
+and trauma to the affected areas may precipitate attacks. Attacks may last from several minutes to a few
+hours. Many people with primary RP report that their symptoms become more mild or even disappear over
+time. Approximately 13% of patients later develop an underlying disorder such as scleroderma.[90]
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 63 ===
+Raynaud phenomenon Guidelines
+Diagnostic guidelines
+International
+ESVM guidelines: the diagnosis and management of Raynaud’s phenomenon
+(https://www.vascular-medicine.org/guidelines)   [4]
+Published by: European Society for Vascular Medicine Last published: 2017
+Treatment guidelines
+International
+Treatment algorithms for systemic sclerosis according to experts (https://
+onlinelibrary.wiley.com/doi/full/10.1002/art.40560)   [56]
+Published by: Scleroderma Algorithm Group Last published: 2018
+The 2024 British Society for Rheumatology guideline for management
+of systemic sclerosis (https://www.rheumatology.org.uk/practice-quality/
+guidelines)   [89]
+Published by: British Society for Rheumatology Last published: 2024
+EULAR recommendations for the non-pharmacological management of
+systemic lupus erythematosus and systemic sclerosis (https://www.eular.org/
+recommendations-management)   [31]
+Published by: European Alliance of Associations for Rheumatology Last published: 2023
+Evidence and consensus-based recommendations for non-pharmacological
+treatment of fatigue, hand function loss, Raynaud's phenomenon and
+digital ulcers in patients with systemic sclerosis (https://academic.oup.com/
+rheumatology/article/61/4/1476/6321467)   [32]
+Published by: British Society for Rheumatology Last published: 2022
+ESVM guidelines: the diagnosis and management of Raynaud’s phenomenon
+(https://www.vascular-medicine.org/guidelines)   [4]
+Published by: European Society for Vascular Medicine Last published: 2017
+Update of EULAR recommendations for the treatment of systemic sclerosis
+(https://www.eular.org/recommendations-management)   [41]
+Published by: European Alliance of Associations for Rheumatology Last published: 2016
+Consensus best practice pathway of the UK Scleroderma Study
+Group: digital vasculopathy in systemic sclerosis (https://
+pubmed.ncbi.nlm.nih.gov/26116156)   [35]
+Published by: UK Scleroderma Study Group; British Society for
+Rheumatology
+Last published: 2015
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+63
+=== Page 64 ===
+Raynaud phenomenon Guidelines
+GUIDELINES
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 65 ===
+Raynaud phenomenon References
+Key articles
+• Curtiss P, Svigos K, Schwager Z, et al. Part I: epidemiology, pathophysiology, and clinical
+considerations of primary and secondary Raynaud's phenomenon. J Am Acad Dermatol.
+2024 Feb;90(2):223-34. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35809798?
+tool=bestpractice.bmj.com)
+• Belch J, Carlizza A, Carpentier PH, et al. ESVM guidelines - the diagnosis and management of
+Raynaud's phenomenon. Vasa. 2017 Oct;46(6):413-23.  Full text (https://econtent.hogrefe.com/
+doi/10.1024/0301-1526/a000661)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28895508?
+tool=bestpractice.bmj.com)
+• Kowal-Bielecka O, Fransen J, Avouac J, et al. Update of EULAR recommendations for the
+treatment of systemic sclerosis. Ann Rheum Dis. 2017 Aug;76(8):1327-39.  Full text (https://
+ard.bmj.com/content/76/8/1327.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27941129?
+tool=bestpractice.bmj.com)
+References
+1. Herrick AL, Wigley FM. Raynaud's phenomenon. Best Pract Res Clin Rheumatol.
+2020 Feb;34(1):101474. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32007400?
+tool=bestpractice.bmj.com)
+2. Curtiss P, Svigos K, Schwager Z, et al. Part I: epidemiology, pathophysiology, and clinical
+considerations of primary and secondary Raynaud's phenomenon. J Am Acad Dermatol.
+2024 Feb;90(2):223-34. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35809798?
+tool=bestpractice.bmj.com)
+3. Garner R, Kumari R, Lanyon P, et al. Prevalence, risk factors and associations of primary Raynaud's
+phenomenon: systematic review and meta-analysis of observational studies. BMJ Open. 2015 Mar
+16;5(3):e006389.  Full text (https://bmjopen.bmj.com/content/5/3/e006389.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25776043?tool=bestpractice.bmj.com)
+4. Belch J, Carlizza A, Carpentier PH, et al. ESVM guidelines - the diagnosis and management of
+Raynaud's phenomenon. Vasa. 2017 Oct;46(6):413-23.  Full text (https://econtent.hogrefe.com/
+doi/10.1024/0301-1526/a000661)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28895508?
+tool=bestpractice.bmj.com)
+5. Hartmann S, Yasmeen S, Jacobs BM, et al. ADRA2A and IRX1 are putative risk genes for
+Raynaud's phenomenon. Nat Commun. 2023 Oct 12;14(1):6156.  Full text (https://www.nature.com/
+articles/s41467-023-41876-5)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37828025?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+65
+=== Page 66 ===
+Raynaud phenomenon References
+REFERENCES
+6. Casanegra AI, Shepherd RF. Raynaud phenomenon and other vasospastic disorders. Cardiol
+Clin. 2021 Nov;39(4):583-99 Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34686269?
+tool=bestpractice.bmj.com)
+7. Khouri C, Blaise S, Carpentier P, et al. Drug-induced Raynaud's phenomenon: beyond β-adrenoceptor
+blockers. Br J Clin Pharmacol. 2016 Jul;82(1):6-16.  Full text (https://bpspubs.onlinelibrary.wiley.com/
+doi/10.1111/bcp.12912)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26949933?
+tool=bestpractice.bmj.com)
+8. Herrick A. Pathogenesis of Raynaud's phenomenon. Rheumatology (Oxford). 2005 May;44(5):587-96. 
+Full text (http://rheumatology.oxfordjournals.org/content/44/5/587.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15741200?tool=bestpractice.bmj.com)
+9. White CR, Haidekker MA, Stevens HY, et al. Extracellular signal-regulated kinase activation and
+endothelin-1 production in human endothelial cells exposed to vibration. J Physiol. 2004 Mar 1;555(Pt
+2):565-72.  Full text (https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1113/jphysiol.2003.059899)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14724194?tool=bestpractice.bmj.com)
+10. Sunderkötter C, Riemekasten G. Pathophysiology and clinical consequences of Raynaud's
+phenomenon related to systemic sclerosis. Rheumatology (Oxford). 2006 Oct;45 Suppl 3:iii33-5.  Full
+text (https://academic.oup.com/rheumatology/article/45/suppl_3/iii33/2255614?login=false)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/16987831?tool=bestpractice.bmj.com)
+11. Flavahan NA, Flavahan S, Liu Q, et al. Increased alpha2-adrenergic constriction of isolated
+arterioles in diffuse scleroderma. Arthritis Rheum. 2000 Aug;43(8):1886-90.  Full text
+(http://onlinelibrary.wiley.com/doi/10.1002/1529-0131%28200008%2943:8%3C1886::AID-
+ANR27%3E3.0.CO;2-S/pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10943881?
+tool=bestpractice.bmj.com)
+12. Freedman RR, Sabharal SC, Desai N, et al. Increased alpha-adrenergic responsiveness in idiopathic
+Raynaud's disease. Arthritis Rheum. 1989 Jan;32(1):61-5.  Full text (https://onlinelibrary.wiley.com/
+doi/abs/10.1002/anr.1780320110)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2536282?
+tool=bestpractice.bmj.com)
+13. Pope JE, Al-Bishri J, Al-Azem H, et al. The temporal relationship of Raynaud's phenomenon and
+features of connective tissue disease in rheumatoid arthritis. J Rheumatol. 2008 Dec;35(12):2329-33. 
+Full text (https://www.jrheum.org/content/35/12/2329.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18843783?tool=bestpractice.bmj.com)
+14. Lalani S, Pope J, de Leon F, et al. Clinical features and prognosis of late-onset systemic lupus
+erythematosus: results from the 1000 faces of lupus study. J Rheumatol. 2010 Jan;37(1):38-44. 
+Full text (https://www.jrheum.org/content/37/1/38.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20008925?tool=bestpractice.bmj.com)
+15. Ramos-Casals M, Anaya JM, García-Carrasco M, et al. Cutaneous vasculitis in primary
+Sjögren syndrome: classification and clinical significance of 52 patients. Medicine (Baltimore).
+2004 Mar;83(2):96-106.  Full text (https://journals.lww.com/md-journal/fulltext/2004/03000/
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 67 ===
+Raynaud phenomenon References
+cutaneous_vasculitis_in_primary_sj_gren_syndrome_.2.aspx)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15028963?tool=bestpractice.bmj.com)
+16. García-Carrasco M, Sisó A, Ramos-Casals M, et al. Raynaud's phenomenon in primary Sjögren's
+syndrome. Prevalence and clinical characteristics in a series of 320 patients. J Rheumatol. 2002
+Apr;29(4):726-30.  Full text (https://www.jrheum.org/content/29/4/726.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11950013?tool=bestpractice.bmj.com)
+17. Parodi A, Caproni M, Marzano AV, et al. Dermatomyositis in 132 patients with different clinical
+subtypes: cutaneous signs, constitutional symptoms and circulating antibodies. Acta Derm Venereol.
+2002;82(1):48-51.  Full text (https://medicaljournalssweden.se/actadv/article/view/13665)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/12013199?tool=bestpractice.bmj.com)
+18. Grader-Beck T, Wigley FM. Raynaud's phenomenon in mixed connective tissue disease. Rheum Dis
+Clin North Am. 2005 Aug;31(3):465-81, vi. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16084319?
+tool=bestpractice.bmj.com)
+19. Hong P, Pope JE, Ouimet JM, et al. Erectile dysfunction associated with scleroderma: a case-control
+study of men with scleroderma and rheumatoid arthritis. J Rheumatol. 2004 Mar;31(3):508-13. 
+Full text (https://www.jrheum.org/content/31/3/508.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/14994396?tool=bestpractice.bmj.com)
+20. Brand FN, Larson MG, Kannel WB, et al. The occurrence of Raynaud's phenomenon in a
+general population: the Framingham Study. Vasc Med. 1997 Nov;2(4):296-301.  Full text (https://
+journals.sagepub.com/doi/10.1177/1358863X9700200404)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9575602?tool=bestpractice.bmj.com)
+21. Maricq HR, Carpentier PH, Weinrich MC, et al. Geographic variation in the prevalence of Raynaud's
+phenomenon: a 5 region comparison. J Rheumatol. 1997 May;24(5):879-89. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9150076?tool=bestpractice.bmj.com)
+22. Taylor W. Hand-arm vibration syndrome: a new clinical classification and an updated British
+standard guide for hand transmitted vibration. Br J Ind Med. 1988 May;45(5):281-2.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1007995)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/3288274?tool=bestpractice.bmj.com)
+23. Harada N, Mahbub MH. Diagnosis of vascular injuries caused by hand-transmitted vibration.
+Int Arch Occup Environ Health. 2008 Apr;81(5):507-18. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17899161?tool=bestpractice.bmj.com)
+24. Małecki R, Zdrojowy K, Adamiec R. Thromboangiitis obliterans in the 21st century: a new face
+of disease. Atherosclerosis. 2009 Oct;206(2):328-34. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19269635?tool=bestpractice.bmj.com)
+25. Stjernbrandt A, Pettersson H, Liljelind I, et al. Raynaud's phenomenon in Northern Sweden: a
+population-based nested case-control study. Rheumatol Int. 2019 Feb;39(2):265-75.  Full text (https://
+link.springer.com/article/10.1007/s00296-018-4133-y)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30128730?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+67
+=== Page 68 ===
+Raynaud phenomenon References
+REFERENCES
+26. Suter LG, Murabito JM, Felson DT, et al. Smoking, alcohol consumption, and Raynaud's phenomenon
+in middle age. Am J Med. 2007 Mar;120(3):264-71.  Full text (https://www.amjmed.com/article/
+S0002-9343(06)00686-3/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17349450?
+tool=bestpractice.bmj.com)
+27. Silva C, Solanki KK, White DHN. The relationship between smoking, Raynaud's phenomenon, digital
+ulcers, and skin thickness in the Waikato Systemic Sclerosis cohort. Rheumatol Immunol Res. 2022
+Jul 6;3(2):84-9.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9524819)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36465326?tool=bestpractice.bmj.com)
+28. Boin F, Wigley FM. Understanding, assessing and treating Raynaud's phenomenon. Curr Opin
+Rheumatol. 2005 Nov;17(6):752-60. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16224254?
+tool=bestpractice.bmj.com)
+29. Maverakis E, Patel F, Kronenberg DG, et al. International consensus criteria for the diagnosis
+of Raynaud's phenomenon. J Autoimmun. 2014 Feb-Mar;48-49:60-5.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4018202)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24491823?tool=bestpractice.bmj.com)
+30. Baron M, Bell M, Bookman A, et al. Office capillaroscopy in systemic sclerosis. Clin Rheumatol.
+2007 Aug;26(8):1268-74. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17160528?
+tool=bestpractice.bmj.com)
+31. Parodis I, Gomez A, Tsoi A, et al. Systematic literature review informing the EULAR recommendations
+for the non-pharmacological management of systemic lupus erythematosus and systemic sclerosis.
+RMD Open. 2023 Aug;9(3):e003297.  Full text (https://rmdopen.bmj.com/content/9/3/e003297.long)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37532469?tool=bestpractice.bmj.com)
+32. Stöcker JK, Schouffoer AA, Spierings J, et al. Evidence and consensus-based recommendations for
+non-pharmacological treatment of fatigue, hand function loss, Raynaud's phenomenon and digital
+ulcers in patients with systemic sclerosis. Rheumatology (Oxford). 2022 Apr 11;61(4):1476-86.  Full
+text (https://academic.oup.com/rheumatology/article/61/4/1476/6321467?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34260723?tool=bestpractice.bmj.com)
+33. Huisstede BM, Hoogvliet P, Paulis WD, et al. Effectiveness of interventions for secondary Raynaud's
+phenomenon: a systematic review. Arch Phys Med Rehabil. 2011 Jul;92(7):1166-80. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21704799?tool=bestpractice.bmj.com)
+34. Thompson AE, Pope JE. Calcium channel blockers for primary Raynaud's phenomenon: a meta-
+analysis. Rheumatology (Oxford). 2005 Feb;44(2):145-50.  Full text (https://academic.oup.com/
+rheumatology/article/44/2/145/2899216?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15546967?tool=bestpractice.bmj.com)
+35. Hughes M, Ong VH, Anderson ME, et al. Consensus best practice pathway of the UK
+Scleroderma Study Group: digital vasculopathy in systemic sclerosis. Rheumatology (Oxford).
+2015 Nov;54(11):2015-24. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26116156?
+tool=bestpractice.bmj.com)
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 69 ===
+Raynaud phenomenon References
+36. Ennis H, Hughes M, Anderson ME, et al. Calcium channel blockers for primary Raynaud's
+phenomenon. Cochrane Database Syst Rev. 2016 Feb 25;2(2):CD002069.  Full text (https://
+www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002069.pub5/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26914257?tool=bestpractice.bmj.com)
+37. Rirash F, Tingey PC, Harding SE, et al. Calcium channel blockers for primary and secondary
+Raynaud's phenomenon. Cochrane Database Syst Rev. 2017 Dec 13;12:CD000467.  Full text
+(https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000467.pub2/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29237099?tool=bestpractice.bmj.com)
+38. La Civita L, Pitaro N, Rossi M, et al. Amlodipine in the treatment of Raynaud's phenomenon. Br
+J Rheumatol. 1993 Jun;32(6):524-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8508292?
+tool=bestpractice.bmj.com)
+39. Rhedda A, McCans J, Willan AR, et al. A double blind placebo controlled crossover randomized
+trial of diltiazem in Raynaud's phenomenon. J Rheumatol. 1985 Aug;12(4):724-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3903157?tool=bestpractice.bmj.com)
+40. Su KY, Sharma M, Kim HJ, et al. Vasodilators for primary Raynaud's phenomenon. Cochrane
+Database Syst Rev. 2021 May 17;5(5):CD006687.  Full text (https://www.cochranelibrary.com/
+cdsr/doi/10.1002/14651858.CD006687.pub4/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33998674?tool=bestpractice.bmj.com)
+41. Kowal-Bielecka O, Fransen J, Avouac J, et al. Update of EULAR recommendations for the
+treatment of systemic sclerosis. Ann Rheum Dis. 2017 Aug;76(8):1327-39.  Full text (https://
+ard.bmj.com/content/76/8/1327.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27941129?
+tool=bestpractice.bmj.com)
+42. Pancera P, Sansone S, Secchi S, et al. The effects of thromboxane A2 inhibition (picotamide) and
+angiotensin II receptor blockade (losartan) in primary Raynaud's phenomenon. J Intern Med. 1997
+Nov;242(5):373-6.  Full text (https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2796.1997.00219.x)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9408065?tool=bestpractice.bmj.com)
+43. Dziadzio M, Denton CP, Smith R, et al. Losartan therapy for Raynaud's phenomenon and
+scleroderma: clinical and biochemical findings in a fifteen-week, randomized, parallel-group,
+controlled trial. Arthritis Rheum. 1999 Dec;42(12):2646-55.  Full text (https://onlinelibrary.wiley.com/
+doi/10.1002/1529-0131(199912)42:12%3C2646::AID-ANR21%3E3.0.CO;2-T)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10616013?tool=bestpractice.bmj.com)
+44. Wood HM, Ernst ME. Renin-angiotensin system mediators and Raynaud's phenomenon. Ann
+Pharmacother. 2006 Nov;40(11):1998-2002. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17003081?
+tool=bestpractice.bmj.com)
+45. Coleiro B, Marshall SE, Denton CP, et al. Treatment of Raynaud's phenomenon with the selective
+serotonin reuptake inhibitor fluoxetine. Rheumatology (Oxford). 2001 Sep;40(9):1038-43.  Full text
+(https://academic.oup.com/rheumatology/article/40/9/1038/1787964?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11561116?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+69
+=== Page 70 ===
+Raynaud phenomenon References
+REFERENCES
+46. Khouri C, Gailland T, Lepelley M, et al. Fluoxetine and Raynaud's phenomenon: friend or foe? Br J Clin
+Pharmacol. 2017 Oct;83(10):2307-9.  Full text (https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/
+bcp.13314)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28580711?tool=bestpractice.bmj.com)
+47. Teh LS, Manning J, Moore T, et al. Sustained-release transdermal glyceryl trinitrate patches as a
+treatment for primary and secondary Raynaud's phenomenon. Br J Rheumatol. 1995 Jul;34(7):636-41.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7670782?tool=bestpractice.bmj.com)
+48. Franks AG Jr. Topical glyceryl trinitrate as adjunctive treatment in Raynaud's disease.
+Lancet. 1982 Jan 9;1(8263):76-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6119495?
+tool=bestpractice.bmj.com)
+49. Chung L, Shapiro L, Fiorentino D, et al. MQX-503, a novel formulation of nitroglycerin, improves
+the severity of Raynaud's phenomenon: a randomized, controlled trial. Arthritis Rheum. 2009
+Mar;60(3):870-7.  Full text (https://onlinelibrary.wiley.com/doi/epdf/10.1002/art.24351)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19248104?tool=bestpractice.bmj.com)
+50. Hummers LK, Dugowson CE, Dechow FJ, et al. A multi-centre, blinded, randomised, placebo-
+controlled, laboratory-based study of MQX-503, a novel topical gel formulation of nitroglycerine, in
+patients with Raynaud phenomenon. Ann Rheum Dis. 2013 Dec;72(12):1962-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23268365?tool=bestpractice.bmj.com)
+51. Pope J, Fenlon D, Thompson A, et al. Prazosin for Raynaud's phenomenon in progressive
+systemic sclerosis. Cochrane Database Syst Rev. 2000;1998(2):CD000956.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC7032637)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10796398?tool=bestpractice.bmj.com)
+52. Surwit RS, Gilgor RS, Allen LM, et al. A double-blind study of prazosin in the treatment of
+Raynaud's phenomenon in scleroderma. Arch Dermatol. 1984 Mar;120(3):329-31. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/6367665?tool=bestpractice.bmj.com)
+53. Wollersheim H, Thien T, Fennis J, et al. Double-blind, placebo-controlled study of prazosin
+in Raynaud's phenomenon. Clin Pharmacol Ther. 1986 Aug;40(2):219-25. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3731684?tool=bestpractice.bmj.com)
+54. Gliddon AE, Doré CJ, Black CM, et al. Prevention of vascular damage in scleroderma and
+autoimmune Raynaud's phenomenon: a multicenter, randomized, double-blind, placebo-
+controlled trial of the angiotensin-converting enzyme inhibitor quinapril. Arthritis Rheum. 2007
+Nov;56(11):3837-46.  Full text (http://onlinelibrary.wiley.com/doi/10.1002/art.22965/full)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/17968938?tool=bestpractice.bmj.com)
+55. Roustit M, Blaise S, Allanore Y, et al. Phosphodiesterase-5 inhibitors for the treatment of
+secondary Raynaud's phenomenon: systematic review and meta-analysis of randomised trials. Ann
+Rheum Dis. 2013 Oct;72(10):1696-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23426043?
+tool=bestpractice.bmj.com)
+56. Fernández-Codina A, Walker KM, Pope JE, et al. Treatment algorithms for systemic sclerosis
+according to experts. Arthritis Rheumatol. 2018 Nov;70(11):1820-8.  Full text (https://
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 71 ===
+Raynaud phenomenon References
+onlinelibrary.wiley.com/doi/full/10.1002/art.40560)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29781586?tool=bestpractice.bmj.com)
+57. Herrick AL, van den Hoogen F, Gabrielli A, et al. Modified-release sildenafil reduces Raynaud's
+phenomenon attack frequency in limited cutaneous systemic sclerosis. Arthritis Rheum. 2011
+Mar;63(3):775-82.  Full text (https://onlinelibrary.wiley.com/doi/epdf/10.1002/art.30195)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/21360507?tool=bestpractice.bmj.com)
+58. Fries R, Shariat K, von Wilmowsky H, et al. Sildenafil in the treatment of Raynaud's phenomenon
+resistant to vasodilatory therapy. Circulation. 2005 Nov 8;112(19):2980-5.  Full text (https://
+www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.104.523324)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16275885?tool=bestpractice.bmj.com)
+59. Shenoy PD, Kumar S, Jha LK, et al. Efficacy of tadalafil in secondary Raynaud's phenomenon
+resistant to vasodilator therapy: a double-blind randomized cross-over trial. Rheumatology
+(Oxford). 2010 Dec;49(12):2420-8.  Full text (https://academic.oup.com/rheumatology/
+article/49/12/2420/1791021?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20837499?
+tool=bestpractice.bmj.com)
+60. Caglayan E, Axmann S, Hellmich M, et al. Vardenafil for the treatment of raynaud
+phenomenon: a randomized, double-blind, placebo-controlled crossover study. Arch
+Intern Med. 2012 Aug 13;172(15):1182-4.  Full text (https://jamanetwork.com/journals/
+jamainternalmedicine/fullarticle/1188038)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22710940?
+tool=bestpractice.bmj.com)
+61. De LaVega AJ, Derk CT. Phosphodiesterase-5 inhibitors for the treatment of Raynaud's: a novel
+indication. Expert Opin Investig Drugs. 2009 Jan;18(1):23-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19053879?tool=bestpractice.bmj.com)
+62. Maltez N, Maxwell LJ, Rirash F, et al. Phosphodiesterase 5 inhibitors (PDE5i) for the treatment of
+Raynaud's phenomenon. Cochrane Database Syst Rev. 2023 Nov 6;11(11):CD014089.  Full text
+(https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014089/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37929840?tool=bestpractice.bmj.com)
+63. Ingegnoli F, Schioppo T, Allanore Y, et al. Practical suggestions on intravenous iloprost in Raynaud's
+phenomenon and digital ulcer secondary to systemic sclerosis: systematic literature review and expert
+consensus. Semin Arthritis Rheum. 2019 Feb;48(4):686-93. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29706243?tool=bestpractice.bmj.com)
+64. Wigley FM, Seibold JR, Wise RA, et al. Intravenous iloprost treatment of Raynaud's phenomenon and
+ischemic ulcers secondary to systemic sclerosis. J Rheumatol. 1992 Sep;19(9):1407-14. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/1279170?tool=bestpractice.bmj.com)
+65. Wigley FM, Wise RA, Seibold JR, et al. Intravenous iloprost infusion in patients with Raynaud
+phenomenon secondary to systemic sclerosis. A multicenter, placebo-controlled, double-blind study.
+Ann Intern Med. 1994 Feb 1;120(3):199-206. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7506013?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+71
+=== Page 72 ===
+Raynaud phenomenon References
+REFERENCES
+66. Abou-Raya A, Abou-Raya S, Helmii M. Statins: potentially useful in therapy of systemic sclerosis-
+related Raynaud's phenomenon and digital ulcers. J Rheumatol. 2008 Sep;35(9):1801-8.  Full
+text (https://www.jrheum.org/content/35/9/1801.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18709692?tool=bestpractice.bmj.com)
+67. Korn JH, Mayes M, Matucci Cerinic M, et al. Digital ulcers in systemic sclerosis: prevention
+by treatment with bosentan, an oral endothelin receptor antagonist. Arthritis Rheum. 2004
+Dec;50(12):3985-93.  Full text (http://onlinelibrary.wiley.com/doi/10.1002/art.20676/full)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15593188?tool=bestpractice.bmj.com)
+68. Matucci-Cerinic M, Denton CP, Furst DE, et al. Bosentan treatment of digital ulcers related to systemic
+sclerosis: results from the RAPIDS-2 randomised, double-blind, placebo-controlled trial. Ann Rheum
+Dis. 2011 Jan;70(1):32-8.  Full text (https://ard.bmj.com/content/70/1/32.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20805294?tool=bestpractice.bmj.com)
+69. Hosseinbalam M, Nouri R, Farajzadegan Z, et al. Effectiveness of bosentan in the treatment of
+systemic sclerosis-related digital ulcers: systematic review and meta-analysis. J Res Med Sci. 2023
+Jan 31:28:3.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10039099)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36974107?tool=bestpractice.bmj.com)
+70. Varga J. New hope for systemic sclerosis patients with digital ulcers. Curr Rheumatol Rep. 2005
+Apr;7(2):127-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15760591?tool=bestpractice.bmj.com)
+71. Seibold JR, Matucci-Cerinic M, Denton CP, et al. Bosentan reduces the number of new digital ulcers in
+patients with systemic sclerosis. Ann Rheum Dis. 2006;65(suppl II):90.
+72. Goundry B, Bell L, Langtree M, et al. Diagnosis and management of Raynaud's phenomenon.
+BMJ. 2012 Feb 7;344:e289. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22315243?
+tool=bestpractice.bmj.com)
+73. Giuggioli D, Magnani L, Spinella A, et al. Infections of scleroderma digital ulcers: a single center cohort
+retrospective study. Dermatol Reports. 2021 Nov 17;13(3):9075.  Full text (https://www.pagepress.org/
+journals/index.php/dr/article/view/9075)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35003566?
+tool=bestpractice.bmj.com)
+74. Wasserman A, Brahn E. Systemic sclerosis: bilateral improvement of Raynaud's phenomenon with
+unilateral digital sympathectomy. Semin Arthritis Rheum. 2010 Oct;40(2):137-46. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19878974?tool=bestpractice.bmj.com)
+75. Punj J, Garg H, Gomez G, et al. Sympathetic blocks for Raynaud's phenomena in pediatric
+rheumatological disorders. Pain Med. 2022 Jul 1;23(7):1211-6.  Full text (https://academic.oup.com/
+painmedicine/article/23/7/1211/6522132?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35135008?tool=bestpractice.bmj.com)
+76. Momeni A, Sorice SC, Valenzuela A, et al. Surgical treatment of systemic sclerosis--is it justified to
+offer peripheral sympathectomy earlier in the disease process? Microsurgery. 2015 Sep;35(6):441-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25585522?tool=bestpractice.bmj.com)
+72 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 73 ===
+Raynaud phenomenon References
+77. DiGiacomo RA, Kremer JM, Shah DM. Fish-oil dietary supplementation in patients with Raynaud's:
+a double-blind, controlled, prospective study. Am J Med. 1989 Feb;86(2):158-64. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2536517?tool=bestpractice.bmj.com)
+78. Muir AH, Robb R, McLaren M, et al. The use of Ginkgo biloba in Raynaud's disease: a double-
+blind placebo controlled trial. Vasc Med. 2002;7(4):265-7.  Full text (https://journals.sagepub.com/
+doi/10.1191/1358863x02vm455oa)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12710841?
+tool=bestpractice.bmj.com)
+79. Bredie SJ, Jong MC. No significant effect of ginkgo biloba special extract EGb 761 in the
+treatment of primary Raynaud phenomenon: a randomized controlled trial. J Cardiovasc
+Pharmacol. 2012 Mar;59(3):215-21. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22030896?
+tool=bestpractice.bmj.com)
+80. Appiah R, Hiller S, Caspary L, et al. Treatment of primary Raynaud's syndrome with traditional
+Chinese acupuncture. J Intern Med. 1997 Feb;241(2):119-24.  Full text (https://onlinelibrary.wiley.com/
+doi/abs/10.1046/j.1365-2796.1997.91105000.x)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9077368?tool=bestpractice.bmj.com)
+81. Al-Awami M, Schillinger M, Maca T, et al. Low-level laser therapy treatment of primary and secondary
+Raynaud's phenomenon. Vasa. 2001 Nov;30(4):281-4. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11771213?tool=bestpractice.bmj.com)
+82. Belch JJ, Shaw B, O'Dowd A, et al. Evening primrose oil (Efamol) in the treatment of Raynaud's
+phenomenon: a double blind study. Thromb Haemost. 1985 Aug 30;54(2):490-4. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/4082084?tool=bestpractice.bmj.com)
+83. Malenfant D, Catton M, Pope JE. The efficacy of complementary and alternative medicine in the
+treatment of Raynaud's phenomenon: a literature review and meta-analysis. Rheumatology (Oxford).
+2009 Jul;48(7):791-5.  Full text (https://academic.oup.com/rheumatology/article/48/7/791/1788881?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19433434?tool=bestpractice.bmj.com)
+84. Hélou J, Moutran R, Maatouk I, et al. Raynaud's phenomenon and vitamin D. Rheumatol Int. 2013
+Mar;33(3):751-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22580932?tool=bestpractice.bmj.com)
+85. Ko GD, Berbrayer D. Effect of ceramic-impregnated "thermoflow" gloves on patients with Raynaud's
+syndrome: randomized, placebo-controlled study. Altern Med Rev. 2002 Aug;7(4):328-35. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/12197784?tool=bestpractice.bmj.com)
+86. Liem SIE, Hoekstra EM, Bonte-Mineur F, et al. The effect of silver fibre gloves on Raynaud's
+phenomenon in patients with systemic sclerosis: a double-blind randomized crossover trial.
+Rheumatology (Oxford). 2023 Feb 6;62(si):74-81.  Full text (https://academic.oup.com/rheumatology/
+article/62/SI/SI74/6571140?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35441683?
+tool=bestpractice.bmj.com)
+87. Bello RJ, Cooney CM, Melamed E, et al. The therapeutic efficacy of botulinum toxin in treating
+scleroderma-associated Raynaud's phenomenon: a randomized, double-blind, placebo-controlled
+clinical trial. Arthritis Rheumatol. 2017 Aug;69(8):1661-9.  Full text (https://www.ncbi.nlm.nih.gov/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+73
+=== Page 74 ===
+Raynaud phenomenon References
+REFERENCES
+pmc/articles/PMC5529251)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28426903?
+tool=bestpractice.bmj.com)
+88. Zhou Y, Yu Y, Bi S, et al. Botulinum toxins for the treatment of Raynaud phenomenon: a
+systematic review with meta-analysis. J Clin Rheumatol. 2023 Aug 1;29(5):e92-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37011178?tool=bestpractice.bmj.com)
+89. Denton CP, De Lorenzis E, Roblin E, et al. The 2024 British Society for Rheumatology guideline for
+management of systemic sclerosis. Rheumatology (Oxford). 2024 Sep 11 [Epub ahead of print].  Full
+text (https://www.doi.org/10.1093/rheumatology/keae394)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/39255973?tool=bestpractice.bmj.com)
+90. Spencer-Green G. Outcomes in primary Raynaud phenomenon: a meta-analysis of
+the frequency, rates, and predictors of transition to secondary diseases. Arch Intern
+Med. 1998 Mar 23;158(6):595-600.  Full text (https://jamanetwork.com/journals/
+jamainternalmedicine/fullarticle/191635)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9521223?
+tool=bestpractice.bmj.com)
+91. Black C, Denton CP, Furst DE, et al. Bosentan reduces the number of new digital ulcers in patients
+with systemic sclerosis: open-label extension to a double-blind trial. Ann Rheum Dis. 2006;65(suppl
+II):384.
+74 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 75 ===
+Raynaud phenomenon Images
+Images
+Figure 1: Cyanotic Raynaud phenomenon (RP) in a patient with mixed connective tissue disease
+From the personal collection of Dr Janet Pope; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+75
+=== Page 76 ===
+Raynaud phenomenon Images
+IMAGES
+Figure 2: Well-demarcated pallor of the 3rd finger in a patient with primary Raynaud phenomenon (RP)
+From the personal collection of Dr Janet Pope; used with permission
+76 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 77 ===
+Raynaud phenomenon Images
+Figure 3: Digital infarcts and nailfold changes
+From the personal collection of Dr Janet Pope; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+77
+=== Page 78 ===
+Raynaud phenomenon Images
+IMAGES
+Figure 4: Digital pits on the 3rd finger of the left hand
+From the personal collection of Dr Janet Pope; used with permission
+78 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 79 ===
+Raynaud phenomenon Images
+Figure 5: Digital ulcer in a patient with secondary Raynaud phenomenon (RP)
+From the personal collection of Dr Janet Pope; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+79
+=== Page 80 ===
+Raynaud phenomenon Images
+IMAGES
+Figure 6: Raynaud phenomenon (RP) and inflammatory arthritis with sclerodactyly distal to the proximal
+interphalangeal joints
+From the personal collection of Dr Janet Pope; used with permission
+80 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 81 ===
+Raynaud phenomenon Images
+Figure 7: Swollen/puffy fingers in a patient with secondary Raynaud phenomenon (RP)
+From the personal collection of Dr Janet Pope; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+81
+=== Page 82 ===
+Raynaud phenomenon Images
+IMAGES
+Figure 8: Secondary Raynaud phenomenon (RP) with sclerodactyly
+From the personal collection of Dr Janet Pope; used with permission
+82 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 83 ===
+Raynaud phenomenon Images
+Figure 9: Visible dilated capillaries at the nailbed
+From the personal collection of Dr Janet Pope; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+83
+=== Page 84 ===
+Raynaud phenomenon Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+84 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 85 ===
+Raynaud phenomenon Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Oct 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+85
+=== Page 86 ===
+Contributors:
+// Authors:
+Janet Pope, MD, MPH, FRCPC
+Professor of Medicine
+Division of Rheumatology, Department of Medicine, University of Western Ontario, Schulich School of
+Medicine and Dentistry, Head, Division of Rheumatology, St. Joseph's Health Care, London, Ontario,
+Canada
+DISCLOSURES: JP has been reimbursed for consulting with several pharmaceutical manufacturers
+unrelated to Rayaud phenomenon. JP’s institution receives research grants from BMS, Janssen, and
+Seattle Genetics. She has acted as a consultant for AbbVie, Amgen, AstraZeneca, BI, BMS, Celltrion,
+EMERALD, Frensenius Kabi, GSK, Janssen, JMP, Lilly, Mallinckrodt Pharmaceuticals, Mitsubishi Tanabe
+Pharma, Novartis, Organon, Pfizer, Sandoz, Samsung, and Viatris. JP is a speaker and advisory board
+member for AbbVie, Amgen, AstraZeneca, BI, BMS, Frensenius Kabi, GSK, Janssen, JMP, Lilly, Novartis,
+Organon, Pfizer, Sandoz, UCB, and Viatris. She receives no patents or royalties. JP is an author of a
+number of references cited in this topic.
+// Peer Reviewers:
+Elena Schiopu, MD
+Professor of Medicine
+Rheumatologist, Medical College of Georgia at Augusta University, Charlie Norwood Veterans Affairs
+Medical Center, Augusta, GA
+DISCLOSURES: ES declares that she has no competing interests.
+Ariane L. Herrick, MD FRCP
+Reader in Rheumatology and Consultant Rheumatologist
+Musculoskeletal Research Group, University of Manchester, Manchester, UK
+DISCLOSURES: ALH has been a paid speaker for Actelion; a consultant for Actelion and Pfizer; and an
+investigator in studies sponsored by Actelion, Mediquest, and United Therapeutics. ALH is an author of a
+number of references cited in this topic.
+Bridget Griffiths, MB ChB, MD, MRCP(UK)
+Consultant Rheumatologist
+Department of Rheumatology, Freeman Hospital, Newcastle upon Tyne, UK
+DISCLOSURES: BG declares that she has no competing interests.

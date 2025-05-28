@@ -1,0 +1,1272 @@
+# Pulmonary stenosis
+
+=== Page 1 ===
+Pulmonary stenosis
+Straight to the point of care
+Last updated: Jun 28, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  5
+Case history  5
+Diagnosis  6
+Approach  6
+History and exam  9
+Risk factors  10
+Tests  12
+Differentials  14
+Criteria  15
+Management  16
+Approach  16
+Treatment algorithm overview  17
+Treatment algorithm  18
+Patient discussions  20
+Follow up  22
+Monitoring  22
+Complications  23
+Prognosis  24
+Guidelines  25
+Diagnostic guidelines  25
+Treatment guidelines  26
+References  27
+Images  30
+Disclaimer  31
+=== Page 3 ===
+Pulmonary stenosis Overview
+Summary
+Pulmonary stenosis is mostly congenital.
+Symptoms range from none to profound cyanosis and the potential for sudden death.
+Systolic ejection murmur is present and is loudest over left upper sternal border.
+Cyanotic patients are treated with oxygen and prostaglandin E1 prior to diagnostic testing.
+The diagnosis is confirmed and severity classified by echocardiography.
+Mild pulmonary stenosis is a benign condition requiring sequential cardiac follow-up but no therapy.
+Percutaneous balloon pulmonary valvuloplasty (PBPV) is indicated in moderate to severe/critical lesions.
+Surgical valvotomy is reserved for treatment failure and contraindication to PBPV.
+Definition
+Pulmonary stenosis (PS) obstructs the blood flow from the right ventricle (RV) into the pulmonary bed,
+resulting in a pressure gradient greater than 10 mmHg across the pulmonary valve during systole. In most
+cases PS is found at the level of the valve, but it can also occur below the level of the valve or distally in
+the pulmonary arteries. PS is commonly associated with other forms of congenital heart disease.[1] [2] The
+increased subpulmonary ventricular pressure may lead to hypertrophy of the RV proportional to the degree
+of stenosis. Clinical symptoms range from none in mild PS to profound cyanosis and the potential for sudden
+death in critical PS.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Pulmonary stenosis Theory
+THEORY
+Epidemiology
+Pulmonary stenosis (PS) is estimated to occur in 7% to 12% of all patients with congenital heart disease.
+[3] In people with Noonan syndrome, the isolated PS is frequently caused by a dysplastic pulmonary valve
+and has an incidence of up to 27%.[1] Compared with white people, black people have an increased rate
+of peripheral PS (5.35 vs. 2.45 per 10,000 live births) and a statistical trend toward a higher incidence of
+valvular PS (4.48 vs. 3.46 per 10,000 live births).
+Etiology
+The majority of cases are congenital. Possible embryologic explanations for pulmonary stenosis (PS) vary
+from a maldevelopment of the bulbus cordis to fetal endocarditis.[4] [5] Most often, there is a typical dome-
+shaped pulmonary valve with a narrow central opening but a preserved mobile valve base. A dysplastic
+pulmonary valve, with poorly mobile cusps and myxomatous thickening, is less common (15% to 20%; even
+less in untreated adults) and frequently part of Noonan syndrome. In adults, a stenotic pulmonary valve may
+calcify late in life.
+A genetic abnormality is another possible etiology, as PS is frequently associated with genetic conditions
+such as Noonan syndrome, Noonan syndrome with multiple lentigines (previously known as LEOPARD
+syndrome), Williams syndrome, or Alagille syndrome.[6] [7]
+Acquired PS is a rare condition associated with carcinoid syndrome, infectious endocarditis, myocardial
+tumors, and external compression. Carcinoid heart disease is caused by plaque formation on the endocardial
+surfaces of the right atrium and of the right valves, resulting in thickened and immobile valve leaflets.
+Pathophysiology
+The main pathophysiologic consequence of PS is right ventricular (RV) strain and an increase in RV
+pressure. The cellular effect on the RV depends on the timing of obstruction.[8] If the obstruction is present
+in a fetus or neonate, the myocardial response is hyperplasia of myocytes and an increase in vascularity.
+However, if the obstruction develops within mature myocardium, there is an increase in myocyte size
+(hypertrophy) without an increase in capillary network.
+Mild to moderate obstruction will in general be hemodynamically well tolerated and is not associated with
+cyanosis or cardiac symptoms. In the severe form of PS, clinical symptoms such as dyspnea, exercise
+intolerance, cyanosis, and syncope may occur. The right ventricular will eventually fail as the myocardium
+becomes unable to support the enhanced work load imposed by the stenosis, and patients develop jugular
+venous distention, peripheral edema, pleural effusion, ascites, and hepatomegaly.
+Critical PS may occur in neonates if the right ventricular outflow tract obstruction caused by the stenotic
+valve is so severe that it leads to cyanosis. The major source of pulmonary blood flow in severely obstructed
+patients is through the ductus arteriosus. Once the ductus arteriosus begins to close, blood flow will be
+insufficient and the neonate will become hypoxemic.[9]
+If there is no atrial or ventricular level shunt, sudden death may ensue due to compromised cardiac output.
+[2] Fetal and perinatal factors, including the specific physiology of PS that leads to decreased oxygen
+and nutrient delivery to the brain, can critically impact neurodevelopment, warranting early and targeted
+interventions.[7]
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Pulmonary stenosis Theory
+Classification
+Clinical classifications
+Anatomic location of obstruction:
+1. Valvular
+2. Subvalvular (intracavitary/infundibular)
+3. Supravalvular
+4. Peripheral (branch).
+Etiology
+1. Congenital
+2. Acquired.
+Case history
+Case history #1
+A full-term 3.3 kg newborn girl is found to have a systolic ejection murmur shortly after birth. She is
+clinically asymptomatic and fully saturated while breathing room air. She has no dysmorphic features.
+Case history #2
+A 7-year-old boy with a normal karyotype and dysmorphic features such as webbing of neck, short
+stature, and pectus carinatum is incidentally found to have a prominent main pulmonary artery and
+cardiomegaly on chest x-ray for respiratory complaints.
+Other presentations
+Pulmonary stenosis (PS) may also present as critical PS in neonates. Critical PS is associated with
+severe right ventricular outflow obstruction and right-to-left shunting of blood at the atrial level, resulting
+in cyanosis. The systolic murmur may be variable, is usually prominent, but may be surprisingly soft if the
+cardiac output is limited and there is limited blood flow across the stenotic valve. PS may also rarely be
+associated with other systemic diseases including intracardiac tumors, neurofibromatosis, and extrinsic
+compression lesions (neoplasms).
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Pulmonary stenosis Diagnosis
+DIAGNOSIS
+Approach
+Although patients are often asymptomatic, a clinical diagnosis can be made via the classical auscultatory
+findings and confirmed with echocardiography. It is common for patients to survive into adulthood even if
+valvuloplasty is not performed. However, with age the valve may undergo fibrous thickening and, rarely,
+calcification, which progressively reduces valve motility, leading to increased outlet obstruction and the
+appearance of symptoms. The risk of progression is highest during infancy.[12]
+History and examination
+Most patients present with mild to moderate disease and are asymptomatic. A history may reveal the
+presence of risk factors including black ancestry, or rare causes such as a family history of Noonan
+syndrome, Noonan syndrome with multiple lentigines (previously known as LEOPARD syndrome), Alagille
+syndrome, Williams syndrome, maternal rubella exposure during first trimester of pregnancy, rheumatic
+fever, endocarditis, or carcinoid syndrome. Severe pulmonary stenosis (PS) presents with exertional
+dyspnea, fatigue, chest pain, or syncope with exertion. Exertional dyspnea and fatigue develop due to
+reduced pulmonary blood flow and right-sided heart failure. Syncope results from reduced pulmonary
+blood flow, which can decrease cardiac output due to limited pulmonary venous return. It occurs in
+patients without a right-to-left shunt, inspiring the phrase "better blue than gray." Infants with severe or
+critical disease may present with failure to thrive.
+Physical examination findings include:
+• Prominence of the jugular venous A wave.
+• Right ventricular (RV) heave noted in the left parasternal and xiphoid region and a systolic thrill
+noted on palpation along the left upper sternal border; both are signs of severe to critical disease.
+• A long and harsh systolic ejection murmur with or without a systolic ejection click, usually at the left
+upper sternal border. Splitting of S2 may also be present. The loudness of murmur is not always
+related to severity, but the length of murmur, the splitting and intensity of S2, and the timing of
+ejection click (the earlier, the more stenotic) are related to severity. In severe and critical PS there
+is usually a long and harsh murmur peaking later in systole. However, in critical PS, the murmur
+may be soft due to poor cardiac output. The presence of a lower left parasternal systolic murmur
+suggests associated tricuspid regurgitation. A decrescendo diastolic murmur suggests pulmonary
+regurgitation.
+• Signs of right-sided heart failure, which may be seen in severe disease and are always seen in
+critical disease. These include jugular venous distention, peripheral edema, ascites, hepatomegaly,
+and dullness to percussion of the chest (due to a pleural effusion).
+• Cyanosis, a feature of critical PS produced by right-to-left shunting through an associated septal
+defect or a patent foramen ovale. It is detected in the lips and fingers.
+Rarely, dysmorphic features may be identified, suggesting the presence of a syndrome associated with
+PS. These include:
+• Noonan syndrome: features include typical facies of down-slanting or wide-set eyes, low-set or
+abnormally shaped ears, and sagging eyelids (ptosis); growth retardation; delayed puberty with
+undescended testicles; pectus excavatum; and a webbed and short-appearing neck. See Noonan
+syndrome .
+• Noonan syndrome with multiple lentigines: features include growth retardation, lentigines, ocular
+hypertelorism, abnormal genitalia (usually cryptorchidism or unilateral testis), and retarded growth.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Pulmonary stenosis Diagnosis
+• Williams syndrome: features include microcephaly (30%); typical facies of short upturned nose,
+flat nasal bridge, long philtrum, flat malar area, wide mouth, full lips, dental malocclusion/widely
+spaced teeth, micrognathia, stellate irides, and periorbital fullness; hypoplastic nails, lax skin; joint
+hyperelasticity, hallux valgus, contractures, kyphoscoliosis, and lordosis.
+• Alagille syndrome: features include growth retardation and typical facies of a broadened forehead,
+pointed chin, and elongated nose with bulbous tip.
+First-line investigations
+A standard 12-lead ECG is routinely performed to identify cardiac anomalies that may be associated with
+congenital heart disease or valve disease.[13] [14] [15] ECG findings are typically normal in patients with
+mild PS. Right axis deviation is commonly seen in moderate to severe PS.[2] Right bundle branch block is
+usually seen; the exception is patients with Noonan syndrome, who have left bundle branch block.
+Chest x-ray is also routinely performed in patients with known or suspected valve disease or congenital
+heart disease.[14] [15] Findings may be normal or show a prominent main pulmonary artery. In severe
+PS, marked cardiomegaly, right atrial and ventricular enlargement, and decreased pulmonary vascularity
+may be seen.
+The investigation of choice is a two-dimensional echocardiogram with Doppler assessment.[13][15] This
+enables visualization of pulmonary valve stenosis, confirming the diagnosis, and classifies the severity
+by measuring the transvalvular gradient. A transthoracic echocardiogram is usually performed first-line; a
+transesophageal echocardiogram may provide complementary information in adult or adolescent patients.
+[13] [15][16]
+The severity of right ventricular outflow tract (RVOT) obstruction is classified as follows:[13]
+• Mild: peak gradient is <36 mmHg and peak velocity is <3 m/s
+• Moderate: peak gradient is 36-64 mmHg and peak velocity is 3-4 m/s
+• Severe: peak gradient is >64 mmHg and peak velocity is >4 m/s; mean gradient is >35 mmHg.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Pulmonary stenosis Diagnosis
+DIAGNOSIS
+Continuous wave doppler demonstrating severe pulmonary stenosis on transthoracic echocardiogram
+Used with permission by National University Heart Centre, Singapore
+Other investigations
+Diagnostic cardiac catheterization may be required in some patients to more precisely confirm the extent,
+severity, and level of RVOT obstruction.[13] [14] [15]
+Critical pulmonary stenosis may occur in neonates if the RVOT obstruction caused by the stenotic valve
+is so severe that it leads to cyanosis. The major source of pulmonary blood flow in severely obstructed
+patients is through the ductus arteriosus. Once the ductus arteriosus begins to close, blood flow will be
+insufficient and the neonate will become hypoxemic.[9]
+If cyanosis is present, additional investigations that are required include pulse oximetry (revealing low
+arterial oxygen saturation), a complete blood count (reveals an elevated hemoglobin and hematocrit if
+there is a right-to-left shunt, reflecting erythrocytosis), and arterial blood gases (which reveal low PaO₂).
+Imaging modalities such as cardiac magnetic resonance imaging or cardiac computed tomography are
+not first-line investigations but can support procedural planning and may be requested by the cardiac
+interventionist and/or surgeon.[13] [15]
+Exercise stress testing may be used to objectively assess symptoms if considering intervention.[13] [14]
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Pulmonary stenosis Diagnosis
+History and exam
+Key diagnostic factors
+pathologic systolic ejection murmur with or without a systolic click
+(common)
+• Usually loudest on auscultation over left upper sternal border.
+• Loudness of murmur is not always related to severity, but length of murmur, splitting and intensity of
+S2, and timing of ejection click (the earlier, the more stenotic) is related to severity of PS.
+• In severe/critical PS there is usually a long and harsh murmur peaking later in systole; however, in
+critical PS, the murmur may be soft due to poor cardiac output.
+•
+Other diagnostic factors
+rheumatic fever (uncommon)
+• Risk very low as pulmonary valve rarely involved.
+dyspnea (uncommon)
+• With/without exertion in severe PS.
+• Develops due to limited pulmonary blood flow and right heart failure.
+fatigue (uncommon)
+• With exertion in severe PS.
+• Develops due to limited pulmonary blood flow and right heart failure.
+chest pain (uncommon)
+• With exertion in severe PS.
+syncope (uncommon)
+• With exertion in severe PS.
+• Results from reduced pulmonary blood flow, which can decrease cardiac output due to limited
+pulmonary venous return.
+• Occurs in patients without a right-to-left shunt (who have inspired the phrase "better blue than gray");
+requires urgent referral for PS treatment.
+dysmorphic features of Noonan syndrome (uncommon)
+• Growth retardation; typical facies: down-slanting or wide-set eyes, low-set or abnormally shaped ears,
+sagging eyelids (ptosis); delayed puberty with undescended testicles; pectus excavatum; webbed and
+short-appearing neck.
+dysmorphic features of Noonan syndrome with multiple lentigines
+(uncommon)
+• Growth retardation; lentigines; ocular hypertelorism; abnormal genitalia (usually cryptorchidism or
+unilateral testis); retarded growth.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Pulmonary stenosis Diagnosis
+DIAGNOSIS
+dysmorphic features of Williams syndrome (uncommon)
+• Microcephaly (30%); typical facies: short upturned nose, flat nasal bridge, long philtrum, flat malar
+area, wide mouth, full lips, dental malocclusion/widely spaced teeth, micrognathia, stellate irides,
+periorbital fullness; hypoplastic nails, lax skin; musculoskeletal: joint hyperelasticity, hallux valgus,
+contractures, kyphoscoliosis, lordosis.
+dysmorphic features of Alagille syndrome (uncommon)
+• Growth retardation; typical facies: broadened forehead, pointed chin, and elongated nose with bulbous
+tip.
+failure to thrive (uncommon)
+• Infants with severe or critical disease may present with failure to thrive.
+cyanosis (uncommon)
+• Detected in lips and fingers.
+• Only present in patients with a right-to-left shunt at the atrial level via an atrial septal defect.
+• Exaggerated by limited blood flow to the pulmonary vascular bed.
+• May occur at any age but is most frequent in newborns with critical or severe PS; not reliable for
+assessment of severity.
+signs of right heart failure (uncommon)
+• Jugular venous distention, peripheral edema, pleural effusion, ascites, and hepatomegaly.
+right ventricular heave (uncommon)
+• Noted in the left parasternal and xiphoid region in severe or critical PS.
+systolic thrill (uncommon)
+• Noted on palpation along the left upper sternal border in severe or critical PS.
+Risk factors
+Strong
+Noonan syndrome
+• Up to 27% have isolated PS, often due to dysplastic pulmonary valve.[1]
+Noonan syndrome with multiple lentigines
+• Frequent finding but usually mild and asymptomatic.
+Alagille syndrome
+• About 85% have peripheral PS.
+Williams syndrome
+• About 50% have significant cardiac lesion, including severe PS, supravalvar aortic stenosis, or mitral
+valve regurgitation.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Pulmonary stenosis Diagnosis
+congenital rubella syndrome
+• Occasional finding; other cardiac defects include septal defects and patent ductus arteriosus.
+Weak
+black ethnicity
+• Increased rate of peripheral PS (5.35 versus 2.45 per 10,000 live births) and a statistical trend
+toward a higher incidence of valvar PS (4.48 versus 3.46 per 10,000 live births) compared with white
+people.[10]
+carcinoid syndrome
+• About 50% of patients with carcinoid syndrome have some cardiac involvement of the right-sided
+valves; half of these have some degree of PS.[11]
+infectious endocarditis
+• PS is an occasional finding.
+myocardial tumors
+• PS is an occasional finding.
+external compression
+• PS is an occasional finding if there is compression from an external lesion such as a neoplasm.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Pulmonary stenosis Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+ECG
+• A standard 12-lead ECG is routinely performed to identify cardiac
+anomalies that may be associated with congenital heart disease or
+valve disease.[13] [14] [15]
+mild PS: typically
+normal or mild right axis
+deviation; moderate
+PS: right axis deviation
+(abnormal for age) and
+RV conduction delay
+(abnormal for age); severe/
+critical PS: extreme right
+axis deviation, R wave
+large for age, right atrial
+enlargement with tall and
+peaked P wave in lead II
+and in precordial leads V1
+to V3
+chest x-ray
+• Routinely performed in patients with known or suspected valve
+disease.[14] [15]
+usually normal; may
+show prominent main
+pulmonary artery
+shadow; marked
+cardiomegaly, right
+atrial and ventricular
+enlargement, and
+decreased pulmonary
+vascularity may be seen in
+severe disease
+echocardiography with Doppler assessment
+• Two-dimensional echocardiography with Doppler interrogation is the
+investigation of choice.[13] [15]
+• It confirms diagnosis by visualizing pulmonary valve and stenosis and
+classifies severity by measuring transvalvular gradient.
+• A transthoracic echocardiogram is usually performed first-line; a
+transesophageal echocardiogram may provide complementary
+information in adult or adolescent patients.[13][15][16]
+abnormal morphology
+of valve; increased
+transvalvular gradient
+across pulmonary valve
+during systole (>10 mmHg)
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Pulmonary stenosis Diagnosis
+Other tests to consider
+Test Result
+diagnostic cardiac catheterization
+• May be required in some patients to more precisely confirm
+the extent, severity, and level of right ventricular outflow tract
+obstruction.[13] [14] [15]
+• Required to differentiate critical pulmonary stenosis from pulmonary
+atresia with intact ventricular septum.[9]
+thickened and doming of
+valve in fluoroscopy and
+contrast angiography;
+increased transvalvular
+gradient (10 mmHg)
+measured by direct
+pullback or simultaneous
+measurement with double
+lumen catheters
+Hb and Hct
+• Required if cyanosis is present.
+increased in cyanosis
+caused by right-to-
+left shunt, leading to
+erythrocytosis
+pulse oximetry
+• Required if cyanosis is present.
+low arterial oxygen
+saturation (SaO₂) in
+central cyanosis
+arterial blood gas
+• Required if cyanosis is present.
+low PaO₂ in central
+cyanosis
+cardiac MRI
+• Not a first-line investigation but can support procedural planning and
+may be requested by the cardiac interventionist and/or surgeon.[13]
+[15]
+additional information
+relating to the level of
+right ventricular outflow
+tract obstruction, right
+ventricular volumes,
+pulmonary annulus,
+outflow tract and
+artery dimensions, and
+differential pulmonary
+blood flow
+cardiac CT
+• Not a first-line investigation but can support procedural planning and
+may be requested by the cardiac interventionist and/or surgeon.[13]
+[15]
+may show reduced
+functional capacity
+exercise stress testing
+• May be used to objectively assess symptoms if considering
+intervention.[13] [14]
+may show reduced
+functional capacity
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Pulmonary stenosis Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Innocent murmur • Asymptomatic.
+• On auscultation, systolic
+murmur, usually softer and
+shorter compared with PS,
+no ejection click.
+• Echocardiography with color
+Doppler: normal cardiac
+anatomy and physiology.
+Straight back syndrome • On auscultation, no ejection
+click but systolic right
+ventricular (RV) outflow track
+murmur along left upper
+sternal border.
+• Echocardiography with color
+Doppler: normal cardiac
+anatomy and physiology.
+• Lateral chest x-ray:
+abnormally straight spinal
+curve.
+Idiopathic dilation of
+pulmonary artery
+• On auscultation, softer
+systolic murmur.
+• Echocardiography with color
+Doppler: morphologically
+normal pulmonary valve,
+dilated pulmonary artery.
+Pulmonary artery stenosis • On auscultation, mid-to-late
+systolic murmur, radiating
+to the back and lateral lung
+fields, no ejection click.
+• Echocardiography: stenotic
+pulmonary artery.
+Aortic valve stenosis • On auscultation, systolic
+ejection murmur in upper
+right sternal border, radiating
+into carotids and left
+ventricular apex.
+• Echocardiography with color
+Doppler: stenotic aortic
+valve.
+Atrial septal defect (ASD) • On auscultation, systolic
+RV outflow track murmur of
+functional PS, wide and fixed
+splitting of S2, no ejection
+click.
+• Echocardiography:
+morphologically normal
+pulmonary valve but
+abnormal findings of atrial
+septum; color Doppler: left-
+to-right shunting.
+Ventricular septal defect • On auscultation, pansystolic
+regurgitant murmur typically
+at lower sternal border; can
+be difficult to distinguish from
+PS murmur.
+• Echocardiography with
+color Doppler: left-to-right
+interventricular septal blood
+flow.
+Ebstein anomaly • Active precordium; on
+auscultation, softer systolic
+murmur at lower left
+sternal border, sometimes
+"quadruple" rhythm.
+• Chest x-ray: cardiomegaly,
+decreased pulmonary
+vascular markings.
+• ECG: reduced voltage, right
+bundle branch block, right
+atrial enlargement; echo:
+apically displaced septal
+leaflet, redundant anterior
+leaflet of tricuspid valve.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Pulmonary stenosis Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Tetralogy of Fallot • Cyanosis more pronounced
+than in PS; usually no
+ejection click as stenosis lies
+below level of valve or is due
+to small pulmonary annulus.
+• Chest x-ray: decreased
+pulmonary vascular
+markings, uptilted right
+ventricular apex.
+• Echocardiography with color
+Doppler: aortic override,
+ventricular septum defect.
+Pulmonary valve atresia
+with intact ventricular
+septum
+• Progressive cyanosis; on
+auscultation, no PS murmur
+as all the pulmonary blood
+flow is via ductus arteriosus.
+• Echocardiography with
+color Doppler: atresia of
+pulmonary valve, blood flow
+via ductus arteriosus.
+Criteria
+Two-dimensional echocardiography with Doppler assessment
+Severity of right ventricular outflow tract (RVOT) obstruction is defined as follows:[15]
+• Mild: peak gradient is <36 mmHg and peak velocity is <3 m/s
+• Moderate: peak gradient is 36-64 mmHg and peak velocity is 3-4 m/s
+• Severe: peak gradient is >64 mmHg and peak velocity is >4 m/s; mean gradient is >35 mmHg.
+Critical pulmonary stenosis may occur in neonates if the RVOT obstruction caused by the stenotic valve is so
+severe that it leads to cyanosis. The major source of pulmonary blood flow in severely obstructed patients is
+through the ductus arteriosus. Once the ductus arteriosus begins to close, blood flow will be insufficient and
+the neonate will become hypoxemic.[9]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Pulmonary stenosis Management
+MANAGEMENT
+Approach
+Treatment is guided by the disease severity determined by echocardiogram. See Diagnostic criteria .
+Mild disease typically requires no intervention, whereas percutaneous balloon pulmonary valvuloplasty or
+surgical valvuloplasty may be warranted in moderate or severe/critical disease.[13] [17] [18]
+In individuals with pulmonary stenosis (PS), those undergoing cardiac surgery with cardiopulmonary
+bypass during infancy are at a heightened risk of developing development delays or disorders, necessitating
+vigilant follow-up. Patients presenting with chronic cyanosis without cardiopulmonary bypass in infancy
+also warrant close monitoring because they have an increased risk of neurodevelopment challenges.
+Additionally, a subset of patients may not display conventional risk factors but still possess an elevated risk
+of neurodevelopment issues due to interventions or hospitalizations related to their condition from infancy
+through to adolescence.[7]
+Mild disease
+This form of PS rarely progresses, and although requiring sequential cardiology follow-up into adulthood,
+requires no medical or surgical therapy.[13] [18] [19] Patients are asymptomatic and symptoms, if they
+appear, should not be attributed to PS but should be investigated further to elucidate the cause.
+Moderate disease
+In patients with moderate disease, intervention with percutaneous balloon pulmonary valvuloplasty
+(PBPV) is generally recommended.[13] [15][18] Although the Second Natural History Study, which
+followed patients with moderate PS over 20 years, reported excellent outcomes with and without invasive
+treatment, most experts agree that moderate gradients will eventually progress to severe obstruction and
+right heart failure and warrant invasive treatment independently of symptom status.[19] Nevertheless, the
+utility of invasive treatment in asymptomatic patients with moderate PS remains under debate, and its use
+varies by institution.
+US guidelines recommend PBPV as the first-line therapy for moderate or severe PS and otherwise
+unexplained symptoms of heart failure, cyanosis from interatrial right-to-left communication, and/or
+exercise intolerance.[13] European guidelines recommend intervention in the presence of one or more of
+the following: symptoms related to PS; decreasing right ventricular function and/or progressive tricuspid
+regurgitation to at least moderate; and/or right-to-left shunting via an atrial septal defect or ventricular
+septal defect.[15]
+PBPV is determined by invasive cardiac catheterization. It relieves right ventricular outflow tract
+obstruction by dilating the valve.[20] The benefits of this procedure are that it is less invasive compared
+with surgical valvuloplasty, does not require cardiopulmonary bypass, and significantly decreases
+neonatal mortality.
+Surgical valvuloplasty (cutting of a constricted cardiac valve to relieve obstruction) is indicated if patients
+are ineligible for PBPV, for example if they have a dysplastic pulmonary valve not amenable to balloon
+dilation (e.g., in Noonan syndrome) or if they have multiple levels of fixed obstruction (i.e., sub- and/or
+supravalvar), or if PBPV has previously failed.[13]
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Pulmonary stenosis Management
+Severe or critical disease
+Prior to echocardiographic assessment, oxygen may be started in patients with cyanosis or respiratory
+distress. The flow should be set to a fraction of inspired oxygen (FiO₂) of 1 with a flow rate of 8 to 10
+L/minute in infants. A maximum of 15 L/minute can be given in adults. Cyanotic neonates who are
+unresponsive to oxygen can be treated with alprostadil (prostaglandin E1). This dilates arterioles and
+maintains the patency of the ductus arteriosus, increasing blood flow to the lungs.[9]
+Most experts agree that severe gradients will eventually progress to severe obstruction and right heart
+failure and warrant invasive treatment independently of symptom status.[19] All patients therefore require
+urgent PBPV or surgical valvuloplasty; the indications and approach are the same as for moderate
+disease.[9] [13] [15][18]
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+mild disease
+1st observation
+moderate disease
+1st percutaneous balloon pulmonary
+valvuloplasty
+2nd surgical valvuloplasty
+severe to critical disease
+without respiratory
+distress or cyanosis
+1st percutaneous balloon pulmonary
+valvuloplasty
+2nd surgical valvuloplasty
+with respiratory distress
+or cyanosis
+1st supplemental oxygen ± alprostadil
+plus percutaneous balloon pulmonary
+valvuloplasty
+2nd surgical valvuloplasty
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Pulmonary stenosis Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+mild disease
+1st observation
+» This form is asymptomatic and rarely
+progresses. It requires only sequential
+cardiology follow-up into adulthood.[13] [17] [18]
+moderate disease
+1st percutaneous balloon pulmonary
+valvuloplasty
+» In patients with moderate disease,
+intervention with percutaneous balloon
+pulmonary valvuloplasty (PBPV) is generally
+recommended.[13] [15][18] Most experts agree
+that moderate gradients will eventually progress
+to severe obstruction and right heart failure and
+warrant invasive treatment independently of
+symptom status.[19] Nevertheless, the utility of
+invasive treatment in asymptomatic patients with
+moderate PS remains under debate, and its use
+varies by institution.
+» US guidelines recommend PBPV as the
+first-line therapy for moderate or severe PS
+and otherwise unexplained symptoms of heart
+failure, cyanosis from interatrial right-to-left
+communication, and/or exercise intolerance.[13]
+European guidelines recommend intervention
+in the presence of one or more of the following:
+symptoms related to PS; decreasing right
+ventricular function and/or progressive tricuspid
+regurgitation to at least moderate; and/or right-
+to-left shunting via an atrial septal defect or
+ventricular septal defect.[15]
+» The benefits of PBPV are that it is less
+invasive compared with surgical valvuloplasty,
+does not require cardiopulmonary bypass, and
+significantly decreases neonatal mortality.
+2nd surgical valvuloplasty
+» Surgical valvuloplasty (cutting of a constricted
+cardiac valve to relieve obstruction) is indicated
+if patients are ineligible for percutaneous balloon
+pulmonary valvuloplasty (PBPV), for example
+if they have a dysplastic pulmonary valve not
+amenable to balloon dilation (e.g., in Noonan
+syndrome) or if they have multiple levels of fixed
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Pulmonary stenosis Management
+Acute
+obstruction (i.e., sub- and/or supravalvar), or if
+PBPV has previously failed.[13]
+severe to critical disease
+without respiratory
+distress or cyanosis
+1st percutaneous balloon pulmonary
+valvuloplasty
+» Most experts agree that severe gradients will
+eventually progress to severe obstruction and
+right heart failure and warrant invasive treatment
+independently of symptom status.[19] Critical
+disease requires urgent treatment.
+» US guidelines recommend PBPV as the
+first-line therapy for moderate or severe PS
+and otherwise unexplained symptoms of heart
+failure, cyanosis from interatrial right-to-left
+communication, and/or exercise intolerance.[13]
+European guidelines recommend intervention
+in the presence of one or more of the following:
+symptoms related to PS; decreasing right
+ventricular function and/or progressive tricuspid
+regurgitation to at least moderate; and/or right-
+to-left shunting via an atrial septal defect or
+ventricular septal defect.[15]
+» The benefits of PBPV are that it is less
+invasive compared with surgical valvuloplasty,
+does not require cardiopulmonary bypass, and
+significantly decreases neonatal mortality.
+2nd surgical valvuloplasty
+» Surgical valvuloplasty (cutting of a constricted
+cardiac valve to relieve obstruction) is indicated
+if patients are ineligible for percutaneous balloon
+pulmonary valvuloplasty (PBPV), for example
+if they have a dysplastic pulmonary valve not
+amenable to balloon dilation (e.g., in Noonan
+syndrome) or if they have multiple levels of fixed
+obstruction (i.e., sub- and/or supravalvar), or if
+PBPV has previously failed.[13]
+with respiratory distress
+or cyanosis
+1st supplemental oxygen ± alprostadil
+Primary options
+» alprostadil: 0.05 to 0.1 micrograms/kg/
+minute intravenous infusion, maximum 0.4
+micrograms/kg/minute
+» Fraction of inspired oxygen (FiO₂) of 1 at a
+flow rate of 8 to 10 L/minute in infants, up to 15
+L/minute in adults. Adjusted as necessary for
+pulse oximetry saturations of 92% to 96% in
+term infants/adults and 88% to 92% in preterm
+infants.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Pulmonary stenosis Management
+MANAGEMENT
+Acute
+» Cyanotic neonates who are unresponsive
+to oxygen can be treated with alprostadil
+(prostaglandin E1). This dilates arterioles and
+maintains the patency of the ductus arteriosus,
+increasing blood flow to the lungs.[9] Maximal
+effect seen in 30 minutes. Doses above 0.03
+micrograms/kg/min do not offer any clinical
+advantage once patency of the ductus arteriosus
+has been established. Alprostadil is usually
+continued until 24 hour post-balloon or surgical
+valvuloplasty.
+plus percutaneous balloon pulmonary
+valvuloplasty
+Treatment recommended for ALL patients in
+selected patient group
+» Most experts agree that severe gradients will
+eventually progress to severe obstruction and
+right heart failure and warrant invasive treatment
+independently of symptom status.[13] Critical
+disease requires urgent treatment.
+» US guidelines recommend PBPV as the
+first-line therapy for moderate or severe PS
+and otherwise unexplained symptoms of heart
+failure, cyanosis from interatrial right-to-left
+communication, and/or exercise intolerance.[13]
+European guidelines recommend intervention
+in the presence of one or more of the following:
+symptoms related to PS; decreasing right
+ventricular function and/or progressive tricuspid
+regurgitation to at least moderate; and/or right-
+to-left shunting via an atrial septal defect or
+ventricular septal defect.[15]
+» The benefits of PBPV are that it is less
+invasive compared with surgical valvuloplasty,
+does not require cardiopulmonary bypass, and
+significantly decreases neonatal mortality.
+2nd surgical valvuloplasty
+» Surgical valvuloplasty (cutting of a constricted
+cardiac valve to relieve obstruction) is indicated
+if patients are ineligible for percutaneous balloon
+pulmonary valvuloplasty (PBPV), for example
+if they have a dysplastic pulmonary valve not
+amenable to balloon dilation (e.g., in Noonan
+syndrome) or if they have multiple levels of fixed
+obstruction (i.e., sub- and/or supravalvar), or if
+PBPV has previously failed.[13]
+Patient discussions
+In general, patients with mild or residual pulmonary stenosis (PS) following intervention do not need
+to restrict physical activities. Patients with moderate PS should avoid high-intensity exercise and static
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Pulmonary stenosis Management
+sports such as climbing or gymnastics. Patients with severe PS should participate in low-intensity
+exercise only.[15]
+Transition from pediatric to adult care warrants development of a healthcare transition program. This
+should emphasize the importance of patient self-management, support patients in improving their medical
+knowledge, and be sensitive to the presence of intellectual disability, mental health conditions, or other
+comorbidities.[26]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Pulmonary stenosis Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+Patients with mild PS do not require therapy but need to be monitored in an outpatient setting
+for progression of disease. While mild PS is thought of as a static lesion, studies using color
+echocardiography suggest that infancy is the highest risk period for progression.[12] Therefore, patients
+need to be monitored annually until 4 years of age, after which clinical visits can range from every 3 to 5
+years into adulthood. Less frequent follow-up may be appropriate for adult patients.[14]
+Given the potential neurodevelopment impacts associated with PS, incorporating comprehensive genetic
+evaluation and neurodevelopment surveillance into the routine monitoring protocol is crucial, especially
+for patients who have undergone cardiac surgery or present with risk factors for development delays. This
+ensures a comprehensive approach to care that addresses all aspects of the patient's well-being.[7]
+Clinical visits should consist of history, physical examination, ECG, echocardiography, and an exercise
+test when indicated.[13]
+For those who have undergone an interventional procedure, follow-up will depend on the severity of
+stenosis after dilation. In general, there will be visits at 6 to 12 months, 5 years, and then every 10 years
+postintervention.
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Pulmonary stenosis Follow up
+Complications
+Complications Timeframe Likelihood
+vascular lacerations due to valvuloplasty short term low
+Early complication of valvuloplasty; may require surgical intervention.
+tearing of pulmonary valve annulus due to
+valvuloplasty
+short term low
+Early complication of valvuloplasty; may require surgical intervention.
+arrhythmias due to valvuloplasty short term low
+Early complication of valvuloplasty; management will depend on type and severity.
+"suicide" RV (dynamic infundibular stenosis post-
+balloon or surgical valvuloplasty)
+short term low
+Dynamic stenosis due to continued vigorous contraction of the RV previously needed to overcome the PS.
+Recognized immediately post-procedure due to persistent obstruction to pulmonary outflow.
+May require medical therapy with a beta-blocker or continuation of alprostadil for a short period of time
+post-intervention, usually less than 2 weeks.
+pulmonary valve insufficiency post-valvuloplasty variable high
+Invariably, relief of the valvular stenosis results in incompetency of the pulmonary valve. This is due
+to stretching of the annulus and failure of the leaflets to coapt. The resulting regurgitation can be mild,
+moderate, or severe and requires ongoing evaluation by a cardiologist, with the frequency of evaluation
+dependent on the severity of the regurgitation.
+In general, pulmonary insufficiency is well tolerated over a long time period.
+right heart failure variable medium
+In severe PS, the right ventricle (RV) will eventually fail as the myocardium becomes unable to support the
+enhanced work load imposed by the PS.
+Patients present with symptoms of exercise intolerance, increasing dyspnea, jugular venous distention,
+peripheral edema, pleural effusion, ascites, and hepatomegaly. These signs and symptoms indicate that
+the condition has progressed to critical PS and warrant immediate referral to a (pediatric) cardiologist.
+Although initial management with digoxin and loop diuretics will be directed at the heart failure, urgent PS
+treatment (percutanous balloon valvuloplasty or surgery) is required for definitive therapy and to prevent
+permanent damage to the RV.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Pulmonary stenosis Follow up
+FOLLOW UP
+Complications Timeframe Likelihood
+sudden death variable low
+Occurs due to limited pulmonary blood flow with either profound cyanosis or low cardiac output and right
+heart failure.
+cardiac perforation due to valvuloplasty variable low
+Major complication requiring surgical intervention, occurring in around 0.1%.[23]
+tricuspid insufficiency post-valvuloplasty variable low
+Major complication requiring surgical intervention, occurring in around 0.2%.[23]
+death post-valvuloplasty variable low
+Major complication, occurring in around 0.2%.[23]
+Prognosis
+Mild pulmonary stenosis (PS)
+Survival in untreated patients is equivalent to that of the general population.[22]
+While mild PS is thought of as a static lesion, modern studies using color echocardiography suggest that
+infancy is the highest-risk period for progression.[12]
+Moderate/severe/critical PS
+Critical PS is fatal in the neonate without intervention.[9]
+Percutaneous valvuloplasty produces excellent short- and long-term results in reducing the pulmonary valve
+obstruction.[23] Data from more than 26 institutions within the Valvuloplasty and Angioplasty of Congenital
+Anomalies (VACA) Registry resulted in an overall acute decrease in peak systolic gradients from 71 to 28
+mmHg.[24]
+Long-term results of 860 patients followed up for 14 years after balloon valvuloplasty showed that 4 out of
+5 were free from clinically significant PS.[23] For neonates with critical PS, the rate of technical success for
+this procedure is about 90%, with a 5% complication rate. The freedom from reintervention rate (surgical or
+catheterization) has been estimated to be 79%. The study identified the following independent risk factors for
+suboptimal outcome: higher initial pulmonary valvular gradient, high early residual gradient, dysplastic valve,
+and younger age at intervention.
+In a study on patients with nondysplastic valves, surgical valvuloplasty decreased the mean pressure
+gradient significantly more compared with balloon valvuloplasty.[25] In addition, surgical valvuloplasty
+was associated with fewer reinterventions but a longer hospital stay and led more frequently to moderate
+pulmonary valve insufficiency following the intervention.
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Pulmonary stenosis Guidelines
+Diagnostic guidelines
+International
+ACR appropriateness criteria: congenital or acquired heart disease
+(https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [16]
+Published by: American College of Radiology Last published: 2023
+AHA/ACC guideline for the management of patients with valvular heart
+disease (https://professional.heart.org/en/guidelines-and-statements)   [14]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2020
+AHA/ACC 2018 guidelines for the management of adults with congenital heart
+disease (https://professional.heart.org/en/guidelines-and-statements)   [13]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2018
+Guidelines for the management of adult congenital heart disease (previously
+grown-up congenital heart disease) (http://www.escardio.org/Guidelines/
+Clinical-Practice-Guidelines)   [15]
+Published by: European Society of Cardiology Last published: 2020
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Pulmonary stenosis Guidelines
+GUIDELINES
+Treatment guidelines
+International
+Guidelines for cardiovascular intervention in adults with congenital heart
+disease (https://ccs.ca/guidelines-and-position-statement-library)   [18]
+Published by: Canadian Cardiovascular Society Last published: 2022
+AHA/ACC guideline for the management of patients with valvular heart
+disease (https://professional.heart.org/en/guidelines-and-statements)   [14]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2020
+AHA/ACC 2018 guidelines for the management of adults with congenital heart
+disease (https://professional.heart.org/en/guidelines-and-statements)   [13]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2018
+Management of pregnancy in patients with complex congenital heart disease
+(https://professional.heart.org/en/guidelines-and-statements)   [21]
+Published by: American Heart Association Last published: 2017
+Guidelines for the management of adult congenital heart disease (previously
+grown-up congenital heart disease) (http://www.escardio.org/Guidelines/
+Clinical-Practice-Guidelines)   [15]
+Published by: European Society of Cardiology Last published: 2020
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Pulmonary stenosis References
+Key articles
+• Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2018 Aug 10 [Epub ahead
+of print].  Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000603)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30121239?tool=bestpractice.bmj.com)
+• Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA Guideline for the management of patients
+with valvular heart disease: executive summary: a report of the American College of Cardiology/
+American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021 Feb
+2;143(5):e35-71.  Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000923)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33332149?tool=bestpractice.bmj.com)
+• European Society of Cardiology. 2020 ESC guidelines for the management of adult congenital heart
+disease (previously grown-up congenital heart disease). Aug 2020 [internet publication].  Full text
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Grown-Up-Congenital-Heart-
+Disease-Management-of)
+References
+1. Burch M, Sharland M, Shinebourne E, et al. Cardiologic abnormalities in Noonan syndrome:
+phenotypic diagnosis and echocardiographic assessment of 118 patients. J Am Coll Cardiol. 1993
+Oct;22(4):1189-92.  Full text (http://www.sciencedirect.com/science/article/pii/0735109793904365?via
+%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8409059?tool=bestpractice.bmj.com)
+2. Ruckdeschel E, Kim YY. Pulmonary valve stenosis in the adult patient: pathophysiology, diagnosis
+and management. Heart. 2019 Mar;105(5):414-22.  Full text (https://www.doi.org/10.1136/
+heartjnl-2017-312743)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30337335?
+tool=bestpractice.bmj.com)
+3. Marchini F, Meossi S, Passarini G, et al. Pulmonary valve stenosis: from diagnosis to current
+management techniques and future prospects. Vasc Health Risk Manag. 2023;19:379-90.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10320808)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/37416511?tool=bestpractice.bmj.com)
+4. Keith A. The Hunterian lectures on malformations of the heart. Lancet. 1909;2:359.
+5. Oka M, Angrist GM. Mechanism of cardiac valvular fusion and stenosis. Am Heart J. 1967;74:37-47.
+6. Pierpont ME, Basson CT, Benson DW Jr, et al. Genetic basis for congenital heart defects: current
+knowledge. A scientific statement from the American Heart Association Congenital Cardiac
+Defects Committee, Council on Cardiovascular Disease in the Young: endorsed by the American
+Academy of Pediatrics. Circulation. 2007;115:3015-3038.  Full text (http://circ.ahajournals.org/
+content/115/23/3015.full)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Pulmonary stenosis References
+REFERENCES
+7. Sood E, Newburger JW, Anixt JS, et al. Neurodevelopmental outcomes for individuals with congenital
+heart disease: updates in neuroprotection, risk-stratification, evaluation, and management: a scientific
+statement from the American Heart Association. Circulation. 2024 Mar 26;149(13):e997-1022. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001211)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38385268?tool=bestpractice.bmj.com)
+8. Garson A, Bricker JT, Fisher DJ, eds. The science and practice of pediatric cardiology. 2nd ed.
+Baltimore, MD: Lippincott, Williams & Wilkins; 1998 (Vol 1):1207-56.
+9. Latson LA. Critical pulmonary stenosis. J Interv Cardiol. 2001 Jun;14(3):345-50.  Full text (https://
+onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-8183.2001.tb00343.x?sid=nlm%3Apubmed)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/12053395?tool=bestpractice.bmj.com)
+10. Botto LD, Correa A, Erickson JD. Racial and temporal variations in the prevalence of heart defects.
+Pediatrics. 2001 Mar;107(3):E32. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11230613?
+tool=bestpractice.bmj.com)
+11. Moyssakis IE, Rallidis LS, Guida GF, et al. Incidence and evolution of carcinoid syndrome in the
+heart. J Heart Valve Dis. 1997;6:625-630. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9427132?
+tool=bestpractice.bmj.com)
+12. Rowland DG, Hammill WW, Allen HD, et al. Natural course of isolated pulmonary valve stenosis
+in infants and children utilizing Doppler echocardiography. Am J Cardiol. 1997 Feb 1;79(3):344-9.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9036756?tool=bestpractice.bmj.com)
+13. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2018 Aug 10 [Epub ahead
+of print].  Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000603)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30121239?tool=bestpractice.bmj.com)
+14. Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA Guideline for the management of patients
+with valvular heart disease: executive summary: a report of the American College of Cardiology/
+American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021 Feb
+2;143(5):e35-71.  Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000923)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33332149?tool=bestpractice.bmj.com)
+15. European Society of Cardiology. 2020 ESC guidelines for the management of adult congenital heart
+disease (previously grown-up congenital heart disease). Aug 2020 [internet publication].  Full text
+(https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Grown-Up-Congenital-Heart-
+Disease-Management-of)
+16. American College of Radiology. ACR appropriateness criteria®: congenital or acquired heart disease.
+2023 [internet publication].  Full text (https://acsearch.acr.org/docs/3102389/Narrative)
+17. Drossner DM, Mahle WT. A management strategy for mild valvar pulmonary stenosis. Pediatr
+Cardiol. 2008 May;29(3):649-52. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18193316?
+tool=bestpractice.bmj.com)
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Pulmonary stenosis References
+18. Marelli A, Beauchesne L, Colman J, et al. Canadian Cardiovascular Society 2022 guidelines
+for cardiovascular interventions in adults with congenital heart disease. Can J Cardiol. 2022
+Jul;38(7):862-96.  Full text (https://www.onlinecjc.ca/article/S0828-282X(22)00260-4/fulltext)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/35460862?tool=bestpractice.bmj.com)
+19. Hayes CJ, Gersony WM, Driscoll DJ, et al. Second natural history study of congenital heart defects:
+results of treatment of patients with pulmonary valvar stenosis. Circulation. 1993 Feb;87(suppl
+2):I28-37. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8425320?tool=bestpractice.bmj.com)
+20. Wash KP. Interventional paediatric cardiology. BMJ. 2003 Aug 16;327(7411):385-8.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1126797)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12919997?tool=bestpractice.bmj.com)
+21. Canobbio MM, Warnes CA, Aboulhosn J, et al. Management of pregnancy in patients with complex
+congenital heart disease: a scientific statement for healthcare professionals from the American Heart
+Association. Circulation. 2017 Feb 21;135(8):e50-e87.  Full text (https://www.ahajournals.org/doi/
+abs/10.1161/cir.0000000000000458)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28082385?
+tool=bestpractice.bmj.com)
+22. Tinker J, Howitt G, Markman P, et al. The natural history of isolated pulmonary stenosis. Br Heart
+J. 1965 Mar;27:151-60.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC503295/pdf/
+brheartj00337-0001.pdf)
+23. Gudausky TM, Beekman RH 3rd. Current options, and long-term results for interventional
+treatment of pulmonary valvar stenosis. Cardiol Young. 2006 Oct;16(5):418-27. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16984693?tool=bestpractice.bmj.com)
+24. Stanger P, Cassidy SC, Girod DA, et al. Balloon pulmonary valvuloplasty: results of the Valvuloplasty
+and Angioplasty of Congenital Anomalies registry. Am J Cardiol. 1990 Mar 15;65(11):775-83. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/2316460?tool=bestpractice.bmj.com)
+25. Peterson C, Schilthuis JJ, Dodge-Khatami A, et al. Comparative long-term results of surgery
+versus balloon valvuloplasty for pulmonary valve stenosis in infants and children. Ann Thorac
+Surg. 2003 Oct;76(4):1078-82. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14529989?
+tool=bestpractice.bmj.com)
+26. John AS, Jackson JL, Moons P, et al. Advances in managing transition to adulthood for adolescents
+with congenital heart disease: a practical approach to transition program design: a scientific statement
+from the American Heart Association. J Am Heart Assoc. 2022 Apr 5;11(7):e025278.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9075425)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35297271?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Pulmonary stenosis Images
+IMAGES
+Images
+Figure 1: Continuous wave doppler demonstrating severe pulmonary stenosis on transthoracic
+echocardiogram
+Used with permission by National University Heart Centre, Singapore
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Pulmonary stenosis Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Pulmonary stenosis Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 28, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Contributors:
+// Authors:
+Jeremy Asnes, MD
+Associate Professor of Pediatrics (Cardiology)
+Yale Pediatric Cardiology, Yale New Haven Children's Hospital, New Haven, CT
+DISCLOSURES: JA is a Principal Investigator for the Medtronic Harmony™ Transcatheter Pulmonary Valve
+clinical trial. JA has also been a paid consultant for Medtronic, the manufacturer of the Melody and Harmony
+transcatheter pulmonary valves.
+Britton Keeshan, MD, MPH
+Assistant Professor of Clinical Pediatrics
+Yale Pediatric Cardiology, Yale New Haven Children's Hospital, New Haven, CT
+DISCLOSURES: BK declares that he has no competing interests.
+// Acknowledgements:
+Dr Asnes and Dr Keeshan would like to gratefully acknowledge Dr Ivandito Kuntjoro, Dr Edgar Tay, Dr
+James Yip, Dr Kian Keong Pho, Dr Low Ting Ting, Dr Peter S. Fischbach, Dr Cyrus Samai, and Dr David M.
+Drossner, the previous authors of this topic.
+DISCLOSURES: ET, IK, JY, KKP, LTT, PSF, CS and DD declared that they had no competing interests.
+// Peer Reviewers:
+John Charpie, MD, PhD
+Associate Professor of Pediatrics
+Medical Director, Pediatric Cardiothoracic Intensive Care Unit, University of Michigan Congenital Heart
+Center, Ann Arbor, MI
+DISCLOSURES: JC declares that he has no competing interests.
+James Gnanapragasam, MBBS, MSc, FRCP, FRCPCH
+Consultant in Paediatric Cardiology
+Southampton University Hospitals NHS Trust, Southampton, UK
+DISCLOSURES: JG declares that he has no competing interests.

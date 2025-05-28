@@ -1,0 +1,2233 @@
+# Evaluation of shock
+
+=== Page 1 ===
+Evaluation of shock
+Straight to the point of care
+Last updated: Feb 13, 2025
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Theory  4
+Etiology  4
+Emergencies  6
+Urgent considerations  6
+Diagnosis  11
+Approach  11
+Differentials overview  16
+Differentials  18
+Evidence tables  31
+References  35
+Images  44
+Disclaimer  46
+=== Page 3 ===
+Evaluation of shock Overview
+Summary
+Shock is best defined as a state of reduced end-organ oxygenation caused by an imbalance between tissue
+oxygen delivery and demand resulting in an oxygen debt.
+Oxygen delivery is determined by cardiac output, vascular integrity, and oxygen content of the blood. Oxygen
+content is a composite of hemoglobin and arterial oxygen saturation, and the cardiac output is a product of
+stroke volume and heart rate. Stroke volume is affected by preload (filling), left ventricular contractility (pump
+function), and afterload as measured by the systemic vascular resistance.
+Differences in the preload, afterload, and contractility generally differentiate the etiologies of shock. These
+are broadly classified into hypovolemic, cardiogenic, obstructive, and distributive types.[1]
+Basic pathophysiology
+Shock is characterized by release of cytokines and other inflammatory mediators that cause a systemic
+inflammatory response syndrome mediated by tissue hypoxia. This causes alterations in flow at the level of
+the microcirculation that can usually be reversed by intravascular volume resuscitation and, as appropriate,
+vasopressor and inotropic support.[2] [3] [4]
+Outcome
+Shock comprises an early reversible stage of compensated shock where the body's homeostatic
+mechanisms compensate for decreased perfusion by increasing the rate and force of contraction of
+the heart, initially maintaining arterial blood pressure. The circulation is centralized, due to peripheral
+vasoconstriction, so that blood flow to non-vital organs (commonly skin) is reduced. Respiratory rate
+increases to compensate for metabolic acidosis and urine output falls (to conserve fluid volume) as a
+result of release of antidiuretic hormone from the posterior pituitary. These adaptive responses may not be
+apparent to the casual observer. Unrecognized, this evolves to overt shock manifested by decreased blood
+pressure and altered mental status attributable to reduced cerebral blood flow. This usually occurs in the
+setting of an effective loss ≥30% of plasma volume and/or cardiac index of <2.2 L/minute/m². Untreated at
+this stage, it can cause irreversible cell death and organ damage.
+The lack of tissue oxygenation leads to accumulation of products of anaerobic metabolism such as lactate.
+Significant tissue hypoxia leads to a systemic proinflammatory state with excess cytokine release; when
+prolonged (>6 to 12 hours) this causes irreversible cellular damage. This is clinically manifest as multiorgan
+dysfunction/failure with increased mortality.
+Mortality from shock varies between 23% and 70%, depending on the type of shock and the duration of
+tissue hypoperfusion.[5] [6] [7][8] [9]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Evaluation of shock Theory
+THEORY
+Etiology
+Shock can be classified into four major types.
+Hypovolemic
+Associated with decreased cardiac preload (blood return to the right ventricle due to low vascular volume),
+which could be due to:
+Hemorrhage
+• Overt, as in gastrointestinal bleeding or trauma
+• Concealed, such as aortic aneurysm rupture, retroperitoneal bleeding, soft tissue bleeding associated
+with long-bone fractures, or traumatic body cavity bleeds.
+Fluid depletion
+• Gastrointestinal losses, such as diarrhea, vomiting
+• Insensible losses, such as burns
+• Third-space losses, such as major surgery, pancreatitis, intestinal obstruction
+• Excessive heat or exercise exposure without fluid replacement.
+Decreased preload results in decreased cardiac output due to ineffective heart filling. The physiologic
+reaction to this condition is diversion of blood from the splanchnic (peripheral) circulation areas to vital
+organs by increasing systemic vascular resistance (SVR).
+Cardiogenic
+Results from heart pump dysfunction (more commonly left-sided) causing a decrease in cardiac output.
+Compensatory surges in catecholamines lead to increased SVR. However, in some instances (especially
+acute coronary syndrome), decreased SVR may be observed.[10] [11] Early, aggressive management can
+lead to improved outcome.[12] Myocardial infarction, viral and alcoholic cardiomyopathies, congestive heart
+failure, and cardiac valvular lesions are some of the main contributors.
+Patients with a history of hypertension or heart disease who are being treated with a beta-blocker, a calcium-
+channel blocker, or a class 1c antiarrhythmic such as flecainide may be at risk due to pharmacologic
+suppression of cardiac contractility and alteration of electrical depolarization of automatic myocardial
+contraction mechanisms.
+Obstructive
+Secondary to an obstruction to cardiac flow or filling
+• Flow restriction: pulmonary embolism or severe pulmonary hypertension. Usually accompanied by
+decreased oxygenation with very minimal physical signs.
+• Filling restriction: cardiac tamponade or tension pneumothorax. Classically cardiac tamponade
+presents with elevated jugular venous pressure, muffled heart sounds, and low blood pressure. Pulsus
+paradoxus or electrical alternans may also be apparent. Physical findings with tension pneumothorax
+may include decreased unilateral breath sounds, hyper-resonance to percussion on the affected
+side, and tracheal deviation to the opposite side from the pneumothorax. These conditions require
+immediate attention.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Evaluation of shock Theory
+Distributive
+This is associated with significant vasodilation resulting in relative hypovolemia (decreased cardiac preload)
+and decreased SVR. The classic description of distributive shock includes an elevated cardiac output.
+However, in a substantial percentage of septic shock patients with secondary distributive shock, depression
+of cardiac contractility is observed.[13] Causes of distributive shock include sepsis, neurogenic shock,
+adrenal insufficiency, anaphylaxis, thiamine deficiency, and arterial-venous fistula.
+Combination
+While the above classification can guide evaluation, a combination of the above processes can coexist.
+For example, septic shock may include a cardiogenic component (myocardial depression), an obstructive
+component (disseminated intravascular coagulation with systemic microthrombosis), and a hypovolemic
+element (diffuse capillary leak).[11]
+Nevertheless, the goals of resuscitation are the same for any type of shock: restoring oxygen delivery and
+reversing the tissue oxygen debt, thus normalizing mixed venous oxygen levels (SVO₂). Timely resuscitation,
+restoring the circulating volume, and addressing the underlying cause for shock leads to much improved
+outcomes.[12] [14] [15] [16]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Evaluation of shock Emergencies
+EMERGENCIES
+Urgent considerations
+(See  Differentials  for more details)
+Hypovolemic shock
+Loss of body fluid volume due to forms of dehydration such as hyperthermia, burns, excess diuresis,
+prolonged diarrhea, or lack of usual physiologic oral fluid replacement requires fluid replacement either orally
+or intravenously.
+The intravenous use of a balanced crystalloid solution (e.g., lactated Ringer's [also known as Hartmann
+solution]) or normal saline is appropriate for resuscitation in a patient with hypovolemic shock. Compared
+with normal saline, balanced crystalloids were associated with a modestly reduced rate of a composite
+outcome (of death from any cause, new renal replacement therapy, persistent renal dysfunction) in one
+randomized trial of critically ill patients.[17] Colloid solutions are more expensive than crystalloid solutions
+and, for vascular volume replacement, have not shown superiority over crystalloids.[18]
+Bleeding from any cause requires immediate measures to control the source of the bleeding. Volume
+resuscitation in the form of blood and fluid needs to be instituted immediately.[19] Bleeding following major
+trauma requires coagulation support and monitoring, and the appropriate use of local hemostatic measures,
+tourniquets, calcium, desmopressin, and consideration for tranexamic acid.[20] When indicated, appropriate
+and immediate surgical intervention to control hemorrhage is associated with increased survival and less
+disability.[20][21]
+Tranexamic acid has been shown to reduce mortality in trauma patients with hemorrhage when given within
+3 hours of injury.[22] [23] One meta-analysis found that delays in administration of tranexamic acid were
+associated with reduced survival (survival benefit decreasing by about 10% for every 15 minutes of treatment
+delay until 3 hours, after which there was no benefit) in patients with traumatic bleeding or postpartum
+hemorrhage.[24]
+Some patients may require embolization of bleeding vessels by interventional radiology or exploratory
+surgery to accomplish hemostasis. Coagulopathies may result due to high-volume blood transfusion
+(deficient in clotting factors) or consumption of clotting factors due to continued bleeding. This can be
+corrected with fresh frozen plasma and platelets according to local guidelines.
+Cardiogenic shock
+Immediate management of myocardial infarction includes revascularization and anticoagulation, either by
+primary angioplasty or, where these modalities are not available, by thrombolysis and immediate transport to
+a facility with revascularization capability.[25] [26] [27]
+In primary angioplasty, drug-eluting stents reduce target vessel revascularization compared with bare metal
+stents.[28] A subanalysis of the SHOCK trial comparing patients treated with coronary artery bypass grafting
+versus primary angioplasty found no difference in survival or disability outcome.[26]
+Acute heart failure may necessitate respiratory support, such as noninvasive or invasive mechanical
+ventilation, and urgent diuresis or nitrate therapy. Inotropic agents and vasodilator strategies may be
+used in the appropriate setting. Pure inotropes are not mandatory in this case, unless significant cardiac
+hypocontractility is demonstrated or suspected.[29] 
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Evaluation of shock Emergencies
+Mechanical measures such as inserting an intra-aortic balloon pump may also be considered in patients
+who are unstable following myocardial infarction or cardiac surgery. The intra-aortic balloon pump augments
+blood pressure and coronary perfusion by inflating during diastole and deflating during systole.
+Extracorporeal membrane oxygenation (ECMO) may be considered for the management of appropriately
+selected patients with cardiogenic shock.[25] [30]
+Obstructive shock
+Tension pneumothorax is a possible diagnosis in patients with chest trauma, young people with a previous
+history of pneumothorax, or patients who exhibit signs of hypotension and hypoxia with unilaterally
+decreased breath sounds. These findings usually mandate immediate needle thoracostomy drainage
+followed by a formal chest drain.
+Patients with hemodynamic compromise and clinical findings suggestive of pericardial tamponade (Beck
+triad of muffled heart sounds, jugular venous distention, and bradycardia) need urgent evaluation with
+echocardiography and pericardiocentesis.
+Pulmonary embolism is a consideration in patients with recent surgery and immobilization; treatment usually
+includes anticoagulation, thrombolysis (if there are no absolute contraindications), or rarely surgical or
+mechanical clot removal.
+Distributive shock
+Results in inadequate tissue perfusion; comprises anaphylaxis, septic shock, and neurogenic shock.
+Anaphylactic shock
+May present after exposure to new foods, drugs, blood transfusions, rashes, bites, and stings, and is
+often associated with bronchospasm. All potentially offending agents should be stopped. In patients with
+hypotension and signs of anaphylactic shock, intramuscular epinephrine should be given immediately.[31][32]
+[33]
+Septic shock
+Sepsis is a spectrum of disease, where there is a systemic and dysregulated host response to an
+infection.[34] Presentation may range from subtle, nonspecific symptoms (e.g., feeling unwell with a normal
+temperature), to severe symptoms with evidence of multiorgan dysfunction and septic shock. Patients may
+have signs of tachycardia, tachypnea, hypotension, fever or hypothermia, poor capillary refill, mottled or
+ashen skin, cyanosis, newly altered mental state, or reduced urine output.[35] Sepsis and septic shock are
+medical emergencies.
+The Third International Consensus Group (Sepsis-3) defines septic shock as a subset of sepsis in
+which profound circulatory, cellular, and metabolic abnormalities are associated with a greater risk of
+mortality than with sepsis alone. Both of the following criteria should be present (despite adequate volume
+resuscitation):[34]
+• Persistent hypotension requiring vasopressors to maintain mean arterial pressure (MAP) ≥65 mmHg,
+and
+• serum lactate >18 mg/dL (>2 mmol/L).
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Evaluation of shock Emergencies
+EMERGENCIES
+Risk factors for sepsis include: age under 1 year, age over 75 years, frailty, impaired immunity (e.g., due to
+illness or drugs), recent surgery, or other invasive procedures, any breach of skin integrity (e.g., cuts, burns),
+intravenous drug misuse, indwelling lines or catheters, and pregnancy or recent pregnancy.[35]
+Early recognition of sepsis is essential because early treatment improves outcomes.[35] [36][Evidence
+C] [Evidence C] However, detection can be challenging because the clinical presentation of sepsis can
+be subtle and nonspecific. A low threshold for suspecting sepsis is therefore important. The key to early
+recognition is the systematic identification of any patient who has signs or symptoms suggestive of infection
+and who is at risk of deterioration due to organ dysfunction. 
+Several risk stratification approaches have been proposed. All rely on a structured clinical assessment and
+recording of the patient’s vital signs.[35] [37] [38][39] It is important to check local guidance for information on
+which approach your institution recommends. The timeline of ensuing investigations and treatment should be
+guided by this early assessment.[39]
+Sepsis screening tools are designed to promote the early identification of sepsis and consist of manual
+methods or automated use of the electronic health record (EHR). These include the Sequential (or
+Sepsis-related) Organ Failure Assessment (SOFA) score, the quick SOFA (qSOFA) criteria, National
+Early Warning Score (NEWS), and Modified Early Warning Score (MEWS). There is wide variation in the
+diagnostic accuracy of these tools, but they are an important component of identifying sepsis early for timely
+intervention.[36]
+The Third International Consensus Group (Sepsis-3) recommends using the SOFA score (primarily validated
+in patients in intensive care), with a score ≥2 in a patient with a suspected infection being suggestive of
+sepsis.[34]
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Evaluation of shock Emergencies
+Sequential (or Sepsis-related) Organ Failure Assessment (SOFA) criteria
+Created by BMJ, adapted from Vincent JL, Moreno R, Takala J, et al. The SOFA (Sepsis-related Organ
+Failure Assessment) score to describe organ dysfunction/failure. On behalf of the Working Group on Sepsis-
+Related Problems of the European Society of Intensive Care Medicine. Intensive Care Med. 1996;22:707-710.
+SOFA criteria
+Although the presence of a positive qSOFA should alert the clinician to the possibility of sepsis in all resource
+settings, its poor sensitivity has led the Surviving Sepsis Campaign to advise against using the qSOFA,
+compared with NEWS or MEWS, as a single screening tool for sepsis or septic shock.[36]
+The National Institute for Health and Care Excellence (NICE) UK guideline on sepsis emphasizes the need
+to "think sepsis" in any patient presenting with possible infection. It recommends structured vital signs
+monitoring and stratification of risk of severe illness and death according to patient age and setting.[35]
+Treatment guidelines have been produced by the Surviving Sepsis campaign and remain the most widely
+accepted treatment standards.[36] [40]
+Recommended treatment of patients with suspected sepsis is:
+• Measure lactate level, and remeasure if initial lactate is elevated (>18 mg/dL [>2 mmol/L]).
+• Obtain blood cultures before administering antibiotics.
+• Administer broad-spectrum antibiotics (with methicillin-resistant  Staphylococcus aureus  [MRSA]
+coverage if there is high risk of MRSA) for adults with possible septic shock or a high likelihood for
+sepsis.
+• For adults with sepsis or septic shock at high risk of fungal infection, empiric antifungal therapy should
+be administered.
+• Begin rapid administration of crystalloid fluids for hypotension or lactate level ≥36 mg/dL (≥4 mmol/L).
+Consult local protocols.
+• Administer vasopressors peripherally if hypotensive during, or after, fluid resuscitation to maintain MAP
+≥65 mmHg, rather than delaying initiation until central venous access is secured. Norepinephrine is the
+vasopressor of choice.
+• For adults with sepsis-induced hypoxemic respiratory failure, high-flow nasal oxygen should be given.
+Ideally, these interventions should all begin within the first hour following sepsis recognition.[40]
+For adults with possible sepsis without shock, where concern for infection persists, antibiotics should be
+given as soon as possible (within 3 hours) from the time when sepsis was first recognized.[36]
+For adults with a low likelihood of infection and without shock, antibiotics can be deferred while continuing to
+closely monitor the patient.[36]
+Patients with severe septic shock may develop corticosteroid insufficiency, diagnosed by adrenocorticotropic
+hormone stimulation test, or simply based on high vasopressor requirement. Current guidelines recommend
+that low-dose corticosteroids are given only to adults with septic shock and ongoing requirement for
+vasopressor therapy (defined as a dose of epinephrine or norepinephrine [adrenaline or noradrenaline] ≥0.25
+mcg/kg/min for at least 4 hours after initiation to maintain the target MAP).[36]
+ECMO may be considered in carefully selected patients with refractory septic shock.[41] [42] [43]
+For more information on sepsis, please see Sepsis in adults  and Sepsis in children .
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Evaluation of shock Emergencies
+EMERGENCIES
+Neurogenic shock
+Patients with suspected neurogenic shock require immediate imaging and possible intervention to reverse
+potentially reversible deficits, as well as fluid resuscitation to maintain vascular volume and cardiac output.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Evaluation of shock Diagnosis
+Approach
+All patients who are clinically in a state of shock should be managed in a resuscitation, high-dependency, or
+intensive care setting.
+Transfer out of the resuscitation room should only be considered when the patient's vital signs are stabilized.
+In any evaluation of shock, hemodynamic measurements have to be interpreted in the clinical context of
+some basic principles. The following questions are useful:
+• Is the patient in shock? (Is oxygen delivery or cellular metabolic demand not being met?)
+• Does the patient respond to fluids? (Do they have a decreased preload?)
+• If the patient is fluid responsive, is the arterial tone (afterload) increased or decreased?
+• Is pump function (cardiac contractility) increased or decreased?
+The answer to these questions will help to determine the type of shock.
+Parameters to differentiate between types of shock and examples
+Adapted with permission from "Rady MY. Bench-to-bedside review:
+Resuscitation in the emergency department. Crit Care. 2005;9:170-176".
+Indicators of regional perfusion, such as arterial or venous serum lactate and base deficit, are important
+because early hemodynamic assessment based on vital signs and central venous pressure (CVP) does not
+detect early or persistent global hypoxia.[44]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Evaluation of shock Diagnosis
+DIAGNOSIS
+Parameters to evaluate shock
+Clinical criteria, including vital signs, level of consciousness and assessments of peripheral perfusion (core-
+periphery temperature gradient, capillary return time) are mandatory.
+Hemodynamic monitoring
+• Mean arterial pressure (MAP), systolic BP, and diastolic BP can be done continuously with an arterial
+line and confirmed with hourly noninvasive BP monitoring.
+• MAP may be estimated by adding the diastolic pressure to one third of the difference between the
+systolic and diastolic pressures.
+Ultrasonography[45]
+• Decreased inferior vena cava filling and diameter are suggestive of hypovolemic shock.
+• Point of care abdominal-thoracic ultrasound (e.g, FAST [focused assessment with sonography for
+trauma]) may reveal pneumothorax (that may be complicated by tension pneumothorax), or free fluid in
+the abdominal cavity.[46]
+• Echocardiography to determine ventricular volumes and cardiac output is helpful in assessing
+cardiogenic shock.[47] Cardiac sonography may reveal valvular disorders, or pericardial effusion that
+may be associated with cardiac tamponade.
+Shock Index[48]
+• Defined by the ratio of heart rate to systolic BP.
+• A ratio of <1 is associated with decreased response to volume loading, but if >1, it usually indicates a
+variable response to fluid administration.[49]
+• Use of the shock index is mostly confined to hypovolemic shock. It may be unreliable in septic and
+cardiogenic shock (when heart rate may increase in response to other factors), and in the setting of
+older age, hypertension, or beta-blocker or calcium-channel blocker therapy.[48] [50]
+Monitoring organ system effects
+• Urine output of <0.5 mL/kg/hour, and change in mental status and tachypnea, indicate decreased
+organ perfusion.
+• Urine output is usually recorded each hour.
+Serum markers of tissue metabolism
+• A normal serum lactate level in a stressed patient is considered to be below 18 mg/dL (2 mmol/L).
+• Lactate levels >36 mg/dL (>4 mmol/L) have been associated with greater mortality in shock. Early
+lactate clearance is associated with better prognosis.[51]
+• Lactate can be measured from an arterial or venous gas sample 2 or 3 times a day, or more often if
+required, to monitor response to treatment.
+• Base deficit, negative base excess, also correlates with outcome in shock. Initial base deficit does not
+correlate well with initial blood lactate because there are numerous causes of an elevated lactate (e.g.,
+metformin, beta-2 agonists) other than hypoperfusion. The base excess is defined as the amount of
+hydrogen ions that would be required to return the pH of the blood to 7.35 if the PaCO₂ levels were
+adjusted to normal.[52]
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Evaluation of shock Diagnosis
+Scoring systems
+Several risk stratification approaches have been proposed. All rely on a structured clinical assessment and
+recording of the patient’s vital signs.[35] [37] [38][40] It is important to check local guidance for information on
+which approach your institution recommends. The timeline of ensuing investigations and treatment should be
+guided by this early assessment.[40]
+Sepsis screening tools are designed to promote the early identification of sepsis, and consist of manual
+methods or the automated use of the electronic health record (EHR). These include the Sequential (or
+Sepsis-related) Organ Failure Assessment (SOFA) score, the quick SOFA (qSOFA) criteria, National Early
+Warning Score (NEWS), and Modified Early Warning Score (MEWS). The accuracy of each tool varies, but
+they are an important component of identifying sepsis early for timely intervention.[36]
+Of these scoring systems, the SOFA scoring system has been subject to greatest study and has been
+adopted for use in emergency and critical care management of potential shock victims, including screening
+for shock and ongoing assessment.[53] [54] [55] A SOFA score of 7 or more on initial evaluation has been
+associated with significant shock, with a score of 13 or greater associated with significant risk for mortality in
+the intensive care setting.
+Sequential (or Sepsis-related) Organ Failure Assessment (SOFA) criteria
+Created by BMJ, adapted from Vincent JL, Moreno R, Takala J, et al. The SOFA (Sepsis-related Organ
+Failure Assessment) score to describe organ dysfunction/failure. On behalf of the Working Group on Sepsis-
+Related Problems of the European Society of Intensive Care Medicine. Intensive Care Med. 1996;22:707-710.
+SOFA criteria
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Evaluation of shock Diagnosis
+DIAGNOSIS
+The Third International Consensus Group (Sepsis-3) recommends using the SOFA score (primarily validated
+in patients in intensive care) to assess for sepsis, with a score ≥2 in a patient with a suspected infection
+being suggestive of sepsis.[34]
+For patients with suspected sepsis outside the intensive care setting, a modified SOFA score, qSOFA, has
+been found to have better predictability of in-hospital mortality.[56] However, there is evidence that qSOFA
+may have poor sensitivity compared with other bedside early warning scores.[57] Therefore, the Surviving
+Sepsis Campaign advises against using qSOFA, compared with NEWS or MEWS, as a single screening tool
+for sepsis or septic shock.[36]
+Early recognition of sepsis is essential because early treatment improves outcomes.[35]
+See urgent considerations section for more details on immediate management.
+Measuring the preload
+Preload is measured by dynamic response of the CVP to a fluid challenge (e.g., 250 to 500 mL of balanced
+crystalloid solution). Mini-fluid challenges (e.g., 100 mL) may be used to predict the effects of larger fluid
+challenges in critically ill patients.[58]
+Echocardiography or pulse-induced continuous cardio-output monitoring are also used to determine cardiac
+output. In selected situations, pulmonary artery catheters may be helpful in initial and ongoing monitoring of
+preload.
+Measuring preload responsiveness
+Measures of preload responsiveness can guide fluid administration. Methods include stroke volume variation,
+systolic pressure variation, pulse pressure variation, plethysmographic variation, and passive leg raising.[59]
+[60][61] [62][63][64]
+Typically an increase in cardiac output of 10% to 12% after a fluid bolus of 300 to 500 mL of crystalloids is
+considered to be a positive response.
+Evaluation of hemodynamic status is difficult in some situations, including in mechanically ventilated patients.
+Inappropriate fluid administration can be harmful, and measures of preload (e.g., CVP) are unhelpful
+because, as end-diastolic pressure exceeds a given value, giving further fluids does not increase stroke
+volume (Starling principle).[60]
+Measuring contractility and afterload
+Cardiac output is the output of the left ventricle/right ventricle per minute. There are various methods of
+calculating cardiac output, but an ideal standard has not been established.
+The most commonly used method is bedside echocardiography.[47] Alternative noninvasive methods
+include Doppler ultrasound and measurements of pulse pressure, although the latter is a function of both
+cardiac output and arterial function. As cardiac output is affected by the phase of respiration, it needs to be
+measured at the same point in the respiratory cycle each time to enable comparison. 
+Other methods include dilution and thermodilution using a pulmonary artery catheter. These use the Fick
+principle, and the rate at which an indicator substance is diluted or temperature falls is proportional to the
+cardiac output.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Evaluation of shock Diagnosis
+The ratio of the cardiac output (stroke volume x heart rate) to the body surface area in meters squared is the
+cardiac index. Normal values of the cardiac index range from 2.2 to 2.5 L/minute/m². In cardiogenic shock the
+cardiac index is typically <1.8 without inotropes and <2.0 to 2.2 with inotropes.[65]
+Systemic vascular resistance: a measure of afterload derived from the cardiac output, MAP, and CVP.
+Measures of tissue perfusion
+Oxygen delivery (DO₂): the amount of oxygen delivered to the tissue is calculated as the product of cardiac
+output, oxygen saturation, and hemoglobin level in the blood. A DO₂ of >600 ml/min/m² has been associated
+with better outcomes.[66]
+• DO₂ = cardiac output x oxygen saturation x hemoglobin level g/L (1.36) x 100.
+Mixed venous oxygen saturations: the saturation of oxygen in the pulmonary artery, and the standard for
+defining global adequacy of tissue perfusion.[67] [68] Normal venous saturations are between 65% and
+75%. Superior vena cava oxygen saturation is usually higher by about 8% compared with inferior vena
+cava oxygen saturation, but they parallel each other in shock.[69] [70] A sustained elevation of >80% in the
+presence of low oxygen delivery carries a poor prognosis, as it indicates tissue inability to utilize oxygen,
+and is usually seen after cardiac arrest resuscitation.[71] During initial stabilization, even after attaining
+global indices such as BP and urine output, tissue hypoxia can still persist. If uncorrected, it can lead to
+oxygen debt.[44] Oxygen debt is due to an imbalance between supply and demand, which is associated with
+increased organ dysfunction.[72] Early correction of venous saturations to >70% is associated with better
+outcomes.[15] Venous saturations of <70% are an independent predictor of mortality.[73]
+Lactate: levels >36 mg/dL (>4 mmol/L) are associated with greater mortality in shock. Base excess levels are
+used during bedside resuscitation in determining fluid volume replacement for acute trauma victims.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Evaluation of shock Diagnosis
+DIAGNOSIS
+Differentials overview
+Common
+Myocardial infarction
+Heart failure
+Beta-blocker and other drug-related toxicity
+Hemorrhage, external or internal from any site
+Trauma with external or internal hemorrhage
+Gastrointestinal fluid losses
+Intestinal obstruction with fluid third spacing
+Pancreatitis with fluid third spacing or hemorrhage
+Burns
+Excessive renal loss
+Pulmonary embolism
+Septic shock
+Anaphylaxis
+Poisoning and adverse drug reaction
+Uncommon
+Cardiomyopathy
+Cardiac valve disease
+Heat stroke/insensible fluid losses
+Tension pneumothorax
+Cardiac tamponade
+Neurogenic shock
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Evaluation of shock Diagnosis
+Uncommon
+Adrenal crisis
+Thiamine deficiency
+Arteriovenous fistulae
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Evaluation of shock Diagnosis
+DIAGNOSIS
+Differentials
+Common
+Myocardial infarction
+History Exam 1st Test Other tests
+central chest pain,
+radiation to left arm,
+history of exertional
+chest pain; smoking,
+hypercholesterolemia;
+family history; diabetes
+mellitus; high BP
+signs of heart failure;
+jugular venous
+distention, basal
+crackles on lung
+auscultation; heart
+murmur
+»serum troponin:
+elevated
+High sensitivity troponin
+assays are preferred.
+They allow for early
+detection of cardiac
+injury at 1 hour.
+Standard assays are
+elevated maximally at
+10 to 12 hours.[74]  
+»serum creatine
+kinase (CK-MB
+isoenzyme fraction):
+elevated
+»ECG: may show ST-
+segment elevation or
+depression
+»coronary
+angiography: may
+show presence
+of thrombus with
+occlusion of the artery
+Diagnostic modality of
+choice to confirm acute
+myocardial infarction in
+patients with STEMI.
+»echocardiography:
+regional wall
+abnormalities and
+valvular abnormalities
+◊ Heart failure
+History Exam 1st Test Other tests
+shortness of breath,
+ankle swelling,
+orthopnea, paroxysmal
+nocturnal dyspnea,
+history of cardiac
+risk factors, previous
+myocardial infarction,
+valvular heart disease
+jugular venous
+distension, orthopnea,
+lower extremity
+swelling, crackles in the
+chest on auscultation,
+increased respiratory
+rate, S3 gallop rhythm
+on cardiac auscultation
+»echocardiography:
+depressed ejection
+fraction, decreased
+systolic left ventricular
+function
+Only the systolic
+function is preserved;
+diastolic indices are
+altered.
+»B-type natriuretic
+peptide (BNP) or
+N-terminal pro-
+BNP (NT-proBNP):
+elevated
+In acute settings,
+natriuretic peptide
+biomarker levels may
+be more useful for
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Evaluation of shock Diagnosis
+Common
+◊ Heart failure
+History Exam 1st Test Other tests
+ruling out than ruling
+in a diagnosis of heart
+failure. Several other
+cardiac and non-
+cardiac conditions may
+also be associated with
+elevated BNP or NT-
+proBNP levels.[75]
+»chest x-ray:
+pulmonary edema,
+Kerley A, B, and C
+lines, cardiomegaly
+Sometimes difficult to
+differentiate from acute
+respiratory distress
+syndrome.
+◊ Beta-blocker and other drug-related toxicity
+History Exam 1st Test Other tests
+prior hypertension or
+heart disease being
+medically treated
+with a beta-blocker,
+a calcium-channel
+blocker, or a class 1c
+antiarrhythmic such
+as flecainide; syncope
+and lightheadedness;
+weakness; loss of
+appetite
+weak pulse, pulmonary
+rales, slow heart
+rate (beta-blockers),
+peripheral edema,
+signs of poor skin
+perfusion
+»ECG: bradycardia,
+increased PR interval
+»urine drug screen:
+presence of drug in
+urine
+»serum levels for
+suspected drugs:
+drug level
+◊ Hemorrhage, external or internal from any site
+History Exam 1st Test Other tests
+external injury such
+as laceration; vomiting
+blood or bloody stools;
+melena; vaginal blood
+loss; or pelvic pain in a
+woman of childbearing
+age
+tachycardia;
+lightheadedness; pale
+fingernail beds and
+signs of poor skin
+perfusion; weak pulse;
+decreased urine output
+»hemoglobin/
+hematocrit: low blood
+count
+»stool guaiac test
+for blood: presence of
+blood in stool
+»serum lactate: >18
+mg/dL (>2 mmol/L)
+abnormal; >36 mg/dL
+(>4 mmol/L) associated
+with higher mortality
+»base deficit: <-2
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Evaluation of shock Diagnosis
+DIAGNOSIS
+Common
+◊ Hemorrhage, external or internal from any site
+History Exam 1st Test Other tests
+»examination of
+vomitus for blood:
+presence of blood in
+vomit
+A base deficit of
+-2 mEq/L or less is
+considered abnormal,
+-10 mEq/L or less is
+associated with severe
+metabolic acidosis.[20]
+◊ Trauma with external or internal hemorrhage
+History Exam 1st Test Other tests
+injury either blunt or
+penetrating; fall or
+crush injury
+tachycardia;
+lightheadedness; pale
+fingernail beds and
+signs of poor skin
+perfusion; weak pulse;
+decreased urine output
+»FAST (focused
+assessment with
+sonography for
+trauma): may reveal
+free fluid in abdominal
+cavity, or pneumothorax
+»chest x-ray:
+hemothorax
+»hemoglobin/
+hematocrit: low blood
+count
+»CT scan thorax:
+evidence of
+hemorrhage
+»serum lactate: >18
+mg/dL (>2 mmol/L)
+abnormal; >36 mg/dL
+(>4 mmol/L) associated
+with higher mortality
+»base deficit: <-2
+A base deficit of
+-2 mEq/L or less is
+considered abnormal,
+-10 mEq/L or less is
+associated with severe
+metabolic acidosis.[20]
+◊ Gastrointestinal fluid losses
+History Exam 1st Test Other tests
+vomiting, diarrhea,
+prolonged symptoms,
+more common in
+children
+dry skin and mucosa,
+loss of skin turgor,
+decreased urine output
+»CBC: elevated WBC
+count if infectious
+cause of diarrhea and
+vomiting
+»serum chemistries:
+increased BUN/
+creatinine
+»trial of fluids (oral
+or intravenous):
+clinical improvement
+with fluid resuscitation
+»stool evaluation for
+culture, organisms,
+or antibodies:
+positive if infectious
+cause
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Evaluation of shock Diagnosis
+Common
+◊ Intestinal obstruction with fluid third spacing
+History Exam 1st Test Other tests
+abdominal pain and
+distention, nausea,
+vomiting, absolute
+constipation, previous
+history of abdominal
+surgery, lack of passing
+flatus
+hyperdynamic or
+absent bowel sounds,
+hernia, distended
+tympanic abdomen
+»abdominal x-ray:
+dilated loops of bowel
+with multiple fluid levels
+»CT abdomen:
+dilated loops of bowel,
+transition point at
+level of obstruction
+from collapsed to
+dilated bowel, cause
+for obstruction, such as
+mass, may be evident
+◊ Pancreatitis with fluid third spacing or hemorrhage
+History Exam 1st Test Other tests
+epigastric abdominal
+pain; radiation to
+the back; history of
+gallstones, alcohol
+abuse, use of steroids;
+hyperlipidemia;
+previous episodes
+epigastric tenderness
+with guarding and
+rebound; ecchymosis
+around umbilicus
+(Cullen sign),
+ecchymosis in flanks
+(Grey-Turner sign)
+»serum lipase or
+amylase: >3 times
+the upper limit of the
+normal range
+Use serum lipase
+testing (if available)
+in preference to
+serum amylase.[76]
+[77] Serum lipase
+and amylase have
+similar sensitivity
+and specificity but
+lipase levels remain
+elevated for longer
+(up to 14 days after
+symptom onset vs.
+5 days for amylase),
+providing a higher
+likelihood of picking
+up the diagnosis in
+patients with a delayed
+presentation.[78]
+»LFTs: usually elevated
+if gallstones are the
+cause
+»CT scan: may
+show pancreatic
+inflammation, peri-
+pancreatic stranding,
+calcifications, or fluid
+collections; confirms or
+excludes gallstones
+Abdominal imaging
+is not needed for
+diagnosis in most
+patients. Necrosis
+generally takes around
+5 days to develop,
+so an early CT scan
+cannot be used to
+assess disease
+severity.
+American College
+of Gastroenterology
+guidelines recommend
+CT or MRI after 48
+hours in patients who
+do not improve or
+whose symptoms
+worsen.[76] Other
+guidelines recommend
+a delay of 72-96
+hours after symptom
+onset before contrast-
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Evaluation of shock Diagnosis
+DIAGNOSIS
+Common
+◊ Pancreatitis with fluid third spacing or hemorrhage
+History Exam 1st Test Other tests
+enhanced CT or MRI to
+assess for necrosis.[79]
+»ultrasound
+abdomen: fluid
+around the pancreas;
+may show biliary
+duct dilation or acute
+cholelithiasis
+Abdominal imaging
+is not needed for
+diagnosis in most
+patients. However, once
+a diagnosis of acute
+pancreatitis has been
+made, transabdominal
+ultrasound is required
+to rule out gallstones as
+the etiology.[76]
+Burns
+History Exam 1st Test Other tests
+children and older
+people are at risk
+erythema, cellulitis,
+clouded cornea;
+burns: dry and painful
+(first degree), wet
+and painful (second
+degree), dry and
+insensitive (third
+degree), affecting
+subcutaneous tissue,
+tendon, or bone (fourth
+degree)
+»CBC: low hematocrit,
+hypovolemia,
+neutropenia,
+thrombocytopenia
+Indicated in patients
+with significant burns.
+Neutropenia and
+thrombocytopenia may
+be indicators of sepsis.
+»metabolic panel:
+high levels of BUN,
+creatinine, glucose;
+hyponatremia,
+hypokalemia
+Indicated in patients
+with significant burns.
+»carboxyhemoglobin:
+high levels
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Evaluation of shock Diagnosis
+Common
+Burns
+History Exam 1st Test Other tests
+Indicated if inhalation
+injury is suspected.
+»arterial blood gas:
+may show hypoxia
+Indicated if inhalation
+injury or carbon
+monoxide/cyanide
+poisoning is suspected.
+»fluorescein
+staining: damaged
+corneal epithelial cells
+»CT scan of head
+and spine: brain
+injury, fracture
+May be indicated based
+on injury mechanism
+and history.
+»wound histology
+and biopsy culture:
+infection
+Indicated if sepsis is
+suspected.
+◊ Excessive renal loss
+History Exam 1st Test Other tests
+use of diuretic
+medications; poorly
+controlled diabetes
+mellitus with polyuria
+weakness,
+lightheadedness,
+tachycardia, dry
+mucous membranes,
+signs of poor skin
+perfusion
+»urine osmolality:
+unconcentrated
+»urine electrolytes:
+sodium loss
+Pulmonary embolism
+History Exam 1st Test Other tests
+chest pain; shortness of
+breath; recent surgery
+or immobilization;
+active malignancy;
+recent long flight;
+possible cyanosis,
+respiratory distress
+with use of accessory
+muscles, lung
+auscultation
+»CT pulmonary
+angiogram (CTPA)
+or multidetector
+CT scan: clots in the
+pulmonary arteries
+»D-dimer: elevated
+»duplex of leg veins:
+positive for deep vein
+thrombosis
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Evaluation of shock Diagnosis
+DIAGNOSIS
+Common
+Pulmonary embolism
+History Exam 1st Test Other tests
+known deep vein
+thrombosis; known
+prothrombotic
+tendency; use of oral
+birth control pill
+normal; jugular
+venous distention
+if large embolism;
+calf tenderness,
+tachycardia, low oxygen
+saturations
+CTPA is the preferred
+investigation for
+definitive confirmation
+of pulmonary
+embolism.
+»ventilation/
+perfusion lung scan:
+may show an area of
+ventilated lung that is
+not being perfused
+Septic shock
+History Exam 1st Test Other tests
+symptoms of localized
+infection, nonspecific
+symptoms include
+fever or shivering,
+dizziness, nausea and
+vomiting, muscle pain,
+feeling confused or
+disoriented; may be
+history of risk factors
+include, for example,
+recent surgery or
+invasive procedures,
+immunosuppression,
+pregnancy or
+postpartum period,
+frailty, intravenous drug
+use, or breach of skin
+integrity
+tachycardia,
+tachypnoea,
+hypotension, fever
+>100.4˚F (38˚C) or
+hypothermia <96.8˚F
+(36˚C), prolonged
+capillary refill, mottled
+or ashen skin,
+cyanosis, low oxygen
+saturation, newly
+altered mental state,
+reduced urine output
+»blood culture: may
+be positive for organism
+Blood cultures should
+be taken immediately,
+and preferably
+before antibiotics
+are started, provided
+their sampling will not
+delay administration
+of antibiotics. Other
+cultures (e.g., sputum,
+stool, and urine) should
+be taken as clinically
+indicated.
+»serum lactate: may
+be elevated; levels
+>18 mg/dL (>2 mmol/
+L) associated with
+adverse prognosis;
+even worse prognosis
+with levels >36 mg/dL
+(>4 mmol/L)
+Elevated serum
+lactate indicates tissue
+hypoperfusion, and is
+most reliably assessed
+»ECG: may show
+evidence of ischemia,
+atrial fibrillation, or
+other arrhythmia; may
+be normal
+An ECG should
+be arranged to
+help exclude other
+differential diagnoses,
+including myocardial
+infarction, pericarditis,
+and myocarditis. Sepsis
+also predisposes to
+myocardial dysfunction
+and arrhythmias.
+»CXR: may show
+consolidation;
+demonstrates position
+of central venous
+catheter and tracheal
+tube
+»urine microscopy
+and culture: may
+be positive for nitrites,
+protein or blood;
+elevated leukocyte
+count; positive culture
+for organism
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Evaluation of shock Diagnosis
+Common
+Septic shock
+History Exam 1st Test Other tests
+using an arterial
+sample.
+»CBC with
+differential: WBC
+count >12 × 10⁹/L
+(12,000/microlitre)
+(leukocytosis); WBC
+count <4 × 10⁹/L (4000/
+microlitre) (leukopenia);
+or a normal WBC count
+with >10% immature
+forms; low platelets
+WBC count is sensitive
+but not specific for the
+diagnosis of sepsis.
+»CRP: elevated
+»blood urea and
+serum electrolytes:
+serum electrolytes may
+be deranged; blood
+urea may be elevated
+»serum creatinine:
+may be elevated
+Elevated creatinine
+may occur in sepsis
+associated with renal
+dysfunction.
+»liver function tests:
+may show elevated
+bilirubin, alanine
+aminotransferase,
+aspartate
+aminotransferase,
+alkaline phosphatase,
+and gamma glutamyl
+transpeptidase
+Sepsis can originate
+from hepatic or peri-
+hepatic infections.
+Comorbid hepatic
+disease can affect drug
+metabolism.
+»sputum culture:
+may be positive for
+organism
+»lumbar puncture:
+may be elevated
+WBC count, presence
+of organism on
+microscopy and
+positive culture
+Performed if meningitis
+suspected.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Evaluation of shock Diagnosis
+DIAGNOSIS
+Common
+Septic shock
+History Exam 1st Test Other tests
+»coagulation
+studies: may be
+abnormal
+»ABG: may be
+hypoxia, hypercapnia,
+elevated anion gap,
+metabolic acidosis
+Anaphylaxis
+History Exam 1st Test Other tests
+known allergy; new
+drug or food ingestion;
+immunization; recalls
+bite or sting; rapid
+development of
+symptoms; shortness
+of breath; facial
+swelling; hypotension,
+tachycardia, and
+agitation
+facial edema, tongue
+swelling, respiratory
+distress, wheezing ,
+rash, weals, erythema
+»trial of
+intramuscular
+epinephrine:
+Improvement in
+symptoms
+»serum tryptase
+level: may be elevated
+The UK National
+Institute for Health
+and Care Excellence
+recommends that
+serum samples
+should be taken from
+children <16 years
+during or soon after
+resuscitation.[80]
+In clinically obvious
+food-induced
+anaphylaxis, tryptase
+levels are seldom
+elevated, even if serum
+was collected in a
+timely manner.[81]
+The American
+Academy of Allergy,
+Asthma & Immunology
+recommends
+obtaining a baseline
+serum tryptase in
+patients presenting
+with a history of
+recurrent, idiopathic,
+or severe anaphylaxis,
+particularly those
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Evaluation of shock Diagnosis
+Common
+Anaphylaxis
+History Exam 1st Test Other tests
+presenting with
+hypotension.[33]
+◊ Poisoning and adverse drug reaction
+History Exam 1st Test Other tests
+ingestion of potential
+poison often with
+vomiting or diarrhea;
+medication that is
+associated with shock
+as a potential adverse
+reaction; potential
+drug interactions
+(such as nitrates for
+cardiac disease and
+drugs used for erectile
+dysfunction)
+tachycardia;
+lightheadedness; pale
+fingernail beds and
+signs of poor skin
+perfusion; weak pulse;
+decreased urine output
+»urine and serum
+drug screen: drug in
+urine and serum
+»acetaminophen
+serum levels:
+acetaminophen in
+serum
+»salicylate serum
+levels: salicylate in
+serum
+»x-ray abdomen: pills
+visualized
+»serum osmolar
+gap: evidence of
+alcohols
+Uncommon
+◊ Cardiomyopathy
+History Exam 1st Test Other tests
+shortness of breath
+on exertion; history
+of heart failure; viral
+infections; alcohol
+abuse; family history
+evidence of heart
+failure; jugular
+venous distention,
+hepatomegaly, pedal
+edema, rales in lung
+bases; accessory
+muscle use; diminished
+peripheral pulses
+»echocardiography:
+reduced ejection
+fraction, increased
+left ventricular muscle
+mass
+»B-type natriuretic
+peptide: >100
+nanograms/L may
+indicate heart failure
+◊ Cardiac valve disease
+History Exam 1st Test Other tests
+rheumatic fever,
+spiking fevers, or new
+murmur suggestive of
+endocarditis, recent
+myocardial infarction,
+bicuspid aortic valve,
+mitral facies,
+heart murmur on
+auscultation, rales at
+lung bases, spiking
+temperatures if
+endocarditis
+»Doppler
+echocardiography:
+demonstrates stenosis
+or regurgitation of
+valve, mobility of valve
+leaflets, and large
+vegetations if present
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Evaluation of shock Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Cardiac valve disease
+History Exam 1st Test Other tests
+shortness of breath on
+exertion, syncope
+If endocarditis
+suspected but
+transthoracic
+echo-negative,
+transesophageal study
+is indicated.
+»CBC: elevated WBC
+count with endocarditis
+»blood cultures:
+positive for growth if
+endocarditic cause for
+valvular destruction
+Three sets of cultures
+suggested.
+◊ Heat stroke/insensible fluid losses
+History Exam 1st Test Other tests
+prolonged exposure to
+warm temperatures,
+prolonged exertion in
+hot climates, burns
+dry skin and mucosa,
+loss of skin turgor,
+may be lethargic and
+confused, burns
+»trial of fluids (oral
+or intravenous):
+clinical improvement
+with rehydration
+»serum chemistries:
+increased BUN/
+creatinine ratio
+Tension pneumothorax
+History Exam 1st Test Other tests
+sudden onset, often
+pleuritic, chest pain;
+shortness of breath;
+rapid deterioration;
+recent placement
+of a central venous
+pressure line; history
+of emphysema; chest
+trauma
+absent unilateral breath
+sounds on the affected
+side; trachea deviated
+to the opposite side;
+hyper-resonance to
+percussion on affected
+side
+»diagnostic and
+therapeutic needle
+thoracostomy: hiss of
+air as catheter/needle
+enters the pleural
+space
+Formal chest drain
+needed.
+»bedside
+ultrasound:
+pneumothorax
+visualized
+»chest x-ray after
+decompression:
+chest drain correctly
+placed; lung inflated
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Evaluation of shock Diagnosis
+Uncommon
+Cardiac tamponade
+History Exam 1st Test Other tests
+recent cardiac
+surgery or angiogram/
+angioplasty; chest
+trauma; malignancy;
+pericarditis; increasing
+shortness of breath on
+minimal exertion
+muffled hearts sounds,
+low BP; jugular venous
+distention (Beck triad);
+pulsus paradoxus
+»echocardiography:
+pericardial fluid causing
+restriction of cardiac
+filling
+»ECG: electrical
+alternans
+◊ Neurogenic shock
+History Exam 1st Test Other tests
+brain or spinal cord
+injury, epidural or spinal
+procedures
+hypotension,
+bradycardia, and
+hypothermia; warm
+dry peripheries with
+bounding pulses;
+priapism; flaccid
+paralysis of limbs
+»MRI of the
+spine: damage or
+compression of spinal
+cord
+◊ Adrenal crisis
+History Exam 1st Test Other tests
+can occur in context of
+other illness especially
+sepsis, trauma, and
+surgery, use of steroids
+either oral, inhaled, or
+topical over large areas;
+anticoagulant therapy;
+nausea and vomiting
+lack of signs to indicate
+an alternative cause
+»serum chemistry:
+may be hyponatremic
+and hyperkalemic
+»cortisol: <20
+micrograms/dL
+»short synacthen
+test: cortisol levels do
+not rise
+Patient is given
+250 micrograms of
+adrenocorticotropic
+hormone intravenously.
+Blood samples are
+taken at 30 minutes
+and 60 minutes.
+◊ Thiamine deficiency
+History Exam 1st Test Other tests
+alcoholism, long-term
+nutritional deficiencies
+warm bounding pulses,
+sometimes associated
+with skin changes, e.g.,
+liver spots and brown
+patches
+»thiamine level: very
+low according to local
+lab parameters
+Especially seen in
+alcoholism. Thiamine
+»CBC: macrocytosis,
+anemia
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Evaluation of shock Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Thiamine deficiency
+History Exam 1st Test Other tests
+should be replaced
+before giving glucose.
+◊ Arteriovenous fistulae
+History Exam 1st Test Other tests
+depends on site
+of fistula, trauma
+especially gunshot
+wounds, recent
+instrumentation; e.g.,
+central line, renal
+access procedure
+signs of high-output
+heart failure, bounding
+pulses, low diastolic BP,
+high pulse pressure
+»Doppler
+ultrasound:
+demonstration of flow
+from artery to vein
+»echocardiography:
+bubbles appear on the
+left side of the heart
+after 3-5 cardiac cycles
+»CT angiography:
+anatomic
+demonstration of the
+fistula
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Evaluation of shock Evidence tables
+Evidence tables
+What are the effects of early versus late initiation of empiric antimicrobial
+treatment in adults with or at risk of developing sepsis or severe sepsis?[35]
+This table is a summary of the analysis reported in a guideline (underpinned by a systematic review)
+that focuses on the above important clinical question.
+View the full source guideline (https://www.nice.org.uk/guidance/ng51/evidence)
+Evidence C *
+Confidence in the evidence is very low or low where GRADE has been performed
+and the intervention may be more effective/beneficial than the comparison for key
+outcomes. However, this is uncertain and new evidence could change this in the
+future.
+Population: Adults with or at risk of developing sepsis or severe sepsis
+Intervention: Early initiation of empiric antimicrobial treatment
+Comparison: Late initiation of empiric antimicrobial treatment
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+<1 hour versus >1 hour
+Mortality ᵃ Favors intervention Very Low
+Mortality - Intensive Care Unit
+(ICU) setting
+Favors intervention Very Low
+Mortality - Emergency
+Department (ED) setting
+No statistically significant
+difference
+Very Low
+<2 hours versus >2 hours
+Mortality ᵃ No statistically significant
+difference
+Very Low
+Mortality - ICU setting Favors intervention Very Low
+Mortality - ED setting No statistically significant
+difference
+Very Low
+<3 hours versus >3 hours
+Mortality ᵃ Favors intervention Very Low
+Mortality - ICU setting No statistically significant
+difference
+Very Low
+EVIDENCE TABLES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Evaluation of shock Evidence tables
+EVIDENCE TABLES
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+Mortality - ED setting Favors intervention Very Low
+<4 hours versus >4 hours
+Mortality - ED setting No statistically significant
+difference
+Very Low
+<5 hours versus >5 hours
+Mortality - ED setting No statistically significant
+difference
+Very Low
+<6 hours versus >6 hours
+Mortality ᵃ Favors intervention Very Low
+Mortality - ICU setting No statistically significant
+difference
+Very Low
+Mortality - ED setting Favors intervention Very Low
+Recommendations as stated in the source guideline
+The guideline committee recommends that adults, children, and young people over the age of 12 who have
+suspected sepsis and one or more high-risk criteria, should be given a broad-spectrum antimicrobial at the
+maximum recommended dose without delay (within 1 hour of establishing they meet high-risk criteria in an
+acute hospital s e t t i n g ) . ᵇ  See guideline for details on criteria for different levels of risk.
+Note
+Results in this table are based on observational studies only.
+ᵃ  Includes overall mortality in intensive care and emergency department settings.
+ᵇ  This guideline recommends that all people with suspected sepsis have a face-to-face assessment and a
+risk stratification tool is used to determine risk of severe illness and death from sepsis. Recommendations
+depend on the presence and number of high-, moderate-to-high, and low-risk criteria.
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Evaluation of shock Evidence tables
+What are the effects of early versus late initiation of empiric antimicrobial
+treatment in children with or at risk of developing sepsis or severe sepsis?[35]
+This table is a summary of the analysis reported in a guideline (underpinned by a systematic review)
+that focuses on the above important clinical question.
+View the full source guideline (https://www.nice.org.uk/guidance/ng51/evidence)
+Evidence C *
+Confidence in the evidence is very low or low where GRADE has been performed
+and the intervention may be more effective/beneficial than the comparison for key
+outcomes. However, this is uncertain and new evidence could change this in the
+future.
+Population: Children with or at risk of developing sepsis or severe sepsis
+Intervention: Early initiation of empiric antimicrobial treatment
+Comparison: Late initiation of empiric antimicrobial treatment
+Outcome Effectiveness (BMJ rating)
+†
+Confidence in evidence (GRADE)
+‡
+<1 hour versus >1 hour ᵃ 
+ Pediatric Intensive Care Unit
+(PICU) mortality
+No statistically significant
+difference
+Very Low
+<2 hours versus >2 hours ᵃ 
+ PICU mortality No statistically significant
+difference
+Very Low
+<3 hours versus >3 hours ᵃ 
+ PICU mortality Favors intervention Very Low
+<4 hours versus >4 hours ᵃ 
+ PICU mortality Favors intervention Very Low
+Recommendations as stated in the source guideline
+The National Institute of Health and Care Excellence (NICE) guideline on Sepsis: recognition, diagnosis and
+early management makes the following recommendation:
+For children aged 5–11 years who have suspected sepsis and 1 or more high-risk criteria, give a broad-
+spectrum antimicrobial ᵇ  at the maximum recommended dose without delay (within 1 hour of identifying that
+they meet any high-risk criteria in an acute hospital setting).
+Note
+The guideline group noted that the direct evidence in children came from one small (n=130), single-
+centre retrospective study of children in PICU with severe sepsis and septic shock. Therefore, they also
+EVIDENCE TABLES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Evaluation of shock Evidence tables
+EVIDENCE TABLES
+extrapolated from the indirect evidence in adults to make the same recommendation for all age groups
+(including children aged under 5 years and 5-11 years).
+ᵇ  Time from sepsis recognition to initial treatment and first appropriate treatment.
+ᵇ  See full guideline for more information.
+* Evidence levels
+The Evidence level is an internal rating applied by BMJ Best Practice. See the EBM Toolkit (https://
+bestpractice.bmj.com/info/evidence-tables/) for details.
+Confidence in evidence
+A -  High or moderate to high
+B -  Moderate or low to moderate
+C -  Very low or low
+† Effectiveness (BMJ rating)
+Based on statistical significance, which demonstrates that the results are unlikely to be due to chance, but
+which does not necessarily translate to a clinical significance.
+‡ Grade certainty ratings
+High The authors are very confident that the true
+effect is similar to the estimated effect.
+Moderate The authors are moderately confident that
+the true effect is likely to be close to the
+estimated effect.
+Low The authors have limited confidence in the
+effect estimate and the true effect may be
+substantially different.
+Very Low The authors have very little confidence in
+the effect estimate and the true effect is
+likely to be substantially different.
+BMJ Best Practice EBM Toolkit: What is GRADE? (https://bestpractice.bmj.com/info/toolkit/learn-ebm/what-
+is-grade/)
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Evaluation of shock References
+Key articles
+• van Diepen S, Katz JN, Albert NM, et al. Contemporary management of cardiogenic shock: a scientific
+statement from the American Heart Association. Circulation. 2017 Oct 17;136(16):e232-68.  Full text
+(https://www.doi.org/10.1161/CIR.0000000000000525)   Abstract
+• Shaker MS, Wallace DV, Golden DBK, et al. Anaphylaxis-a 2020 practice parameter update,
+systematic review, and Grading of Recommendations, Assessment, Development and Evaluation
+(GRADE) analysis. J Allergy Clin Immunol. 2020 Apr;145(4):1082-123.  Full text (https://
+www.jacionline.org/article/S0091-6749(20)30105-6/fulltext)   Abstract
+• Campbell RL, Li JT, Nicklas RA, et al. Emergency department diagnosis and treatment of anaphylaxis:
+a practice parameter. Ann Allergy Asthma Immunol. 2014 Dec;113(6):599-608.  Full text (https://
+www.doi.org/10.1016/j.anai.2014.10.007)   Abstract
+• Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: International
+guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021 Nov
+1;49(11):e1063-143.  Full text (https://journals.lww.com/ccmjournal/Fulltext/2021/11000/
+Surviving_Sepsis_Campaign__International.21.aspx)   Abstract
+• Seymour CW, Liu VX, Iwashyna TJ, et al. Assessment of clinical criteria for sepsis: for the Third
+International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA. 2016 Feb
+23;315(8):762-74. Abstract
+References
+1. Weil MH, Shubin H. Proposed reclassification of shock states with special reference to distributive
+defects. Adv Exp Med Biol. 1971 Oct;23(0):13-23. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/5164840?tool=bestpractice.bmj.com)
+2. De Backer D, Creteur J, Preiser JC, et al. Microvascular blood flow is altered in patients with sepsis.
+Am J Respir Crit Care Med. 2002 Jul 1;166(1):98-104. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12091178?tool=bestpractice.bmj.com)
+3. Vincent JL, De Backer D. Microvascular dysfunction as a cause of organ dysfunction in severe
+sepsis. Crit Care. 2005;9 Suppl 4:S9-12. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16168075?
+tool=bestpractice.bmj.com)
+4. De Backer D, Creteur J, Dubois MJ, et al. The effects of dobutamine on microcirculatory alterations
+in patients with septic shock are independent of its systemic effects. Crit Care Med. 2006
+Feb;34(2):403-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16424721?tool=bestpractice.bmj.com)
+5. Gitz Holler J, Jensen HK, Henriksen DP, et al. Etiology of shock in the emergency department:
+a 12-year population-based cohort study. Shock. 2019 Jan;51(1):60-7.  Full text (https://
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Evaluation of shock References
+REFERENCES
+www.doi.org/10.1097/SHK.0000000000000816)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27984523?tool=bestpractice.bmj.com)
+6. Hochman JS, Boland J, Sleeper LA, et al. Current spectrum of cardiogenic shock and effect of early
+revascularization on mortality. Results of an International Registry. SHOCK Registry Investigators.
+Circulation. 1995 Feb 1;91(3):873-81.  Full text (https://circ.ahajournals.org/content/91/3/873.full)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7828316?tool=bestpractice.bmj.com)
+7. Bone RC. Toward an epidemiology and natural history of SIRS (systemic inflammatory response
+syndrome). JAMA. 1992 Dec 23-30;268(24):3452-5. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/1460735?tool=bestpractice.bmj.com)
+8. Bloom JE, Andrew E, Dawson LP, et al. Incidence and outcomes of nontraumatic shock in adults using
+emergency medical services in Victoria, Australia. JAMA Netw Open. 2022 Jan 4;5(1):e2145179. 
+Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC8792885)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35080603?tool=bestpractice.bmj.com)
+9. Thayer KL, Zweck E, Ayouty M, et al. Invasive hemodynamic assessment and classification
+of in-hospital mortality risk among patients with cardiogenic shock. Circ Heart Fail. 2020
+Sep;13(9):e007099.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC10243474)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32900234?tool=bestpractice.bmj.com)
+10. Westaby S, Kharbanda R, Banning AP. Cardiogenic shock in ACS. Part 1: prediction, presentation
+and medical therapy. Nat Rev Cardiol. 2011 Dec 20;9(3):158-71.  Full text (https://www.nature.com/
+articles/nrcardio.2011.194)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22182955?
+tool=bestpractice.bmj.com)
+11. Hochman JS. Cardiogenic shock complicating acute myocardial infarction: expanding the
+paradigm. Circulation. 2003 Jun 24;107(24):2998-3002.  Full text (https://circ.ahajournals.org/
+content/107/24/2998.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12821585?
+tool=bestpractice.bmj.com)
+12. Hochman JS, Buller CE, Sleeper LA, et al. Cardiogenic shock complicating acute myocardial
+infarction - etiologies, management and outcome: a report from the SHOCK Trial Registry. SHould
+we emergently revascularize Occluded Coronaries for cardiogenic shocK? J Am Coll Cardiol.
+2000 Sep;36(3 Suppl A):1063-70. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10985706?
+tool=bestpractice.bmj.com)
+13. Vieillard-Baron A, Caille V, Charron C, et al. Actual incidence of global left ventricular hypokinesia
+in adult septic shock. Crit Care Med. 2008 Jun;36(6):1701-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18496368?tool=bestpractice.bmj.com)
+14. Hochman JS, Sleeper LA, Webb JG, et al; SHOCK Investigators. Early revascularization in acute
+myocardial infarction complicated by cardiogenic shock. N Engl J Med. 1999 Aug 26;341(9):625-34. 
+Full text (https://www.nejm.org/doi/full/10.1056/NEJM199908263410901#t=article)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10460813?tool=bestpractice.bmj.com)
+15. Rivers E, Nguyen B, Havstad S, et al. Early goal-directed therapy in the treatment of severe sepsis
+and septic shock. N Engl J Med. 2001 Nov 8;345(19):1368-77.  Full text (https://www.nejm.org/doi/
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Evaluation of shock References
+full/10.1056/NEJMoa010307#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11794169?
+tool=bestpractice.bmj.com)
+16. Sebat F, Johnson D, Musthafa AA, et al. A multidisciplinary community hospital program for early and
+rapid resuscitation of shock in nontrauma patients. Chest. 2005 May;127(5):1729-43. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15888853?tool=bestpractice.bmj.com)
+17. Semler MW, Self WH, Wanderer JP, et al. Balanced crystalloids versus saline in critically ill adults. N
+Engl J Med. 2018 Mar 1;378(9):829-39.  Full text (https://www.nejm.org/doi/10.1056/NEJMoa1711584)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29485925?tool=bestpractice.bmj.com)
+18. Lewis SR, Pritchard MW, Evans DJ, et al. Colloids versus crystalloids for fluid resuscitation in
+critically ill people. Cochrane Database Syst Rev. 2018 Aug 3;(8):CD000567.  Full text (https://
+www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000567.pub7/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30073665?tool=bestpractice.bmj.com)
+19. Crombie N, Doughty HA, Bishop JRB, et al. Resuscitation with blood products in patients with
+trauma-related haemorrhagic shock receiving prehospital care (RePHILL): a multicentre, open-
+label, randomised, controlled, phase 3 trial. Lancet Haematol. 2022 Apr;9(4):e250-e261.  Full
+text (https://pmc.ncbi.nlm.nih.gov/articles/PMC8960285)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35271808?tool=bestpractice.bmj.com)
+20. Rossaint R, Afshari A, Bouillon B, et al. The European guideline on management of major
+bleeding and coagulopathy following trauma: sixth edition. Crit Care. 2023 Mar 1;27(1):80.  Full
+text (https://pmc.ncbi.nlm.nih.gov/articles/PMC9977110)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36859355?tool=bestpractice.bmj.com)
+21. Latif RK, Clifford SP, Baker JA, et al. Traumatic hemorrhage and chain of survival. Scand J Trauma
+Resusc Emerg Med. 2023 May 24;31(1):25.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/
+PMC10207757)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37226264?tool=bestpractice.bmj.com)
+22. Ker K, Roberts I, Shakur H, et al. Antifibrinolytic drugs for acute traumatic injury. Cochrane
+Database Syst Rev. 2015 May 9;(5):CD004896.  Full text (https://onlinelibrary.wiley.com/
+doi/10.1002/14651858.CD004896.pub4/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25956410?tool=bestpractice.bmj.com)
+23. CRASH-2 collaborators, Roberts I, Shakur H, Afolabi A, et al. The importance of early treatment
+with tranexamic acid in bleeding trauma patients: an exploratory analysis of the CRASH-2
+randomised controlled trial. Lancet. 2011 Mar 26;377(9771):1096-101, 1101.e1-2. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21439633?tool=bestpractice.bmj.com)
+24. Gayet-Ageron A, Prieto-Merino D, Ker K, et al; Antifibrinolytic Trials Collaboration. Effect of treatment
+delay on the effectiveness and safety of antifibrinolytics in acute severe haemorrhage: a meta-analysis
+of individual patient-level data from 40 138 bleeding patients. Lancet. 2018 Jan 13;391(10116):125-32.
+Full text (https://www.sciencedirect.com/science/article/pii/S0140673617324558?via%3Dihub)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29126600?tool=bestpractice.bmj.com)
+25. van Diepen S, Katz JN, Albert NM, et al. Contemporary management of cardiogenic shock: a scientific
+statement from the American Heart Association. Circulation. 2017 Oct 17;136(16):e232-68.  Full
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Evaluation of shock References
+REFERENCES
+text (https://www.doi.org/10.1161/CIR.0000000000000525)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28923988?tool=bestpractice.bmj.com)
+26. Pilarczyk K, Werdan K, Russ M et al. The German-Austrian S3 guideline "cardiogenic shock due to
+myocardial infarction: diagnosis, monitoring, and treatment". Thorac Cardiovasc Surg. 2020 Dec 24. 
+Full text (https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0040-1719155)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/33368106?tool=bestpractice.bmj.com)
+27. Werdan K, Boeken U, Briegel MJ et al. Short version of the 2nd edition of the German-Austrian S3
+guidelines "Cardiogenic shock complicating myocardial infarction-diagnosis, monitoring and treatment"
+Anaesthesist. Jan 2021;70(1):42-70. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32997208?
+tool=bestpractice.bmj.com)
+28. De Luca G, Dirksen MT, Spaulding C, et al. Drug-eluting vs bare-metal stents in primary angioplasty: a
+pooled patient-level meta-analysis of randomized trials. Arch Intern Med. 2012 Apr 23;172(8):611-21;
+discussion 621-2.  Full text (https://www.doi.org/10.1001/archinternmed.2012.758)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22529227?tool=bestpractice.bmj.com)
+29. Bloom JE, Chan W, Kaye DM, et al. State of shock: contemporary vasopressor and inotrope
+use in cardiogenic shock. J Am Heart Assoc. 2023 Aug;12(15):e029787.  Full text (https://
+pmc.ncbi.nlm.nih.gov/articles/PMC10492962)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/37489740?tool=bestpractice.bmj.com)
+30. Khorsandi M, Dougherty S, Bouamra O, et al. Extra-corporeal membrane oxygenation for refractory
+cardiogenic shock after adult cardiac surgery: a systematic review and meta-analysis. J Cardiothorac
+Surg. 2017 Jul 17;12(1):55.  Full text (https://www.doi.org/10.1186/s13019-017-0618-0)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/28716039?tool=bestpractice.bmj.com)
+31. Shaker MS, Wallace DV, Golden DBK, et al. Anaphylaxis-a 2020 practice parameter update,
+systematic review, and Grading of Recommendations, Assessment, Development and Evaluation
+(GRADE) analysis. J Allergy Clin Immunol. 2020 Apr;145(4):1082-123.  Full text (https://
+www.jacionline.org/article/S0091-6749(20)30105-6/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32001253?tool=bestpractice.bmj.com)
+32. Campbell RL, Li JT, Nicklas RA, et al. Emergency department diagnosis and treatment of anaphylaxis:
+a practice parameter. Ann Allergy Asthma Immunol. 2014 Dec;113(6):599-608.  Full text (https://
+www.doi.org/10.1016/j.anai.2014.10.007)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25466802?
+tool=bestpractice.bmj.com)
+33. Golden DBK, Wang J, Waserman S, et al. Anaphylaxis: a 2023 practice parameter update. Ann
+Allergy Asthma Immunol. 2024 Feb;132(2):124-76.  Full text (https://www.annallergy.org/article/
+S1081-1206(23)01304-2/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/38108678?
+tool=bestpractice.bmj.com)
+34. Singer M, Deutschman CS, Seymour CW, et al. The Third International Consensus definitions
+for sepsis and septic shock (Sepsis-3). JAMA. 2016 Feb 23;315(8):801-10.  Full text (https://
+jamanetwork.com/journals/jama/fullarticle/2492881)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26903338?tool=bestpractice.bmj.com)
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Evaluation of shock References
+35. National Institute for Health and Care Excellence. Sepsis: recognition, diagnosis and early
+management. Mar 2024 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng51)
+36. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: International
+guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021 Nov
+1;49(11):e1063-143.  Full text (https://journals.lww.com/ccmjournal/Fulltext/2021/11000/
+Surviving_Sepsis_Campaign__International.21.aspx)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34605781?tool=bestpractice.bmj.com)
+37. Royal College of Physicians. National Early Warning Score (NEWS) 2. December 2017 [internet
+publication].  Full text (www.rcplondon.ac.uk/projects/outputs/national-early-warning-score-news-2)
+38. American College of Emergency Physicians (ACEP) Expert Panel on Sepsis. DART: an evidence-
+driven tool to guide the early recognition and treatment of sepsis and septic shock [internet
+publication].  Full text (https://poctools.acep.org/POCTool/Sepsis(DART)/276ed0a9-f24d-45f1-8d0c-
+e908a2758e5a)
+39. Academy of Medical Royal Colleges. Statement on the initial antimicrobial treatment of sepsis.
+May 2022 [internet publication].  Full text (https://www.aomrc.org.uk/wp-content/uploads/2022/05/
+Statement_on_the_initial_antimicrobial_treatment_of_sepsis_0522.pdf)
+40. Surviving Sepsis Campaign. Hour-1 bundle: initial resuscitation for sepsis and septic shock. 2019
+[internet publication].  Full text (https://sccm.org/getattachment/survivingsepsiscampaign/guidelines/
+adult-patients/surviving-sepsis-campaign-hour-1-bundle.pdf)
+41. Ling RR, Ramanathan K, Poon WH, et al. Venoarterial extracorporeal membrane oxygenation
+as mechanical circulatory support in adult septic shock: a systematic review and meta-analysis
+with individual participant data meta-regression analysis. Crit Care. 2021 Jul 14;25(1):246.  Full
+text (https://www.doi.org/10.1186/s13054-021-03668-5)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34261492?tool=bestpractice.bmj.com)
+42. Weiss SL, Peters MJ, Alhazzani W, et al. Surviving sepsis campaign international guidelines for the
+management of septic shock and sepsis-associated organ dysfunction in children. Intensive Care Med.
+2020 Feb;46(suppl 1):10-67.  Full text (https://www.doi.org/10.1007/s00134-019-05878-6)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/32030529?tool=bestpractice.bmj.com)
+43. Ramanathan K, Yeo N, Alexander P, et al. Role of extracorporeal membrane oxygenation in
+children with sepsis: a systematic review and meta-analysis. Crit Care. 2020 Dec 7;24(1):684.  Full
+text (https://www.doi.org/10.1186/s13054-020-03418-z)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33287861?tool=bestpractice.bmj.com)
+44. Rady MY, Rivers EP, Nowak RM. Resuscitation of the critically ill in the ED: responses of
+blood pressure, heart rate, shock index, central venous oxygen saturation, and lactate. Am J
+Emerg Med. 1996 Mar;14(2):218-25. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8924150?
+tool=bestpractice.bmj.com)
+45. Stickles SP, Carpenter CR, Gekle R, et al. The diagnostic accuracy of a point-of-care ultrasound
+protocol for shock etiology: A systematic review and meta-analysis. CJEM. 2019 May;21(3):406-17. 
+Full text (https://www.cambridge.org/core/journals/canadian-journal-of-emergency-medicine/article/
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Evaluation of shock References
+REFERENCES
+diagnostic-accuracy-of-a-pointofcare-ultrasound-protocol-for-shock-etiology-a-systematic-review-and-
+metaanalysis/28DF4477E868AC9A1E5A2CD70729FCAF)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30696496?tool=bestpractice.bmj.com)
+46. Stengel D, Leisterer J, Ferrada P, et al. Point-of-care ultrasonography for diagnosing thoracoabdominal
+injuries in patients with blunt trauma. Cochrane Database Syst Rev. 2018 Dec 12;(12):CD012669. 
+Full text (https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012669.pub2/full)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/30548249?tool=bestpractice.bmj.com)
+47. McLean AS. Echocardiography in shock management. Crit Care. 2016 Aug 20;20:275.  Full
+text (https://ccforum.biomedcentral.com/articles/10.1186/s13054-016-1401-7)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27543137?tool=bestpractice.bmj.com)
+48. Rady MY, Nightingale P, Little RA, et al. Shock index: a re-evaluation in acute circulatory failure.
+Resuscitation. 1992 Jun-Jul;23(3):227-34. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1321482?
+tool=bestpractice.bmj.com)
+49. Michard F, Ruscio L, Teboul JL. Clinical prediction of fluid responsiveness in acute circulatory failure
+related to sepsis. Intensive Care Med. 2001 Jul;27(7):1238. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11534577?tool=bestpractice.bmj.com)
+50. Kristensen AK, Holler JG, Hallas J, et al. Is Shock Index a valid predictor of mortality in emergency
+department patients with hypertension, diabetes, high age, or receipt of β- or calcium channel
+blockers? Ann Emerg Med. 2016 Jan;67(1):106-13. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26144893?tool=bestpractice.bmj.com)
+51. Nguyen HB, Rivers EP, Knoblich BP, et al. Early lactate clearance is associated with improved
+outcome in severe sepsis and septic shock. Crit Care Med. 2004 Aug;32(8):1637-42. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15286537?tool=bestpractice.bmj.com)
+52. Jentzer JC, Schrage B, Patel PC, et al. Association between the acidemia, lactic acidosis, and
+shock severity with outcomes in patients with cardiogenic shock. J Am Heart Assoc. 2022 May
+3;11(9):e024932.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC9238598)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35491996?tool=bestpractice.bmj.com)
+53. Yadav H, Harrison AM, Hanson AC, et al. Improving the accuracy of Cardiovascular Component of the
+Sequential Organ Failure Assessment Score. Crit Care Med. 2015 Jul;43(7):1449-57. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25785522?tool=bestpractice.bmj.com)
+54. Cabré L, Mancebo J, Solsona JF, et al; Bioethics Working Group of the SEMICYUC. Multicenter study
+of the multiple organ dysfunction syndrome in intensive care units: the usefulness of Sequential Organ
+Failure Assessment scores in decision making. Intensive Care Med. 2005 Jul;31(7):927-33. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15856171?tool=bestpractice.bmj.com)
+55. Jones AE, Trzeciak S, Kline JA. The Sequential Organ Failure Assessment score for
+predicting outcome in patients with severe sepsis and evidence of hypoperfusion at the time of
+emergency department presentation. Crit Care Med. 2009 May;37(5):1649-54.  Full text (https://
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Evaluation of shock References
+www.ncbi.nlm.nih.gov/pmc/articles/PMC2703722)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19325482?tool=bestpractice.bmj.com)
+56. Seymour CW, Liu VX, Iwashyna TJ, et al. Assessment of clinical criteria for sepsis: for the
+Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA.
+2016 Feb 23;315(8):762-74. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26903335?
+tool=bestpractice.bmj.com)
+57. Churpek MM, Snyder A, Han X, et al. Quick sepsis-related organ failure assessment, systemic
+inflammatory response syndrome, and early warning scores for detecting clinical deterioration
+in infected patients outside the intensive care unit. Am J Respir Crit Care Med. 2017 Apr
+1;195(7):906-11. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27649072?tool=bestpractice.bmj.com)
+58. Muller L, Toumi M, Bousquet PJ, et al. An increase in aortic blood flow after an infusion of 100 ml
+colloid over 1 minute can predict fluid responsiveness: the mini-fluid challenge study. Anesthesiology.
+2011 Sep;115(3):541-7.  Full text (https://pubs.asahq.org/anesthesiology/article/115/3/541/11167/
+An-Increase-in-Aortic-Blood-Flow-after-an-Infusion)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21792056?tool=bestpractice.bmj.com)
+59. Hofer CK, Müller SM, Furrer L, et al. Stroke volume and pulse pressure variation for prediction
+of fluid responsiveness in patients undergoing off-pump coronary artery bypass grafting.
+Chest. 2005;128:848-854. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16100177?
+tool=bestpractice.bmj.com)
+60. Michard F, Teboul JL. Predicting fluid responsiveness in ICU patients: a critical analysis of the
+evidence. Chest. 2002 Jun;121(6):2000-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12065368?
+tool=bestpractice.bmj.com)
+61. Cannesson M, Besnard C, Durand PG, et al. Relation between respiratory variations in pulse oximetry
+plethysmographic waveform amplitude and arterial pulse pressure in ventilated patients. Crit Care.
+2005 Oct 5;9(5):R562-8.  Full text (https://ccforum.biomedcentral.com/articles/10.1186/cc3799)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16277719?tool=bestpractice.bmj.com)
+62. Natalini G, Rosano A, Taranto M, et al. Arterial versus plethysmographic dynamic indices to test
+responsiveness for testing fluid administration in hypotensive patients: a clinical trial. Anesth
+Analg. 2006 Dec;103(6):1478-84.  Full text (https://journals.lww.com/anesthesia-analgesia/
+Fulltext/2006/12000/Arterial_Versus_Plethysmographic_Dynamic_Indices.30.aspx)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17122227?tool=bestpractice.bmj.com)
+63. Wyffels PA, Durnez PJ, Helderweirt J, et al. Ventilation-induced plethysmographic variations predict
+fluid responsiveness in ventilated postoperative cardiac surgery patients. Anesth Analg. 2007
+Aug;105(2):448-52.  Full text (https://journals.lww.com/anesthesia-analgesia/Fulltext/2007/08000/
+Ventilation_Induced_Plethysmographic_Variations.28.aspx)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17646504?tool=bestpractice.bmj.com)
+64. Cherpanath TG, Hirsch A, Geerts BF, et al. Predicting fluid responsiveness by passive leg raising:
+a systematic review and meta-analysis of 23 clinical trials. Crit Care Med. 2016 May;44(5):981-91.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26741579?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Evaluation of shock References
+REFERENCES
+65. Reynolds HR, Hochman JS. Cardiogenic shock: current concepts and improving outcomes.
+Circulation. 2008 Feb 5;117(5):686-97.  Full text (https://circ.ahajournals.org/content/117/5/686.full)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18250279?tool=bestpractice.bmj.com)
+66. Pearse R, Dawson D, Fawcett J, et al. Early goal-directed therapy after major surgery reduces
+complications and duration of hospital stay. A randomised, controlled trial [ISRCTN38797445].
+Crit Care. 2005;9(6):R687-93. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16356219?
+tool=bestpractice.bmj.com)
+67. Kandel G, Aberman A. Mixed venous oxygen saturation. Its role in the assessment of the critically
+ill patient. Arch Intern Med. 1983 Jul;143(7):1400-2. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/6870412?tool=bestpractice.bmj.com)
+68. Nelson LD. Continuous venous oximetry in surgical patients. Ann Surg. 1986 Mar;203(3):329-33.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3954486?tool=bestpractice.bmj.com)
+69. Reinhart K, Kuhn HJ, Hartog C, et al. Continuous central venous and pulmonary artery oxygen
+saturation monitoring in the critically ill. Intensive Care Med. 2004 Aug;30(8):1572-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15197435?tool=bestpractice.bmj.com)
+70. Rivers EP, Ander DS, Powell D. Central venous oxygen saturation monitoring in the critically ill patient.
+Curr Opin Crit Care. 2001 Jun;7(3):204-11. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11436529?
+tool=bestpractice.bmj.com)
+71. Rivers EP, Rady MY, Martin GB, et al. Venous hyperoxia after cardiac arrest: characterization
+of a defect in systemic oxygen utilization. Chest. 1992 Dec;102(6):1787-93. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1446489?tool=bestpractice.bmj.com)
+72. Beal AL, Cerra FB. Multiple organ failure syndrome in the 1990s. Systemic inflammatory response
+and organ dysfunction. JAMA. 1994 Jan 19;271(3):226-33. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8080494?tool=bestpractice.bmj.com)
+73. Varpula M, Tallgren M, Saukkonen K, et al. Hemodynamic variables related to outcome in septic
+shock. Intensive Care Med. 2005 Aug;31(8):1066-71. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15973520?tool=bestpractice.bmj.com)
+74. National Institute for Health and Care Excellence. High-sensitivity troponin tests for the early rule out of
+NSTEMI. NICE guideline DG40 diagnostics guidance. Aug 2020 [internet publication]  Full text (https://
+www.nice.org.uk/guidance/dg40)
+75. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022 May 3;145(18):e895-e1032.  Full text
+(https://www.doi.org/10.1161/CIR.0000000000001063)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35363499?tool=bestpractice.bmj.com)
+76. Tenner S, Vege SS, Sheth SG, et al. American College of Gastroenterology Guidelines:
+management of acute pancreatitis. Am J Gastroenterol. 2024 Mar 1;119(3):419-37.  Full text (https://
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Evaluation of shock References
+journals.lww.com/ajg/fulltext/2024/03000/american_college_of_gastroenterology_guidelines_.14.aspx) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/38857482?tool=bestpractice.bmj.com)
+77. American Society for Clinical Pathology. Do not test for amylase in cases of suspected
+acute pancreatitis. Instead, test for lipase. Sep 2016 [internet publication].  Full text (https://
+www.choosingwisely.org/clinician-lists/american-society-clinical-pathology-testing-for-amylase)
+78. Rompianesi G, Hann A, Komolafe O, et al. Serum amylase and lipase and urinary trypsinogen
+and amylase for diagnosis of acute pancreatitis. Cochrane Database Syst Rev. 2017 Apr 21;
+(4):CD012010.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6478262)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28431198?tool=bestpractice.bmj.com)
+79. Leppäniemi A, Tolonen M, Tarasconi A, et al. 2019 WSES guidelines for the management of severe
+acute pancreatitis. World J Emerg Surg. 2019;14:27.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/
+PMC6567462)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31210778?tool=bestpractice.bmj.com)
+80. National Institute for Health and Care Excellence. Anaphylaxis: assessment and referral after
+emergency treatment. Aug 2020 [internet publication].  Full text (https://www.nice.org.uk/guidance/
+cg134)
+81. Sampson HA, Mendelson L, Rosen JP. Fatal and near-fatal anaphylactic reactions to food in
+children and adolescents. N Engl J Med. 1992 Aug 6;327(6):380-4.  Full text (https://www.nejm.org/
+doi/10.1056/NEJM199208063270603?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200www.ncbi.nlm.nih.gov)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1294076?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Evaluation of shock Images
+IMAGES
+Images
+Figure 1: Sequential (or Sepsis-related) Organ Failure Assessment (SOFA) criteria
+Created by BMJ, adapted from Vincent JL, Moreno R, Takala J, et al. The SOFA (Sepsis-related Organ
+Failure Assessment) score to describe organ dysfunction/failure. On behalf of the Working Group on
+Sepsis-Related Problems of the European Society of Intensive Care Medicine. Intensive Care Med.
+1996;22:707-710.
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Evaluation of shock Images
+Figure 2: Parameters to differentiate between types of shock and examples
+Adapted with permission from "Rady MY. Bench-to-bedside review: Resuscitation in the emergency
+department. Crit Care. 2005;9:170-176".
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Evaluation of shock Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Evaluation of shock Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Feb 13, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Contributors:
+// Authors:
+Samuel J. Stratton, MD, MPH
+Professor
+Fielding School of Public Health, Professor, The David Geffen School of Medicine, University of California,
+Los Angeles, CA
+DISCLOSURES: SJS declares that he has no competing interests.
+// Acknowledgements:
+Dr Samuel J. Stratton would like to gratefully acknowledge Dr Patrick Nee, Dr Joseph C. Farmer, and Dr
+Srikanth Hosur, the previous contributors to this topic.
+DISCLOSURES: PN, JCF, and SH declare that they have no competing interests.
+// Peer Reviewers:
+Armand Mekontso Dessap, MD, PhD
+Assistant Professor
+Medical Intensive Care Unit, Henri Mondor Hospital, Creteil, France
+DISCLOSURES: AMD declares that he has no competing interests.
+Ethan Cumbler, MD
+Assistant Professor
+Department of Internal Medicine, University of Colorado Health Sciences Center, Denver, CO
+DISCLOSURES: EC declares that he has no competing interests.
+Haibo Wang, MD, PhD
+Assistant Professor
+LSU Health Sciences Center, Shreveport, LA
+DISCLOSURES: HW declares that he has no competing interests.
+Karim Bendjelid, MD, PhD
+Médecin Adjoint Agrégé
+Intensive Care Division, Geneva University Hospitals, Geneva, Switzerland
+DISCLOSURES: KB declares that he has no competing interests.

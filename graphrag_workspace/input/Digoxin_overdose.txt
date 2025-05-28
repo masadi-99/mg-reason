@@ -1,0 +1,1450 @@
+# Digoxin overdose
+
+=== Page 1 ===
+Digoxin overdose
+Straight to the point of care
+Last updated: Apr 16, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  5
+Classification  5
+Case history  6
+Diagnosis  7
+Approach  7
+History and exam  8
+Risk factors  9
+Investigations  11
+Differentials  12
+Criteria  13
+Management  14
+Approach  14
+Treatment algorithm overview  17
+Treatment algorithm  19
+Primary prevention  25
+Secondary prevention  26
+Patient discussions  26
+Follow up  27
+Monitoring  27
+Complications  27
+Prognosis  27
+Guidelines  28
+Treatment guidelines  28
+References  29
+Images  34
+Disclaimer  35
+=== Page 3 ===
+Digoxin overdose Overview
+Summary
+Digoxin overdose can be acute or chronic, intentional, or accidental.
+Typically presents with components of gastrointestinal, constitutional, and/or cardiovascular symptoms.
+Diagnosis is based on symptoms and laboratory data. At therapeutic digoxin doses (0.5 to 0.9 nanograms/
+mL), the ECG typically shows PR-interval prolongation and a scooped ST segment. In overdose, ECG also
+shows signs of increased automaticity (premature ventricular contractions), atrioventricular nodal blockade,
+and slowed ventricular response.
+Treatment includes digoxin-specific antibody fragments and supportive care. Lidocaine and phenytoin can be
+used for cardiac dysrhythmias when antibody fragments are unavailable.
+There are no long-term complications of poisoning in patients treated appropriately for chronic digoxin
+toxicity, as long as anoxic brain injury, myocardial infarction, or terminal dysrhythmias have not occurred prior
+to treatment.
+Definition
+Digoxin is the most commonly prescribed cardioactive corticosteroid in the US. It is indicated for the
+treatment of mild to moderate heart failure.[1] In therapeutic doses, digoxin increases cardiac contractility
+and controls the heart rate.
+Digoxin toxicity is a clinical diagnosis that relies in part on ECG findings such as signs of increased
+automaticity and atrioventricular node blockade (premature ventricular contractions, slowed ventricular
+response). Serum digoxin concentration is usually greater than the therapeutic range of 0.5 to 0.9
+nanograms/mL, but may not be elevated. In addition to pharmaceuticals, toxicity can also occur from
+exposure to a number of plants and animals that contain cardioactive corticosteroids, including dogbane,
+foxglove, lily of the valley, oleander, yellow oleander, red quill, and the  Bufo  species toad. Although these
+other toxins are clinically similar, this topic specifically discusses toxicity from digoxin.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Digoxin overdose Theory
+THEORY
+Epidemiology
+Digoxin usage is decreasing due to its inferiority to other heart failure medications and digoxin toxicity has,
+therefore, become less common; but it is at risk of being overlooked.[2]
+Using 2005–2010 reports from the National Electronic Injury Surveillance System, an estimated 5156
+emergency department visits for digoxin toxicity occurred annually in the US, of which >75% resulted in
+hospital admissions.[3] Digoxin toxicity accounted for approximately 1.0% of all emergency department visits
+for all adverse drug events among patients aged ≥40 years; this figure was estimated to be 3.3% for patients
+aged ≥85 years.[3]
+In 2022, the American Association of Poison Control Centers reported 266 fatalities following exposure
+to cardiovascular drugs; digoxin was the first ranked pharmaceutical in 21 of these deaths.[4] Patients
+aged >55 years are more commonly affected, but toxicity occurs in both young and old people.[5] [6] Drug-
+drug interactions involving digoxin are a common cause of adverse drug effects in older people.[7] Rate of
+emergency department visits and hospitalization for digoxin toxicity appear to be greater for women than
+men.[3] [8]
+Young children are mainly at risk of unintentional medication overdose; adults are mainly at risk from
+intentional ingestions in a suicide attempt. Dosing errors, increased bioavailability, and decreased clearance
+may also result in overdose.
+Etiology
+Digoxin toxicity can occur through a number of different mechanisms:
+Acute
+• Overdose after suicide attempt
+• Medication dosing error
+• Malicious intent (homicidal poisoning).
+Chronic
+• Chronic digoxin overmedication
+• Increased gastrointestinal absorption (caused by antibacterial therapy, or by drug-induced P-
+glycoprotein inhibition)[9] [10] [11]
+• Decreased renal clearance due to renal insufficiency or drugs[12] [13] [14] [15] [16]
+• Displacement of digoxin from protein-binding sites[12] [13] [15]
+• Conditions that increase susceptibility to digoxin (electrolyte abnormalities, e.g., hypokalemia,
+hypomagnesemia, hypercalcemia)[17] [18]
+• Digoxin is largely dependent on p-glycoprotein for elimination. Thus, medications that inhibit p-
+glycoprotein may increase digoxin levels and potentially cause toxicity. These are numerous,
+but clinically significant ones include verapamil, diltiazem, amiodarone, quinidine, ketoconazole,
+itraconazole, vinblastine, doxorubicin, 2,4-dinitrophenol, and erythromycin. These substances may
+also inhibit cytochrome 3A4.[19] Others include clarithromycin, cyclosporine, propafenone, quinidine,
+and spironolactone.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Digoxin overdose Theory
+Pathophysiology
+Digoxin inhibits Na+/K+ ATPase. This increases cytosolic Ca, which increases inotropy. Abnormal sodium,
+potassium, or magnesium levels and acidosis increase toxicity by further depressing the Na+/K+ ATPase
+pump.
+Therapeutically, digoxin increases automaticity and shortens the repolarization intervals of the atria
+and ventricles. There is a concurrent decrease in depolarization and conduction through the sinoatrial
+and atrioventricular (AV) nodes, respectively. These changes are reflected on the ECG by a decrease
+in ventricular response rate PR-interval prolongation, QT-interval shortening, and ST-segment and T-
+wave forces opposite the direction of the major QRS forces (scooped ST segment). This results in the
+characteristic digitalis effect.[20]
+In overdose, digoxin produces two major effects that correlate with its therapeutic action:
+1. Slowed conduction by increasing block at the AV node
+2. Increased automatic triggered electrical activity in atrial muscle, the AV junction, the His-Purkinje
+system, and the ventricular muscle (increased automaticity)
+Digoxin toxicity can also cause hyperkalemia, which increases the risk of dysrhythmias. Toxicity depends on
+intracellular levels and does not correlate well with serum levels. Noncardiac adverse effects may also be
+mediated by inhibition of Na+/K+ ATPase in other tissues.[21]
+ECG showing digoxin effect
+From the collection of Dr Robert S. Hoffman
+Classification
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Digoxin overdose Theory
+THEORY
+Acute toxicity: patients who take a digoxin overdose when they are not prescribed digoxin themselves (i.e.,
+patients who take an accidental or intentional overdose when not already prescribed digoxin for an existing
+condition).
+Acute on chronic toxicity: patients who are prescribed digoxin for an existing condition and take a digoxin
+overdose. Acute overdose in patients on regular therapy is expected to be more toxic than in patients who
+are not already taking therapeutic digoxin.
+Chronic toxicity: patients who present with digoxin toxicity because of drug accumulation (commonly due to
+renal failure) without having taken an overdose.
+Case history
+Case history #1
+An 86-year-old woman presents with confusion and vomiting. She complains of weakness, nausea, and
+decreased appetite. Her history is significant for congestive heart failure for which she takes, among
+other medications, digoxin. In the hospital, she is alert and oriented in person, but not in time or place.
+Vital signs are normal except for a heart rate of 56 bpm. Her physical examination demonstrates bibasilar
+rales, irregular S1, S2 with an S3 gallop, and bilateral lower extremity 2+ pitting edema up to her shins.
+Case history #2
+A 19-year-old woman presents approximately 30 minutes after ingesting 30 of her grandmother's 0.25 mg
+digoxin tablets in a suicide attempt. In the hospital, her vital signs are normal. She is in no acute distress
+and has no complaints; physical examination is within expected limits. About 30 minutes after arrival, she
+complains of nonspecific abdominal pain and starts vomiting.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Digoxin overdose Diagnosis
+Approach
+History and physical examination can provide clues towards the diagnosis of digoxin overdose. ECG, digoxin
+level, electrolytes, and renal function tests should be ordered in all patients who present with suspected
+digoxin toxicity or exposure. Digoxin toxicity should be suspected in patients with a history of heart failure
+or atrial fibrillation, particularly in patients with renal insufficiency. A drug history should be taken, including
+any supplements, herbal remedies, over the counter medications and any plant ingestions, with particular
+attention to the use of p-glycoprotein/cytochrome 3A4 inhibitors.
+History and exam in acute toxicity
+In acute digoxin toxicity, patients or family members may provide the history of exposure or suicidality.
+Acute digoxin toxicity is characterized by patients being asymptomatic for minutes to hours after an
+exposure to digoxin, followed by a rapid deterioration. The symptoms usually include nausea, vomiting,
+anorexia, diarrhea, and/or abdominal pain (less common), and may include palpitations, syncope and
+dyspnea. Acute digoxin toxicity may cause virtually any dysrhythmia. The 2 medications used most
+commonly in clinical practice are digoxin and digitoxin.
+History and exam in chronic toxicity
+Chronic digoxin toxicity is more common in elderly patients. It has a more indolent course with a less
+obvious presentation. It should be considered if the following symptoms are present: nausea, anorexia,
+abdominal pain, weakness, fatigue, palpitations, syncope, dyspnea, disturbances of color vision with
+a tendency to yellow halos (xanthopsia), blurred vision, and diplopia. Patients most often present with
+gastrointestinal signs (anorexia and vomiting) and generalized nonspecific complaints (generalized
+weakness and malaise), but could also present with central nervous system depression.
+Investigations to order
+A 12-lead ECG should be performed in all patients who present with suspected digoxin toxicity or
+exposure.
+Serum digoxin concentrations should be measured, but are only truly reflective after distribution is
+complete (4 to 6 hours after the last dose). Levels are drawn immediately on presentation, but often a
+second level will be required, as levels drawn too early are not reflective of distributed levels. There is
+no exact serum digoxin concentration (SDC) that is predictive of chronic toxicity. There are a number of
+factors that can affect a patient's susceptibility to digoxin (e.g., hypokalemia, volume status, comorbidities,
+age, and chronic disease).[22] Patients not taking digoxin may have measurable digoxin levels that
+result from high circulating amounts of endogenous digoxin-like substances (EDLS). Conditions such
+as pregnancy, renal failure, and hypothermia are associated with EDLS; however, levels rarely exceed
+0.2 nanograms/mL in these patients. Also, spironolactone and nondigoxin cardioactive corticosteroids
+such as digitoxin and oleandrin can cause false-positive elevations of digoxin levels. Additionally,
+Asian, Siberian, and American ginseng are known to interfere with serum digoxin measurements using
+fluorescence polarization technology.[25]
+Serum potassium concentrations are important as a marker for prognosis in acute digoxin toxicity, and
+also reflect the severity of the toxicity.
+Renal function should be assessed as this influences the rate of clearance of digoxin from the
+bloodstream.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Digoxin overdose Diagnosis
+DIAGNOSIS
+In addition, serum magnesium should be measured, as low levels exacerbate cardiac manifestations of
+digoxin toxicity.
+Diagnostic findings in acute toxicity
+Classically, patients with acute digoxin toxicity have:
+• Dysrhythmias, which are associated with increased automaticity and decreased atrioventricular
+(AV) conduction (e.g., atrial flutter and atrial fibrillation with high-degree AV block, nonparoxysmal
+atrial tachycardia with block, accelerated junctional rhythms, and/or bidirectional ventricular
+tachycardia).[26] Premature ventricular contractions are the most common dysrhythmia. Bigeminy
+or trigeminy occur frequently. The only rhythm disturbances that are not definitively associated
+with digoxin toxicity are supraventricular tachyarrhythmias with a rapid ventricular response: for
+example, supraventricular tachycardia and sinus tachycardia.
+• Hyperkalemia (≥5.5 mEq/L).
+• Elevated digoxin serum concentration above 0.9 nanograms/mL in patients taking digoxin for heart
+failure.[24]
+ECG showing digoxin toxicity
+From the collection of Dr Robert S. Hoffman
+Diagnostic findings in chronic toxicity
+Chronic digoxin toxicity is most often associated with:
+• Bradyarrhythmias (ventricular tachyarrhythmias also occur)
+• Normal or low serum potassium concentrations (they can also be high)
+• Elevated serum digoxin concentrations (above the recommended therapeutic levels of <1
+nanogram/mL in patients taking digoxin for heart failure)
+History and exam
+Key diagnostic factors
+digoxin exposure (common)
+• History of exposure to digoxin or digitoxin should be confirmed if possible.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Digoxin overdose Diagnosis
+gastrointestinal#symptoms (common)
+• Typically include nausea, vomiting, diarrhea, abdominal pain, or anorexia.
+central#nervous system symptoms (common)
+• Typically include lethargy, weakness, and confusion.
+visual symptoms (uncommon)
+• Typically include disturbances of color vision with a tendency to perceive yellow halos around objects
+(xanthopsia), blurred vision, and diplopia. Xanthopsia is not as common in digoxin overdose as it is in
+digitoxin overdose.
+Other diagnostic factors
+suicidality (common)
+• Patients or family members may provide the history of exposure or suicidality in acute digoxin toxicity.
+cardiovascular symptoms (common)
+• Typically include palpitations, syncope, arrhythmias, and dyspnea.
+Risk factors
+Strong
+age >55 years
+• Older adults (aged >55 years) are at risk for toxicity from a number of mechanisms, such as dosing
+error, chronic medical conditions, decreased clearance, increased bioavailability, and interaction with
+other chronic medications.[5]
+decreased renal clearance
+• Patients with decreased glomerular filtration rate are more susceptible to digoxin toxicity because of
+decreased clearance of digoxin from the serum.
+hyperkalemia (>5.0 mEq/L)
+• Patients with hyperkalemia (>5.0 mEq/L) are more at risk of digoxin toxicity and of dysrhythmias,
+leading to a worse prognosis. However, acute digoxin toxicity can also cause hyperkalemia. Other
+causes of hyperkalemia include hemolysis, renal failure, and use of ACE inhibitors.
+hypokalemia (<3.0 to 3.5 mEq/L)
+• Patients with therapeutic serum concentrations of digoxin can be symptomatic if they have
+hypokalemia.[22]
+concomitant use of specific drugs
+• Digoxin is largely dependent on p-glycoprotein for elimination. Thus, medications that inhibit p-
+glycoprotein may increase digoxin levels and potentially cause toxicity.
+• These are numerous, but clinically significant ones include verapamil, diltiazem, amiodarone,
+quinidine, ketoconazole, itraconazole, vinblastine, doxorubicin, 2,4-dinitrophenol, and
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Digoxin overdose Diagnosis
+DIAGNOSIS
+erythromycin.[19] Others include clarithromycin, cyclosporine, propafenone, quinidine, and
+spironolactone.
+• Other mechanisms may also affect digoxin levels. Amiodarone decreases renal clearance and
+displaces digoxin from its protein-binding sites. Quinidine is also able to displace digoxin from its
+protein-binding sites. Spironolactone may increase prerenal state, thereby potentiating a state of
+decreased renal clearance. Verapamil may decrease renal clearance. Antibiotics inhibit antibacterial
+activity (against gastrointestinal bacteria) and could increase the amount of digoxin absorbed from the
+gastrointestinal tract.
+hypomagnesemia
+• Some electrolyte abnormalities increase susceptibility to digoxin.
+hypercalcemia
+• Some electrolyte abnormalities increase susceptibility to digoxin.
+Weak
+hypothyroidism
+• Recognized risk factor for developing digoxin toxicity.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Digoxin overdose Diagnosis
+Investigations
+1st test to order
+Test Result
+ECG
+• A 12-lead ECG should be performed in all patients who present with
+suspected digoxin toxicity or exposure.
+• Sinus tachycardia, supraventricular tachycardia, and atrial fibrillation
+with rapid ventricular response are usually not seen with digoxin
+toxicity. The ECG may show the characteristic scooped ST segment
+in therapeutic doses.
+premature ventricular
+contractions,
+bidirectional ventricular
+tachycardia, atrial
+tachycardia with variable
+or slow ventricular
+response, accelerated
+junctional rhythms
+digoxin serum concentration
+• Measured for every patient suspected of digoxin exposure or toxicity,
+but is only truly reflective after distribution is complete (4-6 hours after
+the last dose). Levels are drawn immediately on presentation, but
+often a second level will be required, as levels drawn too early are not
+reflective of distributed levels.
+• There is no exact serum digoxin concentration that is predictive
+of chronic toxicity. There are a number of factors that can affect a
+patient's susceptibility to digoxin (e.g., hypokalemia, volume status,
+comorbidities, age, and chronic disease).[22]
+• Patients not taking digoxin may have measurable digoxin levels that
+result from high circulating amounts of endogenous digoxin-like
+substances (EDLS). Conditions such as pregnancy, renal failure, and
+hypothermia are associated with EDLS; however, levels rarely exceed
+0.2 nanograms/mL in these patients.
+• Also, spironolactone and nondigoxin cardioactive corticosteroids
+such as digitoxin and oleandrin can cause false-positive elevations
+of digoxin levels. Additionally, Asian, Siberian, and American ginseng
+are known to interfere with serum digoxin measurements using
+fluorescence polarization technology.[25]
+over the therapeutic range
+of 0.5 to 0.9 nanograms/
+mL in patients taking
+digoxin for heart failure
+serum potassium level
+• Required for every patient suspected of digoxin toxicity.
+• Hyperkalemia: serum potassium concentrations are important as
+a marker for prognosis in acute digoxin toxicity, and also reflect the
+severity of the toxicity. Patients with hyperkalemia (>5.0 mEq/L) are
+more at risk of digoxin toxicity and of dysrhythmias. However, acute
+digoxin toxicity can also cause hyperkalemia by inhibiting the Na+/K
++ ATPase pump. Other causes of hyperkalemia include hemolysis,
+renal failure, and use of ACE inhibitors.
+• Hypokalemia: chronic digoxin toxicity does not cause hypokalemia,
+but digoxin toxicity is worsened by hypokalemia. Patients with
+therapeutic serum concentrations of digoxin can develop symptoms
+of digoxin toxicity because hypokalemia acts synergistically with
+digoxin's mechanism of action.[22]
+hyperkalemia (>5.0 mEq/L)
+or hypokalemia (<3.0 to 3.5
+mEq/L)
+serum magnesium level
+• Cardiac manifestations of chronic digoxin toxicity are worsened by
+hypomagnesemia.[22]
+may be low
+serum creatinine and BUN
+• Renal function and volume status affect clearance.
+may be elevated
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Digoxin overdose Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Beta-blocker toxicity • Hypotension, possible
+depressed mental status.
+• ECG (slow ventricular rate,
+AV nodal blockade with
+associated dysrhythmias).
+• Blood glucose:
+hypoglycemia.
+Calcium-channel blocker
+toxicity
+• Hypotension, usually normal
+mental status.
+• ECG (slow ventricular rate,
+AV nodal blockade with
+associated dysrhythmias).
+• Blood glucose:
+hyperglycemia.
+Clonidine toxicity • Hypotension, bradycardia,
+lethargy.
+• Occasionally responsive to
+naloxone.
+• Normal or therapeutic serum
+digoxin concentration.
+Hypothermia • Hypothermia, cool
+extremities, hypotension,
+ventricular dysrhythmias with
+rapid ventricular response.
+• Normal or therapeutic serum
+digoxin concentration.
+Organophosphate
+poisoning
+• Salivation, lacrimation,
+urination, and bronchorrhea.
+• Normal or therapeutic serum
+digoxin concentration.
+Ischemic heart disease • Hypotension, bradycardia,
+chest pain or discomfort,
+history of exertional dyspnea
+with angina or anginal
+equivalent.
+• Normal or therapeutic serum
+digoxin concentration.
+Acute MI • Chest discomfort and/or
+pain, dyspnea, vomiting,
+pain characteristic of cardiac
+etiology, bradycardia,
+hypotension.
+• Normal or therapeutic serum
+digoxin concentration.
+Elevated intracranial
+pressure
+• Altered mental status,
+hypertension, sinus
+bradycardia (but could
+possibly have other
+bradycardic rhythms).
+• Normal or therapeutic serum
+digoxin concentration.
+Hyperkalemia • Patients with hyperkalemia
+due to other etiologies
+(e.g., diminished potassium
+excretion, excessive
+endogenous potassium
+load, pseudohyperkalemia,
+redistribution from within
+cells into plasma) are
+typically awake and not
+lethargic.
+• Normal or therapeutic serum
+digoxin concentration.
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Digoxin overdose Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+• Patients with chronic renal
+insufficiency may present
+with lethargy and with any
+number of other nonspecific
+complaints. Patients with
+hyperkalemia may also
+present as completely
+asymptomatic.
+Hypothyroidism • Cold intolerance, fatigue,
+depression, thinning of
+hair, lethargy, or abnormal
+menstrual cycle.
+• Elevated TSH and
+decreased T4 levels are
+useful in the diagnosis.
+Criteria
+Serum digoxin concentration
+Serum digoxin concentration is usually over the therapeutic range of 0.5 to 0.9 nanograms/mL in patients
+taking digoxin for heart failure. However, some patients can be toxic at therapeutic digoxin serum
+concentrations.
+Severity
+Significant overdose, requiring treatment with digoxin-specific antibody fragments intravenously, is
+characterized by:
+• Symptomatic bradyarrhythmias
+• Ventricular dysrhythmias
+• Any patient with acute digoxin overdose and potassium concentrations >5.0 mEq/L
+• Acute ingestion of >4 mg in a healthy child (or 0.1 mg/kg)
+• Acute ingestion of >10 mg in a healthy adult
+• Serum concentration of ≥10 nanograms/mL 4 to 6 hours after ingestion (steady state)
+• Serum concentration of ≥15 nanograms/mL at any time
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Digoxin overdose Management
+MANAGEMENT
+Approach
+The main goal of treatment is to correct cardiac toxicity. Treatment of cardiac toxicity usually leads to
+resolution of central nervous system and gastrointestinal (GI) symptoms.
+Initial treatment includes:
+• General supportive care
+• Discontinuation of digoxin therapy and prevention of further exposure
+• Prevention of further GI absorption
+• Administration of digoxin-specific antibody fragments (digoxin immune Fab)
+• Treatment of specific complications: for example, dysrhythmias and electrolyte abnormalities
+Treatment of chronic toxicity is based on a clinical syndrome, not the serum digoxin concentration, which
+might be just above the therapeutic range. If a serum digoxin concentration cannot be obtained, patients are
+managed based on their presentation, ECG findings, and laboratory results. If toxicity is suspected and the
+patient is unstable, antidotal therapy is administered prior to confirmatory results. For patients with chronic
+digitalis poisoning, therapy may require only a few Fab vials. There is no change in therapy for renal failure
+other than to note that the elimination half-life of digoxin is prolonged in patients with renal failure.
+Supportive care
+General supportive care includes attaching patients to a cardiac monitor, providing intravenous fluids in
+patients with hypotension or volume depletion (with caution for patients with congestive heart failure),
+supplemental oxygen, and/or repletion of electrolytes in patients with electrolyte abnormalities.
+Digoxin binding therapy
+Digoxin binding (with digoxin immune Fab) is used in patients with the following features:
+• Severe toxicity or hemodynamic compromise
+• Symptomatic bradyarrhythmias
+• Ventricular dysrhythmias
+• Any patient with digoxin overdose and potassium concentrations >5.0 mEq/L
+• Acute ingestion of >4 mg in a healthy child (or 0.1 mg/kg)
+• Acute ingestion of >10 mg in a healthy adult
+• Serum concentration of ≥10 nanograms/mL 4-6 hours after ingestion (steady state)
+• Serum concentration of ≥15 nanograms/mL at any time
+If indicated, 15 vials of Fab is the quantity typically needed to treat one patient.[27] One study suggests
+1-2 vials administered in a stepwise fashion based on clinical response.[28] Patients who receive digoxin
+immune Fab have a drop in the serum potassium as it moves intracellularly.[29] [30] [31] Some patients
+who have been treated for hyperkalemia and who have also received digoxin immune Fab develop
+profound hypokalemia. Therefore, serial potassium measurements are made when patients receive both
+digoxin immune Fab and other therapies to decrease potassium.[32]
+After administration of digoxin immune Fab, serum digoxin concentrations are usually falsely elevated (10-
+to 30-fold). Serum digoxin concentration can be measured again 3-4 days after the dose is given, but has
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Digoxin overdose Management
+been reported to be elevated for up to 10 days, especially in patients with renal insufficiency.[33] [34] [35]
+In certain patients with chronic digoxin toxicity, supportive case is suggested to have similar outcomes to
+digoxin Fab.[36]
+Management of electrolyte abnormalities
+In patients with chronic digoxin toxicity, hyperkalemia is only corrected (e.g., with insulin/glucose) if it is
+considered life-threatening, because of the risk of producing hypokalemia. One study showed that insulin
+interacts directly with Na+/K+ ATPase pumps and alters the effect of digoxin.[37] This supports the finding
+that for patients with diabetes, insulin does not have cardioprotective effects after digoxin intoxication.
+Calcium is not used to treat hyperkalemia in patients with suspected digoxin toxicity as it may induce
+arrhythmia or cardiac arrest.
+Patients with acute digoxin toxicity and serum potassium concentrations ≥5.0 mEq/L are treated with
+digoxin immune Fab; those with hyperkalemia have high mortality rates.
+Patients with hypokalemia or hypomagnesemia require additional potassium or magnesium with careful
+monitoring to restore normal serum levels.
+GI decontamination
+There is a role for GI decontamination with activated charcoal in patients with an acute ingestion of
+digoxin with low to moderate toxicity.[38] [39] [40] The primary goal of activated charcoal is to decrease GI
+absorption of the drug.[39] [40]
+Bradycardia management
+If digoxin-binding therapy is not immediately available patients with symptomatic bradycardia can be
+treated with atropine.[32]  In adults, atropine can be given every 3-5 minutes until there is a response or
+the 3-mg maximum dose is reached. Pediatric patients with symptomatic bradycardia require lower doses
+of atropine. Alternatively, a temporary pacing wire can be inserted in patients with evidence of significant
+bradycardia or atrioventricular (AV) block and hemodynamic compromise if digoxin-specific antibody (Fab)
+fragments are not readily available.
+Tachyarrhythmia management
+Type IB anti-arrhythmics (e.g., phenytoin, lidocaine) can be used if digoxin immune Fab is unavailable or
+is being prepared and patients have rapid ventricular dysrhythmias unresponsive to supportive measures.
+Transthoracic electrical cardioversion for atrial tachyarrhythmias is associated with the development of
+lethal ventricular dysrhythmias, so is not used.[41]
+Overdrive suppression with a transvenous pacemaker is also avoided because of associated iatrogenic
+complications that have been seen in as many as 36% of patients.[42] [43]
+Patients with ventricular fibrillation or pulseless ventricular tachycardia require defibrillation along with
+immunotherapy.
+Hemodynamic compromise management
+In patients with signs of hemodynamic insufficiency and/or compromise (e.g., hypotension, altered
+consciousness), digoxin immune Fab is given as primary management. As a bridge to the administration
+of digoxin immune Fab, intravenous fluids and direct-acting vasopressors (e.g., phenylephrine,
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Digoxin overdose Management
+MANAGEMENT
+norepinephrine) are used. Cardiac contractility (inotropy) is typically preserved in patients with digoxin
+toxicity. Alternatively, a temporary pacing wire can be inserted in patients with evidence of significant
+bradycardia or AV block and hemodynamic compromise if digoxin-specific antibody (Fab) fragments are
+not readily available.
+Ongoing monitoring and change of medication
+Ideally, digoxin is discontinued and a different medication for rate control or a different inotrope prescribed
+(for atrial fibrillation, atrial flutter or CHF, respectively). If the patient has to remain on digoxin for some
+reason, then the dose of digoxin is adjusted for the patient's medication profile. Glomerular filtration rate
+and serum digoxin concentration is monitored regularly (every 2-4 weeks).
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Digoxin overdose Management
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+acute ingestion, low to moderate
+toxicity
+1st activated charcoal
+plus supportive care
+with hypokalemia plus potassium replacement
+with hyperkalemia plus observation ± correction of hyperkalemia
+with hypomagnesemia plus magnesium replacement
+chronic ingestion, low to moderate
+toxicity
+1st supportive care
+with hypokalemia plus potassium replacement
+with hyperkalemia plus observation ± correction of hyperkalemia
+with hypomagnesemia plus magnesium replacement
+severe toxicity or hemodynamic
+compromise (acute or chronic
+toxicity)
+1st digoxin binding
+plus supportive care
+with hypokalemia plus potassium replacement
+with hyperkalemia plus observation ± correction of hyperkalemia
+with hypomagnesemia plus magnesium replacement
+with symptomatic
+bradycardia/high-degree
+atrioventricular (AV) block
+plus atropine or temporary pacing wire
+with ventricular
+tachyarrhythmias
+plus defibrillation plus antiarrhythmics
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Digoxin overdose Management
+MANAGEMENT
+Ongoing ( summary )
+acute or chronic toxicity after initial
+treatment
+1st prescription of alternative drug and
+discontinuation of digoxin
+2nd digoxin dose adjustment and regular
+monitoring
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Digoxin overdose Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+acute ingestion, low to moderate
+toxicity
+1st activated charcoal
+Primary options
+» charcoal, activated: 1 g/kg orally as a single
+dose, repeat every 2-4 hours if required,
+maximum 4 doses total
+» Activated charcoal is administered to decrease
+gastrointestinal absorption of the drug; however,
+serum concentrations may also be decreased by
+facilitating gut dialysis via the enterohepatic and
+enteroenteric recirculation of digoxin (and other
+cardioactive corticosteroids).[39] [40]
+» Effective in the first 6-8 hours post-ingestion.
+» If severe toxicity, activated charcoal may
+be omitted and digoxin immune Fab given
+immediately.
+» Caution should be taken in patients who vomit
+or those with altered mental status. They are at
+risk of pulmonary aspiration when drinking the
+solution.
+plus supportive care
+Treatment recommended for ALL patients in
+selected patient group
+» General supportive care includes attaching
+patients to a cardiac monitor, providing
+intravenous fluids in patients with hypotension
+or volume depletion (with caution for patients
+with congestive heart failure), supplemental
+oxygen, and/or repletion of electrolytes in
+patients with electrolyte abnormalities. Patients
+with hypokalemia or hypomagnesemia require
+additional potassium or magnesium with careful
+monitoring to restore normal serum levels.
+with hypokalemia plus potassium replacement
+Treatment recommended for ALL patients in
+selected patient group
+» Potassium should be given via cautious
+intravenous infusion to restore serum potassium
+to normal levels.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Digoxin overdose Management
+MANAGEMENT
+Acute
+» Replacement should follow local hospital
+protocols.
+» The serum potassium should be checked at
+intervals and therapy adjusted as needed.
+with hyperkalemia plus observation ± correction of hyperkalemia
+Treatment recommended for ALL patients in
+selected patient group
+» Hyperkalemia is only corrected (e.g.,
+with insulin/glucose) if it is considered life-
+threatening, because of the risk of producing
+hypokalemia.
+» If required, correction should follow local
+hospital protocols. Calcium is not used to treat
+hyperkalemia in patients with suspected digoxin
+toxicity as it may induce arrhythmia or cardiac
+arrest.
+with hypomagnesemia plus magnesium replacement
+Treatment recommended for ALL patients in
+selected patient group
+» Magnesium should be given via cautious
+intravenous infusion to restore serum
+magnesium to normal levels.
+» Replacement should follow local hospital
+protocols.
+» The serum magnesium should be checked at
+intervals and therapy adjusted as needed.
+chronic ingestion, low to moderate
+toxicity
+chronic ingestion, low to
+moderate toxicity
+1st supportive care
+» Treatment of chronic toxicity is based on
+a clinical syndrome, not the serum digoxin
+concentration, which might be just above
+the therapeutic range. If a serum digoxin
+concentration cannot be obtained, patients are
+managed based on their presentation, ECG
+findings, and laboratory results.
+» General supportive care includes attaching
+patients to a cardiac monitor, providing
+intravenous fluids in patients with hypotension
+or volume depletion (with caution for patients
+with congestive heart failure), supplemental
+oxygen, and/or repletion of electrolytes in
+patients with electrolyte abnormalities. Patients
+with hypokalemia or hypomagnesemia require
+additional potassium or magnesium with careful
+monitoring to restore normal serum levels.
+with hypokalemia plus potassium replacement
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Digoxin overdose Management
+Acute
+Treatment recommended for ALL patients in
+selected patient group
+» Potassium should be given via cautious
+intravenous infusion to restore serum potassium
+to normal levels.
+» Replacement should follow local hospital
+protocols.
+» The serum potassium should be checked at
+intervals and therapy adjusted as needed.
+with hyperkalemia plus observation ± correction of hyperkalemia
+Treatment recommended for ALL patients in
+selected patient group
+» Hyperkalemia is only corrected (e.g.,
+with insulin/glucose) if it is considered life-
+threatening, because of the risk of producing
+hypokalemia.
+» If required, correction should follow local
+hospital protocols. Calcium is not used to treat
+hyperkalemia in patients with suspected digoxin
+toxicity as it may induce arrhythmia or cardiac
+arrest.
+with hypomagnesemia plus magnesium replacement
+Treatment recommended for ALL patients in
+selected patient group
+» Magnesium should be given via cautious
+intravenous infusion to restore serum
+magnesium to normal levels.
+» Replacement should follow local hospital
+protocols.
+» The serum magnesium should be checked at
+intervals and therapy adjusted as needed.
+severe toxicity or hemodynamic
+compromise (acute or chronic
+toxicity)
+1st digoxin binding
+Primary options
+» digoxin immune Fab: consult specialist for
+guidance on dose
+» Digoxin binding is used in patients with
+severe toxicity or hemodynamic compromise;
+symptomatic bradyarrhythmias; ventricular
+dysrhythmias; any patient with digoxin overdose
+and potassium concentrations >5.0 mEq/L; acute
+ingestion of >4 mg in a healthy child (or 0.1 mg/
+kg); acute ingestion of >10 mg in a healthy adult;
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Digoxin overdose Management
+MANAGEMENT
+Acute
+serum concentration of ≥10 nanograms/mL 4-6
+hours after ingestion (steady state); and serum
+concentration of ≥15 nanograms/mL at any time.
+» There are formulae available within the
+package insert for calculating the neutralising
+dose of digoxin immune Fab, based on total
+body burden or total dose ingested.[44] In acute
+toxicity, 15 vials of Fab is the quantity typically
+needed to treat one patient.[27] One study
+suggests 1-2 vials administered in a stepwise
+fashion based on clinical response.[28] For
+patients with chronic digitalis poisoning, therapy
+may require only a few Fab vials.
+» Patients who receive digoxin immune Fab
+have a drop in the serum potassium as it moves
+intracellularly.[29] [30] [31] Some patients
+who have been treated for hyperkalemia and
+who have also received digoxin immune Fab
+develop profound hypokalemia. Therefore,
+serial potassium measurements are made when
+patients receive both digoxin immune Fab and
+other therapies to decrease potassium.[32]
+» After administration of digoxin immune Fab,
+serum digoxin concentrations are usually
+falsely elevated (10- to 30-fold). Serum digoxin
+concentration can be measured again 3-4 days
+after dose is given, but has been reported to be
+elevated for up to 10 days, especially in patients
+with renal insufficiency.[33] [34] [35]
+» Patients may rarely develop a rate-related
+infusion reaction, in which case the infusion
+should be stopped and restarted at a slower
+infusion rate. There is a higher risk for a reaction
+if no filter is used when giving digoxin immune
+Fab.
+» After administration, serum total digoxin
+concentrations are no longer useful because
+elevated levels reflect both free digoxin and
+digoxin bound to Fab.[33] There are assays
+that are able to determine free digoxin serum
+concentrations, but they are not always routinely
+available.
+plus supportive care
+Treatment recommended for ALL patients in
+selected patient group
+» General supportive care includes attaching
+patients to a cardiac monitor, providing
+intravenous fluids in patients with hypotension or
+volume depletion (with caution for patients with
+congestive heart failure), supplemental oxygen,
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Digoxin overdose Management
+Acute
+and/or repletion of electrolytes in patients with
+electrolyte abnormalities.
+» Patients with hypokalemia or hypomagnesemia
+require additional potassium or magnesium
+with careful monitoring to restore normal serum
+levels.
+» In patients with chronic digoxin toxicity,
+hyperkalemia is only corrected (e.g., with insulin/
+glucose) if it is considered life-threatening,
+because of the risk of producing hypokalemia.
+Calcium is not used to treat hyperkalemia in
+patients with suspected digoxin toxicity as it may
+induce arrhythmia or cardiac arrest.
+with hypokalemia plus potassium replacement
+Treatment recommended for ALL patients in
+selected patient group
+» Potassium should be given via cautious
+intravenous infusion to restore serum potassium
+to normal levels.
+» Replacement should follow local hospital
+protocols.
+» The serum potassium should be checked at
+intervals and therapy adjusted as needed.
+with hyperkalemia plus observation ± correction of hyperkalemia
+Treatment recommended for ALL patients in
+selected patient group
+» Hyperkalemia is only corrected (e.g.,
+with insulin/glucose) if it is considered life-
+threatening, because of the risk of producing
+hypokalemia.
+» If required, correction should follow local
+hospital protocols. Calcium is not used to treat
+hyperkalemia in patients with suspected digoxin
+toxicity as it may induce arrhythmia or cardiac
+arrest.
+with hypomagnesemia plus magnesium replacement
+Treatment recommended for ALL patients in
+selected patient group
+» Magnesium should be given via cautious
+intravenous infusion to restore serum
+magnesium to normal levels.
+» Replacement should follow local hospital
+protocols.
+» The serum magnesium should be checked at
+intervals and therapy adjusted as needed.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Digoxin overdose Management
+MANAGEMENT
+Acute
+with symptomatic
+bradycardia/high-degree
+atrioventricular (AV) block
+plus atropine or temporary pacing wire
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» atropine: children: 0.02 mg/kg (minimum
+0.1 mg, maximum 0.5 mg) intravenously as a
+single dose, may repeat once only, maximum
+1 mg/total dose; adults: 0.5 mg intravenously
+every 3-5 minutes, maximum 3 mg/total dose
+» If digoxin-binding therapy is not immediately
+available patients with symptomatic bradycardia
+can be treated with atropine.[32]
+» In adults, atropine can be given every 3-5
+minutes until there is a response or the 3-mg
+maximum dose is reached. Pediatric patients
+with symptomatic bradycardia require lower
+doses of atropine.
+» Alternatively, a temporary pacing wire can be
+inserted in patients with evidence of significant
+bradycardia or AV block and hemodynamic
+compromise if digoxin-specific antibody (Fab)
+fragments are not readily available.
+with ventricular
+tachyarrhythmias
+plus defibrillation plus antiarrhythmics
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» phenytoin: children: 1.25 mg/kg
+intravenously every 5 minutes, maximum
+15 mg/kg total dose; adults: 50-100 mg
+intravenously every 10-15 minutes, maximum
+15 mg/kg total dose
+Secondary options
+» lidocaine: children: 1 mg/kg intravenous
+bolus initially, followed by 30-50 micrograms/
+kg/min infusion; adults: 1 to 1.5 mg/kg
+intravenous bolus initially, followed by 1-4 mg/
+min infusion
+» Patients with ventricular fibrillation or pulseless
+ventricular tachycardia require defibrillation along
+with immunotherapy.
+» Antiarrhythmics are administered while
+awaiting digoxin immune Fab. Type IB
+antiarrhythmics (e.g., lidocaine, phenytoin) have
+a fast-on, fast-off effect at the Na+ channel, and
+these drugs depress the enhanced ventricular
+automaticity without significantly slowing
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Digoxin overdose Management
+Acute
+atrioventricular (AV) nodal conduction. Phenytoin
+may perhaps enhance AV nodal conduction.[45]
+[46] Phenytoin can terminate digitalis-induced
+cardiac arrhythmias better than lidocaine.[46]
+» Type 1A (e.g., quinidine, procainamide)
+and 1C (e.g., flecainide, propafenone)
+antiarrhythmics are contraindicated.
+Ongoing
+acute or chronic toxicity after initial
+treatment
+1st prescription of alternative drug and
+discontinuation of digoxin
+» Ideally, digoxin is discontinued and a different
+medicine for rate control or a different inotrope
+prescribed (for atrial fibrillation, atrial flutter or
+congestive heart failure, respectively).
+2nd digoxin dose adjustment and regular
+monitoring
+» If the patient has to remain on digoxin for some
+reason, then the dose of digoxin is adjusted
+for the patient's medication profile. Glomerular
+filtration rate and serum digoxin concentration is
+monitored regularly (every 2-4 weeks).
+Primary prevention
+Certain cardiac conditions, such as intermittent complete heart block, myocarditis, second degree
+atrioventricular block, supraventricular arrhythmias associated with accessory conducting pathways, and
+ventricular tachycardia or fibrillation, are contraindications to prescribing digoxin. Digoxin should be used with
+caution in some patients, such as those with renal impairment.
+Patients on digoxin require periodic monitoring of their renal function and adjustment of their digoxin dose if
+creatinine clearance has changed.
+Routine monitoring of serum digoxin concentration is not recommended. Serum digoxin concentration
+is measured 2-3 weeks after any change in therapy or addition of a new medication. Serum digoxin
+concentrations are unreliable if obtained earlier than 6 hours after a dose of digoxin.[23] The current
+therapeutic serum digoxin concentration is 0.5 to 0.9 nanograms/mL in patients with heart failure.[24] It
+should be noted that toxicity can occur even when the serum digoxin concentration is within the therapeutic
+range, though this is extremely rare. Therefore, results need to be interpreted within the clinical context.
+Patients with renal impairment, hypokalemia, hypomagnesemia, and hypothyroidism may be at higher risk of
+digoxin intoxication than others.[23]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Digoxin overdose Management
+MANAGEMENT
+Secondary prevention
+Alternative treatments are effective for two of the major clinical indications for digoxin, congestive heart
+failure and atrial fibrillation, and may be considered in place of digoxin, particularly in a patient who has
+experienced toxicity.[23] [24]
+Patient discussions
+If a patient suspects that they have overdosed on their medication, they should seek urgent medical
+attention. Patients should also beware inadvertent overdose of cardiac glycosides, which can result from
+herbal remedies or plant ingestion, and to consult their physician prior to initiating such regimens. Toxicity
+can also occur because of drug accumulation (commonly due to renal failure) without the patient having
+taken an overdose of their prescribed medication.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Digoxin overdose Follow up
+Monitoring
+Monitoring
+After administration of digoxin immune Fab, total serum digoxin concentrations are usually elevated (10-
+to 30-fold) as they include both free and bound digoxin. Serum digoxin concentration can be measured
+again 3-4 days after dose is given but has been reported to be elevated for up to 10 days, especially in
+patients with renal insufficiency.[33][35]
+Complications
+Complications Timeframe Likelihood
+anaphylactoid (anaphylaxis-like) reaction to digoxin
+immune Fab
+short term low
+This usually is a rate-related phenomenon associated with the infusion of Fab minutes after infusion is
+started. A membrane filter will reduce the risk of a reaction. If the reaction occurs, the infusion needs to be
+stopped and restarted at a slower rate.
+recurrence of previous underlying atrial fibrillation or
+heart failure after digoxin immune Fab therapy
+short term low
+Atrial fibrillation (AF) occurs at a median of 7 days after therapy with Fab, affecting about 2% of treated
+patients in one study.[49] Patients who have been treated with Fab are monitored for development of
+uncontrolled AF or worsening heart failure and given additional treatment as required.
+cardiac arrest short term low
+There have been reported cases of patients who had cardiac arrest with prolonged resuscitation who
+received digoxin immune Fab after the arrest and recovered.[31]
+Prognosis
+The prognosis for patients who are treated appropriately is very good. Patients generally have no long-term
+adverse outcomes related to their digoxin toxicity.[29] [48] Patients who present with acute digoxin toxicity
+and have serum potassium concentrations of ≥5.0 mEq/L, who remain untreated and/or undiagnosed, have
+a mortality of 50%.[42] Patients who present with chronic digoxin toxicity and remain undiagnosed and/or
+untreated have a reported mortality of 5% to 13%.[5]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Digoxin overdose Guidelines
+GUIDELINES
+Treatment guidelines
+International
+2018 ACC/AHA/HRS Guideline on the evaluation and management of patients
+with bradycardia and cardiac conduction delay (https://www.hrsonline.org/
+Policy-Payment/Clinical-Guidelines-Documents)   [32]
+Published by: American College of Cardiology, American Heart
+Association & Heart Rhythm Society
+Last published: 2019
+Position statement and practice guidelines on the use of multi-dose activated
+charcoal in the treatment of acute poisoning (https://www.clintox.org/
+resources/position-statements)   [47]
+Published by: American Academy of Clinical Toxicology; European
+Association of Poisons Centres and Clinical Toxicologists
+Last published: 1999
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Digoxin overdose References
+Key articles
+• Gheorghiade M, van Veldhuisen DJ, Colucci WS. Contemporary use of digoxin in the management
+of cardiovascular disorders. Circulation. 2006 May 30;113(21):2556-64. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16735690?tool=bestpractice.bmj.com)
+• Smith TW, Haber E, Yeatman L, et al. Reversal of advanced digoxin intoxication with Fab fragments
+of digoxin-specific antibodies. N Engl J Med. 1976 Apr 8;294(15):797-800. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/943040?tool=bestpractice.bmj.com)
+• Smith TW, Butler VP Jr, Haber E, et al. Treatment of life-threatening digitalis intoxication
+with digoxin-specific Fab antibody fragments: experience in 26 cases. N Engl J Med.
+1982 Nov 25;307(22):1357-62. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6752715?
+tool=bestpractice.bmj.com)
+• Bismuth C, Gaultier M, Conso F, et al. Hyperkalemia in acute digitalis poisoning: prognostic
+significance and therapeutic implications. Clin Toxicol. 1973;6(2):153-62. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/4715199?tool=bestpractice.bmj.com)
+• Taboulet P, Baud FJ, Bismuth C, et al. Acute digitalis intoxication--is pacing still appropriate? J
+Toxicol Clin Toxicol. 1993;31(2):261-73. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8492339?
+tool=bestpractice.bmj.com)
+References
+1. Withering W. An account of the foxglove, and some of its medical uses: with practical remarks on
+dropsy and other diseases. Birmingham: Swinney for Robinson; 1785.
+2. Yang EH, Shah S, Criley JM. Digitalis toxicity: a fading but crucial complication to recognize.
+Am J Med. 2012 Apr;125(4):337-43. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22444097?
+tool=bestpractice.bmj.com)
+3. See I, Shehab N, Kegler SR, et al. Emergency department visits and hospitalizations for digoxin
+toxicity: United States, 2005 to 2010. Circ Heart Fail. 2014 Jan;7(1):28-34.  Full text (https://
+www.doi.org/10.1161/CIRCHEARTFAILURE.113.000784)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24300242?tool=bestpractice.bmj.com)
+4. Gummin DD, Mowry JB, Beuhler MC, et al. 2022 Annual report of the National Poison Data
+System® (NPDS) from America's Poison Centers®: 40th annual report. Clin Toxicol (Phila).
+2023 Oct;61(10):717-939.  Full text (https://www.aapcc.org/annual-reports)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38084513?tool=bestpractice.bmj.com)
+5. Ordog GJ, Benaron S, Bhasin V, et al. Serum digoxin levels and mortality in 5100 patients. Ann
+Emerg Med. 1987 Jan;16(1):32-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3800074?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Digoxin overdose References
+REFERENCES
+6. Miura T, Kojima R, Sugiura Y, et al. Effect of aging on the incidence of digoxin toxicity. Ann
+Pharmacother. 2000 Apr;34(4):427-32.  Full text (https://www.doi.org/10.1345/aph.19103)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/10772425?tool=bestpractice.bmj.com)
+7. Obreli-Neto PR, Nobili A, de Oliveira Baldoni A, et al. Adverse drug reactions caused by drug-
+drug interactions in elderly outpatients: a prospective cohort study. Eur J Clin Pharmacol.
+2012 Dec;68(12):1667-76. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22644345?
+tool=bestpractice.bmj.com)
+8. Aarnoudse AL, Dieleman JP, Stricker BH. Age- and gender-specific incidence of
+hospitalisation for digoxin intoxication. Drug Saf. 2007;30(5):431-6.  Full text (https://
+www.doi.org/10.2165/00002018-200730050-00006)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17472421?tool=bestpractice.bmj.com)
+9. Bizjak ED, Mauro VF. Digoxin-macrolide drug interaction. Ann Pharmacother. 1997 Sep;31(9):1077-9.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9296249?tool=bestpractice.bmj.com)
+10. De Lannoy IA, Koren G, Klein J, et al. Cyclosporin and quinidine inhibition of renal digoxin excretion:
+evidence for luminal secretion of digoxin. Am J Physiol. 1992 Oct;263(4 Pt 2):F613-22. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1357987?tool=bestpractice.bmj.com)
+11. Hanratty CG, McGlinchey P, Johnston GD, et al. Differential pharmacokinetics of digoxin in
+elderly patients. Drugs Aging. 2000 Nov;17(4):353-62. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11190416?tool=bestpractice.bmj.com)
+12. Fenster PE, White NW Jr, Hanson CD. Pharmacokinetic evaluation of the digoxin-amiodarone
+interaction. J Am Coll Cardiol. 1985 Jan;5(1):108-12. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/3964797?tool=bestpractice.bmj.com)
+13. Moysey JO, Jaggarao NS, Grundy EN, et al. Amiodarone increases plasma digoxin concentrations.
+Br Med J 1981 Jan 24;282(6260):272.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC1504064/pdf/bmjcred00642-0028a.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6779981?
+tool=bestpractice.bmj.com)
+14. Pedersen KE, Dorph-Pedersen A, Hvidt S, et al. Digoxin-verapamil interaction. Clin Pharmacol
+Ther. 1981 Sep;30(3):311-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7273594?
+tool=bestpractice.bmj.com)
+15. Schenck-Gustafsson K, Dahlqvist R. Pharmacokinetics of digoxin in patients subjected to the
+quinidine-digoxin interaction. Br J Clin Pharmacol. 1981 Feb;11(2):181-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7213521?tool=bestpractice.bmj.com)
+16. Waldorff S, Hansen PB, Egeblad H, et al. Interactions between digoxin and potassium-sparing
+diuretics. Clin Pharmacol Ther. 1983 Apr;33(4):418-23. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/6831820?tool=bestpractice.bmj.com)
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Digoxin overdose References
+17. Colt HG, Shapiro AP: Drug-induced illness as a cause for admission to a community hospital. J
+Am Geriatr Soc. 1989 Apr;37(4):323-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2921453?
+tool=bestpractice.bmj.com)
+18. Steiness E. Digoxin toxicity compared with myocardial digoxin and potassium concentration. Br J
+Pharmacol. 1978 Jun;63(2):233-7.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1668410)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/667416?tool=bestpractice.bmj.com)
+19. Kim RB, Wandel C, Leake B, et al. Interrelationship between substrates and inhibitors of human
+CYP3A and P-glycoprotein. Pharm Res. 1999 Mar;16(3):408-14. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10213372?tool=bestpractice.bmj.com)
+20. Rosen MR, Wit AL, Hoffman BF. Electrophysiology and pharmacology of cardiac arrhythmias. IV.
+Cardiac antiarrhythmic and toxic effects of digitalis. Am Heart J. 1975 Mar;89(33):391-9. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/1090138?tool=bestpractice.bmj.com)
+21. Mandreperla SA, Johnson MA, Nakatani K. Electrophysiologic and electroretinographic evidence for
+photoreceptor dysfunction as a toxic effect of digoxin. Arch Ophthalmol. 1994 Jun;112(6):807-12.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8002841?tool=bestpractice.bmj.com)
+22. Wofford JL, Hickey AR, Ettinger WH, et al. Lack of age-related differences in the clinical presentation
+of digoxin toxicity. Arch Intern Med. 1992 Nov;152(11):2261-4. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/1444686?tool=bestpractice.bmj.com)
+23. Gheorghiade M, van Veldhuisen DJ, Colucci WS. Contemporary use of digoxin in the management
+of cardiovascular disorders. Circulation. 2006 May 30;113(21):2556-64. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16735690?tool=bestpractice.bmj.com)
+24. Rathore SS, Curtis JP, Wang Y, et al. Association of serum digoxin concentration and outcomes in
+patients with heart failure. JAMA. 2003 Feb 19;289(7):871-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12588271?tool=bestpractice.bmj.com)
+25. Baugher BW, Berman M, Dierksen JE, et al. Digoxin immunoassays on the ARCHITECT i2000SR and
+ARCHITECT c8000 analyzers are free from interferences of Asian, Siberian, and American Ginseng.
+J Clin Lab Anal. 2015 Jan;29(1):1-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24659366?
+tool=bestpractice.bmj.com)
+26. Marchlinski FE, Hook BG, Callans DJ, et al. Which cardiac disturbances should be treated with
+digoxin immune Fab (ovine) antibody? Am J Emerg Med. 1991 Mar;9(2 Suppl 1):24-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1997018?tool=bestpractice.bmj.com)
+27. Dart RC, Goldfrank LR, Erstad BL, et al. Expert Consensus guidelines for stocking of antidotes in
+hospitals that provide emergency care. Ann Emerg Med. 2018 Mar;71(3):314-25.e1.  Full text (https://
+www.sciencedirect.com/science/article/pii/S0196064417306571?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28669553?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Digoxin overdose References
+REFERENCES
+28. Chan BS, Buckley NA. Digoxin-specific antibody fragments in the treatment of digoxin toxicity. Clin
+Toxicol (Phila). 2014 Sep-Oct;52(8):824-36. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25089630?
+tool=bestpractice.bmj.com)
+29. Antman EM, Wenger TL, Butler VP Jr, et al. Treatment of 150 cases of life-threatening digitalis
+intoxication with digoxin-specific Fab antibody fragments: final report of a multicenter study.
+Circulation. 1990;81:1744-1752. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2188752?
+tool=bestpractice.bmj.com)
+30. Smith TW, Haber E, Yeatman L, et al. Reversal of advanced digoxin intoxication with Fab fragments
+of digoxin-specific antibodies. N Engl J Med. 1976 Apr 8;294(15):797-800. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/943040?tool=bestpractice.bmj.com)
+31. Smith TW, Butler VP Jr, Haber E, et al. Treatment of life-threatening digitalis intoxication
+with digoxin-specific Fab antibody fragments: experience in 26 cases. N Engl J Med.
+1982 Nov 25;307(22):1357-62. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6752715?
+tool=bestpractice.bmj.com)
+32. Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/HRS Guideline on the evaluation
+and management of patients with bradycardia and cardiac conduction delay: a report of the
+American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. J Am Coll Cardiol.2019 Aug 20;74(7):e51-156.  Full
+text (https://www.hrsonline.org/Policy-Payment/Clinical-Guidelines-Documents)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30412709?tool=bestpractice.bmj.com)
+33. Lemon M, Andrews DJ, Binks AM, et al. Concentrations of free serum digoxin after treatment with
+antibody fragments. Br Med J (Clin Res Ed). 1987 Dec 12;295(6612):1520-1.  Full text (http://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC1248668/pdf/bmjcred00050-0022.pdf)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3122885?tool=bestpractice.bmj.com)
+34. Miller JJ, Straub RW Jr, Valdes R Jr. Analytical performance of a monoclonal digoxin assay with
+increased specificity on the ACS:180. Ther Drug Monit. 1996 Feb;18(1):65-72. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8848824?tool=bestpractice.bmj.com)
+35. Rainey PM. Effects of digoxin immune Fab (ovine) on digoxin immunoassays. Am J Clin Pathol. 1989
+Dec;92(6):779-86. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2686397?tool=bestpractice.bmj.com)
+36. Chan BS, Isbister GK, Page CB, et al. Clinical outcomes from early use of digoxin-specific antibodies
+versus observation in chronic digoxin poisoning (ATOM-4). Clin Toxicol (Phila). 2018 Dec 26:1-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30585517?tool=bestpractice.bmj.com)
+37. Oubaassine R, Weckering M, Kessler L, et al. Insulin interacts directly with Na(+)/K(+)ATPase
+and protects from digoxin toxicity. Toxicology. 2012 Sep 4;299(1):1-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22562035?tool=bestpractice.bmj.com)
+38. de Silva HA, Fonseka MM, Pathmeswaran A, et al. Multiple-dose activated charcoal for treatment
+of yellow oleander poisoning: a single-blind, randomised, placebo-controlled trial. Lancet.
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Digoxin overdose References
+2003 Jun 7;361(9373):1935-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12801736?
+tool=bestpractice.bmj.com)
+39. Boldy DA, Smart V, Vale JA. Multiple doses of charcoal in digoxin poisoning. Lancet. 1985 Nov
+9;2(8463):1076-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/2865561?tool=bestpractice.bmj.com)
+40. Ibanez C, Carcas AJ, Frias J, et al. Activated charcoal increases digoxin elimination in patients.
+Int J Cardiol. 1995 Jan 27;48(1):27-30. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7744534?
+tool=bestpractice.bmj.com)
+41. Sarubbi B, Ducceschi V, D'Andrea A, et al. Atrial fibrillation: what are the effects of drug therapy on the
+effectiveness and complications of electrical cardioversion? Can J Cardiol. 1998 Oct;14(10):1267-73.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9852940?tool=bestpractice.bmj.com)
+42. Bismuth C, Gaultier M, Conso F, et al. Hyperkalemia in acute digitalis poisoning: prognostic
+significance and therapeutic implications. Clin Toxicol. 1973;6(2):153-62. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/4715199?tool=bestpractice.bmj.com)
+43. Taboulet P, Baud FJ, Bismuth C, et al. Acute digitalis intoxication--is pacing still appropriate? J
+Toxicol Clin Toxicol. 1993;31(2):261-73. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8492339?
+tool=bestpractice.bmj.com)
+44. Bateman DN. Digoxin-specific antibody fragments: how much and when? Toxicol
+Rev. 2004;23(3):135-43. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15862081?
+tool=bestpractice.bmj.com)
+45. Helfant RH, Scherlag BJ, Damato AN. Protection from digitalis toxicity with the prophylactic use of
+diphenylhydantoin sodium. An arrhythmic-inotropic dissociation. Circulation. 1967 Jul;36(4):119-24.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6027207?tool=bestpractice.bmj.com)
+46. Rumack BH, Wolfe RR, Gilfrich H. Phenytoin (diphenylhydantoin) treatment of massive digoxin
+overdose. Br Heart J. 1974 Apr;36(4):405-8.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC1020039/pdf/brheartj00266-0085.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/4842639?
+tool=bestpractice.bmj.com)
+47. American Academy of Clinical Toxicology; European Association of Poisons Centres and Clinical
+Toxicologists. Position statement and practice guidelines on the use of multi-dose activated charcoal
+in the treatment of acute poisoning. J Toxicol Clin Toxicol. 1999;37(6):731-51.  Full text (http://
+www.clintox.org/wp-content/uploads/2016/04/Position-Statement-Multi-Dose-Activated-Charcoal-1.pdf)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10584586?tool=bestpractice.bmj.com)
+48. Kirkpatrick CH. Allergic histories and reactions of patients treated with digoxin immune Fab (ovine)
+antibody. The Digibind Study Advisory Panel. Am J Emerg Med. 1991 Mar;9(2 suppl 1):7-10. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/1997020?tool=bestpractice.bmj.com)
+49. Smith TW. Review of clinical experience with digoxin immune Fab (ovine). Am J Emerg
+Med. 1991 Mar;9(2 Suppl 1):1-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1997014?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Digoxin overdose Images
+IMAGES
+Images
+Figure 1: ECG showing digoxin effect
+From the collection of Dr Robert S. Hoffman
+Figure 2: ECG showing digoxin toxicity
+From the collection of Dr Robert S. Hoffman
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Digoxin overdose Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Digoxin overdose Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 16, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Contributors:
+// Authors:
+Scott Phillips, MD
+Associate Clinical Professor of Medicine
+Department of Clinical Pharmacology and Toxicology, University of Colorado, Denver, CO, Associate
+Medical Director, Washington Poison Center, Seattle, WA
+DISCLOSURES: SP declares that he has no competing interests.
+// Acknowledgements:
+Dr Scott Phillips would like to gratefully acknowledge Dr Oladapo A. Odujube and Dr Robert S. Hoffman,
+previous contributors to this topic.
+DISCLOSURES: OAO and RSH declare that they have no competing interests.
+// Peer Reviewers:
+Edward W. Boyer, MD
+University of Massachusetts Medical School
+Worcester, MA
+DISCLOSURES: EWB declares that he has no competing interests.
+Ruben Thanacoody, MD, FRCP(Edin)
+Consultant Physician and Clinical Toxicologist
+National Poisons Information Service (Newcastle), Newcastle-upon-Tyne, UK
+DISCLOSURES: RT declares that he has no competing interests.

@@ -1,0 +1,1604 @@
+# Chronic venous insufficiency
+
+=== Page 1 ===
+Chronic venous
+insufficiency
+Straight to the point of care
+Last updated: Jun 22, 2023
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  4
+Case history  6
+Diagnosis  7
+Approach  7
+History and exam  11
+Risk factors  17
+Tests  18
+Differentials  19
+Criteria  20
+Management  23
+Approach  23
+Treatment algorithm overview  26
+Treatment algorithm  27
+Emerging  31
+Primary prevention  31
+Secondary prevention  32
+Patient discussions  32
+Follow up  33
+Monitoring  33
+Complications  34
+Prognosis  35
+Guidelines  36
+Diagnostic guidelines  36
+Treatment guidelines  37
+References  38
+Images  43
+Disclaimer  47
+=== Page 3 ===
+Chronic venous insufficiency Overview
+Summary
+Chronic venous insufficiency signs and symptoms include increasing leg pain, fatigue, and heaviness with
+prolonged standing, associated with dilated tortuous veins.
+More severe cases exhibit progressive skin changes, venous stasis dermatitis, lipodermatosclerosis, and
+frank ulceration.
+Underlying venous insufficiency is most efficiently documented, localized, and graded by duplex ultrasound.
+Conservative treatment requires graded compression.
+Open surgical or endovenous treatment options may be used in highly selected cases.
+Venous ulceration and bleeding are recognized complications.
+Definition
+Chronic venous insufficiency (CVI) refers to functional changes that may occur in the lower extremity due to
+persistent elevation of venous pressures. This most commonly results from venous reflux due to faulty valve
+function developing as a long-term sequela of deep vein thrombosis (DVT) and recanalization, and may also
+develop due to primary valvular incompetence without previous episode(s) of DVT. The term CVI is usually
+reserved for more advanced disease involving edema, skin changes, or frank ulcers.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Chronic venous insufficiency Theory
+THEORY
+Epidemiology
+Prevalence estimates for CVI vary widely, depending on geographic region and diagnostic criteria.[3] [4] [5]
+[6][7] [8] In one systematic review, the estimated pooled prevalence was 8% for class C3 (edema), 4% for
+class C4 (skin changes secondary to CVI), 1% for class C5 (healed venous ulcer), and 0.42% for class C6
+(active venous ulcer).[4]
+Common risk factors for chronic venous disease, and CVI, are increasing age, female sex, obesity, family
+history, and occupations with prolonged standing.
+Etiology
+CVI is caused by functional abnormalities in lower extremity veins. The abnormality is usually reflux, but it
+can also be chronic obstruction or a combination of the two. It occurs in as many as 50% of people within
+5-10 years of an episode of deep vein thrombosis (DVT).[9] Congenital absence of the venous valves is
+a less common cause, and isolated primary varicose veins (pure superficial incompetence) uncommonly
+causes severe CVI.
+Pathophysiology
+Normal venous return from the extremities to the heart requires the presence of normal calf and foot muscle
+pumps, patent veins, and competent valves. Theoretically, problems with any of these systems can result in
+venous insufficiency.
+Severe CVI usually results from chronic valvular reflux, less commonly from venous obstruction, and
+frequently from a combination of both. These pathophysiologic changes produce ambulatory venous
+hypertension. While walking, people with normal venous function have a relatively low extremity venous
+pressure (<20 mmHg). This can more than double in people with deep system incompetence.
+The typical constellation of findings that ensue include edema, lipodermatosclerosis, and eventual ulceration.
+Lipodermatosclerosis characteristically results from capillary proliferation, fat necrosis, and fibrosis of the skin
+and subcutaneous tissues. Hyperpigmentation (usually a reddish-brown discoloration) of the ankle and lower
+leg is also known as brawny edema. It results from extravasation of blood and deposition of hemosiderin in
+the tissues due to long-standing ambulatory venous hypertension.
+The fibrin cuff hypothesis of Burnand suggests that the problem is venous hypertension with resultant
+extravasation of plasma proteins and fibrinogen into the soft tissue, resulting in a fibrin cuff around the
+capillaries and tissue hypoxia. The white cell trapping theory of Coleridge-Smith suggests that white cells are
+trapped in capillaries due to venous hypertension with secondary escape of proteins into the interstitial space
+and resultant diminished tissue oxygenation.[10]
+Classification
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Chronic venous insufficiency Theory
+2020 update of the Clinical, Etiological, Anatomical, and
+Pathophysiological (CEAP) classification system[1]
+The CEAP classification is an internationally recognized standard for describing patients with chronic
+venous disorders, originally developed in 1993 and updated in 1996, 2004, and 2020. It is based on clinical
+manifestations, etiology, involved anatomy, and the underlying venous pathology.[1]
+This staging system is extensive, but the clinical class is the only aspect in common use.
+Clinical class
+• C0: no visible or palpable signs of venous disease
+• C1: telangiectasias or reticular veins
+• C2: varicose veins
+• C2r: recurrent varicose veins
+• C3: edema
+• C4: changes in skin and subcutaneous tissue secondary to chronic venous disease (now divided into
+three subclasses to better define the differing severity of venous disease)
+• C4a: pigmentation or eczema
+• C4b: lipodermatosclerosis or atrophie blanche
+• C4c: corona phlebectatica
+• C5: healed venous ulcer
+• C6: active venous ulcer
+• C6r: recurrent active venous ulcer.
+Each clinical class may be subcharacterized as:
+• S: symptomatic (including ache, pain, tightness, skin irritation, heaviness, muscle cramps, and other
+complaints attributable to venous dysfunction)
+• A: asymptomatic.
+Etiologic class
+• Ec: congenital
+• Ep: primary
+• Es: secondary
+• Esi: secondary - intravenous
+• Ese: secondary - extravenous
+• En: no venous cause identified.
+Anatomic class
+• As: superficial veins
+• Ap: perforator veins
+• Ad: deep veins
+• An: no venous location identified.
+Pathophysiologic class (accompanied by the anatomic location)
+• Pr: reflux
+• Po: obstruction
+• Pr,o: reflux and obstruction
+• Pn: no venous pathophysiology identifiable.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Chronic venous insufficiency Theory
+THEORY
+CVI corresponds with C3 to C6 of the CEAP classification.[2]
+Case history
+Case history #1
+A 55-year-old man presents with a 6-month history of a large wound on his right lower leg. He has had
+chronically swollen legs for >10 years. He notes that his brother (deceased, myocardial infarction) and
+mother (deceased, pulmonary embolism) had similar problems in their legs. He had two documented
+episodes of deep vein thrombosis (DVT) in the affected leg 5 years earlier.
+Case history #2
+A 70-year-old woman presents with gradual, progressive leg swelling. She also has itching, occasional
+skin flaking, and darkness of the leg. The swelling gets worse as the day progresses. Various topical
+agents have provided little relief.
+Other presentations
+Patients with CVI may also present with superficial thrombophlebitis, which presents as localized pain,
+tenderness, and erythema in the involved area. Skin changes may be advanced in CVI patients with more
+severe disease (e.g., pigmentation, eczema, frank ulceration). The skin and subcutaneous tissues may
+also be fibrotic with brawny induration, a condition known as lipodermatosclerosis.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Chronic venous insufficiency Diagnosis
+Approach
+The diagnosis of CVI is based on a careful clinical history, a thorough physical exam, and targeted
+investigations.
+Clinical history
+Patients may present with symptoms of heavy legs, leg fatigue, aching, and/or discomfort that develop
+and worsen toward the end of the day and on prolonged standing, and improve on elevation. Burning
+and itching of the skin and leg cramps may be present and are often associated with venous stasis
+and eczema. Initially, periodic elevation may reduce the swelling, but more severe cases almost always
+require additional control through compression.[2][11] [14] [15] [16]
+Physical exam
+The lower extremities should be examined with the patient standing:[2]
+• Early signs of CVI include telangiectasias (dilated intradermal venules, <1 mm in diameter),
+reticular veins (dilated, nonpalpable, subdermal veins, ≤3 mm in diameter), and corona
+phlebectatica (also known as malleolar flare or ankle flare). It consists of a fan-shaped pattern of
+small intradermal veins on the ankle or foot and is thought to be a common early physical sign of
+advanced venous disease.
+• Palpation for bulges consistent with varicose veins (dilated, palpable, subcutaneous veins) is
+undertaken. The extent, size, and location of the tortuous dilated veins are noted. Primary varicose
+veins are not commonly associated with significant edema or skin changes, but occasionally pure
+superficial venous system incompetence can be associated with edema, skin changes, and even
+frank ulceration.
+• Ankle swelling (usually unilateral, but may be bilateral) due to edema is also common. It
+characteristically indents with pressure and initially occurs in the ankle region but may extend to the
+leg and foot.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Chronic venous insufficiency Diagnosis
+DIAGNOSIS
+Serial images of severe CVI (C6) and chronic ulceration of the right lower extremity
+From the collection of Dr Joseph L. Mills; used with permission
+• Severe CVI is associated with characteristic skin changes such as atrophie blanche,
+lipodermatosclerosis, and hyperpigmentation. Atrophie blanche is characterized by localized,
+frequently round areas of white, shiny, atrophic skin surrounded by small dilated capillaries and,
+sometimes, areas of hyperpigmentation. Lipodermatosclerosis is a localized chronic inflammatory
+and fibrotic condition affecting the skin and subcutaneous tissues of the lower leg, especially in
+the supramalleolar region. When severe, it may even lead to contracture of the Achilles tendon.
+Hyperpigmentation (usually a reddish-brown discoloration) of the ankle and lower leg is also known
+as brawny edema. It results from extravasation of blood and deposition of hemosiderin in the
+tissues due to long-standing ambulatory venous hypertension.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Chronic venous insufficiency Diagnosis
+Atrophie blanche in a patient with CVI
+From the collection of Dr Joseph L. Mills; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Chronic venous insufficiency Diagnosis
+DIAGNOSIS
+Lipodermatosclerosis and leg ulcer with hypercoagulable
+state and recurrent episodes of deep vein thrombosis (DVT)
+From the collection of Dr Joseph L. Mills; used with permission
+• Dry, scaling, eczematous skin changes are typical of venous stasis dermatitis.
+• Venous ulcers are located in the gaiter area (between the malleolus and mid-calf) of the calf,
+proximal and posterior to the medial malleolus, and occasionally superior to the lateral malleolus.
+Ulceration may be healed or active.
+Serial images of recurrent venous ulcer with resolution at 3 months
+From the collection of Dr Joseph L. Mills; used with permission
+An important subset of patients with CVI has iliac vein obstruction, more commonly on the left than the
+right. Such patients usually present predominantly with swelling and lack other features of CVI.
+Investigations
+A variety of techniques may be employed to investigate patients with CVI:[2][10] [16][17]
+• Duplex ultrasound imaging combines brightness-mode imaging and Doppler interrogation. It is
+the initial and most important primary diagnostic study. It can localize sites of obstruction and
+valvular reflux in both the deep and superficial venous systems. It should be noted that duplex
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Chronic venous insufficiency Diagnosis
+ultrasound is operator dependent and that it should be performed as a reflux study and not only as
+an examination for acute deep vein thrombosis (DVT). Venous reflux is characterized by retrograde
+or reversed flow and a valve closure time of more than 0.5 seconds.
+• Ascending phlebography identifies the site and level of obstruction, as well as the presence and
+location of collaterals, but it has been supplanted by duplex imaging, except when used by a
+specialist to evaluate treatment options for complex CVI.
+• Computed tomography (CT) and magnetic resonance venography provide excellent anatomic
+detail, so are useful in evaluating congenital and complex or advanced cases of CVI.
+• Patients with unilateral leg edema suggesting iliac vein obstruction should be evaluated
+with an ultrasound or a CT scan to rule out a pelvic or abdominal mass. If no evidence of
+extrinsic compression is found, the patient should be referred to a vascular specialist for further
+investigations, including an ascending phlebography. Intravascular ultrasound (IVUS) is also used
+in specialized centers as a secondary test to evaluate the significance of iliac vein obstruction in
+complex cases of CVI. It is extremely useful in the diagnosis and therapy of iliac vein disease.
+• Air plethysmography is a noninvasive investigation that assesses venous function (identifying reflux
+and obstruction). It is primarily used for research and is not frequently used in the US outside of
+highly specialized centers or research settings.
+History and exam
+Key diagnostic factors
+corona phlebectatica (malleolar flare or ankle flare) (common)
+• Fan-shaped pattern of small intradermal veins on the ankle or foot, thought to be a common early
+physical sign of advanced venous disease.[2] [10]
+ankle swelling (common)
+• Usually unilateral, but may be bilateral. Swelling due to edema is common. It characteristically indents
+with pressure and initially occurs in the ankle region but may extend to the leg and foot.[2] [10]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Chronic venous insufficiency Diagnosis
+DIAGNOSIS
+Serial images of severe CVI (C6) and chronic ulceration of the right lower extremity
+From the collection of Dr Joseph L. Mills; used with permission
+hyperpigmentation (brawny edema) (common)
+• Reddish-brown discoloration affecting the ankle and lower leg. Common in advanced disease.
+Results from extravasation of blood and deposition of hemosiderin in the tissues due to longstanding
+ambulatory venous hypertension.[2] [10]
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Chronic venous insufficiency Diagnosis
+Lipodermatosclerosis and leg ulcer with hypercoagulable
+state and recurrent episodes of deep vein thrombosis (DVT)
+From the collection of Dr Joseph L. Mills; used with permission
+lipodermatosclerosis (common)
+• Localized chronic inflammatory and fibrotic condition affecting the skin and subcutaneous tissues of
+the lower leg, especially in the supramalleolar region. Common in advanced disease. When severe it
+may even lead to contracture of the Achilles tendon. Results from capillary proliferation, fat necrosis,
+and fibrosis of the skin and subcutaneous tissues.[2] [10]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Chronic venous insufficiency Diagnosis
+DIAGNOSIS
+Lipodermatosclerosis and leg ulcer with hypercoagulable
+state and recurrent episodes of deep vein thrombosis (DVT)
+From the collection of Dr Joseph L. Mills; used with permission
+atrophie blanche (common)
+• Localized, frequently round areas of white, shiny, atrophic skin surrounded by small dilated capillaries
+and, sometimes, areas of hyperpigmentation. Common in advanced disease.[2] [10]
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Chronic venous insufficiency Diagnosis
+Atrophie blanche in a patient with CVI
+From the collection of Dr Joseph L. Mills; used with permission
+leg ulcers (common)
+• Venous ulcers are located in the gaiter area (between the malleolus and mid-calf) of the calf, proximal
+and posterior to the medial malleolus, and occasionally superior to the lateral malleolus.[2][10]
+• Ulceration may be healed or active.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Chronic venous insufficiency Diagnosis
+DIAGNOSIS
+Serial images of recurrent venous ulcer with resolution at 3 months
+From the collection of Dr Joseph L. Mills; used with permission
+Other diagnostic factors
+leg fatigue, aching, and/or discomfort (common)
+• Not present at the start of the day. Develops and worsens toward the end of the day and on prolonged
+standing, and improves on elevation.[2][10]
+heavy legs (common)
+• Not present at the start of the day. Develops and worsens toward the end of the day and on prolonged
+standing, and improves on elevation.[2][10]
+leg cramps (common)
+• Often associated with venous stasis and eczema.[2][10]
+telangiectasias (common)
+• Early sign of CVI characterized by dilated intradermal venules <1 mm in diameter.[2][10]
+reticular veins (common)
+• Early sign of CVI characterized by dilated, nonpalpable, subdermal veins <3 mm in diameter.[2][10]
+dilated tortuous veins (common)
+• Varicose veins are defined as dilated, palpable, subcutaneous veins.[2][10]
+dry and scaly skin (common)
+• Eczematous skin changes are typical of venous stasis dermatitis.[10]
+skin burning and itching (uncommon)
+• Often associated with venous stasis and eczema.[2][10]
+unilateral leg swelling (uncommon)
+• An important subset of patients with CVI have iliac vein obstruction, more commonly on the left than
+the right. Such patients usually present predominantly with swelling and lack other features of CVI.[2]
+[10]
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Chronic venous insufficiency Diagnosis
+Risk factors
+Strong
+increasing age
+• Prevalence of venous disease increases with age.[11]
+family history
+• Strong risk factor for acute and chronic venous disease.[11]
+smoking
+• Cigarette smoking is an independent risk factor for severe CVI in men.[11]
+deep vein thrombosis
+• As many as 50% of people develop CVI within 5-10 years of an episode of deep vein thrombosis
+(DVT) due to increased dilation of the venous system leading to axial system reflux.
+orthostatic occupation
+• Occupations (e.g., laborer) that require prolonged standing are thought to predispose to venous
+insufficiency.[11]
+Weak
+female#sex
+• Leg injury, prolonged standing, increasing parity, and cardiovascular disease are all strongly
+associated with venous insufficiency in women.[11]
+obesity (waist circumference)
+• Increased body mass index (BMI) and waist circumference increase the risk for chronic venous
+disease.[11]
+ligamentous laxity
+• Risk of CVI is increased in those with ligamentous laxity, suggested by, among other clinical features,
+the presence of flat feet and history of hernia surgery.[11]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Chronic venous insufficiency Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+duplex ultrasound
+• These results indicate venous reflux.
+• Duplex ultrasound imaging combines B (brightness)-mode imaging
+and Doppler interrogation. It is the initial and most important primary
+diagnostic study. It can localize sites of obstruction and valvular reflux
+in both the deep and superficial venous systems. It should be noted
+that duplex ultrasound is operator dependent and that a reflux study
+must be performed and not merely an exam for acute deep vein
+thrombosis.[2] [10]
+retrograde or reversed
+flow, valve closure time
+>0.5 seconds
+Other tests to consider
+Test Result
+ascending phlebography
+• Supplanted by duplex imaging, except when used by a specialist to
+evaluate treatment options for complex cases of CVI such as those
+involving iliac vein obstruction.[2] [10]
+identifies obstruction site
+and level, presence, and
+location of collaterals
+CT venography
+• Provides excellent anatomic detail, so is useful in evaluating
+congenital and complex or advanced CVI.[2] [10]
+reveals detailed venous
+anatomy
+magnetic resonance venography
+• Provides excellent anatomic detail, so is useful in evaluating
+congenital and complex or advanced CVI.[2] [10]
+reveals detailed venous
+anatomy
+CT abdomen and pelvis
+• Used to rule out extrinsic compression as a cause for iliac vein
+compression.[2] [10]
+may reveal pelvic or
+abdominal mass in iliac
+vein obstruction
+abdomen and pelvis ultrasound
+• Used when there is suggestion of iliac vein obstruction.[2] [17]
+may reveal pelvic or
+abdominal mass
+intravascular ultrasound
+• Used in specialized centers as a secondary test to evaluate the
+significance of iliac vein obstruction in complex cases of CVI and is
+extremely useful in the diagnosis and therapy of iliac vein disease.[2]
+[10]
+reveals venous anatomy
+air plethysmography
+• Noninvasive investigation assessing venous function. Primarily
+used for research. Not frequently used in the US outside of highly
+specialized centers or research settings.[2] [10]
+identifies reflux and
+obstruction
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Chronic venous insufficiency Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Diabetic foot ulcer • History of diabetes. Foot
+wounds occur in the
+presence of peripheral
+neuropathy secondary to
+repetitive stress.
+• Ulcers form on the plantar
+aspect of the foot or on the
+dorsal aspect of the digits
+from repetitive moderate
+stress.
+• In the presence of
+concomitant diabetes and
+neuropathy, wound location
+is often the defining factor.
+• Fasting plasma glucose
+≥126 mg/dL is diagnostic of
+diabetes.
+Arterial ulcer • History of peripheral arterial
+disease.
+• Ulcers secondary to arterial
+insufficiency are located
+on the distal margins of
+the foot and are frequently
+gangrenous or "punched out"
+in appearance.
+• Noninvasive vascular
+studies may help to exclude
+peripheral arterial disease,
+although wounds of mixed
+etiology are not uncommon.
+• A Doppler-derived ankle-
+brachial index <0.92 is
+abnormal. If foot pulses are
+absent or diminished, the
+ankle-brachial index is <0.8
+and the patient has foot or
+leg ulcers.
+• More detailed arterial
+imaging such as duplex
+arterial ultrasound can be
+performed to document the
+level and degree of arterial
+obstruction.
+Squamous cell carcinoma
+(Marjolin)
+• Longstanding nonhealing
+wound with irregular edges.
+• Skin biopsy is diagnostic of
+squamous cell carcinoma.
+Pyoderma gangrenosum • Wound may increase in
+size and inflammation
+after surgical debridement
+(pathergy).
+• Skin biopsy is diagnostic of
+pyoderma gangrenosum.
+Kaposi sarcoma • History of
+immunosuppression
+(e.g., HIV infection,
+organ transplantation,
+immunosuppressive
+therapies).
+• Raised purplish lesions
+that may be confused with
+venous lesions.
+• Skin biopsy is diagnostic of
+Kaposi sarcoma.
+Lymphedema • Usually unilateral.
+• Characterized by a dorsal
+foot buffalo hump and loss of
+• Duplex ultrasound is normal
+or minimally abnormal.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Chronic venous insufficiency Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+the web spaces between the
+toes (Stemmer sign).
+Congestive heart failure • History of dyspnea (on
+minimal exertion, orthopnea,
+paroxysmal nocturnal
+dyspnea) and weight gain.
+• Bilateral pitting edema with
+blebs and bullae in severe
+cases. Ulceration is rare.
+• Chest x-ray: cardiomegaly,
+bilateral lower lobe
+shadowing, pleural effusion,
+enlarged hilar vessels,
+upper lobe diversion, fluid in
+horizontal fissure, Kerley B
+lines.
+• Echocardiogram: systolic
+and diastolic dysfunction,
+evidence of underlying
+cause.
+Renal disease • Bilateral edema. Ulceration
+is rare.
+• Serum electrolytes: elevated
+potassium.
+• Serum BUN and creatinine:
+elevated.
+• Urinalysis: possible
+hematuria and proteinuria.
+Hepatic disease • Bilateral edema. Ulceration
+is rare.
+• Liver function tests: results
+depend on underlying cause.
+Criteria
+Venous Clinical Severity Score[18]
+Each clinical feature is given a score of 0 (none), 1 (mild), 2 (moderate), or 3 (severe) depending on its
+severity. The total score is calculated to determine the overall severity of clinical disease present.
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Chronic venous insufficiency Diagnosis
+Revised Venous Clinical Severity Score
+Adapted from Vasquez MA et al. J Vasc Surg 2010 Nov;52(5):1387-96; used with permission
+Pain or other discomfort (i.e., aching, heaviness, fatigue, burning, soreness; presumes venous origin)
+• Occasional pain or other discomfort, not restricting regular daily activities: 1 point
+• Daily pain or other discomfort; interfering with, but not preventing, regular daily activities: 2 points
+• Daily pain or discomfort, limits more regular daily activities: 3 points
+Varicose veins (≥3 cm in standing position)
+• Few: scattered (i.e., isolated branch varicosities or clusters; also includes corona phlebectatica [ankle
+flare]): 1 point
+• Confined to calf or thigh: 2 points
+• Involves calf and thigh: 3 points
+Venous edema (presumes venous origin)
+• Limited to foot and ankle area: 1 point
+• Extends above ankle but below knee: 2 points
+• Extends to knee and above: 3 points
+Skin pigmentation (presumes venous origin; does not include focal pigmentation over varicose veins or
+pigmentation due to other chronic diseases)
+• None or focal: 0 points
+• Limited to perimalleolar area: 1 point
+• Diffuse over lower third of calf: 2 points
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Chronic venous insufficiency Diagnosis
+DIAGNOSIS
+• Wider distribution above lower third of calf: 3 points
+Inflammation (more than just recent pigmentation; i.e., erythema, cellulitis, venous eczema, dermatitis)
+• Limited to perimalleolar area: 1 point
+• Diffuse over lower third of calf: 2 points
+• Wider distribution above lower third of calf: 3 points
+Induration (presumes venous origin of secondary skin and subcutaneous changes, i.e., chronic edema with
+fibrosis, hypodermitis; includes white atrophy and lipodermatosclerosis)
+• Limited to perimalleolar area: 1 point
+• Diffuse over lower third of calf: 2 points
+• Wider distribution above lower third of calf: 3 points
+Active ulcer number
+• 0: 0 points
+• 1: 1 point
+• 2: 2 points
+• ≥3: 3 points
+Active ulcer duration (longest active)
+• Not applicable: 0 points
+• <3 months: 1 point
+• >3 months but <1 year: 2 points
+• Not healed for >1 year: 3 points
+Active ulcer size (largest active)
+• Not applicable: 0 points
+• Diameter <2 cm: 1 point
+• Diameter 2-6 cm: 2 points
+• Diameter >6 cm: 3 points
+Use of compression therapy
+• Not used: 0 points
+• Intermittent use of stockings: 1 point
+• Wears stockings most days: 2 points
+• Full compliance with stockings: 3 points
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Chronic venous insufficiency Management
+Approach
+Graded compression stockings are the cornerstone of CVI treatment, supplemented by further specialized
+procedures, the choice of which depends on the specific associated clinical features.
+Compression
+The mainstay of treatment for CVI-related edema, stasis dermatitis, and small venous leg ulcers is the
+use of graded compression knee-high stockings.[2] [20] [21]
+Serial images of recurrent venous ulcer with resolution at 3 months
+From the collection of Dr Joseph L. Mills; used with permission
+• As therapy may be lifelong, patient adherence is of critical importance. An estimated 30% to
+65% of patients are nonadherent with compression therapy. Recurrence of venous leg ulcers in
+patients adherent with stocking use is half that in those who are nonadherent. Nonadherence with
+prescribed stockings is the primary cause of compression therapy failure.[22]
+• In Cochrane reviews, compression stockings were more effective in healing venous ulcers than
+no compression therapy.[23] [24]  For ulcer healing, multilayer dressings are more effective than
+single-layer dressings.[25] A single randomized controlled study suggested that “progressive”
+stockings, which progressively apply maximal compression (23 mmHg at the level of the calf vs. 10
+mmHg at the ankle), were superior to a “degressive” stocking (30 mmHg at ankle vs. 21 mmHg at
+upper calf). The outcome measure used was a composite consisting of improvement in pain, deep
+and/or superficial venous thrombosis, pulmonary embolus (PE), and ulceration of skin.[15]
+• Stockings must be put on first thing in the morning and should be removed only when the patient is
+recumbent (usually just before going to bed).
+• In the US, there are three classes of compression stockings. Class 1 stockings (20-30 mmHg)
+control edema. Class 2 (30-40 mmHg) and class 3 (>40 mmHg) are usually required for more
+advanced CVI.
+• Thromboembolic disorder (TED) stockings are inadequate for controlling CVI and should not be
+prescribed for this condition because the pressure at the ankle is insufficient at <20 mmHg.
+• Patients with severe CVI or previous ulcers generally require lifelong graded compression stockings
+of ≥30 to 40 mmHg.
+Intermittent pneumatic compression may also be considered in patients with post-thrombotic syndrome, to
+reduce severity.[2]
+Pharmacotherapy
+Eczematous skin changes and mild stasis dermatitis
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Chronic venous insufficiency Management
+MANAGEMENT
+• It is generally felt that applying a simple moisturizing cream to combat skin dryness and flaking is
+beneficial.
+Venous leg ulcers
+• Long-term therapy with nonspecific local unguents or topical antibiotic ointments or creams is of
+no benefit and may damage adjacent skin. The use of such therapies is also strongly discouraged
+because of allergic reactions and the potential for breakdown of the dermal barrier.
+• Pentoxifylline and micronized purified flavonoid fraction (MPFF) have shown some benefit in
+venous leg ulcer healing in randomized clinical trials.[26]
+• Pentoxifylline is used to treat claudication. A meta-analysis of five trials showed a minimal benefit
+to venous leg ulcer healing with oral pentoxifylline (odds ratio 1.3) compared with compression
+therapy and placebo.[27]
+• A meta-analysis of prospective randomized trials of MPFF in the treatment of venous leg ulcer
+compared compression and local care with and without the addition of oral MPFF.[28] At 6 months,
+the chance of ulcer healing was 32% better in patients treated with adjunctive MPFF than in those
+managed by conventional therapy alone (relative risk reduction 32%, 95% CI 3% to 70%). This
+difference was present from month 2 (relative risk reduction 44%, 95% CI 7% to 94%) and was
+associated with a shorter time to healing (16 weeks vs. 21 weeks; P=0.0034). These data suggest
+that MPFF may be a useful adjunct to conventional therapy in large and longstanding venous leg
+ulcers. Diosmin (an MPFF) is available in some European, Asian, and South American countries
+and in Canada, but not in the US or the UK.
+• One systematic review determined that, while data were limited by heterogeneity and small sample
+sizes, pentoxifylline has demonstrated clinical benefits when used In conjunction with compression
+therapy.[29]
+• The following systemically given drugs are ineffective in healing venous leg ulcers: aspirin,
+ifetroban, stanozolol, antibiotics, and hydroxyrutosides.
+• Topically applied growth factors have not been systematically shown to be efficacious in speeding
+up venous leg ulcer healing.
+Leg pain
+• Where available, venoactive drugs, such as diosmin, can also be considered for the treatment of
+CVI pain.[2]
+Invasive procedures
+Superficial venous reflux
+• Saphenectomy: a randomized controlled trial of saphenectomy (surgical stripping) and compression
+versus compression alone in patients with significant reflux in the great or small saphenous vein on
+duplex ultrasound showed 89% to 93% initial ulcer healing rates in both groups (P value reported
+as not significant). Ulcer recurrence rates at 4 years were 52% in the compression-only group
+compared with only 24% in those who underwent saphenectomy and compression, a difference
+that was statistically significant.[30] These findings strongly suggest that saphenectomy confers
+long-term benefit in patients with CVI who also have superficial venous reflux.
+• Endovenous laser therapy or radiofrequency ablation of the great saphenous vein (GSV): these
+procedures can be done with outpatients under local tumescent anesthesia and have generally
+replaced surgical stripping for most patients requiring GSV ablation. Following endovenous
+ablation, compression stockings should be worn for 24 hours per day for 1-3 days, then during
+the day for 1-2 weeks. Postoperatively, normal activities can be resumed, but strenuous leg
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Chronic venous insufficiency Management
+activity (e.g., running, weighted leg exercises, cycling) should be avoided for 1 week. Continued
+use of compression stockings during the day is recommended following ablative procedures on
+the superficial system if there is ongoing evidence of reflux (i.e., deep system insufficiency). A
+randomized controlled trial comparing endovenous laser ablation therapy with saphenopopliteal
+junction ligation plus attempted stripping/excision for the treatment of small saphenous vein
+insufficiency has reported similar 2-year outcomes, but with the possible benefit of fewer short-
+term sensory deficits with endovenous laser ablation therapy.[31] Early endovenous ablation of the
+superficial venous reflux (within 2 weeks) has been found to result in faster healing of venous leg
+ulcers and more time free from ulcers than deferred endovenous ablation (considered after ulcer
+was healed or at 6 months if ulcer was not healed).[32]
+• Foam sclerotherapy: this technique can also be used to ablate the GSV.[33] The sclerosant agent is
+mixed with air to produce foam, which is then injected into the vein under ultrasound guidance. The
+foam displaces blood in the vein and causes spasm of the vein and endothelial injury, resulting in
+thrombosis of the vessel. Retinal or cerebral emboli (causing migraine, but rarely stroke) may occur
+with the use of foam in 2% to 6% of patients, but these adverse sequelae are almost always minor
+and transient.[34]
+• A meta-analysis of over 12,000 legs investigated the success rate of these therapies as determined
+by duplex ultrasound documenting successful vein excision or ablation and lack of residual
+reflux.[34] Measured in this manner, after a mean follow-up of 32 months, the relative effectiveness
+rates were 77% for foam sclerotherapy, 78% for surgical stripping, 84% for radiofrequency ablation,
+and 94% for laser ablation. The major complication of these techniques was DVT, occurring in 1%
+to 3% of patients. Individualized thromboprophylaxis strategies should be considered.[2]
+Angiomata and varicosities
+• These lesions may occasionally cause symptoms of sufficient severity to warrant laser or
+radiofrequency ablation or injection sclerotherapy, which may be liquid or, increasingly, foam
+sclerotherapy. It should be noted that foam sclerotherapy is not approved in the US for this use.
+Perforating vein incompetence
+• Incompetent perforating veins may be treated with endovenous ablation (laser or radiofrequency) or
+ligation.[2]
+Iliac vein obstruction
+• An important subset of patients with CVI has iliac vein obstruction, more commonly on the left
+side than the right. In selected patients (determined by a vascular specialist), symptoms may be
+substantially improved by percutaneous iliac angioplasty and stenting. These procedures are
+performed in significant numbers only in selected centers, and the indications for such procedures
+are still developing.[35]
+Deep venous reflux
+• Venous valvular reconstruction (either with leaflet repair or with axillary valve transplantation) is
+rarely performed and its use is generally confined to selected centers. Results are far better when
+performed in patients with primary rather than post-thrombotic venous reflux.[36] The operation is
+generally reserved for patients in whom conventional therapy has failed.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Chronic venous insufficiency Management
+MANAGEMENT
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Ongoing ( summary )
+all symptomatic patients
+1st graded compression stockings
+adjunct moisturizer
+adjunct pentoxifylline
+with post-thrombotic
+syndrome
+adjunct intermittent pneumatic compression
+with superficial venous
+reflux
+plus endovenous ablation or saphenectomy or
+foam sclerotherapy
+with angiomata and
+varicosities
+adjunct endovenous ablation or injection
+sclerotherapy
+with perforating vein
+incompetence
+plus endovenous ablation or ligation
+with iliac vein
+obstruction
+adjunct percutaneous iliac angioplasty and
+stenting
+with deep venous reflux adjunct venous valvular reconstruction
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Chronic venous insufficiency Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Ongoing
+all symptomatic patients
+1st graded compression stockings
+» The mainstay of treatment for CVI-related
+edema, stasis dermatitis, and small venous leg
+ulcers is use of graded compression knee-high
+stockings.[20] [21]
+» Shown to be more effective in healing venous
+ulcers than no compression therapy.[23] [24]
+For ulcer healing, multilayer dressings are more
+effective than single-layer dressings.[25]
+» Stockings must be put on first thing in the
+morning and should be removed only when the
+patient is recumbent (usually just before going to
+bed).
+» In the US, there are three classes of
+compression stockings. Class 1 stockings (20-30
+mmHg) control edema. Class 2 (30-40 mmHg)
+and class 3 (>40 mmHg) are usually required
+for more advanced CVI. Patients with severe
+CVI or previous ulcers generally require lifelong
+graded compression stockings of at least 30 to
+40 mmHg.
+adjunct moisturizer
+Treatment recommended for SOME patients in
+selected patient group
+» Applying a simple moisturizing cream to
+combat skin dryness and flaking in eczematous
+skin changes and mild stasis dermatitis is
+generally thought to be beneficial.
+adjunct pentoxifylline
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» pentoxifylline: 400 mg orally three times
+daily
+» Pentoxifylline has shown some benefit in
+venous leg ulcer healing in randomized clinical
+trials.[26]
+» Pentoxifylline is used to treat claudication. A
+meta-analysis of five trials showed a minimal
+benefit to venous leg ulcer healing with oral
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Chronic venous insufficiency Management
+MANAGEMENT
+Ongoing
+pentoxifylline (odds ratio 1.3) compared with
+compression therapy and placebo.[27] A
+later systematic review determined that, while
+data were limited by heterogeneity and small
+sample sizes, pentoxifylline demonstrated
+clinical benefits when used in conjunction with
+compression therapy.[29]
+with post-thrombotic
+syndrome
+adjunct intermittent pneumatic compression
+Treatment recommended for SOME patients in
+selected patient group
+» Intermittent pneumatic compression may also
+be considered in patients with post-thrombotic
+syndrome, to reduce severity.[2]
+with superficial venous
+reflux
+plus endovenous ablation or saphenectomy or
+foam sclerotherapy
+Treatment recommended for ALL patients in
+selected patient group
+» Saphenectomy (surgical stripping) confers
+long-term benefit in patients with CVI with
+associated superficial venous reflux. Patients
+with significant great or small saphenous
+vein reflux on duplex ultrasound have ulcer
+recurrence rates at 4 years of 24% with
+saphenectomy and compression and 52% with
+compression alone.[30]
+» Endovenous laser therapy or radiofrequency
+ablation of the great saphenous vein (GSV) can
+be done with outpatients under local tumescent
+anesthesia and have replaced surgical stripping
+for most patients. Following endovenous
+ablation, compression stockings should be
+worn for 24 hours per day for 1-3 days, then
+during the day for 1-2 weeks. Postoperatively,
+normal activities can be resumed, but strenuous
+leg activity (e.g., running, weighted leg
+exercises, cycling) should be avoided for 1
+week. Continued use of compression stockings
+during the day is recommended if there is
+ongoing evidence of reflux (i.e., deep system
+insufficiency).
+» A randomized controlled trial comparing
+endovenous laser ablation therapy with
+saphenopopliteal junction ligation plus attempted
+stripping/excision for the treatment of small
+saphenous vein insufficiency has reported
+similar 2-year outcomes, but with the possible
+benefit of fewer short-term sensory deficits with
+endovenous laser ablation therapy.[31]
+» Early endovenous ablation of the superficial
+venous reflux (within 2 weeks) has been found
+to result in faster healing of venous leg ulcers
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Chronic venous insufficiency Management
+Ongoing
+and more time free from ulcers than deferred
+endovenous ablation (considered after ulcer
+has healed or at least 6 months if ulcer was not
+healed).[32]
+» The major complication of these techniques is
+deep vein thrombosis, occurring in 1% to 3% of
+patients.[34] Individualized thromboprophylaxis
+strategies should be considered.[2]
+» Foam sclerotherapy can also be used to ablate
+the GSV.[33] The sclerosant agent is mixed with
+air to produce foam, which is then injected into
+the vein under ultrasound guidance. The foam
+displaces blood in the vein and causes spasm
+of the vein and endothelial injury, resulting in
+thrombosis of the vessel. Retinal or cerebral
+emboli (causing migraine, but rarely stroke)
+may occur with the use of foam in 2% to 6% of
+patients, but these adverse sequelae are almost
+always minor and transient.[34]
+with angiomata and
+varicosities
+adjunct endovenous ablation or injection
+sclerotherapy
+Treatment recommended for SOME patients in
+selected patient group
+» These lesions may occasionally cause
+symptoms of sufficient severity to warrant
+laser or radiofrequency ablation or injection
+sclerotherapy, which may be liquid or,
+increasingly, foam sclerotherapy.
+with perforating vein
+incompetence
+plus endovenous ablation or ligation
+Treatment recommended for ALL patients in
+selected patient group
+» Incompetent perforating veins may be
+treated with endovenous ablation (laser or
+radiofrequency) or ligation.[2]
+with iliac vein obstruction adjunct percutaneous iliac angioplasty and
+stenting
+Treatment recommended for SOME patients in
+selected patient group
+» An important subset of patients with CVI has
+iliac vein obstruction, more commonly on the left
+than the right. In selected patients (determined
+by a vascular specialist), symptoms may be
+substantially improved by percutaneous iliac
+angioplasty and stenting. These procedures are
+performed in significant numbers only in selected
+centers, and the indications for such procedures
+are still developing.[35]
+with deep venous reflux adjunct venous valvular reconstruction
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Chronic venous insufficiency Management
+MANAGEMENT
+Ongoing
+Treatment recommended for SOME patients in
+selected patient group
+» Venous valvular reconstruction (either
+with leaflet repair or with axillary valve
+transplantation) is rarely performed, and its use
+is generally confined to selected centers. Results
+are far better when performed in patients with
+primary rather than post-thrombotic venous
+reflux.[36] The operation is generally reserved
+for patients in whom conventional therapy has
+failed.
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Chronic venous insufficiency Management
+Emerging
+Balneotherapy
+Balneotherapy is a traditional medical technique using water. One Cochrane review has assessed the use
+of balneotherapy in the management of patients with CVI and found that compared with no treatment, there
+is probably no improvement in disease severity signs and symptoms, but there are improvements in health‐
+related quality of life and pain and reductions in skin pigmentation changes.[37]
+Biologics (amnion/chorion allografts)
+Amniotic membrane contains wound-healing proteins and growth factors and it has been studied in treatment
+of chronic venous leg ulcers. In one randomized controlled trial, 101 patients with chronic venous leg ulcers
+were randomized to receive either dehydrated human amnion and chorion allograft with standard of care
+or standard of care alone. Addition of dehydrated human amnion and chorion allograft to standard of care
+resulted in more healed ulcers at 12 weeks (75% compared with 30%).[38]
+Spray-applied cell therapy
+Results from one phase 2 double-blind randomized controlled trial of 205 people with venous leg ulcers
+suggest that dosing of growth-arrested allogeneic neonatal keratinocytes and fibroblasts in a fibrin vehicle
+is associated with a higher proportion of healing when compared with vehicle alone.[39] These promising
+results warrant further studies in this area.
+Other pharmacologic therapies
+A number of initial trials support some benefit to patients with CVI from a number of agents, including
+venoactive drugs (VADs), calcium dobesilate, and red-vine-leaf extract.[40] [41] [42] Pain, edema, and leg
+volume appear to be reduced, but further trials with better stratification of disease type and severity are
+needed before the use of these agents can be recommended.
+Exercise
+A systematic review and meta-analysis of five randomized clinical trials comprising 190 patients with venous
+leg ulcers has shown that exercise may be an effective adjuvant to compression for the treatment of venous
+leg ulcers.[43] The exercise interventions were progressive resistance exercise alone or combined with
+prescribed physical activity, walking only, or ankle exercises. Progressive resistance exercise combined with
+prescribed physical activity appeared to be most effective, although the effect was reported to be imprecise
+(additional 27 patients healed in 100 patients; 95% CI 9 to 45 cases in 100; P=0.004).[43] On the whole,
+exercise was associated with increased venous ulcer healing at 12 weeks, although the effect was reported
+to be imprecise (additional 14 patients healed per 100; 95% CI 1 to 27 cases in 100; P=0.04). European
+Society of Vascular Surgery guidelines note that there is a lack of studies on exercise in CVI, but suggest
+that the indirect evidence for the benefit on venous function is considerable and that it should therefore be
+promoted.[2] One Cochrane review found that there is currently insufficient evidence to assess the benefits
+and harms of physical exercise programs for the treatment of individuals with nonulcerated CVI.[44]
+Primary prevention
+No specific measures have been shown to prevent CVI. However, avoiding prolonged sitting or standing,
+controlling weight, abstaining from tobacco, exercising, and intermittently elevating the leg may all be helpful.
+Theoretically, aggressive prophylaxis against deep vein thrombosis (DVT), particularly for patients admitted
+to the hospital, may reduce the incidence of CVI, as it occurs in as many as 50% of people within 5-10
+years of an episode of DVT.[12] Long-term treatment with low molecular weight heparin, rather than oral
+anticoagulation after DVT, may reduce or prevent development of post-thrombotic CVI.[13] Patients at high
+risk for CVI, such as those with a family history of varicose veins, those with a previous history of DVT, and
+those with an orthostatic occupation, should consider wearing graduated compression stockings.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Chronic venous insufficiency Management
+MANAGEMENT
+Secondary prevention
+Prolonged standing, especially in one place, should be avoided. If this is not possible, compression stockings
+should be worn. If obese, patients should be advised to lose weight.
+Patients with severe CVI or previous ulcers generally require lifelong graded compression stockings of at
+least 30-40 mmHg. Adherence with compression therapy markedly reduces, but does not eliminate, long-
+term sequelae.
+Patient discussions
+The patient should be reassured that the condition is not limb threatening and differs from the circulatory
+problems that are due to diabetes and peripheral arterial occlusive disease.
+All patients with documented CVI should be advised to wear graded compression stockings. These
+stockings must be put on first thing in the morning and should be removed only when the patient is
+recumbent (usually just before going to bed). The importance of adherence with compression therapy
+must also be emphasized, as an estimated 30% to 65% of patients are nonadherent with compression
+therapy. The recurrence of venous leg ulcers in patients adherent with stocking use is half that in those
+who are nonadherent, and nonadherence is the primary cause of compression therapy failure.[22]
+Patients should be advised that thromboembolic disorder (TED) stockings are inadequate for controlling
+CVI, as they provide insufficient compression at the ankle.
+Patients with severe CVI or previous ulcers should be advised that they may require lifelong graded
+compression stockings. Following endovenous ablation, patients are usually advised to wear compression
+stockings for 24 hours per day for 1-3 days, and then during the day for 1-2 weeks. Postoperatively,
+patients can return to normal activities, but they should avoid strenuous leg activity such as running,
+weighted leg exercises, or cycling for 1 week. Continued use of compression stockings during the day
+is recommended following ablative procedures on the superficial system if there is ongoing evidence of
+reflux (i.e., deep system insufficiency).
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Chronic venous insufficiency Follow up
+Monitoring
+Monitoring
+Venous stripping or ablation is helpful in patients with CVI who have documented superficial venous
+reflux.[30] European Society of Vascular Surgery guidelines recommend considering duplex ultrasound
+surveillance 1-4 weeks after treatment of a saphenous trunk to document successful treatment and lack
+of a deep vein thrombosis (DVT).[2] Repeat evaluation is recommended if initial results are inadequate,
+symptoms persist, or varicosities recur.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Chronic venous insufficiency Follow up
+FOLLOW UP
+Complications
+Complications Timeframe Likelihood
+saphenectomy and endovenous-related DVT short term low
+Saphenectomy and endovenous ablation (laser and radiofrequency) are associated with a 1% to 3% rate
+of deep vein thrombosis (DVT) occurrence.[34] Individualized thromboprophylaxis strategies should be
+considered.[2]
+hemosiderin deposition long term high
+Secondary to changes in the microcirculatory system, with the capillaries becoming elongated, fibrotic, and
+leaky.
+Hyperpigmentation (usually a reddish-brown discoloration) of the ankle and lower leg is also known as
+brawny edema. It results from extravasation of blood and deposition of hemosiderin in the tissues due to
+long-standing ambulatory venous hypertension.
+venous ulceration long term medium
+Increased dilation of the venous system and increased pressure may lead to venous hypertension. The
+typical constellation of findings that ensue include edema, lipodermatosclerosis, and eventual ulceration.
+Perforator incompetence may also contribute to ulceration.
+Treatment of the superficial axial system, if involved, will help.[30] Perforator treatment is considered if
+perforating veins are involved.
+lipodermatosclerosis long term medium
+Secondary to changes in the microcirculatory system, with the capillaries becoming elongated, fibrotic,
+and leaky. Characteristically results from capillary proliferation, fat necrosis, and fibrosis of the skin and
+subcutaneous tissues.
+hemorrhage long term low
+Erosion of varices can lead to bleeding that may require surgical intervention.
+infection long term low
+Uncommon in patients adherent with compression therapy, and good skin care and hygiene. Only consider
+treatment of a leg ulcer with antibiotics if there are clinical signs of infection. Do not routinely swab leg
+ulcers because colonization without infection is common. Follow local guidelines for antibiotic treatment,
+and make a specialist referral in patients with multiple comorbidities, and where there is suspicion of
+antimicrobial resistance, osteomyelitis, sepsis, or necrotizing fasciitis.[46]
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Chronic venous insufficiency Follow up
+Prognosis
+Physicians should note, and the patient should be reassured, that CVI is not limb threatening and differs
+from the circulatory disorders of diabetes and peripheral arterial occlusive disease. Patients with severe CVI
+(CEAP C4-6) or previous ulcers generally require lifelong graded compression stockings of at least 30-40
+mmHg. Adherence with compression therapy markedly reduces, but does not eliminate, long-term sequelae.
+The recurrence of venous leg ulcers in patients adherent with stocking use is half that in those who are
+nonadherent, and nonadherence is the primary cause of compression therapy failure.[22]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Chronic venous insufficiency Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+ACR appropriateness criteria® lower extremity chronic venous disease
+(https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [17]
+Published by: American College of Radiology Last published: 2023
+AIUM practice parameter for the performance of a peripheral venous
+ultrasound examination (https://www.aium.org/resources/practice-
+parameters/2)   [19]
+Published by: American Institute of Ultrasound in Medicine; American
+College of Radiology; Society of Radiologists in Ultrasound
+Last published: 2020
+European Society for Vascular Surgery (ESVS) 2022 clinical practice
+guidelines on the management of chronic venous disease of the lower limbs
+(http://www.esvs.org/journal/guidelines)   [2]
+Published by: European Society for Vascular Surgery (ESVS) Last published: 2022
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Chronic venous insufficiency Guidelines
+Treatment guidelines
+International
+ACR appropriateness criteria® lower extremity chronic venous disease
+(https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [17]
+Published by: American College of Radiology Last published: 2023
+The 2020 appropriate use criteria for chronic lower extremity venous disease
+of the American Venous Forum, the Society for Vascular Surgery, the
+American Vein and Lymphatic Society, and the Society of Interventional
+Radiology (https://www.venousforum.org/resources/guidelines)   [45]
+Published by: American Venous Forum, Society for Vascular Surgery,
+American Vein and Lymphatic Society, and Society of Interventional
+Radiology
+Last published: 2020
+Practice guidelines for superficial venous disease (treatment of superficial
+venous disease of the lower leg) (https://www.myavls.org/member-resources/
+clinical-guidelines.html)   [16]
+Published by: American Vein and Lymphatic Society (American College
+of Phlebology)
+Last published: 2016
+European Society for Vascular Surgery (ESVS) 2022 clinical practice
+guidelines on the management of chronic venous disease of the lower limbs
+(https://esvs.org/guidelines)   [2]
+Published by: European Society for Vascular Surgery (ESVS) Last published: 2022
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Chronic venous insufficiency References
+REFERENCES
+Key articles
+• Lurie F, Passman M, Meisner M, et al. The 2020 update of the CEAP classification system and
+reporting standards. J Vasc Surg Venous Lymphat Disord. 2020 May;8(3):342-52. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32113854?tool=bestpractice.bmj.com)
+• De Maeseneer MG, Kakkos SK, Aherne T, et al. Editor's choice - European Society for Vascular
+Surgery (ESVS) 2022 clinical practice guidelines on the management of chronic venous disease of the
+lower limbs. Eur J Vasc Endovasc Surg. 2022 Feb;63(2):184-267.  Full text (https://www.ejves.com/
+article/S1078-5884(21)00979-5/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35027279?
+tool=bestpractice.bmj.com)
+• Bergan JJ, Schmid-Schönbein GW, Smith PD, et al. Chronic venous disease. N Engl J Med. 2006 Aug
+3;355(5):488-98. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16885552?tool=bestpractice.bmj.com)
+• American Vein and Lymphatic Society (American College of Phlebology). Treatment of superficial
+venous disease of the lower leg. Feb 2016 [internet publication].  Full text (https://www.myavls.org/
+assets/pdf/SuperficialVenousDiseaseGuidelinesPMS313-02.03.16.pdf)
+References
+1. Lurie F, Passman M, Meisner M, et al. The 2020 update of the CEAP classification system and
+reporting standards. J Vasc Surg Venous Lymphat Disord. 2020 May;8(3):342-52. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32113854?tool=bestpractice.bmj.com)
+2. De Maeseneer MG, Kakkos SK, Aherne T, et al. Editor's choice - European Society for Vascular
+Surgery (ESVS) 2022 clinical practice guidelines on the management of chronic venous disease of the
+lower limbs. Eur J Vasc Endovasc Surg. 2022 Feb;63(2):184-267.  Full text (https://www.ejves.com/
+article/S1078-5884(21)00979-5/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35027279?
+tool=bestpractice.bmj.com)
+3. Beebe-Dimmer JL, Pfeifer JR, Engle JS, et al. The epidemiology of chronic venous insufficiency
+and varicose veins. Ann Epidemiol. 2005 Mar;15(3):175-84. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15723761?tool=bestpractice.bmj.com)
+4. Salim S, Machin M, Patterson BO, et al. Global epidemiology of chronic venous disease: a systematic
+review with pooled prevalence analysis. Ann Surg. 2021 Dec 1;274(6):971-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33214466?tool=bestpractice.bmj.com)
+5. Rabe E, Régnier C, Goron F, et al. The prevalence, disease characteristics and treatment of chronic
+venous disease: an international web-based survey. J Comp Eff Res. 2020 Dec;9(17):1205-18.  Full
+text (https://becarispublishing.com/doi/10.2217/cer-2020-0158)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33079592?tool=bestpractice.bmj.com)
+6. Homs-Romero E, Romero-Collado A, Verdú J, et al. Validity of chronic venous disease diagnoses and
+epidemiology using validated electronic health records from primary care: a real-world data analysis. J
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Chronic venous insufficiency References
+Nurs Scholarsh. 2021 May;53(3):296-305. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33638608?
+tool=bestpractice.bmj.com)
+7. Cesarone MR, Belcaro G, Nicolaides AN, et al. 'Real' epidemiology of varicose veins
+and chronic venous diseases: the San Valentino Vascular Screening Project. Angiology.
+2002 Mar-Apr;53(2):119-30. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11952101?
+tool=bestpractice.bmj.com)
+8. Evans CJ, Fowkes FG, Ruckley CV, et al. Prevalence of varicose veins and chronic
+venous insufficiency in men and women in the general population: Edinburgh Vein Study.
+J Epidemiol Community Health. 1999 Mar;53(3):149-53.  Full text (https://jech.bmj.com/
+content/jech/53/3/149.full.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10396491?
+tool=bestpractice.bmj.com)
+9. Schulman S, Lindmarker P, Holmström M, et al. Post-thrombotic syndrome, recurrence, and death
+10 years after the first episode of venous thromboembolism treated with warfarin for 6 weeks or
+6 months. J Thromb Haemost. 2006 Apr;4(4):734-42.  Full text (https://www.jthjournal.org/article/
+S1538-7836(22)13085-0/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16634738?
+tool=bestpractice.bmj.com)
+10. Bergan JJ, Schmid-Schönbein GW, Smith PD, et al. Chronic venous disease. N Engl J Med. 2006 Aug
+3;355(5):488-98. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16885552?tool=bestpractice.bmj.com)
+11. Criqui MH, Denenberg JO, Bergan J, et al. Risk factors for chronic venous disease: the San Diego
+Population Study. J Vasc Surg. 2007 Aug;46(2):331-7.  Full text (https://www.jvascsurg.org/article/
+S0741-5214(07)00585-X/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17600666?
+tool=bestpractice.bmj.com)
+12. Kahn SR, Ginsberg JS. The post-thrombotic syndrome: current knowledge, controversies,
+and directions for future research. Blood Rev. 2002 Sep;16(3):155-65. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12163001?tool=bestpractice.bmj.com)
+13. Hull RD, Liang J, Townshend G. Long-term low-molecular-weight heparin and the post-
+thrombotic syndrome: a systematic review. Am J Med. 2011 Aug;124(8):756-65.  Full text (https://
+www.amjmed.com/article/S0002-9343(11)00339-1/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21787905?tool=bestpractice.bmj.com)
+14. Duque MI, Yosipovitch G, Chan YH, et al. Itch, pain, and burning sensation are common symptoms
+in mild to moderate chronic venous insufficiency with an impact on quality of life. J Am Acad
+Dermatol. 2005 Sep;53(3):504-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16112363?
+tool=bestpractice.bmj.com)
+15. Couzan S, Leizorovicz A, Laporte S, et al. A randomized double-blind trial of upward progressive
+versus degressive compressive stockings in patients with moderate to severe chronic venous
+insufficiency. J Vasc Surg. 2012 Nov;56(5):1344-50.e1. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22592040?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Chronic venous insufficiency References
+REFERENCES
+16. American Vein and Lymphatic Society (American College of Phlebology). Treatment of superficial
+venous disease of the lower leg. Feb 2016 [internet publication].  Full text (https://www.myavls.org/
+assets/pdf/SuperficialVenousDiseaseGuidelinesPMS313-02.03.16.pdf)
+17. American College of Radiology. ACR appropriateness criteria: lower extremity chronic venous disease.
+2023 [internet publication].  Full text (https://acsearch.acr.org/docs/69507/Narrative)
+18. Vasquez MA, Rabe E, McLafferty RB, et al; American Venous Forum Ad Hoc Outcomes Working
+Group. Revision of the Venous Clinical Severity Score: venous outcomes consensus statement:
+special communication of the American Venous Forum Ad Hoc Outcomes Working Group. J Vasc
+Surg. 2010 Nov;52(5):1387-96.  Full text (https://www.jvascsurg.org/article/S0741-5214(10)01638-1/
+fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20875713?tool=bestpractice.bmj.com)
+19. American Institute of Ultrasound in Medicine. AIUM practice parameter for the performance of a
+peripheral venous ultrasound examination. J Ultrasound Med. 2020 May;39(5):E49-56.  Full text
+(https://onlinelibrary.wiley.com/doi/10.1002/jum.15263)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32162338?tool=bestpractice.bmj.com)
+20. Amsler F, Blättler W. Compression therapy for occupational leg symptoms and chronic
+venous disorders: a meta-analysis of randomised controlled trials. Eur J Vasc Endovasc
+Surg. 2008 Mar;35(3):366-72. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18063393?
+tool=bestpractice.bmj.com)
+21. Cohen JM, Akl EA, Kahn SR. Pharmacologic and compression therapies for postthrombotic syndrome:
+a systematic review of randomized controlled trials. Chest. 2012 Feb;141(2):308-20. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22315114?tool=bestpractice.bmj.com)
+22. Raju S, Hollis K, Neglen P. Use of compression stockings in chronic venous disease: patient
+compliance and efficacy. Ann Vasc Surg. 2007 Nov;21(6):790-5. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17980798?tool=bestpractice.bmj.com)
+23. Shi C, Dumville JC, Cullum N, et al. Compression bandages or stockings versus no compression
+for treating venous leg ulcers. Cochrane Database Syst Rev. 2021 Jul 26;(7):CD013397.  Full text
+(https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013397.pub2/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34308565?tool=bestpractice.bmj.com)
+24. O'Meara S, Cullum NA, Nelson EA. Compression for venous leg ulcers. Cochrane Database
+Syst Rev. 2012 Nov 14;(11):CD000265.  Full text (https://www.cochranelibrary.com/cdsr/
+doi/10.1002/14651858.CD000265.pub3/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23152202?tool=bestpractice.bmj.com)
+25. Franks PJ, Oldroyd MI, Dickson D, et al. Risk factors for leg ulcer recurrence: a randomized
+trial of two types of compression stocking. Age Ageing. 1995 Nov;24(6):490-4. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8588538?tool=bestpractice.bmj.com)
+26. Meissner MH, Eklof B, Smith PC, et al. Secondary chronic venous disorders. J Vasc Surg.
+2007 Dec;46(suppl S):68S-83S. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18068563?
+tool=bestpractice.bmj.com)
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Chronic venous insufficiency References
+27. Jull A, Waters J, Arroll B. Pentoxifylline for treatment of venous leg ulcers: a systematic review.
+Lancet. 2002 May 4;359(9317):1550-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12047963?
+tool=bestpractice.bmj.com)
+28. Coleridge-Smith P, Lok C, Ramelet AA. Venous leg ulcer: a meta-analysis of adjunctive therapy with
+micronized purified flavonoid fraction. Eur J Vasc Endovasc Surg. 2005 Aug;30(2):198-208. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15936227?tool=bestpractice.bmj.com)
+29. Gohel MS, Davies AH. Pharmacological treatment in patients with C4, C5 and C6 venous disease.
+Phlebology. 2010 Oct;25(suppl 1):35-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20870818?
+tool=bestpractice.bmj.com)
+30. Barwell JR, Davies CE, Deacon J, et al. Comparison of surgery and compression with compression
+alone in chronic venous ulceration (ESCHAR study): randomised controlled trial. Lancet.
+2004 Jun 5;363(9424):1854-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15183623?
+tool=bestpractice.bmj.com)
+31. Nandhra S, El-sheikha J, Carradice D, et al. A randomized clinical trial of endovenous laser ablation
+versus conventional surgery for small saphenous varicose veins. J Vasc Surg. 2015 Mar;61(3):741-6. 
+Full text (https://www.jvascsurg.org/article/S0741-5214(14)01806-0/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25720930?tool=bestpractice.bmj.com)
+32. Gohel MS, Heatley F, Liu X, et al; EVRA Trial Investigators. A randomized trial of early
+endovenous ablation in venous ulceration. N Engl J Med. 2018 Apr 24;378(22):2105-14.  Full
+text (https://www.nejm.org/doi/10.1056/NEJMoa1801214)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29688123?tool=bestpractice.bmj.com)
+33. Rathbun S, Norris A, Stoner J. Efficacy and safety of endovenous foam sclerotherapy: meta-
+analysis for treatment of venous disorders. Phlebology. 2012 Apr;27(3):105-17. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22349606?tool=bestpractice.bmj.com)
+34. van den Bos R, Arends L, Kockaert M, et al. Endovenous therapies of lower extremity varicosities:
+a meta analysis. J Vasc Surg. 2009 Jan;49(1):230-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18692348?tool=bestpractice.bmj.com)
+35. Raju S. Endovenous treatment of patients with iliac-caval venous obstruction. J Cardiovasc
+Surg (Torino). 2008 Feb;49(1):27-33. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18212685?
+tool=bestpractice.bmj.com)
+36. Masuda EM, Kistner RL. Long-term results of venous valve reconstruction: a four- to-twenty-
+one-year follow-up. J Vasc Surg. 1994 Mar;19(3):391-403. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8126852?tool=bestpractice.bmj.com)
+37. de Moraes Silva MA, Nakano LC, Cisneros LL, et al. Balneotherapy for chronic venous insufficiency.
+Cochrane Database Syst Rev. 2023 Jan 9;(1):CD013085.  Full text (https://www.cochranelibrary.com/
+cdsr/doi/10.1002/14651858.CD013085.pub3/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36622745?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Chronic venous insufficiency References
+REFERENCES
+38. Serena TE, Orgill DP, Armstrong DG, et al. A multicenter, randomized, controlled, clinical trial
+evaluating dehydrated human amniotic membrane in the treatment of venous leg ulcers. Plast
+Reconstr Surg. 2022 Nov 1;150(5):1128-36.  Full text (https://journals.lww.com/plasreconsurg/
+Fulltext/2022/11000/A_Multicenter,_Randomized,_Controlled,_Clinical.39.aspx)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36067479?tool=bestpractice.bmj.com)
+39. Kirsner RS, Marston WA, Snyder RJ, et al. Spray-applied cell therapy with human allogeneic
+fibroblasts and keratinocytes for the treatment of chronic venous leg ulcers: a phase 2, multicentre,
+double-blind, randomised, placebo-controlled trial. Lancet. 2012 Sep 15;380(9846):977-85. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/22863328?tool=bestpractice.bmj.com)
+40. Perrin M, Ramelet AA. Pharmacological treatment of primary chronic venous disease: rationale,
+results and unanswered questions. Eur J Vasc Endovasc Surg. 2011 Jan;41(1):117-25.  Full text
+(https://www.ejves.com/article/S1078-5884(10)00624-6/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21126890?tool=bestpractice.bmj.com)
+41. Rabe E, Jaeger KA, Bulitta M, et al. Calcium dobesilate in patients suffering from chronic venous
+insufficiency: a double-blind, placebo-controlled, clinical trial. Phlebology. 2011 Jun;26(4):162-8.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21478142?tool=bestpractice.bmj.com)
+42. Rabe E, Stücker M, Esperester A, et al. Efficacy and tolerability of a red-vine-leaf extract in
+patients suffering from chronic venous insufficiency - results of a double-blind placebo-controlled
+study. Eur J Vasc Endovasc Surg. 2011 Apr;41(4):540-7.  Full text (https://www.ejves.com/article/
+S1078-5884(10)00755-0/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21239190?
+tool=bestpractice.bmj.com)
+43. Jull A, Slark J, Parsons J. Prescribed exercise with compression vs compression alone in treating
+patients with venous leg ulcers: a systematic review and meta-analysis. JAMA Dermatol. 2018 Nov
+1;154(11):1304-11.  Full text (https://jamanetwork.com/journals/jamadermatology/fullarticle/2705273)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30285080?tool=bestpractice.bmj.com)
+44. Araujo DN, Ribeiro CT, Maciel AC, et al. Physical exercise for the treatment of non-ulcerated chronic
+venous insufficiency. Cochrane Database Syst Rev. 2023 Jun 14;(6):CD010637.  Full text (https://
+www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010637.pub3/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37314059?tool=bestpractice.bmj.com)
+45. Masuda E, Ozsvath K, Vossler J, et al. The 2020 appropriate use criteria for chronic lower extremity
+venous disease of the American Venous Forum, the Society for Vascular Surgery, the American Vein
+and Lymphatic Society, and the Society of Interventional Radiology. J Vasc Surg Venous Lymphat
+Disord. 2020 Jul;8(4):505-25.e4.  Full text (https://www.jvsvenous.org/article/S2213-333X(20)30094-9/
+fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32139328?tool=bestpractice.bmj.com)
+46. National Institute for Health and Care Excellence. Leg ulcer infection: antimicrobial prescribing. Feb
+2020 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng152)
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Chronic venous insufficiency Images
+Images
+Figure 1: Serial images of severe CVI (C6) and chronic ulceration of the right lower extremity
+From the collection of Dr Joseph L. Mills; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Chronic venous insufficiency Images
+IMAGES
+Figure 2: Atrophie blanche in a patient with CVI
+From the collection of Dr Joseph L. Mills; used with permission
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Chronic venous insufficiency Images
+Figure 3: Lipodermatosclerosis and leg ulcer with hypercoagulable state and recurrent episodes of deep vein
+thrombosis (DVT)
+From the collection of Dr Joseph L. Mills; used with permission
+Figure 4: Serial images of recurrent venous ulcer with resolution at 3 months
+From the collection of Dr Joseph L. Mills; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Chronic venous insufficiency Images
+IMAGES
+Figure 5: Revised Venous Clinical Severity Score
+Adapted from Vasquez MA et al. J Vasc Surg 2010 Nov;52(5):1387-96; used with permission
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Chronic venous insufficiency Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Chronic venous insufficiency Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jun 22, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Contributors:
+// Authors:
+Joseph L. Mills Sr, MD
+Professor and Chief
+Division of Vascular Surgery and Endovascular Therapy, Michael E. DeBakey Department of Surgery,
+Baylor College of Medicine, Houston, TX
+DISCLOSURES: JLM declares that he has no competing interests.
+David G. Armstrong, DPM, MD, PhD
+Professor of Surgery
+Director of Southwestern Academic Limb Salvage Alliance (SALSA), Keck School of Medicine of University
+of Southern California (USC), Los Angeles, CA
+DISCLOSURES: DGA declares that his work is partially supported by grants from the National Institutes of
+Health and the National Institute of Diabetes and Digestive and Kidney Diseases.
+// Peer Reviewers:
+Anahita Dua, MD, MS, MBA, FACS
+Assistant Professor of Surgery
+Massachusetts General Hospital/Harvard Medical School, Boston, MA
+DISCLOSURES: AD declares that she has no competing interests.
+Paul Tisi, MBBS, MS, FRCSEd
+Medical Director/Consultant Vascular Surgeon
+Bedford Hospital, Bedford, UK
+DISCLOSURES: PT declares that he has no competing interests.

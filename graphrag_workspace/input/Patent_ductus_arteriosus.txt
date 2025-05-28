@@ -1,0 +1,2138 @@
+# Patent ductus arteriosus
+
+=== Page 1 ===
+Patent ductus
+arteriosus
+Straight to the point of care
+Last updated: Apr 23, 2025
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  5
+Case history  5
+Diagnosis  7
+Approach  7
+History and exam  9
+Risk factors  11
+Tests  13
+Differentials  15
+Management  17
+Approach  17
+Treatment algorithm overview  20
+Treatment algorithm  22
+Emerging  29
+Primary prevention  29
+Patient discussions  29
+Follow up  30
+Monitoring  30
+Complications  31
+Prognosis  32
+Guidelines  34
+Diagnostic guidelines  34
+Treatment guidelines  35
+References  36
+Images  49
+Disclaimer  51
+=== Page 3 ===
+Patent ductus arteriosus Overview
+Summary
+Patent ductus arteriosus (PDA) occurs when the ductus arteriosus, a vascular fetal structure that usually
+closes in the first 48 hours after birth, fails to close.
+Persistence of the ductus arteriosus can result in heart failure, increased pulmonary pressures, and
+endarteritis.
+The incidence and sequelae of a PDA are more significant in premature infants than infants born at full-term.
+Clinical history and presentation can vary significantly depending on age of the child and the size of
+the ductus. Patients may be entirely asymptomatic or have signs and symptoms of heart failure and
+hemodynamic instability.
+Treatment options vary depending on the age of the patient and the size of the ductus. Practice may vary
+significantly between institutions.
+Definition
+PDA describes the persistence of a fetal vascular structure, known as the ductus arteriosus, after birth. The
+ductus arteriosus connects the main pulmonary artery to the aorta, allowing blood to bypass the lungs in
+utero. It usually closes in the first 48 hours of life.[1]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Patent ductus arteriosus Theory
+THEORY
+Epidemiology
+The persistence of a patent ductus arteriosus (PDA) is much more common in preterm than full-term
+infants.[2] This is secondary to the immaturity of the ductus.[3] Since the advent of echocardiography, the
+incidence of PDA in children born at full-term has been reported as approximately 1 to 2 per 1000.[4] This
+estimate is higher than previously thought because it includes clinically silent PDAs.[5] There is globally a
+higher incidence in females as well as in children born at higher altitudes.[6] [7] In the US, incidence is higher
+in black children compared with white children.[4]
+In premature infants, the incidence is substantially greater. Studies in the US have shown an incidence
+as high as 20% in premature infants weighing <1750 g and 64% in those weighing <1000 g.[8] [9] In the
+Republic of Korea, the prevalence of PDA in infants is 81 per 10,000 live births, with the annual prevalence
+increasing from 70 per 10,000 in 2015 to 94 per 10,000 in 2018, especially in term infants. Very-low-birth-
+weight infants in the Republic of Korea also had a reported PDA prevalence of 47.25% in 2018 (an increase
+of 5.6% from 2015).[10] Research indicates that socioeconomic disparities can delay the diagnosis of
+PDA and access to care, which, in turn, affects neurodevelopment outcomes, underscoring the need for
+addressing these disparities to improve long-term outcomes for affected children.[11]
+Etiology
+In the fetus, the ductus arteriosus diverts cardiac output away from the lungs towards the placenta to support
+systemic oxygenation.[12] The fetal ductus has intrinsic tone and its patency is maintained by a low-oxygen
+environment and dilating factors (circulating prostaglandins produced by the placenta [PGE2 and PG12],
+nitric oxide, adenosine, atrial natriuretic peptide, carbon monoxide, and potassium channels).[12] [13] After
+birth, systemic oxygen saturation increases with the onset of breathing, contributing to the constriction of the
+ductus through potassium-mediated channels.[14] [15] Postnatally, the level of circulating prostaglandins
+falls as the placenta is removed from the circulation. In addition, pulmonary blood flow increases, resulting
+in increased metabolism of prostaglandins. There may be several other unknown factors that contribute to
+ductal closure.[13] [16] Hemodynamic constriction is later followed by complete structural closure mediated
+by histologic changes that obliterate the ductal lumen.[17]
+While the process of ductal closure is fairly well understood, the factors that result in persistence of the
+ductus are less clear. Emerging research reveals that genetic predisposition and intrauterine inflammation
+play critical roles in affecting the neurodevelopment of children with congenital heart disease, indicating a
+significant interplay between genetic and environmental factors in brain development.[11] The incidence of
+patent ductus arteriosus (i.e., an open ductus beyond the first 3 postpartum days) exceeds 50% in preterm
+infants ≤28 weeks’ gestational age.[12] In preterm infants, there may be a decreased response to oxygen
+and a continued sensitivity to prostaglandins compared with full-term infants, in addition to generalized
+immaturity of the smooth muscle.[12] [18] [19] On histologic exam, differences between the tissue of
+a persistent ductus versus a physiologic ductus have been noted and suggest an anatomic reason for
+persistence.[17]
+Pathophysiology
+The pathophysiology occurs as a result of shunting of blood from the aorta to the pulmonary artery across
+this persistent vascular connection. After birth, pulmonary vascular resistance falls, while systemic resistance
+remains unchanged, leading to left to right shunting through the patent ductus arteriosus (PDA). The degree
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Patent ductus arteriosus Theory
+of shunting, and thus the clinical presentation, depends on both the systemic to pulmonary artery pressure
+ratio and the size of the ductus.[20] A small ductus in the setting of near systemic pulmonary pressures will
+have limited flow. However, a larger ductus will have less resistance to flow and will initially be associated
+with a greater degree of shunting as pulmonary resistance falls in the newborn period. This will result in
+an increase in left ventricular volume, increased left ventricular output, and pulmonary overcirculation.[21]
+Increased blood flow to the lungs leads to decreased pulmonary compliance and increased work of
+breathing. With the increased preload, the left ventricle dilates and left ventricular end diastolic pressures and
+left atrial pressures increase. The increase in left-sided cardiac pressure inhibits pulmonary venous return,
+furthering pulmonary congestion.
+The effects of pulmonary overcirculation and systemic steal are most pronounced in preterm infants.
+Increased pulmonary blood flow not only leads to pulmonary edema, but also to pulmonary hemorrhage,
+respiratory distress syndrome, and bronchopulmonary dysplasia.[22] [23] [24] [25] Decreased systemic
+perfusion may be responsible for the increased incidence of necrotizing enterocolitis and intraventricular
+hemorrhage seen in preterm infants with PDA.[26][27] Additionally, a large PDA can impact myocardial
+perfusion by decreasing diastolic blood pressure. This, along with the shorter diastolic time caused by
+compensatory tachycardia, can reduce coronary artery blood flow.[28]
+Classification
+Small, moderate, or large
+• If the ductus is widely patent, such that the vessel itself provides no resistance to flow, then it is
+considered large. The amount of shunting across a large patent ductus arteriosus will be dependent
+upon the relative pulmonary and systemic vascular resistance. A large ductus is usually of equal or
+greater diameter than one of the proximal branch pulmonary arteries.
+• A moderate-sized ductus will provide some resistance to flow. However, the amount of shunting will be
+great enough to result in some degree of left atrial dilation.
+• A small ductus will significantly restrict flow such that there will be no dilation of the left atrium or left
+ventricle.
+Overt or silent
+While some patients with patent ductus arteriosus (PDA) may present with overt clinical features, others
+may present with no signs or symptoms; this is referred to as a silent PDA. A murmur is absent. The ductus
+becomes evident as an incidental finding when an echocardiogram is performed for another purpose. There
+has been some controversy over the treatment of a silent PDA.
+Case history
+Case history #1
+A 6 week-old infant girl is brought to her pediatrician with poor feeding. Since she was last seen at 2
+weeks she has had poor weight gain. She sweats with feeds and seems to tire out easily. There is no
+significant family history. On physical exam she is noted to be tachypneic and uninterested in her bottle
+after a few minutes of feeding. She has increased work of breathing. On cardiac exam, she has a grade 4
+continuous murmur that is heard in the left infraclavicular region and back. She also has an early diastolic
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Patent ductus arteriosus Theory
+THEORY
+rumble best heard at the apex. Her liver is 3 cm below her costal margin. Her pulses are bounding.
+Her chest x-ray (CXR) reveals an enlarged heart with a prominent main pulmonary artery segment and
+increased pulmonary markings.
+Case history #2
+A 28 week premature boy is treated with appropriate doses of surfactant. However, on his second day of
+life he has worsening symptoms of respiratory distress syndrome with increasing ventilatory requirements.
+He has also started demonstrating apneic episodes. He is noted to have a widened pulse pressure (30
+mmHg) on his arterial line and he is starting to have some bloody stools. On physical exam, he is noted
+to have bounding pulses and a prominent precordial impulse. On auscultation a grade 3 systolic ejection
+murmur can be heard in the left infraclavicular area. His abdomen also appears distended. On CXR, his
+lung fields are almost completely opacified.
+Other presentations
+Clinical presentation depends on the age of the patient and the size of the shunt. Patients can be
+completely asymptomatic, have significant heart failure, or, if they present much later in life, may have
+signs and symptoms of pulmonary hypertension. Premature infants with a hemodynamically significant
+patent ductus arteriosus (PDA) usually develop clinical signs in the first week of life. Full-term infants with
+a PDA may present in early infancy with a murmur, or signs of heart failure if they have a large shunt
+across the ductus. Conversely, they may not present until late childhood with mild exercise intolerance if
+the shunt is smaller. Hemodynamically insignificant shunts will not be associated with symptoms but may
+be picked up by the presence of a murmur on exam. Atypically, if a hemodynamically significant PDA is
+missed in childhood, it may present in adulthood with heart failure, atrial arrhythmias, endarteritis, or, most
+seriously, with irreversible pulmonary vascular disease characterized by desaturation and evidence of
+right heart failure.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Patent ductus arteriosus Diagnosis
+Approach
+Clinical history and presentation can vary significantly depending on the age of the child and the size
+of the ductus. Patients may be entirely asymptomatic or have signs and symptoms of heart failure and
+hemodynamic instability.
+History
+The clinical history varies depending on the age of the patient and the size of the shunt.
+In premature babies the clinical history can be somewhat nonspecific. They can have worsening
+respiratory status with tachypnea and/or apnea and increased ventilation requirements. They can also
+have circulatory instability associated with low diastolic blood pressure (BP), which may mimic sepsis.
+In full-term infants and children with a small patent ductus arteriosus (PDA) there may be no significant
+clinical history.
+With a moderate or large PDA, infants may present with nonspecific symptoms such as tachypnea,
+irritability, poor feeding, diaphoresis, and failure to gain weight. They may be prone to increased
+respiratory symptoms with upper respiratory infections. An older child or adult may present with shortness
+of breath and exercise intolerance.[40] [41]
+Physical examination
+Irrespective of size, PDA in the newborn is associated with a murmur heard only during systole. However,
+the murmur later becomes more continuous in nature.
+• Small ductus: on cardiac exam, there is usually normal precordial activity with a normal S1 and
+S2. A continuous murmur is best heard in the second left intercostal space. It may radiate to the
+back. The murmur is accentuated late in systole and continues into diastole.[42] The lung exam
+and respiratory rate are usually normal.
+• Moderate or large ductus: these children usually have a hyperdynamic precordium. A systolic thrill
+may sometimes be palpable in the upper left sternal border. The first and second heart sounds
+are sometimes masked by the murmur. A third heart sound is often heard at the apex. There may
+also be a mid-diastolic rumble heard at the apex. The peripheral pulses are often bounding. On
+respiratory exam, these children may be tachypneic. If they are in heart failure they may have
+pulmonary rales.
+On BP measurement there may be a widened pulse pressure if the ductus is large.
+Diagnostic testing
+If there is concern for a PDA based on clinical findings, a chest x-ray (CXR) and electrocardiogram (ECG)
+may be helpful in providing information with regard to the presence or absence of a clinically significant
+shunt. The definitive diagnostic test is an echocardiogram.[33][41]
+CXR
+A CXR in a patient with a moderate or large, hemodynamically significant ductus will demonstrate an
+enlarged heart and increased pulmonary vascular markings. The main pulmonary artery segment will be
+prominent. Left atrial dilation, best seen on the lateral film, will be present. In patients with smaller shunts,
+the CXR can be completely normal.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Patent ductus arteriosus Diagnosis
+DIAGNOSIS
+ECG
+During early infancy, the ECG is often normal. However, in older infants and children, it may demonstrate
+left ventricular enlargement, with a deep Q wave and tall R waves in leads II, III, aVF, V5, and V6. Left
+atrial enlargement with widened P waves may also be seen. Findings are nonspecific, as they can be
+seen with other left-sided shunts such as ventricular septal defects. In patients with smaller shunts, the
+ECG can be completely normal.
+Echocardiogram
+The definitive test to confirm diagnosis is an echocardiogram.[33] [43] In children, this should be
+performed by a sonographer trained in congenital heart disease (CHD) in conjunction with a pediatric
+cardiologist; alternatively, a referral to a pediatric cardiologist should be made.[44] Echocardiography
+can confirm the presence and size of the ductus as well as the direction of shunting. It is important to
+determine the direction and velocity of the shunt in order to understand the degree of ductal resistance
+and relative systemic to pulmonary pressure. Left heart chamber dimensions can be evaluated to
+determine the significance of the duct. In the early days of echo, sensitivity was 96% and specificity was
+100% compared with angiography.[45] However, in the present era, with echo’s improved capabilities, it is
+accepted as 100% sensitive, with angiography and catheterization reserved for treatment purposes only.
+Echo of a 26-week premature infant demonstrates color Doppler flow from the systemic
+circulation (aorta) through the patent ductus arteriosus (PDA) to the left pulmonary artery
+Nelangi M. Pinto, MD; used with permission
+Early prenatal detection of CHD through echocardiography enables timely planning for neuroprotective
+strategies during neonatal care, which may alleviate some neurodevelopment impacts associated with
+CHD.[11]
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Patent ductus arteriosus Diagnosis
+Cardiac catheterization and angiography
+Cardiac catheterization with angiography is usually not necessary for the diagnosis of an uncomplicated
+PDA. The role of this procedure in most cases is the facilitation of closure via transcatheter occlusion. If
+used diagnostically, it provides evidence of the presence and severity of shunt and allows assessment of
+any associated pulmonary hypertension.
+Lateral angiogram of 1-year-old child demonstrates flow of contrast from the
+aorta through a patent ductus arteriosus (PDA) to the pulmonary circulation
+Nelangi M. Pinto, MD; used with permission
+Emerging tests
+One Cochrane review found that a simple blood assay for brain natriuretic peptide (BNP) or amino-
+terminal pro-B-type natriuretic peptide (NT-proBNP) had moderate accuracy in the diagnosis of
+hemodynamically significant PDA. However, the studies evaluating the diagnostic accuracy of these
+assays varied considerably by assay characteristics and patient characteristics; hence, generalizability
+between centers is not possible and further studies are needed.[46]
+History and exam
+Key diagnostic factors
+presentation in infancy (common)
+• A large patent ductus arteriosus most often presents as pulmonary resistance falls, usually before 2-3
+months of age. Diagnosis in adolescence or adulthood is much more unusual but does occur.
+Other diagnostic factors
+tachypnea/shortness of breath (SOB) (common)
+• In moderate or large patent ductus arteriosus, pulmonary overcirculation often results in increased
+work of breathing and SOB. In older children, this SOB can sometimes be mistaken for reactive
+airways disease.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Patent ductus arteriosus Diagnosis
+DIAGNOSIS
+faltering growth (common)
+• In moderate or larger patent ductus arteriosus, faltering growth is a common presenting symptom for
+infants.
+exercise intolerance (common)
+• In moderate or larger patent ductus arteriosus, exercise intolerance is a common presenting symptom
+for older children.
+widened pulse pressure (common)
+• With a hemodynamically significant shunt, a widened pulse pressure can be detected by blood
+pressure measurement or by palpation of bounding pulses. In preterm infants, bounding pulses are a
+poor independent predictor for the presence of a patent ductus arteriosus.[47]
+machine-like continuous murmur/Gibson murmur in children born at full-
+term (common)
+• This classic murmur, known as a Gibson murmur or machinery murmur, is best heard in the left
+infraclavicular area, peaks in late systole, and continues through into diastole.[42] However, some
+patients with a higher pulmonary pressure in diastole may have a murmur that is confined to systole.
+The lack of a continuous murmur does not rule out a patent ductus arteriosus.[2] A murmur is a less
+reliable sign in preterm infants, with high specificity but poor sensitivity.[47]
+apnea (common)
+• May be a symptom in premature infants.
+low diastolic blood pressure (BP) (common)
+• Low diastolic BP with circulatory instability may mimic sepsis in preterm infants.
+irritability (common)
+• This is a nonspecific symptom in full-term infants and children.
+diaphoresis (common)
+• This is a nonspecific symptom in full-term infants and children.
+increased respiratory symptoms with upper respiratory infection (common)
+• Full-term infants and children are prone to these infections.
+murmur heard only during systole (common)
+• This is a sign in newborns, irrespective of the size of the ductus.
+hyperdynamic precordium (common)
+• This is a sign in children with a moderate to large ductus.
+systolic thrill (common)
+• A systolic thrill may be palpable in the upper left sternal border. This is a sign in children with a
+moderate to large ductus.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Patent ductus arteriosus Diagnosis
+third heart sound heard at apex (common)
+• This is a sign in children with a moderate to large ductus.
+mid-diastolic rumble heard at apex (common)
+• This is a sign in children with a moderate to large ductus.
+bounding peripheral pulses (common)
+• This is a sign in children with a moderate to large ductus.
+pulmonary rales (uncommon)
+• Can be heard as a result of pulmonary edema or venous congestion secondary to higher left atrial
+pressures.
+Risk factors
+Strong
+prematurity
+• The relationship between delayed closure of the ductus arteriosus and prematurity has long been
+recognized.[29] The incidence of patent ductus arteriosus (PDA) in all preterm infants is about 8 per
+1000 births, which is almost 10 times that seen in full-term infants.[2] This increases with decreasing
+gestational age and birth weight, with an incidence as high as 20% in preterm infants weighing <1750
+g and 64% in preterm infants <1000 g.[8] [9] Gestational age is related to ductal sensitivity to oxygen
+and prostaglandins, with a decreased reaction to oxygen and an increased sensitivity to prostaglandins
+seen in more premature infants.[19] Prematurity is also associated with generalized immaturity of
+the smooth muscle.[12] There is some evidence that the use of prophylactic protein-free synthetic
+surfactant in preterm infants may increase the risk of PDA.[30]
+maternal rubella
+• Maternal rubella infection in the first trimester is associated with an increased incidence of patent
+ductus arteriosus (PDA).[31] While maternal rubella is associated with several congenital heart
+lesions, PDA is the most common, seen in up to 50% of cases in some early series.[32] The persistent
+ductus in these patients is histologically akin to an immature ductus.[33] The mechanism of this
+relationship is not well understood.
+female#sex
+• Seen predominantly in females. In one series, 64% of patent ductus arteriosus occurred in females (a
+ratio of almost 2:1).[6]
+Weak
+respiratory distress syndrome (RDS)
+• There appears to be an association between severe RDS and patent ductus arteriosus (PDA), as a
+much higher incidence of PDA is seen in premature infants ill with RDS.[25] PDA is also associated
+with a 4.5-fold increase in the occurrence of bronchopulmonary dysplasia and prolonged exposure
+to PDA is associated with an increased risk of pulmonary vascular disease in preterm infants.[23][34]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Patent ductus arteriosus Diagnosis
+DIAGNOSIS
+ While the direction of this relationship would seem to implicate PDA as a causal factor, the decreased
+oxygenation occurring as a result of RDS and lung pathology may result in decreased metabolism of
+prostaglandins, thereby contributing to the continued persistence of the duct. This raises the possibility
+that PDA could instead be a consequence of RDS.[35]
+high altitude
+• Children living at higher altitudes have a higher prevalence.[7] In addition, the effect of altitude is
+progressive, with lower ambient oxygen levels likely contributing to persistence of the ductus.
+family history
+• Development is multifactorial with evidence for a genetic contribution in certain cases. Siblings of
+patients are at increased risk (3%) of the defect.[36] There is an increased occurrence with certain
+syndromes such as trisomy 21, 4p, and Holt-Oram syndrome.[33] In addition, Char syndrome,
+autosomal dominant inheritance of patent ductus arteriosus, is sometimes seen.[37] Other
+investigators have found a recessive gene locus that may be associated.[38]
+black race
+• In the US, there is a racial differential, with a higher incidence found in black children compared with
+white children.[4]
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Patent ductus arteriosus Diagnosis
+Tests
+1st test to order
+Test Result
+CXR
+• This test is not diagnostic or very sensitive, but it may be helpful
+in providing information with regard to the presence or absence of
+a clinically significant shunt. The CXR can be completely normal
+for patients with smaller shunts. With more significant shunting it
+may show cardiomegaly (left atrial and left ventricular enlargement),
+increased pulmonary markings, left atrial dilation (best seen on the
+lateral film), and a prominent main pulmonary artery.[33]
+cardiomegaly, increased
+pulmonary markings,
+prominent main
+pulmonary artery
+segment, left atrial
+dilation
+ECG
+• An ECG is not very sensitive for detecting a patent ductus arteriosus
+and is used only for corroborative purposes. It may be completely
+normal. With significant left-sided overload, left ventricular dilation
+and hypertrophy will result in deep Q waves and tall R waves in leads
+II, III, aVF, and the left precordial leads (V5 and V6). Significant left
+atrial enlargement may manifest as widened P waves.[2] These ECG
+findings are nonspecific, as they can be seen with other left-sided
+shunts such as a ventricular septal defect.
+deep Q waves and tall R
+waves in leads II, III, aVF,
+V5, and V6. Sometimes
+widened P waves
+echocardiogram
+• Definitive diagnostic test for a PDA.[33] [41] In children the
+echocardiogram should be performed by a sonographer trained in
+congenital heart disease in conjunction with a pediatric cardiologist;
+alternatively, referral to a pediatric cardiologist should be made.[44]
+• Echocardiography can confirm the presence and size of the ductus
+as well as the direction of shunting. It is important to determine the
+direction and velocity of the shunt to understand the ductal resistance
+and the relative systemic to pulmonary pressure. Left heart chamber
+dimensions can also be evaluated to determine the significance of the
+duct.
+• In the early days of echo, sensitivity was 96% and specificity was
+100% compared with angiography.[45] However, in the present era,
+with echo's improved capabilities, it is accepted as 100% sensitive,
+with angiography and catheterization reserved for treatment purposes
+only.
+Two-dimensional
+and/or color Doppler
+evidence of a patent
+ductus arteriosus (PDA).
+Diastolic forward flow in
+the pulmonary artery.
+Left ventricular and/or
+left atrial enlargement.
+Diastolic flow reversal in
+the distal aortic arch
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Patent ductus arteriosus Diagnosis
+DIAGNOSIS
+Test Result
+Echo of a 26-week premature infant demonstrates color
+Doppler flow from the systemic circulation (aorta) through the
+patent ductus arteriosus (PDA) to the left pulmonary artery
+Nelangi M. Pinto, MD; used with permission
+Other tests to consider
+Test Result
+cardiac catheterization and angiography
+• Not routinely done for diagnostic evaluation of uncomplicated patent
+ductus arteriosus.
+• Angiography provides anatomic evidence of shunt. If used
+diagnostically, it provides evidence of the presence and severity
+of shunt and allows assessment of any associated pulmonary
+hypertension.
+• Role of catheterization is chiefly therapeutic in facilitating
+transcatheter occlusion.
+Lateral angiogram of 1-year-old child demonstrates
+flow of contrast from the aorta through a patent
+ductus arteriosus (PDA) to the pulmonary circulation
+Nelangi M. Pinto, MD; used with permission
+presence of shunt and
+any coexisting cardiac
+abnormalities; pulmonary
+hypertension.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Patent ductus arteriosus Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Venous hum • A venous hum can be
+heard usually more on
+the right side. In addition,
+it diminishes with supine
+positioning and with local
+compression.
+• Physical exam will
+distinguish a venous hum as
+described previously. If there
+is still sufficient concern,
+echo can be performed. In
+the case of a venous hum,
+the echo will be normal.
+Coronary artery fistula • This murmur is also
+continuous. However, it is
+usually heard lower in the
+precordium.[2]
+• Can be distinguished by
+echo. On echo evaluation, a
+coronary fistula will appear
+as a small continuous jet of
+flow into the right ventricle
+or main pulmonary artery.
+It can be distinguished by
+location.
+Left-sided shunts
+(ventricular septal defect,
+atrioventricular septal
+defect)
+• These lesions can present
+similarly with regard to
+clinical history, ECG, and
+CXR findings. However, the
+murmur of most left to right
+shunts will only be heard
+in systole. The exception
+is an aortopulmonary
+window, which is a large
+connection between aorta
+and pulmonary artery, and
+will present with clinical
+findings identical to that
+of a large patent ductus
+arteriosus.
+• Echo can definitively
+distinguish these lesions
+by their characteristic
+appearance and location.
+Left heart enlargement, if
+present, will look similar in all
+these lesions.
+Aortic regurgitation • These patients often present
+at an older age. They can
+also present with symptoms
+of exercise intolerance. They
+usually do not demonstrate
+tachypnea. The murmur
+is characteristically a
+high-pitched diastolic
+decrescendo murmur best
+heard at the lower left sternal
+border.
+• Echo can definitively
+distinguish aortic
+regurgitation from a patent
+ductus arteriosus. On
+echo, the descending aorta
+may similarly demonstrate
+diastolic flow reversal
+depending on the degree
+of aortic regurgitation.
+However, a diastolic
+regurgitant jet will be seen at
+the level of the aortic valve.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Patent ductus arteriosus Diagnosis
+DIAGNOSIS
+Screening
+Premature infants
+Screening is usually reserved for preterm infants. As early as 1989, it was found that early screening
+and treatment of patent ductus arteriosus (PDAs) in this population might be advantageous.[48] Centers
+differ in practice, with some centers routinely screening for PDA by echo for infants less than a certain
+gestational age and weight (<28 weeks or <1000 g) at 2 to 3 days of life. This is due to concerns about the
+limited value of clinical exam in diagnosis, and the perceived benefits of early treatment.[47] Some centers
+prefer to prophylactically treat without any screening to confirm the diagnosis, although evidence for this is
+controversial.[49] [50]
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Patent ductus arteriosus Management
+Approach
+The main goal of treatment in premature infants is to prevent morbidity and mortality secondary to
+hemodynamic instability and comorbidities such as respiratory distress syndrome, intraventricular
+hemorrhage, and necrotizing enterocolitis.[24] [26][27] As a result, there are different treatment strategies for
+premature infants, full-term infants/children, and adults. Integrating family-centered care into the treatment
+plan for children with PDA is crucial, promoting parental involvement in care routines and development
+support to foster a neurodevelopmentally stimulating environment. Perioperative care for children undergoing
+surgical correction of PDA should focus on maintaining hemodynamic stability and adequate cerebral
+oxygenation, with anesthesia protocols designed to minimize potential brain injury.[11]
+Premature infants
+A great deal of controversy remains over how, when, and if to treat patent ductus arteriosus (PDA) in
+premature infants.[53] Four main management approaches can be differentiated:[54]
+1. Early targeted prophylaxis (<24 hours)
+2. Targeted therapy of asymptomatic infants (<6 days after birth)
+3. Symptomatic treatment when the PDA becomes hemodynamically relevant (≥6 days after birth)
+4. Late symptomatic treatment after watchful waiting OR rescue treatment after previously failed
+treatment.
+Treatment options include medical therapy, conservative management, surgical intervention, or
+percutaneous catheter device closure. The cyclooxygenase (COX) inhibitor indomethacin, given
+intravenously, has been the mainstay of medical treatment since pharmacotherapy for PDA was
+introduced to clinical practice.[54] COX inhibitors work by inhibiting prostaglandin synthesis. New
+formulations; however, such as oral and intravenous ibuprofen, and oral and intravenous acetaminophen,
+have now increased the range of treatment options. Furthermore, use of COX inhibitors is declining in
+favor of watchful waiting (conservative management).[54] Surgical ligation or percutaneous catheter
+device closure may be considered if initial medical treatment fails.
+Early targeted prophylaxis - indomethacin
+Prophylactic indomethacin involves treatment with indomethacin at 0 days of life before a PDA becomes
+clinically evident. The first dose is usually started within the first 12 hours of life. It is usually reserved
+for very low birth weight infants (the cut-off varies between centers, but is normally <1300 g or <1000
+g). Cochrane reviews have found that it decreases the rate of PDA, the need for surgical ligation for
+PDA, and the rate of intraventricular hemorrhage in this population.[50] [55] [56] [57]  However, no
+difference has been reported in mortality rate, incidence of morbidities such as necrotizing enterocolitis
+and bronchopulmonary dysplasia, or long-term neurosensory outcome.[55] [57] Infants being treated with
+indomethacin must have electrolytes, creatinine, urine output, and platelets monitored regularly during
+administration. Feeds are withheld. Complications can include necrotizing enterocolitis, bleeding, or renal
+dysfunction.[58] [59]
+Medical treatment - ibuprofen or indomethacin
+Medical treatment is first-line for preterm infants in whom ductus has become clinically evident or has
+been diagnosed by echo and should be initiated within the first few days of life.
+• Ibuprofen: while indomethacin was previously the standard of care, ibuprofen is now largely
+considered the pharmacotherapy of choice due to its similar efficacy but significantly better safety
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Patent ductus arteriosus Management
+MANAGEMENT
+profile.[60] [61] [62] [63] One Cochrane review comparing both oral and intravenous ibuprofen
+with indomethacin found a decreased risk of necrotizing enterocolitis and transient kidney injury in
+patients treated with ibuprofen, with similar effectiveness between interventions.[60]  Both ibuprofen
+and indomethacin have been shown to reduce the risk of severe intraventricular hemorrhage,
+although indomethacin appears to be more effective, hence why it is used in preference to
+ibuprofen as a prophylactic treatment in very low birth weight babies.[57] Studies suggest that
+high-dose ibuprofen may increase the likelihood of PDA closure compared to standard-dose
+ibuprofen.[57] [60] [64] [65] High-dose ibuprofen may therefore be considered the preferred dosage;
+however, significant caution should be exercised in preterm infants younger than 26 weeks due
+to a lack of data in this age group.[61] Studies have reported that oral ibuprofen is as effective as
+intravenous (IV) ibuprofen, with no significant difference in morbidity demonstrated.[60] [66] [67]
+ More recently, an overview paper, which summarized the evidence from 16 Cochrane Reviews of
+randomized controlled trials, found that oral ibuprofen appears to be more effective in PDA closure
+than IV ibuprofen in preterm infants.[57]
+• Indomethacin: treatment with indomethacin has shown to be successful in closing symptomatic
+PDAs compared with placebo.[8] [68] While some centers practice a prolonged course of
+indomethacin (>4 and usually 7 doses), no significant difference has been shown in successful
+PDA closure, need for retreatment, need for surgical ligation, or such outcomes as mortality and
+the incidence of comorbidities such as chronic lung disease or necrotizing enterocolitis with this
+longer regimen.[69] B-type natriuretic peptide (BNP)-guided treatment has been shown to reduce
+the number of primary indomethacin doses in infants with PDA.[70] In one small study, subsequent
+indomethacin doses were withheld if a 12-hour or 24-hour BNP level after the first dose was <100,
+with no difference in PDA persistence found between the groups.[70]
+If the first course of ibuprofen or indomethacin is unsuccessful, a second course is usually given prior to
+consideration of procedural closure.[61]
+Conservative management
+Conservative management may be considered as an alternative to medical treatment in certain
+circumstances. The Canadian Paediatric Society makes a conditional recommendation for conservative
+management of symptomatic PDA in the first 1-2 weeks post-birth.[61] One systematic review and meta-
+analysis found no significant differences in morbidity or mortality in clinical trials assessing conservative
+management compared to pharmacologic or surgical treatment in preterm infants.[71] One Cochrane
+review had similar findings, with early (<7 days old) or very early (<72 hours old) empiric treatment of
+PDA no more effective than conservative management in mortality or morbidity outcomes (including
+development of chronic lung disease, necrotizing enterocolitis, severe intraventricular hemorrhage, or
+neurodevelopmental abnormalities).[72] One subsequent multicenter randomized placebo-controlled trial
+reported that the risk of morbidity or mortality was similar in patients treated with ibuprofen, compared
+with placebo.[73] Another multicenter randomized controlled trial found that expectant management
+for PDA in extremely premature infants was noninferior to early ibuprofen treatment with respect to
+necrotizing enterocolitis, bronchopulmonary dysplasia, or death at 36 weeks’ postmenstrual age.[74]
+Conservative management in preterm infants may involve diuretic therapy, increasing positive airway
+pressures, and fluid restriction, although these approaches have not been systematically assessed
+in clinical trials.[61] [63] [75] [76] Significant caution should be exercised if considering conservative
+management in high-risk preterm infants (e.g., those younger than 26 weeks).[61]
+Surgical ligation
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Patent ductus arteriosus Management
+Surgical ligation is usually reserved as a second-line treatment when medical treatment has failed
+or is contraindicated.[61] [77] It can be performed on premature infants as small as 600 g. Surgical
+ligation of the duct generally has very high success rates, with low associated morbidity.[58] [78]
+ Complications are rare and include recanalization of the duct, pneumothorax, effusion, hemorrhage,
+and wound infection.[79] While one study did show a relatively high late mortality in preterm infants,
+this was felt to be related to the high risk inherent in this population, rather than to the surgery itself.[80]
+There has been some inquiry into the favorability of surgical ligation as first-line management in this
+population.[81] [82] However, there are currently limited data to allow for adequate comparison of the
+two treatment approaches.[81]  One review suggested that there may be little benefit to prophylactic
+surgical ligation compared with no therapy or medical therapy, with no significant decrease in mortality or
+bronchopulmonary dysplasia.[83] Another review refuted earlier postulations that primary surgical ligation
+may decrease the incidence of necrotizing enterocolitis.[84] Videothorascopic surgical ligation is being
+used with increasing frequency in selected cases with good results.[85]
+Percutaneous catheter device closure
+Transcatheter closure of PDA in preterm and extremely low birth weight infants is becoming more feasible
+and less complicated with the advent of smaller devices and smaller delivery sheaths. In practice, this is
+becoming a more common second-line therapy for ductal closure than surgical ligation in most academic
+centers.[61] [63] Catheter devices include coils, the Amplatzer Piccolo Occluder, the Rashkind umbrella
+device, and the Gianturco-Grifka occlusion device.[86] Choice of device depends on ductal morphology
+and operator choice during the procedure.[87] Patients are given subacute bacterial endocarditis
+prophylaxis for 6 months after the procedure, or longer if turbulent flow persists around the device.[88]
+Full-term infants and children
+The goal of treatment in this group is to alleviate or prevent heart failure and to prevent increased
+pulmonary pressures with a significant shunt. With smaller shunts or silent PDAs, the goal of treatment is
+the prevention of endarteritis through routine closure. However, this remains controversial. Any infant or
+child who is symptomatic usually has closure as soon as possible.
+Percutaneous catheter device closure
+First-line treatment in this group of patients is catheter device closure if patients are of sufficient size, as it
+avoids surgery and can usually be done with just a day admission or overnight hospital stay. Safe device
+closure has been reported in patients as young as 6 months and as small as 5 kg.[89] Transcatheter
+closure is also usually reserved for small or moderate size ducts, although with newer devices, larger
+ducts have been able to be treated with increasing efficacy.[90] If infants are asymptomatic, the procedure
+is often delayed until they are close to 1 year of age. In children >1 year, the procedure can be scheduled
+at the time of diagnosis, either electively or as needed, depending on their symptoms and left heart
+overload. The procedure has an extremely high success rate of >95% with no mortality and few
+complications.[91] [92] Complications can include coil embolization, persistent turbulent flow around
+the device, and residual leak.[92] [93] Complications are more likely to occur in smaller children.[93]
+There are several types of device that can be employed for catheter closure and choice of device usually
+depends on the morphology of the duct.[87]
+Diuretics
+Patients who present with symptoms outside of the neonatal period may not be large enough to undergo
+percutaneous device closure at the time of presentation. Provided that the child is gaining weight
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Patent ductus arteriosus Management
+MANAGEMENT
+adequately, diuretic therapy with furosemide may be used on a temporary basis to improve symptoms and
+allow the patient to reach a suitable size for percutaneous intervention.
+Surgical ligation
+Surgical ligation in full-term infants and children is usually reserved for ducts that are too large for closure
+with a transcatheter device, or for symptomatic infants whose physical size and anatomy are thought to
+be too small for transcatheter device closure. However, the exact size below which transcatheter device
+closure is felt to be unsuitable may vary with clinician and institution.[89] [94] If the patient is symptomatic,
+surgical ligation is undertaken as soon as possible. If asymptomatic, ligation can be scheduled electively.
+Success is high with few complications that can include operative pneumothorax, hemorrhage, effusion,
+or long-term recanalization.[78] [80] With increased percutaneous device closure experience, smaller
+and younger children are being taken to the catheterization imaging, so referral for surgical ligation is
+decreasing in infants younger than 6 months, although this is dependent on institution.[89] [94]
+Adults
+Percutaneous catheter device closure or surgical ligation
+In certain adults with PDA, closure may be necessary if there is significant left to right shunt and/or
+pulmonary hypertension. Surgical or catheter-based closure is recommended, provided that pulmonary
+vascular resistance is not prohibitively high.[41] [95] [96] Currently, most advocate closure via a
+transcatheter device in adults with a small to moderate patent ductus; this method has been shown
+to be safe and effective in this population.[97] [98] Concerns regarding ductal tissue friability in adults
+with larger PDAs have led some centers to pursue video-assisted thoracic surgery ligation, with good
+results.[99]
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial ( summary )
+premature very low birth weight
+infants: prophylactic therapy
+1st intravenous indomethacin
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Patent ductus arteriosus Management
+Acute ( summary )
+premature infants (<32 weeks)
+1st ibuprofen or indomethacin
+2nd conservative management
+2nd surgical ligation
+2nd percutaneous catheter device closure
+term infants and children: small-to-
+moderate-sized ducts
+1st percutaneous catheter device closure
+adjunct diuretics
+term infants and children: large
+ducts and/or symptomatic infants
+too small for device closure
+1st surgical ligation
+adults
+1st percutaneous catheter device closure
+2nd surgical ligation
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Patent ductus arteriosus Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial
+premature very low birth weight
+infants: prophylactic therapy
+1st intravenous indomethacin
+Primary options
+» indomethacin: 0.1 mg/kg intravenously once
+daily for 3 days
+» The cut-off of very low birth weight varies
+between centers, but is usually <1300 g or
+<1000 g.
+» The treatment is based on the premise that
+treating a patent ductus arteriosus (PDA) in very
+low birth weight premature infants will prevent
+the clinical sequelae of a hemodynamically
+significant shunt better than waiting for the PDA
+to become clinically evident.
+» Treatment can be given at day 0 of life, before
+clinical evidence of a PDA becomes evident.
+The first dose is usually started within the first 12
+hours of life.
+» Evidence shows that while prophylactic
+indomethacin might increase ductal closure
+and decrease the incidence of intraventricular
+hemorrhage, there are few other short-term or
+long-term benefits.[50] [55] [56] [57]
+» Infants being treated with indomethacin must
+have electrolytes, creatinine, urine output,
+and platelets monitored regularly during
+administration. Feeds are withheld.
+» Complications can include necrotizing
+enterocolitis, bleeding, or renal dysfunction.[58]
+[59]
+» If the first course of ibuprofen or indomethacin
+is unsuccessful, a second course is usually
+given prior to consideration of procedural
+closure.[61]
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Patent ductus arteriosus Management
+Acute
+premature infants (<32 weeks)
+1st ibuprofen or indomethacin
+Primary options
+» ibuprofen lysine: standard-dose regimen:
+10 mg/kg intravenously as a loading dose,
+followed by 5 mg/kg every 24 hours for 2
+doses; high-dose regimen: 15-20 mg/kg
+intravenously as a loading dose, followed by
+7.5 to 10 mg/kg every 24 hours for 2 doses
+Secondary options
+» indomethacin: infants <48 hours of age:
+0.2 mg/kg intravenously as a loading dose,
+followed by 0.1 mg/kg every 12-24 hours for
+2 doses; infants 2-7 days of age: 0.2 mg/
+kg intravenously every 12-24 hours for 3
+doses; infants >7 days of age: 0.2 mg/kg
+intravenously as a loading dose, followed by
+0.25 mg/kg every 12-24 hours for 2 doses
+OR
+» ibuprofen: standard-dose regimen: 10 mg/
+kg orally as a loading dose, followed by 5
+mg/kg every 24 hours for 2 doses; high-dose
+regimen: 15-20 mg/kg orally as a loading
+dose, followed by 7.5 to 10 mg/kg every 24
+hours for 2 doses
+» Cyclooxygenase inhibitors (e.g., nonsteroidal
+anti-inflammatory drugs [NSAIDs]) inhibit
+prostaglandins, and have been shown to be
+effective in ductal closure in preterm infants.[8]
+Treatment is given in the first few days of life
+after a patent ductus arteriosus (PDA) has
+become clinically evident or has been diagnosed
+by echo.
+» Indomethacin was previously the standard
+of care; however, ibuprofen is now largely
+considered the pharmacotherapy of choice due
+to its similar efficacy but significantly better
+safety profile.[60] [61] [62] [63]
+» One Cochrane review comparing both oral and
+intravenous ibuprofen with indomethacin found
+a decreased risk of necrotizing enterocolitis
+and transient kidney injury in patients treated
+with ibuprofen, with similar effectiveness
+between interventions.[60]  Both ibuprofen
+and indomethacin have been shown to reduce
+the risk of severe intraventricular hemorrhage,
+although indomethacin appears to be more
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Patent ductus arteriosus Management
+MANAGEMENT
+Acute
+effective, hence why it is used in preference to
+ibuprofen as a prophylactic treatment in very
+low birth weight babies.[57] Studies suggest
+that high-dose ibuprofen may increase the
+likelihood of PDA closure compared to standard-
+dose ibuprofen.[57] [60] [64] [65] High-dose
+ibuprofen may therefore be considered the
+preferred dosage; however, significant caution
+should be exercised in preterm infants younger
+than 26 weeks due to a lack of data in this
+age group.[61] Studies have reported that
+oral ibuprofen is as effective as intravenous
+ibuprofen, with no significant difference in
+morbidity demonstrated.[60] [66] [67]
+» Treatment with indomethacin has shown
+to be successful in closing symptomatic
+PDAs compared with placebo.[8] [68] While
+some centers practice a prolonged course
+of indomethacin (>4 and usually 7 doses),
+no significant difference has been shown in
+successful PDA closure, need for retreatment,
+need for surgical ligation, or such outcomes
+as mortality and the incidence of comorbidities
+such as chronic lung disease or necrotizing
+enterocolitis with this longer regimen.[69]
+» Infants being treated with ibuprofen and
+indomethacin must have electrolytes, creatinine,
+urine output, and platelets followed regularly
+during administration. Feeds are withheld. B-
+type natriuretic peptide-guided treatment has
+been shown to reduce the number of primary
+indomethacin doses in infants with PDA.[70]
+Complications with indomethacin can include
+necrotizing enterocolitis, bleeding, or renal
+dysfunction.[58] [59]
+» If the first course of ibuprofen or indomethacin
+is unsuccessful, a second course is usually
+given prior to consideration of procedural
+closure.[61]
+2nd conservative management
+» Conservative management may be considered
+as an alternative to medical treatment in certain
+circumstances.
+» The Canadian Paediatric Society makes a
+conditional recommendation for conservative
+management of symptomatic PDA in the first 1-2
+weeks post-birth.[61]
+» One systematic review and meta-analysis
+found no significant differences in morbidity or
+mortality in clinical trials assessing conservative
+management compared to pharmacologic
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Patent ductus arteriosus Management
+Acute
+or surgical treatment in preterm infants.[71]
+One Cochrane review had similar findings,
+with early (<7 days old) or very early (<72
+hours old) empiric treatment of PDA no more
+effective than conservative management in
+mortality or morbidity outcomes (including
+development of chronic lung disease, necrotizing
+enterocolitis, severe intraventricular hemorrhage,
+or neurodevelopmental abnormalities).[72] One
+subsequent randomized placebo-controlled
+trial reported that the risk of morbidity or
+mortality was similar in patients treated with
+ibuprofen, compared with placebo.[100] Another
+multicenter randomized controlled trial found that
+expectant management for PDA in extremely
+premature infants was noninferior to early
+ibuprofen treatment with respect to necrotizing
+enterocolitis, bronchopulmonary dysplasia, or
+death at 36 weeks’ postmenstrual age.[74]
+» Conservative management in preterm infants
+may involve diuretic therapy, increasing positive
+airway pressures, and fluid restriction, although
+these approaches have not been systematically
+assessed in clinical trials.[61] [63] [75] [76]
+» Significant caution should be exercised if
+considering conservative management in high-
+risk preterm infants (e.g., those younger than 26
+weeks).[61]
+2nd surgical ligation
+» Surgical ligation is usually considered
+after medical therapy has failed to result in
+ductal closure or is contraindicated.[61] It
+can be performed on premature infants as
+small as 600 g. Surgical ligation of the duct
+generally has very high success rates with low
+associated morbidity.[78] [80] Complications
+are rare and include recanalization of the
+duct, pneumothorax, effusion, hemorrhage,
+and wound infection.[79] While one study did
+show a relatively high late mortality in preterm
+infants, this was felt to be related to the high
+risk inherent in this population, rather than to
+the surgery itself.[80] There has been some
+inquiry into the favorability of surgical ligation
+as first-line management in this population.[81]
+[82] However, there are currently limited
+data to allow for adequate comparison of the
+two treatment approaches.[81]  One review
+suggested that there may be little benefit to
+prophylactic surgical ligation compared with no
+therapy or medical therapy, with no significant
+decrease in mortality or bronchopulmonary
+dysplasia.[83] Another review refuted earlier
+postulations that primary surgical ligation
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Patent ductus arteriosus Management
+MANAGEMENT
+Acute
+may decrease the incidence of necrotizing
+enterocolitis.[84]
+» Videothorascopic surgical ligation is being
+used with increasing frequency in selected cases
+with good results.[85]
+2nd percutaneous catheter device closure
+» Transcatheter closure of PDA in preterm
+and extremely low birth weight infants is
+becoming more feasible and less complicated
+with the advent of smaller devices and smaller
+delivery sheaths. In practice, this is becoming
+a more common second-line therapy for ductal
+closure than surgical ligation in most academic
+centers.[61] [63]
+» Catheter devices include coils, the Amplatzer
+Piccolo Occluder, the Rashkind umbrella
+device, and the Gianturco-Grifka occlusion
+device.[86] Choice of device depends on ductal
+morphology and operator choice during the
+procedure.[87] Patients are given subacute
+bacterial endocarditis prophylaxis for 6 months
+after the procedure, or longer if turbulent flow
+persists around the device.[88]
+term infants and children: small-to-
+moderate-sized ducts
+1st percutaneous catheter device closure
+» In asymptomatic or symptomatic patients,
+percutaneous catheter closure is the first-line
+treatment to treat heart failure and prevent
+elevated pulmonary pressures or endarteritis.
+It avoids surgery and can usually be done
+with just a day admission or overnight hospital
+stay. Safe device closure has been reported in
+patients as young as 6 months and as small as
+5 kg.[89] With infants who are symptomatic and
+aged >6 months, percutaneous catheter device
+closure is carried out as soon as possible.
+In symptomatic infants ages <6 months,
+intervention is delayed if possible. In these
+circumstances, provided that the child is gaining
+weight adequately, temporary use of diuretic
+therapy with furosemide can control symptoms
+and give time for the infant to grow to a more
+suitable size for percutaneous intervention.
+Percutaneous catheter device closure is also
+the first-line treatment in asymptomatic patients,
+though this is delayed where possible until the
+patient is ages ≥1 year. In children ages >1
+year, the procedure can be scheduled at the
+time of diagnosis, either electively or as needed,
+depending on their symptoms and left heart
+overload.
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Patent ductus arteriosus Management
+Acute
+» The procedure has an extremely high
+success rate of >95% with no mortality and
+few complications.[91] [92] Complications can
+include coil embolization, persistent turbulent
+flow around the device, and residual leak.[92]
+[93] Complications are more likely to occur in
+smaller children.[93] There are several types
+of devices that can be employed for catheter
+closure and choice of device usually depends on
+the morphology of the duct.[87]
+» Catheter devices include coils, the Amplatzer
+Piccolo Occluder, the Rashkind umbrella
+device, and the Gianturco-Grifka occlusion
+device.[86] Choice of device depends on ductal
+morphology and operator choice during the
+procedure.[87] Patients are given subacute
+bacterial endocarditis prophylaxis for 6 months
+after the procedure, or longer if turbulent flow
+persists around the device.[88]
+adjunct diuretics
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» furosemide: 0.5 to 2 mg/kg intravenously
+every 6-12 hours
+» Infants who are symptomatic may not be
+large enough to undergo percutaneous device
+closure at the time of presentation. In these
+circumstances, provided that the child is gaining
+weight adequately, temporary use of diuretic
+therapy with furosemide can control symptoms
+and give time for the infant to grow to a more
+suitable size for percutaneous intervention.
+term infants and children: large
+ducts and/or symptomatic infants
+too small for device closure
+1st surgical ligation
+» Some patent ducts are too large to be closed
+by a percutaneous catheter device, yet closure
+is required either to treat or prevent heart
+failure from the left to right shunt, or to prevent
+endarteritis. This may be recognized at initial
+workup or when an attempted device closure is
+made.
+» If the patient is symptomatic, surgical
+ligation is undertaken as soon as possible.
+If asymptomatic, ligation can be scheduled
+electively. Success is high with few
+complications that can include operative
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Patent ductus arteriosus Management
+MANAGEMENT
+Acute
+pneumothorax, hemorrhage, effusion, or long-
+term recanalization.[78] [80]
+» With increased percutaneous device closure
+experience, smaller and younger children are
+being taken to the catheterization laboratory,
+so referral for surgical ligation is decreasing in
+infants younger than 6 months, although this is
+dependent on institution.[89] [94]
+adults
+1st percutaneous catheter device closure
+» In certain adults with patent ductus arteriosus
+(PDA), closure may be necessary if there is
+significant left to right shunt and/or pulmonary
+hypertension. Surgical or catheter-based closure
+is recommended, provided that pulmonary
+vascular resistance is not prohibitively high.[95]
+[96] Currently, most advocate closure via a
+transcatheter device in adults with a small to
+moderate patent ductus; this has been shown to
+be safe and effective in this population.[97] [98]
+» Catheter devices include coils, the Amplatzer
+Piccolo Occluder, the Rashkind umbrella
+device, and the Gianturco-Grifka occlusion
+device.[86] Choice of device depends on ductal
+morphology and operator choice during the
+procedure.[87] Patients are given subacute
+bacterial endocarditis prophylaxis for 6 months
+after the procedure, or longer if turbulent flow
+persists around the device.[88]
+2nd surgical ligation
+» In certain adults with PDA, closure may be
+necessary if there is significant left to right shunt
+and/or pulmonary hypertension. Concerns
+regarding ductal tissue friability in adults with
+larger patent ductus have led some centers to
+pursue video-assisted thoracic surgery ligation,
+with good results.[99]
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Patent ductus arteriosus Management
+Emerging
+Acetaminophen
+Acetaminophen has been investigated as an alternative pharmacologic treatment to indomethacin or
+ibuprofen in preterm infants. One systematic review found no significant difference in PDA closure
+rates between acetaminophen and ibuprofen or indomethacin; however, acetaminophen caused fewer
+adverse effects, with a significantly reduced risk of oliguria and a tendency towards less gastrointestinal
+bleeding.[101] Another systematic review found a lack of high quality evidence to recommend
+acetaminophen as a primary treatment for PDA.[102]  An overview of 16 Cochrane Reviews found that all
+available drug therapies, that is, indomethacin, ibuprofen, and acetaminophen (specifically when given early),
+were effective in closing a PDA in preterm infants. The evidence on the effect of prophylactic acetaminophen
+on severe intraventricular hemorrhage (IVH) was very uncertain (whereas indomethacin and ibuprofen were
+both found to reduce severe IVH).[57] Further study is warranted before acetaminophen can be adopted as
+the standard of care.[61] [63]
+Primary prevention
+There are currently no recognized strategies for primary prevention. There is some literature that suggests
+that the use of antenatal corticosteroids may decrease the incidence of patent ductus arteriosus in premature
+infants, though there are other risks to the infant associated with this intervention that may outweigh this
+benefit.[39]
+Patient discussions
+Patients previously required infective endocarditis prophylaxis for dental procedures. However, US and
+European guidelines no longer recommend prophylaxis for patients with patent ductus arteriosus (PDA)
+because of the small number of cases of infective endocarditis felt to be prevented by antibiotic use.[88]
+[128] In contrast, after catheter closure with a device, patients should observe infective endocarditis
+prophylaxis for 6 months until the device is endothelialized. Additionally, patients will need to continue to
+observe infective endocarditis prophylaxis if there is a residual shunt near the device.[88]
+Patients with an untreated small PDA with normal left chamber size can participate in all levels of
+competitive sports. Those with a more significant shunt and left heart enlargement should undergo
+definitive closure prior to partaking in competitive athletics. They may return to full participation 3 months
+after closure if they have a normal cardiac exam without evidence of left ventricular enlargement or
+elevated pulmonary pressures. If patients demonstrate elevated pulmonary resistance (pulmonary
+pressures greater than 30 mmHg), individual recommendations for levels of physical activity must be
+undertaken.[129]
+As patients transition from adolescent to adult care, it is important to provide education on self-
+management and to help them build their medical knowledge. It is important, for example, to ensure
+that they are equipped with the skills needed to make medical appointments and refill prescriptions,
+and that they understand the importance of lifestyle interventions such as weight management and
+nonsmoking.[130]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Patent ductus arteriosus Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+With the increased use of echocardiography, incidental detection of asymptomatic patent ductus
+arteriosus (PDA) is increasing, leading towards a wide variation in the timing of follow-up and
+recommended testing in patients with PDA. Generally, patients with a PDA are followed by a pediatric
+cardiologist with serial echocardiograms. In infants this is often done fairly regularly at 3-month intervals.
+In older children, follow-up is less frequent (and often closure is scheduled before a follow-up visit). After
+closure, most patients are seen for follow-up at 1 month, and again between 6 months to 1 year. Most
+institutions will then discharge patients unless there is a residual lesion. Because long-term experience
+with catheter closure is more limited than with surgical ligation, some practitioners will continue to follow
+up these patients every 2 years. In patients with isolated PDA without extracardiac comorbidities, a
+less conservative approach has been suggested. The American College of Cardiology recommends
+that patients with trivial or “silent” isolated PDA be discharged from cardiology care without requiring
+proof of closure. Patients with small PDAs may be monitored infrequently in clinic (every 2-3 years) for
+development of left heart dilation. Patients who have had surgical closure of PDA, and have no clinical
+concerns, can be discharged from cardiology follow-up after a suitable interval.[127]
+The management of developmental delays in children with PDA should include early referrals to
+developmental specialists and targeted interventions, such as physical, occupational, and speech
+therapies, alongside early educational support to address specific developmental needs.[11]
+Premature infants will need to be observed for a longer period as the ductus may reopen in some
+patients. However, they are often followed clinically by their primary physician or neonatal specialist.
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Patent ductus arteriosus Follow up
+Complications
+Complications Timeframe Likelihood
+respiratory distress syndrome (RDS) short term high
+There also appears to be an association with severe RDS, with a much higher incidence of PDA seen in
+premature infants ill with RDS.[25]
+necrotizing enterocolitis in premature infants short term medium
+This complication is usually limited to premature infants with increased hemodynamic instability. Left to
+right shunting at the level of the ductus can lead to systemic steal. This can result in hypoperfusion of end
+organs including the gut. The presence of a ductus has been found to be independently associated with an
+increased incidence of necrotizing enterocolitis.[27] Treatment varies from medical therapy with gut rest to
+surgical intervention. Prevention is attempted by not feeding premature infants who have suspected patent
+ductus arteriosus, and by attempting medical or surgical closure of significant ducts.
+pulmonary hemorrhage in premature infants short term low
+Isolated to premature infants, pulmonary hemorrhage can result from increased pulmonary blood flow.
+This was directly related to the size of the duct in one study.[22]
+pulmonary hypertension (HTN) long term low
+A large nonrestrictive patent ductus arteriosus (PDA) can lead to the eventual development of pulmonary
+hypertensive disease in patients if left untreated. This occurs because of chronic volume and pressure
+overload on the pulmonary circulation that can lead to irreversible vascular changes. Symptoms of
+pulmonary HTN in children are frequently subtle, which can result in delayed diagnosis. In infants, poor
+feeding, tachypnea, tachycardia, and poor growth are common. Physical signs may include a loud split
+second heart sound, right ventricular heave, gallop, and holosystolic murmur of tricuspid regurgitation.[52]
+ Elevated pulmonary pressures may eventually lead to right to left shunting through the duct, resulting
+in cyanosis, shortness of breath, and clubbing (Eisenmenger syndrome). Edema of the face, hands,
+and ankles, and hepatomegaly, are later signs of right-sided heart failure.[52] Chest radiography may
+provide clues as to the degree of shunting; congested vasculature is often seen in large left-to-right
+intracardiac shunts. Oligemia may be present in patients with restricted blood flow, such as those with
+Eisenmenger syndrome. However, radiographic findings do not always correlate with disease severity.[52]
+ Transthoracic echocardiography is the first-line cardiovascular imaging modality for the diagnosis and
+monitoring of pulmonary HTN. Cross-sectional imaging (computed tomography and magnetic resonance
+imaging) are also used in diagnosis and management. Cardiac catheterization is considered the gold
+standard for measuring hemodynamics in patients with congenital heart disease and pulmonary HTN,
+especially to assess operability; duct occlusion to determine the feasibility of closure of patent ductus
+arteriosus can be performed during the procedure.[52] For patients with pulmonary HTN and PDA, early
+repair and elimination of the shunt is paramount to reduce the overall burden of cardiovascular disease;
+the pulmonary HTN may be reversible with timely treatment of the PDA.[52] [121] In those patients with
+irreversible pulmonary HTN, treatment options are limited to medical therapy, including oxygen and
+pulmonary vasodilators.
+congestive heart failure (CHF) variable medium
+An untreated patent ductus with a significant shunt can result in symptoms of CHF. When and if CHF
+occurs depends on the size of the shunt and the degree of volume overload on the heart. While larger
+shunts may present in infancy, more moderate shunts may not present until later in childhood or into
+adulthood.[32] Once symptoms of heart failure are noted, patients can initially be managed medically with
+digoxin and diuretic therapy until the ductus can be dealt with definitively, either by catheter closure or
+surgical ligation.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Patent ductus arteriosus Follow up
+FOLLOW UP
+Complications Timeframe Likelihood
+depression variable medium
+The challenges associated with living with congenital heart disease can lead to depression and anxiety
+in as many as one half of patients. Early-life stressors such as time in intensive care units and other
+traumatic healthcare experiences can also have a significant impact.[126]
+Psychological care should be a routine part of congenital heart disease treatment, with access given to
+psychotherapy and pharmacotherapy where needed.[126]
+endarteritis variable low
+Prior to surgical and catheter closure, the incidence of infective arteritis associated with the lesion was as
+high as 1% per year.[32] However, in the current era this has decreased dramatically to almost negligible
+numbers of case reports.[116] When they occur, vegetations usually form on the pulmonary end of the
+duct as a result of turbulent flow, and can result in pulmonary emboli. If suspected, endarteritis can be
+diagnosed by transthoracic or transesophageal echo. Treatment usually consists of long-term antibiotics
+followed by definitive closure of the duct.
+aneurysm of the duct variable low
+A ductal aneurysm is an enlargement of the ductal tissue near the point of attachment to the aorta. It is
+thought to be related to abnormal elastin/ductal tissue. The reported incidence varies significantly from
+1.5% to 8%.[122] [123] It usually presents in infancy but has been reported in adults.[124] While some of
+the aneurysms resolve on their own, complications such as thromboses or rupture can occur.[123] [125]
+The presence of a ductal aneurysm often points to an underlying connective tissue disorder. Spontaneous
+resolution of ductal aneurysms in infancy has been reported. If persistent or discovered at a later age,
+surgery is recommended.
+Prognosis
+The prognosis of a patent ductus arteriosus (PDA) depends largely on the size and magnitude of the
+shunt and the status of the pulmonary vasculature. Many patients with small ductus arteriosus never
+have signs of significant hemodynamic impairment and, other than the risk of endarteritis, have a normal
+prognosis. Those patients with significant left heart volume overload; however, are at risk of congestive heart
+failure or irreversible pulmonary vascular disease, even if asymptomatic or minimally symptomatic during
+childhood.[33]
+Premature infants
+Premature infants with a clinically significant persistent PDA are at risk of increased mortality compared
+with infants of a similar gestational age and birth weight without PDA.[104] [105] One study found that those
+with a persistent significant PDA (despite attempted closure) had four times the risk of death compared
+to premature infants without a significant PDA.[106] These infants also suffer from increased morbidity
+related to the effects of increased pulmonary blood flow (pulmonary edema, pulmonary hemorrhage,
+bronchopulmonary dysplasia [BPD], and pulmonary hypertension) and systemic undercirculation
+(hypotension, necrotizing enterocolitis, intraventricular hemorrhage, and acute kidney injury) due to left-to-
+right shunting.[22] [23][24] [27][54][107] [108] [109] [110] The risk of mortality and morbidity appear to be
+similar regardless of whether the infant is managed expectantly or with early pharmacologic therapy.[74]
+[111] [112] [113] Emerging data suggest that the duration of exposure to a clinically significant PDA, rather
+than simply the presence or absence of a shunt, is the more important risk factor for development of
+BPD.[63] Infants who require surgical ligation generally have a worse outcome; this may be due to the fact
+that this is a more severely compromised patient population.[114] [115] [116][117]
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Patent ductus arteriosus Follow up
+Full-term infants and children
+Prior to the era of antibiotics, surgery, and catheter closure, natural history studies demonstrated risk of
+death as 0.42% per year (ages 2 to 19 years), 1% per year (20 to 29 years), and 1.8% per year (30 to 39
+years).[32] The estimated risk of endarteritis has been estimated at 0.45% per year for an untreated duct.[32]
+With current treatment strategies, mortality and endarteritis occur rarely.[118] Spontaneous closure of a
+patent ductus after 3 months of age is relatively rare. If a significant shunt is left untreated, it can result in
+the development of pulmonary obstructive disease that can manifest as early as 15 months of life. A more
+moderate untreated shunt may not present with such symptoms until later in life. In patients with smaller
+ducts, the risk of morbidity is very low and is mainly related to the risk of endarteritis. Clinically silent PDAs
+appear to carry a relatively low risk for endarteritis with only a few case reports in the literature.[119] [120]
+ However, most patients, regardless of shunt size, are now referred for either catheter or surgical closure.
+Overall prognosis of these patients is very good after closure; typically patients are well and the procedure
+is considered curative. However, there are rare instances where increased pulmonary resistance may
+remain, even after closure of the duct. This is thought to be related to a primary abnormality of the pulmonary
+vasculature.[33]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Patent ductus arteriosus Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+Appropriateness criteria - congenital or acquired heart disease (https://
+acsearch.acr.org/list)   [51]
+Published by: American College of Radiology Last published: 2023
+Guidelines and recommendations for performance of the fetal
+echocardiogram (https://www.asecho.org/guidelines-search)   [12]
+Published by: American Society of Echocardiography Last published: 2023
+Pulmonary hypertension in congenital heart disease: a scientific statement
+(https://www.ahajournals.org/doi/10.1161/HHF.0000000000000080)   [52]
+Published by: American Heart Association Last published: 2023
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Patent ductus arteriosus Guidelines
+Treatment guidelines
+International
+Pulmonary hypertension in congenital heart disease: a scientific statement
+(https://www.ahajournals.org/doi/10.1161/HHF.0000000000000080)   [52]
+Published by: American Heart Association Last published: 2023
+Guidelines for cardiovascular intervention in adults with congenital heart
+disease (https://ccs.ca/guidelines-and-position-statement-library/)   [96]
+Published by: Canadian Cardiovascular Society Last published: 2022
+Management of the patent ductus arteriosus in preterm infants (https://
+cps.ca/en/documents)   [61]
+Published by: Canadian Paediatric Society Last published: 2022
+Patent ductus arteriosus of the preterm infant (https://publications.aap.org/
+pediatrics/article/146/5/e20201209/75323/Patent-Ductus-Arteriosus-of-the-
+Preterm-Infant)   [54]
+Published by: American Academy of Pediatrics Last published: 2020
+2018 AHA/ACC guideline for the management of adults with congenital heart
+disease: a report of the American College of Cardiology/American Heart
+Association task force on clinical practice guidelines (https://www.jacc.org/
+doi/full/10.1016/j.jacc.2018.08.1029)   [103]
+Published by: American College of Cardiology/American Heart
+Association
+Last published: 2019
+2020 ESC guidelines for the management of adult congenital heart disease
+(previously grown-up congenital heart disease) (https://www.escardio.org/
+Guidelines/Clinical-Practice-Guidelines/Grown-Up-Congenital-Heart-Disease-
+Management-of)   [41]
+Published by: European Society of Cardiology Last published: 2020
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Patent ductus arteriosus References
+REFERENCES
+Key articles
+• Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606)
+• Hamrick SEG, Sallmon H, Rose AT, et al. Patent ductus arteriosus of the preterm infant.
+Pediatrics. 2020 Nov;146(5):e20201209.  Full text (https://publications.aap.org/pediatrics/
+article/146/5/e20201209/75323/Patent-Ductus-Arteriosus-of-the-Preterm-Infant)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33093140?tool=bestpractice.bmj.com)
+• Wilson WR, Gewitz M, Lockhart PB, et al. Prevention of viridans group streptococcal infective
+endocarditis: a scientific statement from the American Heart Association. Circulation. 2021 May
+18;143(20):e963-78.  Full text (https://www.doi.org/10.1161/CIR.0000000000000969)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33853363?tool=bestpractice.bmj.com)
+• Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: executive summary: a report of the American College of Cardiology/
+American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2019
+Apr 2;73(12):1494-563.  Full text (https://www.doi.org/10.1016/j.jacc.2018.08.1028)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30121240?tool=bestpractice.bmj.com)
+• John AS, Jackson JL, Moons P, et al. Advances in managing transition to adulthood for adolescents
+with congenital heart disease: a practical approach to transition program design: a scientific statement
+from the American Heart Association. J Am Heart Assoc. 2022 Apr 5;11(7):e025278.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9075425)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35297271?tool=bestpractice.bmj.com)
+References
+1. Kitterman JA, Edmunds LH Jr, Gregory GA, et al. Patent ductus arteriosus in premature infants,
+incidence, relation to pulmonary disease and management. N Engl J Med. 1972;287:473-477. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/5048708?tool=bestpractice.bmj.com)
+2. Moore P, Brook MM, Heymann MA. Patent ductus arteriosus. In: Moss and Adams heart disease in
+infants, children and adolescents. Philadelphia, PA: Lippincott, Williams and Wilkins; 2001.
+3. Gittenburger-De Groot AC, van Ertbruggen I, Moulaert AJ, et al. The ductus arteriosus in the
+preterm infant: histologic and clinical observations. J Pediatr. 1980;96:88-93. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7350322?tool=bestpractice.bmj.com)
+4. Botto LD, Correa A, Erickson JD. Racial and temporal variations in the prevalence of heart defects.
+Pediatrics. 2001;107:E32.  Full text (http://pediatrics.aappublications.org/content/107/3/e32.full)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11230613?tool=bestpractice.bmj.com)
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Patent ductus arteriosus References
+5. Lloyd TR, Beekman RH III. Clinical silent patent ductus arteriosus. Am Heart J. 1994;127:1664-1665.
+6. Rothman KJ, Fyler DC. Sex, birth order, and maternal age characteristics of infants with congenital
+heart defects. Am J Epidemiol. 1976;104:527-534. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/984027?tool=bestpractice.bmj.com)
+7. Miao CY, Zuberbuhler JS, Zuberbuhler JR. Prevalence of congenital cardiac anomalies at high
+altitude. J Am Coll Cardiol. 1988;12:224-228. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3379209?
+tool=bestpractice.bmj.com)
+8. Gersony WM, Peckham GJ, Ellison RC, et al. Effects of indomethacin in premature infants with
+patent ductus arteriosus: results of a national collaborative study. J Pediatr. 1983 Jun;102(6):895-906.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6343572?tool=bestpractice.bmj.com)
+9. Koch J, Hensley G, Roy L, et al. Prevalence of spontaneous closure of the ductus arteriosus in
+neonates at a birth weight of 1000 grams or less. Pediatrics. 2006;117:1113-1121. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16585305?tool=bestpractice.bmj.com)
+10. Park J, Yoon SJ, Han J, et al. Patent ductus arteriosus treatment trends and associated morbidities
+in neonates. Sci Rep. 2021 May 21;11(1):10689.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/
+PMC8139968)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34021202?tool=bestpractice.bmj.com)
+11. Sood E, Newburger JW, Anixt JS, et al. Neurodevelopmental outcomes for individuals with congenital
+heart disease: updates in neuroprotection, risk-stratification, evaluation, and management: a scientific
+statement from the American Heart Association. Circulation. 2024 Mar 26;149(13):e997-1022. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001211)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38385268?tool=bestpractice.bmj.com)
+12. Moon-Grady AJ, Donofrio MT, Gelehrter S, et al. Guidelines and recommendations for performance
+of the fetal echocardiogram: an update from the American Society of Echocardiography.
+J Am Soc Echocardiogr. 2023 Jul;36(7):679-723.  Full text (https://onlinejase.com/article/
+S0894-7317(23)00206-7/fulltext)
+13. Smith GC. The pharmacology of the ductus arteriosus. Pharmacol Rev. 1998;50:35-58.  Full text
+(http://pharmrev.aspetjournals.org/cgi/content/full/50/1/35)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9549757?tool=bestpractice.bmj.com)
+14. Thebaud B, Michelakis ED, Wu XC, et al. Oxygen-sensitive Kv channel gene transfer confers oxygen
+responsiveness to preterm rabbit and remodeled human ductus arteriosus: implications for infants
+with patent ductus arteriosus. Circulation. 2004;110:1372-1379.  Full text (http://circ.ahajournals.org/
+cgi/content/full/110/11/1372)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15353504?
+tool=bestpractice.bmj.com)
+15. Michelakis E, Rebeyka I, Bateson J, et al. Voltage-gated potassium channels in human ductus
+arteriosus. Lancet. 2000;356:134-137. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10963252?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Patent ductus arteriosus References
+REFERENCES
+16. Olley PM, Coceani F. Lipid mediators in the control of the ductus arteriosus. Am Rev
+Respir Dis. 1987;136:218-219. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3111319?
+tool=bestpractice.bmj.com)
+17. Gittenberger-de Groot AC, Strengers JL, Mentink M, et al. Histologic studies on normal and persistent
+ductus arteriosus in the dog. J Am Coll Cardiol. 1985;6:394-404. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/4019926?tool=bestpractice.bmj.com)
+18. Clyman RI, Chan CY, Mauray F, et al. Permanent anatomic closure of the ductus arteriosus in newborn
+baboons: the role of postnatal constriction, hypoxia and gestation. Pediatr Res. 1999;45:19-29.
+19. Clyman RI, Mauray F, Roman C, et al. Effect of gestational age on ductus arteriosus response to
+circulating prostaglandin E2. J Pediatr. 1983;102:907-911. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/6854456?tool=bestpractice.bmj.com)
+20. Rudolph AM, Mayer FE, Nadas AS, et al. Patent ductus arteriosus. A clinical and hemodynamic
+study of patients in the first year of life. Pediatrics. 1958 Nov;22(5):892-904. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/13600917?tool=bestpractice.bmj.com)
+21. Baylen BG, Ogata H, Oguchi K, et al. The contractility and performance of the pre-term left
+ventricle before and after early patent ductus arteriosus occlusion in surfactant-treated lambs.
+Pediatr Res. 1985 Oct;19(10):1053-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3840585?
+tool=bestpractice.bmj.com)
+22. Kluckow M, Evans N. Ductal shunting, high pulmonary blood flow, and pulmonary hemorrhage.
+J Pediatr. 2000 Jul;137(1):68-72. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10891824?
+tool=bestpractice.bmj.com)
+23. Marshall DD, Kotelchuck M, Young TE, et al. Risk factors for chronic lung disease in the
+surfactant era: A North Carolina population-based study of very low birth weight infants.
+Pediatrics. 1999 Dec;104(6):1345-50. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10585987?
+tool=bestpractice.bmj.com)
+24. Rojas MA, Gonzalez A, Bancalari E, et al. Changing trends in the epidemiology and pathogenesis
+of neonatal chronic lung disease. J Pediatr. 1995 Apr;126(4):605-10. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7699543?tool=bestpractice.bmj.com)
+25. Dudell GG, Gersony WM. Patent ductus arteriosus in neonates with severe respiratory disease.
+J Pediatr. 1984 Jun;104(6):915-20. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6726527?
+tool=bestpractice.bmj.com)
+26. Osborn DA, Evans N, Kluckow M. Hemodynamic and antecedent risk factors of early and late
+periventricular/intraventricular hemorrhage in premature infants. Pediatrics. 2003 Jul;112(1 Pt 1):33-9.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12837865?tool=bestpractice.bmj.com)
+27. Dollberg S, Lusky A, Reichman B. Patent ductus arteriosus, indomethacin and necrotizing enterocolitis
+in very low birth weight infants: a population-based study. J Pediatr Gastroenterol Nutr. 2005
+Feb;40(2):184-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15699694?tool=bestpractice.bmj.com)
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Patent ductus arteriosus References
+28. Hoffman JI, Buckberg GD. Regional myocardial ischemia: causes, prediction, and prevention.
+Vasc Surg. 1974 Mar-Apr;8(2):115-30. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/4827320?
+tool=bestpractice.bmj.com)
+29. Rudolph AM, Drorbaugh JE, Auld PA, et al. Studies on the circulation in the neonatal period. The
+circulation in the respiratory distress syndrome. Pediatrics. 1961;27:551-566. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/13744493?tool=bestpractice.bmj.com)
+30. Soll R, Ozek E. Prophylactic protein free synthetic surfactant for preventing morbidity and
+mortality in preterm infants. Cochrane Database Syst Rev. 2010;(1):CD001079. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20091513?tool=bestpractice.bmj.com)
+31. Gibson S, Lewis KC. Congenital heart disease following maternal rubella during pregnancy.
+Am J Dis Child. 1952;83:317-319. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14902080?
+tool=bestpractice.bmj.com)
+32. Campbell M. Natural history of patent ductus arteriosus. Br Heart J. 1968 Jan;30(1):4-13. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/5637557?tool=bestpractice.bmj.com)
+33. Schneider DJ, Moore JW. Patent ductus arteriosus. Circulation. 2006 Oct 24;114(17):1873-82.  Full
+text (http://circ.ahajournals.org/cgi/content/full/114/17/1873)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17060397?tool=bestpractice.bmj.com)
+34. Villamor E, van Westering-Kroon E, Gonzalez-Luis GE, et al. Patent ductus arteriosus and
+bronchopulmonary dysplasia-associated pulmonary hypertension: a bayesian meta-analysis.
+JAMA Netw Open. 2023 Nov 1;6(11):e2345299.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/
+PMC10685885)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/38015504?tool=bestpractice.bmj.com)
+35. Clyman RI, Mauray F, Roman C, et al. Circulating prostaglandin E2 concentrations and patent
+ductus arteriosus in fetal and neonatal lambs. J Pediatr. 1980;97:455-461. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/6902770?tool=bestpractice.bmj.com)
+36. Nora JJ. Multifactorial inheritance hypothesis for the etiology of congenital heart diseases. The
+genetic-environmental interaction. Circulation. 1968;38:604-617. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/4876982?tool=bestpractice.bmj.com)
+37. Char F. Peculiar facies with short philtrum, duck-bill lips, ptosis and low-set ears a new syndrome?
+Birth Defects Orig Artic Ser. 1978;14:303-305. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/728571?
+tool=bestpractice.bmj.com)
+38. Mani A, Meraji SM, Houshyar R, et al. Finding genetic contributions to sporadic disease: a
+recessive locus at 12q24 commonly contributes to patent ductus arteriosus. Proc Nat Acad Sci
+USA. 2002;99:15054-15059.  Full text (http://www.pubmedcentral.nih.gov/articlerender.fcgi?
+tool=pubmed&pubmedid=12409608)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12409608?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Patent ductus arteriosus References
+REFERENCES
+39. Bevilacqua E, Brunelli R, Anceschi MM. Review and meta-analysis: benefits and risks of multiple
+courses of antenatal corticosteroids. J Matern Fetal Neonatal Med. 2010;23:244-260. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19670040?tool=bestpractice.bmj.com)
+40. Schneider DJ. The patent ductus arteriosus in term infants, children, and adults. Semin
+Perinatol. 2012 Apr;36(2):146-53. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22414886?
+tool=bestpractice.bmj.com)
+41. Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606)
+42. Gibson GA. Persistence of the arterial duct and its diagnosis. Edinburgh Med J. 1900;8:1-5.
+43. Expert Panel on Cardiac Imaging:; Woodard PK, Ho VB, et al. ACR appropriateness criteria® known
+or suspected congenital heart disease in the adult. J Am Coll Radiol. 2017 May;14(5s):S166-76. 
+Full text (https://www.jacr.org/article/S1546-1440(17)30219-3/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28473073?tool=bestpractice.bmj.com)
+44. Wasserman MA, Shea E, Cassidy C, et al. Recommendations for the adult cardiac sonographer
+performing echocardiography to screen for critical congenital heart disease in the newborn: from
+the American Society of Echocardiography. J Am Soc Echocardiogr. 2021 Mar;34(3):207-22. 
+Full text (https://www.onlinejase.com/article/S0894-7317(20)30779-3/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33518447?tool=bestpractice.bmj.com)
+45. Stevenson JG, Kawabori I, Guntheroth WG. Pulsed doppler echocardiographic diagnosis of patent
+ductus arteriosus: sensitivity, specificity, limitations, and technical features. Cathet Cardiovasc Diagn.
+1980;6(3):255-63. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7448857?tool=bestpractice.bmj.com)
+46. Gokulakrishnan G, Kulkarni M, He S, et al. Brain natriuretic peptide and N-terminal brain
+natriuretic peptide for the diagnosis of haemodynamically significant patent ductus arteriosus in
+preterm neonates. Cochrane Database Syst Rev. 2022 Dec 8;12(12):CD013129. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36478359?tool=bestpractice.bmj.com)
+47. Urquhart DS, Nicholl RM. How good is clinical examination at detecting a significant patent ductus
+arteriosus in the preterm neonate? Arch Dis Child. 2003 Jan;88(1):85-6.
+48. Zanardo V, Milanesi O, Trevisanuto D, et al. Early screening and treatment of "silent" patent
+ductus arteriosus in prematures with RDS. J Perinat Med. 1991;19:291-295. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/1960632?tool=bestpractice.bmj.com)
+49. Knight DB. The treatment of patent ductus arteriosus in preterm infants. A review and overview
+of randomized trials. Semin Neonatol. 2001;6:63-73. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11162286?tool=bestpractice.bmj.com)
+50. Fowlie PW, Davis PG. Prophylactic indomethacin for preterm infants: a systematic review and
+meta-analysis. Arch Dis Child Fetal Neonatal Ed. 2003 Nov;88(6):F464-6.  Full text (http://
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Patent ductus arteriosus References
+fn.bmj.com/cgi/content/full/88/6/F464)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14602691?
+tool=bestpractice.bmj.com)
+51. American College of Radiology. ACR appropriateness criteria: congenital or acquired heart disease.
+2023 [internet publication].  Full text (https://acsearch.acr.org/docs/3102389/Narrative)
+52. Jone PN, Ivy DD, Hauck A, et al. Pulmonary hypertension in congenital heart disease: a scientific
+statement from the American Heart Association. Circ Heart Fail. 2023 Jul;16(7):e00080.  Full
+text (https://www.ahajournals.org/doi/10.1161/HHF.0000000000000080)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/37357777?tool=bestpractice.bmj.com)
+53. Hundscheid T, El-Khuffash A, McNamara PJ, et al. Survey highlighting the lack of consensus
+on diagnosis and treatment of patent ductus arteriosus in prematurity. Eur J Pediatr. 2022
+Jun;181(6):2459-68.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9110525)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/35305143?tool=bestpractice.bmj.com)
+54. Hamrick SEG, Sallmon H, Rose AT, et al. Patent ductus arteriosus of the preterm infant.
+Pediatrics. 2020 Nov;146(5):e20201209.  Full text (https://publications.aap.org/pediatrics/
+article/146/5/e20201209/75323/Patent-Ductus-Arteriosus-of-the-Preterm-Infant)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33093140?tool=bestpractice.bmj.com)
+55. Fowlie PW, Davis PG, McGuire W. Prophylactic intravenous indomethacin for preventing mortality
+and morbidity in preterm infants. Cochrane Database Syst Rev. 2010;(7):CD000174. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20614421?tool=bestpractice.bmj.com)
+56. Mitra S, Gardner CE, MacLellan A, et al. Prophylactic cyclo-oxygenase inhibitor drugs for the
+prevention of morbidity and mortality in preterm infants: a network meta-analysis. Cochrane
+Database Syst Rev. 2022 Apr 1;(4):CD013846.  Full text (https://www.cochranelibrary.com/
+cdsr/doi/10.1002/14651858.CD013846.pub2/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35363893?tool=bestpractice.bmj.com)
+57. Mitra S, de Boode WP, Weisz DE, et al. Interventions for patent ductus arteriosus (PDA)
+in preterm infants: an overview of Cochrane Systematic Reviews. Cochrane Database
+Syst Rev. 2023 Apr 11;4(4):CD013588.  Full text (https://www.cochranelibrary.com/cdsr/
+doi/10.1002/14651858.CD013588.pub2/full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/37039501?tool=bestpractice.bmj.com)
+58. Little DC, Pratt TC, Blalock SE, et al. Patent ductus arteriosus in micropreemies and full-term
+infants: the relative merits of surgical ligation versus indomethacin treatment. J Pediatr Surg. 2003
+Mar;38(3):492-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12632374?tool=bestpractice.bmj.com)
+59. Ohlsson A, Bottu J, Govan J, et al. Effect of indomethacin on cerebral blood flow velocities in very
+low birth weight neonates with a patent ductus arteriosus. Dev Pharmacol Ther. 1993;20(1-2):100-6.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7924757?tool=bestpractice.bmj.com)
+60. Ohlsson A, Walia R, Shah SS. Ibuprofen for the treatment of patent ductus arteriosus in preterm or
+low birth weight (or both) infants. Cochrane Database Syst Rev. 2020 Feb 11;2:CD003481.  Full text
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Patent ductus arteriosus References
+REFERENCES
+(https://www.doi.org/10.1002/14651858.CD003481.pub8)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32045960?tool=bestpractice.bmj.com)
+61. Canadian Paediatric Society. Management of the patent ductus arteriosus in preterm infants. Feb 2022
+[internet publication].  Full text (https://cps.ca/en/documents/position/patent-ductus-arteriosus)
+62. Al-Turkait A, Szatkowski L, Choonara I, et al. Management of patent ductus arteriosus in very
+preterm infants in England and Wales: a retrospective cohort study. BMJ Paediatr Open. 2022
+Mar;6(1):e001424.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8928285)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/36053632?tool=bestpractice.bmj.com)
+63. Backes CH, Hill KD, Shelton EL, et al. Patent ductus arteriosus: a contemporary perspective for the
+pediatric and adult cardiac care provider. J Am Heart Assoc. 2022 Sep 6;11(17):e025784.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9496432)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36056734?tool=bestpractice.bmj.com)
+64. Mitra S, Florez ID, Tamayo ME, et al. Association of placebo, indomethacin, ibuprofen, and
+acetaminophen with closure of hemodynamically significant patent ductus arteriosus in preterm
+infants: a systematic review and meta-analysis. JAMA. 2018 Mar 27;319(12):1221-1238. 
+Full text (https://jamanetwork.com/journals/jama/article-abstract/2676110)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29584842?tool=bestpractice.bmj.com)
+65. Yeung T, Shahroor M, Jain A, et al. Efficacy and safety of high versus standard dose ibuprofen for
+patent ductus arteriosus treatment in preterm infants: A systematic review and meta-analysis. J
+Neonatal Perinatal Med. 2022;15(3):501-10. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35404294?
+tool=bestpractice.bmj.com)
+66. Neumann R, Schulzke SM, Bührer C. Oral ibuprofen versus intravenous ibuprofen or intravenous
+indomethacin for the treatment of patent ductus arteriosus in preterm infants: a systematic
+review and meta-analysis. Neonatology. 2012;102(1):9-15. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22414850?tool=bestpractice.bmj.com)
+67. Erdeve O, Yurttutan S, Altug N, et al. Oral versus intravenous ibuprofen for patent ductus arteriosus
+closure: a randomised controlled trial in extremely low birthweight infants. Arch Dis Child Fetal
+Neonatal Ed. 2012 Jul;97(4):F279-83. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22147286?
+tool=bestpractice.bmj.com)
+68. Evans P, O'Reilly D, Flyer JN, et al. Indomethacin for symptomatic patent ductus arteriosus in
+preterm infants. Cochrane Database Syst Rev. 2021 Jan 15;1:CD013133.  Full text (https://
+www.doi.org/10.1002/14651858.CD013133.pub2)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33448032?tool=bestpractice.bmj.com)
+69. Herrera C, Holberton J, Davis P. Prolonged versus short course of indomethacin for the treatment
+of patent ductus arteriosus in preterm infants. Cochrane Database Syst Rev. 2007;(1):CD003480. 
+Full text (http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD003480.pub3/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17443527?tool=bestpractice.bmj.com)
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Patent ductus arteriosus References
+70. Attridge JT, Kaufman DA, Lim DS, et al. B-type natriuretic peptide concentrations to guide treatment of
+patent ductus arteriosus. Arch Dis Child Fetal Neonatal Ed. 2009 May;94(3):F178-82. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18981033?tool=bestpractice.bmj.com)
+71. Hundscheid T, Jansen EJS, Onland W, et al. Conservative management of patent ductus arteriosus in
+preterm infants - A systematic review and meta-analyses assessing differences in outcome measures
+between randomized controlled trials and cohort studies. Front Pediatr. 2021;9:626261.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7946967)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/33718300?tool=bestpractice.bmj.com)
+72. Mitra S, Scrivens A, von Kursell AM, et al. Early treatment versus expectant management of
+hemodynamically significant patent ductus arteriosus for preterm infants. Cochrane Database Syst
+Rev. 2020 Dec 10;12:CD013278.  Full text (https://www.doi.org/10.1002/14651858.CD013278.pub2)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33301630?tool=bestpractice.bmj.com)
+73. Tutor EG. Laryngeal papillomatosis. An Otorrinolaringol Ibero Am. 1987;14(1):81-95.
+74. Hundscheid T, Onland W, Kooi EMW, et al. Expectant management or early ibuprofen for patent
+ductus arteriosus. N Engl J Med. 2023 Mar 16;388(11):980-90.  Full text (https://www.nejm.org/
+doi/10.1056/NEJMoa2207418)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36477458?
+tool=bestpractice.bmj.com)
+75. Vanhaesebrouck S, Zonnenberg I, Vandervoort P, et al. Conservative treatment for patent ductus
+arteriosus in the preterm. Arch Dis Child Fetal Neonatal Ed. 2007 Jul;92(4):F244-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17213270?tool=bestpractice.bmj.com)
+76. Bell EF, Acarregui MJ. Restricted versus liberal water intake for preventing morbidity and
+mortality in preterm infants. Cochrane Database Syst Rev. 2014;(12):CD000503.  Full text
+(http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD000503.pub3/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25473815?tool=bestpractice.bmj.com)
+77. Gross RE, Hubbard JP. Surgical ligation of a patent ductus arteriosus: a report of first successful
+case. JAMA. 1939;112:729-731. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6363741?
+tool=bestpractice.bmj.com)
+78. Koehne PS, Bein G, Alexi-Meskhishvili V, et al. Patent ductus arteriosus in very low birthweight infants:
+complications of pharmacological and surgical treatment. J Perinat Med. 2001;29(4):327-34. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/11565202?tool=bestpractice.bmj.com)
+79. Demir T, Oztunc F, Cetin G, et al. Patency or recanalization of the arterial duct after surgical double
+ligation and transfixion. Cardiol Young. 2007 Feb;17(1):48-50. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17184567?tool=bestpractice.bmj.com)
+80. Lee LC, Tillet A, Tulloh R. Outcome following patent ductus arteriosus ligation in premature
+infants: a retrospective cohort analysis. BMC Pediatr. 2006 May 11;6:15.  Full text (http://
+www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=16689986)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16689986?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Patent ductus arteriosus References
+REFERENCES
+81. Malviya M, Ohlsson A, Shah S. Surgical versus medical treatment with cyclooxygenase inhibitors
+for symptomatic patent ductus arteriosus in preterm infants. Cochrane Database Syst Rev. 2013;
+(3):CD003951.  Full text (http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD003951.pub3/full)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23543527?tool=bestpractice.bmj.com)
+82. Clyman R, Cassady G, Kirklin JK, et al. The role of patent ductus arteriosus ligation
+in bronchopulmonary dysplasia: reexamining a randomized controlled trial. J Ped.
+2009 Jun;154(6):873-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19324366?
+tool=bestpractice.bmj.com)
+83. Mosalli R, Alfaleh K. Prophylactic surgical ligation of patent ductus arteriosus for prevention of
+mortality and morbidity in extremely low birth weight infants. Cochrane Database Syst Rev. 2008;
+(1):CD006181. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18254095?tool=bestpractice.bmj.com)
+84. Yee WH, Scotland J; Evidence-based Practice for Improving Quality (EPIQ) Evidence Review
+Group. Does primary surgical closure of the patent ductus arteriosus in infants <1500 g or ≤32
+weeks' gestation reduce the incidence of necrotizing enterocolitis? Paediatr Child Health. 2012
+Mar;17(3):125-8.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3287088)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23449771?tool=bestpractice.bmj.com)
+85. Laborde F, Folliguet TA, Etienne PY, et al. Video-thoracoscopic surgical interruption of patent
+ductus arteriosus. Routine experience in 332 pediatric cases. Eur J Cardiothorac Surg. 1997
+Jun;11(6):1052-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9237586?tool=bestpractice.bmj.com)
+86. Sathanandam S, Gutfinger D, Morray B, et al. Consensus guidelines for the prevention and
+management of periprocedural complications of transcatheter patent ductus arteriosus closure
+with the amplatzer piccolo occluder in extremely low birth weight infants. Pediatr Cardiol. 2021
+Aug;42(6):1258-74.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC8292293)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34195869?tool=bestpractice.bmj.com)
+87. Grifka RG. Transcatheter closure of the patent ductus arteriosus. Catheter Cardiovasc Interv. 2004
+Apr;61(4):554-70.
+88. Wilson WR, Gewitz M, Lockhart PB, et al. Prevention of viridans group streptococcal infective
+endocarditis: a scientific statement from the American Heart Association. Circulation. 2021 May
+18;143(20):e963-78.  Full text (https://www.doi.org/10.1161/CIR.0000000000000969)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33853363?tool=bestpractice.bmj.com)
+89. Butera G, De Rosa G, Chessa M, et al. Transcatheter closure of persistent ductus arteriosus with
+the Amplatzer duct occluder in very young symptomatic children. Heart. 2004 Dec;90(12):1467-70. 
+Full text (http://heart.bmj.com/cgi/content/full/90/12/1467)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15547030?tool=bestpractice.bmj.com)
+90. Masura J, Walsh KP, Thanopoulous B, et al. Catheter closure of moderate- to large-sized patent
+ductus arteriosus using the new Amplatzer duct occluder: immediate and short-term results. J Am
+Coll Cardiol. 1998 Mar 15;31(4):878-82. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9525563?
+tool=bestpractice.bmj.com)
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Patent ductus arteriosus References
+91. Masura J, Tittel P, Gavora P, et al. Long-term outcome of transcatheter patent ductus arteriosus
+closure using Amplatzer duct occluders. Am Heart J. 2006 Mar;151(3):755.e7-755.e10. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/16504649?tool=bestpractice.bmj.com)
+92. Magee AG, Huggon IC, Seed PT, et al. Transcatheter coil occlusion of the arterial duct;
+results of the European Registry. Eur Heart J. 2001 Oct;22(19):1817-21.  Full text (http://
+eurheartj.oxfordjournals.org/cgi/reprint/22/19/1817)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11549304?tool=bestpractice.bmj.com)
+93. Al-Ata J, Arfi AM, Hussain A, et al. The efficacy and safety of the Amplatzer ductal occluder in young
+children and infants. Cardiol Young. 2005 Jun;15(3):279-85. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15865830?tool=bestpractice.bmj.com)
+94. Fischer G, Stieh J, Uebing A, et al. Transcatheter closure of persistent ductus arteriosus
+in infants using the Amplatzer duct occluder. Heart. 2001 Oct;86(4):444-7.  Full text (http://
+heart.bmj.com/cgi/content/full/86/4/444)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11559687?
+tool=bestpractice.bmj.com)
+95. Fisher RG, Moodie DS, Sterba R, et al. Patent ductus arteriosus in adults--long-term follow-up:
+nonsurgical versus surgical treatment. J Am Coll Cardiol. 1986 Aug;8(2):280-4. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2942590?tool=bestpractice.bmj.com)
+96. Marelli A, Beauchesne L, Colman J, et al. Canadian Cardiovascular Society 2022 guidelines
+for cardiovascular interventions in adults with congenital heart disease. Can J Cardiol. 2022
+Jul;38(7):862-96.  Full text (https://www.onlinecjc.ca/article/S0828-282X(22)00260-4/fulltext)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/35460862?tool=bestpractice.bmj.com)
+97. Hong TE, Hellenbrand WE, Hijazi ZM, et al. Transcatheter closure of patent ductus arteriosus in
+adults using the Amplatzer duct occluder: initial results and follow-up. Indian Heart J. 2002 Jul-
+Aug;54(4):384-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12462665?tool=bestpractice.bmj.com)
+98. Pas D, Missault L, Hollanders G, et al. Persistent ductus arteriosus in the adult: clinical features
+and experience with percutaneous closure. Acta Cardiol. 2002 Aug;57(4):275-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12222696?tool=bestpractice.bmj.com)
+99. Yilmaz AT, Yorulmaz FM, Ozturk OY, et al. Ligation in adult persistent ductus arteriosus. J Cardiovasc
+Surg (Torino). 1991 Sep-Oct;32(5):575-80. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1939318?
+tool=bestpractice.bmj.com)
+100. Gupta S, Subhedar NV, Bell JL, et al. Trial of selective early treatment of patent ductus arteriosus with
+ibuprofen. N Engl J Med. 2024 Jan 25;390(4):314-25.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/
+PMC7615774)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/38265644?tool=bestpractice.bmj.com)
+101. Katsaras DN, Katsaras GN, Chatziravdeli VI, et al. Comparative safety and efficacy of paracetamol
+versus non-steroidal anti-inflammatory agents in neonates with patent ductus arteriosus: a
+systematic review and meta-analysis of randomized controlled trials. Br J Clin Pharmacol. 2022
+Jul;88(7):3078-100.  Full text (https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.15291)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35203104?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Patent ductus arteriosus References
+REFERENCES
+102. Jasani B, Mitra S, Shah PS. Paracetamol (acetaminophen) for patent ductus arteriosus in preterm
+or low birth weight infants. Cochrane Database Syst Rev. 2022 Dec 15;12:CD010061.  Full text
+(https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010061.pub5/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36519620?tool=bestpractice.bmj.com)
+103. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: executive summary: a report of the American College of Cardiology/
+American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2019
+Apr 2;73(12):1494-563.  Full text (https://www.doi.org/10.1016/j.jacc.2018.08.1028)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30121240?tool=bestpractice.bmj.com)
+104. Sellmer A, Bjerre JV, Schmidt MR, et al. Morbidity and mortality in preterm neonates with patent
+ductus arteriosus on day 3. Arch Dis Child Fetal Neonatal Ed. 2013 Nov;98(6):F505-10. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/23893268?tool=bestpractice.bmj.com)
+105. Noori S, McCoy M, Friedlich P, et al. Failure of ductus arteriosus closure is associated with
+increased mortality in preterm infants. Pediatrics. 2009 Jan;123(1):e138-44. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19117835?tool=bestpractice.bmj.com)
+106. Brooks JM, Travadi JN, Patole SK, et al. Is surgical ligation of patent ductus arteriosus necessary?
+The Western Australian experience of conservative management. Arch Dis Child Fetal Neonatal Ed.
+2005;90:F235-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15846015?tool=bestpractice.bmj.com)
+107. Bancalari E, Claure N, Gonzalez A. Patent ductus arteriosus and respiratory outcome in premature
+infants. Biol Neonate. 2005;88(3):192-201. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16210841?
+tool=bestpractice.bmj.com)
+108. Gentle SJ, Travers CP, Clark M, et al. Patent ductus arteriosus and development of bronchopulmonary
+dysplasia-associated pulmonary hypertension. Am J Respir Crit Care Med. 2023 Apr 1;207(7):921-8.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36378949?tool=bestpractice.bmj.com)
+109. Wu TW, Noori S. Recognition and management of neonatal hemodynamic compromise. Pediatr
+Neonatol. 2021 Feb;62 Suppl 1:S22-9.  Full text (https://www.pediatr-neonatol.com/article/
+S1875-9572(20)30206-0/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33485823?
+tool=bestpractice.bmj.com)
+110. Majed B, Bateman DA, Uy N, et al. Patent ductus arteriosus is associated with acute kidney injury in
+the preterm infant. Pediatr Nephrol. 2019 Jun;34(6):1129-39. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30706125?tool=bestpractice.bmj.com)
+111. Sung SI, Lee MH, Ahn SY, et al. Effect of nonintervention vs oral ibuprofen in patent ductus
+arteriosus in preterm infants: a randomized clinical trial. JAMA Pediatr. 2020 Aug 1;174(8):755-63. 
+Full text (https://jamanetwork.com/journals/jamapediatrics/fullarticle/2766727)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32539121?tool=bestpractice.bmj.com)
+112. El-Khuffash A, Bussmann N, Breatnach CR, et al. A pilot randomized controlled trial of early targeted
+patent ductus arteriosus treatment using a risk based severity score (The PDA RCT). J Pediatr. 2021
+Feb;229:127-33. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33069668?tool=bestpractice.bmj.com)
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Patent ductus arteriosus References
+113. Clyman RI, Liebowitz M, Kaempf J, et al. PDA-TOLERATE trial: an exploratory randomized
+controlled trial of treatment of moderate-to-large patent ductus arteriosus at 1 week of age.
+J Pediatr. 2019 Feb;205:41-8.e6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30340932?
+tool=bestpractice.bmj.com)
+114. Mirea L, Sankaran K, Seshia M, et al. Treatment of patent ductus arteriosus and neonatal mortality/
+morbidities: adjustment for treatment selection bias. J Pediatr. 2012 Oct;161(4):689-94.e1. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/22703954?tool=bestpractice.bmj.com)
+115. Madan JC, Kendrick D, Hagadorn JI, et al. Patent ductus arteriosus therapy: impact on neonatal
+and 18-month outcome. Pediatrics. 2009 Feb;123(2):674-81. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19171637?tool=bestpractice.bmj.com)
+116. Kabra NS, Schmidt B, Roberts RS, et al. Neurosensory impairment after surgical closure
+of patent ductus arteriosus in extremely low birth weight infants: results from the Trial of
+Indomethacin Prophylaxis in Preterms. J Pediatr. 2007 Mar;150(3):229-34, 234.e1. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17307535?tool=bestpractice.bmj.com)
+117. Chorne N, Leonard C, Piecuch R, et al. Patent ductus arteriosus and its treatment as risk factors for
+neonatal and neurodevelopmental morbidity. Pediatrics. 2007 Jun;119(6):1165-74. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17545385?tool=bestpractice.bmj.com)
+118. Thilen U, Astrom-Olsson K. Does the risk of infective endarteritis justify routine patent ductus
+arteriosus closure? Eur Heart J. 1997;18:503-506.  Full text (http://eurheartj.oxfordjournals.org/cgi/
+reprint/18/3/503)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9076389?tool=bestpractice.bmj.com)
+119. Balzer DT, Spray TL, McMullin D, et al. Endarteritis associated with a clinically silent patent ductus
+arteriosus. Am Heart J. 1993;125:1192-1193. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8465758?
+tool=bestpractice.bmj.com)
+120. Parthenakis FI, Kanakaraki MK, Vardas PE. Images in cardiology: silent patent ductus arteriosus
+endarteritis. Heart. 2000;84:619.  Full text (http://heart.bmj.com/cgi/content/full/84/6/619)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/11083739?tool=bestpractice.bmj.com)
+121. Yan C, Zhao S, Jiang S, et al. Transcatheter closure of patent ductus arteriosus with severe pulmonary
+arterial hypertension in adults. Heart. 2007 Apr;93(4):514-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16954130?tool=bestpractice.bmj.com)
+122. Dyamenahalli U, Smallhorn JF, Geva T, et al. Isolated ductus arteriosus aneurysm in the fetus and
+infant: a multi-institutional experience. J Am Coll Cardiol. 2000 Jul;36(1):262-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10898444?tool=bestpractice.bmj.com)
+123. Jan SL, Hwang B, Fu YC, et al. Isolated neonatal ductus arteriosus aneurysm. J Am Coll
+Cardiol. 2002 Jan 16;39(2):342-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11788229?
+tool=bestpractice.bmj.com)
+124. Mitchell RS, Seifert FC, Miller DC, et al. Aneurysm of the diverticulum of the ductus arteriosus
+in the adult. Successful surgical treatment in five patients and review of the literature. J Thorac
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Patent ductus arteriosus References
+REFERENCES
+Cardiovasc Surg. 1983 Sep;86(3):400-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/6604198?
+tool=bestpractice.bmj.com)
+125. McFaul RC, Keane JF, Nowicki ER, et al. Aortic thrombosis in the neonate. J Thorac Cardiovasc
+Surg. 1981 Mar;81(3):334-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7464197?
+tool=bestpractice.bmj.com)
+126. Kovacs AH, Brouillette J, Ibeziako P, et al. Psychological outcomes and interventions for individuals
+with congenital heart disease: a scientific statement from the American Heart Association. Circ
+Cardiovasc Qual Outcomes. 2022 Aug;15(8):e000110.  Full text (https://www.ahajournals.org/
+doi/10.1161/HCQ.0000000000000110)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35862009?
+tool=bestpractice.bmj.com)
+127. Hancock HS, Ansong AK, Massarella D, et al. Clinical practice algorithm for the follow-up of
+unrepaired and repaired patent ductus arteriosus. J Am Coll Cardiol. 2022 Oct 31.  Full text (https://
+www.acc.org/Latest-in-Cardiology/Articles/2022/10/31/13/02/Clinical-Practice-Algorithm-For-the-
+Follow-Up-of-Unrepaired-and-Repaired-PDA)
+128. National Institute for Health and Care Excellence. Prophylaxis against infective endocarditis:
+antimicrobial prophylaxis against infective endocarditis in adults and children undergoing interventional
+procedures. Sep 2015 [internet publication].  Full text (https://www.nice.org.uk/guidance/cg64)
+129. Graham TP Jr, Beekman RH 3rd, Allen HD, et al. ACCF/AHA/AAP recommendations for training
+in pediatric cardiology. A report of the American College of Cardiology Foundation/American
+Heart Association/American College of Physicians Task Force on Clinical Competence (ACC/
+AHA/AAP Writing Committee to Develop Training Recommendations for Pediatric Cardiology).
+Circulation. 2005;112:2555-2580. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16230506?
+tool=bestpractice.bmj.com)
+130. John AS, Jackson JL, Moons P, et al. Advances in managing transition to adulthood for adolescents
+with congenital heart disease: a practical approach to transition program design: a scientific statement
+from the American Heart Association. J Am Heart Assoc. 2022 Apr 5;11(7):e025278.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9075425)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35297271?tool=bestpractice.bmj.com)
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Patent ductus arteriosus Images
+Images
+Figure 1: Echo of a 26-week premature infant demonstrates color Doppler flow from the systemic circulation
+(aorta) through the patent ductus arteriosus (PDA) to the left pulmonary artery
+Nelangi M. Pinto, MD; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Patent ductus arteriosus Images
+IMAGES
+Figure 2: Lateral angiogram of 1-year-old child demonstrates flow of contrast from the aorta through a patent
+ductus arteriosus (PDA) to the pulmonary circulation
+Nelangi M. Pinto, MD; used with permission
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Patent ductus arteriosus Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Patent ductus arteriosus Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Apr 23, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Contributors:
+// Authors:
+Kenneth M. Coca, MD
+Pediatric Cardiology Fellow
+Johns Hopkins All Children’s Hospital, Saint Petersburg, FL
+DISCLOSURES: KMC declares that he has no competing interests.
+Joyce T. Johnson, MD, MS
+Director, Fetal Cardiology
+Johns Hopkins All Children’s Hospital, Saint Petersburg, FL
+DISCLOSURES: JTJ declares that she has no competing interests.
+// Acknowledgements:
+Dr Kenneth M. Coca and Dr Joyce T. Johnson would like to gratefully acknowledge Dr Anji T. Yetman and Dr
+Nelangi M. Pinto, previous contributors to this topic.
+DISCLOSURES: ATY declares that she has no competing interests.
+// Peer Reviewers:
+Michael Cheung, BSc (Hons), MB ChB, MRCP, FRACP
+Acting Head
+Department of Cardiology, Royal Children's Hospital, Melbourne, Australia
+DISCLOSURES: MC declares that he has no competing interests.
+Rajat Bhatt, MD
+Assistant Professor
+Internal Medicine, Texas Tech University Health Sciences Center (TTUHSC), Lubbock, TX
+DISCLOSURES: RB declares that he has no competing interests.
+Henry M. Sondheimer, MD
+Professor of Pediatrics
+Clinical Director, Pediatric Cardiology, The Children's Hospital, Denver, CO
+DISCLOSURES: HMS declares that he has no competing interests.

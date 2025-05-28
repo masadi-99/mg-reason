@@ -1,0 +1,2739 @@
+# Sustained ventricular tachycardias
+
+=== Page 1 ===
+Sustained ventricular
+tachycardias
+Straight to the point of care
+Last updated: Dec 20, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  5
+Epidemiology  5
+Etiology  5
+Pathophysiology  5
+Classification  6
+Case history  9
+Diagnosis  11
+Approach  11
+History and exam  15
+Risk factors  16
+Tests  20
+Differentials  22
+Criteria  23
+Screening  23
+Management  25
+Approach  25
+Treatment algorithm overview  30
+Treatment algorithm  32
+Emerging  46
+Primary prevention  46
+Secondary prevention  47
+Patient discussions  47
+Follow up  48
+Monitoring  48
+Complications  49
+Prognosis  49
+Guidelines  51
+Diagnostic guidelines  51
+Treatment guidelines  52
+Online resources  54
+References  55
+Images  63
+Disclaimer  66
+=== Page 3 ===
+Sustained ventricular tachycardias Overview
+Summary
+ECG findings for sustained ventricular tachycardia (VT) include wide QRS complex (duration >120
+milliseconds) at a rate greater than 100 bpm.
+Patients may have a normal cardiac output or may be hemodynamically compromised during episodes of VT.
+Presence or absence of symptoms does not reliably differentiate VT from supraventricular tachycardia.
+Torsades de pointes is a polymorphic VT with a characteristic twisting morphology occurring in the setting of
+QT interval prolongation.
+Sustained VT is usually observed in ischemic and nonischemic cardiomyopathy, but idiopathic VT may also
+be observed in patients without structural heart disease.
+Among patients with prior myocardial infarction or nonischemic cardiomyopathy, VT is usually due to reentry
+involving regions of slowed conduction adjacent to scar.
+Owing to the unpredictable and life-threatening nature of most etiologies of sustained VT, prophylactic
+implantable cardioverter defibrillator implantation is recommended in high-risk patients.
+Definition
+Sustained VT is a ventricular rhythm faster than 100 bpm typically lasting at least 30 seconds or requiring
+termination earlier due to hemodynamic instability. VT is defined as a wide complex tachycardia (QRS 120
+milliseconds or greater) that originates from one of the ventricles, and is not due to aberrant conduction
+(e.g., from bundle branch block), at a rate of 100 bpm or greater. "Idiopathic" VT occurs in the absence of
+apparent structural heart disease (e.g., prior myocardial infarction, active ischemia, cardiomyopathy, valvular
+disease, arrhythmogenic right ventricular cardiomyopathy, cardiac sarcoid, left ventricular noncompaction,
+or other disorders of the myocardium), known channelopathy (e.g., long QT syndrome, Brugada syndrome,
+catecholaminergic polymorphic VT, short QT syndrome), drug toxicity, or electrolyte imbalance. VT can be
+described as monomorphic or polymorphic. Torsades de pointes is a polymorphic VT with a characteristic
+twisting morphology occurring in the setting of QT interval prolongation. Sustained VT often results in
+hypotension and symptoms of weakness, syncope, or palpitations; however, the arrhythmia may be present
+in patients who are asymptomatic and normotensive.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Sustained ventricular tachycardias Overview
+OVERVIEW
+Sustained (monomorphic) ventricular tachycardia
+From the collection of Prof Sei Iwai; used with permission
+Torsades de pointes
+From the collections of Dr Kenneth Stein and Dr Richard Keating; used with permission
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Sustained ventricular tachycardias Theory
+Epidemiology
+Approximately 230,000 to 350,000 sudden deaths occur annually in the US. Another 300,000 out-of-
+hospital cardiac arrests occur annually in Europe, accounting for 10% to 20% of all deaths.[1] Furthermore,
+approximately 90% of sudden deaths are cardiac in origin, and the vast majority are due to ventricular
+tachycardia (VT) or ventricular fibrillation. Population studies have estimated the incidence of fatal ventricular
+arrhythmias in the general population to be 54 per 100,000 people; this risk increases with age, with the
+presence of risk factors for coronary artery disease, and with the presence of structural heart disease, such
+as left ventricular dysfunction or scar from prior myocardial infarction. Some studies suggest that women
+have a lower incidence of sudden cardiac death compared to men and are less likely to have spontaneous or
+inducible VT. However, women have longer QT intervals than men and are more likely to manifest torsades
+de pointes (whether drug-induced or due to congenital long QT syndrome) than men.[2]
+Etiology
+Ventricular tachycardia (VT) is usually observed in the setting of ischemic heart disease or underlying
+nonischemic cardiomyopathy, although it may also be observed in patients without structural heart disease
+(idiopathic VT). Ischemia and coronary artery disease (CAD) are the most common etiologies of VT around
+the world, especially among North Americans and Europeans. Across the developing world, infectious and
+other forms of nonischemic cardiomyopathy may also play a significant role in the etiology of ventricular
+arrhythmias (e.g., Chagas disease in Central America).[3]
+Other forms of structural heart disease, hypertrophic cardiomyopathy, arrhythmogenic right ventricular
+cardiomyopathy, and anomalous coronary arteries are also associated with ventricular arrhythmias. At
+the cellular level, congenital or acquired abnormalities in cardiac sodium channels (congenital long QT
+syndrome, Brugada syndrome), potassium channels (long QT syndrome, short QT syndrome), and calcium
+channels (catecholaminergic polymorphic VT) have been implicated as causes of VT and sudden death.
+Mutations in cardiac anchoring proteins may also lead to the long QT syndrome.[4]
+See Hypertrophic cardiomyopathy  and Long QT syndrome  for more information.
+Environmental and/or physiologic stressors can unmask subclinical abnormalities that predispose to
+sudden cardiac death. Pharmacogenetic variants exist that result in prolongation of the QT interval
+with administration of certain drugs (an up-to-date list of drugs is available through research centers 
+[CredibleMeds: Arizona Center for Education and Research on Therapeutics] (https://www.crediblemeds.org)
+); catecholamine-sensitive VT may only arise during periods of heightened mental or physical stress. It is
+estimated that 5% to 10% of sudden cardiac deaths occur in the absence of cardiomyopathy or CAD.[5]
+Pathophysiology
+Among patients with prior myocardial infarction or nonischemic cardiomyopathy, regions of slowed
+conduction (usually adjacent to damaged myocardium or scar) are the substrate for reentrant arrhythmias.
+Ventricular tachycardia (VT) may also arise from triggered activity due to early after-depolarizations (EADs)
+leading to torsades de pointes, a polymorphic VT seen in the setting of a prolonged QT interval, or delayed
+after-depolarizations (DADs), which are seen in idiopathic right ventricular outflow tract VT (or its variants,
+from other locations) or catecholaminergic polymorphic VT.[6] EADs occur during phase 2 or 3 of the action
+potential, whereas DADs occur during phase 4. When an EAD or DAD reaches a "threshold" potential, it
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Sustained ventricular tachycardias Theory
+THEORY
+can result in triggering of another action potential. Enhanced automaticity of the ventricular tissue may also
+produce a relatively slow VT called accelerated idioventricular rhythm, which generally follows a benign
+course. This arrhythmia is frequently observed in the setting of acute ischemia or early after reperfusion.[7]
+Classification
+Ventricular tachycardia (VT)
+Presence of a wide complex tachycardia (QRS 120 milliseconds or greater) at a rate of 100 bpm or greater.
+Sustained VT
+A ventricular rhythm faster than 100 bpm typically lasting at least 30 seconds or requiring termination due to
+hemodynamic instability.
+Sustained (monomorphic) ventricular tachycardia
+From the collection of Prof Sei Iwai; used with permission
+Nonsustained VT
+A ventricular rhythm faster than 100 bpm lasting for at least 3 consecutive beats but terminating
+spontaneously in less than 30 seconds, and not resulting in significant hemodynamic instability.
+Polymorphic VT
+Tachyarrhythmia with multiple different wide QRS complex (>120 milliseconds) morphologies arising from the
+ventricles.
+Monomorphic VT
+Tachyarrhythmia with an organized, single-morphology QRS complex arising from one of the ventricles.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Sustained ventricular tachycardias Theory
+Bidirectional VT
+VT with a beat-to-beat alternation in QRS axis, classically seen in digitalis toxicity or catecholaminergic
+polymorphic VT.
+Hemodynamically stable VT
+VT associated with a normal blood pressure and no symptoms due to hemodynamic compromise.
+Hemodynamically unstable VT
+VT associated with hypotension, signs of diminished cerebral perfusion (e.g., confusion, dizziness, syncope),
+or signs of diminished coronary perfusion (e.g., angina, dyspnea).
+Idiopathic VT
+VT occurring in the absence of apparent structural heart disease (e.g., ischemia, prior infarction,
+cardiomyopathy, valvular disease, arrhythmogenic right ventricular cardiomyopathy, sarcoid, left ventricular
+noncompaction, or other disorders of the myocardium), known channelopathy (e.g., long QT syndrome,
+Brugada syndrome, catecholaminergic polymorphic VT, short QT syndrome), drug toxicity, or electrolyte
+imbalance.
+Right ventricular outflow tract tachycardia
+From the collection of Prof Sei Iwai; used with permission
+Torsades de pointes (TdP)
+A form of polymorphic VT with a characteristic twisting morphology occurring in the setting of QT interval
+prolongation. TdP is initiated by an early after-depolarization and perpetuated by reentry.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Sustained ventricular tachycardias Theory
+THEORY
+Torsades de pointes
+From the collections of Dr Kenneth Stein and Dr Richard Keating; used with permission
+Catecholaminergic polymorphic VT
+Patients with this condition demonstrate cellular abnormalities of calcium handling, especially during periods
+of sympathetic stimulation. Increased intracellular calcium predisposes the patients to develop VT.
+Outflow tract VT
+This form of "idiopathic" VT was originally described as arising from the right ventricular outflow tract, but
+may also originate from other areas including the left ventricular outflow tract region (including the sinuses of
+Valsalva, left fibrous trigone, left ventricular summit, and tricuspid and mitral annuli), and likely results from
+cyclic adenosine monophosphate-mediated triggered activity; therefore, this form of VT is uniquely sensitive
+to adenosine.
+Fascicular VT
+A common form of idiopathic VT arising from the left ventricle, with reentrant circuit partially involving the
+Purkinje fibers, that is characteristically sensitive to verapamil.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Sustained ventricular tachycardias Theory
+Case history
+Case history #1
+A 65-year-old man has a history of prior anterior wall myocardial infarction that occurred 2 years ago,
+complicated by severe left ventricular systolic dysfunction. While walking to the store, he suddenly
+became aware of palpitations, diaphoresis, dizziness, and a sense of overwhelming malaise. One minute
+later, he turned gray, lost consciousness, and collapsed onto the floor. An ECG revealed sustained
+monomorphic ventricular tachycardia at 150 bpm. Cardiopulmonary resuscitation was initiated and
+the patient was cardioverted to sinus rhythm with a 200-J biphasic shock delivered from an external
+defibrillator. The patient regained consciousness. There was no antecedent chest discomfort and cardiac
+enzymes were negative after the event. Serum electrolytes were also normal. He received an implantable
+cardioverter/defibrillator the next day.
+Sustained (monomorphic) ventricular tachycardia
+From the collection of Prof Sei Iwai; used with permission
+Case history #2
+A 30-year-old woman presented to her primary care physician complaining of recurrent palpitations
+during exercise. She had previously been healthy and was on no medications. She described a long
+history of "skipped heart beats". Her doctor performed a treadmill exercise test, which demonstrated
+good effort tolerance and no evidence of ischemia. During early recovery she developed sustained
+monomorphic ventricular tachycardia with a left bundle branch block, inferior axis morphology. Cardiac
+magnetic resonance imaging was performed that demonstrated normal biventricular function without
+evidence of myocardial scar or fatty infiltration. Electrophysiologic testing was notable for inducible
+adenosine-sensitive ventricular tachycardia (with identical morphology to the clinical tachycardia) that was
+successfully ablated in a focal area in the right ventricular outflow tract.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Sustained ventricular tachycardias Theory
+THEORY
+Right ventricular outflow tract tachycardia
+From the collection of Prof Sei Iwai; used with permission
+Other presentations
+Ventricular arrhythmias may present with a diverse spectrum of symptoms, including palpitations, chest
+pain, and/or syncope, or may be asymptomatic. The type of symptom associated with the arrhythmia
+depends on its duration, its rate, and whether or not it is associated with abnormal perfusion to the heart
+or brain. Short-lived arrhythmias frequently are asymptomatic or manifest as brief palpitations, whereas
+longer and more rapid arrhythmias are frequently associated with presyncope or syncope. Sudden
+cardiac death is the most severe manifestation of ventricular arrhythmias; victims of sudden cardiac arrest
+rarely survive without cardiopulmonary resuscitation and prompt electrical defibrillation.
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Sustained ventricular tachycardias Diagnosis
+Approach
+The presenting symptoms and signs of ventricular tachycardia (VT) and supraventricular tachycardias (SVTs)
+share considerable overlap. With the exception of signs of AV dissociation (e.g., cannon A waves) that
+are essentially diagnostic of VT, few clinical findings can definitively identify the source of a wide complex
+tachycardia.
+History
+A history of acute or prior myocardial infarction, or depressed left ventricular systolic dysfunction, strongly
+favors a diagnosis of VT, but the converse is not necessarily true. Most symptoms associated with VT are
+nonspecific in that they may also be present in patients with other conditions, including SVT. For example,
+palpitations, dyspnea, chest discomfort, and nausea/diaphoresis are common in patients with VT, but
+not pathognomonic. In addition, hypotension does not help to identify the origin of their arrhythmia; many
+instances of well-tolerated VT and of poorly-tolerated SVT have been described. The patient may have a
+history of syncope or presyncope.
+A family history of sudden death, especially if at an early age, should alert the physician to seek potential
+arrhythmogenic causes. Particularly if sudden death did not occur in the setting of underlying coronary
+artery disease, the physician must pay even more careful attention to screen for primary electrical
+abnormalities such as long QT syndrome and Brugada syndrome. In addition, imaging modalities
+including echocardiography and cardiac magnetic resonance imaging (MRI) should be considered, to
+evaluate for evidence of conditions such as hypertrophic cardiomyopathy, arrhythmogenic right ventricular
+cardiomyopathy, and left ventricular non-compaction.
+Patients at high risk for VT who should be considered for prophylactic implantable cardioverter defibrillator
+(ICD) include those with:
+• Ischemic or nonischemic cardiomyopathy (left ventricular ejection fraction [LVEF] ≤35%) and
+mild-to-moderate congestive heart failure symptoms (New York Heart Association class II or III
+symptoms). Those with severe heart failure (class IV) are at high risk as well, but have progressive
+heart failure as a competing mode of death, and thus should be considered for ICD only if they are
+candidates for cardiac resynchronization therapy
+• Ischemic cardiomyopathy (LVEF ≤40%) with nonsustained VT and inducible sustained VT during
+electrophysiologic testing
+• Ischemic cardiomyopathy (LVEF ≤30% and New York Heart Association class I symptoms)
+• Hypertrophic cardiomyopathy (HCM) with high-risk features such as family history of sudden death
+from HCM; massive left ventricular hypertrophy (wall thickness ≥30 mm); unexplained syncope;
+left ventricular systolic dysfunction; left ventricular apical aneurysm; extensive late gadolinium
+enhancement on cardiovascular MRI; or frequent, longer, and faster runs of nonsustained VT.[8]
+[9] Other clinical features that are utilized in calculating sudden cardiac death risk in HCM include
+age, left atrial diameter, left ventricular outflow tract obstruction, and exercise blood pressure
+response
+• Congenital arrhythmia syndromes, including symptomatic patients with long QT syndrome,
+Brugada syndrome, and catecholaminergic polymorphic VT with high-risk features.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Sustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+Physical exam
+The physical exam in a patient with suspected VT should include an assessment of the patient's level of
+consciousness, airway stability, breathing, and circulatory support. This will help determine, once VT is
+confirmed, whether to cardiovert the patient immediately or to attempt pharmacologic therapy first.
+Signs of airway compromise may include stridor and/or apparent obstruction to breaths delivered during
+rescue breathing.
+Palpation of the carotid or femoral pulse may be necessary to determine the heart rate if the patient
+is relatively hypotensive (e.g., systolic BP <90 mmHg), and can also provide a crude estimate of the
+cardiac output (by noting the force of the pulse) if a blood pressure measurement cannot be immediately
+obtained. Patients with a weak pulse and hypotension are classified as hemodynamically unstable, as
+are patients with signs of diminished cerebral perfusion (e.g., lightheadedness, dizziness, diminished
+responsiveness, or unconsciousness) or diminished coronary perfusion (e.g., chest discomfort, dyspnea).
+Again, these findings do not always help distinguish VT from SVT.
+ECG
+The ECG is crucial to the diagnosis of a VT. VT is defined by the presence of a wide complex tachycardia
+(QRS 120 milliseconds or greater) at a rate of 100 bpm or greater. However, it is important to recognize
+that not all wide complex tachycardias are due to VT. When evaluating a patient with a wide complex
+tachycardia it is essential to distinguish VT from SVT that conducts with aberrancy or with preexcitation,
+as these conditions are managed very differently.
+When available, review of the patient's baseline ECG provides important clues to determining the origin of
+a wide complex arrhythmia.
+Evidence supporting a diagnosis of an SVT includes:
+• Preexisting preexcitation of a similar morphology to the wide complex arrhythmia; and/or
+• Baseline bundle branch block that resembles the wide complex tachycardia.[22]
+A stepwise approach has been proposed that uses 4 steps to differentiate VT from SVT with
+aberrancy.[23] These steps are:
+• 1. Absence of an RS complex in any precordial lead confirms diagnosis of VT
+• 2. If RS complex is present in step 1, measure the QRS onset to nadir of S wave:
+• a. R-to-S interval of >100 milliseconds confirms diagnosis of VT
+• 3. If R-to-S interval is <100 milliseconds: examine ECG for atrioventricular (AV) dissociation. If
+present, diagnosis is VT.
+• 4. If no AV dissociation, examine QRS complex in V1 and V6:
+• a. with right bundle branch block QRS morphology:
+• i. in lead V1: Monophasic R, QR, or RS favors VT
+ii. in lead V6: R/S ratio of <1 favors VT; QS, QR, or monophasic R favors VT
+• b. with left bundle branch block QRS morphology:
+• i. in either lead V1 or V2: R >30 milliseconds, R-to-S (nadir) interval of >60
+milliseconds or a notched S wave favors VT
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Sustained ventricular tachycardias Diagnosis
+ii. in lead V6: QR or QS favors VT
+• c. note: both V1/V2 and V6 criteria need to favor VT for the diagnosis to be made using this
+step.
+If none of the steps above favors VT, a diagnosis of SVT is made.
+AV dissociation can manifest as dissociated P waves (usually best seen in lead V1) or the presence
+of capture beats and fusion beats. Fusion beats are changes to the QRS complex that arise when the
+native rhythm competes or fuses with a cycle of VT. The fusion beat demonstrates a distinct morphology
+from that of the other QRS complexes in an otherwise monomorphic VT and is intermediate between the
+wide complexes and the patient's baseline QRS morphology. A capture beat is an ECG phenomenon
+characterized by a narrow QRS complex that occurs during a run of VT; the capture beat results from a
+sinus beat temporarily penetrating the VT circuit. The capture beat occurs at an earlier RR interval than
+would otherwise be expected by the VT cycle length. When evaluating a patient with an undiagnosed
+wide complex tachycardia, the presence of capture or fusion beats proves that the arrhythmia is VT and
+not SVT with aberrancy.
+Evidence that suggests the arrhythmia is more likely to be from the ventricle includes ventricular
+premature contractions of similar morphology to the tachycardia present on the baseline ECG.[22]
+ECG evidence of previous myocardial infarction also favors a diagnosis of VT.
+Another algorithm using only lead aVR for differentiating VT from SVT has been reported, with superior
+accuracy.[24] Lead aVR was analyzed for:
+• 1. Presence of an initial R wave
+• 2. Width of an initial r or q wave >40 milliseconds
+• 3. Notching on the initial downstroke of a predominantly negative QRS complex
+• 4. Ventricular activation-velocity ratio (vi/vt), where v is the vertical excursion recorded during the
+initial (vi) and terminal (vt) 40 milliseconds of the QRS complex.
+The finding of any of the above results in a diagnosis of VT.
+Other ECG evidence supporting a diagnosis of VT includes:
+• QRS duration: >140 milliseconds with right bundle branch block morphology, or QRS duration
+>160 milliseconds with left bundle branch block morphology (these criteria do not apply to patients
+treated with antiarrhythmic drugs).
+• The presence of a right superior axis or left bundle branch block morphology and any right
+axis. The absence of extreme axis deviation does not imply a supraventricular origin of the
+tachycardia.[25]
+In 2022, another simple algorithm was published, called the Basel algorithm. The Basel algorithm
+demonstrated high sensitivity, specificity, and accuracy in diagnosing VT using the 12-lead ECG and
+history. VT was diagnosed in the presence of at least two of the following criteria: 1) clinical high-
+risk features (i.e., history of myocardial infarction, or history of congestive heart failure with ejection
+fraction 35% or less, or in the presence of an ICD or biventricular ICD); 2) lead II time to first peak >40
+milliseconds; and 3) lead aVR time to first peak >40 milliseconds. If zero or one criterion was met, then
+the diagnosis was SVT.[26]
+The baseline ECG should also be examined carefully for evidence of:
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Sustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+• QT interval prolongation
+Prolonged QT: QTc 510 ms (HR 69 and QT 476)
+From the collection of Prof Sei Iwai; used with permission
+• Brugada syndrome: a disorder characterized by cardiac conduction abnormalities, which leads to a
+characteristic J-point elevation and downward-sloping ST segment elevation in the right precordial
+leads that can lead to sudden death due to polymorphic VT. A mutation in the SCN5A (sodium
+channel) gene has been implicated, but it is present in only a minority of patients. SCN10A has
+also been identified as a major susceptibility gene for Brugada syndrome.[12]
+• Arrhythmogenic right ventricular cardiomyopathy (ARVC): a genetic disorder characterized by
+VT, sudden death, and progressive heart failure. In this disease, various regions of the right
+(and occasionally the left) ventricular muscle are replaced by deposition of fat and fibrotic tissue.
+Patients with ARVC frequently manifest right ventricular conduction delay on ECG; the finding of
+an epsilon wave in lead V1 is a specific, although not sensitive, sign for the disease. An epsilon
+wave represents late activation of a region of the ventricular myocardium, with delay being due to
+the presence of fatty infiltration and fibrosis.
+Although it is tempting to imagine that the rate of the tachycardia suggests whether or not it is from
+the ventricle, the tachycardia rate is not helpful in diagnosing the location of the tachycardia. Likewise,
+the regularity of the tachycardia generally is not helpful to classify its origin, although gross irregularity
+suggests the possibility of atrial fibrillation with aberrancy or preexcitation.
+Electrolytes and cardiac enzymes
+Electrolyte abnormalities (particularly hypokalemia and hypomagnesemia) may incite and/or contribute
+to VT. When time and the patient's condition permit, blood electrolytes should be investigated and any
+abnormalities of these electrolytes should be corrected.
+In situations where ischemia or infarction is the suspected mechanism of the VT, myocardial biomarker
+assays (especially troponin) provide useful confirmatory information.
+Imaging studies
+Given the widely varying prognosis and management strategies for idiopathic VT and VT associated
+with structural heart disease, it is crucial to establish the presence or absence of structural heart disease
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Sustained ventricular tachycardias Diagnosis
+in a patient presenting with VT. Echocardiogram is an efficient initial way to determine the presence or
+absence of structural heart disease in addition to quantifying systolic function.
+In patients suspected of having arrhythmogenic right ventricular cardiomyopathy, cardiac MRI is
+indicated to evaluate for the presence of fibrofatty infiltration of the right ventricle and for right ventricular
+dysfunction.
+Stress testing and cardiac catheterization
+Stress testing and/or cardiac catheterization should be considered to establish the presence of coronary
+artery disease (CAD), to exclude the possibility of asymptomatic/silent ischemia, especially among
+patients with risk factors for CAD.
+In patients suspected of having the inherited condition catecholaminergic polymorphic VT, diagnosis can
+be made based on the presence of bidirectional or polymorphic ventricular arrhythmias under conditions
+of increased sympathetic activity (e.g., following stress test) in young patients who otherwise have
+structurally normal hearts and normal baseline ECGs.[27] Diagnosis can also be made based on genetic
+testing for mutations in the genes encoding the cardiac ryanodine-calcium release channel (RyR2) and, in
+some patients, mutations in the genes encoding cardiac calsequestrin (CASQ2).[16] [17]
+Electrophysiologic (EP) testing
+The determination of which patients would benefit from an invasive EP study is made in consultation with
+an electrophysiologist.[7] It may be required to distinguish VT from SVT with aberrancy in cases where the
+surface ECG cannot establish a diagnosis. The EP study may also be used to establish the mechanism of
+VT in patients with structurally normal hearts, and in patients with left ventricular ejection fraction >35% or
+with unexplained syncope.[28] An EP study may be helpful in such cases in determining whether or not a
+given patient would benefit from a prophylactic ICD.[7]
+Genetic testing
+Genetic testing is available for inherited cardiovascular diseases including long QT syndrome, short QT
+syndrome, Brugada syndrome, hypertrophic cardiomyopathy, and catecholaminergic polymorphic VT.[16]
+[17] Consultation with a medical geneticist is useful when deciding which patients should undergo genetic
+testing.[16] [17] Provision of genetic counseling is an essential part of care for any patients who agree to
+genetic testing.[16] [17]
+History and exam
+Key diagnostic factors
+coronary artery disease (common)
+• Ventricular fibrillation is common during active ischemia; chronic coronary disease leads to scar
+formation, which increases risk of ventricular tachycardia.
+tachycardia (common)
+• Essential to the diagnosis by definition.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Sustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+hypotension (common)
+• Degree of hypotension will depend on the rate and duration of the tachycardia and will be an indication
+of reduced cardiac output.
+Other diagnostic factors
+weak pulse (common)
+• Palpation of the carotid or femoral pulse provides useful information regarding the heart rate
+(frequency of the pulse in bpm) and cardiac output (force of the pulse), which, if reduced, may be
+revealed by a weak pulse.
+syncope (common)
+• Frequently observed in patients with ventricular tachycardia, due to cerebral hypoperfusion from
+hypotension; however this is nonspecific.
+presyncope (common)
+• Frequently progresses to syncope.
+airway compromise (common)
+• This may include stridor and/or apparent obstruction to breaths delivered during rescue breathing.
+impaired consciousness (common)
+• Unconsciousness is a sign of diminished cerebral perfusion in a hemodynamically unstable patient. An
+alert patient with a normal blood pressure would be considered hemodynamically stable.
+lightheadedness (common)
+• Sign of diminished cerebral perfusion in a hemodynamically unstable patient.
+dizziness (common)
+• Sign of diminished cerebral perfusion in a hemodynamically unstable patient.
+diminished responsiveness (common)
+• Sign of diminished cerebral perfusion in a hemodynamically unstable patient.
+chest discomfort (common)
+• Symptom of inadequate coronary perfusion.
+dyspnea (common)
+• Symptom of inadequate coronary perfusion, often with resultant left ventricular dysfunction or mitral
+regurgitation.
+asymptomatic (uncommon)
+• Ventricular tachycardia does not always cause symptoms.
+Risk factors
+Strong
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Sustained ventricular tachycardias Diagnosis
+coronary artery disease
+• Coronary artery disease creates ischemia in myocardial tissue. In the long term, myocardial infarction
+leads to ventricular scarring, with areas of delayed electrical conduction along the border zone of the
+scar, as well as within the scar, that are the substrate for reentrant circuits.
+acute myocardial infarction
+• Acute ischemia facilitates arrhythmias due to three electrophysiologic mechanisms: reentry, triggered
+activity, and automaticity.
+left ventricular systolic dysfunction
+• Systolic dysfunction, regardless of the cause, is strongly associated with ventricular arrhythmias.
+Scars in the ventricle create areas of slowed electrical conduction and set up the substrate necessary
+for reentrant ventricular tachycardia/ventricular fibrillation. These scars can be created by prior
+myocardial infarction (ischemic cardiomyopathy) or abnormal myocardial fibrosis (nonischemic
+cardiomyopathy).[7]
+hypertrophic cardiomyopathy
+• Hypertrophic cardiomyopathy (HCM), a genetic condition characterized by cellular disarray of the
+myocardium that results in asymmetric thickening of the ventricle, has been linked to increased risk
+of developing ventricular arrhythmias. The phenotypic expression of this disorder is highly variable,
+and the risk of ventricular arrhythmia varies among individuals. In general, the following clinical risk
+factors are considered as high risk and merit consideration of prophylactic implantable cardioverter-
+defibrillator placement: 1) family history of sudden death from HCM; 2) massive left ventricular
+hypertrophy (wall thickness ≥30 mm); 3) unexplained syncope; 4) left ventricular systolic dysfunction;
+5) left ventricular apical aneurysm; 6) extensive late gadolinium enhancement on cardiovascular
+magnetic resonance imaging; and 7) nonsustained ventricular tachycardia on ambulatory monitor.[8][9]
+• See Hypertrophic cardiomyopathy  for more information.
+long QT syndrome
+• Long QT syndrome (LQTS) represents a genetic disorder that manifests as a prolongation of
+the corrected QT interval on the ECG. The clinical prognosis varies according to the phenotypic
+manifestation of the genetic defect. Multiple subtypes of LQTS have been described; patients are
+at increased risk of experiencing a particular form of polymorphic ventricular tachycardia known as
+torsades de pointes (TdP). While there are over a dozen mutations that are known to cause LQTS,
+approximately 75% of patients with clinically certain LQTS diagnosis have one of three mutations
+(LQT1-3). Typically, patients with LQTS type 1 (LQT1) are at increased risk of developing TdP during
+periods of physical exertion. LQTS type 2 (LQT2) is often characterized by initiation of TdP following
+a startle reflex or a period of heightened emotional stress. Patients with LQTS type 3 (LQT3) tend
+to develop arrhythmias during sleep.[10] Beta-blocker medications have been shown to reduce the
+arrhythmia burden in LQTS, except with LQT3 patients. Implantable cardioverter defibrillators are
+recommended for patients with high-risk features.[11]
+• See Long QT syndrome  for more information.
+short QT syndrome
+• Syndrome manifested by a short QT interval (QTc generally 330 milliseconds or less, but can be
+diagnosed with QTc <360 milliseconds in presence of certain clinical features) and an increased risk of
+sudden death due to polymorphic ventricular tachycardia.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Sustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+Brugada syndrome
+• Brugada syndrome is a disorder of myocardial sodium channels, which leads to a characteristic J point
+elevation and downward-sloping ST segment elevation in the right precordial leads due to regional
+inhomogeneities in ventricular repolarization, and results in an increased risk of sudden death due
+to polymorphic ventricular tachycardia and ventricular fibrillation. A mutation in the SCN5A (sodium
+channel) gene has been implicated, but is present in only a minority of patients. SCN10A has also
+been identified as a major susceptibility gene for Brugada syndrome.[12] Three patterns of ECG
+abnormalities have been described. Type I pattern consists of J point elevation with a “coved” ST
+segment elevation of at least 2 mm, with negative T wave; type II pattern has ST segment elevation
+of at least 2 mm and “saddleback” appearance, and type III pattern has features of either type I
+or II pattern, but ST elevation of under 2 mm. Only type I pattern is considered diagnostic. Risk
+factors for sudden death in patients with Brugada pattern include a history of unexplained syncope
+and spontaneous type I Brugada pattern on ECG. Use of electrophysiologic testing to determine
+susceptibility to sudden death has been somewhat controversial. However, inducibility of ventricular
+fibrillation does not appear to help in risk stratification.[13]
+• Drug challenges with various antiarrhythmic medications (procainamide, flecainide, or ajmaline) can
+be helpful to diagnose borderline cases of Brugada syndrome; positive response to the drug challenge
+results in increased ST elevation of the right precordial leads.[14]
+ventricular pre-excitation
+• ECG abnormality notable for slurring of the initial portion of the R wave due to an abnormal AV
+conduction pathway, which activates (“pre-excites”) a portion of the ventricular myocardium before
+the normal electrical impulse conducts down the AV node/His-Purkinje system. Pre-excitation is
+most commonly seen in patients with an accessory pathway due to Wolff-Parkinson-White (WPW)
+pattern or syndrome. Patients with WPW that are capable of rapid conduction down the accessory
+pathway (i.e., from atria to ventricles) are at risk of having atrial fibrillation with rapid conduction to
+the ventricles degenerating into ventricular fibrillation. This can manifest as an irregular rhythm with
+varying, but wide, QRS complexes. Importantly, patients with accessory pathways can have antidromic
+reciprocating tachycardia (ART), which is a macroreentrant circuit involving antegrade conduction
+down the accessory pathway, and retrograde conduction up the AV node. This form of supraventricular
+tachycardia is indistinguishable from ventricular tachycardia arising from the base of the ventricles,
+since activation of the ventricles originates at the location of the accessory pathway in ART.
+arrhythmogenic right ventricular cardiomyopathy
+• Arrhythmogenic right ventricular cardiomyopathy (ARVC) is a genetic disorder characterized by
+progressive heart failure, ventricular arrhythmias, and sudden death. In this disease, various regions
+of the right (and less commonly left) ventricular muscle are replaced by deposition of fat and fibrotic
+tissue. The disease may be transmitted in an autosomal-dominant fashion and in some families is
+related to mutations in the genes encoding desmosomal proteins (plakoglobin, desmoplakin, and
+plakophilin). Early symptoms include syncope and palpitations (especially during periods of heavy
+exertion); as the disease progresses, symptoms of right ventricular failure become more prominent.
+In advanced presentations, patients may develop biventricular failure. Patients with ARVC frequently
+manifest interventricular conduction delays on ECG; the finding of an epsilon wave in lead V1 is a
+specific sign for the disease, and represents late activation of a portion of the right ventricle. A Holter
+monitor typically reveals left bundle branch block-morphology premature ventricular contractions
+(often of more than one ECG morphology), or nonsustained ventricular tachycardia. Echocardiogram
+and/or right ventricular angiography may reveal right ventricular dilation, regional dyskinesis, and/or
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Sustained ventricular tachycardias Diagnosis
+reduced systolic function. Cardiac magnetic resonance imaging may reveal fibrofatty infiltration of the
+right ventricular myocardium.[4] [18] Although the original descriptions characterized predominantly
+RV involvement, variants with earlier and/or greater left ventricular involvement have been reported,
+leading to the use of the term “arrhythmogenic cardiomyopathy” as a broader term to include all
+phenotypes.
+electrolyte imbalance
+• Electrolyte abnormalities (particularly hypokalemia and hypomagnesemia) may incite and/or contribute
+to ventricular tachycardia.
+drug toxicity
+• Pharmacogenetic variants exist that result in prolongation of the QT interval with administration of
+certain drugs, including macrolide antibiotics, chlorpromazine, haloperidol, and domperidone. An
+up-to-date list of drugs is available through research centers.  [CredibleMeds: Arizona Center for
+Education and Research on Therapeutics] (https://www.crediblemeds.org)
+Chagas disease and other cardiomyopathies
+• Across the developing world, infectious and other forms of nonischemic cardiomyopathy may also play
+a significant role in the etiology of ventricular arrhythmias (e.g., Chagas disease in Central America).[3]
+Weak
+sleep-disordered breathing (SDB)
+• Impaired baroreflex mechanisms in SDB may increase the incidence of VT and sudden cardiac death
+through increased sympathetic activation and parasympathetic withdrawal.[15]
+family history of sudden death
+• A family history of sudden death should alert the physician to seek potential arrhythmogenic causes.
+Genetic testing is available for inherited cardiovascular diseases including long QT syndrome,
+Brugada syndrome, hypertrophic cardiomyopathy, and catecholaminergic polymorphic ventricular
+tachycardia.[16] [17]
+mental or physical stress
+• Catecholamine-sensitive ventricular tachycardia (VT) may only arise during periods of heightened
+mental or physical stress. Examples include torsade de pointes with certain gene mutations in long QT
+syndrome, catecholaminergic VT, VT associated with arrhythmogenic right ventricular cardiomyopathy,
+and even idiopathic VT (e.g., right ventricular outflow tract VT).
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Sustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+ECG
+• Required to establish diagnosis of ventricular tachycardia. Clinician
+should look for atrioventricular dissociation, fusion/capture beats, and
+other criteria for ventricular tachycardia.
+• The absence of extreme axis deviation does not imply a
+supraventricular origin of the tachycardia.[25]
+wide complex tachycardia
+(QRS 120 milliseconds
+or greater) at a rate of
+100 bpm or greater;
+may show presence
+of atrioventricular
+dissociation, previous
+myocardial infarction;
+QRS duration: >140
+milliseconds with
+right bundle branch
+block morphology,
+or QRS duration >160
+milliseconds with left
+bundle branch block
+morphology (this does
+not apply to patients on
+antiarrhythmic drugs);
+right superior axis or
+left bundle branch block
+morphology and any right
+axis; baseline ECG may
+demonstrate QT interval
+prolongation or evidence
+of Brugada syndrome
+or arrhythmogenic
+right ventricular
+cardiomyopathy
+transthoracic echocardiogram
+• Noninvasive test that can quickly reveal contributory and complicating
+mechanical and structural problems.
+depressed left
+ventricular function,
+wall motion abnormality,
+other evidence of
+structural heart
+disease, or hypertrophic
+cardiomyopathy
+electrolytes
+• Serves as baseline measurement and may reveal contributory factors
+to arrhythmia.
+hypokalemia and
+hypomagnesemia
+frequently associated with
+torsades de pointes
+troponin I
+• Ischemia is a reversible cause of ventricular tachycardia and should
+be sought promptly to allow for revascularization.
+elevated in myocardial
+infarction
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Sustained ventricular tachycardias Diagnosis
+Other tests to consider
+Test Result
+cardiac catheterization
+• May be an appropriate early test for patients, especially those
+presenting with ventricular tachycardia/ventricular fibrillation in the
+setting of acute myocardial infarction.
+coronary artery
+obstruction/occlusion
+cardiac MRI
+• Particularly useful in establishing the presence of arrhythmogenic
+right ventricular cardiomyopathy.
+scar, fibrofatty infiltration
+of myocardium, other
+evidence of infiltrative
+cardiomyopathy
+electrophysiologic (EP) study
+• May be required to distinguish ventricular tachycardia (VT) from
+supraventricular tachycardia (SVT) with aberrancy in cases where the
+surface ECG cannot establish a diagnosis. The EP study may also
+be used to establish the mechanism of VT in patients with structurally
+normal hearts, and in patients with left ventricular ejection fraction
+>35% or with unexplained syncope.[28] An EP study may be helpful
+in such cases in determining whether or not a given patient would
+benefit from a prophylactic implantable cardioverter defibrillator.[7]
+distinguishes VT from
+SVT with aberrancy;
+establishes mechanism
+of VT in patients with an
+apparently structurally
+normal heart; inducible
+sustained monomorphic
+VT in patients with
+coronary artery disease
+and mild/moderate left
+ventricular dysfunction
+genetic testing
+• Determines underlying genetic factors associated with a number
+of inherited cardiovascular diseases. Consultation with a medical
+geneticist is recommended. Genetic counseling for the patient is
+essential.[16] [17]
+mutations associated
+with potentially
+high risk of sudden
+death, for example,
+Brugada syndrome,
+and catecholaminergic
+polymorphic ventricular
+tachycardia
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Sustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Supraventricular
+tachycardia with
+aberrancy
+• None. • ECG; electrophysiologic
+study: failure to meet criteria
+for ventricular tachycardia;
+absence of fusion or
+capture beats; absence of
+atrioventricular dissociation.
+Supraventricular
+tachycardia with
+preexcitation
+• None. • ECG, electrophysiologic
+study: failure to meet criteria
+for ventricular tachycardia;
+absence of fusion or
+capture beats; absence of
+atrioventricular dissociation.
+Electrical artifact • None. • Evidence of underlying sinus
+rhythm on ECG discernible
+through electrical noise
+(motion artifact).
+• Evidence of arrhythmia
+isolated to specific leads on
+12-lead ECG (tremor).
+Sepsis or fever • Elevated temperature,
+malaise, rigors, symptoms of
+underlying infection.
+• ECG shows underlying sinus
+rhythm or sinus tachycardia.
+• Appropriate cultures may
+show presence of infecting
+agent.
+Panic/hyperventilation • Anxiety or panic, fear
+of imminent death,
+paresthesiae, chest pain,
+numbness, faintness,
+dizziness, sweating.
+• ECG shows underlying sinus
+rhythm.
+• Hospital Anxiety and
+Depression Scale anxiety
+score >11.
+Hyperthyroidism • Tremor, anxiety, weight loss
+but good appetite, diarrhea,
+eyelid retraction and lid lag,
+fatigue, heat intolerance,
+goiter.
+• ECG shows underlying sinus
+rhythm or atrial fibrillation.
+• Elevated thyroxine/
+triiodothyronine and low
+thyroid-stimulating hormone
+levels.
+Acute hemorrhage • Low blood pressure,
+abdominal pain with
+hematemesis and/or melena,
+hemorrhage from other sites,
+history of likely cause of
+blood loss: for example,
+trauma or postoperative.
+• ECG shows underlying sinus
+tachycardia.
+• Ultrasound or CT may show
+internal bleeding source and/
+or collection of blood.
+Pheochromocytoma • Headache, sweating,
+palpitations, fluctuating
+hypertension, anxiety,
+nausea, vomiting, weight
+• ECG shows underlying sinus
+tachycardia.
+• Increased plasma
+and 24-hour urine
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Sustained ventricular tachycardias Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+loss, heat intolerance,
+tremors, chest and
+abdominal pain.
+epinephrine/norepinephrine/
+metanephrine levels.
+• Glucagon stimulation test
+positive.
+• Clonidine suppression test
+positive.
+• CT, MRI, or m-
+iodobenzylguanidine scans
+show tumor in adrenal gland.
+Pericarditis • Tachycardia and friction rub;
+jugular venous distention
+and pulsus paradoxus
+indicate pericardial effusion
+causing tamponade.
+• ECG shows diffuse concave-
+up ST-elevation, associated
+PR depression.
+• Chest x-ray may show
+enlarged cardiac silhouette
+(globular heart) if pericardial
+effusion present.
+• Echocardiogram may show
+pericardial effusion.
+Caffeine, alcohol,
+amphetamine use
+• History of recent use or high
+intake.
+• Tremor, agitation, signs of
+intoxication.
+• ECG shows underlying sinus
+tachycardia.
+Criteria
+Pulseless ventricular tachycardia (VT)
+• Hemodynamically unstable: patient unconscious with hypotension and undetectable pulse.
+VT with a cardiac output
+• Hemodynamically stable/well: an alert patient with normal blood pressure.
+• Hemodynamically unstable/ill: patient with weak pulse and hypotension, signs of diminished cerebral
+perfusion (lightheadedness, dizziness, diminished responsiveness, or unconsciousness) or diminished
+coronary perfusion (chest discomfort, dyspnea).
+Screening
+Screening for potential causes of ventricular arrhythmias should focus on populations at increased risk of
+developing the disorder and will allow the institution of primary prevention. The highest-risk patients include
+those with left ventricular dysfunction (ischemic or nonischemic cardiomyopathy), heart failure symptoms,
+congenital arrhythmia syndromes (e.g., long QT syndrome, short QT syndrome, Brugada syndrome,
+catecholaminergic polymorphic ventricular tachycardia), hypertrophic cardiomyopathy, and arrhythmogenic
+right ventricular cardiomyopathy. Invasive electrophysiologic testing may be useful in certain cases. An
+implantable cardioverter defibrillator is the most important preventive/therapeutic intervention performed for
+patients at high risk of developing a sustained ventricular arrhythmia.
+See Hypertrophic cardiomyopathy  and Long QT syndrome  for more information.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Sustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Sustained ventricular tachycardias Management
+Approach
+Avoidance of behavioral factors associated with coronary artery disease (CAD) and left ventricular
+dysfunction is useful to prevent the most common causes of ventricular arrhythmia. Likewise, aggressive
+management of conditions that predispose to CAD and myocardial infarction (MI) (e.g., hypertension,
+hyperlipidemia, diabetes mellitus) would be expected to reduce the subsequent risk of ventricular tachycardia
+(VT).
+In special cases such as hypertrophic cardiomyopathy, arrhythmogenic right ventricular cardiomyopathy
+(ARVC), and long QT syndrome type 1, patients should be counseled to avoid significant physical exertion.
+See Hypertrophic cardiomyopathy  and Long QT syndrome  for more information.
+It is important to distinguish ventricular arrhythmia patients with underlying structural heart disease from
+those who have idiopathic VT, which is associated with a good prognosis, rarely progressing to cardiac
+arrest.
+Idiopathic VT (although defined as occurring in the absence of structural heart disease, known genetic
+disorder, drug toxicity, or electrolyte imbalance) is identifiable by electrophysiologic (EP) testing. Therefore, in
+the case of VTs, idiopathic VT refers to a specific subtype of tachycardias that can be defined by arrhythmia
+mechanism. This is different from tachycardias with no identifiable cause, in which the patient would have no
+signs of a definitive cause for the VT or signs of an idiopathic VT.
+Treatment for identifiable reversible cause of VT such as
+ischemia, MI, toxicity, drug overdose
+In patients with a reversible cause of VT such as active ischemia, recent MI, or drug toxicity or overdose,
+management includes treatment of the underlying cause of the VT in addition to the arrhythmia itself.[1]
+Until the reversible cause of VT has been corrected, an implantable cardioverter defibrillator (ICD) should
+not be considered.
+Hemodynamically unstable sustained VT
+Detailed discussion on CPR and defibrillation, in the advanced cardiac life support (ACLS) algorithm
+for the management of hemodynamically unstable VT in the setting of cardiac arrest such as pulseless
+VT and ventricular fibrillation (VF), is beyond the scope of this topic.[32][33] [34]  [American Heart
+Association: guidelines for CPR and emergency cardiovascular care] (https://eccguidelines.heart.org/
+index.php/circulation/cpr-ecc-guidelines-2)  See Cardiac arrest .
+Cardioversion is essential for the acute treatment of patients with hemodynamically unstable VT
+(symptomatic or severely hypotensive VT).[1] Left untreated, these conditions frequently culminate in
+death; rapid recognition and initiation of appropriate treatment may provide the only hope for the patient's
+survival.
+Synchronized cardioversion should be considered before attempting antiarrhythmic drug therapy in
+patients who have syncope, presyncope, and/or hypotension.
+The antiarrhythmic medications amiodarone and lidocaine can be used as adjunctive therapy.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Sustained ventricular tachycardias Management
+MANAGEMENT
+Torsades de pointes
+Torsades de pointes, a specific type of polymorphic VT characterized by a twisting appearance around
+the baseline, occurs in the setting of QT prolongation due to either the congenital or the acquired forms of
+the long QT syndrome. Torsades de pointes should be treated as any other form of VT according to the
+ACLS protocol. If the patient is hemodynamically unstable, immediate defibrillation should be performed.
+There should be special recognition of the fact that hypokalemia and hypomagnesemia are frequently
+associated with torsades de pointes, and empiric administration of magnesium should be considered.
+Offending drugs should be withdrawn and electrolyte deficiencies should be treated aggressively. An up-
+to-date list of drugs is available through research centers.  [CredibleMeds: Arizona Center for Education
+and Research on Therapeutics] (https://www.crediblemeds.org)  Intravenous magnesium sulfate should
+be administered. Additionally, overdrive pacing and isoproterenol infusion may be useful adjunctively in
+this arrhythmia as they reduce the QT interval.[33] [34]
+Catecholaminergic polymorphic VT
+Medical therapy for catecholaminergic polymorphic VT, an inherited arrhythmia syndrome with high risk
+of VT, includes the use of beta-blockers for both acute and chronic treatment.[27] [35] ICD insertion is
+needed in patients with recurrent syncope despite beta-blockers, or those who are survivors of cardiac
+arrest. However, ICDs should not be implanted without concomitant beta-blocker therapy as ICD shocks
+will increase catecholamine surge, potentially leading to a vicious cycle of ventricular arrhythmias and
+ICD shocks. Left cardiac sympathetic denervation appears to be effective, but has only been tested on
+small cohorts, and is not universally available.[36] In addition, flecainide, which acts to block the RyR2
+channel, prevents RyR2-mediated premature calcium release and suppresses triggered beats. However,
+there are limited data showing its effectiveness in humans.[37] [38] Other treatment strategies have been
+proposed, including a stepwise addition of alternate treatment options, such as calcium-channel blockers
+and flecainide, to beta-blockers in patients who do not respond sufficiently or who cannot tolerate beta-
+blockers.[27]
+Hemodynamically stable nonidiopathic sustained VT
+Antiarrhythmic medications are useful in the acute management of VT that is asymptomatic and
+associated with normal blood pressure. Before initiating antiarrhythmic drug therapy for a VT, it is
+important to be confident in the diagnosis and to make sure that the patient is not experiencing
+supraventricular tachycardia (SVT) with aberrant conduction. Conversely, the diagnosis of SVT with
+aberrancy should also be made carefully, as certain medications (e.g., verapamil, diltiazem) can
+exacerbate the clinical situation by worsening the patient’s hemodynamic status if the actual arrhythmia is
+VT.
+According to the American Heart Association (AHA), intravenous adenosine can be considered to aid in
+treatment and diagnosis when the cause of the regular, monomorphic rhythm cannot be determined.[34]
+Other antiarrhythmic drugs may also be considered in the acute management of stable VT. The AHA
+recommends intravenous procainamide or intravenous amiodarone.[34] Intravenous procainamide has
+been shown to be more efficacious than intravenous amiodarone in terminating wide complex tachycardia
+(67% vs. 38%, respectively; P = 0.026), and was associated with fewer adverse events.[39] However,
+procainamide may be more proarrhythmic and should be used with caution in the setting of baseline QT
+prolongation.[34]
+Patients not responsive to initial antiarrhythmic therapy:
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Sustained ventricular tachycardias Management
+• Synchronized electrical cardioversion is another important treatment for hemodynamically
+tolerated sustained (monomorphic) VT. Among patients who fail an initial attempt at synchronized
+cardioversion, antiarrhythmic medications such as amiodarone or lidocaine may be administered
+prior to additional attempts at cardioversion
+• Synchronized cardioversion should be considered before attempting antiarrhythmic drug therapy in
+patients who have syncope, presyncope, frequent palpitations, or hypotension (particularly those
+with symptoms of diminished cerebral perfusion), even if they have apparently stable hemodynamic
+parameters.
+Initial management of hemodynamically stable idiopathic VT
+There are several distinct entities of VT that occur in the absence of structural heart disease. Idiopathic
+VT occurs in the absence of apparent structural heart disease (e.g., ischemia, prior infarction,
+cardiomyopathy, ARVC, left ventricular noncompaction, and valvular or other disorders of the
+myocardium), known channelopathy (e.g., long QT syndrome, Brugada syndrome, catecholaminergic
+polymorphic VT, short QT syndrome), drug toxicity, or electrolyte imbalance. These VTs are; however,
+identifiable through EP testing and response to certain medications.
+Idiopathic VT requires specific treatment, and consultation with an electrophysiologist is recommended.
+Specific types of idiopathic VT characteristically respond to specific medications, a feature that is useful
+for diagnostic as well as therapeutic purposes. Idiopathic outflow tract VT (which typically arises from the
+right ventricular outflow tract, but which may also arise from other regions including the left ventricular
+outflow tract) demonstrates one of several characteristic ECG morphologies. This arrhythmia is due to
+cyclic-AMP-mediated triggered activity that results in delayed after-depolarizations and can therefore be
+terminated with a bolus of adenosine. Outflow tract tachycardia may also respond to beta-adrenergic
+blockade, calcium-channel blockers, or to vagal maneuvers.
+Fascicular VT, a common form of idiopathic VT due to a reentrant circuit involving part of either the
+left anterior or left posterior fascicle, characteristically responds to verapamil, but the drug should be
+only be used with extreme caution due to the risk of hypotension and hemodynamic collapse if given to
+other forms of VT. Cases of idiopathic VT refractory to adenosine or verapamil can be treated with other
+antiarrhythmic medications (lidocaine, amiodarone); if the arrhythmia persists, synchronized electrical
+cardioversion should be considered.[34]
+Earlier use of cardioversion may be warranted in patients who are highly symptomatic (particularly with
+symptoms of diminished cerebral perfusion) despite apparently stable hemodynamics. Among patients
+who fail an initial attempt at synchronized cardioversion, additional antiarrhythmic medications such as
+amiodarone or lidocaine may be administered prior to additional attempts at cardioversion.
+Subsequent management of hemodynamically stable idiopathic
+VT
+For patients with idiopathic VT and mild-to-moderate symptoms (rare palpitations that do not interfere with
+daily activities), beta-blockers or calcium-channel blockers usually provide sufficient treatment. Catheter
+ablation is also reasonable as first-line therapy in patients with mild-to-moderate symptoms who prefer not
+to take medications.[40] It is a matter of patient preference in deciding between medications and ablation
+in this setting.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Sustained ventricular tachycardias Management
+MANAGEMENT
+In patients with moderate-to-severe symptoms (syncope, presyncope, or frequent, disabling palpitations)
+or with associated cardiomyopathy, catheter ablation of VT should be considered as first-line therapy.
+Catheter ablation is also indicated in patients in whom beta-blockers and/or calcium-channel blockers are
+ineffective or poorly tolerated.[40]
+Antiarrhythmic agents, including class I drugs (mexiletine, flecainide, and propafenone) and class III
+agents (amiodarone and sotalol) may be used in patients who fail therapy with beta-blockers and/or
+calcium-channel blockers and who are not candidates for catheter ablation due to medical comorbidity
+or reluctance to undergo the procedure, or in whom catheter ablation is ineffective.[41] In patients with
+idiopathic VT, ICD therapy is not recommended as a first-line treatment.
+Medication choice is usually based on individual patient/physician preference. In some cases, a beta-
+blocker or calcium-channel blocker will suffice, whereas in other cases catheter ablation of the arrhythmia
+is curative.[41]
+Medications such as flecainide, sotalol, and amiodarone may be employed as second-line therapy for
+patients with idiopathic VT who have refractory symptoms and who fail therapy with beta-blockers or
+catheter ablation.
+Patients at high risk for VT or with history of sustained VT/cardiac
+arrest without identifiable reversible cause: ICD
+ICD implantation is the recommended initial treatment/preventive measure for patients at high risk of
+developing a malignant ventricular arrhythmia, for:
+• High-risk patients who have not yet experienced a sustained arrhythmia (primary prevention)[42]
+[43]
+• Patients who have survived an episode of sustained VT or VF and who have no identifiable
+reversible cause for VT/cardiac arrest.[44] [45] [46]
+Patients at high risk for VT for which ICD implantation is the recommended initial treatment/preventive
+measure include those with:
+• Ischemic cardiomyopathy (left ventricular ejection fraction [LVEF] ≤35%) and mild-to-moderate
+congestive heart failure symptoms (New York Heart Association class II or III symptoms)
+• Ischemic cardiomyopathy with LVEF ≤30%
+• Ischemic cardiomyopathy (LVEF ≤40%) with nonsustained VT and inducible sustained VT during
+EP testing
+• Nonischemic cardiomyopathy (LVEF ≤35% and New York Heart Association class II or III
+symptoms)
+• Hypertrophic cardiomyopathy (HCM) with high-risk features such as family history of sudden death
+from HCM; massive left ventricular hypertrophy (wall thickness ≥30 mm); unexplained syncope;
+left ventricular systolic dysfunction; left ventricular apical aneurysm; extensive late gadolinium
+enhancement on cardiovascular magnetic resonance imaging; or frequent, longer, and faster runs
+of nonsustained VT.[8][9] Other clinical features that are utilized in calculating sudden cardiac death
+risk in HCM include age, left atrial diameter, left ventricular outflow tract obstruction, and exercise
+blood pressure response.
+• Congenital arrhythmia syndromes, including symptomatic patients with long QT syndrome and
+Brugada syndrome.
+ICDs are highly effective in terminating sustained ventricular arrhythmias. These devices provide a
+continuous monitor for the cardiac rhythm and the capability of terminating VT by overdrive pacing and/
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Sustained ventricular tachycardias Management
+or cardioversion/defibrillation. Multiple clinical trials have shown the ICDs to be more effective than
+antiarrhythmic medications in reducing total mortality for cardiac arrest survivors, especially in the
+setting of coronary artery disease. It is understood that ICD programming can affect not only frequency
+of ICD therapies (including antitachycardia pacing and ICD shocks) but also inappropriate therapies
+(i.e., those for rhythms other than ventricular tachyarrhythmias) and mortality rates.[47] [48] It should
+be emphasized that these trials excluded patients with reversible causes of cardiac arrest, including
+toxic/metabolic abnormalities, trauma, and acute ischemia. ICD implantation is not indicated in such
+cases when correction of the disorder is considered feasible and likely to substantially reduce the risk of
+recurrence.
+Although an invasive procedure, ICD implantation is associated with a procedural mortality of only 0.02%.
+The long-term risks of ICD therapy include device malfunction, infection, and/or inappropriate shocks.
+Risk factors for infection include comorbid conditions such as diabetes and chronic obstructive pulmonary
+disease, as well as oral anticoagulation therapy and corticosteroid use. Measures such as antibiotic
+prophylaxis and good patient education on wound care can help reduce risk.[49] ICD shocks can be
+painful and if frequent may impair patient's quality of life.[44] [45] [46] [50]
+Traditionally, ICDs have been implanted with a transvenous lead. However, a subcutaneous ICD, where
+the ICD lead remains extravascular, is also an option. An approved version involves an ICD lead tunneled
+subcutaneously near the inferior border of the left rib cage and then up along the sternum, with the ICD
+generator located in the left axillary region.[19] Another extravascular ICD, involving a lead placed under
+the sternum, is being investigated.[20]
+All currently available ICDs are capable of responding to arrhythmias in a tiered fashion. Transvenous
+ICDs are capable of antibradycardia pacing, antitachycardia pacing for VT, low-energy cardioversion for
+VT, and high-energy defibrillation for VF. ICDs detect arrhythmias primarily on the basis of heart rate.
+Thus, they will not intervene in the case of VT below the programmed rate and may inappropriately
+intervene in the case of supraventricular arrhythmias with a rapid ventricular response.
+Appropriate use guidelines are available with respect to ICD implantation for both primary and secondary
+prevention, including use of cardiac resynchronization devices.[51] [52]
+Adjunctive therapies for high-risk patients already implanted with
+an ICD or for whom ICD therapy is not an option
+Antiarrhythmic drugs may be useful as adjunctive therapies for high-risk patients already implanted
+with an ICD or for whom ICD therapy is not an option.[7] However, it should be emphasized that with
+the notable exception of beta-blockers, randomized trials have shown that currently available oral
+antiarrhythmic drugs do not prolong life when used chronically in the treatment of life-threatening
+ventricular arrhythmias and sudden death.[7] Some antiarrhythmic medications may not be appropriate for
+patients with structural heart disease because they have negative inotropic properties and may increase
+the risk of VT. It is important to be aware that amiodarone can increase defibrillation thresholds and,
+therefore, potentially impair ICD function.[53]
+Catheter ablation may also be used as a palliative measure in patients with structural heart disease
+experiencing recurrent episodes of VT. Catheter ablation has also been shown to decrease appropriate
+ICD therapies, including ICD shocks.[40] [54] [55]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Sustained ventricular tachycardias Management
+MANAGEMENT
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial ( summary )
+hemodynamically unstable
+ventricular tachycardia with a pulse
+1st synchronized cardioversion according to
+advanced cardiac life support protocol +
+treatment of reversible cause (if present)
+adjunct antiarrhythmic medication
+torsades de pointes
+1st intravenous magnesium sulfate +
+withdraw offending drugs + correct
+electrolyte abnormalities
+adjunct isoproterenol infusion
+adjunct temporary or permanent pacing
+catecholaminergic polymorphic
+ventricular tachycardia
+1st beta-blockers
+adjunct implantable cardioverter defibrillator
+Acute ( summary )
+hemodynamically stable
+nonidiopathic sustained ventricular
+tachycardia
+1st antiarrhythmic medications + treatment of
+reversible cause (if present)
+2nd synchronized cardioversion ±
+antiarrhythmic medications
+hemodynamically stable idiopathic
+sustained ventricular tachycardia
+1st intravenous antiarrhythmic medications
+2nd synchronized cardioversion
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Sustained ventricular tachycardias Management
+Ongoing ( summary )
+nonidiopathic: at high risk for
+ventricular tachycardia or history of
+sustained ventricular tachycardia/
+cardiac arrest without identifiable
+reversible cause
+1st implantable cardioverter defibrillator
+adjunct antiarrhythmic medication
+2nd antiarrhythmic monotherapy
+structural heart disease
+with recurrent episodes of
+ventricular tachycardia
+plus catheter ablation
+idiopathic ventricular tachycardia
+1st specialist referral for ongoing
+antiarrhythmic treatment
+mild-to-moderate
+symptoms (rare
+palpitations that do
+not interfere with daily
+activities)
+plus beta-blockers or calcium-channel blockers
+or catheter ablation
+moderate-to-severe
+symptoms (syncope,
+presyncope, or frequent,
+disabling palpitations)
+or associated
+cardiomyopathy
+plus catheter ablation
+failure of beta-
+blockers, calcium-
+channel blockers, or
+catheter ablation, or
+noncandidates for
+catheter ablation
+plus class I or class III antiarrhythmic
+medications
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Sustained ventricular tachycardias Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial
+hemodynamically unstable
+ventricular tachycardia with a pulse
+1st synchronized cardioversion according to
+advanced cardiac life support protocol +
+treatment of reversible cause (if present)
+» Cardioversion is essential for the acute
+treatment of hemodynamically unstable
+ventricular tachycardia (VT) (symptomatic or
+severely hypotensive VT).[1]
+» Synchronized cardioversion should be
+considered before attempting antiarrhythmic
+drug therapy in patients who have syncope,
+presyncope, frequent palpitations, or
+hypotension (particularly those with symptoms of
+diminished cerebral perfusion), even if they have
+apparently stable hemodynamics.
+» Cardioversion may be repeated as needed
+until rhythm is controlled.
+» In patients with an identifiable reversible cause
+of VT (e.g., ischemia, myocardial infarction,
+toxicity, drug overdose) management will also
+involve treatment of the reversible cause.[1]
+adjunct antiarrhythmic medication
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» amiodarone: 300 mg intravenous push
+Secondary options
+» lidocaine: 1 to 1.5 mg/kg intravenously as a
+single dose
+» Medical therapy provides an important
+adjunctive therapy to emergency cardiovascular
+care, based on the advanced cardiac life support
+protocol. Amiodarone and/or lidocaine are
+considered useful antiarrhythmic drugs in these
+circumstances.[34]
+torsades de pointes
+1st intravenous magnesium sulfate +
+withdraw offending drugs + correct
+electrolyte abnormalities
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Sustained ventricular tachycardias Management
+Initial
+Primary options
+» magnesium sulfate: 1-2 g intravenously as
+a single dose
+» Torsades de pointes, a specific type of
+polymorphic ventricular tachycardia (VT)
+characterized by a twisting appearance around
+the baseline, occurs in the setting of QT
+prolongation due to either the congenital or
+acquired forms of the long QT syndrome.
+Torsades de pointes should be treated as any
+other form of VT according to the advanced
+cardiac life support protocol, with special
+recognition of the fact that hypokalemia and
+hypomagnesemia frequently are associated
+with torsades. Electrolyte deficiencies should
+be replenished aggressively. Offending drugs
+should be withdrawn. An up-to-date list of
+drugs is available through research centers. 
+[CredibleMeds: Arizona Center for Education
+and Research on Therapeutics] (https://
+www.crediblemeds.org)  Intravenous magnesium
+sulfate should be administered. Additionally,
+overdrive pacing and isoproterenol infusion may
+be useful in this arrhythmia as they reduce the
+QT interval.[34]
+adjunct isoproterenol infusion
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» isoproterenol: 2 micrograms/minute
+intravenous infusion initially, dose titrated
+according to response, maximum 10
+micrograms/minute
+» Indicated in patients who present with
+recurrent torsades de pointes after initial acute
+therapy.
+» It may be useful in this arrhythmia as it reduces
+the QT interval.[56]
+» It is important to be certain that the
+patient does not have acute ischemia before
+administering isoproterenol.
+adjunct temporary or permanent pacing
+Treatment recommended for SOME patients in
+selected patient group
+» Indicated in recurrent torsades de pointes after
+acute therapy.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Sustained ventricular tachycardias Management
+MANAGEMENT
+Initial
+catecholaminergic polymorphic
+ventricular tachycardia
+1st beta-blockers
+Primary options
+» nadolol: consult specialist for guidance on
+dose
+» Medical therapy for catecholaminergic
+polymorphic ventricular tachycardia includes the
+use of beta-blockers for both acute and chronic
+treatment.[27] [35]
+» High dose of beta-blockers is usually required.
+» Other treatment strategies have been
+proposed, including a stepwise addition of
+alternate treatment options, such as calcium-
+channel blockers and flecainide, to beta-blockers
+in patients who do not respond sufficiently or
+who cannot tolerate beta-blockers. Left cardiac
+sympathetic denervation appears to be effective,
+but has only been tested on small cohorts, and is
+not universally available.[27]
+adjunct implantable cardioverter defibrillator
+Treatment recommended for SOME patients in
+selected patient group
+» Implantable cardioverter defibrillator (ICD)
+insertion is needed in patients with recurrent
+syncope despite beta-blockers, or those who
+are survivors of cardiac arrest, especially in the
+setting of coronary artery disease. ICDs should
+not be implanted without concomitant beta-
+blocker therapy, as ICD shocks will increase
+catecholamine surge, potentially leading to a
+vicious cycle of ventricular arrhythmias and ICD
+shocks.
+» ICD therapy provides a continuous monitor
+for the cardiac rhythm and the capability of
+terminating ventricular tachycardia by overdrive
+pacing and/or cardioversion defibrillation.
+» ICD implant requires surgery and is associated
+with a small risk of procedural mortality. The
+long-term risks of ICD therapy include device
+malfunction, infection, and/or inappropriate
+shocks. Risk factors for infection include
+comorbid conditions such as diabetes and
+chronic obstructive pulmonary disease, as
+well as oral anticoagulation therapy and
+corticosteroid use. Measures such as antibiotic
+prophylaxis and good patient education on
+wound care can help reduce risk.[49] ICD
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Sustained ventricular tachycardias Management
+Initial
+shocks can be painful and if frequent may impair
+the patient's quality of life.[43] [44] [45] [50]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Sustained ventricular tachycardias Management
+MANAGEMENT
+Acute
+hemodynamically stable
+nonidiopathic sustained ventricular
+tachycardia
+1st antiarrhythmic medications + treatment of
+reversible cause (if present)
+Primary options
+» adenosine: 6 mg intravenously initially,
+followed by 12 mg every 1-2 minutes for up to
+2 doses according to response
+OR
+» procainamide: 10-17 mg/kg (20-30 mg/
+minute) intravenous infusion initially (or 100
+mg intravenously every 5 minutes), followed
+by 1-4 mg/minute infusion, adjust dose
+according to response, maximum 9 g/day
+(maintenance)
+Secondary options
+» amiodarone: 150 mg intravenous infusion
+given over 10 minutes initially, followed by 1
+mg/minute for 6 hours, followed by 0.5 mg/
+minute for 18 hours
+» The group of patients discussed here as
+nonidiopathic include those with identifiable
+reversible causes for ventricular tachycardia
+(VT) as well as those in whom there are no
+identifiable causes. Idiopathic VT (although
+defined as occurring in the absence of structural
+heart disease, known genetic disorder, drug
+toxicity, or electrolyte imbalance) is identifiable
+by electrophysiologic testing and response to
+certain medications. Therefore, in the case of
+VTs, idiopathic VT refers to a specific subtype of
+tachycardias that are defined and identifiable.
+» Antiarrhythmic medications are useful in
+the acute management of hemodynamically
+stable VT. Before initiating antiarrhythmic drug
+therapy for a wide complex tachycardia, it is
+important to be confident in the diagnosis and
+to make sure that the patient is not experiencing
+supraventricular tachycardia (SVT) with aberrant
+conduction. Conversely, the diagnosis of
+SVT with aberrancy should also be made
+carefully, as certain medications (e.g., verapamil,
+diltiazem) can exacerbate the clinical situation by
+worsening the patient’s hemodynamic status if
+the actual arrhythmia is VT.
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Sustained ventricular tachycardias Management
+Acute
+» According to the American Heart Association
+(AHA), intravenous adenosine can be
+considered to aid in treatment and diagnosis
+when the cause of the regular, monomorphic
+rhythm cannot be determined.[34] Other
+antiarrhythmic drugs may also be considered
+in the acute management of stable VT. The
+AHA recommends intravenous procainamide
+or intravenous amiodarone.[34] Intravenous
+procainamide has been shown to be more
+efficacious than intravenous amiodarone
+in terminating wide complex tachycardia
+(67% vs. 38%, respectively; P = 0.026),
+and was associated with fewer adverse
+events.[39] However, procainamide may be more
+proarrhythmic and should be used with caution
+in the setting of baseline QT prolongation.[34]
+» In patients with an identifiable reversible cause
+of VT (e.g., ischemia, myocardial infarction,
+toxicity, drug overdose) management will also
+involve treatment of the reversible cause.[1]
+2nd synchronized cardioversion ±
+antiarrhythmic medications
+Primary options
+» amiodarone: 150 mg intravenous infusion
+given over 10 minutes initially, followed by 1
+mg/minute for 6 hours, followed by 0.5 mg/
+minute for 18 hours
+Secondary options
+» lidocaine: 1 to 1.5 mg/kg intravenously
+initially, followed by 1-4 mg/minute infusion
+» In patients who do not respond to the initial
+acute treatment with antiarrhythmic therapy,
+synchronized electrical cardioversion is an
+important treatment for hemodynamically
+tolerated sustained (monomorphic) ventricular
+tachycardia (VT). Among patients who fail an
+initial attempt at synchronized cardioversion,
+antiarrhythmic medications such as amiodarone
+or lidocaine may be administered prior to
+additional attempts at cardioversion.
+» Synchronized cardioversion should be
+considered before attempting antiarrhythmic
+drug therapy in patients who are highly
+symptomatic (particularly those with symptoms
+of diminished cerebral perfusion), even if they
+have apparently stable hemodynamics.
+» Advanced cardiac life support guidelines
+recommend giving amiodarone or lidocaine, then
+synchronized cardioversion.[34]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Sustained ventricular tachycardias Management
+MANAGEMENT
+Acute
+» In patients with an identifiable reversible cause
+of VT (e.g., ischemia, myocardial infarction,
+toxicity, drug overdose) management will also
+involve ongoing treatment of the reversible
+cause.[1]
+hemodynamically stable idiopathic
+sustained ventricular tachycardia
+1st intravenous antiarrhythmic medications
+Primary options
+Outflow tract VT
+» adenosine: 6 mg intravenously initially,
+followed by 12 mg every 1-2 minutes for up to
+2 doses according to response
+OR
+Fascicular VT
+» verapamil: 5-10 mg intravenously initially,
+followed by 10 mg after 30 minutes if no
+adequate response seen, maximum 20 mg
+total dose
+OR
+Outflow tract VT
+» metoprolol tartrate: 5 mg intravenously
+initially, repeat every 2 minutes according to
+response, maximum 15 mg total dose
+Secondary options
+» amiodarone: 150 mg intravenous infusion
+given over 10 minutes, followed by 1 mg/
+minute for 6 hours, followed by 0.5 mg/minute
+for 18 hours
+OR
+» lidocaine: 1 to 1.5 mg/kg intravenously as a
+single dose
+» Idiopathic ventricular tachycardias (VTs)
+are several distinct entities of VT that occur
+in the absence of structural heart disease,
+known genetic disorder, drug toxicity, or
+electrolyte imbalance, but are identifiable by
+electrophysiologic testing and response to
+certain medications. Therefore, in the case of
+VTs, idiopathic VT refers to a specific subtype
+of tachycardias that are defined and identifiable.
+These conditions require specific treatment, and
+seeking specialist help is recommended.
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Sustained ventricular tachycardias Management
+Acute
+» Specific types of idiopathic VT
+characteristically respond to specific
+medications, a feature that is useful for
+diagnostic as well as therapeutic purposes in the
+acute setting. Idiopathic outflow tract VT can be
+terminated with a bolus of adenosine. Outflow
+tract tachycardias may also respond to beta-
+blockade or to vagal maneuvers.
+» Fascicular VT characteristically responds to
+verapamil, but the drug should be used with
+extreme caution due to the risk of hypotension
+and hemodynamic collapse if given to other
+forms of VT.
+» In cases refractory to adenosine or verapamil,
+idiopathic VT can be treated with antiarrhythmic
+medications (lidocaine, amiodarone); if
+necessary, synchronized electrical cardioversion
+may be performed.[34]
+» If the patient is not already being managed
+by a specialist, following successful termination
+of the tachycardia and stabilization, he
+or she should be referred to a specialist
+(electrophysiologist) for further management.
+2nd synchronized cardioversion
+» In patients with idiopathic ventricular
+tachycardia who have failed to respond to
+antiarrhythmic drug therapy, synchronized
+electrical cardioversion should be considered.
+Earlier use of cardioversion may be warranted in
+patients who are highly symptomatic (particularly
+with symptoms of diminished cerebral perfusion)
+despite apparently stable hemodynamics.
+» If the patient is not already being managed
+by a specialist, following successful termination
+of the tachycardia and stabilization, he
+or she should be referred to a specialist
+(electrophysiologist) for further management.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Sustained ventricular tachycardias Management
+MANAGEMENT
+Ongoing
+nonidiopathic: at high risk for
+ventricular tachycardia or history of
+sustained ventricular tachycardia/
+cardiac arrest without identifiable
+reversible cause
+1st implantable cardioverter defibrillator
+» The group of patients discussed here as
+nonidiopathic include those with identifiable
+reversible causes for ventricular tachycardia
+(VT) as well as those in whom there are no
+identifiable causes. Idiopathic VT (although
+defined as occurring in the absence of structural
+heart disease, known genetic disorder, drug
+toxicity, or electrolyte imbalance) is identifiable
+by electrophysiologic (EP) testing and response
+to certain medications. Therefore, in the case of
+VTs, idiopathic VT refers to a specific subtype
+of tachycardias that are defined and identifiable.
+This is different from tachycardias with no
+identifiable cause, in which the patient would
+have no signs of a definitive cause for the VT or
+signs of an idiopathic VT.
+» Patients at high risk for VT for which
+implantable cardioverter defibrillator (ICD)
+implantation is the recommended initial
+treatment/preventive measure include those
+with: ischemic cardiomyopathy (left ventricular
+ejection fraction [LVEF] ≤35%, or ≤40% with
+nonsustained VT and inducible VT during EP);
+nonischemic cardiomyopathy (LVEF ≤35%
+and New York Heart Association class II or
+III symptoms); hypertrophic cardiomyopathy
+(HCM) with one or more of the following high-risk
+features: 1) family history of sudden death from
+HCM; 2) massive left ventricular hypertrophy
+(wall thickness ≥30 mm); 3) unexplained
+syncope; 4) left ventricular systolic dysfunction;
+5) left ventricular apical aneurysm; 6) extensive
+late gadolinium enhancement on cardiovascular
+magnetic resonance imaging; 7) frequent,
+longer, and faster runs of nonsustained VT; or
+congenital arrhythmia syndromes, including long
+QT syndrome and Brugada syndrome with high-
+risk features.[8][9]
+» ICD therapy provides a continuous monitor
+for the cardiac rhythm and the capability of
+terminating VT by overdrive pacing and/or
+cardioversion defibrillation.
+» ICD therapy has become the most important
+treatment to reduce mortality among high-
+risk patients, with a 30% to 40% relative risk
+reduction in cardiac death with ICD therapy.
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Sustained ventricular tachycardias Management
+Ongoing
+Medications have been shown to be less
+efficacious than ICDs in reducing the burden of
+malignant ventricular arrhythmias in high-risk
+patients and are considered adjunctive therapy
+for managing these conditions.
+» ICDs have been shown to be more effective
+than antiarrhythmic medications in reducing
+overall mortality in cardiac arrest survivors
+who did not have reversible causes of cardiac
+arrest, including toxic/metabolic abnormalities,
+trauma, and acute ischemia. ICD implantation is
+contraindicated in such cases when correction of
+the disorder is considered feasible and likely to
+substantially reduce the risk of recurrence.
+» ICD implant requires surgery and is associated
+with a small risk of procedural mortality. The
+long-term risks of ICD therapy include device
+malfunction, infection, and/or inappropriate
+shocks. Risk factors for infection include
+comorbid conditions such as diabetes and
+chronic obstructive pulmonary disease, as
+well as oral anticoagulation therapy and
+corticosteroid use. Measures such as antibiotic
+prophylaxis and good patient education on
+wound care can help reduce risk.[49] ICD
+shocks can be painful and if frequent may impair
+the patient's quality of life.[43] [44] [45] [50]
+adjunct antiarrhythmic medication
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» mexiletine: 200 mg orally every 8 hours
+OR
+» flecainide: 100-150 mg orally twice daily
+OR
+» propafenone: 150-300 mg orally
+(immediate-release) every 8 hours; or
+225-425 mg orally (extended-release) every
+12 hours
+OR
+» sotalol: 80-160 mg orally twice daily
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Sustained ventricular tachycardias Management
+MANAGEMENT
+Ongoing
+» amiodarone: 800-1600 mg/day orally given
+in single or divided doses for 1-3 weeks,
+followed by 600-800 mg/day given in single
+or divided doses for 4 weeks, followed by
+200-400 mg/day given in single or divided
+doses
+» Antiarrhythmic drugs may be useful as
+adjunctive therapies for high-risk patients already
+implanted with an implantable cardioverter
+defibrillator (ICD) or for whom ICD therapy is not
+an option.[7] However, randomized trials have
+shown that currently available oral antiarrhythmic
+drugs, other than beta-blockers, do not prolong
+life when used chronically in the treatment
+of life-threatening ventricular arrhythmias
+and sudden death.[7] Some antiarrhythmic
+medications may be inappropriate for patients
+with structural heart disease because of their
+negative inotropic properties and increased risk
+of causing ventricular tachycardia. Amiodarone
+can increase defibrillation thresholds and,
+therefore, potentially impair ICD function.[53]
+2nd antiarrhythmic monotherapy
+Primary options
+» mexiletine: 200 mg orally every 8 hours
+OR
+» flecainide: 100-150 mg orally twice daily
+OR
+» propafenone: 150-300 mg orally
+(immediate-release) every 8 hours
+OR
+» sotalol: 80-160 mg orally twice daily
+OR
+» amiodarone: 800-1600 mg/day orally given
+in single or divided doses for 1-3 weeks,
+followed by 600-800 mg/day given in single
+or divided doses for 4 weeks, followed by
+200-400 mg/day given in single or divided
+doses
+» Antiarrhythmic drugs may be useful as
+adjunctive therapies for high-risk patients already
+implanted with an implantable cardioverter
+defibrillator (ICD) or for whom ICD therapy
+is not an option.[7] However, randomized
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Sustained ventricular tachycardias Management
+Ongoing
+trials have shown that currently available oral
+antiarrhythmic drugs, other than beta-blockers,
+do not prolong life when used chronically in
+the treatment of life-threatening ventricular
+arrhythmias and sudden death.[7] Antiarrhythmic
+medications may be inappropriate for patients
+with structural heart disease because of their
+negative inotropic properties and increased risk
+of causing ventricular tachycardia. Amiodarone
+can increase defibrillator thresholds and,
+therefore, potentially impair ICD function.[53]
+structural heart disease
+with recurrent episodes of
+ventricular tachycardia
+plus catheter ablation
+Treatment recommended for ALL patients in
+selected patient group
+» Catheter ablation may also be used as a
+palliative measure in patients with structural
+heart disease experiencing recurrent episodes of
+ventricular tachycardia.[40] [54]
+idiopathic ventricular tachycardia
+idiopathic ventricular
+tachycardia
+1st specialist referral for ongoing
+antiarrhythmic treatment
+» Idiopathic ventricular tachycardias (VTs)
+are several distinct entities of VT that occur
+in the absence of structural heart disease,
+known genetic disorder, drug toxicity, or
+electrolyte imbalance, but are identifiable by
+electrophysiologic testing and response to
+certain medications. Therefore, in the case of
+VTs, idiopathic VT refers to a specific subtype
+of tachycardias that are defined and identifiable.
+These conditions require specific treatment, and
+seeking specialist help is recommended.
+mild-to-moderate
+symptoms (rare
+palpitations that do
+not interfere with daily
+activities)
+plus beta-blockers or calcium-channel blockers
+or catheter ablation
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» metoprolol tartrate: 50-200 mg/day orally
+(immediate-release) given in 2 divided doses
+OR
+» atenolol: 25 to 100 mg orally once daily
+OR
+» verapamil: 180-240 mg/day orally
+(immediate-release) given in 3-4 divided
+doses; 180-240 mg orally (extended-release)
+once daily
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Sustained ventricular tachycardias Management
+MANAGEMENT
+Ongoing
+OR
+» diltiazem: 90-360 mg/day orally (immediate-
+release) given in 3-4 divided doses; 90-360
+mg orally (extended-release) once daily
+» In ongoing therapy for patients with idiopathic
+ventricular tachycardia and mild-to-moderate
+symptoms, beta-blockers or calcium-channel
+blockers usually provide sufficient treatment.
+» In terms of the choice of calcium-channel
+blockers, verapamil is usually used, with
+diltiazem as another option.
+» It is a matter of physician and patient
+preference in deciding between medications and
+ablation in this setting.[40]
+moderate-to-severe
+symptoms (syncope,
+presyncope, or frequent,
+disabling palpitations)
+or associated
+cardiomyopathy
+plus catheter ablation
+Treatment recommended for ALL patients in
+selected patient group
+» In ongoing therapy for patients with moderate-
+to-severe symptoms or with associated
+cardiomyopathy, catheter ablation of ventricular
+tachycardia should be considered as first line.
+Catheter ablation is also indicated in patients
+in whom beta-blockers and/or calcium-channel
+blockers are ineffective or poorly tolerated.[40]
+» It is also reasonable as first-line therapy in
+patients with mild-to-moderate symptoms who
+prefer not to take medications.
+failure of beta-
+blockers, calcium-
+channel blockers, or
+catheter ablation, or
+noncandidates for
+catheter ablation
+plus class I or class III antiarrhythmic
+medications
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» mexiletine: 200 mg orally every 8 hours
+OR
+» flecainide: 100-200 mg orally twice daily
+OR
+» propafenone: 150 to 350 mg orally
+(immediate-release) every 8 hours
+OR
+» sotalol: 80-160 mg orally twice daily
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 45 ===
+Sustained ventricular tachycardias Management
+Ongoing
+Secondary options
+» amiodarone: 200 mg/day orally given in
+single or divided doses
+» In ongoing therapy, antiarrhythmic agents,
+including class I drugs (mexiletine, flecainide,
+and propafenone) and class III agents
+(amiodarone and sotalol), may be used in
+patients who fail therapy with beta-blockers
+and/or calcium-channel blockers and who are
+not candidates for catheter ablation or in whom
+catheter ablation is ineffective.[40] [41]
+» Medication choice is usually based on
+individual patient/physician preference.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+45
+=== Page 46 ===
+Sustained ventricular tachycardias Management
+MANAGEMENT
+Emerging
+Remote magnetic navigation
+Remote magnetic navigation (RMN) is a robotic navigation technique used in the mapping and ablation of
+arrhythmias. It is associated with better catheter precision and stability than with a manual technique. One
+systematic review found RMN to be an effective and safe method for the ablation of ventricular tachycardia
+with low recurrence and complication rates; however, the quality of the reviewed evidence was poor.[57] One
+small retrospective study in children found that RMN-guided ablation was associated with lower ventricular
+arrhythmia recurrence rates and allowed for lower fluoroscopy doses than with manual-guided ablation.[58]
+However, one longer-term study in adults found that ventricular arrhythmia recurred within 5.5 years in
+39% of 176 individuals who underwent RMN-guided ablation.[59] Risk of recurrence was greatest in those
+with left ventricular ejection fraction <40%, dilated cardiomyopathy, and those receiving antiarrhythmic
+pharmacotherapy.[59] Clinical studies of RMN in ventricular arrhythmia and atrial fibrillation are ongoing.
+Stereotactic radioablation
+Stereotactic body radiation therapy, or stereotactic radioablation, is an emerging modality for the treatment
+of ventricular arrhythmias that are refractory to antiarrhythmic therapy and catheter ablation. It involves the
+precise delivery of a very high radiation dose to the targeted area, while minimizing collateral damage to the
+surrounding myocardium and other structures. The ENCORE-VT trial was a prospective phase 1/2 trial on
+noninvasive cardiac radioablation in treatment-refractory VT. Nineteen patients were included in the study,
+and stereotactic radioablation was associated with reduced ventricular arrhythmia burden with modest short-
+term risks, reduction in antiarrhythmic therapy, and improvement in quality of life.[60]
+Primary prevention
+Primary prevention of ventricular arrhythmia is best accomplished by treating risk factors for coronary
+artery disease and left ventricular systolic dysfunction, including smoking cessation and management of
+hypertension and hyperlipidemia. Additional preventive measures include optimization of medical treatment
+of systolic dysfunction with medications such as ACE inhibitors/angiotensin receptor blockers, beta-blockers,
+and aldosterone antagonists. In patients with hypertrophic cardiomyopathy, arrhythmogenic right ventricular
+cardiomyopathy, and the long QT syndrome, strenuous physical exertion should be avoided as exercise can
+provoke arrhythmias in these populations.
+In addition, owing to the unpredictable and life-threatening nature of sustained ventricular tachycardias
+(VTs), primary prevention is critical in high-risk patients and can be accomplished through implantation of
+a prophylactic implantable cardioverter defibrillator (ICD). Traditionally, ICDs have been implanted with a
+transvenous lead. However, a subcutaneous ICD, where the ICD lead remains extravascular, is also an
+option. An approved version involves an ICD lead tunneled subcutaneously near the inferior border of the left
+rib cage and then up along the sternum, with the ICD generator located in the left axillary region.[19] Another
+extravascular ICD, involving a lead placed under the sternum, is being investigated.[20]
+Patients at high risk include those with:
+• Ischemic or nonischemic cardiomyopathy (left ventricular ejection fraction [LVEF] ≤35%) and mild-to-
+moderate congestive heart failure symptoms (New York Heart Association class II or III symptoms).
+Those with severe heart failure (class IV) are at high risk as well, but have progressive heart failure
+as a competing mode of death, and thus should be considered for ICD only if they are candidates for
+cardiac resynchronization therapy
+• Ischemic cardiomyopathy (LVEF ≤40%) with nonsustained VT and inducible sustained VT during
+electrophysiologic testing
+• Ischemic cardiomyopathy (LVEF ≤30% and New York Heart Association class I symptoms)
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 47 ===
+Sustained ventricular tachycardias Management
+• Hypertrophic cardiomyopathy (HCM) with high-risk features such as family history of sudden death
+from HCM; massive left ventricular hypertrophy (wall thickness ≥30 mm); unexplained syncope;
+left ventricular systolic dysfunction; left ventricular apical aneurysm; extensive late gadolinium
+enhancement on cardiovascular magnetic resonance imaging; or frequent, longer, and faster runs of
+nonsustained VT.[8][9] Other clinical features that are utilized in calculating sudden cardiac death risk
+in HCM include age, left atrial diameter, left ventricular outflow tract obstruction, and exercise blood
+pressure response
+• Congenital arrhythmia syndromes, including symptomatic patients with long QT syndrome, Brugada
+syndrome, and catecholaminergic polymorphic VT with high-risk features.
+One large cohort study found that the risk of first and recurrent life-threatening ventricular arrhythmias
+following ICD placement was significantly lower in women than in men. This suggests that a sex-specific
+risk assessment for prophylactic ICD placement may be beneficial. However, further research to better
+understand the sex differences driving these findings is warranted.[21]
+Secondary prevention
+In general, compliance with prescribed antiarrhythmic medications should help lessen the burden of
+ventricular arrhythmias. Patients with ischemic ventricular tachycardia should explore the feasibility of
+revascularization therapy.
+Patient discussions
+Patients should report episodes of syncope, presyncope, chest pain, or palpitations to their physicians,
+as these symptoms may indicate recurrent ventricular tachycardia. Patients on long-term antiarrhythmic
+medications may require specific follow-up to monitor for efficacy and/or toxicity. Patients should
+be educated about specific adverse effects associated with their antiarrhythmic medications, such
+as symptoms of thyroid dysfunction among patients taking amiodarone. Patients implanted with an
+implantable cardioverter defibrillator should report to their physician any shocks from the device or
+evidence of device infection (erythema, tenderness, or pus). Good patient education on wound care can
+help reduce the risk of device infection.[49]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+47
+=== Page 48 ===
+Sustained ventricular tachycardias Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+Patients with ventricular tachycardia should be evaluated by an electrophysiologist. An assessment of
+their underlying cardiac status should be undertaken and medical therapy and/or implantable cardioverter
+defibrillator (ICD) therapy should be initiated as clinically indicated.
+Patients implanted with an ICD require routine device checks, and need to be reevaluated promptly if
+symptoms of the tachycardia recur, or if the device delivers a shock. Many routine device checks can
+be performed via remote monitoring. Monitoring is daily and “virtual” (remote) device reports are usually
+created every 3 months.
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 49 ===
+Sustained ventricular tachycardias Follow up
+Complications
+Complications Timeframe Likelihood
+implantable cardioverter defibrillator system
+malfunction (device or leads)
+long term low
+May require urgent device replacement or modification of one or more components of the implantable
+cardioverter defibrillator (ICD) system. However, if the failure rate is sufficiently low and is less than the
+risk of ICD replacement, optimal management of devices that are prone to failure may consist of close
+observation of the patient rather than prophylactic device replacement.
+ventricular fibrillation variable high
+Patients who develop sustained ventricular tachycardia in the context of left ventricular systolic dysfunction
+often have reentrant rhythms around myocardial scars. Such reentrant circuits can degenerate to
+ventricular fibrillation and are associated with a high mortality rate.
+sudden cardiac death variable high
+Ventricular tachycardia is a common cause of sudden cardiac death.
+implantable cardioverter defibrillator-related infection variable low
+Often results from bacteremia. Infection may occur along the intravascular portion of the leads or in the
+generator pocket. Risk factors for infection include comorbid conditions such as diabetes and chronic
+obstructive pulmonary disease, as well as oral anticoagulation therapy and corticosteroid use. Measures
+such as antibiotic prophylaxis and good patient education on wound care can help reduce risk.[49]
+Treatment usually requires complete removal of the implantable cardioverter defibrillator system and a
+prolonged course of antibiotics.
+cardiomyopathy variable low
+Frequent or incessant idiopathic ventricular premature complexes or nonsustained ventricular tachycardia
+have been associated with a reversible, tachycardia-induced cardiomyopathy that regresses following
+therapy with medications or catheter ablation.[63]
+amiodarone-induced thyroid dysfunction variable low
+Amiodarone can cause adverse effects, including thyroid dysfunction (both hypo- and hyperthyroidism).
+Prognosis
+Idiopathic ventricular tachycardia
+Idiopathic ventricular tachycardia (VT) generally carries a favorable prognosis. In most patients, idiopathic VT
+is not a progressive condition. The most common symptoms associated with idiopathic VT are palpitations
+and presyncope; true syncope is uncommon (10% to 20%). Patients presenting with apparent idiopathic VT
+arising from the right ventricle should undergo a careful evaluation for occult arrhythmogenic right ventricular
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+49
+=== Page 50 ===
+Sustained ventricular tachycardias Follow up
+FOLLOW UP
+cardiomyopathy, as ventricular premature complexes (VPC) and VT are frequent early manifestations of
+this disorder. Frequent or incessant idiopathic VPCs or nonsustained VT have been associated with a
+reversible, tachycardia-induced cardiomyopathy that regresses following therapy with medications or catheter
+ablation.[63]
+Nonidiopathic VT
+In contrast to idiopathic VT, patients who develop sustained VT in the context of left ventricular systolic
+dysfunction often have reentrant rhythms around myocardial scars. Such reentrant circuits can degenerate
+to ventricular fibrillation and are associated with a high mortality rate. Implantable cardioverter defibrillator
+(ICD) implantation provides continuous monitoring of their cardiac rhythm and the capability to terminate
+VT through overdrive pacing and/or defibrillation. Owing to the unpredictable and rapid onset of sustained
+VT, and its serious consequence if left untreated, prophylactic ICD therapy has become the most important
+treatment to reduce mortality among high-risk patients.[7]
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 51 ===
+Sustained ventricular tachycardias Guidelines
+Diagnostic guidelines
+International
+2024 AHA/ACC/AMSSM/HRS/PACES/SCMR guideline for the management of
+hypertrophic cardiomyopathy (https://www.acc.org/Guidelines)   [9]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2024
+2020 Canadian Cardiovascular Society/Canadian Heart Rhythm Society
+position statement on the management of ventricular tachycardia and
+fibrillation in patients with structural heart disease (https://ccs.ca/guidelines-
+and-position-statement-library)   [29]
+Published by: Canadian Cardiovascular Society; Canadian Heart
+Rhythm Society
+Last published: 2020
+2017 AHA/ACC/HRS guideline for management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://www.acc.org/
+guidelines)   [7]
+Published by: American College of Cardiology; American Heart
+Association; Heart Rhythm Society
+Last published: 2017
+2014 EHRA/HRS/APHRS expert consensus on ventricular arrhythmias (https://
+www.hrsonline.org/guidance/clinical-resources)   [30]
+Published by: European Heart Rhythm Association; Heart Rhythm
+Society; Asia Pacific Heart Rhythm Society
+Last published: 2014
+HRS/EHRA/APHRS expert consensus statement on the diagnosis and
+management of patients with inherited primary arrhythmia syndromes
+(https://www.hrsonline.org/guidance/clinical-resources)   [31]
+Published by: Heart Rhythm Society; European Heart Rhythm
+Association; Asia Pacific Heart Rhythm Society
+Last published: 2013
+2023 ESC guidelines for the management of cardiomyopathies (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [8]
+Published by: European Society of Cardiology Last published: 2023
+2022 ESC guidelines for the management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [1]
+Published by: European Society of Cardiology Last published: 2022
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+51
+=== Page 52 ===
+Sustained ventricular tachycardias Guidelines
+GUIDELINES
+Treatment guidelines
+International
+2024 AHA/ACC/AMSSM/HRS/PACES/SCMR guideline for the management of
+hypertrophic cardiomyopathy (https://www.acc.org/guidelines)   [9]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2024
+2020 Canadian Cardiovascular Society/Canadian Heart Rhythm Society
+position statement on the management of ventricular tachycardia and
+fibrillation in patients with structural heart disease (https://ccs.ca/guidelines-
+and-position-statement-library)   [29]
+Published by: Canadian Cardiovascular Society; Canadian Heart
+Rhythm Society
+Last published: 2020
+2020 AHA guidelines for cardiopulmonary resuscitation and emergency
+cardiovascular care. Part 3: adult basic and advanced life support (https://
+eccguidelines.heart.org/circulation/cpr-ecc-guidelines)   [34]
+Published by: American Heart Association Last published: 2020
+2017 AHA/ACC/HRS guideline for management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://www.acc.org/
+guidelines)   [7]
+Published by: American College of Cardiology; American Heart
+Association; Heart Rhythm Society
+Last published: 2017
+2015 ACC/AHA/HRS guideline for the management of adult patients with
+supraventricular tachycardia (https://www.acc.org/guidelines)   [61]
+Published by: American College of Cardiology; American Heart
+Association Task Force on Clinical Practice Guidelines; Heart Rhythm
+Society
+Last published: 2015
+2012 ACCF/AHA/HRS focused update of the 2008 guidelines for device-based
+therapy of cardiac rhythm abnormalities (https://professional.heart.org/en/
+guidelines-and-statements)   [52]
+Published by: American College of Cardiology; American Heart
+Association; Heart Rhythm Society
+Last published: 2012
+HRS/EHRA/APHRS/LAHRS expert consensus statement on catheter ablation
+of ventricular arrhythmias (https://www.hrsonline.org/guidance/clinical-
+resources)   [40]
+Published by: Heart Rhythm Society; European Heart Rhythm
+Association; Asia Pacific Heart Rhythm Society; Latin American Heart
+Rhythm Society
+Last published: 2019
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 53 ===
+Sustained ventricular tachycardias Guidelines
+International
+HRS/EHRA/APHRS expert consensus statement on the diagnosis and
+management of patients with inherited primary arrhythmia syndromes
+(https://www.hrsonline.org/guidance/clinical-resources)   [31]
+Published by: Heart Rhythm Society; European Heart Rhythm
+Association; Asia Pacific Heart Rhythm Society
+Last published: 2013
+2023 ESC guidelines for the management of cardiomyopathies (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [8]
+Published by: European Society of Cardiology Last published: 2023
+2022 ESC guidelines for the management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [1]
+Published by: European Society of Cardiology Last published: 2022
+2019 ESC guidelines for the management of patients with supraventricular
+tachycardia (https://www.escardio.org/Guidelines/Clinical-Practice-
+Guidelines)   [62]
+Published by: European Society of Cardiology Last published: 2019
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+53
+=== Page 54 ===
+Sustained ventricular tachycardias Online resources
+ONLINE RESOURCES
+Online resources
+1. CredibleMeds: Arizona Center for Education and Research on Therapeutics (https://
+www.crediblemeds.org)  (external link)
+2. American Heart Association: guidelines for CPR and emergency cardiovascular care (https://
+eccguidelines.heart.org/index.php/circulation/cpr-ecc-guidelines-2)  (external link)
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 55 ===
+Sustained ventricular tachycardias References
+Key articles
+• Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://academic.oup.com/eurheartj/article/43/40/3997/6675633?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+• Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS Guideline for management
+of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of
+the American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2018 Oct 2;72(14):e91-220. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29097296?tool=bestpractice.bmj.com)
+• Pedersen CT, Kay GN, Kalman J, et al. EHRA/HRS/APHRS expert consensus on ventricular
+arrhythmias. Heart Rhythm. 2014 Oct;11(10):e166-96.  Full text (https://www.hrsonline.org/guidance/
+clinical-resources/2014-ehrahrsaphrs-expert-consensus-ventricular-arrhythmias)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25179489?tool=bestpractice.bmj.com)
+• Panchal AR, Bartos JA, Cabañas JG, et al; Adult Basic and Advanced Life Support Writing
+Group. Part 3: adult basic and advanced life support: 2020 American Heart Association
+guidelines for cardiopulmonary resuscitation and emergency cardiovascular care. Circulation.
+2020 Oct 20;142(16_suppl_2):S366-468.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIR.0000000000000916)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33081529?
+tool=bestpractice.bmj.com)
+• Cronin EM, Bogun FM, Maury P, et al. 2019 HRS/EHRA/APHRS/LAHRS expert consensus statement
+on catheter ablation of ventricular arrhythmias. J Arrhythm. 2019 May 10;35(3):323-484.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6595359)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31293696?tool=bestpractice.bmj.com)
+References
+1. Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://academic.oup.com/eurheartj/article/43/40/3997/6675633?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+2. Stecker E, Vickers C, Waltz J, et al. Population-based analysis of sudden cardiac death with and
+without left ventricular systolic dysfunction: two-year findings from the Oregon Sudden Unexpected
+Death Study. J Am Coll Cardiol. 2006 Mar 21;47(6):1161-6.  Full text (http://www.sciencedirect.com/
+science/article/pii/S0735109705031074)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16545646?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+55
+=== Page 56 ===
+Sustained ventricular tachycardias References
+REFERENCES
+3. Cubillos-Garzon LA, Casas JP, Morillo CA, et al. Congestive heart failure in Latin America:
+the next epidemic. Am Heart J. 2004 Mar;147(3):412-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/14999188?tool=bestpractice.bmj.com)
+4. Kies P, Bootsma M, Bax J, et al. Arrhythmogenic right ventricular dysplasia/cardiomyopathy:
+Screening, diagnosis, and treatment. Heart Rhythm. 2006 Feb;3(2):225-34. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16443541?tool=bestpractice.bmj.com)
+5. Chugh SS, Reinier K, Teodorescu C, et al. Epidemiology of sudden cardiac death: clinical and
+research implications. Prog Cardiovasc Dis. 2008 Nov-Dec;51(3):213-28.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC2621010)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19026856?tool=bestpractice.bmj.com)
+6. Kim RJ, Iwai S, Markowitz SM, et al. Clinical and electrophysiological spectrum of idiopathic
+ventricular outflow tract arrhythmias. J Am Coll Cardiol. 2007 May 22;49(20):2035-43. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17512360?tool=bestpractice.bmj.com)
+7. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS Guideline for management
+of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of
+the American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2018 Oct 2;72(14):e91-220. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29097296?tool=bestpractice.bmj.com)
+8. Arbelo E, Protonotarios A, Gimeno JR, et al. 2023 ESC guidelines for the management of
+cardiomyopathies. Eur Heart J. 2023 Oct 1;44(37):3503-626.  Full text (https://academic.oup.com/
+eurheartj/article/44/37/3503/7246608)
+9. Ommen SR, Ho CY, Asif IM, et al. 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR guideline for
+the management of hypertrophic cardiomyopathy: a report of the American Heart Association/
+American College of Cardiology Joint Committee on clinical practice guidelines. Circulation. 2024 Jun
+4;149(23):e1239-311.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001250) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/38718139?tool=bestpractice.bmj.com)
+10. Schwartz PJ, Priori SG, Spazzolini C, et al. Genotype-phenotype correlation in the long-QT syndrome:
+gene-specific triggers for life-threatening arrhythmias. Circulation. 2001 Jan 2;103(1):89-95. 
+Full text (http://circ.ahajournals.org/content/103/1/89.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11136691?tool=bestpractice.bmj.com)
+11. Shimizu W. The long QT syndrome: therapeutic implications of a genetic diagnosis. Cardiovasc Res.
+2005 Aug 15;67(3):347-56.  Full text (http://cardiovascres.oxfordjournals.org/content/67/3/347.full)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15979599?tool=bestpractice.bmj.com)
+12. Hu D, Barajas-Martinez H, Pfeiffer R, et al. Mutations in SCN10A are responsible for a large
+fraction of cases of Brugada syndrome. J Am Coll Cardiol. 2014 Jul 8;64(1):66-79. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24998131?tool=bestpractice.bmj.com)
+13. Priori SG, Gasparini M, Napolitano C, et al. Risk stratification in Brugada syndrome: results of the
+PRELUDE (PRogrammed ELectrical stimUlation preDictive valuE) registry. J Am Coll Cardiol. 2012
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 57 ===
+Sustained ventricular tachycardias References
+Jan 3;59(1):37-45.  Full text (https://www.sciencedirect.com/science/article/pii/S073510971104530X?
+via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22192666?tool=bestpractice.bmj.com)
+14. Antzelevitch C, Brugada P, Borggrefe M, et al. Brugada syndrome: report of the second consensus
+conference. Heart Rhythm. 2005 Apr;2(4):429-40. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15898165?tool=bestpractice.bmj.com)
+15. Mehra R, Chung MK, Olshansky B, et al. Sleep-disordered breathing and cardiac arrhythmias
+in adults: mechanistic insights and clinical implications: a scientific statement from the American
+Heart Association. Circulation. 2022 Aug 30;146(9):e119-36.  Full text (https://www.ahajournals.org/
+doi/10.1161/CIR.0000000000001082?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+%20%200pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35912643?
+tool=bestpractice.bmj.com)
+16. Wilde AAM, Semsarian C, Márquez MF, et al. European Heart Rhythm Association (EHRA)/
+Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart
+Rhythm Society (LAHRS) expert consensus statement on the state of genetic testing for cardiac
+diseases. Europace. 2022 Sep 1;24(8):1307-67.  Full text (https://academic.oup.com/europace/
+article/24/8/1307/6562982?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35373836?
+tool=bestpractice.bmj.com)
+17. Musunuru K, Hershberger RE, Day SM, et al. Genetic testing for inherited cardiovascular diseases:
+a scientific statement from the American Heart Association. Circ Genom Precis Med. 2020
+Aug;13(4):e000067.  Full text (https://www.ahajournals.org/doi/10.1161/HCG.0000000000000067)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32698598?tool=bestpractice.bmj.com)
+18. McKenna WJ, Thiene G, Nava A, et al. Diagnosis of arrhythmogenic right ventricular dysplasia/
+cardiomyopathy. Br Heart J. 1994 Mar;71(3):215-8.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC483655/pdf/brheartj00172-0007.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8142187?
+tool=bestpractice.bmj.com)
+19. Friedman DJ, Tully AS, Zeitler EP. Subcutaneous and transvenous ICDs: an update on contemporary
+questions and controversies. Curr Cardiol Rep. 2022 Aug;24(8):947-58. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35639275?tool=bestpractice.bmj.com)
+20. Friedman P, Murgatroyd F, Boersma LVA, et al. Efficacy and safety of an extravascular
+implantable cardioverter-defibrillator. N Engl J Med. 2022 Oct 6;387(14):1292-302. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36036522?tool=bestpractice.bmj.com)
+21. Saxena S, Goldenberg I, McNitt S, et al. Sex differences in the risk of first and recurrent ventricular
+tachyarrhythmias among patients receiving an implantable cardioverter-defibrillator for primary
+prevention. JAMA Netw Open. 2022 Jun 1;5(6):e2217153.  Full text (https://jamanetwork.com/journals/
+jamanetworkopen/fullarticle/2793349)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35699956?
+tool=bestpractice.bmj.com)
+22. Wellens HJ, Brugada P. Diagnosis of ventricular tachycardia from the 12-lead electrocardiogram.
+Cardiol Clin. 1987 Sep;5(3):511-25. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3690604?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+57
+=== Page 58 ===
+Sustained ventricular tachycardias References
+REFERENCES
+23. Brugada P, Brugada J, Mont L, et al. A new approach to the differential diagnosis of a regular
+tachycardia with a wide QRS complex. Circulation. 1991 May;83(5):1649-59. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2022022?tool=bestpractice.bmj.com)
+24. Vereckei A, Duray G, Szénási G, et al. New algorithm using only lead aVR for differential
+diagnosis of wide QRS complex tachycardia. Heart Rhythm. 2008 Jan;5(1):89-98. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18180024?tool=bestpractice.bmj.com)
+25. Vereckei A. Current algorithms for the diagnosis of wide QRS complex tachycardias. Curr Cardiol Rev.
+2014 Aug;10(3):262-76.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4040878)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/24827795?tool=bestpractice.bmj.com)
+26. Moccetti F, Yadava M, Latifi Y, et al. Simplified integrated clinical and electrocardiographic algorithm for
+differentiation of wide QRS complex tachycardia: the Basel algorithm. JACC Clin Electrophysiol. 2022
+Jul;8(7):831-9.  Full text (https://www.sciencedirect.com/science/article/pii/S2405500X22003139?via
+%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35863808?tool=bestpractice.bmj.com)
+27. van der Werf C, Zwinderman AH, Wilde AA. Therapeutic approach for patients with catecholaminergic
+polymorphic ventricular tachycardia: state of the art and future developments. Europace.
+2012 Feb;14(2):175-83. [Erratum in: Europace. 2012 Dec;14(12):1810.]  Full text (http://
+europace.oxfordjournals.org/content/14/2/175.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21893508?tool=bestpractice.bmj.com)
+28. Nielsen JC, Lin YJ, de Oliveira Figueiredo MJ, et al. European Heart Rhythm Association (EHRA)/
+Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart
+Rhythm Society (LAHRS) expert consensus on risk assessment in cardiac arrhythmias: use the right
+tool for the right outcome, in the right population. Heart Rhythm. 2020 Sep;17(9):e269-316.  Full
+text (https://www.heartrhythmjournal.com/article/S1547-5271(20)30425-2/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32553607?tool=bestpractice.bmj.com)
+29. Deyell MW, AbdelWahab A, Angaran P, et al. 2020 Canadian Cardiovascular Society/Canadian Heart
+Rhythm Society position statement on the management of ventricular tachycardia and fibrillation
+in patients with structural heart disease. Can J Cardiol. 2020 Jun;36(6):822-36.  Full text (https://
+www.onlinecjc.ca/article/S0828-282X(20)30326-3/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32536373?tool=bestpractice.bmj.com)
+30. Pedersen CT, Kay GN, Kalman J, et al. EHRA/HRS/APHRS expert consensus on ventricular
+arrhythmias. Heart Rhythm. 2014 Oct;11(10):e166-96.  Full text (https://www.hrsonline.org/guidance/
+clinical-resources/2014-ehrahrsaphrs-expert-consensus-ventricular-arrhythmias)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25179489?tool=bestpractice.bmj.com)
+31. Priori SG, Wilde AA, Horie M, et al. HRS/EHRA/APHRS expert consensus statement on the diagnosis
+and management of patients with inherited primary arrhythmia syndromes: document endorsed
+by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in June 2013.
+Heart Rhythm. 2013 Dec;10(12):1932-63. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24011539?
+tool=bestpractice.bmj.com)
+32. Greif R, Bray JE, Djärv T, et al. 2024 International consensus on cardiopulmonary resuscitation and
+emergency cardiovascular care science with treatment recommendations: summary from the basic life
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 59 ===
+Sustained ventricular tachycardias References
+support; advanced life support; pediatric life support; neonatal life support; education, implementation,
+and teams; and first aid task forces. Circulation. 2024 Dec 10;150(24):e580-687.  Full text (https://
+www.ahajournals.org/doi/full/10.1161/CIR.0000000000001288)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/39540293?tool=bestpractice.bmj.com)
+33. Panchal AR, Berg KM, Kudenchuk PJ, et al. 2018 American Heart Association focused
+update on advanced cardiovascular life support use of antiarrhythmic drugs during and
+immediately after cardiac arrest: an update to the American Heart Association Guidelines for
+cardiopulmonary resuscitation and emergency cardiovascular care. Circulation. 2018 Dec
+4;138(23):e740-9.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000613?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30571262?tool=bestpractice.bmj.com)
+34. Panchal AR, Bartos JA, Cabañas JG, et al; Adult Basic and Advanced Life Support Writing
+Group. Part 3: adult basic and advanced life support: 2020 American Heart Association
+guidelines for cardiopulmonary resuscitation and emergency cardiovascular care. Circulation.
+2020 Oct 20;142(16_suppl_2):S366-468.  Full text (https://www.ahajournals.org/doi/10.1161/
+CIR.0000000000000916)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33081529?
+tool=bestpractice.bmj.com)
+35. Napolitano C, Priori SG. Diagnosis and treatment of catecholaminergic polymorphic ventricular
+tachycardia. Heart Rhythm. 2007 May;4(5):675-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17467641?tool=bestpractice.bmj.com)
+36. Wilde AA, Bhuiyan ZA, Crotti L, et al. Left cardiac sympathetic denervation for catecholaminergic
+polymorphic ventricular tachycardia. N Engl J Med. 2008 May 8;358(19):2024-9.  Full text (http://
+www.nejm.org/doi/full/10.1056/NEJMoa0708006#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18463378?tool=bestpractice.bmj.com)
+37. Watanabe H, Chopra N, Laver D, et al. Flecainide prevents catecholaminergic polymorphic
+ventricular tachycardia in mice and humans. Nat Med. 2009 Apr;15(4):380-3.  Full text (http://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC2904954)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19330009?tool=bestpractice.bmj.com)
+38. Watanabe H, van der Werf C, Roses-Noguer F, et al. Effects of flecainide on exercise-induced
+ventricular arrhythmias and recurrences in genotype-negative patients with catecholaminergic
+polymorphic ventricular tachycardia. Heart Rhythm. 2013 Apr;10(4):542-7.  Full text (http://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC3809106)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23286974?tool=bestpractice.bmj.com)
+39. Ortiz M, Martín A, Arribas F, et al. Randomized comparison of intravenous procainamide vs.
+intravenous amiodarone for the acute treatment of tolerated wide QRS tachycardia: the PROCAMIO
+study. Eur Heart J. 2017 May 1;38(17):1329-35.  Full text (https://academic.oup.com/eurheartj/article-
+lookup/doi/10.1093/eurheartj/ehw230)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27354046?
+tool=bestpractice.bmj.com)
+40. Cronin EM, Bogun FM, Maury P, et al. 2019 HRS/EHRA/APHRS/LAHRS expert consensus statement
+on catheter ablation of ventricular arrhythmias. J Arrhythm. 2019 May 10;35(3):323-484.  Full text
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+59
+=== Page 60 ===
+Sustained ventricular tachycardias References
+REFERENCES
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6595359)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31293696?tool=bestpractice.bmj.com)
+41. Morin DP, Lerman BB. Management of ventricular tachycardia in the absence of structural
+heart disease. Curr Treat Options Cardiovasc Med. 2007 Oct;9(5):356-63. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17897564?tool=bestpractice.bmj.com)
+42. Moss AJ, Zareba W, Hall WJ, et al. Prophylactic implantation of a defibrillator in patients with
+myocardial infarction and reduced ejection fraction. N Engl J Med. 2002 Mar 21;346(12):877-83. 
+Full text (http://www.nejm.org/doi/full/10.1056/NEJMoa013474#t=article)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11907286?tool=bestpractice.bmj.com)
+43. Bardy GH, Lee KL, Mark DB, et al. Amiodarone or an implantable cardioverter-defibrillator for
+congestive heart failure. N Engl J Med. 2005 Jan 20;352(3):225-37.  Full text (http://www.nejm.org/doi/
+full/10.1056/NEJMoa043399#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15659722?
+tool=bestpractice.bmj.com)
+44. Antiarrhythmics versus Implantable Defibrillators (AVID) Investigators. A comparison of antiarrhythmic-
+drug therapy with implantable defibrillators in patients resuscitated from near-fatal ventricular
+arrhythmias. N Engl J Med. 1997 Nov 27;337(22):1576-83.  Full text (http://www.nejm.org/
+doi/full/10.1056/NEJM199711273372202#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9411221?tool=bestpractice.bmj.com)
+45. Connolly SJ, Gent M, Roberts RS, et al. Canadian implantable defibrillator study (CIDS): a
+randomized trial of the implantable cardioverter defibrillator against amiodarone. Circulation. 2000 Mar
+21;101(11):1297-302.  Full text (http://circ.ahajournals.org/content/101/11/1297.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10725290?tool=bestpractice.bmj.com)
+46. Kuck KH, Cappato R, Siebels J, et al. Randomized comparison of antiarrhythmic drug
+therapy with implantable defibrillators in patients resuscitated from cardiac arrest: the Cardiac
+Arrest Study Hamburg (CASH). Circulation. 2000 Aug 15;102(7):748-54.  Full text (http://
+circ.ahajournals.org/content/102/7/748.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10942742?
+tool=bestpractice.bmj.com)
+47. Gasparini M, Proclemer A, Klersy C, et al. Effect of long-detection interval vs standard-detection
+interval for implantable cardioverter-defibrillators on antitachycardia pacing and shock delivery:
+the ADVANCE III randomized clinical trial. JAMA. 2013 May 8;309(18):1903-11.  Full text (http://
+jama.jamanetwork.com/article.aspx?articleid=1685859)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23652522?tool=bestpractice.bmj.com)
+48. Moss AJ, Schuger C, Beck CA, et al; MADIT-RIT Trial Investigators. Reduction in inappropriate
+therapy and mortality through ICD programming. N Engl J Med. 2012 Dec 13;367(24):2275-83. 
+Full text (http://www.nejm.org/doi/full/10.1056/NEJMoa1211107#t=article)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23131066?tool=bestpractice.bmj.com)
+49. Blomström-Lundqvist C, Traykov V, Erba PA, et al. European Heart Rhythm Association (EHRA)
+international consensus document on how to prevent, diagnose, and treat cardiac implantable
+electronic device infections - endorsed by the Heart Rhythm Society (HRS), the Asia Pacific Heart
+Rhythm Society (APHRS), the Latin American Heart Rhythm Society (LAHRS), International Society
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 61 ===
+Sustained ventricular tachycardias References
+for Cardiovascular Infectious Diseases (ISCVID) and the European Society of Clinical Microbiology
+and Infectious Diseases (ESCMID) in collaboration with the European Association for Cardio-Thoracic
+Surgery (EACTS). Europace. 2020 Apr 1;22(4):515-49.  Full text (https://academic.oup.com/europace/
+article/22/4/515/5614580?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31702000?
+tool=bestpractice.bmj.com)
+50. Hammill SC, Stevenson LW, Kadish AH, et al. Review of the registry's first year, data collected,
+and future plans. Heart Rhythm. 2007 Sep;4(9):1260-3. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17765637?tool=bestpractice.bmj.com)
+51. Russo AM, Stainback RF, Bailey SR, et al. ACCF/HRS/AHA/ASE/HFSA/SCAI/SCCT/SCMR 2013
+appropriate use criteria for implantable cardioverter-defibrillators and cardiac resynchronization
+therapy. J Am Coll Cardiol. 2013 Mar 26;61(12):1318-68.  Full text (http://www.sciencedirect.com/
+science/article/pii/S073510971206041X)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23453819?
+tool=bestpractice.bmj.com)
+52. Tracy CM, Epstein AE, Darbar D, et al. 2012 ACCF/AHA/HRS focused update of the 2008 guidelines
+for device-based therapy of cardiac rhythm abnormalities: a report of the American College of
+Cardiology Foundation/American Heart Association Task Force on practice guidelines and the
+Heart Rhythm Society. Circulation. 2012 Oct 2;126(14):1784-800. [Erratum in: Circulation. 2013 Jan
+22;127(3):e357-9.]  Full text (https://www.ahajournals.org/doi/full/10.1161/cir.0b013e3182618569)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22965336?tool=bestpractice.bmj.com)
+53. Hohnloser SH, Dorian P, Roberts R, et al, Effect of amiodarone and sotalol on ventricular defibrillation
+threshold: the Optimal Pharmacological Therapy in Cardioverter/Defibrillator Patients (OPTIC) Trial.
+Circulation. 2006 Jul 11;114(2):104-9.  Full text (http://circ.ahajournals.org/content/114/2/104.full)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16818810?tool=bestpractice.bmj.com)
+54. Stevenson WG, Khan H, Sager P, et al. Identification of reentry circuit sites during catheter
+mapping and radiofrequency ablation of ventricular tachycardia late after myocardial infarction.
+Circulation. 1993 Oct;88(4 Pt 1):1647-70. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8403311?
+tool=bestpractice.bmj.com)
+55. Reddy VY, Reynolds MR, Neuzil P, et al. Prophylactic catheter ablation for the prevention of
+defibrillator therapy. N Engl J Med. 2007 Dec 27;357(26):2657-65.  Full text (http://www.nejm.org/doi/
+full/10.1056/NEJMoa065457#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18160685?
+tool=bestpractice.bmj.com)
+56. Alberca T, Almendral J, Sanz P, et al. Evaluation of the specificity of morphological
+electrocardiographic criteria for the differential diagnosis of wide QRS complex tachycardia in patients
+with intraventricular conduction defects. Circulation. 1997 Nov 18;96(10):3527-33.  Full text (http://
+circ.ahajournals.org/content/96/10/3527.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9396451?
+tool=bestpractice.bmj.com)
+57. Akca F, Önsesveren I, Jordaens L, et al. Safety and efficacy of the remote magnetic navigation
+for ablation of ventricular tachycardias - a systematic review. J Interv Card Electrophysiol. 2012
+Jun;34(1):65-71.  Full text (http://link.springer.com/article/10.1007/s10840-011-9645-2/fulltext.html)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22180126?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+61
+=== Page 62 ===
+Sustained ventricular tachycardias References
+REFERENCES
+58. Noten AME, Ramdat Misier NL, Kammeraad JAE, et al. The first evaluation of remote
+magnetic navigation-guided pediatric ventricular arrhythmia ablation. Pediatr Cardiol. 2022
+Dec;43(8):1695-703.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9587922)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/35486130?tool=bestpractice.bmj.com)
+59. Guckel D, Niemann S, Ditzhaus M, et al. Long-term efficacy and impact on mortality of remote
+magnetic navigation guided catheter ablation of ventricular arrhythmias. J Clin Med. 2021 Oct
+13;10(20):4695.  Full text (https://www.mdpi.com/2077-0383/10/20/4695)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34682822?tool=bestpractice.bmj.com)
+60. Knutson NC, Samson PP, Hugo GD, et al. Radiation therapy workflow and dosimetric analysis
+from a phase 1/2 trial of noninvasive cardiac radioablation for ventricular tachycardia. Int J
+Radiat Oncol Biol Phys. 2019 Aug 1;104(5):1114-23.  Full text (https://www.redjournal.org/article/
+S0360-3016(19)30623-6/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31002942?
+tool=bestpractice.bmj.com)
+61. Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of adult
+patients with supraventricular tachycardia: a report of the American College of Cardiology/American
+Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll
+Cardiol. 2016 Apr 5;67(13):e27-115.  Full text (http://www.onlinejacc.org/content/67/13/e27)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/26409259?tool=bestpractice.bmj.com)
+62. Brugada J, Katritsis DG, Arbelo E, et al. 2019 ESC guidelines for the management of patients with
+supraventricular tachycardia, the Task Force for the management of patients with supraventricular
+tachycardia of the European Society of Cardiology (ESC). Eur Heart J. 2020 Feb 1;41(5):655-720. 
+Full text (https://academic.oup.com/eurheartj/article/41/5/655/5556821?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31504425?tool=bestpractice.bmj.com)
+63. Yarlagadda RK, Iwai S, Stein KM, et al. Reversal of cardiomyopathy in patients with repetitive
+monomorphic ventricular ectopy originating from the right ventricular outflow tract. Circulation. 2005
+Aug 23;112(8):1092-7.  Full text (http://circ.ahajournals.org/content/112/8/1092.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16103234?tool=bestpractice.bmj.com)
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 63 ===
+Sustained ventricular tachycardias Images
+Images
+Figure 1: Sustained (monomorphic) ventricular tachycardia
+From the collection of Prof Sei Iwai; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+63
+=== Page 64 ===
+Sustained ventricular tachycardias Images
+IMAGES
+Figure 2: Torsades de pointes
+From the collections of Dr Kenneth Stein and Dr Richard Keating; used with permission
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 65 ===
+Sustained ventricular tachycardias Images
+Figure 3: Right ventricular outflow tract tachycardia
+From the collection of Prof Sei Iwai; used with permission
+Figure 4: Prolonged QT: QTc 510 ms (HR 69 and QT 476)
+From the collection of Prof Sei Iwai; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+65
+=== Page 66 ===
+Sustained ventricular tachycardias Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 67 ===
+Sustained ventricular tachycardias Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 20, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+67
+=== Page 68 ===
+Contributors:
+// Authors:
+Sei Iwai, MD, FACC, FHRS
+Professor of Clinical Medicine
+New York Medical College, Section Chief, Cardiac Electrophysiology, Westchester Medical Center Health
+Network, Valhalla, NY
+DISCLOSURES: SI is an author of some references cited in this topic.
+// Acknowledgements:
+Professor Sei Iwai would like to gratefully acknowledge Dr Kenneth Stein and Dr Richard Keating, previous
+contributors to this topic.
+DISCLOSURES: KS declares he is an employee of and shareholder in Boston Scientific, a manufacturer
+of implantable cardioverter defibrillators and ablation catheters. RK declares that he has no competing
+interests.
+// Peer Reviewers:
+Suneet Mittal, MD
+Director
+Electrophysiology Laboratory, The St. Luke's-Roosevelt Hospital Center, New York, NY
+DISCLOSURES: SM declares that he has no competing interests.
+Kenneth A. Ellenbogen, MD
+Kontos Professor of Cardiology
+Medical College of Virginia, Richmond, VA
+DISCLOSURES: KAE declares that he has no competing interests.
+Kim Rajappan, MA, MD, MRCP
+Consultant Cardiologist and Electrophysiologist
+Cardiac Department, John Radcliffe Hospital, Oxford, UK
+DISCLOSURES: KR declares that she has no competing interests.

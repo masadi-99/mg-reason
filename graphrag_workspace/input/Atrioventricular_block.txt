@@ -1,0 +1,2010 @@
+# Atrioventricular block
+
+=== Page 1 ===
+Atrioventricular block
+Straight to the point of care
+Last updated: Jan 25, 2023
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  5
+Pathophysiology  6
+Classification  6
+Case history  9
+Diagnosis  12
+Approach  12
+History and exam  17
+Risk factors  18
+Investigations  22
+Differentials  27
+Criteria  28
+Management  32
+Approach  32
+Treatment algorithm overview  33
+Treatment algorithm  34
+Emerging  39
+Primary prevention  39
+Secondary prevention  39
+Patient discussions  39
+Follow up  40
+Monitoring  40
+Complications  40
+Prognosis  40
+Guidelines  42
+Diagnostic guidelines  42
+Treatment guidelines  43
+References  45
+Images  52
+Disclaimer  58
+=== Page 3 ===
+Atrioventricular block Overview
+Summary
+Atrioventricular (AV) block can be described by degree (based on ECG appearance) or by anatomic level of
+block.
+The degree of AV block or anatomic level of block does not necessarily correlate with the severity of
+subsequent symptoms.
+The goals of therapy are to treat symptoms and to prevent syncope and sudden cardiac death due to very
+slow or absent ventricular rates.
+Patients with advanced AV block (usually type II second-degree, third-degree, or infranodal AV block) of
+irreversible cause should undergo permanent pacemaker placement.
+Definition
+Atrioventricular (AV) block is a cardiac electrical disorder defined as impaired (delayed or absent) conduction
+from the atria to the ventricles. The severity of the conduction abnormality is described in degrees: first-
+degree; second-degree, type I (Wenckebach or Mobitz I) or type II (Mobitz II); and third-degree (complete)
+AV block. This classification scheme should be applied only during sinus rhythm and not during rapid atrial
+arrhythmias or to premature atrial beats.[1]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Atrioventricular block Theory
+THEORY
+Epidemiology
+The epidemiology of AV block is not well characterized.[2] One study comparing the prevalence of first-
+degree AV block in African-American and white patients found that first-degree AV block was more prevalent
+in African-American patients in almost all decades of life (third through 10th).[3] In both groups, first-degree
+AV block became more common at age 50 years and increased with advancing age, peaking in the 10th
+decade for African-American patients and in the ninth decade for white patients. Another study examined 24-
+hour Holter monitors in 625 asymptomatic, heart-disease-free people, ages 15 to 83 years.[4] Transient type
+I second-degree AV block was seen in 14 (2.2%) patients, and was seen more frequently in patients with
+resting heart rates of <60 bpm. In a large cross-sectional study involving 10,926 Chinese participants ages
+≥40 years, prevalence of first-degree AV block was found to be 3.4%.[5] In another large population based
+cohort study of 6146 participants from the MiniFinland Health Survey, 0.9% developed AV block in the course
+of 20 years.[6] First-degree AV block has been associated with about a 2-fold increase in the probability of
+atrial fibrillation, a 3-fold increase in the probability of pacemaker implantation, and an increase in all-cause
+mortality.[2] [7]
+Advanced AV block (usually type II second-degree and third-degree) is usually anatomically infranodal and
+is seen in advanced His-Purkinje disease. One study examined the prevalence of His-Purkinje disease in the
+Framingham population.[8] Here, QRS intervals of >0.12 seconds were significantly associated with coronary
+heart disease, congestive heart failure, AV block, hypertension, left ventricular hypertrophy, and ventricular
+extrasystoles. QRS intervals >0.12 seconds were rare before 50 to 60 years of age and were found in 11%
+of older men and 5% of older women. While intraventricular block does not inevitably lead to AV block, it
+frequently precedes the development of advanced AV block. Thus, this characterization of a wide-QRS
+interval population is likely similar to that of the advanced AV block population.
+Third-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Atrioventricular block Theory
+Third-degree heart block: right bundle-branch block escape
+Courtesy of Dr Sanjiv Petkar; used with permission
+Baseline ECG for a patient with third-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+Etiology
+Causes include fibrosis and calcification of the conduction system, coronary artery disease (including
+patients with a chronic disease and/or an acute coronary syndrome), and medication such as AV-nodal
+blocking agents (i.e., beta-blockers, calcium-channel blockers, digitalis, adenosine), antiarrhythmic
+medications such as sodium-channel blockers, and some class III agents (i.e., sotalol and amiodarone).[1]
+[9][10] Additional etiologies include high vagal tone; cardiomyopathy (e.g., hypertrophic, sarcoid, amyloid,
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Atrioventricular block Theory
+THEORY
+hemochromatosis); calcification from adjacent valves; catheter ablation for arrhythmias; cardiac surgery,
+such as valve repair or replacement, myectomy, or following interventions such as septal ethanol ablation or
+transcatheter aortic valve insertion; blunt cardiac injury; and some indigenous medicines.[11] [12] [13] Severe
+electrolyte disturbances, acidosis, or hypoxemia may result in AV block as well as neuromuscular disorders
+(myotonic dystrophy, Kearns-Sayre syndrome, Erb dystrophy, peroneal muscular atrophy), myocarditis,
+infective endocarditis, cardiac tuberculosis, and Lyme disease. AV block may be congenital or associated
+with complex congenital heart diseases, e.g., atrial septal defects, atrioventricular cushion defects and
+selected cyanotic congenital heart diseases.[14] [15] Inherited progressive cardiac conduction disease in
+structurally normal hearts in individuals less than 50 years of age is also now well recognized. In one study of
+patients in Denmark ages <50 years with AV block, the etiology was unknown in 50.3% of patients.[16]
+Pathophysiology
+Block at the level of the AV node manifesting as first-degree or type I second-degree AV block is usually a
+function of either high vagal tone or medication. High vagal tone is due to either a tonic elevation (e.g., in
+younger, athletic patients) or transient vagotonia, as in neurocardiogenic syncope, sleep, nausea, vomiting,
+or gagging.[17] Transient vagotonia may also result from endotracheal suctioning, micturition or bowel
+movements, prolonged paroxysms of coughing or other instances of Valsalva, or inferior ischemia or
+infarction. AV-nodal blocking agents are most commonly beta-blockers, calcium-channel blockers, digitalis,
+and adenosine. AV block is particularly common when these drugs are used in combination (e.g., digitalis or
+beta-blockers and calcium-channel blockers).
+Block in the His-Purkinje system is usually manifested as type II second-degree AV block or third-degree
+AV block. His-Purkinje system disease (usually seen as a widened QRS or bundle-branch block on a 12-
+lead ECG) is usually due to an irreversible structural abnormality that is extensive enough to compromise AV
+conduction. Because the His-Purkinje system conducts in an all or nothing fashion, AV block at this level will
+manifest as a consistent PR interval followed by a nonconducted P wave (type II second-degree AV block) or
+as complete heart block.
+Classification
+Degrees of block[1]
+There are 2 commonly accepted clinical classification systems in use that are not formal classification
+systems: degrees of block versus anatomic sites of block.
+First-degree AV block
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Atrioventricular block Theory
+First-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+• Fixed prolongation of the PR interval >0.2 seconds (or >200 milliseconds) with no failure of AV
+conduction.
+Second-degree AV block, type I
+Type I second-degree AV block. This figure demonstrates typical features of the AV
+Wenckebach, including progressively shortening R-R intervals as the P-R intervals
+lengthen; the figure also shows grouped beating, which is also typical for AV Wenckebach
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+• Progressive prolongation of the PR interval with eventual loss of AV conduction for 1 beat.
+• Followed by resumption of AV conduction with a progressively prolonging PR interval. The first sinus
+beat following resumption of AV conduction is conducted with a normal PR interval. Thereafter, there is
+progressive prolongation of the PR interval.
+• Eventual loss of AV conduction for 1 beat (pattern repeats, giving rise to group beating).
+Second-degree AV block, type II
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Atrioventricular block Theory
+THEORY
+Type II second-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+• Fixed, unchanging PR intervals.
+• Then, occasional loss of AV conduction for 1 beat (during sinus rhythm, excluding premature atrial
+beats).
+• Finally, fixed, unchanging PR intervals.
+Third-degree AV block
+Third-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Atrioventricular block Theory
+Third-degree heart block: right bundle-branch block escape
+Courtesy of Dr Sanjiv Petkar; used with permission
+• Complete, persistent loss of conduction from the atria to the ventricles.
+High-grade AV block
+• The term high-grade AV block is applied to a pattern where ≥2 sinus P waves block consecutively in
+the context of periodic AV conduction.
+Anatomic sites of block
+There are 2 commonly accepted clinical classification systems in use: degrees of block versus anatomic sites
+of block.
+• Nodal: at the level of the AV node.
+• Infranodal: either at the level of the His bundle (intra-His) or below (infra-His).
+Case history
+Case history #1
+A 78-year-old man with a history of hypertension presents to his primary care physician with 1 episode
+of dizziness while watching television. On physical exam, his heart rate is measured at about 40 bpm. A
+12-lead ECG is obtained showing sinus rhythm at about 75 bpm and complete heart block with a wide
+escape rhythm at about 40 bpm.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Atrioventricular block Theory
+THEORY
+Third-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+Third-degree heart block: right bundle-branch block escape
+Courtesy of Dr Sanjiv Petkar; used with permission
+On further questioning, the patient admits to increasing fatigue and dyspnea on exertion for the past few
+weeks. Notably, the patient has bifascicular block at baseline (right bundle-branch block and left anterior
+fascicular block).
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Atrioventricular block Theory
+Baseline ECG for a patient with third-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+Other presentations
+The degree of AV block and the severity of symptoms are not necessarily directly related. For
+example, patients with complete (third-degree) AV block may be minimally symptomatic or completely
+asymptomatic. Ultimately, these patients may be diagnosed incidentally on undergoing an evaluation for
+other reasons. On the other hand, patients with type I second-degree AV block may be very symptomatic,
+presenting with syncope or presyncope due to very slow ventricular rates. AV block may also occur
+in the setting of other acute illnesses such as an acute coronary syndrome, severe electrolyte or pH
+disturbances, or severe hypoxemia. AV block of any degree may also occur in postcardiac surgery
+patients and in patients with Lyme disease.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Atrioventricular block Diagnosis
+DIAGNOSIS
+Approach
+The diagnosis of AV block can be made from any interpretable cardiac rhythm tracing such as a 12-lead
+ECG, a cardiac telemetry rhythm strip, a Holter-monitor rhythm strip, or an event monitor strip.
+History
+Patients tend to be male and >50 to 60 years old. Underlying cardiovascular disease (e.g., coronary
+artery disease or an acute coronary syndrome; hypertension, congestive heart failure; left ventricular
+hypertrophy or cardiomyopathy; or recent cardiac surgery) may be evident. Other strong risk factors
+are acid-base disturbance or neuromuscular disease. Infrequently, patients may have a family history
+of AV block as well. Rarely, Lyme disease is linked to AV block; as a potentially reversible cause, it is
+important to identify. Clinical evidence of cardiac involvement occurs in 5% of patients with sarcoidosis,
+although subclinical disease is more often encountered at autopsy. AV block can occur as a result of
+granulomatous involvement of the interventricular septum or the conduction system. Such patients usually
+present with syncope at an earlier age than AV block due to other etiologies.[27] Symptoms associated
+with AV block are fatigue, dyspnea, chest pain, palpitations, and nausea and vomiting. Syncope and
+presyncope are less commonly associated symptoms most often encountered in emergency care
+settings.
+Physical examination
+On examination, patients often have a slow heart rate. If <40 bpm, hospital admission is warranted for
+pacemaker implantation or temporary transvenous pacing. Blood pressure measurement is crucial.
+Most often, blood pressure is high with a wide pulse pressure. If blood pressure is low, often ventricular
+rates are very low (<40 bpm). Low blood pressure is usually seen in an emergency care setting. On
+examination of jugular venous pressure, if cannon A waves are identified, an irreversible and complete
+heart block may be present.
+Laboratory tests
+A 12-lead ECG is essential to identify the type and severity of AV block. It is performed first, and the
+length and position of the PR interval is key in determining the degree of heart block. Evidence of
+ischemia, a potential cause of AV block, is also determined on ECG. Serum troponin is drawn initially
+to verify and track ischemia. CK-MB may be indicated in selected patients. Also drawn immediately are
+serum potassium, calcium, and digitalis levels, and serum pH, which may identify possible reversible
+causes of AV block. If a patient may have been exposed to Lyme disease, a serologic test is warranted to
+rule out this reversible cause of AV block.
+Cardiac tracing interpretation
+The diagnostic criteria are based on measurement of the PR interval and the presence or absence of
+nonconducted atrial impulses (no QRS following a P wave). The definitions of the various degrees of
+block are as follows.
+• First-degree AV block is fixed prolongation of the PR interval >0.2 seconds (or >200 milliseconds).
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Atrioventricular block Diagnosis
+First-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+• Second-degree AV block, type I, is progressive prolongation of the PR interval with eventual loss
+of AV conduction for 1 beat, then resumption of AV conduction with a PR interval that progressively
+prolongs with eventual loss of AV conduction for 1 beat. The pattern repeats, giving rise to group
+beating. The first sinus beat, following resumption of AV conduction, is conducted with a normal PR
+interval.
+Type I second-degree AV block. This figure demonstrates typical features of the AV
+Wenckebach, including progressively shortening R-R intervals as the P-R intervals
+lengthen; the figure also shows grouped beating, which is also typical for AV Wenckebach
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+• Second-degree AV block, type II, is the occasional loss of AV conduction for 1 beat (during sinus
+rhythm, excluding premature atrial beats) preceded and followed by fixed, unchanging PR intervals.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Atrioventricular block Diagnosis
+DIAGNOSIS
+Type II second-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+• Third-degree AV block is complete, persistent loss of conduction from the atria to the ventricles.
+Also called complete heart block, third-degree heart block shows no consistent PR relationship.
+Third-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Atrioventricular block Diagnosis
+Third-degree heart block: right bundle-branch block escape
+Courtesy of Dr Sanjiv Petkar; used with permission
+• The term high-grade AV block is applied to a pattern where ≥2 sinus P waves block consecutively
+in the context of periodic AV conduction.
+Categorizing 2:1 AV block
+One scenario in which the degree of block may be difficult to determine is that of 2:1 AV block. In this
+case, it is impossible to determine the behavior of the PR interval, whether it progressively prolongs or
+stays fixed before the nonconducted P wave (absent QRS). Thus, it is difficult to determine the anatomic
+location of the second-degree AV block: nodal or infranodal. This distinction is important, as the 2
+locations imply distinct pathophysiologic processes and prognoses: benign versus potentially malignant,
+respectively.
+Nodal second-degree AV block is suggested during 2:1 AV block when the following feature is present.
+• Narrow QRS interval: this suggests the His-Purkinje system is intact and thus the level of block is
+occurring at the level of the AV node.
+• Up to 30% of infranodal block, however, may be associated with a narrow QRS interval.[34]
+Presence of high vagal tone causing AV block is suspected from the following clinical and ECG features.
+• A slow sinus rate.
+• Long PR interval with conducted P waves.
+• Episodes of 2:1 AV block occurring in the following settings: sleep; episodes of nausea, vomiting,
+or gagging (i.e., endotracheal suctioning); pain; micturition or bowel movements; paroxysmal
+coughing; or other instances of Valsalva (such as extreme straining to sit up).
+• Improved frequency of conducted P waves with atropine (with measurable increase in the sinus
+rate). Caution: giving atropine to patients with infranodal block (usually those with widened QRS
+complexes at baseline) may worsen the degree of AV block and markedly decrease the ventricular
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Atrioventricular block Diagnosis
+DIAGNOSIS
+rate. Hence, before giving atropine, consultation with a cardiologist or cardiac electrophysiologist
+should be considered.
+• Improved frequency of conducted P waves with exercise (walking around or leg lifts in bed with
+demonstrable increase in the sinus rate).
+Infranodal second-degree AV block is suggested during 2:1 AV block when the following features are
+present.
+• Widened QRS interval: this suggests intrinsic disease in the His-Purkinje system. However, up to
+30% of infranodal block may be associated with a narrow QRS interval.[34]
+• Worsened frequency of conducted P waves with exercise (walking around or leg lifts in bed with
+demonstrable increase in the sinus rate) or with atropine: the His-Purkinje system can demonstrate
+a fatigue phenomenon with more frequent stimulation (i.e., the higher the sinus rate, the more
+frequently the His-Purkinje system is stimulated and the worse the frequency of conduction
+becomes).
+2:1 AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+Ambulatory ECG monitoring, imaging, and other tests
+A chest x-ray may be helpful in identifying or supporting possible causes of AV block, such as structural
+heart disease or CHF. A transthoracic echocardiogram aids in identifying or quantifying structural heart
+disease. This test is necessary if a permanent pacemaker is considered possible. 24-hour ambulatory
+monitoring may be helpful in identifying AV block when such a heart block is suspected. An external
+loop recorder may be used for 2-4 weeks for more frequent symptoms. An implantable loop recording
+is useful if the 24-hour ambulatory monitoring does not detect AV block, but AV block is still suspected
+due to symptoms and signs; implantable loop recorders may be used for up to 3 years for less frequent
+symptoms or unexplained syncope. If AV block is thought to occur as a result of neurocardiogenic
+syncope, tilt-table testing is suggested. If the severity of AV block is unknown and the need for a
+pacemaker is still unclear, an electrophysiology study may help identify the AV block. Cardiac stress
+testing is warranted when cardiac ischemia or exercise-induced AV block is likely. Especially in the setting
+of an acute coronary syndrome and cardiac ischemia, coronary angiography will help identify obstructive
+lesions, which, when treated, may help in reversing heart block.
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Atrioventricular block Diagnosis
+History and exam
+Key diagnostic factors
+age >50-60 years (common)
+• Any degree of heart block becomes more common with increasing age, especially >50-60 years.[3] [4]
+[8]
+underlying cardiovascular factors (common)
+• Strong risk factors for AV block include increased vagal tone; use of AV nodal blocking agents;
+underlying cardiovascular disease (e.g., CAD or an acute coronary syndrome; HTN, CHF; LVH or
+cardiomyopathy); neuromuscular disorders; or recent cardiac surgery.
+syncope (common)
+• Syncope potentially implies a profound decrease in the ventricular rate, such as with the sudden
+development of complete heart block with a slow or absent ventricular escape rhythm. More urgent
+timing of pacemaker placement may be indicated. For example, syncope in a patient with high-degree
+AV block (Stokes-Adams attack) is usually an indication for prompt pacemaker placement unless a
+reversible cause, such as an inferior infarction or severe electrolyte or pH disturbances, is identified.
+Thus, supportive care may avert the need for permanent pacing.
+heart rate <40 bpm (common)
+• The overall ventricular rate helps determine appropriate timing and level of therapy. With very slow
+ventricular rates (<40 bpm), hospital admission and either urgent permanent pacemaker implantation
+or temporary transvenous pacing should be considered.
+presyncope (uncommon)
+• Presyncope potentially implies a significant decrease in the ventricular rate and would prompt more
+urgent timing of pacemaker placement, if indicated.
+Other diagnostic factors
+male gender (common)
+• In one study of His-Purkinje disease, men were twice as likely as women to have a widened QRS
+interval, a precursor to advanced degrees of heart block.[8]
+fatigue (common)
+• Fatigue, especially related to exertion, may be a function of a relatively slow ventricular rate. Because
+fatigue is such a nonspecific symptom, its onset and duration should be correlated to that of the heart
+block as much as possible. Exercise testing to evaluate the dynamic heart rate response may also be
+helpful in establishing the contribution of bradycardia to fatigue or dyspnea.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Atrioventricular block Diagnosis
+DIAGNOSIS
+dyspnea (common)
+• Dyspnea, especially related to exertion, may be a function of a relatively slow ventricular rate.
+Similarly to fatigue, because dyspnea is such a nonspecific symptom, its onset and duration should be
+correlated to that of the heart block as much as possible.
+• This symptom is of concern for an acute coronary syndrome in those with new-onset heart block. The
+acute coronary syndrome can be a proximate and reversible cause of heart block.
+chest pain, palpitations, and nausea or vomiting (common)
+• Of concern for an acute coronary syndrome in those with new-onset heart block. Chest pain,
+palpitations, nausea, and vomiting are often encountered in patients with AV block in the acute setting.
+Acute coronary syndrome can be a proximate and reversible cause of acute heart block.
+high (less commonly, low) blood pressure (common)
+• Slow ventricular rates with significant heart block are usually associated with elevated systolic blood
+pressures and relatively wide pulse pressures, rather than with hypotension. Low blood pressures in
+patients with heart block usually reflect significantly decreased ventricular rates (<40 bpm).
+cannon A waves (common)
+• The presence of structural heart disease is associated with His-Purkinje disease and may imply
+an irreversible cause for heart block.[8] Examination of the jugular venous pressure may reveal
+cannon A waves that may indicate the presence of AV dissociation due to complete heart block. The
+intermittently prominent (cannon) A waves reflect the contraction of the right atrium against a closed
+tricuspid valve.
+hypoxemia (uncommon)
+• Profound hypoxemia may be a reversible cause of heart block.
+family history#of AV block (uncommon)
+• Some causes of heart block have been shown to be hereditary.[14] Fetal third-degree AV block is
+known to occur in the setting of maternal SLE.
+features of Lyme disease (uncommon)
+• Lyme disease is an uncommon cause of AV block, although there are regions where the disease is
+endemic and should be considered more readily.[33] As a potentially reversible cause, its presence
+should be considered, especially in younger patients presenting with exposure in these endemic
+areas. The diagnosis is a clinical one, with presenting symptoms including headache, stiff neck,
+fever, muscle and joint aches, fatigue, and erythema migrans. Even in patients diagnosed with Lyme
+disease, the incidence of heart block is low (<2%).
+Risk factors
+Strong
+age-related degenerative changes in the conduction system
+• Usually take the form of either Lenegre disease (progressive fibrosis and sclerodegenerative changes)
+or Lev disease (fibrosis or calcification of the conduction system extending from adjacent fibrous
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Atrioventricular block Diagnosis
+structures of, usually, the aortic and/or mitral valves).[14] [18] [19] These degenerative changes may
+account for up to half of the cases of complete heart block.[20]
+increased vagal tone
+• Increased vagal tone may be due to either a tonic high level of vagal tone or transient vagotonia. High
+tonic vagal tone is found in younger, athletic patients or in patients with autonomic dysfunction.
+• Transient vagotonia occurs in vasodepressor syncope; during sleep; during episodes of nausea,
+vomiting, or gagging (i.e., endotracheal suctioning); during pain (including postoperatively), micturition,
+or bowel movements; during paroxysmal coughing or other instances of Valsalva (such as extreme
+straining to sit up); and during carotid sinus stimulation or cardiac ischemia. Excessive vagotonia
+can also occur in patients with carotid sinus hypersensitivity, particularly common in older patients or
+in patients who have undergone head and neck surgery or radiation. Carotid sinus hypersensitivity
+usually manifests as severe high-degree AV block precipitated by changes in head position or in
+response to neck pressure.
+AV-nodal blocking agents
+• Most commonly implicated agents are AV-nodal blocking medications such as beta-blockers, calcium-
+channel blockers, digitalis, and adenosine. Antiarrhythmic medications, including some sodium-
+channel blockers and some class III agents (sotalol and amiodarone), may also cause AV block.[10]
+chronic stable#coronary artery disease
+• The presence of cardiovascular comorbidities has been shown to be associated with His-Purkinje
+disease, a precursor to advanced degrees of heart block.[8] Presumably, this is due to an acceleration
+of the process of degenerative fibrosis and calcification of the conduction system.
+• AV block can be seen in the setting of chronic ischemic heart disease or as a complication of acute MI.
+acute coronary syndrome
+• In this setting, AV block can be as a result of imbalance in autonomic tone, ischemia, or necrosis
+of the conduction system. It can complicate both anterior and inferior wall MI, typically being an
+adverse prognostic factor when seen with the former and more often reversible with the latter. Primary
+percutaneous coronary intervention for the treatment of acute MI has decreased the incidence of AV
+block in the acute setting.[21]
+• In one older study of 134 acute MI patients, first-degree AV block was seen in 11.8% of patients,
+second-degree AV block in 4.8%, and complete heart block in 5.9%.[22] These percentages are
+probably lower in the modern era of early reperfusion therapy for acute MI. One more recent study of
+14,096 acute coronary syndrome patients identified high-degree AV block in only 1% of patients.[23]
+Still, AV block remains a real and potentially serious complication of acute MI.
+• The incidence of complete heart block in non-ST-elevation myocardial infarction is 1.0% to 3.7% based
+on anterior or posterior/inferior location, respectively.[24] High-grade AV block after inferior NSTEMI
+is usually transient, with a narrow QRS complex and a junctional escape rhythm.[25] High-degree
+AV block in anterior NSTEMI is more ominous because of a greater extent of myocardial injury and
+involvement of the conduction system.
+recent cardiac surgery, intervention, or ablation
+• May present a reversible cause for heart block.
+• In one study of patients in Denmark ages <50 years with AV block, complications of cardiac surgery
+was found to be the most common cause of AV blocks, accounting for 15.3% of all cases. Other
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Atrioventricular block Diagnosis
+DIAGNOSIS
+causes included complications of radio-frequency ablations, planned His ablations and alcohol septal
+ablations.[16]
+congestive heart failure (CHF)
+• The presence of cardiovascular comorbidities has been shown to be associated with His-Purkinje
+disease, a precursor to advanced degrees of heart block.[8] Presumably, this is due to an acceleration
+of the process of degenerative fibrosis and calcification of the conduction system.
+• Progression of left ventricular systolic dysfunction to CHF is associated with gradual prolongation of
+the PR interval and intraventricular conduction disturbances, usually left bundle-branch block, in up to
+about one third of patients.
+hypertension
+• The presence of cardiovascular comorbidities has been shown to be associated with His-Purkinje
+disease, a precursor to advanced degrees of heart block.[8] Presumably, this is due to an acceleration
+of the process of degenerative fibrosis and calcification of the conduction system. In one cohort
+study, every 10 mmHg increase in systolic blood pressure was associated with a 22% higher risk of
+developing AV block.[6]
+cardiomyopathy
+• The presence of cardiovascular comorbidities has been shown to be associated with His-Purkinje
+disease, a precursor to advanced degrees of heart block.[8] Presumably, this is due to an acceleration
+of the process of degenerative fibrosis and calcification of the conduction system.
+left ventricular hypertrophy
+• The presence of cardiovascular comorbidities has been shown to be associated with His-Purkinje
+disease, a precursor to advanced degrees of heart block.[8] Presumably, this is due to an acceleration
+of the process of degenerative fibrosis and calcification of the conduction system.
+acid-base or electrolyte disturbance
+• Severe electrolyte disturbance or acidosis may result in AV block.
+neuromuscular disorders
+• For example, myotonic dystrophy, Kearns-Sayre syndrome, Erb dystrophy, or peroneal muscular
+atrophy.
+sarcoidosis
+• The true prevalence of cardiac sarcoidosis remains unknown and is potentially underestimated
+since many individuals with cardiac sarcoidosis may have nonspecific symptoms or subclinical
+disease.[26] AV block can occur as a result of granulomatous involvement of the interventricular
+septum or the conduction system. Such patients usually present with syncope at an earlier age than
+AV block due to other etiologies. AV block requiring permanent pacemaker is the most common
+initial manifestation of cardiac sarcoidosis. One-fourth of unexplained AV block in adults ages <55
+years are caused by cardiac sarcoidosis.[26] [27] The risk of sudden cardiac death is significant in
+cardiac sarcoidosis presenting with high-grade AV block with or without ventricular tachycardia or
+LV dysfunction.[28] Data from the National Inpatient Sample (NIS) database 2012-2014 found that
+sarcoidosis was associated with increased risk of complete heart block.[29]
+Weak
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Atrioventricular block Diagnosis
+giant cell myocarditis
+• Giant cell myocarditis may present as AV block.[30]
+cardiac tuberculosis
+• Cardiac tuberculosis may be an occasional cause of AV block, particularly in developing nations.[31]
+[32]
+lyme disease
+• Rarely, Lyme disease is linked to AV block; as a potentially reversible cause, it is important to
+identify.[33]
+infective endocarditis
+• AV block can be associated infrequently with infective endocarditis affecting the aortic valve (e.g.,
+aortic valve abscess).
+hypoxemia
+• Myocardial hypoxia, due to any cause, can result in depression of conduction in the AV node and,
+hence, AV block.
+blunt cardiac injury
+• Complete heart block may occur secondary to blunt cardiac injury.[12]
+some indigenous medicines
+• Some indigenous medicines, for example mad honey, have been associated with AV block.[13]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Atrioventricular block Diagnosis
+DIAGNOSIS
+Investigations
+1st test to order
+Test Result
+12-lead ECG
+• Diagnosis of the various degrees of AV block is frequently made
+incidental to the workup for any number of presenting conditions.
+• Symptoms specifically suggestive of AV block prompting a 12-lead
+ECG include syncope, presyncope, episodic lightheadedness, and
+progressive exertional fatigue and/or dyspnea. The 12-lead ECG
+should also be inspected for evidence of acute ischemia (such as
+ST-segment changes), which may point to a reversible cause of AV
+block.
+First-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai,
+and Dr Stephen L. Archer; used with permission
+Type I second-degree AV block. This figure demonstrates typical
+features of the AV Wenckebach, including progressively shortening
+R-R intervals as the P-R intervals lengthen; the figure also
+shows grouped beating, which is also typical for AV Wenckebach
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai,
+and Dr Stephen L. Archer; used with permission
+first-degree AV block: fixed
+PR interval >0.210 seconds
+(or >210 milliseconds);
+second-degree AV block,
+type I: progressive PR
+interval prolongation,
+eventual loss of AV
+conduction for 1 beat,
+return to normal PR
+interval, then progressive
+PR prolongation with
+eventual loss of AV
+conduction; second-
+degree AV block, type II:
+occasional loss of AV
+conduction for 1 beat
+preceded and followed
+by fixed, unchanging PR
+intervals; third-degree AV
+block: no consistent PR
+relationship
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Atrioventricular block Diagnosis
+Test Result
+Type II second-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai,
+and Dr Stephen L. Archer; used with permission
+Third-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai,
+and Dr Stephen L. Archer; used with permission
+Third-degree heart block: right bundle-branch block escape
+Courtesy of Dr Sanjiv Petkar; used with permission
+serum troponin
+• Because acute ischemia should be aggressively managed and
+presents a potentially reversible cause of AV block, an indicative
+may be elevated
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Atrioventricular block Diagnosis
+DIAGNOSIS
+Test Result
+history and physical exam should prompt the obtaining of serum
+cardiac enzymes.
+serum potassium
+• Severely abnormal values may represent reversible causes of AV
+block.
+may be very low or very
+high
+serum calcium
+• Severely abnormal values may represent reversible causes of AV
+block.
+may be very low or very
+high
+serum pH
+• If severe acidosis or alkalosis is suspected, a serum pH should be
+obtained. Severely abnormal values may represent reversible causes
+of AV block.
+may be very low or very
+high
+serum digitalis level
+• If a patient is taking digitalis and presents with new AV block,
+especially advanced AV block, a serum digitalis level should be
+obtained. Digitalis toxicity is a reversible cause of AV block. Digitalis
+toxicity does not necessarily correlate with serum levels. However, an
+elevated level may increase the suspicion for toxicity.
+normal to elevated
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Atrioventricular block Diagnosis
+Other tests to consider
+Test Result
+24-hour ambulatory monitoring or event monitoring
+• 24-hour ambulatory monitoring may be helpful in identifying AV block
+when such a heart block is suspected. An external loop recorder may
+be used for 2-4 weeks for more frequent symptoms. An implantable
+loop recording is useful if the 24-hour ambulatory monitoring does not
+detect AV block, but AV block is still suspected due to symptoms and
+signs; implantable loop recorders may be used for up to 3 years for
+less frequent symptoms or unexplained syncope.
+evidence of AV block
+chest x-ray
+• Evidence of structural heart disease (e.g., cardiomegaly, or
+coronary or valvular calcification) or CHF may be present. Hilar
+lymphadenopathy suggests sarcoidosis. Any number of pulmonary
+findings may explain hypoxemia, leading to reversible AV block.
+• There are numerous reasons for a chest radiograph to be ordered,
+such as the presence of cardiopulmonary symptoms or a high clinical
+suspicion for heart or lung disease.
+may show hilar
+lymphadenopathy,
+cardiomegaly, coronary
+or valvular calcification,
+or signs of pulmonary
+congestion
+transthoracic echocardiogram
+• In the setting of advanced heart block, especially if permanent
+pacemaker placement is considered, a transthoracic echocardiogram
+should be ordered. The test can demonstrate the presence or
+absence of structural heart disease and quantify left ventricular
+systolic function (if ≤35%, biventricular pacemaker with or without
+implantable cardioverter-defibrillator [ICD] placement should be
+considered).
+may show ventricular
+dysfunction or
+hypertrophy, valvular
+disease, wall-motion
+abnormalities
+serologic testing for Lyme disease
+• This test should be ordered when the clinical suspicion is high
+(history, signs, and symptoms support the diagnosis). Because it is
+a potentially reversible cause, Lyme disease should be considered,
+especially in younger patients presenting with exposure to endemic
+areas.
+may show positive
+antibody titer
+tilt-table testing
+• This test can be ordered when AV block is thought to occur in the
+setting of neurocardiogenic syncope. Neurocardiogenic syncope is
+a clinical diagnosis, based on patient history, and the sensitivity and
+specificity of tilt-table testing are widely ranging (30% to 80% and
+50% to 90%, respectively).[35]
+evidence of AV block
+electrophysiology study
+• This test should be ordered when the severity of conduction disease
+and the possible need for treatment with a pacemaker are unclear,
+such as with 2:1 AV block. Significant infranodal conduction disease
+is defined by a His-bundle-to-ventricle (HV) interval >100 ms.
+may show significant
+infranodal conduction
+disease
+cardiac stress testing
+• This test should be ordered when a high clinical suspicion exists
+for cardiac ischemia, outside the acute stages of an acute coronary
+syndrome.
+• Active ischemia, especially in the inferior territory, may be a reversible
+cause of AV block. It can also identify patients with vagotonia who
+retain chronotropic competence (the ability to appropriately increase
+may show evidence
+of cardiac ischemia,
+appropriate increase in
+heart rate, or worsening of
+AV conduction
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Atrioventricular block Diagnosis
+DIAGNOSIS
+Test Result
+heart rate) with exercise. These patients usually do not require a
+pacemaker.
+• Infrequently, exercise may show worsening of AV conduction. In such
+patients, a permanent pacemaker would be indicated.
+coronary angiography
+• This test should be ordered when a high clinical suspicion exists
+for cardiac ischemia, especially in an acute coronary syndrome,
+when appropriate. Significant obstructive lesions may be reversible,
+treatable causes of AV block.
+may show evidence of
+significant CAD
+serum CK-MB
+• Less commonly used than troponin. Acute ischemia should be
+aggressively managed and presents a potentially reversible cause of
+AV block.
+may be elevated
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Atrioventricular block Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Junctional rhythm • In patients with profound
+first-degree AV block and
+very long PR intervals,
+the P wave may encroach
+so closely on the QRS
+complexes that they appear
+to be retrograde P waves,
+suggesting junctional rhythm.
+Retrograde P waves in
+junctional rhythm should be
+inverted in the inferior leads
+(II, III, and aVF), whereas in
+sinus rhythm with profound
+first-degree AV block, the P
+waves are upright in those
+leads.
+• Comparison of numerous
+ECGs obtained at different
+times (i.e., days or months
+apart) may be useful.
+Baseline ECGs showing
+profound first-degree AV
+block may also help make
+the diagnosis.
+Supraventricular
+tachycardia (SVT)
+• In patients with profound
+first-degree AV block and
+very long PR intervals,
+the P wave may encroach
+so closely on the QRS
+complexes that they
+appear to be retrograde P
+waves, suggesting SVT.
+Retrograde P waves in SVT
+are frequently inverted in the
+inferior leads versus upright
+in sinus rhythm with first-
+degree AV block.
+• Variations in the heart rate
+and the PR and RP (QRS
+to P) intervals suggest
+against the diagnosis of SVT.
+Comparison of numerous
+ECGs may be very useful.
+Atrial fibrillation
+or multifocal atrial
+tachycardia (MAT)
+• The irregularity of the RR
+intervals in type I second-
+degree AV block may lead
+to the incorrect diagnosis
+of atrial fibrillation or MAT.
+The presence of distinct
+P waves and the grouped
+pattern of the RR intervals
+are characteristic of type
+I second-degree AV block
+and are not seen in atrial
+fibrillation or MAT.
+• Careful inspection of the
+ECG should allow distinction
+between these diagnoses.
+Sinus rhythm with intact
+AV conduction
+• In patients with third-degree
+AV block, if the rate of the
+junctional escape rhythm is
+similar to that of the sinus
+rate, an appearance of
+sinus rhythm with intact AV
+conduction may be possible.
+In most of these cases, with
+• Examination of a long rhythm
+strip should allow for the
+correct diagnosis to be
+made.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Atrioventricular block Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+a long enough rhythm strip,
+the lack of a relationship
+between the sinus beats
+and the QRS complexes will
+become apparent.
+Tachy-brady syndrome • The RR intervals are
+irregular and short,
+suggesting atrial fibrillation
+with a fast ventricular
+rate. At the termination of
+the tachyarrhythmia, the
+diseased sinus node is slow
+to take over, resulting in a
+pause and a slow ventricular
+rate.
+• There is no AV block.
+Tachy-brady syndrome
+due to sinus node
+disease. Ventricular rate
+is slow intermittently,
+but AV block is not seen
+Courtesy of Dr
+Sanjiv Petkar; used
+with permission
+Criteria
+Degrees of block[1]
+First-degree AV block
+First-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+• Fixed prolongation of the PR interval >0.2 seconds (or >200 milliseconds).
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Atrioventricular block Diagnosis
+First-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+• Severity based on the presence or absence of symptoms.
+• Patients with PR interval >0.30 seconds (or >300 milliseconds) may show dyspnea.
+• Prolonged AV delay, with an increased pulmonary capillary wedge pressure, and decreased ventricular
+filling leading to decreased stroke volume and cardiac output may occur.
+• Signs and symptoms are similar to the pacemaker syndrome experienced by some pacemaker
+patients.
+• A select number of these patients may benefit from pacemaker placement and shortening of the PR
+interval.
+Second-degree AV block, type I
+Type I second-degree AV block. This figure demonstrates typical features of the AV
+Wenckebach, including progressively shortening R-R intervals as the P-R intervals
+lengthen; the figure also shows grouped beating, which is also typical for AV Wenckebach
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+• Progressive prolongation of the PR interval with eventual loss of AV conduction for 1 beat.
+• Then, resumption of AV conduction with a PR interval that, again, progressively prolongs with eventual
+loss of AV conduction for 1 beat. The first sinus beat following resumption of AV conduction is
+conducted with a normal PR interval.
+• The pattern repeats.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Atrioventricular block Diagnosis
+DIAGNOSIS
+• The severity of this condition is based on the presence or absence of symptoms.
+• In the absence of symptoms, the prognosis is generally benign. Asymptomatic patients can be
+followed clinically.
+• Symptoms can range from those for first-degree AV block to more generalized symptoms of fatigue,
+presyncope, or even syncope.
+• In patients for whom symptoms can be attributed to the heart block and in the absence of a reversible
+cause, a permanent pacemaker is indicated.
+Second-degree AV block, type II
+Type II second-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+• Occasional loss of AV conduction for 1 beat (during sinus rhythm, excluding premature atrial beats)
+preceded and followed by fixed, unchanging PR intervals.
+• A severe condition, and these patients are at high risk for progression to third-degree AV block.
+• In the absence of a reversible cause, these patients should undergo permanent pacemaker
+implantation.
+Third-degree AV block
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Atrioventricular block Diagnosis
+Third-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+Third-degree heart block: right bundle-branch block escape
+Courtesy of Dr Sanjiv Petkar; used with permission
+• Complete, persistent loss of conduction from the atria to the ventricles.
+• Considered a severe condition.
+• In the absence of a reversible cause, these patients should undergo permanent pacemaker
+implantation.
+High-grade AV block
+• The term high-grade AV block is applied to a pattern where ≥2 sinus P waves block consecutively in
+the context of periodic AV conduction.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Atrioventricular block Management
+MANAGEMENT
+Approach
+The goals of treatment are to ameliorate symptoms caused by AV block (regardless of degree) and to
+prevent syncope and sudden cardiac death (in advanced AV block).
+Asymptomatic: first-degree AV block or type I second-degree heart
+block
+No specific treatment is required. Patients are at low risk for progression to higher-degree AV block. ECGs
+may be rechecked if symptoms develop, but do not need to be rechecked on a routine basis.
+Symptomatic: first-degree AV block or type I second-degree heart
+block
+Occasionally, patients with profound first-degree AV block (>300 milliseconds) or those with type I
+second-degree heart block will develop associated symptoms and should be treated. The first line of
+treatment is to stop all AV-nodal blocking medications. The most common medications include beta-
+blockers, nondihydropyridine calcium-channel blockers, and digitalis. While discontinuing these medicines
+may improve AV conduction, they are not likely to completely reverse a clinically significant AV block.
+If symptoms are severe enough, permanent pacemaker implantation should be considered. For AV
+block, usually a dual-chamber (1 right atrial and 1 right ventricular lead) pacemaker is placed. The entire
+procedure usually takes a few hours and requires an overnight hospital stay. Biventricular pacemaker
+with or without an implantable cardioverter-defibrillator (ICD) placement may be considered when the left
+ventricular ejection fraction (LVEF) is ≤35%.[38] [39] [40]
+Asymptomatic or mildly to moderately symptomatic: type II
+second-degree AV block or third-degree AV block
+Medications blocking the AV node should be stopped first. Also, condition-specific management should
+ensue, which should help treat any potentially reversible conditions causing AV-nodal blockade. This
+includes treating acute coronary syndrome (i.e., antiplatelet medications, urgent revascularization) and
+medication toxicity (e.g., glucagon for beta-blocker toxicity, calcium for calcium-channel toxicity, or digoxin
+antibody for digitalis toxicity). When present, electrolyte or pH disturbances and hypoxemia should be
+treated appropriately.
+These patients are at risk for progression to slower ventricular rates and development or worsening
+of symptoms.[41] In the absence of a reversible cause, these patients should undergo permanent
+pacemaker implantation. ICD placement may be considered when the LVEF is ≤35%. In patients with
+high-degree or complete heart block and LVEF of 36% to 50%, cardiac resynchronization therapy (CRT)
+may reduce total mortality and hospitalizations, and improve symptoms and quality of life (QOL).[42]
+Severely symptomatic: type II second-degree AV block or third-
+degree AV block
+As with asymptomatic or mildly to moderately symptomatic patients, those with severely symptomatic
+type II second-degree AV block or third-degree AV block (of irreversible cause) should receive aggressive
+supportive therapy, condition-specific management, and discontinuation of all AV-nodal blocking
+medications. Temporary pacing is used specifically with these types of AV block. Severe symptoms
+include syncope or persistent, severe lightheadedness indicating profound decreases in the ventricular
+rate. Transvenous pacing is much more reliable than transcutaneous pacing and should be performed by
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Atrioventricular block Management
+a cardiologist when the heart block leads to hemodynamic instability. If the condition does not improve,
+permanent pacemaker or ICD placement should be performed. In patients with high-degree or complete
+heart block and LVEF of 36% to 50%, CRT may reduce total mortality and hospitalizations, and improve
+symptoms and QOL.[42]
+Considerations for causative medications
+While discontinuing AV-nodal blocking medications (i.e., beta-blockers, nondihydropyridine calcium-
+channel blockers, and digitalis) may improve AV conduction, complete reversal of clinically significant AV
+block is an unlikely result. This modest effect should be weighed in the long term against the potential
+medication benefit, such as the mortality benefit of beta-blockers in patients with CAD or salutary effects
+on blood pressure and heart rate.
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+first-degree AV block or type I second-
+degree AV block
+asymptomatic 1st monitoring
+symptomatic 1st discontinuation of AV-nodal blocking
+medications
+2nd infrequently: PPM implantation or
+cardiac resynchronization therapy ± ICD
+placement
+type II second-degree AV block or
+third-degree AV block
+asymptomatic or mildly to
+moderately symptomatic
+1st condition-specific management and
+discontinuation of AV-nodal blocking
+drugs
+2nd PPM or cardiac resynchronization therapy
+± ICD placement
+severely symptomatic 1st condition-specific management,
+discontinuation of AV-nodal blocking
+drugs, and temporary (transcutaneous or
+transvenous) pacing
+2nd PPM or cardiac resynchronization therapy
+± ICD placement
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Atrioventricular block Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+first-degree AV block or type I second-
+degree AV block
+asymptomatic 1st monitoring
+» Patients are at low risk for progression
+to higher-degree AV block. ECGs may be
+rechecked if symptoms develop, but do not need
+to be rechecked on a routine basis.
+symptomatic 1st discontinuation of AV-nodal blocking
+medications
+» Patients with first-degree AV block and a PR
+interval >0.30 seconds (or >300 milliseconds)
+may experience symptoms related to the
+hemodynamic consequence of such prolonged
+AV delay. An increased pulmonary capillary
+wedge pressure and attendant symptoms of
+dyspnea result, as well as decreased ventricular
+filling leading to decreased stroke volume
+and cardiac output. This constellation of
+symptoms is similar to the pacemaker syndrome
+experienced by some pacemaker patients.
+Some patients with type I second-degree AV
+block can experience symptoms, ranging from
+those related to first-degree AV block to more
+generalized symptoms of fatigue, presyncope, or
+syncope.
+» The most common AV-nodal blocking
+medications include beta-blockers,
+nondihydropyridine calcium-channel blockers,
+and digitalis.
+» Risks and balances of discontinuing possible
+causative medications (e.g., beta-blockers)
+should be weighed in each instance.
+2nd infrequently: PPM implantation or
+cardiac resynchronization therapy ± ICD
+placement
+» If symptoms are severe enough, permanent
+pacemaker (PPM) implantation should be
+considered. For AV block, usually a dual-
+chamber (1 right atrial and 1 right ventricular
+lead) pacemaker is placed. The procedure
+includes a 2-inch incision at the nondominant
+shoulder, placement of the leads through the
+subclavian vein, and placement of the pulse
+generator in a small subcutaneous pocket. The
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Atrioventricular block Management
+Acute
+entire procedure usually takes a few hours and
+requires an overnight hospital stay.
+» Biventricular pacemaker (placement of a
+third wire, in a branch of the coronary sinus, to
+enable left ventricular pacing), with or without
+an implantable cardioverter-defibrillator (ICD)
+placement, may be considered when the left
+ventricular ejection fraction is ≤35%.[38] [39]
+[40] (An ICD is not indicated for patients with
+New York Heart Association [NYHA] Class IV
+heart failure symptoms: severe limitation of
+exercise capacity due to shortness of breath with
+symptoms even while at rest; these are mostly
+bedbound patients.)
+type II second-degree AV block or
+third-degree AV block
+asymptomatic or mildly to
+moderately symptomatic
+1st condition-specific management and
+discontinuation of AV-nodal blocking
+drugs
+Primary options
+digitalis toxicity
+» digoxin immune Fab: consult specialist for
+guidance on dose
+OR
+beta-blocker toxicity
+» glucagon: consult specialist for guidance on
+dose
+OR
+calcium-channel blocker toxicity
+» calcium chloride: consult specialist for
+guidance on dose
+» Mild to moderate symptoms include fatigue or
+dyspnea, especially exertional, mild symptoms of
+CHF (pedal edema, orthopnea), or mild, episodic
+lightheadedness.
+» The most common AV-nodal blocking
+medications include beta-blockers,
+nondihydropyridine calcium-channel blockers,
+and digitalis. While discontinuing these
+medicines may improve AV conduction, they
+are not likely to completely reverse clinically
+significant AV block.
+» Condition-specific management includes
+treating acute coronary syndrome
+(i.e., antiplatelet medications, urgent
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Atrioventricular block Management
+MANAGEMENT
+Acute
+revascularization) and medication toxicity (e.g.,
+glucagon for beta-blocker toxicity, calcium for
+calcium-channel toxicity, or digoxin antibody for
+digitalis toxicity). When present, electrolyte or pH
+disturbances and hypoxemia should be treated
+appropriately.
+» Risks and balances of discontinuing possible
+causative medications (e.g., beta-blockers)
+should be weighed in each instance.
+2nd PPM or cardiac resynchronization therapy
+± ICD placement
+» Patients with type II second-degree AV
+block or third-degree AV block are at risk for
+progression to slower ventricular rates and
+development or worsening of symptoms.[41] In
+the absence of a reversible cause, these patients
+should undergo permanent pacemaker (PPM)
+implantation.
+Patient with 2:1 AV block, status post
+permanent pacemaker placement
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai,
+and Dr Stephen L. Archer; used with permission
+» For AV block, usually a dual-chamber (1 right
+atrial and 1 right ventricular lead) pacemaker
+is placed. The procedure includes a 2-inch
+incision at the nondominant shoulder, placement
+of the leads through the subclavian vein, and
+placement of the pulse generator in a small
+subcutaneous pocket. The entire procedure
+usually takes a few hours and requires an
+overnight hospital stay.
+» Biventricular pacemaker (placement of a
+third wire, in a branch of the coronary sinus, to
+enable left ventricular pacing), with or without
+an implantable cardioverter-defibrillator (ICD)
+placement, may be considered when the left
+ventricular ejection fraction (LVEF) is ≤35%.[38]
+[39] [40] (An ICD is not indicated for patients
+with New York Heart Association [NYHA] Class
+IV heart failure symptoms: severe limitation of
+exercise capacity due to shortness of breath
+with symptoms even while at rest; these are
+mostly bedbound patients.) In patients with high-
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Atrioventricular block Management
+Acute
+degree or complete heart block and LVEF of
+36% to 50%, CRT may reduce total mortality
+and hospitalizations, and improve symptoms and
+QOL.[42]
+severely symptomatic 1st condition-specific management,
+discontinuation of AV-nodal blocking
+drugs, and temporary (transcutaneous or
+transvenous) pacing
+Primary options
+digitalis toxicity
+» digoxin immune Fab: consult specialist for
+guidance on dose
+OR
+beta-blocker toxicity
+» glucagon: consult specialist for guidance on
+dose
+OR
+calcium-channel blocker toxicity
+» calcium chloride: consult specialist for
+guidance on dose
+» Severe symptoms include syncope or
+persistent, severe lightheadedness indicating
+profound decreases in the ventricular rate.
+» When the ventricular rate is significantly low
+(<40 to 45 bpm) or the blood pressure is low
+(mean arterial pressure <65 mmHg), temporary
+(transcutaneous or transvenous) pacing should
+be considered. Transvenous pacing is much
+more reliable than transcutaneous pacing and
+should be performed by a cardiologist when the
+heart block leads to hemodynamic instability.
+» Condition-specific management includes
+treating of acute coronary syndrome
+(i.e., antiplatelet medications, urgent
+revascularization) and medication toxicity (e.g.,
+glucagon for beta-blocker toxicity, calcium for
+calcium-channel toxicity, or digoxin antibody for
+digitalis toxicity). When present, electrolyte or pH
+disturbances and hypoxemia should be treated
+appropriately.
+» Risks and balances of discontinuing possible
+causative medications (e.g., beta-blockers)
+should be weighed in each instance.
+2nd PPM or cardiac resynchronization therapy
+± ICD placement
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Atrioventricular block Management
+MANAGEMENT
+Acute
+» Severe symptoms include syncope or
+persistent, severe lightheadedness indicating
+profound decreases in the ventricular rate.
+» Permanent pacemaker (PPM) implantation is
+required if the cause of AV block is irreversible.
+Patient with 2:1 AV block, status post
+permanent pacemaker placement
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai,
+and Dr Stephen L. Archer; used with permission
+For AV block, usually a dual-chamber (1 right
+atrial and 1 right ventricular lead) pacemaker
+is placed. The procedure includes a 2-inch
+incision at the nondominant shoulder, placement
+of the leads through the subclavian vein, and
+placement of the pulse generator in a small
+subcutaneous pocket. The entire procedure
+usually takes a few hours and requires an
+overnight hospital stay.
+» Biventricular pacemaker (placement of a
+third wire, in a branch of the coronary sinus, to
+enable left ventricular pacing), with or without
+an implantable cardioverter-defibrillator (ICD)
+placement, may be considered when the left
+ventricular ejection fraction is ≤35%.[38] [39]
+[40] (An ICD is not indicated for patients with
+New York Heart Association [NYHA] Class IV
+heart failure symptoms: severe limitation of
+exercise capacity due to shortness of breath
+with symptoms even while at rest; these are
+mostly bedbound patients.) In patients with high-
+degree or complete heart block and LVEF of
+36% to 50%, CRT may reduce total mortality
+and hospitalizations, and improve symptoms and
+QOL.[42]
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Atrioventricular block Management
+Emerging
+Alternative pacing sites
+Traditionally, pacing in the right ventricle has always been undertaken from the apex, a site affording easy
+accessibility and good lead stability. Alternative pacing sites such as the right ventricular outflow tract septum
+or the mid-septum have been explored to provide more physiological pacing. However, the clinical benefit of
+such sites remains uncertain, with variability in lead positioning increasing the risk of adverse outcomes. A
+septal position may be preferable in patients at increased risk of perforation, such as elderly patients with a
+low BMI, and women.[21]
+Biologic pacemakers
+Viral vectors, human embryonic stem cells, and adult human mesenchymal cells have been used to provide
+biologic pacemaking.[43] This therapy is highly experimental and has been performed only in animals, but
+holds promise for possible therapy in humans in the future.[44]
+Leadless pacemakers
+Pacemaker lead complications and failures remain significant clinical problems. Lead extraction for lead
+malfunction is associated with significant morbidity and can be fatal in a small percentage of cases. Hence,
+leadless device technology is appealing. The use of automatic generating systems[45] and ultrasound
+energy as power sources[46] [47] [48] is being explored in animals and humans. It remains largely
+experimental. The first of such devices has been implanted in humans in Europe and the US. In one
+multicentre study, a leadless pacemaker was successfully implanted in 504 of the 526 patients.[49] The
+pacemakers met pre-specified pacing and sensing requirements in the majority of patients, with device-
+related serious adverse events occurring in approximately 1 in 15 patients.
+Primary prevention
+Primary prevention measures include avoiding circumstances that increase vagal tone when possible,
+withdrawing or decreasing the dose of AV-nodal blocking agents, controlling chronic cardiovascular
+diseases, and aggressively treating the acute coronary syndrome by restoring blood flow. During procedures,
+reassurance and avoidance of pain also reduce vagally mediated bradycardia and heart block.
+Secondary prevention
+Control of chronic cardiovascular conditions can potentially be of some benefit. Statins have not shown
+to be beneficial in prevention of atrial fibrillation in patients with AV block and a permanent pacemaker
+implantation.[54]
+Patient discussions
+Patients should be instructed to monitor and alert their physician concerning symptoms such as dizziness,
+exertional dyspnea, syncope/transient loss of consciousness, fatigue, and any signs and symptoms
+of CHF. Patients should also be advised of their prognosis in order to maintain an appropriate level of
+concern.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Atrioventricular block Follow up
+FOLLOW UP
+Monitoring
+Monitoring
+Patients with asymptomatic AV block not requiring permanent pacemaker implantation (i.e., asymptomatic
+first-degree AV block or type I second-degree AV block) can be followed expectantly for the development
+of symptoms such as syncope, episodic presyncope, exertional dyspnea or fatigue, or CHF. Repeat ECG
+recordings can be obtained if symptoms occur. These patients, especially in the setting of a narrow QRS
+interval, are at low risk for progressing to more advanced degrees of AV block.
+Patients with symptomatic, irreversible AV block or irreversible advanced AV block should be considered
+for permanent pacemaker implantation. Patients who undergo permanent pacemaker implantation should
+have routine follow-up and monitoring in a device clinic.
+Complications
+Complications Timeframe Likelihood
+pacemaker implantation sequelae variable low
+In the short term, periprocedurally, the risks associated with pacemaker implantation are low: in the range
+of 2% to 3%. These include bleeding, infection, vascular trauma, pneumothorax, cardiac tamponade, lead
+dislodgement, and pocket hematoma development. The risk of MI, stroke, and death is <1%.
+Long-term complications include pulse generator or lead malfunction and infection. The pulse generators
+run on batteries that average 7 to 10 years in longevity. Battery depletion requires replacing the pulse
+generator.
+Over a lifetime, there is some risk of infection of the lead, which may require extraction, a complex
+procedure that should be performed at specialized centers.
+Prognosis
+The prognosis is related to the degree of AV block and the severity of associated symptoms. In certain
+conditions, such as sarcoid or amyloid heart disease or acute anterior MI, the underlying condition strongly
+determines prognosis.
+Nonrandomized studies strongly suggest that permanent pacing improves survival in patients with
+third-degree AV block, especially if syncope has occurred. In patients with type II second degree AV
+block, especially when the block is infranodal or the QRS is wide, prognosis is compromised. Mortality
+remains high in patients with acute myocardial infarction in whom AV block occurs, as it reflects extensive
+myocardial damage. AV block occurring with inferior MI, rather than an anterior MI, is more likely to resolve.
+Registry data indicate that symptomatic cardiac sarcoidosis with heart block, ventricular arrhythmias, or
+LV dysfunction is associated with a poor prognosis.[9] Along with the presence of concurrent myeloma,
+presence and severity of cardiac involvement in primary amyloidosis determines prognosis.[53]
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Atrioventricular block Follow up
+Asymptomatic first-degree or type I second-degree AV block
+First-degree AV block has been associated with about a 2-fold increase in the probability of atrial fibrillation, a
+3-fold increase in the probability of pacemaker implantation, and an increase in all-cause mortality.[2]
+Asymptomatic advanced AV block (type II second-degree or third-
+degree)
+In symptomatic patients with irreversible AV block, symptoms are likely to persist or potentially worsen.
+Patients with irreversible advanced AV block (type II second-degree or third-degree) are at high risk for
+progression to third-degree AV block or ventricular asystole.[41] As such, these patients should be strongly
+advised to undergo permanent pacemaker implantation.
+Symptomatic AV block treated with a permanent pacemaker
+These patients have an excellent prognosis, with a low rate of complications related to the pacemaker.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Atrioventricular block Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+Guideline for the evaluation and management of patients with syncope
+(https://professional.heart.org/en/guidelines-and-statements)   [36]
+Published by: American College of Cardiology Foundation; American
+Heart Association; Heart Rhythm Society
+Last published: 2017
+ESC 2018 guidelines for the diagnosis and management of syncope (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [37]
+Published by: European Society of Cardiology Last published: 2018
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Atrioventricular block Guidelines
+Treatment guidelines
+International
+2022 AHA/ACC/HFSA guideline for the management of heart failure (https://
+professional.heart.org/en/guidelines-and-statements)   [42]
+Published by: American Heart Association; American College of
+Cardiology; Heart Failure Society of America
+Last published: 2022
+2018 ACC/AHA/HRS guideline on the evaluation and management
+of patients with bradycardia and cardiac conduction delay (https://
+professional.heart.org/en/guidelines-and-statements)   [1]
+Published by: American College of Cardiology; American Heart
+Association; the Heart Rhythm Society
+Last published: 2018
+Guideline for the evaluation and management of patients with syncope
+(https://professional.heart.org/en/guidelines-and-statements)   [36]
+Published by: American College of Cardiology Foundation; American
+Heart Association; Heart Rhythm Society
+Last published: 2017
+Appropriate use criteria for implantable cardioverter-defibrillators and
+cardiac resynchronization therapy (https://www.hrsonline.org/guidance/
+clinical-resources)   [50]
+Published by: American College of Cardiology Foundation; Heart
+Rhythm Society; American Heart Association; American Society
+of Echocardiography; Heart Failure Society of America; Society for
+Cardiovascular Angiography and Interventions; Society of Cardiovascular
+Computed Tomography; Society for Cardiovascular Magnetic Resonance
+Last published: 2013
+Focused update of the 2008 guidelines for device-based therapy of cardiac
+rhythm abnormalities (https://www.acc.org/Guidelines)   [17]
+Published by: American College of Cardiology Foundation; American
+Heart Association; Heart Rhythm Society; American Association for
+Thoracic Surgery; Heart Failure Society of America; Society of Thoracic
+Surgeons
+Last published: 2012
+Expert consensus statement on pacemaker device and mode selection
+(https://www.acc.org/Guidelines)   [51]
+Published by: Heart Rhythm Society; American College of Cardiology
+Foundation; American Heart Association; Society of Thoracic Surgeons
+Last published: 2012
+2021 ESC guidelines for the diagnosis and treatment of acute and chronic
+heart failure (https://www.escardio.org/Guidelines/Clinical-Practice-
+Guidelines)   [40]
+Published by: European Society of Cardiology Last published: 2021
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Atrioventricular block Guidelines
+GUIDELINES
+International
+2021 ESC guidelines on cardiac pacing and cardiac resynchronization
+therapy (https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)  
+[21]
+Published by: European Society of Cardiology Last published: 2021
+2018 ESC guidelines for the diagnosis and management of syncope (https://
+www.escardio.org/Guidelines/Clinical-Practice-Guidelines)   [37]
+Published by: European Society of Cardiology Last published: 2018
+2014 ESC guidelines on diagnosis and management of hypertrophic
+cardiomyopathy (https://www.escardio.org/Guidelines/Clinical-Practice-
+Guidelines)   [52]
+Published by: European Society of Cardiology Last published: 2014
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 45 ===
+Atrioventricular block References
+Key articles
+• Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/HRS guideline on the evaluation
+and management of patients with bradycardia and cardiac conduction delay: a report of the
+American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. Circulation. 2019 Aug 20;140(8):e382-482.  Full
+text (https://www.ahajournals.org/doi/abs/10.1161/CIR.0000000000000628)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30586772?tool=bestpractice.bmj.com)
+• Tracy CM, Epstein AE, Darbar D, et al. 2012 ACCF/AHA/HRS focused update of the 2008 guidelines
+for device-based therapy of cardiac rhythm abnormalities: a report of the American College of
+Cardiology Foundation/American Heart Association task force on practice guidelines. Heart Rhythm.
+2012 Oct;9(10):1737-53.  Full text (http://www.hrsonline.org/Practice-Guidance/Clinical-Guidelines-
+Documents/Device-Based-Therapy-for-Cardiac-Rhythm-Abnormalities/2012-Focused-Update-
+for-Device-Based-Therapy-of-Cardiac-Rhythm-Abnormalities#ixzz2NOlPW83b)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22975672?tool=bestpractice.bmj.com)
+• Glikson M, Nielsen JC, Kronborg MB, et al; ESC National Cardiac Societies; ESC Scientific
+Document Group. 2021 ESC Guidelines on cardiac pacing and cardiac resynchronization
+therapy. Eur Heart J. 2021 Sep 14;42(35):3427-520.  Full text (https://academic.oup.com/
+eurheartj/article/42/35/3427/6358547)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34455430?
+tool=bestpractice.bmj.com)
+References
+1. Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/HRS guideline on the evaluation
+and management of patients with bradycardia and cardiac conduction delay: a report of the
+American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. Circulation. 2019 Aug 20;140(8):e382-482.  Full
+text (https://www.ahajournals.org/doi/abs/10.1161/CIR.0000000000000628)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30586772?tool=bestpractice.bmj.com)
+2. Cheng S, Keyes MJ, Larson MG, et al. Long-term outcomes in individuals with prolonged PR
+interval or first-degree atrioventricular block. JAMA. 2009 Jun 24;301(24):2571-7.  Full text (http://
+jama.jamanetwork.com/article.aspx?articleid=184145)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19549974?tool=bestpractice.bmj.com)
+3. Upshaw CB Jr. Comparison of the prevalence of first-degree atrioventricular block in African-
+American and in Caucasian patients: an electrocardiographic study III. J Natl Med Assoc.
+2004 Jun;96(6):756-60.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2568382/
+pdf/jnma00175-0028.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15233485?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+45
+=== Page 46 ===
+Atrioventricular block References
+REFERENCES
+4. DePaula RS, Antelmi I, Vincenzi MA, et al. Cardiac arrhythmias and atrioventricular block in a cohort
+of asymptomatic individuals without heart disease. Cardiology. 2007;108(2):111-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17008799?tool=bestpractice.bmj.com)
+5. Du Z, Xing L, Lin M, et al. Prevalence of first-degree atrioventricular block and the associated
+risk factors: a cross-sectional study in rural Northeast China. BMC Cardiovasc Disord. 2019
+Oct 7;19(1):214.  Full text (https://www.doi.org/10.1186/s12872-019-1202-4)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31590630?tool=bestpractice.bmj.com)
+6. Kerola T, Eranti A, Aro AL, et al. Risk factors associated with atrioventricular block. JAMA
+Netw Open. 2019 May 3;2(5):e194176.  Full text (https://jamanetwork.com/journals/
+jamanetworkopen/fullarticle/2734061)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31125096?
+tool=bestpractice.bmj.com)
+7. Kwok CS, Rashid M, Beynon R, et al. Prolonged PR interval, first-degree heart block and
+adverse cardiovascular outcomes: a systematic review and meta-analysis. Heart. 2016
+May;102(9):672-80.  Full text (https://core.ac.uk/reader/43761751?utm_source=linkout)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/26879241?tool=bestpractice.bmj.com)
+8. Kreger BE, Anderson KM, Kannel WB. Prevalence of intraventricular block in the general population:
+the Framingham Study. Am Heart J. 1989 Apr;117(4):903-10. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/2784619?tool=bestpractice.bmj.com)
+9. Smedema JP, Snoep G, van Kroonenburgh MP, et al. Cardiac involvement in patients with pulmonary
+sarcoidosis assessed at two university medical centers in the Netherlands. Chest. 2005;128:30-5.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16002912?tool=bestpractice.bmj.com)
+10. Tisdale JE, Chung MK, Campbell KB, et al. Drug-induced arrhythmias: a scientific statement
+from the American Heart Association. Circulation. 2020 Oct 13;142(15):e214-33.  Full text
+(https://www.doi.org/10.1161/CIR.0000000000000905)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/32929996?tool=bestpractice.bmj.com)
+11. Deisenhofer I, Zrenner B, Yin YH, et al. Cryoablation versus radiofrequency energy for the
+ablation of atrioventricular nodal reentrant tachycardia (the CYRANO Study): results from a large
+multicenter prospective randomized trial. Circulation. 2010 Nov 30;122(22):2239-45.  Full text
+(http://circ.ahajournals.org/content/122/22/2239.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21098435?tool=bestpractice.bmj.com)
+12. Ali H, Furlanello F, Lupo P, et al. Clinical and electrocardiographic features of complete heart
+block after blunt cardiac injury: a systematic review of the literature. Heart Rhythm. 2017 Jun
+3;14(10):1561-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28583850?tool=bestpractice.bmj.com)
+13. Silici S, Atayoglu AT. Mad honey intoxication: a systematic review on the 1199 cases. Food Chem
+Toxicol. 2015 Nov 10;86:282-90. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26547022?
+tool=bestpractice.bmj.com)
+14. Royer A, van Veen TA, Le Bouter S, et al. Mouse model of SCN5A-linked hereditary Lenègre's
+disease: age-related conduction slowing and myocardial fibrosis. Circulation. 2005 Apr
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 47 ===
+Atrioventricular block References
+12;111(14):1738-46.  Full text (http://circ.ahajournals.org/content/111/14/1738.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15809371?tool=bestpractice.bmj.com)
+15. Baruteau AE, Pass RH, Thambo JB, et al. Congenital and childhood atrioventricular blocks:
+pathophysiology and contemporary management. Eur J Pediatr. 2016 Sep;175(9):1235-48.  Full
+text (https://www.doi.org/10.1007/s00431-016-2748-0)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27351174?tool=bestpractice.bmj.com)
+16. Rudbeck-Resdal J, Christiansen MK, Johansen JB, et al. Aetiologies and temporal trends
+of atrioventricular block in young patients: a 20-year nationwide study. Europace. 2019 Nov
+1;21(11):1710-6.  Full text (https://www.doi.org/10.1093/europace/euz206)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31424500?tool=bestpractice.bmj.com)
+17. Tracy CM, Epstein AE, Darbar D, et al. 2012 ACCF/AHA/HRS focused update of the 2008 guidelines
+for device-based therapy of cardiac rhythm abnormalities: a report of the American College of
+Cardiology Foundation/American Heart Association task force on practice guidelines. Heart Rhythm.
+2012 Oct;9(10):1737-53.  Full text (http://www.hrsonline.org/Practice-Guidance/Clinical-Guidelines-
+Documents/Device-Based-Therapy-for-Cardiac-Rhythm-Abnormalities/2012-Focused-Update-
+for-Device-Based-Therapy-of-Cardiac-Rhythm-Abnormalities#ixzz2NOlPW83b)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22975672?tool=bestpractice.bmj.com)
+18. Lenegre J. Etiology and pathology of bilateral bundle branch block in relation to complete heart block.
+Prog Cardiovasc Dis. 1964 Mar;6:409-44. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14153648?
+tool=bestpractice.bmj.com)
+19. Lev M. Anatomic basis for atrioventricular block. Am J Med. 1964 Nov;37:742-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/14237429?tool=bestpractice.bmj.com)
+20. Zoob M, Smith KS. The aetiology of complete heart-block. Br Med J. 1963 Nov 9;2(5366):1149-53. 
+Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1874084/pdf/brmedj02523-0037.pdf)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/14060910?tool=bestpractice.bmj.com)
+21. Glikson M, Nielsen JC, Kronborg MB, et al; ESC National Cardiac Societies; ESC Scientific
+Document Group. 2021 ESC Guidelines on cardiac pacing and cardiac resynchronization
+therapy. Eur Heart J. 2021 Sep 14;42(35):3427-520.  Full text (https://academic.oup.com/
+eurheartj/article/42/35/3427/6358547)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34455430?
+tool=bestpractice.bmj.com)
+22. Simon AB, Steinke WE, Curry JJ. Atrioventricular block in acute myocardial infarction. Chest. 1972
+Aug;62(2):156-61. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/5050221?tool=bestpractice.bmj.com)
+23. Ruiz-Bailén M, Pola Gallego MD, Expósito Ruiz M, et al. Atrioventricular block in unstable angina:
+results of the ARIAM registry [in Spanish]. Med Intensiva. 2006 Dec;30(9):432-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17194400?tool=bestpractice.bmj.com)
+24. Hreybe H, Saba S. Location of acute myocardial infarction and associated arrhythmias and outcome.
+Clin Cardiol. 2009 May;32(5):274-7.  Full text (http://onlinelibrary.wiley.com/doi/10.1002/clc.20357/
+epdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19452487?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+47
+=== Page 48 ===
+Atrioventricular block References
+REFERENCES
+25. Amsterdam EA, Wenger NK, Brindis RG, et al; ACC/AHA Task Force Members. 2014 AHA/ACC
+guideline for the management of patients with non-ST-elevation acute coronary syndromes: a report of
+the American College of Cardiology/American Heart Association Task Force on Practice Guidelines.
+Circulation. 2014 Dec 23;130(25):e344-426.  Full text (http://circ.ahajournals.org/content/130/25/
+e344.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25249585?tool=bestpractice.bmj.com)
+26. Kandolin R, Lehtonen J, Airaksinen J, et al. Cardiac sarcoidosis: epidemiology, characteristics, and
+outcome over 25 years in a nationwide study. Circulation. 2015 Feb 17;131(7):624-32.  Full text
+(https://www.doi.org/10.1161/CIRCULATIONAHA.114.011522)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25527698?tool=bestpractice.bmj.com)
+27. Chapelon-Abric C, de Zuttere D, Duhaut P, et al. Cardiac sarcoidosis: a retrospective study of
+41 cases. Medicine (Baltimore). 2004 Nov;83(6):315-34. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15525844?tool=bestpractice.bmj.com)
+28. Nordenswan HK, Lehtonen J, Ekström K, et al. Outcome of cardiac sarcoidosis presenting with
+high-grade atrioventricular block. Circ Arrhythm Electrophysiol. 2018 Aug;11(8):e006145.  Full
+text (https://www.doi.org/10.1161/CIRCEP.117.006145)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30354309?tool=bestpractice.bmj.com)
+29. Salama A, Abdullah A, Nadkarni A, et al. Sarcoidosis increases the risk of complete heart block: a
+review from the national inpatient sample. J Am Coll Cardiol. 2019 Mar;73(9 Suppl 1):543.  Full text
+(https://www.jacc.org/doi/10.1016/S0735-1097%2819%2931151-9)
+30. Kandolin R, Lehtonen J, Salmenkivi K, et al. Diagnosis, treatment, and outcome of giant-cell
+myocarditis in the era of combined immunosuppression. Circ Heart Fail. 2013 Jan;6(1):15-22. 
+Full text (https://www.doi.org/10.1161/CIRCHEARTFAILURE.112.969261)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23149495?tool=bestpractice.bmj.com)
+31. Matsumoto Y, Kubo T, Tagawa H, et al. An autopsy case of the sinus of Valsalva aneurysm involved
+with tuberculous inflammation, leading to complete heart block. [in jpn]. Kokyu To Junkan. 1993
+Sep;41(9):911-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8210753?tool=bestpractice.bmj.com)
+32. Yang KC, Hung CC, Ho YL. Tuberculous serositis coexisting with reversible high-grade
+atrioventricular block. Acta Cardiol Sin.2005;21:164-8.  Full text (https://www.tsoc.org.tw/upload/
+journal/1/20050801/6.pdf)
+33. Robinson ML, Kobayashi T, Higgins Y, et al. Lyme carditis. Infect Dis Clin North Am. 2015
+Jun;29(2):255-68.  Full text (https://www.doi.org/10.1016/j.idc.2015.02.003)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25999222?tool=bestpractice.bmj.com)
+34. Puech P, Grolleau R, Buimond C. Incidence of different types of A-V block and their localization by
+His bundle recordings. In: Wellens HJ, Lie KI, Janse MJ, eds. The conduction system of the heart:
+structure, function, and clinical implications. Philadelphia, PA: Lea & Febiger; 1976:467-84.
+35. Fenton AM, Hammill SC, Rea RF, et al. Vasovagal syncope. Ann Intern Med. 2000 Nov
+7;133(9):714-25. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11074905?tool=bestpractice.bmj.com)
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 49 ===
+Atrioventricular block References
+36. Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation
+and management of patients with syncope: a report of the American College of Cardiology/
+American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm
+Society. Circulation. 2017 Aug 1;136(5):e60-122.  Full text (https://www.ahajournals.org/doi/
+full/10.1161/CIR.0000000000000499)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28280231?
+tool=bestpractice.bmj.com)
+37. Moya A, Sutton R, Ammirati F, et al. The task force for the diagnosis and management of
+syncope of the European Society of Cardiology (ESC). Guidelines for the diagnosis and
+management of syncope (version 2009). Eur Heart J. 2009 Nov;30(21):2631-71.  Full text (http://
+eurheartj.oxfordjournals.org/content/30/21/2631.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19713422?tool=bestpractice.bmj.com)
+38. Kindermann M, Hennen B, Jung J, et al. Biventricular versus conventional right ventricular
+stimulation for patients with standard pacing indication and left ventricular dysfunction: the Homburg
+Biventricular Pacing Evaluation (HOBIPACE). J Am Coll Cardiol. 2006:47:1927-37.  Full text (https://
+www.sciencedirect.com/science/article/pii/S0735109706004736?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16697307?tool=bestpractice.bmj.com)
+39. Funck RC, Blanc JJ, Mueller HH, et al; BioPace Study Group. Biventricular stimulation to
+prevent cardiac desynchronization: rationale, design, and endpoints of the 'Biventricular Pacing
+for Atrioventricular Block to Prevent Cardiac Desynchronization (BioPace)' study. Europace.
+2006;8:629-35.  Full text (http://europace.oxfordjournals.org/content/8/8/629.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16864616?tool=bestpractice.bmj.com)
+40. McDonagh TA, Metra M, Adamo M, et al; ESC Scientific Document Group. 2021 ESC Guidelines
+for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021 Sep
+21;42(36):3599-726.  Full text (https://academic.oup.com/eurheartj/article/42/36/3599/6358045)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34447992?tool=bestpractice.bmj.com)
+41. Sumiyoshi M, Nakata Y, Yasuda M, et al. Changes of conductivity in patients with second- or third-
+degree atrioventricular block after pacemaker implantation. Jpn Circ J. 1995;59:284-91. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/7596033?tool=bestpractice.bmj.com)
+42. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association
+joint committee on clinical practice guidelines. Circulation. 2022 May 3;145(18):e895-1032.  Full
+text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001063)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35363499?tool=bestpractice.bmj.com)
+43. Plotnikov AN, Shlapakova I, Szabolcs MJ, et al. Xenografted adult human mesenchymal stem
+cells provide a platform for sustained biological pacemaker function in canine heart. Circulation.
+2007;116:706-13.  Full text (http://circ.ahajournals.org/content/116/7/706.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17646577?tool=bestpractice.bmj.com)
+44. Farraha M, Kumar S, Chong J, et al. Gene therapy approaches to biological pacemakers. J
+Cardiovasc Dev Dis. 2018 Oct 19;5(4):50.  Full text (https://www.doi.org/10.3390/jcdd5040050)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30347716?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+49
+=== Page 50 ===
+Atrioventricular block References
+REFERENCES
+45. Goto H, Sugiura T, Harada Y, et al. Feasibility of using the automatic generating system for quartz
+watches as a leadless pacemaker power source. Med Biol Eng Comput. 1999;37:377-80. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/10505390?tool=bestpractice.bmj.com)
+46. Lee KL, Tse HF, Echt DS, et al. Temporary leadless pacing in heart failure patients with ultrasound-
+mediated stimulation energy and effects on the acoustic window. Heart Rhythm. 2009;6:742-8.  Full
+text (https://www.heartrhythmjournal.com/article/S1547-5271(09)00207-0/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19427274?tool=bestpractice.bmj.com)
+47. Lee KL, Lau CP, Tse HF, et al. First human demonstration of cardiac stimulation with transcutaneous
+ultrasound energy delivery: implications for wireless pacing with implantable devices. J Am
+Coll Cardiol. 2007;50:877-83.  Full text (https://www.sciencedirect.com/science/article/pii/
+S0735109707018219?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17719475?
+tool=bestpractice.bmj.com)
+48. Echt DS, Cowan MW, Riley RE, et al. Feasibility and safety of a novel technology for pacing without
+leads. Heart Rhythm. 2006;3:1202-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17018352?
+tool=bestpractice.bmj.com)
+49. Reddy VY, Exner DV, Cantillon DJ, et al; LEADLESS II Study Investigators. Percutaneous implantation
+of an entirely intracardiac leadless pacemaker. N Engl J Med. 2015;373:1125-35.  Full text (http://
+www.nejm.org/doi/full/10.1056/NEJMoa1507192#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26321198?tool=bestpractice.bmj.com)
+50. Russo AM, Stainback RF, Bailey SR, et al. ACCF/HRS/AHA/ASE/HFSA/SCAI/SCCT/SCMR 2013
+appropriate use criteria for implantable cardioverter-defibrillators and cardiac resynchronization
+therapy. Heart Rhythm. 2013;10:e11-58.  Full text (https://www.hrsonline.org/guidance/clinical-
+resources/appropriate-use-criteria-icds-and-crt)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23473952?tool=bestpractice.bmj.com)
+51. Gillis AM, Russo AM, Ellenbogen KA, et al. HRS/ACCF expert consensus statement on pacemaker
+device and mode selection. Heart Rhythm. 2012;9:1344-65.  Full text (http://www.hrsonline.org/
+Practice-Guidance/Clinical-Guidelines-Documents/2012-Expert-Consensus-Statement-on-Pacemaker-
+Device-Mode-Selection#ixzz2NOmWasty)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22858114?
+tool=bestpractice.bmj.com)
+52. Elliott PM, Anastasakis A, Borger MA, et al. 2014 ESC Guidelines on diagnosis and management
+of hypertrophic cardiomyopathy: the task force for the diagnosis and management of hypertrophic
+cardiomyopathy of the European Society of Cardiology (ESC). Eur Heart J. 2014;35:2733-79.  Full text
+(http://eurheartj.oxfordjournals.org/content/35/39/2733.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25173338?tool=bestpractice.bmj.com)
+53. Skinner M, Anderson J, Simms R, et al. Treatment of 100 patients with primary amyloidosis: a
+randomized trial of melphalan, prednisone, and colchicine versus colchicine only. Am J Med.
+1996;100:290-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8629674?tool=bestpractice.bmj.com)
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 51 ===
+Atrioventricular block References
+54. Santangeli P, Ferrante G, Pelargonio G, et al. Usefulness of statins in preventing atrial fibrillation in
+patients with permanent pacemaker: a systematic review. Europace. 2010;12:649-54. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20189946?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+51
+=== Page 52 ===
+Atrioventricular block Images
+IMAGES
+Images
+Figure 1: First-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+Figure 2: Type I second-degree AV block. This figure demonstrates typical features of the AV Wenckebach,
+including progressively shortening R-R intervals as the P-R intervals lengthen; the figure also shows grouped
+beating, which is also typical for AV Wenckebach
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 53 ===
+Atrioventricular block Images
+Figure 3: Type II second-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+Figure 4: Third-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+53
+=== Page 54 ===
+Atrioventricular block Images
+IMAGES
+Figure 5: Third-degree heart block: right bundle-branch block escape
+Courtesy of Dr Sanjiv Petkar; used with permission
+Figure 6: Baseline ECG for a patient with third-degree AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 55 ===
+Atrioventricular block Images
+Figure 7: 2:1 AV block
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+55
+=== Page 56 ===
+Atrioventricular block Images
+IMAGES
+Figure 8: Tachy-brady syndrome due to sinus node disease. Ventricular rate is slow intermittently, but AV
+block is not seen
+Courtesy of Dr Sanjiv Petkar; used with permission
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 57 ===
+Atrioventricular block Images
+Figure 9: Patient with 2:1 AV block, status post permanent pacemaker placement
+Courtesy of Dr Susan F. Kim, Dr John F. Beshai, and Dr Stephen L. Archer; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+57
+=== Page 58 ===
+Atrioventricular block Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 59 ===
+Atrioventricular block Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 25, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+59
+=== Page 60 ===
+Contributors:
+// Authors:
+Sanjiv Petkar, MD, FRCP
+Consultant Cardiologist/Electrophysiologist
+Royal Wolverhampton NHS Trust, Heart and Lung Centre, New Cross Hospital, Wolverhampton, UK
+DISCLOSURES: SP has received speaker's honoraria from Bayer, Bristol-Myers Squibb, MSD, and Pfizer.
+SP has received hospitality and/or accommodation from Bayer, Medtronic, St Jude, and Boston Scientific for
+attending conferences or meetings.
+Dibbendhu Khanra, MD, DM Cardiology
+International Clinical Fellow in Electrophysiology and Devices
+Royal Wolverhampton NHS Trust, Heart and Lung Centre, New Cross Hospital, Wolverhampton, UK
+DISCLOSURES: DK declares that he has no competing interests.
+Gaurav Panchal, MBBS, MRCP
+Specialist Registrar in Cardiology/Electrophysiology
+Royal Wolverhampton NHS Trust, Heart and Lung Centre, New Cross Hospital, Wolverhampton, UK
+DISCLOSURES: GP declares that he has no competing interests.
+// Acknowledgements:
+Dr Petkar, Dr Khanra, and Dr Panchal would like to gratefully acknowledge Dr Pathiraja, Dr Aziz, Dr Susan
+S. Kim, Dr John F. Beshai, and Dr Stephen L. Archer, previous contributors to this topic. JP, AA, SSK, JFB,
+and SLA declare that they have no competing interests.
+// Peer Reviewers:
+Bradley P. Knight, MD
+Professor of Medicine
+Section of Cardiology, Director, Cardiac Electrophysiology, University of Chicago Medical Center, Chicago,
+IL
+DISCLOSURES: BPK declares that he has no competing interests.
+Martin C. Burke, DO
+Associate Professor of Medicine
+Section of Cardiology, Cardiac Electrophysiology, University of Chicago Medical Center, Chicago, IL
+DISCLOSURES: MCB declares that he has no competing interests.
+Nick Gall, MSc, MD, FRCP
+Consultant Cardiologist
+King’s College Hospital, London, UK
+DISCLOSURES: NG declares that he has no competing interests.
+Thomas A. Dewland, MD
+Associate Professor of Medicine
+University of California, San Francisco, CA
+=== Page 61 ===
+Contributors:
+DISCLOSURES: TAD declares that he has no competing interests.

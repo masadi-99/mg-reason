@@ -1,0 +1,362 @@
+# Overview of dysrhythmias (cardiac)
+
+=== Page 1 ===
+Overview of
+dysrhythmias (cardiac)
+Straight to the point of care
+Last updated: Dec 15, 2023
+=== Page 2 ===
+Table of Contents
+Introduction  3
+Related conditions  4
+References  7
+Disclaimer  10
+=== Page 3 ===
+Overview of dysrhythmias (cardiac) Introduction
+Introduction
+Cardiac dysrhythmia (or arrhythmia) is a disturbance in the rate of cardiac muscle contractions, or any
+variation from the normal rhythm or rate of heart beat. The term encompasses abnormal regular and
+irregular rhythms as well as loss of rhythm. Cardiac dysrhythmias are found in a vast range of conditions
+and may be defined in a number of ways, including by site of origin (e.g., supraventricular, ventricular, atrial),
+mechanism of disturbance (e.g., fibrillation, automaticity, reentry or triggered activity), rate of disturbance
+(e.g., tachycardia, bradycardia) and electrocardiogram appearance (e.g., long QT syndrome). Dysrhythmias
+may be acute or chronic, and some (especially ventricular arrhythmias) may be life-threatening. Sudden
+cardiac death is the most severe manifestation of ventricular arrhythmias (e.g., ventricular fibrillation).
+INTRODUCTION
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 15, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2023. All rights reserved.
+3
+=== Page 4 ===
+Overview of dysrhythmias (cardiac) Related conditions
+RELATED CONDITIONS
+Related conditions
+◊ Focal atrial tachycardia
+» see our comprehensive coverage of Focal atrial tachycardia (https://bestpractice.bmj.com/topics/en-
+us/182)
+Characterized as a rapid regular rhythm arising from a discrete area within the atria. It occurs in a wide
+range of clinical conditions, including catecholamine excess, digoxin toxicity, pediatric congenital heart
+disease, and cardiomyopathy. On ECG, P waves are visible before every QRS, and different from the P
+waves in sinus rhythm. Onset and termination of arrhythmia are abrupt. Response to vagal maneuvers and
+adenosine may be evaluated to exclude alternative diagnoses.[1]
+◊ Atrial flutter
+» see our comprehensive coverage of Atrial flutter (https://bestpractice.bmj.com/topics/en-us/183)
+Typical atrial flutter (counterclockwise cavotricuspid isthmus-dependent atrial flutter) is a macroreentrant
+atrial tachycardia with atrial rates from 250 to 320 bpm. Ventricular rates range from 120 to 160 bpm, and
+associated 2:1 atrioventricular block is common. Characteristic features on ECG are negatively directed
+saw-tooth atrial deflections (f waves) seen in leads II, III and aVF, with positively directed deflections in
+lead V1. This rhythm is closely related to atrial fibrillation.[2] [3]
+◊ New-onset atrial fibrillation
+» see our comprehensive coverage of New-onset atrial fibrillation (https://bestpractice.bmj.com/topics/en-
+us/3)
+Atrial fibrillation (AF) is a supraventricular tachyarrhythmia characterized by uncoordinated atrial activation
+and variable ventricular response and consequently ineffective atrial contraction.[4] [5] New-onset AF is
+a new or first detectable episode of a chaotic and irregular atrial arrhythmia. ECG characteristics include:
+irregularly irregular R-R intervals (where atrioventricular conduction is not impaired); absence of distinct
+repeating P waves; irregular atrial activations.[4] [5]
+◊ Chronic atrial fibrillation
+» see our comprehensive coverage of Chronic atrial fibrillation (https://bestpractice.bmj.com/topics/en-
+us/1)
+Chronic AF is a longstanding chaotic and irregular atrial arrhythmia. It is primarily defined based on
+duration and frequency of episodes; therefore, chronic AF could be paroxysmal, persistent, or permanent.
+AF causes significant morbidity (e.g., palpitations, dyspnea, angina, dizziness or syncope, and features
+of heart failure, tachycardia-induced cardiomyopathy, or stroke) and death.[6] [7] Many patients are
+asymptomatic or have symptoms that are less specific for cardiac arrhythmias, such as mild dementia or
+silent strokes.
+◊ Wolff-Parkinson-White syndrome
+» see our comprehensive coverage of Wolff-Parkinson-White syndrome (https://bestpractice.bmj.com/
+topics/en-us/400)
+Occurs when myocardial fibers connect the atrium to the ipsilateral ventricle across the mitral or tricuspid
+annulus (accessory pathway), pre-exciting the ventricle.[8] The most common arrhythmias diagnosed
+in Wolff-Parkinson-White syndrome are atrioventricular reentrant tachycardia, atrial flutter, and atrial
+fibrillation. Typically the heart rate varies between 150 and 240 bpm. Congenital cardiac abnormalities are
+strong risk factors (especially Ebstein anomaly).
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 15, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 5 ===
+Overview of dysrhythmias (cardiac) Related conditions
+◊ Sustained ventricular tachycardias
+» see our comprehensive coverage of Sustained ventricular tachycardias (https://bestpractice.bmj.com/
+topics/en-us/537)
+A ventricular rhythm faster than 100 bpm lasting at least 30 seconds or requiring termination earlier due
+to hemodynamic instability. Ventricular tachycardia (VT) is defined on ECG by the presence of a wide
+complex tachycardia (QRS ≥120 milliseconds) at a rate ≥100 bpm. Usually observed in ischemic and
+non-ischemic cardiomyopathy, but idiopathic VT may also be observed in patients without structural heart
+disease.
+◊ Nonsustained ventricular tachycardia
+» see our comprehensive coverage of Nonsustained ventricular tachycardia (https://bestpractice.bmj.com/
+topics/en-us/831)
+Ectopic ventricular rhythm with wide QRS complex (≥120 milliseconds), rate faster than 100 bpm, lasting
+for at least 3 consecutive beats but terminating spontaneously in less than 30 seconds.[9] [10] It may occur
+in the absence of any underlying heart disease, but is more commonly associated with ischemic and non-
+ischemic heart disease; known genetic disorders such as long QT syndrome, Brugada syndrome, and
+arrhythmogenic right ventricular cardiomyopathy; congenital heart disease; metabolic problems, including
+drug toxicity; or electrolyte imbalance.[11]
+◊ Long QT syndrome (LQTS)
+» see our comprehensive coverage of Long QT syndrome (LQTS) (https://bestpractice.bmj.com/topics/en-
+us/829)
+Characterized by a prolonged QT interval on ECG and may be congenital or acquired. In congenital LQTS,
+genetic mutations affect ion channels important in myocardial repolarization.[12] Acquired LQTS may
+occur secondary to ingestion of QT interval-prolonging drugs, electrolyte imbalances, or bradyarrhythmias.
+An ECG should be undertaken in all suspected cases. Patients are at increased risk for syncope,
+ventricular arrhythmias (e.g., torsade de pointes), and sudden cardiac death.
+◊ Cardiac arrest
+» see our comprehensive coverage of Cardiac arrest (https://bestpractice.bmj.com/topics/en-us/283)
+Sudden cardiac arrest is a sudden state of circulatory failure due to a loss of cardiac systolic function. Can
+result from 4 specific cardiac rhythm disturbances: ventricular fibrillation, pulseless ventricular tachycardia,
+pulseless electrical activity (electrical activity and no cardiac output), and asystole. The most common
+underlying causes are ischemic heart disease and myocardial infarction.[13] Presentation is usually
+sudden and manifests as loss of consciousness but can be preceded by chest pain or dyspnea.
+◊ Bradycardia
+» see our comprehensive coverage of Bradycardia (https://bestpractice.bmj.com/topics/en-us/832)
+Any heart rhythm slower than 50 bpm, even if transient, owing to sinus node dysfunction and/or
+atrioventricular (AV) conduction abnormalities. Some consider bradycardia to be a heart rate <60 bpm;
+however, this is in dispute and most consider rates of <50 bpm to represent bradycardia.[14] [15] Causes
+include intrinsic sinus node, AV nodal, and His-Purkinje disease, or extrinsic influences, which may be
+reversible. Some patients, even if asymptomatic, may require interventions to prevent life-threatening
+complications.
+RELATED CONDITIONS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 15, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2023. All rights reserved.
+5
+=== Page 6 ===
+Overview of dysrhythmias (cardiac) Related conditions
+RELATED CONDITIONS
+◊ Atrioventricular (AV) block
+» see our comprehensive coverage of Atrioventricular (AV) block (https://bestpractice.bmj.com/topics/en-
+us/728)
+Impaired conduction from the atria to the ventricles, with various degrees of severity. Signs and symptoms
+include heart rate <40 bpm, high (or, less commonly, low) blood pressure, cannon A waves, chest pain,
+palpitations, and nausea or vomiting, and hypoxemia. Some patients may be asymptomatic. The degree
+of AV block or anatomical level of block does not necessarily correlate with the severity of subsequent
+symptoms. Strong risk factors include increased vagal tone, use of AV nodal blocking agents, underlying
+cardiovascular disease, acid-base disturbance, neuromuscular disorders, and recent cardiac surgery.[16]
+[17]
+◊ Postural orthostatic tachycardia syndrome
+» see our comprehensive coverage of Postural orthostatic tachycardia syndrome (https://
+bestpractice.bmj.com/topics/en-us/3000308)
+A chronic, multisystem disorder that is thought to be due to an autoimmune process. It is characterized
+by symptoms of orthostatic intolerance and an increase in heart rate (without orthostatic hypotension)
+on standing, in the absence of other causes. It is also associated with comorbidities such as migraine
+headaches, irritable bowel syndrome, Ehlers-Danlos syndrome, chronic fatigue syndrome, and
+autoimmune diseases such as Hashimoto thyroiditis and celiac disease.[18]
+◊ Evaluation of palpitations
+» see our comprehensive coverage of Evaluation of palpitations (https://bestpractice.bmj.com/topics/en-
+us/572)
+Palpitations are defined as the abnormal awareness of one's own heartbeat. May present in non-life-
+threatening cardiac conditions (e.g., ventricular and atrial premature contractions, and supraventricular
+tachycardias) and potentially life-threatening conditions (e.g., ventricular tachycardia, hypertrophic
+cardiomyopathy, Brugada syndrome, and long QT syndrome).[19] [20] Detailed evaluation of palpitations
+(e.g., rate and degree of regularity, association with position, presence on awakening) can help diagnose
+the type of arrhythmia present.[19]
+◊ Evaluation of tachycardia
+» see our comprehensive coverage of Evaluation of tachycardia (https://bestpractice.bmj.com/topics/en-
+us/830)
+Tachycardia, generally defined as a heart rate ≥100 bpm, can be a normal physiological response to
+a systemic process or a manifestation of underlying pathology. Several methods of classification of
+tachyarrhythmia are helpful in organizing and assessing tachycardias. These include: sinus versus non-
+sinus causes; atrial versus ventricular arrhythmias; narrow- versus wide-complex tachycardias; regular
+versus irregular arrhythmias; and classification based on the site of origin of the arrhythmia.
+◊ Digoxin overdose
+» see our comprehensive coverage of Digoxin overdose (https://bestpractice.bmj.com/topics/en-us/338)
+Typically presents with components of gastrointestinal, constitutional and/or cardiovascular symptoms.
+Patients with acute digoxin toxicity classically have dysrhythmias, which are associated with increased
+automaticity and decreased atrioventricular conduction (e.g., atrial flutter and atrial fibrillation with high-
+degree AV block, nonparoxysmal atrial tachycardia with block, accelerated junctional rhythms, and/or
+bidirectional ventricular tachycardia).[21]
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 15, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 7 ===
+Overview of dysrhythmias (cardiac) References
+Key articles
+References
+1. Fox DJ, Tischenko A, Krahn AD, et al. Supraventricular tachycardia: diagnosis and management.
+Mayo Clin Proc. 2008 Dec;83(12):1400-11. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19046562?
+tool=bestpractice.bmj.com)
+2. Saoudi N, Cosío F, Waldo A, et al. A classification of atrial flutter and regular atrial tachycardia
+according to electrophysiological mechanisms and anatomical bases. Eur Heart J. 2001
+Jul;22(14):1162-82.  Full text (http://eurheartj.oxfordjournals.org/content/ehj/22/14/1162.full.pdf)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11440490?tool=bestpractice.bmj.com)
+3. Lévy S, Camm AJ, Saksena S, et al. International consensus on nomenclature and classification
+of atrial fibrillation. Europace. 2003 Apr;5(2):119-22.  Full text (http://europace.oxfordjournals.org/
+content/europace/5/2/119.full.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12633634?
+tool=bestpractice.bmj.com)
+4. Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS guideline for the diagnosis
+and management of atrial fibrillation: a report of the American College of Cardiology/American Heart
+Association Joint Committee on clinical practice guidelines. Circulation. 2023 Nov 30 [Epub ahead
+of print].  Full text (https://www.ahajournals.org/doi/abs/10.1161/CIR.0000000000001193)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/38033089?tool=bestpractice.bmj.com)
+5. Hindricks G, Potpara T, Dagres N, et al. 2020 ESC Guidelines for the diagnosis and management of
+atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery
+(EACTS). Eur Heart J. 2021 Feb 1;42(5):373-498.  Full text (https://academic.oup.com/eurheartj/
+article/42/5/373/5899003?login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32860505?
+tool=bestpractice.bmj.com)
+6. Hagens VE, Ranchor AV, Van Sonderen E, et al. Effect of rate or rhythm control on quality of life in
+persistent atrial fibrillation. Results from the Rate Control Versus Electrical Cardioversion (RACE)
+Study. J Am Coll Cardiol. 2004 Jan 21;43(2):241-7.  Full text (https://www.sciencedirect.com/
+science/article/pii/S0735109703014141?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/14736444?tool=bestpractice.bmj.com)
+7. Benjamin EJ, Wolf PA, D'Agostino RB, et al. Impact of atrial fibrillation
+on the risk of death: the Framingham Heart Study. Circulation. 1998 Sep
+8;98(10):946-52.  Full text (https://www.ahajournals.org/doi/10.1161/01.cir.98.10.946?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9737513?tool=bestpractice.bmj.com)
+8. Vidaillet HJ Jr, Pressley JC, Henke E, et al. Familial occurrence of accessory atrioventricular pathways
+(preexcitation syndrome). N Engl J Med. 1987 Jul 9;317(2):65-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/3587328?tool=bestpractice.bmj.com)
+9. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS Guideline for Management of
+Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death. Circulation. 2018
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 15, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2023. All rights reserved.
+7
+=== Page 8 ===
+Overview of dysrhythmias (cardiac) References
+REFERENCES
+Sep 25;138(13):e272-e391.  Full text (https://www.doi.org/10.1161/CIR.0000000000000549)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29084731?tool=bestpractice.bmj.com)
+10. Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://academic.oup.com/eurheartj/article/43/40/3997/6675633?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+11. Nathani P, Shetty S, Lokhandwala Y. Ventricular tachycardia in structurally normal hearts:
+recognition and management. J Assoc Physicians India. 2007 Apr;55 Suppl:33-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18368865?tool=bestpractice.bmj.com)
+12. Wallace E, Howard L, Liu M, et al. Long QT syndrome: genetics and future perspective.
+Pediatr Cardiol. 2019 Oct;40(7):1419-30.  Full text (https://link.springer.com/article/10.1007/
+s00246-019-02151-x)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31440766?
+tool=bestpractice.bmj.com)
+13. Zheng ZJ, Croft JB, Giles WH, et al. Sudden cardiac death in the United States, 1989 to 1998.
+Circulation. 2001 Oct 30;104(18):2158-63.  Full text (https://www.ahajournals.org/doi/10.1161/
+hc4301.098254?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11684624?tool=bestpractice.bmj.com)
+14. Spodick DH, Raju P, Bishop RL, et al. Operational definition of normal sinus heart rate. Am J
+Cardiol. 1992 May 1;69(14):1245-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1575201?
+tool=bestpractice.bmj.com)
+15. Spodick DH. Normal sinus heart rate: sinus tachycardia and sinus bradycardia redefined. Am
+Heart J. 1992 Oct;124(4):1119-21. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1529897?
+tool=bestpractice.bmj.com)
+16. Kreger BE, Anderson KM, Kannel WB. Prevalence of intraventricular block in the general population:
+the Framingham Study. Am Heart J. 1989 Apr;117(4):903-10.  Full text (https://www.sciencedirect.com/
+science/article/pii/0002870389906303?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/2784619?tool=bestpractice.bmj.com)
+17. Rudbeck-Resdal J, Christiansen MK, Johansen JB, et al. Aetiologies and temporal trends
+of atrioventricular block in young patients: a 20-year nationwide study. Europace. 2019 Nov
+1;21(11):1710-16.  Full text (https://academic.oup.com/europace/article/21/11/1710/5551390?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31424500?tool=bestpractice.bmj.com)
+18. Vernino S, Bourne KM, Stiles LE, et al. Postural orthostatic tachycardia syndrome (POTS): state of
+the science and clinical care from a 2019 National Institutes of Health Expert Consensus Meeting -
+part 1. Auton Neurosci. 2021 Nov;235:102828.  Full text (https://www.autonomicneuroscience.com/
+article/S1566-0702(21)00058-8/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34144933?
+tool=bestpractice.bmj.com)
+19. Zimetbaum P, Josephson ME. Evaluation of patients with palpitations. N Engl J Med. 1998 May
+7;338(19):1369-73.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 15, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 9 ===
+Overview of dysrhythmias (cardiac) References
+20. Mellor GJ, Behr ER. Cardiac channelopathies: diagnosis and contemporary management. Heart. 2021
+Jun 11;107(13):1092-9.
+21. Marchlinski FE, Hook BG, Callans DJ. Which cardiac disturbances should be treated with digoxin
+immune Fab (ovine) antibody? Am J Emerg Med. 1991 Mar;9(2 suppl 1):24-8; discussion 33-4.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1997018?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 15, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2023. All rights reserved.
+9
+=== Page 10 ===
+Overview of dysrhythmias (cardiac) Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+https://www.bipm.org/en/about-us/
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 15, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2023. All rights reserved.
+=== Page 11 ===
+Overview of dysrhythmias (cardiac) Disclaimer
+Figure 1 – BMJ Best Practice Numeral Style
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+http://www.bmj.com/company/legal-information/
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 15, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2023. All rights reserved.
+11
+=== Page 12 ===
+Contributors:
+// Authors:
+Editorial Team,
+BMJ Publishing Group
+DISCLOSURES: This overview has been compiled using the information in existing sub-topics.

@@ -1,0 +1,1994 @@
+# Nonsustained ventricular tachycardias
+
+=== Page 1 ===
+Nonsustained
+ventricular
+tachycardias
+Straight to the point of care
+Last updated: Nov 24, 2023
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  5
+Classification  5
+Case history  5
+Diagnosis  7
+Approach  7
+History and exam  14
+Risk factors  15
+Tests  18
+Differentials  20
+Management  21
+Approach  21
+Treatment algorithm overview  25
+Treatment algorithm  27
+Primary prevention  33
+Secondary prevention  34
+Patient discussions  34
+Follow up  35
+Monitoring  35
+Complications  35
+Prognosis  36
+Guidelines  37
+Diagnostic guidelines  37
+Treatment guidelines  38
+References  39
+Images  48
+Disclaimer  54
+=== Page 3 ===
+Nonsustained ventricular tachycardias Overview
+Summary
+Nonsustained ventricular tachycardia (NSVT) is usually asymptomatic, although brief palpitations may
+sometimes be experienced. Symptoms in a patient with known NSVT are most often attributed to underlying
+cardiac disease rather than the arrhythmia itself.
+Defined as a self-terminating event. No specific treatment indicated. Management is directed at any
+underlying heart condition.
+Implantable cardioverter defibrillator placement may be used for selected patients who have additional
+risk factors such as structural heart disease. Patients at risk for sudden cardiac death and who also have
+discordant contraction of left ventricular function may benefit from cardiac resynchronization therapy.
+Prognosis dependent on presence or absence of cardiac disease. Left ventricular function in post-myocardial
+infarction patients remains the most important prognostic tool for overall mortality and risk for sudden cardiac
+death.
+No increase in mortality demonstrated in those patients without associated cardiac disease.
+Definition
+Nonsustained ventricular tachycardia (NSVT) is an ectopic ventricular rhythm with wide QRS complex (≥120
+milliseconds), rate faster than 100 bpm, lasting for at least 3 beats that spontaneously resolves in less
+than 30 seconds.[1] [2] It may occur in the absence of any underlying heart disease. However, it is more
+commonly associated with ischemic and nonischemic heart disease; known genetic disorders (e.g., long QT
+syndrome, Brugada syndrome, arrhythmogenic right ventricular cardiomyopathy); congenital heart disease;
+metabolic problems including drug toxicity; or electrolyte imbalance.[3]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+3
+=== Page 4 ===
+Nonsustained ventricular tachycardias Theory
+THEORY
+Epidemiology
+The estimated incidence of NSVT in the general population (both with and without heart disease) is as high
+as 4%, although this is most likely an underestimate. The prevalence of NSVT becomes more common
+as age increases.[7] [8] There do not appear to be any sex-specific differences in the incidence of NSVT.
+However, men are probably more likely to be affected simply due to a higher incidence of coronary artery
+disease. The advent of thrombolytic therapy has decreased the overall prevalence of NSVT in patients after
+myocardial infarction from a range of 12% to 25%, down to 5% to 9%. However, this prevalence varies with
+left ventricular dysfunction. NSVT has been observed in 12% of patients with ejection fraction (EF) less than
+35%, compared with 6% in patients with EF greater than 35%. Using 24-hour ambulatory ECG monitoring,
+NSVT has been observed in 25% of patients with hypertrophic cardiomyopathy and up to 80% of patients
+with idiopathic dilated cardiomyopathy.[9] [10] [11] [12] [13]
+Etiology
+NSVT is most commonly observed in patients with underlying ischemic or nonischemic cardiac disease;
+although it may also be observed in apparently healthy people.[14] [15] [16] [17] Incidental NSVT is a
+common finding in routine cardiologic investigation (e.g., when investigating noncardiac disease, before
+participating in sports, before cancer treatments), as well as during routine monitoring (e.g., during
+anesthesia or sedation).[2]
+While ischemic cardiac disease is still the most common etiology of NSVT, especially in high-income
+countries, infectious diseases such as Chagas disease in Central America and other forms of nonischemic
+cardiomyopathy also contribute to the etiology of NSVT around the world.[18]
+Structural heart diseases such as hypertrophic cardiomyopathy, idiopathic dilated cardiomyopathy, congenital
+heart disease, and valvular heart disease are also associated with NSVT.[19] [20] [21]
+Abnormalities of multiple cellular proteins such as sodium and potassium channels (the long QT syndrome,
+Brugada syndrome), intracellular calcium channels (catecholaminergic polymorphic VT), sarcomere proteins
+(hypertrophic cardiomyopathy), and cellular architecture proteins (idiopathic dilated cardiomyopathy) have all
+been associated with NSVT.[22] [23]
+Electrolyte abnormalities (particularly hypokalemia and hypomagnesemia) often incite and/or contribute
+to NSVT. In addition, certain drugs have the ability to prolong the QT interval, which can promote NSVT
+(macrolide antibiotics, chlorpromazine, and haloperidol). While antiarrhythmic drugs, such as digoxin,
+flecainide, sotalol, and dofetilide, are used to treat atrial arrhythmias, they can produce unwanted ventricular
+arrhythmias, an effect referred to as proarrhythmia.
+Family history of sudden death before 50 years of age (especially in a first-degree relative) is associated
+with an increased risk of both sustained and nonsustained VTs. Stress, either mental or physical, may trigger
+NSVT in patients with long QT syndrome, catecholamine-sensitive VT, and certain idiopathic VTs arising
+from the ventricular outflow tracts.
+Sleep disordered breathing (SDB) (e.g., obstructive sleep apnea, central sleep apnea, Cheyne-Stokes
+breathing) is associated with various cardiac arrhythmias.[24] Epidemiologic studies show that patients with
+SDB have a two-fold higher odds of NSVT.[24]
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 5 ===
+Nonsustained ventricular tachycardias Theory
+Pathophysiology
+Similar to other tachyarrhythmias, NSVT can be due to increased automaticity, triggered activity or re-
+entry. Patients with compromised myocardium secondary to prior myocardial infarction or nonischemic
+cardiomyopathy have been identified as having regions of slowed conduction adjacent to damaged
+myocardium or scar tissue. It is within these areas that re-entrant arrhythmias originate.[1] [13] In apparently
+healthy people, repetitive monomorphic VT most commonly arises from the right ventricular outflow tract.[25]
+This is usually a result of delayed afterdepolarizations (triggered activity) due to reactivation of sodium and
+calcium ion channels.
+Classification
+Variants
+Exercise-induced NSVT:
+• Observed in patients during stress testing.[4]
+Repetitive monomorphic VT:
+• Ectopic arrhythmia characterized by short bursts of NSVT with an organized, regular, single-
+morphology QRS complex
+• Arising most commonly from the right ventricular outflow tract, but may also originate from the left
+ventricular outflow tract and other ventricular sites.[5]
+Nonsustained polymorphic VT:
+• Ectopic arrhythmia characterized by NSVT with multiple different wide (≥120 milliseconds) QRS
+complex morphologies arising from the ventricle.[6]
+Case history
+Case history #1
+A 65-year-old obese man presents with a crushing substernal chest pain for the past 3 hours and is
+hospitalized for an acute anterior wall myocardial infarction. His medical history includes hypertension and
+hyperlipidemia. He is also a smoker. Primary angioplasty reveals an occluded right coronary artery, which
+is successfully stented. He is found to have a left ventricular function of 45% with reduced contractility
+(hypokinesis) of the inferior wall. On the third day of hospitalization, telemetry reveals a 5-beat run of wide
+QRS complexes with a rate of 136 bpm. The patient is asymptomatic during this event.
+Case history #2
+A previously well 45-year-old man presents to the clinic with a 3-week history of progressive shortness
+of breath. He is able to perform activities of daily living independently but becomes short of breath with
+mild to moderate exertion. Echocardiogram reveals a reduced left ventricular ejection fraction of 30%.
+Cardiac catheterization demonstrates normal coronary arteries. A 24-hour ambulatory ECG shows
+several episodes of NSVT.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+5
+=== Page 6 ===
+Nonsustained ventricular tachycardias Theory
+THEORY
+Other presentations
+NSVT is usually asymptomatic, although brief palpitations may sometimes be experienced. Symptoms
+in a patient with known NSVT are most often attributed to underlying cardiac disease rather than the
+arrhythmia itself. NSVT may present on a routine ECG or during a stress test being performed for other
+reasons.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 7 ===
+Nonsustained ventricular tachycardias Diagnosis
+Approach
+NSVT is defined as an ectopic ventricular rhythm on ECG consisting of 3 or more consecutive, wide (duration
+≥120 milliseconds) QRS complexes with a heart rate greater than 100 bpm, spontaneously resolving in
+less than 30 seconds.[1] [2] Once the presence of an NSVT is established, the main goals are to identify
+any existing cardiac pathology and to risk stratify patients with known cardiac disease for appropriate
+management and therapy.
+Evaluation of nonsustained wide QRS tachycardia
+Created by BMJ Knowledge Centre.
+NSVT is usually asymptomatic on presentation, and symptoms such as palpitations and syncope overlap
+greatly with other pathologies and tachyarrhythmias. Therefore, further investigation is required to identify
+the specific etiology of NSVT.[2] It is appropriate to begin with a complete history and physical exam followed
+by ECG. Laboratory studies and echocardiography may also be useful in the initial workup of the patient.
+More expensive and invasive testing such as magnetic resonance imaging (MRI) and cardiac catheterization
+should be ordered in the appropriate clinical setting after initial evaluation has been completed.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+7
+=== Page 8 ===
+Nonsustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+History
+NSVT has been identified in a wide spectrum of patients, from those with no identifiable cardiac condition
+to patients with ischemic and nonischemic cardiac disease. Therefore, it is important to assess the
+patient's risk factors in light of NSVT that would prompt further testing and/or therapy.
+History that places patients at higher risk:
+• Nonischemic cardiomyopathy with left ventricular ejection fraction (LVEF) <35% and New York
+Heart Association class II or III symptoms
+• Ischemic cardiomyopathy with LVEF <35%
+• Ischemic cardiomyopathy with LVEF <40% with NSVT and inducible ventricular tachycardia (VT)
+during electrophysiologic testing
+• Hypertrophic cardiomyopathy (HCM) with personal history of cardiac arrest or sustained VT, first-
+degree relative with sudden death, unexplained exertional or recurrent syncope, left ventricular
+septum thickness greater than 30 mm, or frequent or prolonged NSVT
+• Congenital arrhythmia syndromes such as long QT and Brugada syndromes.[31]
+Family history of structural heart disease, electrical disease, and cardiomyopathy should be assessed.[2]
+ In addition, the patient should be questioned regarding the use of any potentially arrhythmogenic
+medication (e.g., macrolide antibiotics, chlorpromazine, haloperidol, digoxin, flecainide, sotalol, and
+dofetilide). Family history of cardiac disease or sudden cardiac death may be of significance. The
+physician should also enquire about the presence of any current mental or physical stress that may have
+triggered the arrhythmia. Patients may complain of syncope as a result of hypotension due to the NSVT or
+an underlying cardiac condition. Dizziness, lightheadedness, and presyncope may occur if cerebral blood
+flow is compromised. Syncope suspected to be of cardiac origin is a high-risk symptom that may require
+rapid hospital admission for further investigation.[2]
+Physical exam
+This should focus on possible signs for occult or worsening cardiac disease in patients with no known
+cardiac condition or patients with known cardiac disease, respectively.
+Palpation of peripheral pulses provides information on heart rate, identifying a current tachycardia and
+in combination with peripheral BP monitoring can suggest the status of the patient's cardiac output. The
+presence of rales on chest exam or the presence of peripheral edema may be a sign of elevated left
+or right atrial pressures associated with cardiac dysfunction. Similarly, palpation of the heart for left or
+right ventricular heaves and examination of the neck for elevated jugular venous pressure should be
+performed. Careful auscultation for pathologic cardiac murmurs or abnormal heart sounds (S3 or S4) may
+assist in prompting further workup for ischemic and nonischemic cardiac disease.
+ECG
+NSVT is diagnosed based on the following specific ECG findings: a ventricular rhythm with wide (≥120
+milliseconds) QRS complex; and a rate faster than 100 bpm lasting for at least 3 beats that spontaneously
+resolves in less than 30 seconds.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 9 ===
+Nonsustained ventricular tachycardias Diagnosis
+Nonsustained ventricular tachycardia
+From the collection of Dr F. Kusumoto; used with permission
+A 24-hour ambulatory ECG may be necessary to detect the NSVT, determine the extent of the arrhythmia
+burden and/or analyze the QT interval (can be identified using a standard 12-lead ECG, although at times
+temporally dynamic changes in the QT interval require more prolonged monitoring periods such as a 24-
+hour ambulatory monitor). Using at least 3 leads on the Holter may help estimate whether the NSVT/
+premature ventricular contractions (PVCs) are uni- or multifocal, and show their site of origin.[2] More
+recently, consumer wearable devices that may identify arrhythmias, including NSVT, have been used by
+patients. While the quality of the recordings from these devices has improved dramatically, particularly in
+identifying atrial fibrillation and identification and assessment of burden of ventricular arrhythmias, medical
+grade ECG recording devices provide more detailed and clinically actionable information.[32]
+It is important to differentiate between a wide complex tachycardia originating from the ventricles and one
+that is supraventricular, as the medical management differs.
+Evidence supporting the diagnosis of a VT includes:
+• Baseline ECG tachycardia with morphology similar to that of PVCs
+• Initiation of the tachycardia with a PVC making NSVT more likely
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+9
+=== Page 10 ===
+Nonsustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+Initiation of wide QRS rhythm is not preceded by a P-
+wave, suggesting nonsustained ventricular tachycardia
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical
+application. New York, NY: Springer; 2009; used with permission
+• AV dissociation during tachycardia with dissociated P waves or capture and fusion beats
+ECG showing AV dissociation. Deflections due to P
+waves (arrows) are not associated with QRS complexes
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical
+application. New York, NY: Springer; 2009; used with permission
+• QRS duration greater than 140 milliseconds with right bundle branch block (RBBB) morphology,
+or QRS duration greater than 160 milliseconds with left bundle branch block (LBBB) morphology;
+however, does not apply to patients on antiarrhythmic drugs.[33]
+• A right superior axis or LBBB morphology with any right axis[1]
+• QRS complexes broadly positive in the inferior leads (1, 3, and aVF), in which case NSVT
+associated with an idiopathic site from the ventricular outflow tracts should be suspected. If the site
+is within the right ventricular outflow tract, the QRS complex will have LBBB morphology (negative
+in V1), and if the site is within the left ventricular outflow tract, it will have RBBB morphology
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 11 ===
+Nonsustained ventricular tachycardias Diagnosis
+(positive QRS in V1). This is important to identify from a clinical standpoint, as these entities are not
+associated with sudden cardiac death and are often treated with ablation.
+Baseline ECG should also be examined for evidence of known risk factors for NSVT including:
+• Long QT syndrome: QT interval prolongation
+ECG from a patient with long QT syndrome
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical
+application. New York, NY: Springer; 2009; used with permission
+• Brugada syndrome: J point elevation and downward-sloping ST-segment elevation in the right
+precordial leads
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+11
+=== Page 12 ===
+Nonsustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+ECG from a patient with Brugada syndrome, showing
+terminal positive R-wave and ST-segment elevation in lead V1
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical
+application. New York, NY: Springer; 2009; used with permission
+• Arrhythmogenic right ventricular cardiomyopathy: interventricular conduction delays (a discrete
+deflection after the QRS complex called an epsilon wave in lead V1 is specific for this disease)
+ECG from a patient with arrhythmogenic right ventricular cardiomyopathy
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical
+application. New York, NY: Springer; 2009; used with permission
+• Electrolyte disorders: prolonged QT interval
+• Presence of Q waves, ST-segment abnormalities, or other signs of coronary artery disease (CAD)
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 13 ===
+Nonsustained ventricular tachycardias Diagnosis
+ECG showing an abnormal Q wave in V4 and ST elevation in V1-
+V6 in a patient with a large anterior wall myocardial infarction.
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical
+application. New York, NY: Springer; 2009; used with permission
+• LBBB: may be a sign of structural heart disease, including Chagas disease or dilated
+cardiomyopathy
+• T-wave inversion: although nonspecific, may be an important marker of underlying structural
+cardiac disease.
+The morphology of the NSVT can give clues to its cause, with typical monomorphic VT suggesting an
+idiopathic cause with good outcome.[2] Some morphologies are particularly concerning. For example,
+longer bursts of polymorphic VT, particularly those with rapid rates (shorter duration [cycle length]
+between QRS complexes), or short-coupled PVCs that initiate NS polymorphic VT or monomorphic
+NSVT with short cycle length can indicate patients at higher risk of sudden cardiac death. These patients
+may need to be admitted for further assessment.[2] The evidence for the prognostic value of the NSVT
+duration (e.g., 6 beats vs. 25 beats) has been mixed, however, as a general rule longer episodes raise
+more concern than shorter episodes (<3-5 beats).
+Electrolytes and cardiac biomarkers
+Electrolyte abnormalities, especially hypokalemia, hyperkalemia, and hypomagnesemia, can often trigger
+and/or contribute to NSVT, and therefore any blood electrolyte abnormality must be identified.[2] Clinical
+suspicion for ischemia should prompt testing of myocardial biomarker assays (CK-MB and troponin I), as
+they provide useful confirmatory information regarding myocardial infarction (MI).
+Echocardiogram, stress test, cardiac catheterization, or MRI
+Investigation for underlying cardiac disease is facilitated by several diagnostic tests.
+• Echocardiography is a safe and inexpensive tool to evaluate for structural cardiac abnormalities,
+such as valvular heart disease, which in advanced stages can cause NSVT and is treatable.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+13
+=== Page 14 ===
+Nonsustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+Echocardiography is also useful to quantify systolic function and detect the presence of an
+underlying cardiomyopathy.[2]
+• Stress testing and/or cardiac catheterization is useful in establishing the presence of CAD
+in patients who have risk factors for CAD but may be asymptomatic. The patient's pretest
+probability of CAD should be scored and used to guide the choice of investigations. An exercise
+stress test can identify exercise-induced arrhythmias, and, if present, may indicate underlying
+structural heart disease. Patients may need to be advised to avoid exercise until they have
+undergone further investigation and treatment.[2] Often, stress testing with imaging (e.g., nuclear or
+echocardiography) is required for more definitive identification of the underlying ischemia.
+• Cardiac MRI with gadolinium may be useful for identifying myocardial scarring associated with
+CAD, dilated idiopathic cardiomyopathy, and HCM. It also confirms the presence of fibrofatty
+infiltrates in the ventricle, and measures right ventricular dysfunction in patients with suspected
+arrhythmogenic right ventricular cardiomyopathy. Guidelines recommend considering a cardiac MRI
+in patients with newly documented NSVT and suspected structural heart disease (other than CAD)
+after initial evaluation.[2]
+Electrophysiologic testing
+Consultation with an electrophysiologist is essential to determining which patients would benefit from
+an invasive electrophysiologic (EP) test, implantable cardioverter defibrillator placement, and medical
+treatment optimization.[1] EP testing can be useful for evaluation (and treatment) in a wide range of
+patients after MI, including those with inducible VT and ejection fraction (EF) less than 40%, and those
+with EF less than 30% to 35% without inducible VT, especially if QRS is prolonged.[31] [34] In patients
+with symptomatic NSVT (dizziness, syncope) that arises from the outflow tract, EP testing and ablation is
+an important diagnostic and therapeutic tool.
+Genetic screening
+Genetic screening is available for common mutations associated with long QT syndrome, Brugada
+syndrome, and catecholaminergic polymorphic VT, as well as HCM and dilated cardiomyopathy.
+Consultation with a cardiologist or a medical geneticist may be helpful in determining which patients
+would benefit the most from genetic screening. Cascade genetic testing of family members may be
+warranted.[2] [23] [35] [36] [37]
+History and exam
+Key diagnostic factors
+history of coronary artery disease (common)
+• Causes myocardial oxygen deprivation, which can lead to infarction and scarring. Both areas of acute
+and chronic ischemia are sources of delayed and aberrant electrical conduction and promote re-
+entrant arrhythmias.
+history of hypertrophic cardiomyopathy (common)
+• Genetic disorder resulting in myocardial cell disorganization and asymmetrical thickening of the
+ventricle. Both the phenotypic expression of hypertrophic cardiomyopathy and the risk of ventricular
+arrhythmia vary among patients.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 15 ===
+Nonsustained ventricular tachycardias Diagnosis
+history of idiopathic dilated cardiomyopathy (common)
+• Compromised ventricular function from areas of fibrosis scar formation in the heart increases risk of
+arrhythmias.
+presence of other known causes (common)
+• Including left ventricular systolic dysfunction, long QT syndrome, Brugada syndrome, drug toxicity,
+Chagas disease, and other cardiomyopathies.
+asymptomatic presentation (common)
+• In the vast majority of cases, NSVT is asymptomatic, most likely due to its brief duration.
+tachycardia (common)
+• Not always present at time of clinical exam, as NSVT last <30 seconds.
+Other diagnostic factors
+palpitations (uncommon)
+• Brief palpitations secondary to increased heart rate may be experienced.
+dizziness (uncommon)
+• Suggests diminished cerebral blood flow.
+lightheadedness (uncommon)
+• Suggests diminished cerebral blood flow.
+presyncope (uncommon)
+• May be experienced by patients if perfusion to brain is compromised.
+syncope (uncommon)
+• May be experienced by patients if they become hypotensive due to NSVT. Recent syncope due to a
+suspected cardiac cause is a high-risk symptom that may require inpatient investigation.[2]
+Risk factors
+Strong
+coronary artery disease
+• Causes oxygen deprivation, and eventually leads to infarction and ventricular scarring. Delayed
+electrical conduction can occur as a result. Re-entrant arrhythmias originate within these areas.[1]
+left ventricular systolic dysfunction
+• Strong association between ventricular arrhythmias and systolic dysfunction. Scars formed by
+ischemic or nonischemic cardiomyopathy are areas of slowed electrical conduction and facilitate re-
+entrant VTs.[1] [13]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+15
+=== Page 16 ===
+Nonsustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+hypertrophic cardiomyopathy
+• Genetic disorder resulting in myocardial cell disorganization and asymmetrical thickening of the
+ventricle. Both the phenotypic expression of hypertrophic cardiomyopathy and the risk of ventricular
+arrhythmia vary among patients.[26]
+idiopathic dilated cardiomyopathy
+• Prevalence of NSVT in idiopathic dilated cardiomyopathy is as high as 80%.[27] While there are many
+causes for this condition, up to 40% are familial, most attributed to mutations in cardiac sarcomeric or
+architectural proteins.[19] [28] [29]
+long QT syndrome
+• Patients with this relatively rare genetic disorder have prolonged QT interval (>440 milliseconds)
+on ECG and are at increased risk of developing torsades de pointes (a polymorphic VT). Clinical
+manifestations depend on phenotypic manifestation of the particular underlying genetic defect. At least
+12 subtypes of long QT (LQT) syndrome have been identified, most commonly types 1 to 3. Patients
+with LQT1 (potassium-channel defect) are at increased risk of developing ventricular arrhythmias
+during periods of physical exertion. LQT2 (potassium-channel defect) is characterized by initiation of
+ventricular arrhythmias following a startle reflex or a period of heightened emotional stress. Patients
+with LQT3 (sodium-channel defect) tend to develop arrhythmias during sleep.[22] [23] [27]
+Brugada syndrome
+• A disorder of myocardial sodium channels, which leads to characteristic J point elevation and
+downward-sloping ST-segment elevation in the right precordial leads, and increased risk of sudden
+death due to polymorphic VT and ventricular fibrillation.
+electrolyte imbalance
+• Electrolyte abnormalities (particularly hypokalemia, hyperkalemia, and hypomagnesemia) often incite
+and/or contribute to NSVT.
+drug toxicity
+• Certain drugs can prolong the QT interval, which can promote NSVT. These include macrolide
+antibiotics, chlorpromazine, and haloperidol. Antiarrhythmic drugs, such as digoxin, flecainide,
+sotalol, and dofetilide, used to treat atrial arrhythmias can produce unwanted ventricular arrhythmias
+(proarrhythmia).
+Chagas disease and other cardiomyopathies
+• Especially in developing countries, infectious diseases such as Chagas disease in Central America
+and other forms of cardiomyopathy (e.g., arrhythmogenic right ventricular cardiomyopathy) also
+contribute to the etiology of NSVT.[18]
+sleep-disordered breathing
+• Sleep-disordered breathing (SDB), including obstructive sleep apnea (OSA), central sleep apnea
+(CSA), and Cheyne-Stokes breathing, is associated with a two-fold higher odds of NSVT.[24] In
+patients with heart failure, OSA and CSA predict sleep-specific lethal ventricular tachyarrhythmias
+(VTA).[24] Screening and diagnostic testing for SDB and nocturnal hypoxia should be considered
+for patients with VTA.[24] Small trials suggest that treating OSA is associated with reduced VTA,
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 17 ===
+Nonsustained ventricular tachycardias Diagnosis
+particularly in heart failure patients; however, larger trials are required to assess whether treating OSA
+is beneficial.[24]
+Weak
+catecholaminergic polymorphic VT
+• Rare genetic condition that can cause syncope and result in sudden death. Mainly affects young
+children.
+family history of sudden death
+• Especially in a first-degree relative, family history of sudden death before 50 years of age should
+prompt search for potential arrhythmogenic causes. Genetic screening is available for common
+mutations associated with hypertrophic cardiomyopathy, long QT syndrome, Brugada syndrome and
+catecholaminergic polymorphic VT.
+mental or physical stress
+• Stress, either mental or physical, may trigger arrhythmias in patients with long QT syndrome type 1,
+catecholamine-sensitive VT, and certain idiopathic VTs arising from the ventricular outflow tracts. Most
+likely due to effects of increased sympathetic activation on ventricular myocardium.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+17
+=== Page 18 ===
+Nonsustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+Tests
+1st test to order
+Test Result
+ECG
+• Positive findings confirm the diagnosis of NSVT. Evidence of
+ischemic heart disease and left ventricular hypertrophy should be
+sought. Baseline ECG may demonstrate QT interval prolongation,
+evidence of Brugada syndrome, or arrhythmogenic right ventricular
+cardiomyopathy. T-wave inversion, although nonspecific, may suggest
+structural cardiac disease.[38]
+Nonsustained ventricular tachycardia
+From the collection of Dr F. Kusumoto; used with permission
+wide QRS complex (≥120
+milliseconds), rate >100
+bpm lasting for ≥3 beats,
+spontaneously resolving
+in <30 seconds
+electrolyte panel
+• Electrolyte abnormalities may trigger NSVT in patients with or without
+cardiac disease.[2]
+normal; hypokalemia,
+hyperkalemia, or
+hypomagnesemia
+troponin
+• Clinical suspicion for ischemia should prompt testing of myocardial
+biomarker assays, as they provide useful confirmatory information.
+may be elevated in
+myocardial infarction
+CK-MB
+• Clinical suspicion for ischemia should prompt testing of myocardial
+biomarker assays, as they provide useful confirmatory information.
+may be elevated in
+myocardial infarction
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 19 ===
+Nonsustained ventricular tachycardias Diagnosis
+Other tests to consider
+Test Result
+24-hour ambulatory ECG monitoring
+• Useful in selected patients to determine extent of arrhythmia burden.
+Also helps to establish whether correlation between NSVT and
+symptoms is required.
+• Can also be very useful for identifying presence of idiopathic
+sustained VTs, particularly those arising from the outflow tracts.
+frequency and severity of
+NSVT
+echocardiogram
+• Safe and inexpensive tool to evaluate for structural cardiac
+abnormalities such as valvular heart disease, which in advanced
+stages can cause NSVT and is treatable. Echocardiogram is also
+useful to quantify systolic function and detect the presence of an
+underlying cardiomyopathy.
+compromised left
+ventricular function;
+evidence of structural
+heart disease, or
+hypertrophic or idiopathic
+cardiomyopathy
+cardiac catheterization
+• May be appropriate early test for patients presenting with symptoms
+of myocardial infarction, because early reperfusion decreases overall
+prevalence of NSVT.[9] Also helpful in determining if patient has
+ischemic or nonischemic cardiac disease.
+may show coronary artery
+obstruction
+cardiac MRI with gadolinium
+• Useful in investigating patients with suspected structural cardiac
+disease. Particularly helpful in establishing the presence of
+arrhythmogenic right ventricular cardiomyopathy, especially wall
+motion abnormalities in the right ventricle. Guidelines recommend
+considering a cardiac MRI in patients with newly documented NSVT
+and suspected structural heart disease (other than coronary artery
+disease) after initial evaluation.[2]
+scar, fibrofatty infiltration
+of myocardium, other
+evidence of infiltrative
+cardiomyopathy
+electrophysiologic testing
+• Testing may provide important clues for the cause of wide complex
+tachycardias due to NSVT, especially in patients with no identifiable
+structural abnormalities on previous testing. Useful in patients after
+myocardial infarction including those with inducible VT and ejection
+fraction <40% and with ejection fraction <30% to 35% without
+inducible VT, especially if QRS is prolonged.[31] A useful diagnostic
+and therapeutic tool for selected patients with symptomatic NSVT,
+with idiopathic VTs, or where NSVT or frequent premature ventricular
+contractions are thought to be a cause of cardiomyopathy.
+distinguishes VT from
+SVT with aberration;
+establishes mechanism
+of VT in patients with
+apparently structurally
+normal heart
+stress testing
+• Useful in establishing the presence of coronary artery disease (CAD)
+in patients who have risk factors for CAD, but may be asymptomatic.
+The patient's pretest probability of CAD should be scored and
+used to guide the choice of investigations. Often stress testing with
+imaging (nuclear or echocardiogram) is required for more definitive
+identification of underlying ischemia.
+may show cardiac
+ischemia
+genetic screening
+• Consultation with a cardiologist or medical geneticist may be helpful
+in determining which patients would benefit most from genetic
+screening. Cascade genetic testing of family members may be
+warranted.[2] [23] [35] [36][37]
+may show mutations
+associated with
+long QT syndrome,
+Brugada syndrome,
+and catecholaminergic
+polymorphic VT
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+19
+=== Page 20 ===
+Nonsustained ventricular tachycardias Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+SVT with aberrant
+conduction
+• None • ECG, electrophysiologic
+study: failure to meet criteria
+for NSVT; absence of fusion
+capture beats; absence of
+atrioventricular dissociation.
+Electrical artifact • None • ECG: evidence of underlying
+sinus rhythm discernable
+through electrical noise
+(motion artifact).
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 21 ===
+Nonsustained ventricular tachycardias Management
+Approach
+NSVT is by definition a self-terminating event, and therefore usually no specific treatment is indicated.
+Rather, treatment is directed at any existing heart condition. Patients with underlying cardiac disease may
+need more aggressive therapy due to increased mortality risk. In contrast, no increase in mortality has been
+demonstrated in those patients without an associated cardiac condition; therefore, reassurance is usually
+sufficient.
+In asymptomatic patients, if investigations show that the NSVT is likely to be idiopathic (right ventricular
+outflow tract or fascicular origin, negative family history, normal 12-lead ECG and echocardiogram), and the
+NSVT/premature ventricular contraction (PVC) burden is less than 10%, the patient can be discharged and
+re-evaluated if they experience new symptoms or changes in their clinical condition.[2]
+Evaluation of nonsustained wide QRS tachycardia
+Created by BMJ Knowledge Centre.
+Modifiable risk factors for coronary artery disease should be addressed to prevent myocardial infarction
+(MI) and left ventricular dysfunction. Necessary medical therapy depending on the underlying condition
+should be undertaken first before more aggressive treatment such as an implantable device is considered. It
+should also be noted that, although there are international differences regarding the use of therapies such as
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+21
+=== Page 22 ===
+Nonsustained ventricular tachycardias Management
+MANAGEMENT
+implantable cardioverter defibrillators (ICDs), the guideline for the prevention of sudden cardiac death due to
+ventricular arrhythmias was developed jointly by European and US professional cardiology groups.[1]
+Symptomatic NSVT or >10% asymptomatic NSVT/PVC burden
+On the rare occasion that NSVT produces symptoms in the absence of cardiac disease, medication
+or catheter ablation may be required.[2] Symptom correlation with the NSVT is necessary and usually
+accomplished by ambulatory ECG monitoring. Medical treatment options for symptomatic or high-
+burden NSVT include beta-blockers or calcium-channel blockers (usually used when beta-blockers
+are contraindicated, e.g., asthma) as first-line therapy.[2] Catheter ablation may be considered early in
+the treatment course and has a high success rate, particularly with right ventricular outflow tract and
+fascicular origin NSVT, where it is recommended as first-line treatment.[2] Antiarrhythmics such as
+flecainide or propafenone may be used in patients who fail therapy with beta-blockers and/or calcium-
+channel blockers who are not candidates for catheter ablation or in whom catheter ablation is ineffective.
+Amiodarone should only be used if ablation or other medications fail or cannot be used, due to its
+toxicity.[2]
+The far more common clinical scenario requiring treatment is when NSVT is associated with a high
+burden of PVCs, and reduced left ventricular function is present. Frequent ventricular ectopy (NSVT
+and PVCs) can sometimes be a causal factor for reduced left ventricular function, or an important
+contributor.[39] The reasons for this are multifactorial but dyssynchronous left ventricular depolarization is
+an important mechanistic cause. Although a 10% PVC burden is often used clinically as the percentage
+of ventricular ectopy that may lead to left ventricular dysfunction, it is important to know that the burden
+of ventricular ectopy can have temporal variability, and extended monitoring may be required.[40] As
+a corollary, many patients with a PVC burden >10% will not develop left ventricular dysfunction, and
+in 44% of patients, PVCs will spontaneously resolve at 1 to 2 year follow-up, so treatment to reduce
+PVC burden should only be considered in an asymptomatic patient if left ventricular dysfunction is
+present.[41] However, in the setting of left ventricular dysfunction and persistent PVC burden >10%
+despite treatment of reversible conditions, a trial of antiarrhythmic drugs, or referral for catheter ablation,
+should be considered to determine whether left ventricular function improves with reduction in PVC
+burden.[1]
+Electrolyte disturbances
+Electrolyte abnormalities, most commonly hypokalemia, hyperkalemia, and hypomagnesemia, may trigger
+NSVT in patients with or without cardiac disease. These disturbances should be corrected as efficiently
+as possible.
+Chronic coronary artery disease (CAD)
+Patients with NSVT and CAD, combined with a decreased left ventricular ejection fraction (LVEF)
+(≤40%), are at high risk of death from cardiac causes.[1] [42] In these patients, medical therapy should
+be optimized and modifiable risk factors should be addressed, including weight management, physical
+activity, and smoking cessation. Electrophysiologic testing is indicated for risk stratification. In patients
+with sustained inducible VT, ICD implantation has been shown to reduce the risk of death and cardiac
+arrest independently of New York Heart Association class.[1][2] [42]
+Post-MI
+Early reperfusion decreases overall prevalence of NSVT following acute MI.[9] Optimization of medical
+therapy including beta-blockers, ACE inhibitors, antiplatelet therapy, and statins, reduces the risk of
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 23 ===
+Nonsustained ventricular tachycardias Management
+sudden cardiac death following acute MI.[43] [44] [45] [46] [47] [48] [49] In patients who have symptomatic
+NSVT following MI, amiodarone may be beneficial in reducing risk of sudden cardiac death.[50] However,
+several randomized trials have found that amiodarone is not associated with improved clinical outcomes.
+In addition, the many adverse effects associated with amiodarone limit its use in many clinical situations;
+therefore it is generally not used.
+Modifiable risk factors such as obesity and smoking should also be addressed with a carefully planned
+exercise, diet, and weight loss program to further reduce the incidence of sudden cardiac death.[51] [52]
+ICD is recommended for patients after MI with NSVT, ejection fraction (EF) ≤40% and inducible
+ventricular arrhythmias at electrophysiologic testing.[53] Routine early use of ICD is not
+recommended.[54]
+Heart failure after MI
+Medications such as beta-blockers, ACE inhibitors, and aldosterone receptor antagonists reduce overall
+mortality and incidence of sudden cardiac death in patients with heart failure.[48] [55] [56] [57] Diuretics
+have no effect on mortality and are usually indicated to help relieve symptoms of fluid overload.
+ICD is recommended for patients who are at least 40 days post-MI with class II/III heart failure, LVEF
+≤35%, and who have a reasonable expectation of meaningful survival for >1 year.[58] ICD is similarly
+indicated in patients with class I heart failure if LVEF is ≤30%.[58] Comorbid conditions that may attenuate
+the survival benefit of ICDs include chronic kidney disease, diabetes, peripheral vascular disease, and
+elevated BUN (27 to 50 mg/dL). It is important to note that the decision to implant an ICD is based on
+cardiac function and symptoms rather than the presence or absence of NSVT.[53]
+In some patients with heart failure, particularly those at risk for sudden cardiac death and who also have
+discordant contraction of left ventricular function, a cardiac resynchronization therapy (CRT) device can
+be used, usually in combination with an ICD (CRT-D).[59] The CRT device is designed to improve cardiac
+function by providing more coordinated contraction of the left ventricle. However, frequent episodes of
+NSVT or frequent PVCs can interfere with the normal function of the device.
+Idiopathic or hypertrophic cardiomyopathy
+ICD placement is recommended for patients with underlying idiopathic cardiomyopathy plus LVEF ≤35%
+and class II/III heart failure.[1] ICD is not indicated for patients with NSVT and idiopathic cardiomyopathy
+with good left ventricular function.
+European Society of Cardiology guidelines recommend that ICD placement be considered in patients with
+NSVT and cardiomyopathy who meet the following criteria:[2]
+• Dilated cardiomyopathy/hypokinetic nondilated cardiomyopathy, a pathogenic mutation in the LMNA
+gene, and a 5-year estimated risk of life-threatening ventricular arrhythmia of ≥10%.
+• Symptomatic arrhythmogenic right ventricular cardiomyopathy and moderate right ventricle (<40%)
+and/or left ventricle (<45%) dysfunction.
+NSVT is found on 24-hour ambulatory ECG monitoring in 20% to 25% of patients with hypertrophic
+cardiomyopathy (HCM), and is associated with increasing left ventricular wall thickness and late
+gadolinium enhancement on cardiac magnetic resonance imaging. The relationship between NSVT and
+HCM prognosis is not yet clear.[2]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+23
+=== Page 24 ===
+Nonsustained ventricular tachycardias Management
+MANAGEMENT
+ICD placement should be considered for patients with HCM who have one of the major risk factors
+for sudden cardiac death. Risk factors include sudden cardiac arrest, spontaneous sustained VT,
+unexplained syncope, family history of sudden cardiac death in a first-degree relative, ventricular septal
+wall thickness greater than 30 mm, NSVT on 24-hour ambulatory ECG monitoring, and hypotension in
+response to exercise. Other risk factors include atrial fibrillation, myocardial ischemia, left ventricular
+outflow tract obstruction, a high-risk mutation, and patients who compete in high-intensity physical
+exercises.[1] [2]
+If patients have an identified genetic mutation but there are no overt signs of the disease and no risk
+factors for sudden cardiac death, close observation is sufficient; activity restrictions are not required.[60]
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 25 ===
+Nonsustained ventricular tachycardias Management
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Ongoing ( summary )
+no cardiac comorbidity:
+asymptomatic and ≤10% NSVT/
+premature ventricular contraction
+(PVC) burden
+with electrolyte
+abnormality
+1st correction of electrolyte abnormality
+without electrolyte
+abnormality
+1st reassurance + self-monitoring
+no cardiac comorbidity:
+symptomatic NSVT or >10%
+asymptomatic NSVT/premature
+ventricular contraction (PVC) burden
+with electrolyte
+abnormality
+1st correction of electrolyte abnormality
+without electrolyte
+abnormality
+1st beta-blocker or calcium-channel blocker
+adjunct catheter ablation
+2nd antiarrhythmic
+chronic coronary artery disease
+(CAD)
+without heart failure 1st lifestyle modification
+plus optimization of medical therapy
+with heart failure 1st lifestyle modification
+plus antifailure therapy
+adjunct implantable cardioverter defibrillator (ICD)
+implantation
+post-myocardial infarction (MI)
+without heart failure 1st early reperfusion + optimization of
+medical therapy
+plus lifestyle modification
+with heart failure 1st early reperfusion + antifailure therapy
+plus lifestyle modification
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+25
+=== Page 26 ===
+Nonsustained ventricular tachycardias Management
+MANAGEMENT
+Ongoing ( summary )
+adjunct implantable cardioverter defibrillator (ICD)
+or cardiac resynchronization therapy plus
+ICD (CRT-D)
+idiopathic dilated or hypertrophic
+cardiomyopathy
+risk factors for sudden
+cardiac death
+1st implantable cardioverter defibrillator (ICD)
+left ventricular ejection
+fraction (LVEF) reduced
+1st implantable cardioverter defibrillator (ICD)
+left ventricular ejection
+fraction (LVEF) not
+reduced without risk
+factors for sudden
+cardiac death
+1st observation + monitoring
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 27 ===
+Nonsustained ventricular tachycardias Management
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Ongoing
+no cardiac comorbidity:
+asymptomatic and ≤10% NSVT/
+premature ventricular contraction
+(PVC) burden
+with electrolyte
+abnormality
+1st correction of electrolyte abnormality
+» Electrolyte abnormalities, most
+commonly hypokalemia, hyperkalemia, and
+hypomagnesemia, may trigger NSVT in
+patients with or without cardiac disease. These
+disturbances should be corrected as efficiently
+as possible.
+without electrolyte
+abnormality
+1st reassurance + self-monitoring
+» NSVT is by definition a self-terminating event,
+and therefore usually no specific treatment is
+indicated. Rather, treatment is directed at any
+existing heart condition.
+» If investigations show that the NSVT is likely
+to be idiopathic (right ventricular outflow tract or
+fascicular origin, negative family history, normal
+12-lead ECG and echocardiogram), and the
+NSVT/PVC burden is less than 10%, the patient
+can be discharged and re-evaluated if they
+experience new symptoms or changes in their
+clinical condition.[2]
+no cardiac comorbidity: symptomatic
+NSVT or >10% asymptomatic NSVT/
+premature ventricular contraction
+(PVC) burden
+with electrolyte
+abnormality
+1st correction of electrolyte abnormality
+» Electrolyte abnormalities, most
+commonly hypokalemia, hyperkalemia, and
+hypomagnesemia, may trigger NSVT in
+patients with or without cardiac disease. These
+disturbances should be corrected as efficiently
+as possible.
+without electrolyte
+abnormality
+1st beta-blocker or calcium-channel blocker
+Primary options
+» metoprolol tartrate: 50-200 mg/day orally
+(immediate-release) given in 2 divided doses
+OR
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+27
+=== Page 28 ===
+Nonsustained ventricular tachycardias Management
+MANAGEMENT
+Ongoing
+» atenolol: 25-100 mg orally once daily
+Secondary options
+» verapamil: 180-240 mg/day orally
+(immediate-release) given in 3-4 divided
+doses; 180-240 mg orally (extended-release)
+once daily
+OR
+» diltiazem: 90-360 mg/day orally (immediate-
+release) given in 3-4 divided doses; 90-360
+mg orally (extended-release) once daily
+» On the rare occasion that NSVT produces
+symptoms in the absence of cardiac disease,
+medication may be indicated.[2]
+» Symptom correlation with the NSVT is
+necessary and usually accomplished by
+ambulatory ECG monitoring.
+» The far more common clinical scenario
+requiring treatment is when NSVT is associated
+with a high burden of PVCs (>10%), and
+reduced left ventricular function is present.
+In this setting, a trial of antiarrhythmic drugs,
+or referral for catheter ablation, should be
+considered to determine whether left ventricular
+function improves with reduction in PVC
+burden.[1]
+» Beta-blockers (e.g., metoprolol, atenolol) or
+calcium-channel blockers (generally used when
+beta-blockers are contraindicated, e.g., asthma)
+are usually sufficient to control symptoms.
+adjunct catheter ablation
+Treatment recommended for SOME patients in
+selected patient group
+» Catheter ablation may be considered early in
+the treatment course and has a high success
+rate, particularly with right ventricular outflow
+tract and fascicular origin NSVT, where it is
+recommended as first-line treatment.[2] It
+should also be considered in the setting of left
+ventricular dysfunction and persistent PVC
+burden >10% despite treatment of reversible
+conditions.
+2nd antiarrhythmic
+Primary options
+» flecainide: 100-200 mg orally twice daily
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 29 ===
+Nonsustained ventricular tachycardias Management
+Ongoing
+OR
+» propafenone: 150-300 mg orally
+(immediate-release) three times daily
+» Antiarrhythmic agents such as flecainide or
+propafenone may be used in patients who fail
+therapy with beta-blockers and/or calcium-
+channel blockers who are not candidates for
+catheter ablation or in whom catheter ablation is
+ineffective.
+chronic coronary artery disease
+(CAD)
+without heart failure 1st lifestyle modification
+» Modifiable risk factors should be considered in
+all patients. These include weight management,
+dietary change, lipid lowering, increased physical
+activity, and smoking cessation.
+plus optimization of medical therapy
+Treatment recommended for ALL patients in
+selected patient group
+» Electrolyte abnormalities, most
+commonly hypokalemia, hyperkalemia, and
+hypomagnesemia, may trigger NSVT in
+patients with or without cardiac disease. These
+disturbances should be corrected as efficiently
+as possible.
+» Patients with underlying chronic CAD should
+be started on aspirin, which should be continued
+indefinitely. For patients with a contraindication
+to aspirin therapy, clopidogrel is a reasonable
+alternative.[61] [62]
+» Statins are at the core of lipid management
+and most patients should receive high-
+intensity treatment, with patients over 75 years
+recommended moderate-to-high-intensity statin
+treatment.[63]
+» In terms of antihypertensive therapy, US
+guidelines recommend that patients with stable
+ischemic heart disease should be treated to a
+target of less than 130/80 mmHg.[63] European
+guidelines recommend 120 to 130 mmHg
+for most patients with stable ischemic heart
+disease, with a higher target of 130 to 140
+mmHg for patients older than 65 years old.[64]
+» See Stable ischemic heart disease .
+with heart failure 1st lifestyle modification
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+29
+=== Page 30 ===
+Nonsustained ventricular tachycardias Management
+MANAGEMENT
+Ongoing
+» Patients with NSVT and CAD, combined with
+a decreased left ventricular ejection fraction
+(≤40%), are at high risk of death from cardiac
+causes.[1] [42] Modifiable risk factors should
+be addressed, including weight management,
+dietary change, increased physical activity,
+smoking cessation, and avoiding excessive
+dietary sodium intake.[58]
+plus antifailure therapy
+Treatment recommended for ALL patients in
+selected patient group
+» Medications such as beta-blockers, ACE
+inhibitors, aldosterone receptor antagonists,
+aspirin, and statins reduce overall mortality
+and incidence of sudden cardiac death in
+patients with heart failure.[48] [55] [56][57]
+ Angiotensin-II receptor antagonists can be used
+as an alternative in patients intolerant of ACE
+inhibitors.
+» Diuretics have no effect on mortality and are
+usually indicated to help relieve symptoms of
+fluid overload.
+» A sodium-glucose cotransporter 2 (SGLT2)
+inhibitor (e.g., dapagliflozin, empagliflozin) is
+recommended, in addition to optimal medical
+therapy, for patients with heart failure with
+reduced ejection fraction, regardless of diabetes
+status.[58] [65] There is limited evidence for its
+use in patients with renal impairment.
+» Electrolyte abnormalities, most
+commonly hypokalemia, hyperkalemia, and
+hypomagnesemia, may trigger NSVT in
+patients with or without cardiac disease. These
+disturbances should be corrected as efficiently
+as possible.
+» See Chronic heart failure , Acute heart failure .
+adjunct implantable cardioverter defibrillator (ICD)
+implantation
+Treatment recommended for SOME patients in
+selected patient group
+» Electrophysiologic testing is indicated for
+risk stratification. In patients with sustained
+inducible VT, ICD implantation has been shown
+to reduce the risk of death and cardiac arrest
+independently of New York Heart Association
+class.[1][2] [42]
+post-myocardial infarction (MI)
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 31 ===
+Nonsustained ventricular tachycardias Management
+Ongoing
+without heart failure 1st early reperfusion + optimization of
+medical therapy
+» Early reperfusion decreases overall prevalence
+of NSVT following acute MI.[9]
+» Optimization of medical therapy including beta-
+blockers, ACE inhibitors, antiplatelet therapy, and
+statins, reduces the risk of sudden cardiac death
+following acute MI.[43] [44] [45] [46] [47] [48] [49]
+» Electrolyte abnormalities, most
+commonly hypokalemia, hyperkalemia, and
+hypomagnesemia, may trigger NSVT in
+patients with or without cardiac disease. These
+disturbances should be corrected as efficiently
+as possible.
+» See Non-ST-elevation myocardial infarction
+, ST-elevation myocardial infarction .
+plus lifestyle modification
+Treatment recommended for ALL patients in
+selected patient group
+» Modifiable risk factors such as obesity and
+smoking should be addressed with a carefully
+planned exercise, diet, and weight loss program
+to further reduce the incidence of sudden cardiac
+death.[51] [52]
+with heart failure 1st early reperfusion + antifailure therapy
+» Early reperfusion decreases overall prevalence
+of NSVT following acute MI.[9]
+» Medications such as beta-blockers, ACE
+inhibitors, aldosterone receptor antagonists,
+aspirin, and statins reduce overall mortality
+and incidence of sudden cardiac death in
+patients with heart failure.[48] [55] [56][57]
+ Angiotensin-II receptor antagonists can be used
+as an alternative in patients intolerant of ACE
+inhibitors.
+» Diuretics have no effect on mortality and are
+usually indicated to help relieve symptoms of
+fluid overload.
+» Electrolyte abnormalities, most
+commonly hypokalemia, hyperkalemia, and
+hypomagnesemia, may trigger NSVT in
+patients with or without cardiac disease. These
+disturbances should be corrected as efficiently
+as possible.
+» See Non-ST-elevation myocardial infarction
+, ST-elevation myocardial infarction , Chronic
+heart failure , Acute heart failure . 
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+31
+=== Page 32 ===
+Nonsustained ventricular tachycardias Management
+MANAGEMENT
+Ongoing
+plus lifestyle modification
+Treatment recommended for ALL patients in
+selected patient group
+» Modifiable risk factors such as obesity and
+smoking should be addressed with a carefully
+planned exercise, diet, and weight loss program
+to further reduce the incidence of sudden cardiac
+death.[51] [52]
+adjunct implantable cardioverter defibrillator (ICD)
+or cardiac resynchronization therapy plus
+ICD (CRT-D)
+Treatment recommended for SOME patients in
+selected patient group
+» ICD is recommended for patients who are
+at least 40 days post-MI with class II/III heart
+failure, left ventricular ejection fraction (LVEF)
+≤35%, and who have a reasonable expectation
+of meaningful survival for >1 year.[58] ICD is
+similarly indicated in patients with class I heart
+failure if LVEF is ≤30%.[58]
+» Comorbid conditions that may attenuate the
+survival benefit of ICDs include chronic kidney
+disease, diabetes, peripheral vascular disease,
+and elevated BUN (27 to 50 mg/dL).
+» It is important to note that the decision to
+implant an ICD is based on cardiac function and
+symptoms rather than the presence or absence
+of NSVT.[53]
+» In some patients with heart failure, particularly
+those at risk for sudden cardiac death and
+who also have discordant contraction of left
+ventricular function, a cardiac resynchronization
+therapy (CRT) device can be used, usually in
+combination with an ICD (CRT-D).[59] The CRT
+device is designed to improve cardiac function
+by providing more coordinated contraction of
+the left ventricle. However, frequent episodes
+of NSVT or frequent premature ventricular
+contractions can interfere with the normal
+function of the device.
+idiopathic dilated or hypertrophic
+cardiomyopathy
+risk factors for sudden
+cardiac death
+1st implantable cardioverter defibrillator (ICD)
+» ICD placement should be considered for
+patients with hypertrophic cardiomyopathy
+and one of the major risk factors for sudden
+cardiac death including sudden cardiac arrest,
+spontaneous sustained VT, unexplained
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 33 ===
+Nonsustained ventricular tachycardias Management
+Ongoing
+syncope, family history of sudden cardiac death
+in a first-degree relative, ventricular septal wall
+thickness >30 mm, NSVT on 24-hour ambulatory
+ECG monitoring, and hypotension in response
+to exercise. Other risk factors include atrial
+fibrillation, myocardial ischemia, left ventricular
+outflow obstruction, a high-risk mutation, and
+patients who compete in high-intensity physical
+exercises.[1]
+» European Society of Cardiology guidelines
+recommend considering ICD placement in
+patients with: NSVT and dilated cardiomyopathy/
+hypokinetic nondilated cardiomyopathy, a
+pathogenic mutation in the LMNA gene, and a 5-
+year estimated risk of life-threatening ventricular
+arrhythmia of ≥10%.[2]
+» See Hypertrophic cardiomyopathy .
+left ventricular ejection
+fraction (LVEF) reduced
+1st implantable cardioverter defibrillator (ICD)
+» ICD placement is recommended for all patients
+with underlying idiopathic cardiomyopathy
+plus ejection fraction ≤35% and class II/III
+heart failure. For patients with LVEF ≤35% and
+class I heart failure, ICD placement should be
+considered.[1]
+» European Society of Cardiology guidelines
+recommend considering ICD placement
+in patients with NSVT and symptomatic
+arrhythmogenic right ventricular cardiomyopathy
+with moderate right ventricle (<40%) and/or left
+ventricle (<45%) dysfunction.[2]
+» See Hypertrophic cardiomyopathy .
+left ventricular ejection
+fraction (LVEF) not
+reduced without risk
+factors for sudden
+cardiac death
+1st observation + monitoring
+» Close observation, but no activity restriction
+is recommended for patients with hypertrophic
+cardiomyopathy with identified genetic mutations
+but no overt signs of disease or major risk
+factors for sudden cardiac death.[60]
+» Implantable cardioverter defibrillator is not
+indicated for patients with NSVT and idiopathic
+cardiomyopathy with good left ventricular
+function.
+» See Hypertrophic cardiomyopathy .
+Primary prevention
+Primary prevention is best accomplished by addressing risk factors for conditions that predispose to NSVT
+such as coronary artery disease and depressed left ventricular systolic dysfunction. Hypertension and
+hyperlipidemia should be managed aggressively and smoking cessation should be strongly pursued. Regular
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+33
+=== Page 34 ===
+Nonsustained ventricular tachycardias Management
+MANAGEMENT
+physical activity may reduce the risk of ventricular arrhythmias by 11% to 22%.[30] Additional preventive
+measures include treatment of systolic dysfunction with medications such as ACE inhibitors/angiotensin
+receptor blockers, beta-blockers, and aldosterone antagonists.
+Patients with diagnosed hypertrophic cardiomyopathy, idiopathic dilated cardiomyopathy, arrhythmogenic
+right ventricular cardiomyopathy, Brugada syndrome, and long QT syndrome should avoid strenuous physical
+exertion, as exercise can provoke NSVT (or other arrhythmias) in these populations.
+A prophylactic implantable cardioverter defibrillator (ICD) should be considered for patients at risk for sudden
+cardiac death due to sustained ventricular arrhythmias. Although the presence of NSVT may be a useful risk
+factor for estimating risk in certain conditions, generally the decision on whether an ICD is implanted is based
+on multiple considerations such as age, family history, the presence of symptoms such as syncope, and the
+extent of structural heart disease present.
+Secondary prevention
+Patient compliance with medications prescribed for treatment of the underlying cardiac disease is essential.
+Factors that may trigger episodes of arrhythmia should also be avoided (e.g., mental or physical stress, or
+electrolyte imbalance). It is useful to note that caffeine has not been demonstrated to alter the inducibility or
+severity of ventricular arrhythmias.[75]
+Patient discussions
+The importance of medication compliance should be stressed. Patients should be advised to contact their
+physician if they begin to experience palpitations, presyncope, syncope, or chest pains. These symptoms
+may indicate worsening of the underlying cardiac disease or increased frequency of arrhythmia.
+Side effects of medications used to treat an associated cardiac condition should be reviewed with
+the patient. Patients should be instructed to alert their physician concerning implantable cardioverter
+defibrillator shocks or evidence of device infection (erythema, tenderness, or drainage from the device
+site).
+In addition, patients should be advised to avoid factors that may trigger episodes of arrhythmia such as
+mental or physical stress and dehydration (may cause electrolyte abnormalities). It is useful to mention
+that caffeine has not been demonstrated to alter the inducibility or severity of ventricular arrhythmias.[75]
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 35 ===
+Nonsustained ventricular tachycardias Follow up
+Monitoring
+Monitoring
+Patients should routinely visit their physician. If appropriate, medical and/or implantable cardioverter
+defibrillator (ICD) therapy should be initiated and maintained as clinically indicated based on the
+underlying cardiac disease. Certain drugs may require specific follow-up to monitor for effectiveness and/
+or toxicity (e.g., beta-blockers, calcium-channel blockers, flecainide, and propafenone).
+A cardiologist should also evaluate the patient for potential treatment options and risk stratification as the
+natural course of the underlying cardiac disease progresses. Although patients implanted with ICDs can
+be routinely checked by remote telemetry every 3 months, if the device delivers a shock or the patient
+experiences tachycardia, immediate follow-up should be arranged.
+Complications
+Complications Timeframe Likelihood
+sudden cardiac death variable low
+Patients with increased risk include those with left ventricular dysfunction, history of MI, spontaneous
+sustained ventricular tachycardia (VT), unexplained syncope, family history of sudden cardiac death,
+left ventricular thickness >30 mm or abnormal exercise BP. Appropriate treatment of underlying cardiac
+disease including medical management, early reperfusion after MI, and implantable cardioverter
+defibrillator (ICD) may be helpful in decreasing incidence.
+cardiomyopathy variable low
+Tachycardia-induced cardiomyopathy can occur in the setting of frequent or incessant NSVT episodes.
+This complication may be reversed through medical management with medications and/or catheter
+ablation.[70] [71] [72] [73]
+ICD-related infection variable low
+Most often arises from a bacterial infection along the intravascular portion of the leads or in the generator
+pocket. May also be due to a bloodstream infection arising from a distant infectious focus or bacterial
+entry via the skin, mouth, gastrointestinal, or urinary tract. Gram-positive bacteria are most commonly
+implicated, particularly  Staphylococcus aureus . Patients at greatest risk include those with diabetes, skin
+disorders, end-stage renal disease, and those taking oral anticoagulants. Removal of the ICD system and
+a course of antibiotics are usually required for treatment.[74]
+ventricular fibrillation variable low
+Re-entrant rhythms near scar tissue may result in sustained VT, which can subsequently progress to
+ventricular fibrillation, which has a high mortality rate.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+35
+=== Page 36 ===
+Nonsustained ventricular tachycardias Follow up
+FOLLOW UP
+Prognosis
+The significance and prognosis of NSVT in patients is highly dependent on presence and severity of
+underlying cardiac disease. In patients without evidence of ischemia or structural heart disease, NSVT has
+not been found to adversely influence prognosis.[14] [15] Meanwhile, patients with ischemic or nonischemic
+cardiac disease may require lifelong medical therapy with medications, catheter ablation, and/or implantable
+cardioverter defibrillator (ICD) placement.
+Exercise-induced NSVT
+In asymptomatic, apparently healthy people, NSVT observed during exercise was previously thought to be
+a normal response to exertion, but some studies suggest that it may predict coronary artery disease.[4] In
+addition, exercise-induced NSVT should arouse suspicion for the presence of a significant problem such as
+catecholaminergic polymorphic ventricular tachycardia.
+NSVT in apparently healthy people
+Most commonly, the tachycardia originates from the right ventricular outflow tract and may cause symptoms
+including palpitations and presyncope, but the risk of death is very low.[25] [69] Tachycardia-induced
+cardiomyopathy can occur in the setting of frequent or incessant NSVT episodes. Genetic arrhythmias and
+occult cardiomyopathy may appear later in life, and long-term follow-up may be indicated.
+Ischemic and nonischemic NSVT
+In the setting of known cardiac disease, prognosis is based on risk stratification with extent of left ventricular
+dysfunction playing a pivotal role. Early reperfusion in the setting of myocardial infarction decreases the
+overall prevalence of NSVT, and in high-risk patients who meet accepted criteria, ICD implantation allows for
+continuous monitoring and long-term therapy, with evidence suggesting decreased risk of mortality.[9] [10]
+[11]
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 37 ===
+Nonsustained ventricular tachycardias Guidelines
+Diagnostic guidelines
+International
+2017 AHA/ACC/HRS guideline for management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+professional.heart.org/en/guidelines-and-statements)   [1]
+Published by: American College of Cardiology; American Heart
+Association; Heart Rhythm Society
+Last published: 2017
+Update to practice standards for electrocardiographic monitoring in hospital
+settings: a scientific statement from the American Heart Association (https://
+professional.heart.org/en/guidelines-and-statements)   [38]
+Published by: American Heart Association Last published: 2017
+Scientific statement on noninvasive risk stratification techniques
+for identifying patients at risk for sudden cardiac death (https://
+professional.heart.org/en/guidelines-and-statements)   [31]
+Published by: American Heart Association; American College of
+Cardiology; Heart Rhythm Society
+Last published: 2008
+2014 EHRA/HRS/APHRS expert consensus on ventricular arrhythmias (https://
+www.hrsonline.org/guidance/clinical-resources)   [34]
+Published by: European Heart Rhythm Association; Heart Rhythm
+Society; Asia Pacific Heart Rhythm Society
+Last published: 2014
+2022 ESC guideline for the management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+www.escardio.org/Guidelines)   [2]
+Published by: European Society of Cardiology Last published: 2022
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+37
+=== Page 38 ===
+Nonsustained ventricular tachycardias Guidelines
+GUIDELINES
+Treatment guidelines
+International
+2022 AHA/ACC/HFSA guideline for the management of heart failure (https://
+professional.heart.org/en/guidelines-and-statements)   [58]
+Published by: American Heart Association; American College of
+Cardiology; Heart Failure Society of America
+Last published: 2022
+2017 AHA/ACC/HRS guideline for management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+professional.heart.org/en/guidelines-and-statements)   [1]
+Published by: American College of Cardiology; American Heart
+Association; Heart Rhythm Society
+Last published: 2017
+HRS/ACC/AHA expert consensus statement on the use of implantable
+cardioverter-defibrillator therapy in patients who are not included or not well
+represented in clinical trials (https://professional.heart.org/en/guidelines-
+and-statements)   [66]
+Published by: Heart Failure Society of America; American College of
+Cardiology; American Heart Association
+Last published: 2014
+2012 ACCF/AHA/HRS focused update of the 2008 guidelines for device-based
+therapy of cardiac rhythm abnormalities (https://professional.heart.org/en/
+guidelines-and-statements)   [67]
+Published by: American College of Cardiology; American Heart
+Association; Heart Rhythm Society
+Last published: 2012
+2019 HRS/EHRA/APHRS/LAHRS expert consensus statement on catheter
+ablation of ventricular arrhythmias (https://www.hrsonline.org/guidance/
+clinical-resources)   [68]
+Published by: Heart Rhythm Society; European Heart Rhythm
+Association; Asia Pacific Heart Rhythm Society; Latin American Heart
+Rhythm Society
+Last published: 2019
+2014 EHRA/HRS/APHRS expert consensus on ventricular arrhythmias (https://
+www.hrsonline.org/guidance/clinical-resources)   [34]
+Published by: European Heart Rhythm Association; Heart Rhythm
+Society; Asia Pacific Heart Rhythm Society
+Last published: 2014
+2022 ESC guideline for the management of patients with ventricular
+arrhythmias and the prevention of sudden cardiac death (https://
+www.escardio.org/Guidelines)   [2]
+Published by: European Society of Cardiology Last published: 2022
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 39 ===
+Nonsustained ventricular tachycardias References
+Key articles
+• Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management
+of patients with ventricular arrhythmias and the prevention of sudden cardiac death. Circulation. 2018
+Sep 25;138(13):e272-e391.  Full text (https://www.doi.org/10.1161/CIR.0000000000000549)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29084731?tool=bestpractice.bmj.com)
+• Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC Guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://academic.oup.com/eurheartj/article/43/40/3997/6675633?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+• Katritsis DG, Zareba W, Camm AJ. Nonsustained ventricular tachycardia. J Am Coll Cardiol. 2012 Nov
+13;60(20):1993-2004.  Full text (http://www.sciencedirect.com/science/article/pii/S0735109712042258)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23083773?tool=bestpractice.bmj.com)
+• Goldberger JJ, Cain ME, Hohnloser SH, et al. American Heart Association/American College of
+Cardiology/Heart Rhythm Society scientific statement on noninvasive risk stratification techniques for
+identifying patients at risk for sudden cardiac death: a scientific statement from the American Heart
+Association Council on Clinical Cardiology Committee on Electrocardiography and Arrhythmias and
+Council on Epidemiology and Prevention. Circulation. 2008 Sep 30;118(14):1497-1518. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/18833586?tool=bestpractice.bmj.com)
+• Epstein AE, DiMarco JP, Ellenbogen KA, et al. ACC/AHA/HRS 2008 guidelines for device-
+based therapy of cardiac rhythm abnormalities: executive summary. Circulation. 2008
+Jun;117(6):e350-408.  Full text (http://circ.ahajournals.org/cgi/content/full/117/21/e350)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/18483207?tool=bestpractice.bmj.com)
+References
+1. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management
+of patients with ventricular arrhythmias and the prevention of sudden cardiac death. Circulation. 2018
+Sep 25;138(13):e272-e391.  Full text (https://www.doi.org/10.1161/CIR.0000000000000549)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/29084731?tool=bestpractice.bmj.com)
+2. Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC Guidelines for the management of patients
+with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022 Oct
+21;43(40):3997-4126.  Full text (https://academic.oup.com/eurheartj/article/43/40/3997/6675633?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36017572?tool=bestpractice.bmj.com)
+3. Nathani P, Shetty S, Lokhandwala Y. Ventricular tachycardia in structurally normal hearts:
+recognition and management. J Assoc Physicians India. 2007 Apr;55(suppl):33-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18368865?tool=bestpractice.bmj.com)
+4. Jouven X, Zureik M, Desnos M, et al. Long-term outcome in asymptomatic men with exercise-
+induced premature ventricular depolarizations. N Engl J Med. 2000 Sep 21;343(21):826-33.  Full
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+39
+=== Page 40 ===
+Nonsustained ventricular tachycardias References
+REFERENCES
+text (http://content.nejm.org/cgi/content/full/343/12/826)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10995861?tool=bestpractice.bmj.com)
+5. Tsai C, Chen S, Tai C, et al. Idiopathic monomorphic ventricular tachycardia: clinical outcome
+electrophysiologic characteristics and long-term results of catheter ablation. Int J Cardiol. 1997 Nov
+20;62(2):143-50. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9431865?tool=bestpractice.bmj.com)
+6. Waldo A, Akhtar M, Brugada P, et al. The minimally appropriate electrophysiologic study for the
+initial assessment of patients with documented sustained polymorphic ventricular tachycardia. J
+Am Coll Cardiol. 1985 Nov;6(5):1174-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/4045043?
+tool=bestpractice.bmj.com)
+7. Kostis JB, McCrone K, Moreya AE, et al. Premature ventricular complexes in the absence
+of identifiable heart disease. Circulation. 1981 Jun;63(6):1351-6.  Full text (http://
+circ.ahajournals.org/cgi/reprint/63/6/1351)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7226480?
+tool=bestpractice.bmj.com)
+8. Fleg JL, Kennedy HL. Long-term prognostic significance of ambulatory electrocardiographic findings
+in apparently healthy subjects greater than or equal to 60 years of age. Am J Cardiol. 1992 Sep
+15;70(7):748-51. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1381549?tool=bestpractice.bmj.com)
+9. Maggioni AP, Zuanetti G, Franzosi MG, et al. Prevalence and prognostic significance of ventricular
+arrhythmias after acute myocardial infarction in the fibrinolytic era. Circulation. 1993 Feb;87(2):312-22. 
+Full text (http://circ.ahajournals.org/cgi/reprint/87/2/312)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/8093865?tool=bestpractice.bmj.com)
+10. Bigger JT Jr, Fleiss JL, Kleiger R, et al. The relationships among ventricular arrhythmias, left
+ventricular dysfunction, and mortality in the 2 years after myocardial infarction. Circulation. 1984
+Feb;69(2):250-8.  Full text (http://circ.ahajournals.org/cgi/reprint/69/2/250)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/6690098?tool=bestpractice.bmj.com)
+11. Kostis JB, Byington R, Friedman LM, et al. Prognostic significance of ventricular ectopic activity in
+survivors of acute myocardial infarction. J Am Coll Cardiol. 1987 Aug;10(2):231-42. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2439559?tool=bestpractice.bmj.com)
+12. Katritsis DG, Siontis GC, Camm AJ. Prognostic significance of ambulatory ECG monitoring
+for ventricular arrhythmias. Prog Cardiovasc Dis. 2013 Seo-Oct;56(2):133-42. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24215745?tool=bestpractice.bmj.com)
+13. Chen T, Koene R, Benditt DG, et al. Ventricular ectopy in patients with left ventricular dysfunction:
+should it be treated? J Card Fail. 2013 Jan;19(1):40-9.  Full text (http://www.onlinejcf.com/article/
+S1071-9164(12)01335-8/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23273593?
+tool=bestpractice.bmj.com)
+14. Kennedy HL, Whitlock JA, Sprague MK, et al. Long-term follow-up of asymptomatic healthy subjects
+with frequent and complex ventricular ectopy. N Engl J Med. 1985 Jan 24;312(4):193-7. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/2578212?tool=bestpractice.bmj.com)
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 41 ===
+Nonsustained ventricular tachycardias References
+15. Montague TJ, McPherson DD, MacKenzie BR, et al. Frequent ventricular ectopic activity without
+underlying cardiac disease: analysis of 45 subjects. Am J Cardiol. 1983 Nov 1;52(8):980-4. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/6195910?tool=bestpractice.bmj.com)
+16. Crosson JE, Callans DJ, Bradley DJ, et al. PACES/HRS expert consensus statement on the
+evaluation and management of ventricular arrhythmias in the child with a structurally normal heart.
+Heart Rhythm. 2014 Sep:11(9);e55-78. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24814375?
+tool=bestpractice.bmj.com)
+17. Katritsis DG, Zareba W, Camm AJ. Nonsustained ventricular tachycardia. J Am Coll Cardiol. 2012 Nov
+13;60(20):1993-2004.  Full text (http://www.sciencedirect.com/science/article/pii/S0735109712042258)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23083773?tool=bestpractice.bmj.com)
+18. Cubillos-Garzon LA, Casas JP, Morillo CA, et al. Congestive heart failure in Latin America:
+the next epidemic. Am Heart J. 2004 Mar;147(3):412-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/14999188?tool=bestpractice.bmj.com)
+19. Grimm W, Christ M, Bach J, et al. Noninvasive arrhythmia risk stratification in idiopathic
+dilated cardiomyopathy: results of the Marburg cardiomyopathy study. Circulation. 2003 Dec
+9;108(23):2883-91.  Full text (http://circ.ahajournals.org/cgi/content/full/108/23/2883)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/14623812?tool=bestpractice.bmj.com)
+20. Kligfield, P, Hochreiter C, Niles N, et al. Relation of sudden death in pure mitral regurgitation, with and
+without mitral valve prolapse, to repetitive left ventricular arrhythmias and right and left ventricular
+ejection fractions. Am J Cardiol. 1987 Aug 1;60(4):397-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/3618505?tool=bestpractice.bmj.com)
+21. Wolfe RR, Driscoll DJ, Gersony WM, et al. Arrhythmias in patients with valvar aortic stenosis,
+valvar pulmonary stenosis, and ventricular septal defect: results of 24-hour ECG monitoring.
+Circulation. 1993 Feb;87(2 Suppl):I89-101. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8425327?
+tool=bestpractice.bmj.com)
+22. Shimizu W. The long QT syndrome: therapeutic implications of a genetic diagnosis. Cardiovasc Res.
+2005 Aug 15;67(3):347-56.  Full text (http://cardiovascres.oxfordjournals.org/content/67/3/347.full)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15979599?tool=bestpractice.bmj.com)
+23. Lehnart SE, Ackerman MJ, Benson DW Jr, et al. Inherited arrhythmias: a National Heart, Lung,
+and Blood Institute and Office of Rare Diseases workshop consensus report about the diagnosis,
+phenotyping, molecular mechanisms, and therapeutic approaches for primary cardiomyopathies of
+gene mutations affecting ion channel function. Circulation. 2007 Nov 13;116(20):2325-45. [Erratum in:
+Circulation. 2008 Aug 9;118(8):e132.]  Full text (http://circ.ahajournals.org/content/116/20/2325.full)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17998470?tool=bestpractice.bmj.com)
+24. Mehra R, Chung MK, Olshansky B, et al. Sleep-disordered breathing and cardiac arrhythmias
+in adults: mechanistic insights and clinical implications: a scientific statement from the American
+Heart Association. Circulation. 2022 Aug 30;146(9):e119-36.  Full text (https://www.ahajournals.org/
+doi/10.1161/CIR.0000000000001082?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+41
+=== Page 42 ===
+Nonsustained ventricular tachycardias References
+REFERENCES
+%20%200pubmed)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35912643?
+tool=bestpractice.bmj.com)
+25. Kim RJ, Iwai S, Markowitz SM, et al. Clinical and electrophysiological spectrum of idiopathic
+ventricular outflow tract arrhythmias. J Am Coll Cardiol. 2007 May 22;49(20):2035-43. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17512360?tool=bestpractice.bmj.com)
+26. Bos JM, Ommen SR, Ackerman MJ. Genetics of hypertrophic cardiomyopathy: one, two, or
+more diseases. Curr Opin Cardiol. 2007 May;22(3):193-9. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17413275?tool=bestpractice.bmj.com)
+27. Schwartz PJ, Priori SG, Spazzolini C, et al. Genotype-phenotype correlation in the long-QT syndrome:
+gene-specific triggers for life-threatening arrhythmias. Circulation. 2001 Jan 2;103(1):89-95. 
+Full text (http://circ.ahajournals.org/content/103/1/89.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11136691?tool=bestpractice.bmj.com)
+28. Baker RL, Koelling TM. Prognostic value of ambulatory electrocardiography monitoring in patients with
+dilated cardiomyopathy. J Electrocardiol. 2005 Jan;38(1):64-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15660350?tool=bestpractice.bmj.com)
+29. Iacoviello M, Forleo C, Guida P, et al. Ventricular repolarization dynamicity provides independent
+prognostic information toward major arrhythmic events in patients with dilated cardiomyopathy. J Am
+Coll Cardiol. 2007 Jul 17;50(3):225-31. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17631214?
+tool=bestpractice.bmj.com)
+30. Elliott AD, Linz D, Mishima R, et al. Association between physical activity and risk of incident
+arrhythmias in 402 406 individuals: evidence from the UK Biobank cohort. Eur Heart J. 2020 Apr
+14;41(15):1479-86.  Full text (https://academic.oup.com/eurheartj/article/41/15/1479/5709157?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31951255?tool=bestpractice.bmj.com)
+31. Goldberger JJ, Cain ME, Hohnloser SH, et al. American Heart Association/American College of
+Cardiology/Heart Rhythm Society scientific statement on noninvasive risk stratification techniques for
+identifying patients at risk for sudden cardiac death: a scientific statement from the American Heart
+Association Council on Clinical Cardiology Committee on Electrocardiography and Arrhythmias and
+Council on Epidemiology and Prevention. Circulation. 2008 Sep 30;118(14):1497-1518. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/18833586?tool=bestpractice.bmj.com)
+32. Svennberg E, Tjong F, Goette A, et al. How to use digital devices to detect and manage arrhythmias:
+an EHRA practical guide. Europace. 2022 Jul 15;24(6):979-1005.  Full text (https://academic.oup.com/
+europace/article/24/6/979/6561927)
+33. Wellens HJ, Brugada P. Diagnosis of ventricular tachycardia from the 12-lead electrocardiogram.
+Cardiol Clin. 1987 Sep;5(3):511-25. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3690604?
+tool=bestpractice.bmj.com)
+34. Pedersen CT, Kay GN, Kalman J, et al. EHRA/HRS/APHRS expert consensus on ventricular
+arrhythmias. Europace. 2014 Sep;16(9):1257-83.  Full text (https://academic.oup.com/europace/
+article/16/9/1257/856810)
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 43 ===
+Nonsustained ventricular tachycardias References
+35. Musunuru K, Hershberger RE, Day SM, et al. Genetic testing for inherited cardiovascular
+diseases: a scientific statement from the American Heart Association. Circ Genom Precis
+Med. 2020 Aug;13(4):e000067.  Full text (https://www.ahajournals.org/doi/reader/10.1161/
+HCG.0000000000000067)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32698598?
+tool=bestpractice.bmj.com)
+36. Wilde AAM, Semsarian C, Márquez MF, et al. European Heart Rhythm Association (EHRA)/
+Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart
+Rhythm Society (LAHRS) expert consensus statement on the state of genetic testing for cardiac
+diseases. Europace. 2022 Sep 1;24(8):1307-67.  Full text (https://academic.oup.com/europace/
+article/24/8/1307/6562982)
+37. Arbelo E, Protonotarios A, Gimeno JR, et al. 2023 ESC guidelines for the management of
+cardiomyopathies. Eur Heart J. 2023 Oct 1;44(37):3503-626.  Full text (https://academic.oup.com/
+eurheartj/article/44/37/3503/7246608)
+38. Sandau KE, Funk M, Auerbach A, et al. Update to practice standards for electrocardiographic
+monitoring in hospital settings: a scientific statement from the American Heart Association. Circulation.
+2017 Nov 7;136(19):e273-e344.  Full text (https://www.doi.org/10.1161/CIR.0000000000000527)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28974521?tool=bestpractice.bmj.com)
+39. Gorenek B, Fisher JD, Kudaiberdieva G, et al. Premature ventricular complexes: diagnostic and
+therapeutic considerations in clinical practice : A state-of-the-art review by the American College of
+Cardiology Electrophysiology Council. J Interv Card Electrophysiol. 2020 Jan;57(1):5-26. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/31828560?tool=bestpractice.bmj.com)
+40. Mullis AH, Ayoub K, Shah J, et al. Fluctuations in premature ventricular contraction burden can affect
+medical assessment and management. Heart Rhythm. 2019 Oct;16(10):1570-74. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31004780?tool=bestpractice.bmj.com)
+41. Lee AKY, Andrade J, Hawkins NM, et al. Outcomes of untreated frequent premature ventricular
+complexes with normal left ventricular function. Heart. 2019 Sep;105(18):1408-13. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31142596?tool=bestpractice.bmj.com)
+42. Buxton AE, Lee KL, Fisher JD, et al. A randomized study of the prevention of sudden death in patients
+with coronary artery disease. Multicenter Unsustained Tachycardia Trial Investigators. N Engl J Med.
+1999 Dec 16;341(25):1882-90.  Full text (https://www.nejm.org/doi/10.1056/NEJM199912163412503?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10601507?tool=bestpractice.bmj.com)
+43. Long-Term Intervention with Pravastatin in Ischemic Disease (LIPID) Study Group. Prevention
+of cardiovascular events and death with pravastatin in patients with coronary heart disease and
+a broad range of initial cholesterol levels. N Engl J Med. 1998 Nov 5;339(19):1349-57.  Full text
+(http://content.nejm.org/cgi/content/full/339/19/1349)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9841303?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+43
+=== Page 44 ===
+Nonsustained ventricular tachycardias References
+REFERENCES
+44. Levantesi G, Scarano M, Marfisi R, et al. Metaanalysis of effect of statin treatment on risk of
+sudden death. Am J Cardiol. 2007 Dec 1;100(11):1644-50. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18036362?tool=bestpractice.bmj.com)
+45. Norwegian Multicenter Study Group. Timolol-induced reduction in mortality and reinfarction in patients
+surviving acute myocardial infarction. N Engl J Med. 1981 Apr 2;304(14):801-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7010157?tool=bestpractice.bmj.com)
+46. Beta Blocker Heart Attack Trial Research Group. A randomized trial of propranolol in patients with
+acute myocardial infarction. I: mortality results. JAMA. 1982 Mar 26;247(12):1707-14. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/7038157?tool=bestpractice.bmj.com)
+47. Makikallio TH, Barthel P, Schneider R, et al. Frequency of sudden cardiac death among acute
+myocardial infarction survivors with optimized medical and revascularization therapy. Am J
+Cardiol. 2006 Feb 15;97(4):480-4. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16461041?
+tool=bestpractice.bmj.com)
+48. Pitt B, Remme W, Zannad F, et al; Eplerenone Post-Acute Myocardial Infarction Heart Failure Efficacy
+and Survival Study Investigators. Eplerenone, a selective aldosterone blocker, in patients with left
+ventricular dysfunction after myocardial infarction. N Engl J Med. 2003 Apr 3;348(14):1309-21. 
+Full text (http://www.nejm.org/doi/full/10.1056/NEJMoa030207#t=article)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12668699?tool=bestpractice.bmj.com)
+49. He XZ, Zhou SH, Wan XH, et al. The effect of early and intensive statin therapy on ventricular
+premature beat or nonsustained ventricular tachycardia in patients with acute coronary syndrome.
+Clin Cardiol. 2011 Jan;34(1):59-63. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21259280?
+tool=bestpractice.bmj.com)
+50. Cairns JA, Connolly SJ, Roberts R, et al. Randomised trial of outcome after myocardial infarction
+in patients with frequent or repetitive ventricular premature depolarisations: CAMIAT. Lancet.
+1997 Mar 8;349(9053):675-82. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9078198?
+tool=bestpractice.bmj.com)
+51. Kannel WB, Thomas HE Jr. Sudden coronary death. the Framingham Study. Ann N Y Acad Sci. 1982
+Mar;382(1):3-21. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7044245?tool=bestpractice.bmj.com)
+52. Taylor RS, Brown A, Ebrahim S, et al. Exercise-based rehabilitation for patients with coronary
+heart disease: systematic review and meta-analysis of randomized controlled trials. Am J
+Med. 2004 May 15;116(10):682-92. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15121495?
+tool=bestpractice.bmj.com)
+53. Epstein AE, DiMarco JP, Ellenbogen KA, et al. ACC/AHA/HRS 2008 guidelines for device-
+based therapy of cardiac rhythm abnormalities: executive summary. Circulation. 2008
+Jun;117(6):e350-408.  Full text (http://circ.ahajournals.org/cgi/content/full/117/21/e350)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/18483207?tool=bestpractice.bmj.com)
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 45 ===
+Nonsustained ventricular tachycardias References
+54. Steinbeck G, Andresen D, Seidl K, et al; IRIS Investigators. Defibrillator implantation early
+after myocardial infarction. N Engl J Med. 2009 Oct 8;361(15):1427-36. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19812399?tool=bestpractice.bmj.com)
+55. SOLVD Investigators. Effect of enalapril on survival in patients with reduced left ventricular ejection
+fractions and congestive heart failure. N Engl J Med. 1991 Aug 1;325(5):293-302. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2057034?tool=bestpractice.bmj.com)
+56. CIBIS-II Investigators and Committees. The Cardiac Insufficiency Bisoprolol Study II (CIBIS II):
+a randomised trial. Lancet. 1999 Jan 2;353(9146):9-13. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10023943?tool=bestpractice.bmj.com)
+57. Wei J, Ni J, Huang D, et al. The effect of aldosterone antagonists for ventricular arrhythmia:
+a meta-analysis. Clin Cardiol. 2010 Sep;33(9):572-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20842742?tool=bestpractice.bmj.com)
+58. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management
+of heart failure: a report of the American College of Cardiology/American Heart Association Joint
+Committee on Clinical Practice Guidelines. Circulation. 2022 May 3;145(18):e895-e1032.  Full
+text (https://www.ahajournals.org/doi/reader/10.1161/CIR.0000000000001063)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35363499?tool=bestpractice.bmj.com)
+59. Ketha S, Kusumoto F. Cardiac resynchronization therapy in 2015: lessons learned. Cardiovasc Innov
+Applications. 2015 Oct;1(1):93-106  Full text (https://www.scienceopen.com/hosted-document?
+doi=10.15212/CVIA.2015.0011)
+60. Maron BJ, Ackerman MJ, Nishimura RA, et al. Task Force 4: HCM and other cardiomyopathies, mitral
+valve prolapse, myocarditis, and Marfan syndrome. J Am Coll Cardiol. 2005 Apr 19;45(8):1340-5. 
+Full text (http://content.onlinejacc.org/article.aspx?articleID=1136515)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15837284?tool=bestpractice.bmj.com)
+61. Knuuti J, Wijns W, Saraste A, et al. 2019 ESC Guidelines for the diagnosis and management
+of chronic coronary syndromes. Eur Heart J. 2020 Jan 14;41(3):407-77.  Full text (https://
+academic.oup.com/eurheartj/article/41/3/407/5556137?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31504439?tool=bestpractice.bmj.com)
+62. Virani SS, Newby LK, Arnold SV, et al. 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA guideline for the
+management of patients with chronic coronary disease: a report of the American Heart Association/
+American College of Cardiology Joint Committee on clinical practice guidelines. Circulation. 2023
+Aug 29;148(9):e9-119.  Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000001168)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37471501?tool=bestpractice.bmj.com)
+63. Grundy SM, Stone NJ, Bailey AL, et al. 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/
+APhA/ASPC/NLA/PCNA Guideline on the management of blood cholesterol: a report of the American
+College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.
+Circulation. 2019 Jun 18;139(25):e1082-e1143.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC7403606)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30586774?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+45
+=== Page 46 ===
+Nonsustained ventricular tachycardias References
+REFERENCES
+64. Visseren FLJ, Mach F, Smulders YM, et al. 2021 ESC Guidelines on cardiovascular disease
+prevention in clinical practice. Eur Heart J. 2021 Sep 7;42(34):3227-37.  Full text (https://
+academic.oup.com/eurheartj/article/42/34/3227/6358713?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34458905?tool=bestpractice.bmj.com)
+65. McDonagh TA, Metra M, Adamo M, et al. 2021 ESC Guidelines for the diagnosis and treatment
+of acute and chronic heart failure. Eur Heart J. 2021 Sep 21;42(36):3599-3726.  Full text (https://
+orbi.uliege.be/bitstream/2268/290864/1/ehab368.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34447992?tool=bestpractice.bmj.com)
+66. Kusumoto FM, Calkins H, Boehmer J, et al. HRS/ACC/AHA expert consensus statement on
+the use of implantable cardioverter-defibrillator therapy in patients who are not included or
+not well represented in clinical trials. Circulation. 2014 Jul 1;130(1):94-125.  Full text (http://
+circ.ahajournals.org/content/130/1/94)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24815500?
+tool=bestpractice.bmj.com)
+67. Tracy CM, Epstein AE, Darbar D, et al. 2012 ACCF/AHA/HRS focused update of the 2008 guidelines
+for device-based therapy of cardiac rhythm abnormalities: a report of the American College of
+Cardiology Foundation/American Heart Association Task Force on Practice Guidelines and the Heart
+Rhythm Society. Circulation. 2012 Oct 2;126(14):1784-1800.  Full text (http://circ.ahajournals.org/
+content/126/14/1784.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22965336?
+tool=bestpractice.bmj.com)
+68. Cronin EM, Bogun FM, Maury P, et al. 2019 HRS/EHRA/APHRS/LAHRS expert consensus statement
+on catheter ablation of ventricular arrhythmias. Europace. 2019 Aug 1;21(8):1143-44.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31075787)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31075787?tool=bestpractice.bmj.com)
+69. Ritchie AH, Kerr CR, Qi A, et al. Nonsustained ventricular tachycardia arising from the right ventricular
+outflow tract. Am J Cardiol. 1983 Sep 15;64(10):594-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/2571287?tool=bestpractice.bmj.com)
+70. Yarlagadda RK, Iwai S, Stein KM, et al. Reversal of cardiomyopathy in patients with repetitive
+monomorphic ventricular ectopy originating from the right ventricular outflow tract. Circulation. 2005
+Aug 23;112(8):1092-7.  Full text (http://circ.ahajournals.org/content/112/8/1092.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16103234?tool=bestpractice.bmj.com)
+71. Duffee DF, Shen WK, Smith HC. Suppression of frequent premature ventricular contractions and
+improvement of left ventricular function in patients with presumed idiopathic dilated cardiomyopathy.
+Mayo Clin Proc. 1988 May;73(5):430-3. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9581582?
+tool=bestpractice.bmj.com)
+72. Takemoto M, Yoshimura H, Ohba Y, et al. Radiofrequency catheter ablation of premature ventricular
+complexes from the right ventricular outflow tract improves left ventricular dilation and clinical status
+in patients without structural heart disease. J Am Coll Cardiol. 2005 Apr 19;45(8):1259-65. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15837259?tool=bestpractice.bmj.com)
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 47 ===
+Nonsustained ventricular tachycardias References
+73. Bogun F, Crawford T, Reich S, et al. Radiofrequency ablation of frequent, idiopathic premature
+ventricular complexes: comparison with a control group without intervention. Heart Rhythm. 2007
+Jul;4(7):863-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17599667?tool=bestpractice.bmj.com)
+74. Blomström-Lundqvist C, Traykov V, Erba PA, et al. European Heart Rhythm Association (EHRA)
+international consensus document on how to prevent, diagnose, and treat cardiac implantable
+electronic device infections-endorsed by the Heart Rhythm Society (HRS), the Asia Pacific Heart
+Rhythm Society (APHRS), the Latin American Heart Rhythm Society (LAHRS), International
+Society for Cardiovascular Infectious Diseases (ISCVID) and the European Society of Clinical
+Microbiology and Infectious Diseases (ESCMID) in collaboration with the European Association
+for Cardio-Thoracic Surgery (EACTS). Europace. 2020 Apr 1;22(4):515-49.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/pmid/31702000)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31702000?tool=bestpractice.bmj.com)
+75. Chelsky LB, Cutler JE, Griffith K, et al. Caffeine and ventricular arrhythmias: an electrophysiological
+approach. JAMA. 1990 Nov 7;264(17):2236-40. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/2214101?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+47
+=== Page 48 ===
+Nonsustained ventricular tachycardias Images
+IMAGES
+Images
+Figure 1: Evaluation of nonsustained wide QRS tachycardia
+Created by BMJ Knowledge Centre.
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 49 ===
+Nonsustained ventricular tachycardias Images
+Figure 2: Nonsustained ventricular tachycardia
+From the collection of Dr F. Kusumoto; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+49
+=== Page 50 ===
+Nonsustained ventricular tachycardias Images
+IMAGES
+Figure 3: Initiation of wide QRS rhythm is not preceded by a P-wave, suggesting nonsustained ventricular
+tachycardia
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical application. New York, NY: Springer; 2009;
+used with permission
+Figure 4: ECG showing AV dissociation. Deflections due to P waves (arrows) are not associated with QRS
+complexes
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical application. New York, NY: Springer; 2009;
+used with permission
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 51 ===
+Nonsustained ventricular tachycardias Images
+Figure 5: ECG from a patient with long QT syndrome
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical application. New York, NY: Springer; 2009;
+used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+51
+=== Page 52 ===
+Nonsustained ventricular tachycardias Images
+IMAGES
+Figure 6: ECG from a patient with Brugada syndrome, showing terminal positive R-wave and ST-segment
+elevation in lead V1
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical application. New York, NY: Springer; 2009;
+used with permission
+Figure 7: ECG from a patient with arrhythmogenic right ventricular cardiomyopathy
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical application. New York, NY: Springer; 2009;
+used with permission
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 53 ===
+Nonsustained ventricular tachycardias Images
+Figure 8: ECG showing an abnormal Q wave in V4 and ST elevation in V1-V6 in a patient with a large
+anterior wall myocardial infarction.
+Kusumoto FM. ECG interpretation. In: Pathophysiology to clinical application. New York, NY: Springer; 2009;
+used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+53
+=== Page 54 ===
+Nonsustained ventricular tachycardias Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+=== Page 55 ===
+Nonsustained ventricular tachycardias Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Nov 24, 2023.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2024. All rights reserved.
+55
+=== Page 56 ===
+Contributors:
+// Authors:
+Fred Kusumoto, MD
+Professor of Medicine
+Mayo Medical School, Division of Cardiovascular Diseases, Department of Medicine, Mayo Clinic Florida,
+Jacksonville, FL
+DISCLOSURES: FK declares that he has no competing interests.
+// Acknowledgements:
+Professor Kusumoto would like to gratefully acknowledge Dr Ronald R. Butendieck Jr, a previous contributor
+to this topic.
+DISCLOSURES: RRB declares that he has no competing interests.
+// Peer Reviewers:
+Timothy Markman, MD
+Assistant Professor of Medicine
+Hospital of the University of Pennsylvania, Philadelphia, PA
+DISCLOSURES: TM declares that he has no competing interests.
+Vias Markides, MB(Hons), BS(Hons), MD, FRCP
+Consultant Cardiologist and Chair
+Arrhythmias, Royal Brompton & Harefield NHS Trust, Hon. Senior Lecturer, Imperial College, London, UK
+DISCLOSURES: VM declares that he has no competing interests.

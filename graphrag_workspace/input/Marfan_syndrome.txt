@@ -1,0 +1,1978 @@
+# Marfan syndrome
+
+=== Page 1 ===
+Marfan syndrome
+Straight to the point of care
+Last updated: Jan 14, 2025
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  5
+Case history  5
+Diagnosis  7
+Approach  7
+History and exam  8
+Risk factors  11
+Tests  12
+Differentials  14
+Criteria  15
+Screening  16
+Management  17
+Approach  17
+Treatment algorithm overview  20
+Treatment algorithm  22
+Emerging  32
+Secondary prevention  32
+Patient discussions  32
+Follow up  33
+Monitoring  33
+Complications  34
+Prognosis  35
+Guidelines  37
+Diagnostic guidelines  37
+Treatment guidelines  37
+Online resources  38
+References  39
+Images  48
+Disclaimer  49
+=== Page 3 ===
+Marfan syndrome Overview
+Summary
+Marfan syndrome is an autosomal dominant inherited disorder of connective tissue characterized by loss of
+elastic tissue, resulting in musculoskeletal deformities, lens subluxation (dislocation), aortic dissection, and
+root aneurysms.
+Multidisciplinary team of specialists confirm the diagnosis clinically and genetically using fibrillin-1 gene
+screen, and manage treatment options.
+Dilation of the aorta may be progressive, but dilation may be delayed by beta-blockers or angiotensin-II
+receptor antagonists or in combination. The risk of aortic dissection or rupture increases with the size of the
+aortic dimension or with pregnancy.
+Standard of elective surgical care for aortic dilation is modified David reimplantation operation with
+preservation of aortic valve leaflets and replacement of the aortic root. A second operation is becoming more
+widely available, namely PEARS extent operation, which bears the same 1% mortality risk when performed
+electively by an experienced surgeon.
+Acute aortic dissection generally requires immediate surgical repair and has reduced long-term survival.
+Other manifestations of Marfan syndrome (e.g., lens subluxation and/or cataract, glaucoma, retinal
+detachment, dural ectasia, scoliosis, and pulmonary complications) require treatment from appropriate
+medical or surgical specialists.
+Definition
+This autosomal dominant inherited disorder of connective tissue, affects both men and women and is
+characterized by loss of elastic tissue, affecting numerous body systems, including the musculoskeletal,
+cardiovascular, neurologic, and respiratory systems, and the skin and eyes.[1] The diagnosis of classic
+Marfan syndrome relies on a set of clinical criteria, defined by the Ghent nosology, where cardinal features
+include aortic root aneurysm and ectopia lentis.[2] Diagnosis is confirmed either by the presence of these
+two cardinal features, or by finding a causative mutation in the fibrillin-1 gene.[3] Children and adolescents
+may not fulfill this formal diagnostic criteria and are often described as having “potential” Marfan based
+on clinical features and a positive family history.[3] Skin striae, dural ectasia, hernias, pneumothorax, and
+emphysematous bullae on chest x-ray may also be noted.[2]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Marfan syndrome Theory
+THEORY
+Epidemiology
+Prevalence is thought to be similar throughout the world and regardless of sex or ethnicity.[5] Men and
+women are affected equally, however men tend to be more severely affected in the cardiovascular system.
+The incidence in the US population is not accurately known but is estimated to be 1 in 10,000.[6] The
+incidence in the European population is estimated to be 3 in 10,000.[7] The average life expectancy used
+to be only 32 years but due to early surgery, and general increase in life expectancy, is now 72 years
+and approaching that of the general population.[8] Once aortic dissection occurs, survival is considerably
+reduced to between 50% and 70% at 5 years.[9] [10]
+Impact of aortic dissection on patient survival
+From the collection of LG Svensson, E Mendrinos, C Pournaras
+Etiology
+Caused by mutations in the fibrillin-1 gene in 99% of classical Marfan syndrome patients.[11] In 75% of
+patients, the gene is passed on from a parent and is autosomal dominant, although the appearance of family
+members and degree of pathologic features may vary. In 25% of patients the mutation occurs spontaneously
+and may be associated with older paternal age.[4]
+The first fibrillin-1 gene mutation was identified in 1990.[12] However, subsequently, over 3000 different
+mutations have been identified.[13]
+Pathophysiology
+Mutations in the fibrillin-1 gene result in the production of an abnormal fibrillin protein, leading to
+abnormalities in the mechanical stability and elastic properties of connective tissue.[14] Up-regulation of C-
+terminal fragment of filamin-A in dilated aortic media of Marfan syndrome has been found.[15] This is due
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Marfan syndrome Theory
+to cleavage by the protease calpain. Therefore, increased calpain activity may help to explain histologic
+alterations in the dilated aorta.
+Research suggests that transforming growth factor-beta is implicated in the failure of normal elastic tissue
+formation.[16] [17]
+Early experience from surgical treatment and histologic studies has found that patients suffer from a loss
+of elastic tissue in the aortic wall (medial degeneration). Frequently, particularly in association with aortic
+dissection, a loss of smooth muscle cells (medial necrosis) is also noted. In addition, a diagnosis of cystic
+medial necrosis may be made, the so-called cysts being fluid collections of mucin and ground substance.
+These abnormalities lead to a weakening of the aortic wall with subsequent aortic dilation and potentially
+aortic dissection, aneurysms, and rupture. They also lead to a reduction of the structural integrity of the skin,
+ligaments, eye lens zonules, lung airways, and the spinal dura.[16]
+Classification
+Type according to family history
+Familial: 75% of cases; inherited as an autosomal dominant trait.
+Sporadic: 25% of cases; the mutation occurs spontaneously and may be associated with older paternal
+age.[4]
+Case history
+Case history #1
+In a routine medical examination, a young man is noted to be tall with a slight scoliosis and pectus
+excavatum (breastbone is sunken into the chest). He had been told that he was over the 95% percentile
+for height as a child. The examining physician suspects the patient has Marfan syndrome, and
+auscultation reveals a heart murmur. Echocardiography shows an enlarged aortic root, aortic valve
+regurgitation, and mitral valve prolapse.
+Case history #2
+A 34-year-old female, tall and slim, with bilateral dislocated lenses from birth, was diagnosed with Marfan
+syndrome after the birth of her classically affected son, a long slim baby with arachnodactyly, indented
+chest, and bilateral dislocated lenses. On echocardiography the mother was found to have a dilated aortic
+root measuring 4.6 cm. Screening of the fibrillin-1 gene revealed a causative mutation in both mother
+and son. No other family members carried the mutation. The mother's aortic root was replaced at age
+35, followed by thoracoabdominal aortic replacement at age 69. She died at age 73 of a stroke due to a
+cerebral bleed. Her son had aortic root replacement at age 17 and awaits abdominal aortic replacement
+at age 40. His son aged 5 carries the same mutation and suffers from bilateral lens dislocation, and aortic
+root dilation at age 5.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Marfan syndrome Theory
+THEORY
+Other presentations
+Acute aortic dissection commonly causes sudden-onset chest, back, shoulder or abdominal pain. Clinical
+presentations related to musculoskeletal problems (e.g., scoliosis), hernias, or ophthalmic refractive
+errors are less common. The main ocular symptoms are blurred vision and monocular diplopia caused by
+progressive lens subluxation and resulting severe astigmatism.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Marfan syndrome Diagnosis
+Approach
+History and physical exam (including slit-lamp ophthalmic examination with pupil dilation) in conjunction with
+imaging of the aortic root and the ascending, descending, and abdominal aorta (echo, computed tomography
+[CT], magnetic resonance imaging [MRI]) are usually sufficient for diagnosis.[1]
+Use of diagnostic criteria
+The diagnosis of Marfan syndrome is clinically based using well-defined criteria, namely the revised
+Ghent diagnostic criteria.[2] [3] This revised diagnostic criteria put more weight on cardiovascular
+manifestations of the disorder, compared with previously used criteria, with aortic root aneurysm and
+ectopia lentis now becoming cardinal features.[2] [3]
+Identification of risk factors
+Risk factors include the presence of a family history of Marfan syndrome, or of aortic dissection or
+aneurysm. There is also a weak association with high paternal age.[4]
+Other historical considerations
+There may be a family history of myopia, astigmatism, strabismus, amblyopia, premature cataract or
+other lens abnormalities, glaucoma, retinal detachment, dental extraction or braces for dental crowding,
+hernias, or spontaneous pneumothorax. Patients may have a history of joint pain or low back ache.[1]
+Physical examination
+Tall stature, wide arm span, high level of pubic bone, high arched palate, arachnodactyly, positive wrist
+and thumb sign, pectus excavatum, pectus carinatum, scoliosis, striae (other than from pregnancy/
+weight change), flat feet, thick eye glasses for myopia, hernias, aortic or mitral valve murmur may be
+present.[2] [3] Spontaneous pneumothorax or emphysematous bullae may present as dyspnea.[3]
+Skeletal abnormality may result in other pulmonary complications also presenting as dyspnea.
+There may be signs of heart failure due to valve disease or cardiomyopathy.[18]
+A complete ophthalmic exam, including fundus examination with pupil dilation, is recommended in
+all patients. There may be signs of lens subluxation or dislocation, cataract, glaucoma, or retinal
+detachment.[3]
+It is possible that the patient may present with signs and symptoms of acute aortic dissection or rupture.
+This presentation is covered in the complications section.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Marfan syndrome Diagnosis
+DIAGNOSIS
+Positive thumb sign
+From the collection of LG Svensson, E Mendrinos, C Pournaras
+Initial investigations
+Echocardiography is used initially for aortic root imaging and if not clearly determined CT or MRI may be
+used.[3] [19]
+Subsequent investigations
+Genetic screening for mutations in the fibrillin-1 (FBN1) gene can confirm the diagnosis if in doubt.[3]
+In the absence of lens dislocation, genetic testing should be considered to exclude the possibility of
+Loeys-Dietz syndrome.[19] Once detected, the mutation can be used to screen other relatives, and
+used for prenatal diagnosis and preimplantation genetic diagnosis. This test is more specific than MRI
+for dural ectasia, which can also be found in Ehlers-Danlos syndrome. If there are existing genetic test
+results, do not order a duplicate test unless there is uncertainty about the existing result, e.g., the result is
+inconsistent with the patient’s clinical presentation or the test methodology has changed.[20]
+Abdominal ultrasound, CT, and MRI are used for visualization of the descending aorta.[19]
+Chest x-ray may be performed to exclude the presence of a pneumothorax and may reveal
+emphysematous bullae.
+Lower spine CT scan or MRI can be performed to exclude dural ectasia, where upright imaging may be
+preferred.[3] This is a widening of the dural membrane surrounding the spinal cord and is a recognized
+complication of Marfan syndrome. MRI is particularly useful for follow-up investigations to avoid
+accumulative radiation, assessing aortic size and extent of any dural ectasia.
+Plasma homocysteine levels help in unclear cases to differentiate homocystinuria.
+History and exam
+Key diagnostic factors
+family history of Marfan disease (common)
+• Inherited as an autosomal dominant condition in 75% of cases.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Marfan syndrome Diagnosis
+tall stature (common)
+• Typically associated with dolichostenomelia (unusually long limbs).
+wide arm span (common)
+• Arm span-to-height ratio >1.05.
+high level of pubic bone (common)
+• Pubic bone-to-height ratio >0.5.
+high arched palate (common)
+• May lead to dental crowding.
+arachnodactyly (common)
+• Long, slender fingers are a characteristic finding, confirmed by positive thumb and wrist signs.
+positive wrist sign (common)
+• Distal phalanges of the first and fifth digits of the hand overlap when wrapped around the other wrist.
+positive thumb sign (common)
+• When the patient bends the thumb toward the palm of the hand and covers it with the fingers, the tip of
+the thumb protrudes beyond the palm of the clenched hand.
+Positive thumb sign
+From the collection of LG Svensson, E Mendrinos, C Pournaras
+pectus excavatum (funnel chest) (common)
+• Sternum sunk inward.
+pectus carinatum (pigeon breast) (common)
+• Sternum pushed outward.
+scoliosis (common)
+• Most commonly develops in childhood and adolescence with rapid growth.
+• Can affect any part of the spine and varies in severity and need for treatment.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Marfan syndrome Diagnosis
+DIAGNOSIS
+flat feet (pes planus) (common)
+• Due to ligament laxity.
+dislocated/subluxed eye lens (common)
+• Systematic investigation required if this diagnosis is considered.
+• Between 50% and 80% of patients have some degree of lens subluxation, which is usually bilateral
+and symmetric.[22] [23]
+• The direction of dislocation/subluxation is typically but not always superotemporal, whereas dislocation
+into the vitreous cavity or the anterior chamber is rare.
+• Other less frequent lens abnormalities are microspherophakia and lens coloboma.[24]
+myopia and/or astigmatism (common)
+• Refraction and ocular motility are performed as part of a thorough ophthalmic assessment with full
+pupil dilation.
+• Most people with Marfan syndrome are myopic and astigmatic.[25]
+• Anisometropia, amblyopia, or strabismus may occur.[25]
+• Children require screening for amblyopia.
+retinal abnormalities (common)
+• Fundus examination is an important part of a thorough ophthalmic examination.
+• Retinal abnormalities include myopic posterior staphyloma, lattice degeneration, white-without-
+pressure, retinal pigmentary changes, atrophic holes or retinal tears, choroidal and scleral thinning.
+• The most serious complication is retinal detachment, which may be bilateral.[24]
+joint hypermobility (common)
+• Incidence of joint dislocation (apart from the patella) similar to that in the general population.
+aortic valve murmur (common)
+• Present in about one third of adults.
+mitral valve murmur (common)
+• Approximately one third of people have a nonejection systolic click and about 10% have a regurgitation
+murmur.
+history of treatment for dental crowding (common)
+• Dental extraction or braces for dental crowding is a common requirement in people with Marfan
+syndrome, due to narrow jaw and high arched palate.
+history of myopia and/or astigmatism (common)
+• There may also be a history of other eye problems including strabismus, lens dislocation, cataract,
+glaucoma, or retinal detachment.
+reduced elbow extension (uncommon)
+• Extension of <170 degrees is one of the major skeletal features.[21]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Marfan syndrome Diagnosis
+Other diagnostic factors
+glaucoma (common)
+• Glaucoma affects approximately 30% of patients.[3] Primary open-angle glaucoma is the most
+prevalent form of glaucoma in these patients.
+• Secondary open-angle glaucoma may occur following chronic iritis.
+• Primary angle closure glaucoma has not been described in Marfan syndrome.
+• Pupillary block is rare and can be produced by an anterior lens dislocation.
+• Secondary angle closure may occur and is associated with congenital abnormalities of the irido-
+corneal angle.[24]
+history of spontaneous pneumothorax (common)
+• Affects approximately 10% of patients, usually pubertal males.
+• May be recurrent.
+striae (common)
+• Unrelated to pregnancy/weight change (usually on shoulder, lumbar area to mid-back, thighs, and
+around knees).
+low back ache (common)
+• Suggestive of spondylolisthesis or dural ectasia.
+joint pain (common)
+• Suggestive of arthritis.
+• Hips: due to protrusio acetabulae (adults).
+• Other joints: due to hypermobility, especially the knees, ankles, and wrists.
+inguinal/abdominal/incisional hernias (common)
+• May be recurrent.
+dyspnea (uncommon)
+• Restrictive lung disease may be due to skeletal deformity.
+• May also be related to development of emphysematous bullae, spontaneous pneumothorax, fibrosis,
+or asthma.
+signs of heart failure (uncommon)
+• Due to heart valve disease or cardiomyopathy.
+Risk factors
+Strong
+family history of Marfan syndrome
+• Inherited as an autosomal dominant condition in 75% of cases.[4]
+• There is a 50% risk of a child having Marfan syndrome if one parent is affected.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Marfan syndrome Diagnosis
+DIAGNOSIS
+family history of aortic dissection or aneurysm
+• Regular echocardiogram monitoring is recommended for family members at risk.[2]
+Weak
+high paternal age
+• Associated with spontaneous gene mutations, including those resulting in Marfan syndrome.[4]
+Tests
+1st test to order
+Test Result
+echocardiography
+• If aortic dissection is found, there may potentially be rupture or leak.
+• Mitral valve regurgitation and/or calcification may occur.
+aortic regurgitation;
+aortic root dilation
+or ascending aortic
+dissection; mitral valve
+prolapse
+slit-lamp eye exam with intraocular pressure measurement
+• As part of a thorough ophthalmic assessment with full pupil
+dilation.[3]
+visualization of subluxed/
+dislocated lens or other
+lens abnormalities
+(e.g., microspherakia,
+lens coloboma, or
+lens opacities);
+elevated intraocular
+pressure; other anterior
+segment findings (e.g.,
+megalocornea or cornea
+plana, corneal endothelial
+guttata, iris coloboma,
+eccentric and poorly
+pharmacologically dilated
+pupils)
+CT scan, thorax
+• May be used if aortic root not clearly visible on echocardiography.
+• If aortic dissection is found, there may potentially be rupture or leak.
+• Mitral valve regurgitation and/or calcification may occur.
+aortic root dilation
+or ascending aortic
+dissection; aortic
+regurgitation; mitral valve
+prolapse
+MRI, thorax
+• May be used if aortic root not clearly visible on echocardiography.
+aortic root dilation
+or ascending aortic
+dissection, potentially
+with rupture or leak;
+aortic regurgitation;
+mitral valve prolapse/
+regurgitation/
+calcification
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Marfan syndrome Diagnosis
+Other tests to consider
+Test Result
+blood screening for fibrillin-1 (FBN-1) gene mutation
+• Positive for mutation in 99% of classical Marfan syndrome
+patients.[11] In the absence of lens dislocation, genetic testing should
+be considered to exclude the possibility of Loeys-Dietz syndrome.[19]
+• Interpretation of results must be done in correlation with information
+gathered from accurate clinical exam.
+• If there are existing genetic test results, do not order a duplicate
+test unless there is uncertainty about the existing result, e.g., the
+result is inconsistent with the patient’s clinical presentation or the test
+methodology has changed.[20]
+mutations in FBN-1 gene
+CXR
+• Helpful to exclude spontaneous pneumothorax and reveal pulmonary
+changes.
+pneumothorax, apical
+blebs; enlargement of
+the aortic and cardiac
+silhouette in thoracic
+dissection
+CT scan, abdomen
+• Used to examine the descending and abdominal aorta.[19]
+aortic dissection of
+descending aorta or
+abdominal aneurysm
+MRI, abdomen
+• Used to examine the descending and abdominal aorta.[19]
+aortic dissection of
+descending aorta or
+abdominal aneurysm
+ultrasound, abdomen
+• Useful for visualization of the descending aorta.
+aortic dissection of
+descending aorta or
+abdominal aneurysm
+CT scan, lower spine
+• May be used to exclude dural ectasia.
+dural ectasia: widening or
+ballooning of dural sac
+MRI, lower spine
+• Patient should stand upright during investigation.
+dural ectasia: widening or
+ballooning of dural sac
+plasma homocysteine
+• Indicated if diagnosis is not clear and homocystinuria is suspected,
+especially in a child with dislocated lenses and suspected mental
+disability.
+levels not elevated
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Marfan syndrome Diagnosis
+DIAGNOSIS
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Aortic dissection not
+associated with Marfan
+syndrome
+• No eye or musculoskeletal
+findings.
+• Relevant family history in
+familial dissections.
+• At present 51 known genes
+are accepted as causative
+for thoracic aortic aneurysm
+and dissection (TAAD),
+with new ones discovered
+yearly.[26]
+• Mutation screening for TAAD
+genes include TGFBR1/
+TGFBR2, ACTA2, MYH11,
+SMAD3, and TGFB2.[26]
+[27] [28] [29] [30] [31] [32]
+Bicuspid aortic valve • No eye or musculoskeletal
+findings, although
+occasionally occurs with
+Marfan syndrome.
+• Echo, thorax CT, or thorax
+MRI will show abnormal
+bicuspid aortic valve.
+Ehlers-Danlos syndrome • Joint hypermobility more
+common presentation.
+• Vascular variety, which most
+commonly affects the aorta,
+is characterized by thin skin
+and bleeding disorders with
+increased bruising.
+• Skin biopsy for abnormal
+collagen and DNA testing for
+gene mutation.[33]
+Erdheim deformity • Flask-like root dilation of
+the aortic root as in Marfan
+syndrome, but no eye or
+musculoskeletal findings or
+family history.
+• No differentiating tests.
+Homocystinuria • Signs and symptoms very
+similar.
+• Generalized osteoporosis
+and disorders of mental
+development more likely in
+homocystinuria.
+• Plasma homocysteine levels
+are elevated.
+Loeys-Dietz syndrome • No associated lens
+dislocation.
+• Aortic dissection occurs at
+much smaller diameter.[34]
+• Bifid uvula or cleft palate.
+• Arterial tortuosity.
+• Hypertelorism.
+• Mutation screening for
+TGFBR1, TGFBR2, SMAD3,
+TGFB2, and TGFB3
+genes.[3] [35]
+XXY (Klinefelter)
+syndrome
+• No associated lens
+dislocation or aortic
+aneurysm.
+• Mental deficiency.
+• Hypogonadism.
+• Karyotype reveals extra X
+chromosome.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Marfan syndrome Diagnosis
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Marfanoid hypermobility
+syndrome
+• X-linked.
+• No eye or heart involvement.
+• No gene identified.
+Criteria
+Revised Ghent nosology for the Marfan syndrome[2]
+An international expert panel has established a revised Ghent nosology that puts more weight on the
+cardiovascular manifestations (in particular, aortic root aneurysm) and ectopia lentis, which are the cardinal
+clinical features. The presence of these 2 features are sufficient for the unequivocal diagnosis of Marfan
+syndrome. In the absence of either of these 2, the presence of a bona fide fibrillin-1 (FBN1) mutation or
+a combination of systemic manifestations is required. These criteria may delay a definitive diagnosis of
+Marfan syndrome, but will decrease the risk of premature diagnosis or misdiagnosis and facilitate worldwide
+discussion of risk and management guidelines.[36] [37] Dural ectasia is no longer a major finding as it is
+nonspecific and also found in Ehlers-Danlos syndrome.
+In the absence of family history any of the following are sufficient for a definitive diagnosis of Marfan
+syndrome:
+• Aortic root ≥+2 z-score and ectopia lentis
+• Aortic root ≥+2 z-score and FBN1 mutation known to be associated with Marfan syndrome
+• Aortic root ≥+2 z-score and systemic score ≥7 (see below)
+• Ectopia lentis and FBN1 mutation known to be associated with Marfan syndrome
+In the presence of family history, one of the following would meet the criteria for a diagnosis of Marfan
+syndrome:
+• Ectopia lentis
+• Systemic score ≥7
+• Aortic root ≥+3 z-score in those <20 years OR ≥ +2 z-score in those >20 years
+Systemic features are scored as follows:
+• Wrist AND thumb sign = 3 (wrist OR thumb sign = 1)
+• Pectus carinatum deformity = 2 (pectus excavatum or chest asymmetry = 1)
+• Hindfoot deformity = 2 (plain pes planus = 1)
+• Pneumothorax = 2
+• Dural ectasia = 2
+• Protrusio acetabuli = 2
+• Reduced upper segment/lower segment ratio AND increased arm/height AND no severe scoliosis = 1
+• Scoliosis or thoracolumbar kyphosis = 1
+• Reduced elbow extension = 1
+• Facial features (3/5) = 1 (dolichocephaly, enophthalmos, downslanting palpebral fissures, malar
+hypoplasia, retrognathia)
+• Skin striae = 1
+• Myopia >3 diopters = 1
+• Mitral valve prolapse (all types) = 1
+Maximum total: 20 points; score ≥7 indicates systemic involvement
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Marfan syndrome Diagnosis
+DIAGNOSIS
+A diagnosis of “potential Marfan syndrome” is given when there is a FBN1 pathogenic mutation not
+previously known to be associated with Marfan syndrome and aortic root with a z-score of <+3.[3]
+Screening
+Genetic screening for fibrillin-1 gene mutations may be used for screening of other family members, including
+prenatal diagnosis and preimplantation genetic diagnosis.[3] [38]
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Marfan syndrome Management
+Approach
+No curative treatment exists, so management aims to prevent cardiac, ophthalmologic, and musculoskeletal
+complications, and will vary with individual symptoms.[3] [39]
+Aortic dilation
+Aortic dilation, dissection, and rupture all occur in people with Marfan syndrome. All patients with a
+Marfan syndrome diagnosis should be followed by a cardiologist with expertise in this area.[3] Aortic
+dissection and rupture are considered as complications of the syndrome, whereas aortic dilation is
+considered part of the syndrome.
+Beta-blockers are an established treatment for Marfan syndrome as they reduce heart rate and
+myocardial contractility, and slow aortic root growth, reducing the risk of complications such as aortic
+dissection and rupture.[19] [40] [41][42] 
+More recently, angiotensin-II receptor antagonists have been found to be efficacious in Marfan
+syndrome.[19] Approximately 20% of children with Marfan syndrome have asthma, and in these children
+beta-blockers are relatively contraindicated due to a risk of bronchospasm. Using cardioselective beta-
+blockers is likely to reduce this risk.[43] An angiotensin-II receptor antagonist may be used in these
+patients instead.[44]
+The American Academy of Pediatrics recommends treatment with either a beta-blocker or an angiotensin-
+II receptor antagonist in patients with Marfan syndrome and aortic root dilatation, with consideration of
+combination treatment where there is severe and/or progressive aortic root dilatation.[3] The American
+Heart Association/American College of Cardiology (AHA/ACC) also recommends either treatment option
+and suggests combination therapy is reasonable to reduce the rate of aortic dilation citing a meta-analysis
+which confirmed slower aortic growth rates with combination therapy.[19] [45]
+Elective surgery is recommended once aortic diameter measures 4.5 to 5.0 cm (earlier in symptomatic
+patients with chest pain).[19] [46] [47] [48] The measurement of the aortic root/body height ratio is taken
+into account in children and if this ratio is >10, elective surgery is likely, but the decision of exactly when
+to operate may vary between surgeons and needs to be performed by experienced surgeons as part of
+a multidisciplinary aortic team.[19] Surgery is indicated earlier (at aortic diameter >4.2 cm) in women of
+reproductive age. In women who are pregnant, there is a significant risk of dissection when the aortic root
+is ≥4.2 cm.[49]
+In patients with an aortic diameter approaching surgical threshold, who are candidates for valve-sparing
+root replacement and have a very low surgical risk, the AHA and ACC recommend that surgery to
+replace the aortic root and ascending aorta may be reasonable if performed by an experienced team.[19]
+Modified David reimplantation with replacement of the aortic root and sparing of the aortic valve has a
+91% to 97% freedom from reoperation at 10 years if performed at a center with sufficient experience
+and a low postoperative death rate after elective procedure <1%.[50] [51] A second-line surgical option
+is replacement of the aortic root with a composite Dacron graft and mechanical valve, but this is now
+only indicated outside the centers performing modified David aortic valve reimplantation. Lastly, the root
+remodeling operation has been found to have worse results than the David reimplantation operation.
+Following surgery for severe aortic dilation, lifelong therapy with beta-blockers (or an angiotensin-
+II receptor antagonist if beta-blockers are contraindicated/not tolerated) is indicated. Patients with
+mechanical valves will need lifelong warfarin therapy, and any patient who has prosthetic material, either
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Marfan syndrome Management
+MANAGEMENT
+valve or graft, will require antibiotic prophylaxis for dental work and any future invasive procedures.[52]
+[53]
+Musculoskeletal findings and dural ectasia
+Musculoskeletal concerns are often the presenting feature of patients with Marfan syndrome.[3] Scoliosis
+and kyphoscoliosis are frequently seen in growing teenagers. Curves of 20 to 40 degrees will require
+orthopedic bracing, and for larger curves, surgical correction with Harrington rods and spinal fusion is
+required. Telescopic rods are becoming increasingly popular for young children.[54] Spondylolisthesis <30
+degrees is also treated with bracing, whereas a larger slippage will require surgical realignment.
+Pectus excavatum and carinatum are usually corrected surgically only if there is cardiopulmonary
+compromise. Surgery is not indicated for cosmetic reasons because of potential risks, unless serious
+psychological problems occur with body image. Experimental work with pressure bracing for pectus
+carinatum and suction for excavatum is promising.[55]
+Arthritic pain is managed medically, but advanced arthritis in adults due to protrusio acetabulae may
+necessitate hip replacement. Mild painkillers and orthopedic arch supports and footwear may be given in
+cases of painful flat feet, with foot surgery only rarely becoming necessary.
+Physical and/or occupational therapy can help address joint laxity issues.[3] Dural ectasia is mostly
+asymptomatic and will only rarely need treatment, such as analgesics for lower back pain or neurosurgery
+should neurologic symptoms occur (e.g., orthostatic headache, pain or numbness in legs).
+Ophthalmologic findings
+The most common ocular feature is myopia, typically attributed to elongation of the globe. This often
+progresses rapidly during childhood.[3] [24] Refractive errors are corrected with spectacles/contact
+lenses or may need surgery. Young children are at risk for amblyopia and require refraction and close
+monitoring.[3] [56] Ectopia lentis (dislocation of the lens) is treated either with spectacles/contact lenses
+or with surgery. Cataracts are treated by surgical removal of the lens and contact lenses if tolerated by the
+patient, or intraocular lens implantation in the posterior or anterior chamber.[57] Glaucoma requires either
+medication or surgery, or a combination of both. See Open-angle glaucoma  and Angle-closure glaucoma
+.
+Retinal tears or retinal detachment require immediate attention. Argon laser photocoagulation or
+transconjunctival cryocoagulation is required for retinal tears, whereas surgical repair is needed in cases
+of retinal detachment. Unilateral retinal detachments may go unnoticed by patients, due to maintenance of
+vision in the unaffected eye, so routine vision assessments of each eye in isolation are recommended.[3]
+Affected individuals should be monitored at least annually by an ophthalmologist familiar with Marfan
+syndrome with slit-lamp exams for lens subluxation and cataract formation, glaucoma, and fundus exams
+for retinal tears or detachments.[3]
+Pregnancy
+Pregnancy is associated with an increase in aortic root size.[58][59] Reported aortic dissection rates
+during pregnancy range from 1.9% to 4.4%.[59] [60] Aortic size is a major determinant of risk, and
+guidelines recommend that women with aortic root diameter >45 mm avoid pregnancy.[46] [61]
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Marfan syndrome Management
+Angiotensin-II receptor antagonists should be stopped due to the risk of fetal harm.[3] There is a risk of
+fetal growth restriction with beta-blockers in pregnancy; however, they can generally be continued with
+close fetal growth monitoring.[3] [62]
+Women with aortic dimensions greater than 4.0 cm are at risk for aortic complications during pregnancy
+and the postpartum period. Therefore, pregnancy should be delayed if possible until after definitive
+treatment of the aorta has been completed. Elective surgery to replace a dilated aortic root prior to a
+planned pregnancy in a Marfan syndrome woman, should be performed when aortic root diameter is 4.2
+cm or greater, to avoid the increased risk of dissection due to hormone influence during pregnancy. The
+patient should be advised to wait one year after surgery before becoming pregnant.[63] [64]
+Those whose aorta is greater than 4.5 cm, or those who have previously had an aortic dissection
+or rupture, are at substantially higher risk.[3] [65] If already pregnant, clinicians should consider
+immediate aortic replacement, early delivery, or termination of the pregnancy, given the potentially severe
+consequences.[3] [66] [67]
+The rate of spontaneous abortion has been reported as higher-than-expected in women with Marfan
+syndrome, although the etiology is unknown.[3] [68] In addition, women with Marfan syndrome experience
+higher rates of preterm deliveries, premature rupture of membranes, and increased mortality of their
+offspring.[3] [68] [69]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Marfan syndrome Management
+MANAGEMENT
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+aortic dilation meeting the
+indications for surgery
+1st modified David reimplantation with
+replacement of the aortic root and sparing
+of the aortic valve
+plus endocarditis prophylaxis prior to high-risk
+procedures
+2nd replacement of the aortic root with a
+composite Dacron graft and mechanical
+valve
+plus lifelong postoperative anticoagulation
+plus endocarditis prophylaxis prior to high-risk
+procedures
+3rd root remodeling operation
+plus endocarditis prophylaxis prior to high-risk
+procedures
+retinal tear
+1st argon laser photocoagulation,
+transconjunctival cryocoagulation
+retinal detachment
+1st surgical repair
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Marfan syndrome Management
+Ongoing ( summary )
+aortic dilation not meeting
+indications for surgery or following
+aortic surgery
+1st beta-blocker and/or angiotensin-II receptor
+antagonist
+myopia
+1st corrective lens
+2nd surgery
+lens subluxation/dislocation
+optical correction
+possible, no anterior
+lens dislocation, no
+dislocation into vitreous
+cavity
+1st spectacles/contact lenses
+optical correction
+not possible, anterior
+lens dislocation with
+secondary glaucoma or
+dislocation into vitreous
+cavity
+1st surgery
+cataract
+1st surgical removal of lens, with or without
+intraocular lens implantation
+scoliosis/kyphoscoliosis
+1st orthopedic bracing
+2nd surgery
+severe pectus excavatum/carinatum
+with evidence of cardiopulmonary
+compromise
+1st surgery
+1st brace suction or compression
+arthropathy and/or spondylolisthesis
+1st physical therapy and analgesics
+2nd surgery
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Marfan syndrome Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+aortic dilation meeting the
+indications for surgery
+1st modified David reimplantation with
+replacement of the aortic root and sparing
+of the aortic valve
+» Elective surgery is recommended once aortic
+diameter measures 4.5 to 5.0 cm (earlier in
+symptomatic patients with chest pain).[19] [46]
+[47] [48] Surgery is indicated earlier (at aortic
+diameter >4.2 cm) in women of reproductive
+age who wish to become pregnant. In women
+who are pregnant, there is a risk of dissection
+when the aortic root is ≥4.2 cm.[49] The
+measurement of the aortic root/body height
+ratio is taken into account in children and
+if this ratio is >10, elective surgery is likely,
+but the decision of exactly when to operate
+may vary between surgeons and needs to be
+performed by experienced surgeons as part of
+a multidisciplinary aortic team.[19] In patients
+with an aortic diameter approaching surgical
+threshold, who are candidates for valve-sparing
+root replacement and have a very low surgical
+risk, the American Heart Association and
+American College of Cardiology recommend that
+surgery to replace the aortic root and ascending
+aorta may be reasonable if performed by an
+experienced team.[19]
+» Surgery has a 91% to 97% freedom from
+reoperation at 10 years if performed at a
+center with sufficient experience and a low
+postoperative death rate after elective procedure
+less than 1%.[50] [51]
+plus endocarditis prophylaxis prior to high-risk
+procedures
+Treatment recommended for ALL patients in
+selected patient group
+» Guidelines recommend that any patient
+who has prosthetic material, either valve or
+graft, will require antibiotic prophylaxis, for
+invasive procedures directed against oral
+streptococci.[52] [53]
+» Administered in a single dose 30 to 60 minutes
+prior to all dental procedures that involve
+manipulation of gingival tissue or the periapical
+region of teeth or perforation of oral mucosa;
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Marfan syndrome Management
+Acute
+invasive procedures of the respiratory tract
+that involve incision or biopsy of the respiratory
+mucosa; procedures on infected skin/skin
+structures/musculoskeletal tissue.
+» Cephalosporins should not be used in
+an individual with a history of anaphylaxis,
+angioedema, or urticaria with penicillins or
+ampicillin.
+2nd replacement of the aortic root with a
+composite Dacron graft and mechanical
+valve
+» This procedure is now only indicated outside
+the centers performing modified David aortic
+valve reimplantation, as it carries a higher
+risk of postoperative complications such as
+graft infection, endocarditis or stroke, valve
+thrombosis, and bleeding from a lifetime of
+anticoagulation with warfarin.
+plus lifelong postoperative anticoagulation
+Treatment recommended for ALL patients in
+selected patient group
+Primary options
+» warfarin: 2-5 mg orally once daily initially,
+adjust dose according to target INR
+Starting dose can be calculated
+using an online tool that takes patient
+characteristics and/or CYP2C9/VKORC1
+genotype information (if available) into
+account.  [Warfarin dosing] (http://
+www.warfarindosing.org/Source/Home.aspx)
+» Patients with mechanical valves will need
+lifelong warfarin therapy.[53]
+» Factors that increase risk of major
+bleeding with warfarin include high-intensity
+anticoagulation (INR >4.0), age more than 65
+years, highly variable INR, history of GI bleed,
+hypertension, cerebrovascular disease, serious
+heart disease, anemia, malignancy, trauma,
+renal insufficiency, concomitant drugs, and long
+duration of warfarin therapy.
+plus endocarditis prophylaxis prior to high-risk
+procedures
+Treatment recommended for ALL patients in
+selected patient group
+» Guidelines recommend that any patient
+who has prosthetic material, either valve or
+graft, will require antibiotic prophylaxis for
+invasive procedures, directed against oral
+streptococci.[52] [53]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Marfan syndrome Management
+MANAGEMENT
+Acute
+» Administered in a single dose 30 to 60 minutes
+prior to all dental procedures that involve
+manipulation of gingival tissue or the periapical
+region of teeth or perforation of oral mucosa;
+invasive procedures of the respiratory tract
+that involve incision or biopsy of the respiratory
+mucosa; procedures on infected skin/skin
+structures/musculoskeletal tissue.
+» Cephalosporins should not be used in
+an individual with a history of anaphylaxis,
+angioedema, or urticaria with penicillins or
+ampicillin.
+3rd root remodeling operation
+» This procedure has also been shown to have
+worse results than the David reimplantation
+operation.
+plus endocarditis prophylaxis prior to high-risk
+procedures
+Treatment recommended for ALL patients in
+selected patient group
+» Guidelines recommend that any patient
+who has prosthetic material, either valve or
+graft, will require antibiotic prophylaxis for
+invasive procedures, directed against oral
+streptococci.[52] [53]
+» Administered in a single dose 30 to 60 minutes
+prior to all dental procedures that involve
+manipulation of gingival tissue or the periapical
+region of teeth or perforation of oral mucosa;
+invasive procedures of the respiratory tract
+that involve incision or biopsy of the respiratory
+mucosa; procedures on infected skin/skin
+structures/musculoskeletal tissue.
+» Cephalosporins should not be used in
+an individual with a history of anaphylaxis,
+angioedema, or urticaria with penicillins or
+ampicillin.
+retinal tear
+1st argon laser photocoagulation,
+transconjunctival cryocoagulation
+» Retinal tears can be repaired by argon laser
+photocoagulation and/or transconjunctival
+cryocoagulation.
+retinal detachment
+1st surgical repair
+» Retinal detachment requires surgery. The
+surgical options scleral buckling, vitrectomy,
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Marfan syndrome Management
+Acute
+or both depend on the complexity of the
+detachment, the status of the lens, and the
+severity of dislocation.
+» Currently available vitreoretinal techniques
+result in successful reattachment of the retina in
+>80% of the eyes.[70] [71]
+» Retinal detachment occurs rarely in Marfan
+syndrome as a primary ocular event, but occurs
+more often as a result of vitreolensectomy.[70]
+[71] [72]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Marfan syndrome Management
+MANAGEMENT
+Ongoing
+aortic dilation not meeting
+indications for surgery or following
+aortic surgery
+1st beta-blocker and/or angiotensin-II receptor
+antagonist
+Primary options
+» metoprolol succinate: children: consult
+specialist for guidance on dose; adults: 25 mg
+orally (extended-release) once daily initially,
+increase gradually according to response,
+maximum 400 mg/day
+OR
+» atenolol: children: consult specialist
+for guidance on dose; adults: 25-50 mg
+orally once daily initially, increase gradually
+according to response, maximum 100 mg/day
+OR
+» bisoprolol: adults: 1.25 mg orally once
+daily initially, increase gradually according to
+response, maximum 20 mg/day
+OR
+» losartan: children: consult specialist
+for guidance on dose; adults: 25-50 mg
+orally once daily initially, increase gradually
+according to response, maximum 100 mg/day
+OR
+» irbesartan: children: consult specialist
+for guidance on dose; adults: 75-150 mg
+orally once daily initially, increase gradually
+according to response, maximum 300 mg/day
+Secondary options
+» metoprolol succinate: children: consult
+specialist for guidance on dose; adults: 25 mg
+orally (extended-release) once daily initially,
+increase gradually according to response,
+maximum 400 mg/day
+-or-
+» atenolol: children: consult specialist
+for guidance on dose; adults: 25-50 mg
+orally once daily initially, increase gradually
+according to response, maximum 100 mg/day
+-or-
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Marfan syndrome Management
+Ongoing
+» bisoprolol: adults: 1.25 mg orally once
+daily initially, increase gradually according to
+response, maximum 20 mg/day
+--AND--
+» losartan: children: consult specialist
+for guidance on dose; adults: 25-50 mg
+orally once daily initially, increase gradually
+according to response, maximum 100 mg/day
+-or-
+» irbesartan: children: consult specialist
+for guidance on dose; adults: 75-150 mg
+orally once daily initially, increase gradually
+according to response, maximum 300 mg/day
+» Beta-blockers (e.g., metoprolol, atenolol,
+bisoprolol) are an established treatment for
+Marfan syndrome as they reduce heart rate and
+myocardial contractility, and slow aortic root
+growth, reducing the risk of complications such
+as aortic dissection and rupture.[19] [40] [41]
+[42]
+» More recently, angiotensin-II receptor
+antagonists (e.g., irbesartan, losartan) have
+been found to be efficacious in Marfan
+syndrome.[19] Approximately 20% of children
+with Marfan syndrome have asthma, and in
+these children beta-blockers are relatively
+contraindicated. Using cardioselective beta-
+blockers (e.g., metoprolol, atenolol, bisoprolol)
+is likely to reduce this risk.[43] An angiotensin-
+II receptor antagonist may be used in these
+patients instead.[44] 
+» The American Academy of Pediatrics
+recommends treatment with either a beta-
+blocker or an angiotensin-II receptor antagonist
+in patients with Marfan syndrome an aortic root
+dilatation, with consideration of combination
+treatment where there is severe and/or
+progressive aortic root dilatation.[3] The
+American Heart Association/American College of
+Cardiology (AHA/ACC) also recommends either
+treatment option.[19] [45]
+» The AHA/ACC suggests combination therapy
+is reasonable to reduce the rate of aortic dilation
+citing a meta-analysis which confirmed slower
+aortic growth rates with combination therapy.[19]
+[45]
+myopia
+1st corrective lens
+» Treatment may be achieved by concave
+spherical correction with spectacles or contact
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Marfan syndrome Management
+MANAGEMENT
+Ongoing
+lenses. If present, astigmatism should also be
+corrected.
+2nd surgery
+» Surgery (clear lens extraction and intraocular
+lens implantation) may be performed when
+spectacles or contact lenses are insufficient and/
+or not tolerated.[73]
+» Young children are at risk for amblyopia and
+require refraction and close monitoring.[3] [56]
+lens subluxation/dislocation
+optical correction
+possible, no anterior
+lens dislocation, no
+dislocation into vitreous
+cavity
+1st spectacles/contact lenses
+» Lens subluxation/dislocation may cause visual
+symptoms that vary in severity depending on the
+degree of lens displacement.
+» If the subluxation is mild, the patient sees
+through the phakic portion of the pupil. Optical
+correction with spectacles or contact lenses is
+indicated as first-line treatment when possible.
+» If the subluxation is large enough, the patient
+sees through the aphakic portion of the pupil.
+optical correction
+not possible, anterior
+lens dislocation with
+secondary glaucoma or
+dislocation into vitreous
+cavity
+1st surgery
+» Lens extraction and intraocular lens
+implantation is indicated if the edge of the
+lens bisects the pupil and optical correction is
+impossible.
+» Anterior dislocation of the lens with secondary
+glaucoma is an indication for lens extraction
+and primary or secondary intraocular lens
+implantation. Pars plana vitreolensectomy is
+another therapeutic option in this case.[72] Pars
+plana vitrectomy is also indicated when there is
+lens dislocation into the vitreous cavity.
+» Contact lenses can be tried before or after
+lens removal and, if tolerated, may be sufficient
+to correct vision without implantation of an
+intraocular lens.[57]
+» When an intraocular lens implantation
+is required, posterior chamber lenses are
+recommended because they reduce the
+complications of lens decentration. These
+lenses are sutured in place by scleral and/or iris
+fixation.[24] [74] Lenses may be placed in the
+anterior chamber.[57]
+cataract
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Marfan syndrome Management
+Ongoing
+1st surgical removal of lens, with or without
+intraocular lens implantation
+» Complications related to cataract surgery
+are higher in patients with Marfan syndrome
+compared with the general population, due to
+zonular weakness. The risk of posterior capsule
+rupture with vitreous loss and intraocular lens
+luxation into the vitreous is thus increased. The
+use of capsular tension rings intraoperatively
+reduces these complications.
+scoliosis/kyphoscoliosis
+1st orthopedic bracing
+» Scoliosis and kyphoscoliosis are frequently
+seen in growing teenagers. Curves of 20 to 40
+degrees require orthopedic bracing, to be worn
+around 23 hours of the day.
+2nd surgery
+» Scoliosis and kyphoscoliosis are frequently
+seen in growing teenagers. Curves of >40
+degrees require surgical correction with
+Harrington rods and spinal fusion, or telescopic
+magnetic growth rods, which are becoming
+increasingly popular for young children.[54] [75]
+[76]
+severe pectus excavatum/carinatum
+with evidence of cardiopulmonary
+compromise
+1st surgery
+» Requires surgical correction if impairing
+breathing. Deformed sternum and ribs are
+straightened using a metal bar.[77] Surgery
+is not usually indicated for cosmetic reasons
+because of potential risks. If open heart surgery
+is required, this should be performed prior to
+sternal correction if possible.
+1st brace suction or compression
+» If presenting during the active growth
+period, may be treated by brace suction or
+compression.[78]
+arthropathy and/or spondylolisthesis
+1st physical therapy and analgesics
+Primary options
+» acetaminophen: children: 10-15 mg/
+kg orally every 4-6 hours when required,
+maximum 75 mg/kg/day; adults: 325-1000
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Marfan syndrome Management
+MANAGEMENT
+Ongoing
+mg orally every 4-6 hours when required,
+maximum 4000 mg/day
+OR
+» ibuprofen: children: 5-10 mg/kg orally every
+6-8 hours when required, maximum 40 mg/
+kg/day; adults: 400 mg orally every 4-6 hours
+when required, maximum 2400 mg/day
+-or-
+» naproxen: adults: 250-500 mg orally twice
+daily when required, maximum 1250 mg/day
+Dose expressed as naproxen base.
+-or-
+» diclofenac potassium: adults: 50 mg orally
+(immediate-release) three times daily when
+required, maximum 150 mg/day
+-or-
+» indomethacin: adults: 25-50 mg orally
+(immediate-release) two to three times daily
+when required, maximum 200 mg/day
+--AND--
+» omeprazole: children: consult specialist for
+guidance on dose; adults: 10-20 mg orally
+once daily
+» Spondylolisthesis or dural ectasia may
+result in low back pain. Mild arthritic pain is
+managed medically and with physical therapy.
+Spondylolisthesis <30 degrees may also be
+treated with bracing, whereas a larger slippage
+will need surgery.
+» Mild painkillers (e.g., acetaminophen,
+ibuprofen) and orthopedic footwear may be given
+in cases of painful flat feet, with foot surgery only
+rarely becoming necessary.
+» Nonsteroidal anti-inflammatory drugs (NSAIDs)
+can be taken concurrently with warfarin, if
+both are taken regularly, and warfarin dose is
+adjusted to maintain INR.
+» Omeprazole can be added to NSAID therapy
+to prevent NSAID-induced ulcers; however, it can
+prolong the elimination of warfarin and increase
+INR.
+2nd surgery
+» Rarely required. Refer to an orthopedic
+specialist for advice and treatment.
+Spondylolisthesis >30 degrees will need surgical
+realignment. Advanced arthritis in adults due
+to protrusio acetabulae may necessitate hip
+replacement.
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Marfan syndrome Management
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Marfan syndrome Management
+MANAGEMENT
+Emerging
+External stent to support aorta
+This innovative procedure involves a mesh tube, custom-made using computer-aided design, wrapped
+around the root of the aorta. Long-term follow-up is underway to evaluate the procedure which is increasingly
+available in specialized centers.[48] [79] [80] [81] Perioperative mortality is low, and less than that for open
+heart surgery.[82] The advantages of this personalized external aortic root support (PEARS) technique
+include shorter operation time, more rapid recovery, and lack of need for lifelong anticoagulant therapy.
+Secondary prevention
+Any patient who has prosthetic material, either valve or graft, will require antibiotic prophylaxis for invasive
+procedures.[52] [53] 
+Patients with mechanical valves will need lifelong warfarin therapy.[53]
+Children require repeated refraction measurements to prevent amblyopia.
+Patient discussions
+The recommendations concerning which sports are safe in these often young patients can be difficult.
+Children and adolescents with Marfan syndrome are at significant risk for physical injury and medical
+complications with physical activity and of particular concern are contact sports, activities with "burst"
+exertion (such as sprinting) and intense isometric exertion such as weight lifting.[3] In patients with
+significant aortic disease guidance should be provided to avoid intense isometric exercises, burst exertion,
+and collision sports.[19] Patients without aortic dilatation, significant valve regurgitation or ventricular
+dysfunction can be encouraged to participate in recreational physical activity but this is still limited by
+the intensity of the activity.[3] The American Heart Association provides recommendations for Marfan
+syndrome and physical activity which grades individual sports and their suitability.[92]
+Patients are instructed to seek immediate ocular examination if they develop ophthalmologic symptoms
+such as the perception of floaters (myodesopsia), flashing lights (photopsia), glare, or visual-field defect.
+Women who are planning a pregnancy should be offered preconception counseling; this would ideally
+be provided by a geneticist or cardiologist familiar with Marfan syndrome, a genetic counselor, and
+a perinatologist.[3] Based on a known causative fibrillin-1 mutation in either parent, prepregnancy
+counseling should include advice regarding options of antenatal diagnosis by chorionic villus biopsy at 11
+weeks' gestation, or preimplantation genetic diagnosis to ensure an unaffected fetus.[38] [93]
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Marfan syndrome Follow up
+Monitoring
+Monitoring
+The American Academy of Pediatrics recommends cardiac exam at each visit up to the age of 13 years
+after which it is recommended annually. Echocardiogram is recommended at diagnosis with a repeat test
+after 6 months - most children will then require an annual echocardiogram (though frequency depends
+on the z-score and may be more often) along with ophthalmological review annually. Assessment for
+scoliosis, joint laxity, and pectus deformity should be carried out at each visit up to the age of 1 year, then
+annually from age 1 to 5 years and 6 monthly from the age of 6 to 18 years.[3]
+Ideally a cardiologist familiar with Marfan syndrome should be involved with follow-up. If echocardiogram
+does not clearly demonstrate aortic root dimensions computed tomography (CT) or magnetic resonance
+angiography (MRA) can be used - MRA is recommended for serial studies due to radiation associated
+with CT.[3]
+Patients who have undergone an aortic root replacement require surveillance imaging by MRI or CT
+initially annually and then every 2 years if unchanged.[19] In these patients surveillance for abdominal
+aortic aneurysm every 3-5 years is considered reasonable.[19]
+Patients with Marfan syndrome also need routine eye care for optical correction of refractive errors,
+periodic monitoring of intraocular pressure, and anterior segment examination with a slit-lamp to assess
+the eye for lens location and opacities. Fundus exam with pupil dilation is routinely performed in all cases,
+with particular attention to peripheral retinal changes, tears, or detachment.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Marfan syndrome Follow up
+FOLLOW UP
+Complications
+Complications Timeframe Likelihood
+coronary ostial aneurysm following aortic repair long term low
+Risk dependent on method used to reattach the coronary artery button.
+acute aortic dissection/rupture variable high
+May present with: severe, stabbing, sudden-onset chest pain; absent pulses; confusion; tachycardia; loss
+of consciousness; signs of abdominal ischemia; differing BP in different arms, wide pulse pressure due to
+aortic regurgitation, or distant heart sounds secondary to tamponade.
+Left shoulder, back, or abdominal pain is not infrequent.
+Requires immediate surgery, once confirmed by echo and CT scan/MRI of the thorax. Exceptions are
+previous cardiac surgery, dissection more than a few days old, history of CAD, and anticoagulation
+therapy. Uncomplicated acute dissection of the descending aorta (type B) may initially be managed
+medically.[19]
+Cardiac catheterization is recommended in patients with previous cardiac surgery and those with possible
+CAD.
+Acute dissection beyond the left subclavian artery is initially treated medically, unless there is evidence of
+distal ischemia.
+Following surgery for aortic dissection, lifelong therapy with beta-blockers (or an angiotensin-II receptor
+antagonist if beta-blockers are contraindicated/not tolerated) is indicated.
+chronic aortic dissection variable high
+Usually seen after previous cardiac surgery.
+Patients require extensive workup for surgery. Most require initial aortic arch replacement beyond a
+previous ascending aortic graft insertion using the so-called elephant trunk procedure.[87]
+A second-stage elephant trunk procedure is required 2 to 4 months postoperatively.
+In many patients, the entire aorta is replaced because of the dissected weakened aorta becoming
+aneurysmal.
+Following surgery for aortic dissection, lifelong therapy with beta-blockers (or an angiotensin-II receptor
+antagonist if beta-blockers are contraindicated/not tolerated) is indicated.
+continued aortic dilation variable medium
+The weakened aortic wall is still too stressed by pulsatile flow.
+If dilation is beyond 2 mm every 6 months or aortic root area/body height ratio of 10 despite drug
+treatment, surgical referral is recommended.
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Marfan syndrome Follow up
+Complications Timeframe Likelihood
+symptomatic aortic regurgitation variable medium
+Occurs with aortic root dilation.
+spontaneous pneumothorax variable medium
+May be recurrent. Preventative surgery is recommended after 1 to 3 episodes, depending on severity.[89]
+[90]
+symptomatic inguinal/abdominal/incisional hernia variable medium
+May be recurrent so use of mesh strongly recommended during first repair.[91]
+severe mitral regurgitation variable low
+Mitral valve prolapse often progresses to severe mitral valve regurgitation, especially in females.
+Surgery is indicated when regurgitation either becomes severe (grade 4+) or symptomatic or there is
+evidence of hemodynamic compromise.[88]
+infective endocarditis variable low
+Low risk in David reimplantation; high risk in composite valve graft procedure.
+heart failure variable low
+Heart valve disease or intrinsic cardiomyopathy may occur and require referral to a cardiologist.
+Prognosis
+Life expectancy of a patient with Marfan syndrome is approximately the same as the general population
+with a timely diagnosis and multidisciplinary management.[3] The most important factors in treatment of
+Marfan syndrome are the diagnosis of the condition, careful long-term follow-up for aortic expansion, referral
+for surgery when the aortic root area/body height ratio reaches 10 or aortic root diameter in the sinus of
+Valsalva reaches 4.5 to 5.0 cm, and emergency surgery for acute dissection. Long-term survival is excellent
+with beta-blocker control and surgery when indicated. Acute dissection results in a reduced survival even if
+successfully treated.[9] [10] However, early diagnosis followed by modern medical and surgical management
+has definitely improved quality and length of life.[84]
+Aortic surgery during pregnancy has increased the chance of preservation of lives of both mother and
+baby.[85] [86]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Marfan syndrome Follow up
+FOLLOW UP
+Impact of aortic dissection on patient survival
+From the collection of LG Svensson, E Mendrinos, C Pournaras
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Marfan syndrome Guidelines
+Diagnostic guidelines
+International
+Guideline for the diagnosis and management of aortic disease (https://
+www.acc.org/Guidelines)   [19]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2022
+Evaluation of the adolescent or adult with some features of Marfan syndrome
+(https://www.nature.com/articles/gim201148)   [36]
+Published by: American College of Medical Genetics and Genomics Last published: 2012
+Recent developments in the diagnosis of Marfan syndrome and related
+disorders (https://www.mja.com.au/journal/2012/197/9)   [37]
+Published by: Medical Journal of Australia Last published: 2012
+Treatment guidelines
+International
+Guideline for the diagnosis and management of aortic disease (https://
+www.acc.org/Guidelines)   [19]
+Published by: American Heart Association; American College of
+Cardiology
+Last published: 2022
+Prevention of infective endocarditis (https://professional.heart.org/en/
+guidelines-and-statements)   [83]
+Published by: American Heart Association Last published: 2007
+2014 ESC Guidelines on the diagnosis and treatment of aortic diseases
+(https://www.escardio.org/Guidelines)   [46]
+Published by: European Society of Cardiology Last published: 2014
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Marfan syndrome Online resources
+ONLINE RESOURCES
+Online resources
+1. Warfarin dosing (http://www.warfarindosing.org/Source/Home.aspx)  (external link)
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Marfan syndrome References
+Key articles
+• Tinkle BT, Lacro RV, Burke LW, et al. Health supervision for children and adolescents with Marfan
+syndrome. Pediatrics. 2023 Apr 1;151(4):e2023061450. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36938616?tool=bestpractice.bmj.com)
+• Isselbacher EM, Preventza O, Black JH 3rd, et al. 2022 ACC/AHA guideline for the diagnosis
+and management of aortic disease: a report of the American Heart Association/American
+College of Cardiology Joint Committee on Clinical Practice Guidelines. Circulation. 2022 Dec
+13;146(24):e334-482.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001106) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36322642?tool=bestpractice.bmj.com)
+References
+1. Pyeritz AE. The Marfan syndrome. Annu Rev Med. 2000;51:481-510. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10774478?tool=bestpractice.bmj.com)
+2. Loeys BL, Dietz HC, Braverman AC, et al. The revised Ghent nosology for the Marfan syndrome.
+J Med Genet. 2010 Jul;47(7):476-85. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20591885?
+tool=bestpractice.bmj.com)
+3. Tinkle BT, Lacro RV, Burke LW, et al. Health supervision for children and adolescents with Marfan
+syndrome. Pediatrics. 2023 Apr 1;151(4):e2023061450. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/36938616?tool=bestpractice.bmj.com)
+4. Murdoch JL, Walker BA, McKusick VA. Parental age effects on the occurrence of new mutations for
+the Marfan syndrome. Ann Hum Genet. 1972 Mar;35(3):331-6. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/5072691?tool=bestpractice.bmj.com)
+5. Grimes SJ, Acheson LS, Mathews AL, et al. Clinical consult: Marfan's syndrome. Prim
+Care. 2004 Sep;31(3):739-42, xii. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15331256?
+tool=bestpractice.bmj.com)
+6. Gray JR, Bridges AB, Faed MJ, et al. Ascertainment and severity of Marfan syndrome in a Scottish
+population. J Med Genet. 1994 Jan;31(1):51-4.  Full text (http://jmg.bmj.com/content/31/1/51.long)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8151638?tool=bestpractice.bmj.com)
+7. Arslan-Kirchner M, Arbustini E, Boileau C, et al. Clinical utility gene card for: Marfan syndrome type 1
+and related phenotypes [FBN1]. Eur J Hum Genet. 2010 Sep;18(9).  Full text (http://www.nature.com/
+ejhg/journal/v18/n9/full/ejhg201042a.html)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20372188?
+tool=bestpractice.bmj.com)
+8. Silverman DI, Burton KJ, Gray J, et al. Life expectancy in the Marfan syndrome. Am J
+Cardiol. 1995 Jan 15;75(2):157-60. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7810492?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Marfan syndrome References
+REFERENCES
+9. Svensson LG, Crawford ES, Coselli JS, et al. Impact of cardiovascular operation on survival in the
+Marfan patient. Circulation. 1989 Sep;80(3 Pt 1):I233-42. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/2766531?tool=bestpractice.bmj.com)
+10. Svensson LG, Blackstone EH, Feng J, et al. Are Marfan syndrome and marfanoid patients
+distinguishable on long-term follow-up? Ann Thorac Surg. 2007 Mar;83(3):1067-74. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/17307461?tool=bestpractice.bmj.com)
+11. Gillis E, Kempers M, Salemink S, et al. An FBN1 deep intronic mutation in a familial case of Marfan
+syndrome: an explanation for genetically unsolved cases? Hum Mutat. 2014 May;35(5):571-4. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/24610719?tool=bestpractice.bmj.com)
+12. Kainulainen K, Pulkkinen L, Savolainen A, et al. Location on chromosome 15 of the gene
+defect causing Marfan syndrome. N Engl J Med. 1990 Oct 4;323(14):935-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2402262?tool=bestpractice.bmj.com)
+13. Collod-Béroud G, Le Bourdelles S, Ades L, et al. Update of the UMD-FBN1 mutation database and
+creation of an FBN1 polymorphism database. Hum Mutat. 2003 Sep;22(3):199-208. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12938084?tool=bestpractice.bmj.com)
+14. Milewicz DM, Pyeritz RE, Crawford ES, et al. Marfan syndrome: defective synthesis, secretion,
+and extracellular matrix formation of fibrillin by cultured dermal fibroblasts. J Clin Invest.
+1992 Jan;89(1):79-86.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC442822/
+pdf/jcinvest00045-0093.pdf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1729284?
+tool=bestpractice.bmj.com)
+15. Pilop C, Aregger F, Gorman RC, et al. Proteomic analysis in aortic media of patients with
+Marfan syndrome reveals increased activity of calpain 2 in aortic aneurysms. Circulation.
+2009 Sep 15;120(11):983-91. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19720936?
+tool=bestpractice.bmj.com)
+16. Ramirez F, Dietz HC. Fibrillin-rich microfibrils: Structural determinants of morphogenetic and
+homeostatic events. J Cell Physiol. 2007 Nov;213(2):326-30. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17708531?tool=bestpractice.bmj.com)
+17. Attias D, Stheneur C, Roy C, et al. Comparison of clinical presentations and outcomes between
+patients with TGFBR2 and FBN1 mutations in Marfan syndrome and related disorders. Circulation.
+2009 Dec 22;120(25):2541-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19996017?
+tool=bestpractice.bmj.com)
+18. Alpendurada F, Wong J, Kiotsekoglou A, et al. Evidence for Marfan cardiomyopathy. Eur J
+Heart Fail. 2010 Oct;12(10):1085-91. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20861133?
+tool=bestpractice.bmj.com)
+19. Isselbacher EM, Preventza O, Black JH 3rd, et al. 2022 ACC/AHA guideline for the diagnosis
+and management of aortic disease: a report of the American Heart Association/American
+College of Cardiology Joint Committee on Clinical Practice Guidelines. Circulation. 2022 Dec
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Marfan syndrome References
+13;146(24):e334-482.  Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001106) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36322642?tool=bestpractice.bmj.com)
+20. American College of Medical Genetics and Genomics. Five things physicians and patients should
+question. Choosing Wisely, an initiative of the ABIM Foundation. 2021 [internet publication].  Full text
+(https://web.archive.org/web/20230326143738/https://www.choosingwisely.org/societies/american-
+college-of-medical-genetics-and-genomics)
+21. De Paepe A, Devereux RB, Dietz HC, et al. Revised diagnostic criteria for the Marfan syndrome. Am
+J Med Genet. 1996 Apr 24;62(4):417-26. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8723076?
+tool=bestpractice.bmj.com)
+22. Thapa BB, Singh R, Ram J, et al. Lens coloboma in one eye and ectopia lentis in the other eye
+of a patient with Marfan syndrome. BMJ Case Rep. 2014 Dec 9;2014;2014:bcr2014207112. 
+Full text (https://europepmc.org/article/med/25498110)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25498110?tool=bestpractice.bmj.com)
+23. Rubin SE. Nelson LB. Ocular manifestations of autosomal dominant systemic conditions. Duane’s
+clinical ophthalmology on CD-Rom. Vol. 3. Ch. 58. Philadelphia, Pa: Lippincott Williams & Wilkins,
+2006.
+24. Nemet AY, Assia EI, Apple DJ, et al. Current concepts of ocular manifestations in Marfan
+syndrome. Surv Ophthalmol. 2006 Nov-Dec;51(6):561-75. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/17134646?tool=bestpractice.bmj.com)
+25. Esfandiari H, Ansari S, Mohammad-Rabei H, et al. Management strategies of ocular abnormalities
+in patients with Marfan syndrome: current perspective. J Ophthalmic Vis Res. 2019 Jan-
+Mar;14(1):71-7.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6388525)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30820290?tool=bestpractice.bmj.com)
+26. Renard M, Francis C, Ghosh R, et al. Clinical validity of genes for Heritable Thoracic Aortic
+Aneurysm and Dissection. J Am Coll Cardiol. 2018 Aug 7;72(6):605-15.  Full text (https://
+www.doi.org/10.1016/j.jacc.2018.04.089)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30071989?
+tool=bestpractice.bmj.com)
+27. Tran-Fadulu V, Pannu H, Kim DH, et al. Analysis of multigenerational families with thoracic
+aortic aneurysms and dissections due to TGFBR1 or TGFBR2 mutations. J Med Genet.
+2009 Sep;46(9):607-13. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19542084?
+tool=bestpractice.bmj.com)
+28. Milewicz DM, Østergaard JR, Ala-Kokko LM, et al. De novo ACTA2 mutation causes a novel syndrome
+of multisystemic smooth muscle dysfunction. Am J Med Genet A. 2010 Oct;152A(10):2437-43.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20734336?tool=bestpractice.bmj.com)
+29. Zhu L, Vranckx R, Khau Van Kien P, et al. Mutations in myosin heavy chain 11 cause a syndrome
+associating thoracic aortic aneurysm/aortic dissection and patent ductus arteriosus. Nat Genet. 2006
+Mar;38(3):343-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16444274?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Marfan syndrome References
+REFERENCES
+30. van de Laar IM, Oldenburg RA, Pals G, et al. Mutations in SMAD3 cause a syndromic form of aortic
+aneurysms and dissections with early-onset osteoarthritis. Nat Genet. 2011 Feb;43(2):121-6. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/21217753?tool=bestpractice.bmj.com)
+31. Boileau C, Guo DC, Hanna N, et al. TGFB2 mutations cause familial thoracic aortic aneurysms
+and dissections associated with mild systemic features of Marfan syndrome. Nat Genet. 2012 Jul
+8;44(8):916-21.  Full text (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4033668)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22772371?tool=bestpractice.bmj.com)
+32. Milewicz DM, Regalado E. Thoracic aortic aneurysms and aortic dissections. January 2012 [internet
+publication].  Full text (http://www.ncbi.nlm.nih.gov/books/NBK1120)
+33. Malfait F, Francomano C, Byers P, et al. The 2017 international classification of the Ehlers-Danlos
+syndromes. Am J Med Genet C Semin Med Genet. 2017 Mar;175(1):8-26.  Full text (https://
+www.doi.org/10.1002/ajmg.c.31552)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28306229?
+tool=bestpractice.bmj.com)
+34. Loeys BL, Schwarze U, Holm T, et al. Aneurysm syndromes caused by mutations in the TGF-
+beta receptor. N Engl J Med. 2006 Aug 24;355(8):788-98.  Full text (http://www.nejm.org/doi/
+full/10.1056/NEJMoa055695#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16928994?
+tool=bestpractice.bmj.com)
+35. The Marfan Foundation. Loeys-Dietz Syndrome: causes. [internet publication].  Full text (https://
+marfan.org/conditions/loeys-dietz/#causes)
+36. Pyeritz RE; American College of Medical Genetics and Genomics. Evaluation of the adolescent or
+adult with some features of Marfan syndrome. Genet Med. 2012 Jan;14(1):171-7.  Full text (http://
+www.nature.com/gim/journal/v14/n1/full/gim201148a.html)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22237449?tool=bestpractice.bmj.com)
+37. Summers KM, West JA, Hattam A, et al. Recent developments in the diagnosis of Marfan syndrome
+and related disorders. Med J Aust. 2012 Nov 5;197(9):494-7.  Full text (https://www.mja.com.au/
+journal/2012/197/9/recent-developments-diagnosis-marfan-syndrome-and-related-disorders)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/23121584?tool=bestpractice.bmj.com)
+38. Child AH, Aragon-Martin JA, Sage K. Genetic testing in Marfan syndrome. Br J Hosp Med
+(Lond). 2016 Jan;77(1):38-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26903455?
+tool=bestpractice.bmj.com)
+39. Isekame Y, Gati S. Cardiac management. In: Child AH, ed. Diagnosis and management of Marfan
+syndrome. London: Springer-Verlag; 2016:39-56.
+40. Thakur V, Rankin KN, Hartling L, et al. A systematic review of the pharmacological management
+of aortic root dilation in Marfan syndrome. Cardiol Young. 2013 Aug;23(4):568-81. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/23083542?tool=bestpractice.bmj.com)
+41. Vahanian A, Beyersdorf F, Praz F, et al. 2021 ESC/EACTS Guidelines for the management of
+valvular heart disease. Eur Heart J. 2022 Feb 12;43(7):561-632.  Full text (https://academic.oup.com/
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Marfan syndrome References
+eurheartj/article/43/7/561/6358470)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/34453165?
+tool=bestpractice.bmj.com)
+42. Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32860028?tool=bestpractice.bmj.com)
+43. Bennett M, Chang CL, Tatley M, et al. The safety of cardioselective β(1)-blockers in asthma:
+literature review and search of global pharmacovigilance safety reports. ERJ Open Res. 2021 Mar
+1;7(1):00801-2020.  Full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC7917232)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33681344?tool=bestpractice.bmj.com)
+44. Mullen M, Jin XY, Child A, et al. Irbesartan in Marfan syndrome (AIMS): a double-blind,
+placebo-controlled randomised trial. Lancet. 2019 Dec 21;394(10216):2263-70.  Full text
+(https://www.doi.org/10.1016/S0140-6736(19)32518-8)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31836196?tool=bestpractice.bmj.com)
+45. Buckler AJ, Kessler DJ, Duyao MP, et al. Regulation of c-myc gene transcription in B lymphocytes:
+mechanisms of negative and positive control. Curr Top Microbiol Immunol. 1988;141:238-46. 
+Full text (https://link.springer.com/chapter/10.1007/978-3-642-74006-0_32)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3265090?tool=bestpractice.bmj.com)
+46. Erbel R, Aboyans V, Boileau C, et al. 2014 ESC guidelines on the diagnosis and treatment
+of aortic diseases: document covering acute and chronic aortic diseases of the thoracic and
+abdominal aorta of the adult. The task force for the diagnosis and treatment of aortic diseases of the
+European Society of Cardiology (ESC). Eur Heart J. 2014 Nov 1;35(41):2873-926.  Full text (https://
+www.doi.org/10.1093/eurheartj/ehu281)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25173340?
+tool=bestpractice.bmj.com)
+47. Svensson LG, Crawford ES. Marfan syndrome and connective tissue disorders. In: Svensson LG,
+Crawford ES, eds. Cardiovascular and vascular disease of the aorta. Philadelphia, PA: WB Saunders;
+1997:84-104.
+48. Svensson LG, Khitin L. Aortic cross-sectional area/height ratio timing of aortic surgery in asymptomatic
+patients with Marfan syndrome. J Thorac Cardiovasc Surg. 2002 Feb;123(2):360-1. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/11828302?tool=bestpractice.bmj.com)
+49. Lipscomb KJ, Smith JC, Clarke B, et al. Outcome of pregnancy in women with Marfan's syndrome. Br
+J Obstet Gynaecol. 1997 Feb;104(2):201-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9070139?
+tool=bestpractice.bmj.com)
+50. Svensson LG, Deglurkar I, Ung J, et al. Aortic valve repair and root preservation by remodeling,
+reimplantation, and tailoring: technical aspects and early outcome. J Card Surg. 2007 Nov-
+Dec;22(6):473-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18039206?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Marfan syndrome References
+REFERENCES
+51. Svensson LG. Sizing for modified David's reimplantation procedure. Ann Thorac Surg.
+2003 Nov;76(5):1751-3. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14602338?
+tool=bestpractice.bmj.com)
+52. European Society of Cardiology. 2023 ESC guidelines for the management of infective endocarditis:
+ESC clinical practice guidelines. 15 Nov 2023 [internet publication].  Full text (https://www.escardio.org/
+Guidelines/Clinical-Practice-Guidelines/Endocarditis-Guidelines)
+53. Nishimura RA, Otto CM, Bonow RO, et al. 2017 AHA/ACC focused update of the 2014 AHA/ACC
+guideline for the management of patients with valvular heart disease: a report of the American College
+of Cardiology/American Heart Association task force on clinical practice guidelines. J Am Coll Cardiol.
+2017 Jul 11;70(2):252-89.  Full text (https://www.doi.org/10.1016/j.jacc.2017.03.011)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28315732?tool=bestpractice.bmj.com)
+54. Akbarnia BA, Cheung K, Noordeen H, et al. Next generation of growth-sparing techniques: preliminary
+clinical results of a magnetically controlled growing rod in 14 patients with early-onset scoliosis.
+Spine. 2013 Apr 15;38(8):665-70. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23060057?
+tool=bestpractice.bmj.com)
+55. Lopez M, Patoir A, Costes F, et al. Preliminary study of efficacy of cup suction in the correction of
+typical pectus excavatum. J Pediatr Surg. 2016 Jan;51(1):183-7. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26526206?tool=bestpractice.bmj.com)
+56. Drolsum L, Rand-Hendriksen S, Paus B, et al. Ocular findings in 87 adults with Ghent-1 verified
+Marfan syndrome. Acta Ophthalmol. 2015 Feb;93(1):46-53. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24853997?tool=bestpractice.bmj.com)
+57. Wagoner MD, Cox TA, Ariyasu RG, et al. Intraocular lens implantation in the absence of
+capsular support: a report by the American Academy of Ophthalmology. Ophthalmology. 2003
+Apr;110(4):840-59.  Full text (http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0020609)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/12689913?tool=bestpractice.bmj.com)
+58. Donnelly RT, Pinto NM, Kocolas I, et al. The immediate and long-term impact of pregnancy on
+aortic growth rate and mortality in women with Marfan syndrome. J Am Coll Cardiol. 2012 Jul
+17;60(3):224-9.  Full text (https://www.doi.org/10.1016/j.jacc.2012.03.051)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22789886?tool=bestpractice.bmj.com)
+59. Cauldwell M, Steer PJ, Curtis SL, et al. Maternal and fetal outcomes in pregnancies complicated
+by Marfan syndrome. Heart. 2019 Nov;105(22):1725-31.  Full text (https://www.doi.org/10.1136/
+heartjnl-2019-314817)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31129614?
+tool=bestpractice.bmj.com)
+60. Pacini L, Digne F, Boumendil A, et al. Maternal complication of pregnancy in Marfan syndrome. Int
+J Cardiol. 2009 Aug 14;136(2):156-61. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18632169?
+tool=bestpractice.bmj.com)
+61. Regitz-Zagrosek V, Roos-Hesselink JW, Bauersachs J, et al. 2018 ESC guidelines for the
+management of cardiovascular diseases during pregnancy. Eur Heart J. 2018 Sep 7;39(34):3165-241. 
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Marfan syndrome References
+Full text (https://www.doi.org/10.1093/eurheartj/ehy340)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30165544?tool=bestpractice.bmj.com)
+62. Magee LA, Duley L. Oral beta-blockers for mild to moderate hypertension during pregnancy.
+Cochrane Database Syst Rev. 2003;(3):CD002863.  Full text (https://www.cochranelibrary.com/cdsr/
+doi/10.1002/14651858.CD002863/full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12917933?
+tool=bestpractice.bmj.com)
+63. Jahangiri M, Clark J. Surgery for type A aortic dissection in pregnant patients with Marfan
+syndrome. Eur J Cardiothorac Surg. 2006 Feb;29(2):264; author reply 264-5.  Full text (https://
+www.doi.org/10.1016/j.ejcts.2005.11.008)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16376099?
+tool=bestpractice.bmj.com)
+64. Nishimura RA, Otto CM, Bonow RO, et al. 2014 AHA/ACC guideline for the management of
+patients with valvular heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2014 Jun 10;63(22):e57-185. 
+Full text (https://www.doi.org/10.1016/j.jacc.2014.02.536)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/24603191?tool=bestpractice.bmj.com)
+65. Renard M, Muiño-Mosquera L, Manalo EC, et al. Sex, pregnancy and aortic disease in Marfan
+syndrome. PLoS One. 2017;12(7):e0181166.  Full text (https://journals.plos.org/plosone/article?
+id=10.1371/journal.pone.0181166)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28708846?
+tool=bestpractice.bmj.com)
+66. Kim SY, Wolfe DS, Taub CC. Cardiovascular outcomes of pregnancy in Marfan's syndrome patients: a
+literature review. Congenit Heart Dis. 2018 Mar;13(2):203-9.  Full text (https://onlinelibrary.wiley.com/
+doi/abs/10.1111/chd.12546)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29063738?
+tool=bestpractice.bmj.com)
+67. Lim JCE, Cauldwell M, Patel RR, et al. Management of Marfan syndrome during pregnancy: a real
+world experience from a Joint Cardiac Obstetric Service. Int J Cardiol. 2017 Sep 15;243:180-4.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28606654?tool=bestpractice.bmj.com)
+68. Anum EA, Hill LD, Pandya A, et al. Connective tissue and related disorders and preterm birth:
+clues to genes contributing to prematurity. Placenta. 2009 Mar;30(3):207-15.  Full text (https://
+www.sciencedirect.com/science/article/abs/pii/S0143400408004372?via%3Dihub)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19152976?tool=bestpractice.bmj.com)
+69. Meijboom LJ, Drenthen W, Pieper PG, et al. Obstetric complications in Marfan syndrome. Int
+J Cardiol. 2006 Jun 7;110(1):53-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16236373?
+tool=bestpractice.bmj.com)
+70. Sharma T, Gopal L, Shanmugam MP, et al. Retinal detachment in Marfan syndrome:
+clinical characteristics and surgical outcome. Retina. 2002 Aug;22(4):423-8. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12172108?tool=bestpractice.bmj.com)
+71. Lee SY, Ang CL. Results of retinal detachment surgery in Marfan syndrome in Asians. Retina. 2003
+Feb;23(1):24-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12652227?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Marfan syndrome References
+REFERENCES
+72. Hubbard AD, Charteris DG, Cooling RJ. Vitreolensectomy in Marfan's syndrome. Eye. 1998;12 ( Pt
+3a):412-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9775242?tool=bestpractice.bmj.com)
+73. Siganos DS, Siganos CS, Popescu CN, et al. Clear lens extraction and intraocular lens
+implantation in Marfan's syndrome. J Cataract Refract Surg. 2000 May;26(5):781-4. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10831913?tool=bestpractice.bmj.com)
+74. Vadalà P, Capozzi P, Fortunato M. Intraocular lens implantation in Marfan's syndrome. J Pediatr
+Ophthalmol Strabismus. 2000 Jul-Aug;37(4):206-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10955542?tool=bestpractice.bmj.com)
+75. Sugrue PA, O'Shaughnessy BA, Blanke KM, et al. Rapidly progressive Scheuermann's disease in an
+adolescent after pectus bar placement treated with posterior vertebral-column resection: case report
+and review of the literature. Spine. 2013 Feb 15;38(4):E259-62. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23202355?tool=bestpractice.bmj.com)
+76. Rushton PRP, Smith SL, Kandemir G, et al. Spinal lengthening with magnetically controlled
+growing rods: data from the largest series of explanted devices. Spine (Phila Pa 1976). 2020 Feb
+1;45(3):170-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31513114?tool=bestpractice.bmj.com)
+77. Nuss D, Kelly RE Jr, Croitoru DP et al. A 10-year review of a minimally invasive technique for
+the correction of pectus excavatum. J Pediatr Surg. 1998 Apr;33(4):545-52. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9574749?tool=bestpractice.bmj.com)
+78. Fraser S, Child A, Hunt I. Pectus updates and special considerations in Marfan syndrome. Pediatr
+Rep. 2017 Nov 21;9(4):7277.  Full text (https://www.doi.org/10.4081/pr.2017.7227)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29383220?tool=bestpractice.bmj.com)
+79. National Institute for Health and Care Excellence. Personalised external aortic root support (PEARS)
+using mesh to prevent aortic root expansion and aortic dissection in people with Marfan syndrome.
+May 2022 [internet publication].  Full text (https://www.nice.org.uk/guidance/ipg724)
+80. Treasure T, Takkenberg JJ, Pepper J. Personalised external aortic root support. Heart.
+2014 Jul;100(13):1065-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24870954?
+tool=bestpractice.bmj.com)
+81. Treasure T, King A, Hidalgo Lemp L, et al. Developing a shared decision support framework
+for aortic root surgery in Marfan syndrome. Heart. 2018 Mar;104(6):480-6.  Full text (https://
+www.doi.org/10.1136/heartjnl-2017-311598)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28780581?tool=bestpractice.bmj.com)
+82. Pepper J, Izgi C, Golesworthy TJ, et al. Personalised external aortic root support (PEARS) to
+stabilise an aortic root aneurysm. Br J Cardiol. 2020;27(3):22.  Full text (https://www.doi.org/10.5837/
+bjc.2020.022)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35747770?tool=bestpractice.bmj.com)
+83. Wilson W, Taubert KA, Gewitz M, et al. Prevention of infective endocarditis: guidelines from the
+American Heart Association: a guideline from the American Heart Association Rheumatic Fever,
+Endocarditis, and Kawasaki Disease Committee, Council on Cardiovascular Disease in the Young,
+and the Council on Clinical Cardiology, Council on Cardiovascular Surgery and Anesthesia, and
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Marfan syndrome References
+the Quality of Care and Outcomes Research Interdisciplinary Working Group. Circulation. 2007 Oct
+9;116(15):1736-54.  Full text (https://www.ahajournals.org/doi/abs/10.1161/circulationaha.106.183095)
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17446442?tool=bestpractice.bmj.com)
+84. Pyeritz RE. Marfan syndrome: 30 years of research equals 30 years of additional life expectancy.
+Heart. 2009 Mar;95(3):173-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19001001?
+tool=bestpractice.bmj.com)
+85. Yates MT, Soppa G, Smelt J, et al. Perioperative management and outcomes of aortic surgery during
+pregnancy. J Thorac Cardiovasc Surg. 2015 Feb;149(2):607-10. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25524653?tool=bestpractice.bmj.com)
+86. Sakaguchi M, Kitahara H, Seto T, et al. Surgery for acute type A aortic dissection in pregnant
+patients with Marfan syndrome. Eur J Cardiothorac Surg. 2005 Aug;28(2):280-3; discussion 283-5. 
+Full text (https://www.doi.org/10.1016/j.ejcts.2005.02.047)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15939618?tool=bestpractice.bmj.com)
+87. Svensson LG, Kim KH, Blackstone EH, et al. Elephant trunk procedure: newer indications and uses.
+Ann Thorac Surg. 2004 Jul;78(1):109-16. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15223413?
+tool=bestpractice.bmj.com)
+88. Bhudia SK, Troughton R, Lam BK, et al. Mitral valve surgery in the adult Marfan syndrome patient.
+Ann Thorac Surg. 2006 Mar;81(3):843-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16488682?
+tool=bestpractice.bmj.com)
+89. Hall JR, Pyeritz RE, Dudgeon DL, et al. Pneumothorax in the Marfan syndrome: prevalence
+and therapy. Ann Thorac Surg. 1984 Jun;37(6):500-4. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/6732339?tool=bestpractice.bmj.com)
+90. Suzuki T, Akiba T, Miyake R, et al. Familial spontaneous pneumothorax in two adult siblings
+with Marfan syndrome. Ann Thorac Cardiovasc Surg. 2010 Oct;16(5):362-4. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21030926?tool=bestpractice.bmj.com)
+91. Chen DC, Morrison J. State of the art: open mesh-based inguinal hernia repair. Hernia.
+2019 Jun;23(3):485-92. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31165300?
+tool=bestpractice.bmj.com)
+92. Maron BJ, Chaitman BR, Ackerman MJ, et al. Recommendations for physical activity and recreational
+sports participation for young patients with genetic cardiovascular diseases. Circulation. 2004 Jun
+8;109(22):2807-16.  Full text (https://www.ahajournals.org/doi/10.1161/01.CIR.0000128363.85581.E1?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15184297?tool=bestpractice.bmj.com)
+93. Thornhill AR, Handyside AH, Ottolini C, et al. Karyomapping - a comprehensive means of
+simultaneous monogenic and cytogenetic PGD: comparison with standard approaches in real
+time for Marfan syndrome. J Assist Reprod Genet. 2015 Mar;32(3):347-56.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4363232)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25561157?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Marfan syndrome Images
+IMAGES
+Images
+Figure 1: Impact of aortic dissection on patient survival
+From the collection of LG Svensson, E Mendrinos, C Pournaras
+Figure 2: Positive thumb sign
+From the collection of LG Svensson, E Mendrinos, C Pournaras
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Marfan syndrome Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Marfan syndrome Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jan 14, 2025.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Contributors:
+// Authors:
+Anne Child, MD, FRCP
+Medical Director Marfan Trust
+Honorary Consultant Royal Brompton Group GSTT NHS Foundation Trust, Keston, Kent, UK
+DISCLOSURES: AC is an author of several references cited in this topic but has no competing interests.
+// Acknowledgements:
+Dr Anne Child would like to gratefully acknowledge Dr Aman Chandra and Dr Maite Tome, the previous
+contributors to this topic. Dr Anne Child and Dr Aman Chandra would also like to thank Anna Apara for her
+work on this topic.
+DISCLOSURES: AC, MT, and AA declare that they have no competing interests.
+// Peer Reviewers:
+Daniel Judge, MD
+Assistant Professor of Medicine
+Medical Director, JHU Center for Inherited Heart Disease, Johns Hopkins Hospital, Baltimore, MD
+DISCLOSURES: DJ declares that he has no competing interests.
+Reed E. Pyeritz, MD, PhD
+Professor of Medicine and Genetics
+University of Pennsylvania, Philadelphia, PA
+DISCLOSURES: REP declares that he has no competing interests.

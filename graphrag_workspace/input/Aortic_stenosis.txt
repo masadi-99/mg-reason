@@ -1,0 +1,2866 @@
+# Aortic stenosis
+
+=== Page 1 ===
+Aortic stenosis
+Straight to the point of care
+Last updated: Sep 04, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Case history  5
+Diagnosis  7
+Approach  7
+History and exam  13
+Risk factors  14
+Tests  17
+Differentials  21
+Criteria  22
+Management  24
+Approach  24
+Treatment algorithm overview  33
+Treatment algorithm  36
+Primary prevention  47
+Secondary prevention  47
+Patient discussions  47
+Follow up  49
+Monitoring  49
+Complications  50
+Prognosis  50
+Guidelines  52
+Diagnostic guidelines  52
+Treatment guidelines  53
+Online resources  55
+References  56
+Images  66
+Disclaimer  70
+=== Page 3 ===
+Aortic stenosis Overview
+Summary
+Aortic stenosis is obstruction of blood flow across the aortic valve due to aortic valve fibrosis and
+calcification. It is usually preceded by aortic sclerosis, often suspected by the presence of an early-peaking,
+systolic ejection murmur, and confirmed by echocardiography.
+Following a decades-long subclinical period, presentation typically includes fatigue, decreased exercise
+capacity, exertional dyspnea, exertional chest pain (angina), syncope, and heart failure.
+Characteristic murmur is systolic, mid-to-late peaking with a crescendo-decrescendo pattern, and radiates to
+the carotids.
+Doppler echo is essential to the diagnosis and will show a pressure gradient across the stenotic aortic valve.
+Treatment of severe aortic stenosis with either a transcatheter or surgical valve prosthesis should be based
+primarily on symptoms or reduced ventricular systolic function. Earlier intervention may be considered
+if indicated by results of exercise testing, biomarkers, rapid progression, or the presence of very severe
+stenosis.
+Choice of intervention should be a shared decision-making process, taking account of lifetime risks and
+benefits associated with the type of approach (transcatheter versus surgical) and type of valve (mechanical
+vs. bioprosthetic).
+Following valve replacement, patients are subject to the complications of prosthetic valves.
+Definition
+Aortic stenosis (AS) is a degenerative, pathologic narrowing of the aortic valve, leading to symptomatic
+obstruction of blood flow out of the left ventricle. It is a progressive disease that often follows aortic sclerosis
+(defined as aortic valve thickening without flow limitation).
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Aortic stenosis Theory
+THEORY
+Epidemiology
+AS is the most common valvular disease in the US and Europe requiring treatment, and is the second
+most frequent cause for cardiac surgery. It is largely a disease of older people, present in about 5% of the
+population at age 65 years and approximately 12.4% of those ages ≥75 years.[1] [2] In 2021, aortic valve
+disorders were the underlying cause of mortality in 15,239 cases in the US. Further, between 2010 and
+2018, the incidence rate of AS increased from 13.5 to 17.0 per 1000, respectively.[3] In the UK, an estimated
+291,448 people ages ≥55 years were living with symptomatic severe AS in 2019; approximately 92,000
+individuals had asymptomatic severe AS.[4]
+AS is preceded by aortic sclerosis. Aortic valve sclerosis affects an estimated 1 in 4 people above the age
+of 65 years in the US and incidence is increasing with an aging population and more widespread use of
+noninvasive imaging.[5]
+Patients with bicuspid valves and AS present two decades earlier on average than patients with trileaflet
+valves.[6] Congenital bicuspid aortic valves have been reported to affect around 0.9% to 1.36% of the
+general population with a 2:1 male:female predominance.[7]
+Etiology
+Calcification and fibrosis of normal trileaflet valves is the most common cause of AS in adults and accounts
+for as many as 80% of cases in the US and Europe.[8] Calcific aortic disease represents a spectrum ranging
+from aortic sclerosis (defined as leaflet thickening without obstruction) to severe AS. Risk factors associated
+with aortic sclerosis include smoking, hypertension, low-density lipoprotein (LDL)-cholesterol, elevated C-
+reactive protein, and elevated lipoprotein(a).[9] Retrospective studies have shown that high LDL-cholesterol
+levels and smoking are associated with progression to AS, but causality has not been confirmed.[10]
+Congenitally bicuspid valves account for the majority of the remainder of cases. This is the most common
+cause of AS in younger patients.[3] Patients with coarctation of the aorta and Turner syndrome have a higher
+incidence of bicuspid valves.
+Rheumatic heart disease has historically been an important cause of AS, but due to improvements in
+treatment, it is now uncommon in industrialized countries. Rheumatic heart disease remains prevalent in
+developing nations.
+Other circumstances including connective tissue diseases, radiation therapy, and hyperlipoproteinemia
+syndromes can cause AS, but these are unusual consequences of rare conditions.
+Chronic kidney disease (CKD) is associated with abnormal calcium homeostasis, and it has been shown that
+AS progresses faster in patients with CKD.[11] [12]
+Pathophysiology
+Aortic calcification is no longer thought to reflect age-related wear and tear, and is recognized to be an active
+process. The valvular endocardium is damaged as the result of abnormal blood flow across the valve (in the
+case of a bicuspid valve) or by an unknown trigger (as may be the case for tricuspid valves). Endocardial
+injury initiates an inflammatory process similar to atherosclerosis and ultimately leads to leaflet fibrosis and
+deposition of calcium on the valve. Fibrosis and calcification occur slowly and are subclinical until the disease
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Aortic stenosis Theory
+is fairly advanced. Progressive fibrosis and calcium deposition limit aortic leaflet mobility and eventually
+produce stenosis.
+Unicuspid and bicuspid valves experience abnormal shear and mechanical stresses from birth. Therefore,
+the pathologic processes and resultant stenosis occur earlier than in trileaflet valves.[6][7][13]
+Bicuspid and trileaflet aortic valves with severe calcification following surgical excision
+From the collection of David Liff, MD, Emory University Hospital; used with permission
+In rheumatic disease, an autoimmune inflammatory reaction is triggered by prior  Streptococcus  infection
+that targets the valvular endothelium, leading to inflammation and eventually calcification.
+Longstanding pressure overload leads to the development of left ventricular hypertrophy (LVH). This adaptive
+response permits the ventricle to maintain a normal wall stress (afterload) despite the pressure overload
+produced by stenosis. As the stenosis worsens, the adaptive mechanism fails and left ventricular wall stress
+increases. Systolic function declines as wall stress increases, with resultant systolic heart failure.
+LVH is a contributing factor to many of the symptoms seen in AS. The consequence of concentric LVH is a
+smaller, less compliant chamber. Thus, left ventricle end-diastolic pressure is increased, especially during
+periods of increased cardiac output (e.g., exercise), leading to the sensation of dyspnea and eventually
+diastolic heart failure, which typically precedes systolic dysfunction. Furthermore, in LVH, myocardial oxygen
+demand is greater due to increased left ventricular mass, while coronary blood flow may be reduced through
+a variety of mechanisms. Thus, even patients who lack coronary atherosclerotic disease may develop
+symptoms of anginal chest pain.
+Case history
+Case history #1
+A 78-year-old man presents to his primary care physician with 2 months of progressive shortness of
+breath on exertion. He first recognized having to catch his breath while gardening and is now unable to
+walk up the stairs in his house without stopping. Prior to this, he was healthy and active. On physical
+exam there is a loud systolic murmur at the right upper sternal border radiating to the carotids.
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Aortic stenosis Theory
+THEORY
+Other presentations
+AS is a progressive disease that presents after a decades-long subclinical period with symptoms of
+chest pain, syncope, and heart failure. While the most common complaints are fatigue and dyspnea with
+exertion, patients may also note exertional syncope or chest pain that may be identical to that caused by
+coronary artery disease. In its later stages, severe AS may present as heart failure. Many cases of AS
+are diagnosed during the subclinical phase while a murmur noted on physical exam is being investigated.
+Even with severe AS, patients may be asymptomatic, but often have subtle exertional symptoms. A
+careful history is important to determine if the patient has altered his or her habits in response to slowly
+worsening stenosis.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Aortic stenosis Diagnosis
+Approach
+Clinical evaluation
+AS is often diagnosed during the decades-long subclinical phase while a murmur, noted on physical
+exam, is being investigated. Even patients with severe AS may be truly asymptomatic, although early
+symptoms may be subtle. A careful history is important to determine if the patient has altered his or her
+habits in response to slowly worsening stenosis.
+Decreased exercise tolerance, shortness of breath on exertion, exertional chest pain (angina), exertional
+syncope or near syncope, and heart failure symptoms should prompt consideration of AS.[26] Patients
+have an increased risk of gastrointestinal bleeding due to arteriovenous malformations. They are also
+more likely to develop chronic gastrointestinal bleeding that is associated with angiodysplasia. This may
+be due to turbulent flow across the stenotic valve producing an acquired von Willebrand deficiency (Heyde
+syndrome), which resolves with aortic valve replacement.
+The physical exam is the most important screening tool for valvular heart disease. A complete cardiac
+exam including precordial palpation, auscultation with attention to murmurs and the aortic closure sound,
+and evaluation of arterial and venous pulsation is essential in diagnostic work-up for AS.
+Murmurs are generally graded on a scale of 1 to 6:
+• Grade 1: murmur is faint and heard only with effort
+• Grade 2: murmur is faint but easily detected
+• Grade 3: murmur is loud
+• Grade 4: murmur is very loud and associated with a palpable thrill
+• Grade 5: murmur is so loud that it can be heard with only the edge of the stethoscope
+• Grade 6: murmur is extremely loud and heard even when the stethoscope is no longer in contact
+with the patient.
+The typical murmur of AS is a systolic murmur ≥3/6, with a diamond-shaped crescendo-decrescendo
+pattern that peaks in midsystole and radiates to the carotid arteries. The murmur is generally loudest at
+the right upper sternal border and terminates with S2 and the end of systole. As the severity of stenosis
+worsens, the murmur peaks later in systole and may be accompanied by a palpable thrill. The aortic heart
+sound (A2) is delayed as the systolic ejection period becomes prolonged. In severe stenosis, paradoxical
+splitting of the second heart sound may be noted such that in expiration, the pulmonic sound (P2) is heard
+before A2. The intensity of the second heart sound tends to be diminished as the severity of stenosis
+increases and leaflet mobility is reduced.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Aortic stenosis Diagnosis
+DIAGNOSIS
+The systolic crescendo-decrescendo murmur of aortic stenosis
+From the collection of David Liff, MD, Emory University Hospital; used with permission
+Uncommon findings include the presence of a holosystolic murmur at the apex (Gallavardin
+phenomenon), mimicking the murmur of mitral regurgitation.
+A delayed and diminished carotid upstroke (carotid parvus et tardus) may occur with severe AS, although
+this finding is often difficult to distinguish in older patients. In these patients, palpation of the brachial
+artery may reveal this finding.
+ECG
+An ECG is indicated in the initial workup of all patients and is abnormal in over 90% of patients with AS,
+with the most common abnormality being left ventricular hypertrophy (LVH) due to pressure overload.[27]
+ Evidence of LVH and absent Q waves helps distinguish AS from other conditions such as aortic
+sclerosis with ischemic heart disease. Patients with AS often have conduction disease manifesting as
+atrioventricular (AV) block, hemiblock, or bundle branch block.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Aortic stenosis Diagnosis
+ECG showing changes associated with left ventricular hypertrophy
+From the collection of Melanie Everitt MD, Heart Failure & Transplantation Program,
+Primary Children's Medical Center, Salt Lake City, UT; used with permission
+Transthoracic echocardiography (TTE)
+TTE is the test of choice in the evaluation of suspected AS and for the evaluation of murmurs detected
+on physical exam. Doppler TTE can reliably and accurately detect the presence of a pressure gradient
+across the aortic valve. It can also assess left ventricle function and the presence of hypertrophy. It is
+essential for the diagnosis of AS and for serial evaluation once the diagnosis has been established.[26]
+The American College of Cardiology/American Heart Association (ACC/AHA) guidelines recommend TTE
+when there is:[26]
+• An unexplained systolic murmur
+• A single second heart sound
+• A history of a bicuspid aortic valve
+• Symptoms that might be due to AS.
+The ACC/AHA also recommend that measurements taken during echocardiography exam should be used
+to grade the severity of AS.[26]
+Although murmur intensity does not correlate well with the hemodynamic significance of the associated
+lesion, grade 3 murmurs are generally thought to reflect more significant lesions and thus warrant further
+evaluation with TTE. In practice, most patients with suspected cardiac disease and a murmur on exam
+should have an echocardiogram.
+In the UK, the National Institute for Health and Care Excellence (NICE) recommends:[28]
+• To consider echocardiography if the patient has a murmur and no other signs or symptoms, but
+valve disease is suspected based on:
+• the nature of the murmur,
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Aortic stenosis Diagnosis
+DIAGNOSIS
+• family history,
+• age (especially >75 years), or
+• medical history (e.g., history of atrial fibrillation).
+• To arrange echocardiography for any patient with suspected valve disease and:
+• signs or symptoms of valve disease (such as peripheral edema, angina, or breathlessness);
+• an abnormal ECG; or
+• an ejection systolic murmur with reduced second heart sound but no other signs or
+symptoms.
+• To refer for urgent (within 2 weeks) specialist assessment and echocardiography if valve disease is
+suspected, and the patient has:
+• A systolic murmur and exertional syncope. If the combination of specialist assessment and
+echocardiography is not available, urgent echocardiography alone should be performed.
+• A murmur and severe symptoms (such as angina or breathlessness on minimal exertion or at
+rest) which are thought to be due to valvular heart disease.
+Chest x-ray
+In patients with known or suspected valvular heart disease, a chest x-ray is indicated as part of the initial
+assessment to assess the presence or absence of pulmonary congestion or other lung pathology.[26]
+Further testing
+If there are discrepancies between the physical exam and initial noninvasive testing (ECG, TTE, and chest
+x-ray), further noninvasive (cardiac computed tomography [CT], cardiac magnetic resonance imaging
+[MRI], CT angiography, magnetic resonance angiography [MRA], ECG exercise stress testing, and
+dobutamine stress echo) or invasive (transesophageal echocardiography, cardiac catheterization) testing
+should be considered, to determine optimal treatment strategy.[26]
+Cardiac CT
+Cardiac CT allows both qualitative and quantitative evaluation of the calcium burden on the aortic valve.
+The ACC/AHA guidelines recommend use of the Agaston aortic valve calcium score, which can
+be calculated and used to make the diagnosis of severe AS when echocardiography or invasive
+measurements are inconclusive. This is particularly helpful in the evaluation of low-flow low-gradient
+AS.[29] [30]
+NICE in the UK recommends to consider using cardiac CT to measure aortic valve calcium score if the
+severity of symptomatic AS is uncertain.[28]
+Cardiac MRI
+Cardiac MRI (cMRI) provides detailed, dynamic images of the heart. It allows for analysis of cardiac
+function and hemodynamics. cMRI may be useful when trying to distinguish between true valvular
+stenosis and subvalvular stenosis related to a subvalvular membrane.
+Owing to the complexity of cMRI, the ACC/AHA recommend transthoracic echocardiography as the
+preferred test for evaluating AS, but state that cMRI may be a good option if echocardiography fails to
+yield quality images.[26]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Aortic stenosis Diagnosis
+If cMRI shows mid-wall fibrosis in adults with severe AS, NICE in the UK recommends enhanced follow
+up (e.g., more frequent reviews) and further assessment (e.g., stress echocardiography) to monitor the
+need for intervention.[28]
+Late gadolinium enhancement in particular has shown potential for use to be used in AS risk
+stratification.[31]
+CT angiography (CTA)
+CTA uses a thin-section CT acquisition that is timed to coincide with peak arterial or venous
+enhancement. The resulting 3-dimensional image allows characterization and reporting of aortic valve
+morphology.[29] CTA can also be used to screen for coronary artery disease before valular surgery.[32]
+MRA
+MRA has been found to produce good reproducibility of aortic annulus dimensions and calcifications
+in comparison with cardiac CTA, even in the presence of arrhythmias.[33] MRA may not be suitable;
+however, when there is a high-susceptibility artifact, magnetic field incompatible devices, and severe
+arrhythmia.[29] MRA exam is also technically more complex, with longer study time and a higher required
+degree of patient cooperation, which some patients may find problematic.[29] [34]
+ECG exercise stress testing
+Symptomatic patients should not have exercise testing and should be referred for valve replacement.[26]
+For those without symptoms, symptom-limited exercise testing may provide clinically important
+information.[26] [35] A positive stress test shows either decreased exercise tolerance (compared with
+normal for age and sex) or a drop in systolic blood pressure of 10mmHg with exercise.[26] Nearly
+40% of patients with asymptomatic AS will develop symptoms with exercise testing.[36] Exercise
+echocardiography may add additional diagnostic and prognostic information.[26] [37] [38] In a group of
+patients with asymptomatic severe AS, a positive exercise stress test was highly predictive of the onset
+of symptoms or the need for surgery. At 24 months, only 19% with a positive exercise test remained
+symptom-free or without valve replacement compared with 85% of those with a negative test.[39]
+Subsequent work found that the development of symptoms on exercise testing was the strongest
+predictor for the onset of spontaneous symptoms, especially among patients <70 years old in whom
+symptoms of fatigue and breathlessness are more specific than in older patients.[40]
+Dobutamine stress echo
+The ACC/AHA recommend this test for patients with a low transvalvular gradient and left ventricular
+systolic dysfunction (low ejection fraction), in order to identify pseudostenosis and the presence of
+contractile reserve (≥20% increase in stroke volume with dobutamine).[26] Patients with pseudostenosis
+do not have severe AS and should not be referred for aortic valve replacement. The presence of
+contractile reserve suggests a better prognosis and lower perioperative risk with surgical aortic valve
+replacement; however, it does not predict outcomes after transcatheter aortic valve replacement.
+NICE in the UK recommends that stress echocardiography be used as part of further assessment to
+monitor need for intervention if cardiac MRI shows mid-wall fibrosis in adults with severe AS.[28]
+Transesophageal echocardiography (TEE)
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Aortic stenosis Diagnosis
+DIAGNOSIS
+TEE provides alternate detailed views of the aortic valve apparatus, and is frequently used in patients
+undergoing valve surgery or transcatheter aortic valve replacement.[29]
+Transesophageal echocardiogram showing the left ventricle outflow tract (LVOT), the
+aorta (Ao), and nearly immobile leaflets (arrows) of a severely stenotic aortic valve
+From the collection of David Liff, MD, Emory University Hospital; used with permission
+Cardiac catheterization
+Cardiac catheterization is no longer a first-line test for diagnosis of AS. As a diagnostic tool it is used
+when echo-Doppler exam is inconclusive or there is a discrepancy between noninvasive findings and the
+history and physical exam.[26] In addition, cardiac catheterization can be very helpful when the diagnosis
+of low-flow low-gradient aortic valve stenosis is being considered, as it allows measurement of the cardiac
+output and hence accurate determination of the aortic valve area and stroke volume. Furthermore,
+catheterization remains essential prior to aortic valve replacement for the evaluation of coronary artery
+anatomy.
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Aortic stenosis Diagnosis
+History and exam
+Key diagnostic factors
+exertional dyspnea (common)
+• One of the most common presenting symptoms, alongside fatigue.
+• Dyspnea occurs at a prevalence of 60%.[27]
+fatigue (common)
+• One of the most common presenting symptoms together with exertional dyspnea.
+chest pain (common)
+• Patients frequently develop exertional chest pain (angina). Symptoms may occur even in the absence
+of coronary atherosclerotic disease.
+• Chest pain occurs at a prevalence of 50%.[27]
+exertional syncope (common)
+• A classic symptom and may be caused by arrhythmia or postural hypotension related to AS.
+• The prevalence of syncope is 40%.[27]
+ejection systolic murmur (common)
+• A systolic murmur ≥3/6 is present with a crescendo-decrescendo pattern that peaks in midsystole and
+radiates to the carotid. The peak moves later in systole as the AS becomes more severe.
+• The murmur is loudest at the right upper sternal border.
+The systolic crescendo-decrescendo murmur of aortic stenosis
+From the collection of David Liff, MD, Emory University Hospital; used with permission
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Aortic stenosis Diagnosis
+DIAGNOSIS
+S2 diminished and single (common)
+• With progression of AS, the aortic component of the second heart sound becomes soft or absent due
+to decreased mobility of the aortic valve leaflets.
+• Aortic valve closure is delayed and often coincides with pulmonic valve closure, producing a single
+second heart sound.
+carotid parvus et tardus (uncommon)
+• The carotid upstroke is frequently delayed and diminished in severe AS (parvus et tardus).
+• This finding is often absent in older patients with less compliant vasculature. In these circumstances,
+palpation of the brachial artery may reveal this finding.
+Other diagnostic factors
+paradoxically split S2 (uncommon)
+• With more severe stenosis, aortic valve closure may become so delayed that it follows pulmonic valve
+closure during expiration, producing the paradoxically split S2.
+• May be accentuated by left bundle branch block.
+Gallavardin phenomenon (uncommon)
+• A musical-quality, holosystolic murmur is present at the apex of the heart that occurs in older patients
+with calcific AS, which may mimic mitral regurgitation.
+bleeding (uncommon)
+• Some patients may develop an acquired von Willebrand deficiency that predisposes to bleeding
+and is caused by turbulent flow across the stenotic valve.[41] Patients may describe epistaxis or
+bruising. They are also more likely to develop chronic gastrointestinal bleeding that is associated with
+angiodysplasia.[41]
+Risk factors
+Strong
+age >60 years
+• AS typically presents in the seventh or eighth decade for patients with trileaflet valves and two
+decades earlier for patients with bicuspid valves.[6]
+• Although the prevalence of AS is only 0.2% in adults ages 50 to 59 years, estimates increase to 1.3%
+in patients ages 60 to 69 years, and up to 9.8% in patients ages 80 to 89 years.[14] Overall, AS is
+present in 2.6% of adults older than 75 years of age.[10]
+congenitally bicuspid aortic valve
+• Present in the majority of patients younger than 70 years of age who undergo valve replacement for
+severe aortic stenosis.[15]
+• Unicuspid and bicuspid valves experience abnormal shear and mechanical stresses from birth.
+Therefore, the pathologic processes and resultant stenosis occur earlier than in trileaflet valves.[6] [7]
+[13]
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Aortic stenosis Diagnosis
+Bicuspid and trileaflet aortic valves with severe calcification following surgical excision
+From the collection of David Liff, MD, Emory University Hospital; used with permission
+rheumatic heart disease
+• Common cause of AS in developing countries.
+• In rheumatic disease, an autoimmune inflammatory reaction is triggered by prior  Streptococcus 
+infection that targets the valvular endothelium, leading to inflammation and eventually calcification.
+chronic kidney disease
+• AS is prevalent in people with chronic kidney disease; progression of AS in these patients is typically
+rapid and unpredictable.[12] Aortic valve calcification occurs in up to 55% of dialysis patients ages >65
+years.[16] Dialysis patients also have more rapid annual decrease in valve area (0.23 cm² vs. 0.1 cm²)
+compared with patients with normal renal function.[12] [16]
+Weak
+radiation therapy
+• AS is a rare complication of mediastinal radiation therapy that presents at least 2 decades following
+treatment.[17]
+high low-density lipoprotein (LDL) cholesterol
+• Retrospective studies have demonstrated that high LDL-cholesterol levels are associated with AS, and
+several small studies have found that statin therapy targeting LDL-cholesterol slows the hemodynamic
+progression of AS.[18] However, these findings were not verified in a large prospective study.[19]
+Dyslipidemia is significantly associated with an increased risk of developing severe AS.[3][20]
+hyperlipoproteinemia
+• Familial hypercholesterolemia is a rare genetic disorder that can contribute to early-onset calcification
+of the aortic valve and the aortic root.[21]
+hypertension
+• Hypertension has been associated with an increased risk of valvular heart disease.[22] [23]
+Hypertension is significantly associated with an increased risk of developing severe AS.[3][20]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Aortic stenosis Diagnosis
+DIAGNOSIS
+diabetes
+• Diabetes is a strong predictor for the development of severe AS.[3][20]
+elevated lipoprotein(a)
+• Elevated lipoprotein(a) is associated with an increased risk of cardiovascular disease and aortic
+stenosis.[9]
+family history
+• A nationwide study in Sweden found having at least one sibling with AS to be associated with an
+increased risk of being diagnosed with AS, indicating a familial aggregation beyond bicuspid aortic
+valve alone.[3][24]
+obesity
+• Higher body mass index (BMI) is associated with an increased risk of developing AS.[3][23][25]
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Aortic stenosis Diagnosis
+Tests
+1st test to order
+Test Result
+ECG
+• The ECG is abnormal in over 90% of patients with AS, with the most
+common abnormality being left ventricular hypertrophy (LVH) due to
+pressure overload.[27]
+• Evidence of LVH and absent Q waves helps distinguish AS from other
+conditions such as aortic sclerosis with ischemic heart disease.
+• Patients with AS can often have conduction disease manifesting as
+atrioventricular block, hemiblock, or bundle branch block.
+ECG showing changes associated with left ventricular hypertrophy
+From the collection of Melanie Everitt MD, Heart
+Failure & Transplantation Program, Primary Children's
+Medical Center, Salt Lake City, UT; used with permission
+may demonstrate left
+ventricular hypertrophy
+and absent Q waves,
+atrioventricular block,
+hemiblock, or bundle
+branch block
+transthoracic echocardiography (TTE)
+• TTE is the test of choice in the evaluation of suspected AS and
+for the evaluation of murmurs detected on physical exam. Doppler
+TTE can reliably and accurately detect the presence of a pressure
+gradient across the aortic valve. It can also assess left ventricle
+function and the presence of hypertrophy. It is essential for the
+diagnosis of AS and for serial evaluation once the diagnosis has
+been established.[26]
+• The American College of Cardiology/American Heart Association
+(ACC/AHA) guidelines recommend TTE when there is an
+unexplained systolic murmur, a single second heart sound, a history
+of a bicuspid aortic valve, or symptoms that might be due to AS.[26]
+• The ACC/AHA also recommend that measurements taken during
+echocardiography exam should be used to grade the severity of
+AS.[26]
+• Although murmur intensity does not correlate well with the
+hemodynamic significance of the associated lesion, grade 3 murmurs
+are generally thought to reflect more significant lesions and thus
+warrant further evaluation with TTE. In practice, most patients with
+suspected cardiac disease and a murmur on exam should have an
+echocardiogram.
+• In the UK, the National Institute for Health and Care Excellence
+(NICE) recommends to consider echocardiography if the patient
+has a murmur and no other signs or symptoms, but valve disease
+elevated aortic pressure
+gradient; measurement
+of valve area and left
+ventricular ejection
+function
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Aortic stenosis Diagnosis
+DIAGNOSIS
+Test Result
+is suspected based on the nature of the murmur, family history,
+age (especially >75 years), or medical history (e.g., history of atrial
+fibrillation).[28]
+• NICE recommends to arrange echocardiography for any patient with
+suspected valve disease and signs or symptoms of valve disease
+(such as peripheral edema, angina, or breathlessness), an abnormal
+ECG, or an ejection systolic murmur with reduced second heart
+sound but no other signs or symptoms.[28]
+• NICE further recommends to refer for urgent (within 2 weeks)
+specialist assessment and echocardiography if valve disease is
+suspected, and the patient has a systolic murmur and exertional
+syncope, or a murmur and severe symptoms (such as angina or
+breathlessness on minimal exertion or at rest) which are thought to
+be due to valvular heart disease.[28]
+chest x-ray
+• In patients with known or suspected valvular heart disease, a
+chest x-ray is indicated as part of the initial assessment to assess
+the presence or absence of pulmonary congestion or other lung
+pathology.[26]
+may be normal; may show
+pulmonary congestion or
+other lung pathology
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Aortic stenosis Diagnosis
+Other tests to consider
+Test Result
+Cardiac computed tomography (CT)
+• Cardiac CT allows both qualitative and quantitative evaluation of the
+calcium burden on the aortic valve.
+• The American College of Cardiology/American Heart Association
+guidelines recommend use of the Agaston aortic valve calcium
+score, which can be calculated and used to make the diagnosis of
+severe AS when echocardiography or invasive measurements are
+inconclusive. This is particularly helpful in the evaluation of low-flow
+low-gradient AS.[29][30]
+• In the UK, the National Institute for Health and Care Excellence
+recommends to consider using cardiac CT to measure aortic valve
+calcium score if the severity of symptomatic AS is uncertain.[28]
+demonstrates stenotic
+aortic valve
+cardiac MRI
+• Cardiac MRI (cMRI) provides detailed, dynamic images of the heart.
+It allows for analysis of cardiac function and hemodynamics. cMRI
+may be useful when trying to distinguish between true valvular
+stenosis and subvalvular stenosis related to a subvalvular membrane.
+• Owing to the complexity of cMRI, the American College of
+Cardiology/American Heart Association recommend transthoracic
+echocardiography as the preferred test for evaluating AS, but state
+that cMRI may be a good option when echocardiography fails to yield
+quality images.[29]
+• If cMRI shows mid-wall fibrosis in adults with severe AS, the National
+Institute for Health and Care Excellence in the UK recommends
+enhanced follow up (e.g., more frequent reviews) and further
+assessment (e.g., stress echocardiography) to monitor the need for
+intervention.[28]
+• Late gadolinium enhancement in particular has shown potential for
+use in AS risk stratification.[31]
+demonstrates stenotic
+aortic valve
+CT angiography (CTA)
+• CT angiography (CTA) uses a thin-section CT acquisition that is
+timed to coincide with peak arterial or venous enhancement. The
+resulting 3-dimensional image allows characterization and reporting
+of aortic valve morphology.[29] CTA can also be used to screen for
+coronary artery disease before valular surgery.[32]
+demonstrates aortic valve
+morphology
+magnetic resonance#angiography
+• MR angiography (MRA) has been found to produce good
+reproducibility of aortic annulus dimensions and calcifications
+in comparison with cardiac CTA, even in the presence of
+arrhythmias.[33] MRA may not be suitable; however, when there is
+a high-susceptibility artifact, magnetic field incompatible devices,
+and severe arrhythmia.[29] MRA exam is also technically more
+complex, with longer study time and a higher required degree of
+patient cooperation, which some patients may find problematic.[29]
+[34]
+ECG exercise stress testing
+• Consider in asymptomatic patients and those with equivocal
+symptoms.[26]
+• Many experts advocate the use of symptom-limited exercise testing
+in asymptomatic patients with severe AS as a means of risk-
+asymptomatic patients:
+a positive exercise stress
+test demonstrates either
+decreased exercise
+tolerance (compared with
+normal for age and sex)
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Aortic stenosis Diagnosis
+DIAGNOSIS
+Test Result
+stratification for the development of symptoms, and for the need for
+surgery.
+• Exercise echocardiography may add additional diagnostic and
+prognostic information.[37] [38] [26]
+• Symptomatic patients should not have exercise testing and should be
+referred for valve replacement.[26] 
+or a drop in systolic blood
+pressure of 10 mmHg with
+exercise
+dobutamine stress echo
+• The American College of Cardiology/American Heart Association
+recommend this test for patients with a low transvalvular gradient and
+left ventricular systolic dysfunction (low ejection fraction), in order to
+identify pseudostenosis and the presence of contractile reserve.[26]
+• Patients with pseudostenosis do not have severe AS and should not
+be referred for aortic valve replacement.
+• The presence of contractile reserve suggests a better prognosis
+and lower perioperative risk with surgical aortic valve replacement;
+however, it does not predict outcomes after transcatheter aortic valve
+replacement.
+• The National Institute for Health and Care Excellence in the UK
+recommends that stress echocardiography be used as part of further
+assessment to monitor need for intervention if cardiac MRI shows
+mid-wall fibrosis in adults with severe AS.[28]
+may demonstrate
+pseudostenosis and
+presence of contractile
+reserve (≥20% increase
+in stroke volume with
+dobutamine)
+Transesophageal echocardiography (TEE)
+• TEE provides alternate detailed views of the aortic valve apparatus,
+and is frequently used in patients undergoing valve surgery or
+transcatheter aortic valve replacement.[29]
+may show an echo-dense
+valve with reduced or
+no cusp motion; may
+also show otherwise
+unexplained left
+ventricular hypertrophy
+with or without atrial
+enlargement
+cardiac catheterization
+• Catheterization allows for direct measurement of the pressure
+gradient. The sensitivity and specificity of the test are high.
+• Due to the invasive nature, this test is useful for diagnosis when the
+echocardiogram is inconclusive or discrepant from other findings.
+It can also be useful in the diagnosis of low-flow low-gradient aortic
+valve stenosis.
+elevated aortic pressure
+gradient
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Aortic stenosis Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Aortic sclerosis • The murmur of aortic
+sclerosis is typically less
+intense and nonradiating,
+and the S2 is normal and
+physiologically split. The
+carotid upstroke is not
+delayed.
+• Signs and symptoms
+of heart failure or chest
+pain should prompt an
+echocardiogram but
+cannot by themselves
+reliably distinguish the two
+conditions.
+• Transthoracic Doppler
+echo will demonstrate no
+significant pressure gradient
+(<5 mmHg) across the aortic
+valve with aortic sclerosis.
+Ischemic heart disease • AS and coronary artery
+disease frequently coexist
+and it is difficult to determine
+their relative contributions
+to cardiac complaints when
+both are present in the same
+patient.
+• In practice, for patients with
+severe AS and concomitant
+coronary artery disease,
+both are treated at the time
+of surgery.
+• In ischemic heart disease,
+common ECG findings
+include Q waves in
+contiguous leads, and the
+echocardiogram often shows
+segments of the myocardium
+with abnormal systolic
+thickening or wall motion
+abnormalities.
+• In isolated AS, Q waves
+are absent in the ECG;
+regional wall motion
+abnormalities are absent on
+the echocardiogram; and
+coronary arteries are normal
+upon cardiac catheterization.
+Hypertrophic
+cardiomyopathy (HCM)
+• HCM is a heterogeneous
+disease that can produce
+subvalvular stenosis and a
+murmur that is similar to AS.
+• Hand gripping and squatting
+maneuvers are helpful in
+distinguishing HCM from
+AS. These maneuvers
+do not greatly affect the
+intensity of the murmur of
+AS; however, hand gripping,
+which increases afterload,
+will soften the HCM murmur.
+Standing up after squatting
+will decrease cardiac return
+and ventricular preload,
+which increases the murmur
+of HCM.
+• Typical echocardiography
+findings include asymmetric
+hypertrophy with the septal
+wall most prominently
+affected. Dynamic
+obstruction is observed at
+the subvalvular level, and
+calcification of the valve is
+often absent, especially in
+younger patients.[42]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Aortic stenosis Diagnosis
+DIAGNOSIS
+Criteria
+American College of Cardiology/American Heart Association (ACC/
+AHA) classification of stages of valvular AS (2020)[26]
+Stage A: at risk of AS
+• Valve anatomy: bicuspid aortic valve or other congenital valve anomaly, or aortic valve sclerosis
+• Maximum aortic velocity <2 m/s
+• No hemodynamic consequences
+• No symptoms
+Stage B: Progressive AS
+• Valve anatomy of mild-to-moderate leaflet calcification of a bicuspid or trileaflet valve with some
+reduction in systolic motion, or rheumatic valve with commissural fusion
+• Mild AS: maximum aortic velocity 2.0 to 2.9 m/s or mean pressure gradient <20 mmHg
+• Moderate AS: maximum aortic velocity 3.0 to 3.9 m/s or mean pressure gradient 20-39 mmHg
+• Hemodynamic consequences: normal left ventricular ejection fraction (LVEF); early left ventricular (LV)
+diastolic dysfunction may be present
+• No symptoms
+Stage C: Asymptomatic severe AS
+• Anatomy shows severe leaflet calcification or congenital stenosis with severely reduced leaflet opening
+• Maximum aortic velocity ≥4 m/s or mean pressure gradient ≥40 mmHg
+• Valve area typically ≤1.0 cm² (or indexed valve area ≤0.6 cm²/m²)
+• Very severe AS: maximum aortic velocity ≥5 m/s or mean pressure gradient ≥60 mmHg
+• Hemodynamic consequences:
+• Stage C1: mild LV diastolic dysfunction, mild left ventricular hypertrophy (LVH), normal LVEF
+• Stage C2: LVEF <50%
+• No symptoms
+• Exercise testing is reasonable to confirm lack of symptoms in stage C1 AS
+Stage D: Symptomatic severe AS
+• Stage D1: Symptomatic severe high-gradient AS
+• Anatomy: severe leaflet calcification or congenital stenosis with severely reduced leaflet opening
+• Maximum aortic velocity ≥4 m/s or mean pressure gradient ≥40 mmHg
+• Valve area typically ≤1.0 cm² (or indexed valve area ≤0.6 cm²/m²), but may be larger with mixed
+AS/aortic regurgitation
+• Hemodynamic consequences: LV diastolic dysfunction and LVH; pulmonary hypertension may
+be present
+• Symptoms of exertional dyspnea or decreased exercise tolerance, exertional angina, exertional
+syncope or presyncope
+• Stage D2: Symptomatic severe low-flow/low-gradient AS with reduced LVEF
+• Anatomy: severe leaflet calcification/fibrosis with severely reduced leaflet motion
+• Valve area ≤1.0 cm² with resting maximum aortic velocity <4 m/s or mean pressure gradient <40
+mmHg
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Aortic stenosis Diagnosis
+• Dobutamine stress echo shows valve area ≤1.0 cm² with maximum aortic velocity ≥4 m/s at any
+flow rate
+• Hemodynamic consequences: LV diastolic dysfunction, LVH, and LVEF <50%
+• Symptoms of heart failure, angina, syncope, or presyncope
+• Stage D3: Symptomatic severe low-gradient AS with normal LVEF or paradoxical low-flow severe AS
+• Anatomy: severe leaflet calcification with severely reduced leaflet motion
+• Valve area ≤1.0 cm² (indexed valve area ≤0.6 cm²/m²) with maximum aortic velocity <4 m/s
+or mean pressure gradient <40 mmHg AND stroke volume index <35 mL/m² measured when
+patient is normotensive (systolic blood pressure <140 mmHg)
+• Hemodynamic consequences: increased LV wall thickness, small LV chamber with low stroke
+volume, restrictive diastolic filling, and LVEF ≥50%
+• Symptoms of heart failure, angina, syncope, or presyncope
+The National Institute for Health and Care Excellence (NICE) in the
+UK
+NICE recommends that severity of valve disease should be defined in line with the British Society of
+Echocardiography (BSE) guidelines on the assessment of AS.[28] In general, the BSE advise:[43]
+• Maximal velocity is the preferred measure with which to define severity of AS.
+• If either the aortic valve maximal velocity (AV Vmax) is ≥4 m/s or the mean aortic valve gradient
+is ≥40 mmHg, the patient should usually be considered to have severe AS. However, the BSE
+does list exceptions to this statement, such as scenarios where this increased blood flow (e.g.,
+tachyarrhythmias or sepsis).
+• Very severe AS is defined as an AV Vmax ≥5 m/s or a mean gradient ≥60 mmHg.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Aortic stenosis Management
+MANAGEMENT
+Approach
+Various patient factors will influence the type of therapy recommended, including:
+• The presence or absence of symptoms
+• Cardiac function and severity of stenosis
+• Presence and severity of concomitant coronary artery disease and/or other valvular disease
+• Suitability for surgery and assessment of surgical risk.
+The primary treatment of symptomatic AS is aortic valve replacement (AVR). AVR:
+• Is recommended in symptomatic patients with severe AS, including those with low-flow/low-gradient
+severe AS with either a reduced left ventricular ejection fraction (LVEF) and persistent severe AS on
+low-dose dobutamine stress study, or a normal LVEF and evidence that valve obstruction is the most
+likely cause of symptoms.[26]
+• Is recommended in asymptomatic patients with severe AS who have an LVEF <50% or who are
+undergoing other cardiac surgery.[26]
+• May be considered in asymptomatic patients with very severe AS or severe AS with rapid progression,
+an abnormal exercise test, or elevated serum B-type natriuretic peptide (BNP) levels.[26]
+Symptom onset is a significant milestone and portends a poor prognosis, with an average survival of only 2
+to 5 years without valve replacement. Advances in prosthetic-valve design, cardiopulmonary bypass, surgical
+technique, and anesthesia have steadily improved outcomes for aortic valve replacement.[26]
+In the UK, the National Institute for Health and Care Excellence (NICE) recommends referral to a specialist
+for adults with:[28]
+• Moderate or severe AS
+• Bicuspid aortic valve disease of any severity (including mild disease).
+Clinical decisions
+Historically, the choice between surgical aortic valve replacement (SAVR) and transcatheter aortic valve
+replacement (TAVR) (also known as transcatheter aortic valve implantation, or TAVI) was mainly based on
+surgical risk (i.e., lower risk patients tended toward SAVR and higher risk patients toward TAVR).
+Contemporary guidelines (e.g., from the American College of Cardiology/American Heart Association
+[ACC/AHA]) support the concept of matching the “durability of the patient” with the “durability of the
+valve.”[26] Evidence suggests that transcatheter valve durability is similar to surgical valve durability.[26]
+According to the ACC/AHA guidelines, in patients with severe AS, the choice of intervention (TAVR vs.
+SAVR) and the type of valve (mechanical vs. bioprosthetic) should be based primarily on symptoms
+or reduced ventricular systolic function; this should be a shared decision-making discussion between
+the clinician and the patient, who must consider the lifetime risks and benefits associated with each
+approach.[26] Early intervention may be considered in patients with rapid progression AS, very severe
+AS, or if indicated by exercise test results or biomarkers.[26]
+According to the ACC/AHA guidelines, in general in patients with an indication for aortic valve
+replacement:[26]
+• SAVR is preferred for patients ages <65 years or with a life expectancy >20 years. This includes
+patients with an LVEF <50%.
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Aortic stenosis Management
+• TAVR is preferred for patients ages >80 years or with a life expectancy <10 years.
+• Either TAVR or SAVR may be reasonable for patients ages 65-80 years. In these patients, the
+decision of whether to perform SAVR or TAVR should be based on the patient wishes, anatomic
+considerations, concomitant coronary artery disease and/or other valvular heart disease,
+comorbidities (e.g., frailty, dementia), and surgical risk.
+The European Society of Cardiology and the European Association for Cardio-Thoracic Surgery (ESC/
+EACS) strongly recommend early intervention in symptomatic severe AS. The only exceptions are for
+those in whom intervention is unlikely to improve quality of life, or those with concomitant conditions
+associated with survival <1 year (e.g., malignancy).[46] The ESC/EACS specifically recommend:[46]
+• Intervention for all patients with symptomatic AS that is:
+• Severe, high-gradient (defined as a mean gradient ≥40 mmHg, peak velocity ≥4.0 m/s, and
+valve area ≤1.0 cm²)
+• Severe low-flow (SVi ≤35 mL/m²), low-gradient (<40 mmHg) AS with reduced ejection
+fraction (<50%), and evidence of flow (contractile) reserve.
+• Intervention should be considered for patients with low-flow, low-gradient (<40 mmHg) symptomatic
+AS and:
+• Normal ejection fraction after careful confirmation that the AS is severe
+• Reduced ejection fraction without flow (contractile) reserve, particularly when cardiac
+computed tomography (CT) calcium scoring confirms severe AS.
+According to the ESC/EACS, in general in patients with an indication for aortic valve replacement:[46]
+• SAVR is preferred for patients ages <75 years at low risk for SAVR or unsuitable for transfemoral
+TAVR
+• TAVR is preferred for patients ages ≥75 years or unsuitable for or at high risk for SAVR.
+NICE in the UK recommends intervention for any patient with symptomatic AS.[28] NICE further
+recommends to consider referral for intervention, if suitable, if the patient has:[28]
+• Asymptomatic severe AS and any of the following:
+• Vmax (peak aortic jet velocity) >5 m/s on echocardiography
+• Aortic valve area <0.6 cm² on echocardiography
+• LVEF <55%
+• B-type natriuretic peptide (BNP) or N-terminal proBNP (NT-proBNP) level more than twice
+the upper limit of normal
+• Symptoms that are provoked by exercise testing.
+• Symptomatic low-gradient AS with LVEF <55% if dobutamine stress echocardiography shows their
+AS is severe by:
+• A mean gradient across the aortic valve that increases to >40 mmHg and
+• An aortic valve area that remains <1 cm².
+NICE recommends:[28]
+• SAVR preferentially for patients with severe AS if they are suitable for surgery, either by median
+sternotomy or minimally invasive surgery if there is an indication for surgery and they are at low or
+intermediate surgical risk.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Aortic stenosis Management
+MANAGEMENT
+• NICE recommends basing the decision on the type of surgery (median sternotomy or
+minimally invasive surgery) on patient characteristics and preferences. If minimally invasive
+surgery is the most suitable option but is not available locally, NICE recommends referring
+the patient to another center.[28]
+• TAVR for patients with severe AS if surgery is unsuitable, or non-bicuspid severe AS with high
+surgical risk, including those with:
+• An unacceptably high risk of mortality or morbidity due to surgery (e.g., risk of infection in
+patients who are immunosuppressed)
+• Who are expected to have unacceptably strenuous and prolonged recovery from surgery
+and an extended need for rehabilitation due to frailty, reduced mobility, or musculoskeletal
+conditions
+• With a low life expectancy, either because of their age, or because they have life-limiting
+comorbidities.
+NICE also recommends that:[47]
+• Suitability for TAVR should be determined by an experienced multidisciplinary team. This team
+must include interventional cardiologists who are experienced in the procedure, cardiac surgeons,
+an expert in cardiac imaging, and (where appropriate) a cardiac anesthetist and a geriatrician.
+NICE advises that suitability for TAVR depends on:[28]
+• An appropriate access for inserting the TAVR catheter
+• The morphology of the valve, aortic root, and ascending aorta
+• The degree and distribution of calcium in the aortic valve.
+• Details of all patients should be entered into the UK TAVR registry.[47]
+• TAVR should only be performed in specialised centers and only by clinicians and teams who have
+specialised training in complex endovascular interventions. It is recommended that units doing this
+procedure should have both cardiac and vascular support in order to manage complications in an
+emergency, and ongoing patient care.[47]
+If the patient has an indication for intervention, NICE recommends discussing the possible benefits and
+risks with the patient; include in this discussion:[28]
+• The long and short term benefits to quality of life
+• Prosthetic valve durability
+• The risks associated with the procedures
+• The type of access required for surgery (median sternotomy, minimally invasive surgery, or
+transcatheter [for patients at high surgical risk])
+• The possible need for other cardiac procedures in future.
+Assessment of surgical risk
+The decision to refer patients for SAVR or TAVR depends in part on their estimated risk of operative
+mortality. Surgical risk can be estimated using scoring systems such as the Society of Thoracic Surgeons
+Predicted Risk of Mortality (STS-PROM) and the EuroScore II.[46]  [Society of Thoracic Surgeons: risk
+calculator] (http://www.sts.org/quality-research-patient-safety/quality/risk-calculator-and-models/risk-
+calculator)  These models utilize a variety of risk factors to predict postoperative outcome after valve
+surgery. Mortality estimates are used in conjunction with assessments of frailty, major organ system
+compromise, and procedure-specific impediments to classify each patient's overall surgical risk:[26]
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Aortic stenosis Management
+• Low risk
+• Intermediate risk
+• High risk
+• Prohibitive risk
+Treatment decisions in elderly and frail patients
+Patients with terminal illness, significant dementia, or advanced comorbidities in whom valve replacement
+would not be expected to provide a meaningful improvement in life will typically not be referred for valve
+replacement.
+Bear in mind, however, that NICE in the UK specifically recommends that TAVR may be considered in
+patients who have a low life expectancy (either because of their age or because they have life-limiting
+comorbidities).[28]
+Surgical aortic valve replacement (SAVR)
+Prosthetic aortic valves used in surgical valve replacement may be mechanical or bioprosthetic. The type
+of prosthesis used depends on patient preference, but there has been a trend toward greater utilization of
+bioprosthetic valves in recent years.[26] [48] Each type has relative merits and drawbacks.
+• Mechanical valves:
+• Reasonable for patients less than 50 years of age who do not have a contraindication to
+anticoagulation. For patients ages 50 to 65 years and no contraindication to anticoagulation,
+it is reasonable to individualize the choice of either a mechanical or bioprosthetic valve on
+the basis of individual patient factors and preferences.[26]
+• Less prone to degeneration and subsequent reoperation for valve failure compared with
+bioprosthetic valves.
+• Patients require subsequent systemic anticoagulation (with the associated risk of bleeding) to
+prevent valve thrombosis.[26]  Direct oral anticoagulants (DOACs) are not recommended in
+patients requiring long-term anticoagulation for a mechanical valve regardless of coexisting
+atrial fibrillation.[26]
+• Bioprosthetic valves:
+• Recommended in patients of any age for whom anticoagulation therapy is contraindicated,
+cannot be managed, or is not desired.[26]
+• Bioprosthetic valves are also reasonable for patients more than 65 years of age. For patients
+ages 50 to 65 years, it is reasonable to individualize the choice of either a mechanical or
+bioprosthetic valve on the basis of individual patient factors and preferences.[26]
+• More prone to degeneration and subsequent reoperation for valve failure compared with
+mechanical valves.
+• Patients do not need systemic anticoagulation, except in the presence of atrial fibrillation,
+where anticoagulation is indicated.
+Outcome data comparing bioprosthetic and mechanical valves are difficult to interpret because
+bioprosthetic valve technology has improved significantly since the time of the largest randomized trials.
+Studies using first-generation bioprosthetic valves found a trend toward improved survival with mechanical
+valves.[49] [50]
+In contrast, newer studies have found no differences in mortality after correcting for preoperative severity
+of heart disease, regardless of age. They do note that bioprosthetic valves are more likely to require
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Aortic stenosis Management
+MANAGEMENT
+reoperation for valve failure.[51] [52] Overall, there is a trend among surgeons toward greater use of
+bioprosthetic valves. From 1997 to 2006, the usage of bioprosthetic valves in North America increased
+from 44% to 78.4%.[48] This trend reflects greater confidence in the durability of second- and third-
+generation bioprosthetic valves.
+Choices regarding aortic valve prosthesis must balance the risk of bleeding due to the need for systemic
+anticoagulation with mechanical valves versus the increased possibility of reoperation with biologic
+valves.
+Transcatheter aortic valve replacement (TAVR)
+In the US and some European countries, the number of TAVR procedures performed annually surpasses
+the number of isolated surgical aortic valve replacements.[53] The procedure builds on the current
+techniques employed in the cardiac catheterization laboratory for coronary angiography and intervention.
+Unlike surgical valve replacement, TAVR is done on the beating heart without the need for a sternotomy
+or cardiopulmonary bypass. Instead, catheters are introduced into the heart via several potential arterial
+access points, and a stent-mounted prosthetic valve is placed within the native aorta. Several different
+transcatheter heart valves exist, each with a unique delivery system and technique, but the basic
+premise remains the same. The advantages of this minimally invasive approach include the avoidance of
+cardiopulmonary bypass and median sternotomy. These benefits have allowed invasive cardiologists and
+cardiothoracic surgeons to offer aortic valve replacement to sicker and more complex patients.
+TAVR in high-risk patients
+In the PARTNER study comparing surgery and TAVR in high-risk patients, mortality and symptom
+reduction were similar at 2 and 5 years for each modality.[54] [55] Periprocedural risks varied at 30 days;
+vascular complications and neurologic events such as stroke occurred more frequently after TAVR in early
+experiences using first and second generation devices that required very large sheath delivery system
+sizes, while major bleeding and new-onset atrial fibrillation more commonly followed surgery.[56] [57]
+ Acute kidney injury and new pacemaker implantation were complications of both interventions at similar
+rates.[56] Scores on health-related quality-of-life assessments improved more rapidly with TAVR but were
+similar at 12 months.[58] At 2 and 5 years, echocardiographic improvements in valve area and mean
+gradients were similar in both groups, but total and paravalvular aortic regurgitation was encountered
+more frequently after TAVR.[54] [55] [59] A randomized trial comparing TAVR using an alternative, self-
+expanding bioprosthesis to surgery in high-risk patients demonstrated similar survival at 5 years with
+TAVR compared with surgery.[60] It must be emphasized that, despite the encouraging results, TAVR
+is a relatively new technology and it is unclear at this time how the durability of transcatheter valves will
+compare with surgical prostheses.
+For patients with prohibitive surgical risk (i.e., surgical noncandidates), TAVR is the preferred treatment
+modality.[61] The PARTNER trial comparing standard therapy, including balloon aortic valvuloplasty,
+with TAVR in inoperable patients demonstrated a 20% absolute reduction in mortality at 1 year in favor
+of TAVR.[62] At 3 years, mortality with TAVR was 54.1% compared with 80.9% with standard therapy,
+while at 5 years, mortality was 71.8% and 93.6%, respectively.[63] [64] Heart failure symptoms improved
+between 30 days and 6 months. At 3 years, 29.7% of patients in the TAVR group were alive with New
+York Heart Association Class I/II symptoms, compared with 4.8% of patients in the standard therapy
+group.[62] [63] [65] Patients treated with TAVR also showed significant improvements on assessments of
+health-related quality of life when compared with those receiving standard therapy.[66]
+TAVR in intermediate- and low-risk patients
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Aortic stenosis Management
+Clinical trial data in intermediate-risk and low-risk patients suggest that TAVR is a reasonable alternative
+to surgery.
+The PARTNER 2A study in intermediate-risk patients with severe AS demonstrated similar rates of
+death or disabling stroke at 2 years and 5 years with TAVR compared with surgery, while an alternate
+randomized trial of a self-expanding prosthesis also showed noninferiority at 2 years with TAVR.[67] [68]
+[69] In patients undergoing TAVR implantation via a transfemoral approach rather than a transthoracic
+one, there was a trend toward a lower risk of death or disabling stroke compared with surgery. A meta-
+analysis that included the PARTNER 2A study (2 year results) found that transfemoral TAVR may be
+beneficial compared with surgical aortic valve replacement in many patients, particularly those who have
+a shorter life expectancy.[70]
+In low-risk patients with anatomy favorable for transfemoral TAVR, the PARTNER 3 study showed that
+TAVR outperformed surgery at reducing a composite of death, stroke, or rehospitalization at 1 year,
+while a second study of TAVR in low-risk patients using an alternative self-expanding prosthesis showed
+similar rates of a composite of death or disabling stroke between TAVR and surgery.[71] [72] Of note,
+the average age of patients in the two pivotal TAVR low-risk trials was >70 years. Therefore, data from
+these trials should not be extrapolated to patients at considerably younger ages. A Cochrane review
+found that there is probably little or no mortality difference between TAVR and surgery for severe AS in
+low-risk patients, and probably little or no difference in risk of stroke, myocardial infarction, and cardiac
+death.[73]  The Cochrane review found that TAVR reduces the risk of atrial fibrillation, acute kidney injury,
+and bleeding, and may reduce the risk of hospitalization, but there is an increased risk of permanent
+pacemaker implantation. It should be noted that further study is needed to determine the long-term
+durability of transcatheter valves, and longer-term follow-up data from these trials in low-risk patients will
+permit a more complete evaluation of specific outcomes such as survival and complication rates.
+Balloon aortic valvuloplasty
+For patients with severe AS who are critically ill, need urgent noncardiac surgery, have cancer and an
+unclear long-term survival, are acutely symptomatic, or are in cardiogenic shock, balloon valvuloplasty is
+a reasonable option as a bridge to recovery and subsequent evaluation for SAVR or TAVR.[26] Balloon
+valvuloplasty may also be used in patients with decompensated AS and in those with severe AS who
+require urgent high-risk noncardiac surgery.[46] This is a percutaneous procedure done in the cardiac
+catheterization lab in which a balloon is forcefully inflated across the aortic valve to relieve stenosis.
+Unfortunately, restenosis rates are high at 6 months and there is no shown improvement in mortality
+following valvuloplasty. However, patients do generally experience improvement in hemodynamics and
+symptoms, which may provide an opportunity for more definitive care.[74]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Aortic stenosis Management
+MANAGEMENT
+Balloon valvuloplasty fluoroscopy film that demonstrates
+valvuloplasty balloon inflated across a calcified aortic valve
+From the collection of David Liff, MD, Emory University Hospital; used with permission
+Medical therapy
+Medical therapies do not influence the natural history of AS. However, medical therapy for certain
+comorbidities, such as hypertension and hyperlipidemia, is appropriate in patients with AS and
+hypertension and/or coronary artery disease.[26]
+Studies have shown that renin-angiotensin system blocker therapy (ACE inhibitor or angiotensin receptor
+blocker) may reduce the long-term risk of all-cause mortality in patients who have undergone SAVR or
+TAVR and may be considered in these patients (provided that blood pressure is carefully monitored).[26]
+[46]
+While the role of statin therapy is established for atherosclerotic disease prevention, randomized trials
+of statins in patients with AS have not found improvements in AS progression.[19] [75] [76]  However,
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Aortic stenosis Management
+studies in patients with mild to moderate AS have shown a reduction of ischemic events by 20% in those
+treated with statins.[26]
+The ACC/AHA recommends statin therapy for primary and secondary prevention of atherosclerosis in all
+patients with calcific AS on the basis of standard risk scores.[26]
+NICE in the UK recommends considering aspirin (or clopidogrel if aspirin is not tolerated) if the patient
+has undergone TAVR. However, NICE does not recommend anticoagulation following surgical biological
+valve replacement, unless there is a separate indication for anticoagulation.[28]
+Asymptomatic AS
+Severe AS
+The ACC/AHA guidelines recommend:[26]
+• SAVR in asymptomatic patients with severe AS and an LVEF <50%, who are ages <65 years or
+have a life expectancy >20 years.[26]
+• Studies have reported significant differences in survival, beginning as early as 3 years post-
+valve replacement, between those with preoperative LVEF >50% and patients with LVEF
+<50%.[77] Delaying surgery in these patients may lead to irreversible LV dysfunction and
+worsened survival. 
+• Either TAVR or SAVR in asymptomatic patients with severe AS and an LVEF <50%, who are 65 to
+80 years of age and have no contraindications to transfemoral TAVR, after shared decision-making
+based on the patient wishes, anatomic considerations, concomitant coronary artery disease and/or
+other valvular heart disease, comorbidities (e.g., frailty, dementia), and surgical risk.[26]
+• TAVR in preference to SAVR in asymptomatic patients with severe AS and LVEF <50% who are of
+any age and have.[26] 
+• A life expectancy <10 years and no contraindication to transfemoral TAVR
+• A high or prohibitive surgical risk, if the predicted post-TAVR survival is >12 months with an
+acceptable quality of life.
+• SAVR in preference to TAVR in asymptomatic patients with severe AS and low surgical risk who
+have an abnormal exercise test, very severe AS, rapid progression, or elevated serum B-type
+natriuretic peptide (BNP) levels.[26]
+• Considering SAVR in asymptomatic patients with severe AS and normal LV systolic function at rest
+and low surgical risk, when there is a progressive decrease in LVEF on at least three serial imaging
+studies to <60% without an alternative cause.[26]
+There is a sizable population of patients with severe AS who are asymptomatic, with normal LV systolic
+function, and not requiring other types of cardiac surgery. The first determination to be made in these
+patients is that they are truly without symptoms, using a thorough history focused on activity level and
+changes in functional capacity. For those without symptoms, exercise testing may provide clinically
+important information.[35] The ACC/AHA recommend that patients with asymptomatic severe AS undergo
+serial evaluation with echocardiography every 6 to 12 months.[26] These patients must also be followed
+up closely by a cardiologist.
+The ESC/EACS recommend:[46]
+• Intervention for all asymptomatic patients with severe AS and:
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Aortic stenosis Management
+MANAGEMENT
+• Systolic LV dysfunction (LVEF <50%) without another cause
+• Demonstrable symptoms on exercise testing.
+• Intervention should be considered for asymptomatic patients with:
+• Severe AS and systolic LV dysfunction (LVEF <55%) without another cause
+• Severe AS and a sustained fall in BP (>20 mmHg) during exercise testing
+• LVEF >55% and a normal exercise test if the procedural risk is low and one of the following
+parameters is present:
+• Very severe AS (mean gradient ≥60 mmHg or Vmax >5 m/s)
+• Severe valve calcification (assessed by cardiac CT) and Vmax progression ≥0.3 m/s/
+year
+• Markedly elevated BNP levels (>3 age- and sex-corrected normal range) confirmed by
+repeated measurements and without other explanation.
+NICE in the UK recommends that adults with asymptomatic severe AS have a clinical review every 6 to
+12 months (which should include echocardiography) if an intervention is suitable but not currently needed.
+NICE advises basing the frequency of review on the echocardiography findings and shared decision
+making with the patient.[28]
+Moderate or mild AS
+The ACC/AHA guidelines recommend:[26]
+• When patients with moderately stenotic valves undergo cardiac surgery, the decision to replace
+the valve is more difficult and balances the increased risk of adding aortic valve replacement to the
+planned surgery with the future likelihood of AS progressing to a severe, symptomatic state. Aortic
+valve replacement with either TAVR or SAVR may be considered for asymptomatic patients with
+moderate AS who are undergoing other cardiac surgery.[26]
+• Prophylactic valve replacement at the time of coronary bypass surgery has been studied, though
+no large prospective, randomized controlled trials exist. A review of outcomes from 1995 to 2000
+of the Society of Thoracic Surgery (STS) database found that if patients had a peak aortic gradient
+>30 mmHg and were <70 years (correlating with a more moderate degree of stenosis), they
+benefited from prophylactic valve replacement at the time of coronary artery bypass surgery.[78]
+These conclusions were supported by a subsequent retrospective analysis that found a significant
+survival advantage at 8 years in favor of prophylactic valve replacement at the time of bypass
+surgery for those with moderate but not mild AS.[79]
+• Serial transthoracic echocardiograms in asymptomatic patients with mild stenosis is recommended
+every 3 to 5 years.[26] People with moderate stenosis are recommended to have transthoracic
+echocardiograms every 1 to 2 years.[26]
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Aortic stenosis Management
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial ( summary )
+clinically unstable
+1st medical therapy or balloon valvuloplasty
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Aortic stenosis Management
+MANAGEMENT
+Acute ( summary )
+clinically stable: symptomatic
+severe AS: age <65 years
+or life expectancy >20
+years
+1st surgical aortic valve replacement
+plus long-term infective endocarditis antibiotic
+prophylaxis
+adjunct long-term anticoagulation
+adjunct medical therapy
+severe AS: age 65-80 years 1st surgical OR transcatheter aortic valve
+replacement
+plus long-term infective endocarditis antibiotic
+prophylaxis
+adjunct long-term anticoagulation
+adjunct medical therapy
+severe AS: age >80 years
+or life expectancy <10
+years or high/prohibitive
+risk
+1st transcatheter aortic valve replacement
+plus long-term infective endocarditis antibiotic
+prophylaxis
+adjunct long-term anticoagulation
+adjunct medical therapy
+clinically stable: asymptomatic
+severe AS: LVEF <50% 1st surgical OR transcatheter aortic valve
+replacement
+plus long-term infective endocarditis antibiotic
+prophylaxis
+adjunct long-term anticoagulation
+adjunct medical therapy
+severe AS: abnormal
+exercise test, very severe
+AS, rapid progression, or
+elevated BNP
+1st surgical aortic valve replacement
+plus long-term infective endocarditis antibiotic
+prophylaxis
+adjunct long-term anticoagulation
+adjunct medical therapy
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Aortic stenosis Management
+Acute ( summary )
+severe AS: normal LV
+systolic function with
+progressive decrease in
+LVEF <60%
+1st consider surgical aortic valve
+replacement
+adjunct long-term infective endocarditis antibiotic
+prophylaxis
+adjunct long-term anticoagulation
+adjunct medical therapy
+nonsevere AS:
+undergoing bypass, valve,
+or aortic surgery
+1st consider concomitant prophylactic valve
+replacement
+adjunct long-term infective endocarditis antibiotic
+prophylaxis
+adjunct long-term anticoagulation
+adjunct medical therapy
+nonsevere AS: not
+undergoing bypass, valve,
+or aortic surgery
+1st medical therapy and follow-up
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Aortic stenosis Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Initial
+clinically unstable
+1st medical therapy or balloon valvuloplasty
+» The information in this treatment algorithm
+is largely based on recommendations from the
+American College of Cardiology/American Heart
+Association (ACC/AHA). For information on how
+recommendations from the UK National Institute
+for Health and Care Excellence (NICE) and
+the European Society of Cardiology/European
+Association for Cardio-Thoracic Surgery (ESC/
+EATC) differ, see Management Approach .
+Follow the recommended approach in your
+region.
+» All patients need to be stabilized prior
+to surgery or transcatheter aortic valve
+replacement (TAVR).
+» There has been concern that vasodilator
+therapy could be potentially dangerous, due
+to the possibility that a stenotic valve might
+permit only a fixed cardiac output, leading to
+hypotension. Vasodilator and beta-blocker
+therapy is not routinely given preoperatively on
+the day of surgery, although vasodilator therapy
+may be helpful for selected patients in closely
+monitored settings (e.g., ICU).
+» For patients with severe AS who are critically
+ill, need urgent noncardiac surgery, have
+cancer and an unclear long-term survival, are
+acutely symptomatic, or are in cardiogenic
+shock, balloon valvuloplasty is a reasonable
+option as a bridge to recovery and subsequent
+evaluation for surgical aortic valve replacement
+(SAVR) or TAVR.[26] This is a percutaneous
+procedure done in the cardiac catheterization
+lab in which a balloon is forcefully inflated across
+the aortic valve to relieve stenosis. Unfortunately,
+restenosis rates are high at 6 months and there
+is no shown improvement in mortality following
+valvuloplasty. However, patients do generally
+experience improvement in hemodynamics and
+symptoms, which may provide an opportunity for
+more definitive care.[74]
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Aortic stenosis Management
+Initial
+Balloon valvuloplasty fluoroscopy film
+that demonstrates valvuloplasty balloon
+inflated across a calcified aortic valve
+From the collection of David Liff, MD, Emory
+University Hospital; used with permission
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Aortic stenosis Management
+MANAGEMENT
+Acute
+clinically stable: symptomatic
+severe AS: age <65 years
+or life expectancy >20
+years
+1st surgical aortic valve replacement
+» The ACC/AHA guidelines recommend
+surgical aortic valve replacement (SAVR) for
+symptomatic and asymptomatic patients with
+severe AS who meet an indication for aortic
+valve replacement (AVR) and who are <65 years
+of age or have a life expectancy >20 years. This
+includes patients with an LVEF <50%.[26]
+» Prosthetic aortic valves used in surgical
+valve replacement may be mechanical or
+bioprosthetic.
+» AVR is recommended in symptomatic patients
+with severe AS, including those with low-flow/
+low-gradient severe AS with either a reduced
+left ventricular ejection fraction (LVEF) and
+persistent severe AS on low-dose dobutamine
+stress study, or a normal LVEF and evidence
+that valve obstruction is the most likely cause of
+symptoms.[26]
+plus long-term infective endocarditis antibiotic
+prophylaxis
+Treatment recommended for ALL patients in
+selected patient group
+» Antibiotic prophylaxis for the prevention of
+infective endocarditis should be considered
+in patients with prosthetic cardiac valves,
+including transcatheter-implanted prostheses
+and homografts, before dental procedures that
+involve manipulation of gingival tissue or the
+periapical region of teeth or perforation of the
+oral mucosa.[26]
+adjunct long-term anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Anticoagulation with a vitamin K antagonist
+is indicated in patients who have had aortic
+valve replacement using prosthetic mechanical
+valves.[26]
+» Direct oral anticoagulants (DOACs) are
+not recommended in patients requiring long-
+term anticoagulation for a mechanical valve
+regardless of coexisting atrial fibrillation.[26]
+» Anticoagulation is not required if bioprosthetic
+valves are used, except in the presence of atrial
+fibrillation, where anticoagulation is indicated.
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Aortic stenosis Management
+Acute
+adjunct medical therapy
+Treatment recommended for SOME patients in
+selected patient group
+» Medical therapy for hypertension and
+hyperlipidemia is appropriate in patients with
+AS and hypertension and/or coronary artery
+disease.[26]
+» Statin therapy is indicated for primary and
+secondary prevention of atherosclerosis in all
+patients with calcific AS on the basis of standard
+risk scores.[26]
+severe AS: age 65-80 years 1st surgical OR transcatheter aortic valve
+replacement
+» The ACC/AHA guidelines recommend either
+surgery or transfemoral transcatheter aortic
+valve replacement (TAVR) for symptomatic
+patients with severe AS who are ages 65 to
+80 years and have no contraindications to
+transfemoral TAVR, after shared decision-
+making based on the patient wishes, anatomic
+considerations, concomitant coronary artery
+disease and/or other valvular heart disease,
+comorbidities (e.g., frailty, dementia), and
+surgical risk.[26]
+plus long-term infective endocarditis antibiotic
+prophylaxis
+Treatment recommended for ALL patients in
+selected patient group
+» Antibiotic prophylaxis for the prevention of
+infective endocarditis should be considered
+in patients with prosthetic cardiac valves,
+including transcatheter-implanted prostheses
+and homografts, before dental procedures that
+involve manipulation of gingival tissue or the
+periapical region of teeth or perforation of the
+oral mucosa.[26]
+adjunct long-term anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Anticoagulation with a vitamin K antagonist
+is indicated in patients who have had aortic
+valve replacement using prosthetic mechanical
+valves.[26]Direct oral anticoagulants (DOACs)
+are not recommended in patients requiring long-
+term anticoagulation for a mechanical valve
+regardless of coexisting atrial fibrillation.[26]
+» Anticoagulation is not required if bioprosthetic
+valves are used, except in the presence of atrial
+fibrillation, where anticoagulation is indicated.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Aortic stenosis Management
+MANAGEMENT
+Acute
+adjunct medical therapy
+Treatment recommended for SOME patients in
+selected patient group
+» Medical therapy for hypertension and
+hyperlipidemia is appropriate in patients with
+AS and hypertension and/or coronary artery
+disease.[26]
+» Statin therapy is indicated for primary and
+secondary prevention of atherosclerosis in all
+patients with calcific AS on the basis of standard
+risk scores.[26]
+» In patients who have undergone TAVR, renin-
+angiotensin system blocker therapy (ACE
+inhibitor or angiotensin receptor blocker) may be
+considered to reduce the long-term risk of all-
+cause mortality.[26]
+severe AS: age >80 years
+or life expectancy <10
+years or high/prohibitive
+risk
+1st transcatheter aortic valve replacement
+» The ACC/AHA guidelines recommend
+transcatheter aortic valve replacement (TAVR)
+in preference to surgery in symptomatic patients
+with severe AS who are: ages >80 years, or
+for younger patients with a life expectancy <10
+years and no contraindication to transfemoral
+TAVR; of any age and have a high or prohibitive
+surgical risk, if the predicted post-TAVR survival
+is >12 months with an acceptable quality of
+life.[26]
+» Surgical risk can be estimated using scoring
+systems such as the Society of Thoracic
+Surgeons Predicted Risk of Mortality (STS-
+PROM) and the EuroScore II.[46]  [Society
+of Thoracic Surgeons: risk calculator] (http://
+www.sts.org/quality-research-patient-safety/
+quality/risk-calculator-and-models/risk-calculator)
+ These models utilize a variety of risk factors
+to predict postoperative outcome after valve
+surgery. Mortality estimates are used in
+conjunction with assessments of frailty, major
+organ system compromise, and procedure-
+specific impediments to classify each patient’s
+overall surgical risk: low risk; intermediate risk;
+high risk; prohibitive risk.[26]
+plus long-term infective endocarditis antibiotic
+prophylaxis
+Treatment recommended for ALL patients in
+selected patient group
+» Antibiotic prophylaxis for the prevention of
+infective endocarditis should be considered
+in patients with prosthetic cardiac valves,
+including transcatheter-implanted prostheses
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Aortic stenosis Management
+Acute
+and homografts, before dental procedures that
+involve manipulation of gingival tissue or the
+periapical region of teeth or perforation of the
+oral mucosa.[26]
+adjunct long-term anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Anticoagulation is not required if bioprosthetic
+valves are used, except in the presence of atrial
+fibrillation, where anticoagulation is indicated.
+adjunct medical therapy
+Treatment recommended for SOME patients in
+selected patient group
+» Medical therapy for hypertension and
+hyperlipidemia is appropriate in patients with
+AS and hypertension and/or coronary artery
+disease.[26]
+» Statin therapy is indicated for primary and
+secondary prevention of atherosclerosis in all
+patients with calcific AS on the basis of standard
+risk scores.[26]
+» In patients who have undergone TAVR, renin-
+angiotensin system blocker therapy (ACE
+inhibitor or angiotensin receptor blocker) may be
+considered to reduce the long-term risk of all-
+cause mortality.[26]
+clinically stable: asymptomatic
+severe AS: LVEF <50% 1st surgical OR transcatheter aortic valve
+replacement
+» The ACC/AHA guidelines recommend:
+» - Surgical aortic valve replacement (SAVR)
+in asymptomatic patients with severe AS and
+an LVEF <50%, who are ages <65 years or
+have a life expectancy >20 years.[26]Studies
+have reported significant differences in survival,
+beginning as early as 3 years post-valve
+replacement, between those with preoperative
+LVEF >50% and patients with LVEF <50%.[77]
+Delaying surgery in these patients may lead
+to irreversible LV dysfunction and worsened
+survival.
+» - Either surgical or transfemoral transcatheter
+aortic valve replacement (TAVR) in
+asymptomatic patients with severe AS and an
+LVEF <50%, who are 65 to 80 years of age
+and have no contraindications to transfemoral
+TAVR, after shared decision-making based on
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Aortic stenosis Management
+MANAGEMENT
+Acute
+the patient wishes, anatomic considerations,
+concomitant coronary artery disease and/or
+other valvular heart disease, comorbidities (e.g.,
+frailty, dementia), and surgical risk.[26]
+» - TAVR in preference to SAVR in asymptomatic
+patients with severe AS and LVEF <50% who
+are of any age and have: a life expectancy <10
+years and no contraindication to transfemoral
+TAVR; a high or prohibitive surgical risk, if the
+predicted post-TAVR survival is >12 months with
+an acceptable quality of life.[26]
+» Surgical risk can be estimated using scoring
+systems such as the Society of Thoracic
+Surgeons Predicted Risk of Mortality (STS-
+PROM) and the EuroScore II.[46]  [Society
+of Thoracic Surgeons: risk calculator] (http://
+www.sts.org/quality-research-patient-safety/
+quality/risk-calculator-and-models/risk-calculator)
+ These models utilize a variety of risk factors
+to predict postoperative outcome after valve
+surgery. Mortality estimates are used in
+conjunction with assessments of frailty, major
+organ system compromise, and procedure-
+specific impediments to classify each patient’s
+overall surgical risk: low risk; intermediate risk;
+high risk; prohibitive risk.[26]
+plus long-term infective endocarditis antibiotic
+prophylaxis
+Treatment recommended for ALL patients in
+selected patient group
+» Antibiotic prophylaxis for the prevention of
+infective endocarditis should be considered
+in patients with prosthetic cardiac valves,
+including transcatheter-implanted prostheses
+and homografts, before dental procedures that
+involve manipulation of gingival tissue or the
+periapical region of teeth or perforation of the
+oral mucosa.[26]
+adjunct long-term anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Anticoagulation with a vitamin K antagonist
+is indicated in patients who have had aortic
+valve replacement using prosthetic mechanical
+valves.[26]
+» Direct oral anticoagulants (DOACs) are
+not recommended in patients requiring long-
+term anticoagulation for a mechanical valve
+regardless of coexisting atrial fibrillation.[26]
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Aortic stenosis Management
+Acute
+» Anticoagulation is not required if bioprosthetic
+valves are used, except in the presence of atrial
+fibrillation, where anticoagulation is indicated.
+adjunct medical therapy
+Treatment recommended for SOME patients in
+selected patient group
+» Medical therapy for hypertension and
+hyperlipidemia is appropriate in patients with
+AS and hypertension and/or coronary artery
+disease.[26]
+» Statin therapy is indicated for primary and
+secondary prevention of atherosclerosis in all
+patients with calcific AS on the basis of standard
+risk scores.[26]
+» In patients who have undergone TAVR, renin-
+angiotensin system blocker therapy (ACE
+inhibitor or angiotensin receptor blocker) may be
+considered to reduce the long-term risk of all-
+cause mortality.[26]
+severe AS: abnormal
+exercise test, very severe
+AS, rapid progression, or
+elevated BNP
+1st surgical aortic valve replacement
+» The ACC/AHA guidelines recommend
+surgical aortic valve replacement (SAVR) in
+asymptomatic patients with severe AS and
+low surgical risk who have: an abnormal
+exercise test (i.e., decreased exercise tolerance
+[normalized for age and sex] or a fall in systolic
+blood pressure of ≥10 mmHg from baseline
+to peak exercise); very severe AS; rapid
+progression; elevated serum B-type natriuretic
+peptide (BNP) levels.
+» Surgical risk can be estimated using scoring
+systems such as the Society of Thoracic
+Surgeons Predicted Risk of Mortality (STS-
+PROM) and the EuroScore II.[46]  [Society
+of Thoracic Surgeons: risk calculator] (http://
+www.sts.org/quality-research-patient-safety/
+quality/risk-calculator-and-models/risk-calculator)
+ These models utilize a variety of risk factors
+to predict postoperative outcome after valve
+surgery. Mortality estimates are used in
+conjunction with assessments of frailty, major
+organ system compromise, and procedure-
+specific impediments to classify each patient’s
+overall surgical risk: low risk; intermediate risk;
+high risk; prohibitive risk.[26]
+plus long-term infective endocarditis antibiotic
+prophylaxis
+Treatment recommended for ALL patients in
+selected patient group
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Aortic stenosis Management
+MANAGEMENT
+Acute
+» Antibiotic prophylaxis for the prevention of
+infective endocarditis should be considered
+in patients with prosthetic cardiac valves,
+including transcatheter-implanted prostheses
+and homografts, before dental procedures that
+involve manipulation of gingival tissue or the
+periapical region of teeth or perforation of the
+oral mucosa.[26]
+adjunct long-term anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Anticoagulation with a vitamin K antagonist
+is indicated in patients who have had aortic
+valve replacement using prosthetic mechanical
+valves.[26]
+» Direct oral anticoagulants (DOACs) are
+not recommended in patients requiring long-
+term anticoagulation for a mechanical valve
+regardless of coexisting atrial fibrillation.[26]
+» Anticoagulation is not required if bioprosthetic
+valves are used, except in the presence of atrial
+fibrillation, where anticoagulation is indicated.
+adjunct medical therapy
+Treatment recommended for SOME patients in
+selected patient group
+» Medical therapy for hypertension and
+hyperlipidemia is appropriate in patients with
+AS and hypertension and/or coronary artery
+disease.[26]
+» Statin therapy is indicated for primary and
+secondary prevention of atherosclerosis in all
+patients with calcific AS on the basis of standard
+risk scores.[26]
+severe AS: normal LV
+systolic function with
+progressive decrease in
+LVEF <60%
+1st consider surgical aortic valve replacement
+» Surgical aortic valve replacement (SAVR)
+may be considered in asymptomatic patients
+with severe AS and normal LV systolic function
+at rest and low surgical risk, when there is a
+progressive decrease in LVEF on at least three
+serial imaging studies to <60% without an
+alternative cause.[26]
+» Surgical risk can be estimated using scoring
+systems such as the Society of Thoracic
+Surgeons Predicted Risk of Mortality (STS-
+PROM) and the EuroScore II.[46]  [Society
+of Thoracic Surgeons: risk calculator] (http://
+www.sts.org/quality-research-patient-safety/
+quality/risk-calculator-and-models/risk-calculator)
+ These models utilize a variety of risk factors
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Aortic stenosis Management
+Acute
+to predict postoperative outcome after valve
+surgery. Mortality estimates are used in
+conjunction with assessments of frailty, major
+organ system compromise, and procedure-
+specific impediments to classify each patient’s
+overall surgical risk: low risk; intermediate risk;
+high risk; prohibitive risk.[26]
+adjunct long-term infective endocarditis antibiotic
+prophylaxis
+Treatment recommended for SOME patients in
+selected patient group
+» Antibiotic prophylaxis for the prevention of
+infective endocarditis should be considered
+in patients with prosthetic cardiac valves,
+including transcatheter-implanted prostheses
+and homografts, before dental procedures that
+involve manipulation of gingival tissue or the
+periapical region of teeth or perforation of the
+oral mucosa.[26]
+adjunct long-term anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Anticoagulation with a vitamin K antagonist
+is indicated in patients who have had aortic
+valve replacement using prosthetic mechanical
+valves.[26]
+» Direct oral anticoagulants (DOACs) are
+not recommended in patients requiring long-
+term anticoagulation for a mechanical valve
+regardless of coexisting atrial fibrillation.[26]
+» Anticoagulation is not required if bioprosthetic
+valves are used, except in the presence of atrial
+fibrillation, where anticoagulation is indicated.
+adjunct medical therapy
+Treatment recommended for SOME patients in
+selected patient group
+» Medical therapy for hypertension and
+hyperlipidemia is appropriate in patients with
+AS and hypertension and/or coronary artery
+disease.[26]
+» Statin therapy is indicated for primary and
+secondary prevention of atherosclerosis in all
+patients with calcific AS on the basis of standard
+risk scores.[26]
+nonsevere AS:
+undergoing bypass, valve,
+or aortic surgery
+1st consider concomitant prophylactic valve
+replacement
+» When patients with moderately stenotic
+valves undergo cardiac surgery, the decision
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+45
+=== Page 46 ===
+Aortic stenosis Management
+MANAGEMENT
+Acute
+to replace the valve is less clear cut than when
+there is severe stenosis. The increased risk of
+adding aortic valve replacement to the planned
+surgery needs to be balanced against the
+future likelihood of AS progressing to a severe,
+symptomatic state.
+» The ACC/AHA guidelines advise that aortic
+valve replacement with either transcatheter
+aortic valve replacement (TAVR) or surgical
+aortic valve replacement (SAVR) may be
+considered for asymptomatic patients with
+moderate AS who are undergoing other cardiac
+surgery.[26]
+adjunct long-term infective endocarditis antibiotic
+prophylaxis
+Treatment recommended for SOME patients in
+selected patient group
+» Antibiotic prophylaxis for the prevention of
+infective endocarditis should be considered
+in patients with prosthetic cardiac valves,
+including transcatheter-implanted prostheses
+and homografts, before dental procedures that
+involve manipulation of gingival tissue or the
+periapical region of teeth or perforation of the
+oral mucosa.[26]
+adjunct long-term anticoagulation
+Treatment recommended for SOME patients in
+selected patient group
+» Anticoagulation with a vitamin K antagonist
+is indicated in patients who have had aortic
+valve replacement using prosthetic mechanical
+valves.[26]
+» Direct oral anticoagulants (DOACs) are
+not recommended in patients requiring long-
+term anticoagulation for a mechanical valve
+regardless of coexisting atrial fibrillation.[26]
+» Anticoagulation is not required if bioprosthetic
+valves are used, except in the presence of atrial
+fibrillation, where anticoagulation is indicated.
+adjunct medical therapy
+Treatment recommended for SOME patients in
+selected patient group
+» Medical therapy for hypertension and
+hyperlipidemia is appropriate in patients with
+AS and hypertension and/or coronary artery
+disease.[26]
+» Statin therapy is indicated for primary and
+secondary prevention of atherosclerosis in all
+46 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 47 ===
+Aortic stenosis Management
+Acute
+patients with calcific AS on the basis of standard
+risk scores.[26]
+» In patients who have undergone TAVR, renin-
+angiotensin system blocker therapy (ACE
+inhibitor or angiotensin receptor blocker) may be
+considered to reduce the long-term risk of all-
+cause mortality.[26]
+nonsevere AS: not
+undergoing bypass, valve,
+or aortic surgery
+1st medical therapy and follow-up
+» Medical therapy for hypertension and
+hyperlipidemia is appropriate in patients
+with AS and hypertension and/or coronary
+artery disease.[26] Statin therapy is indicated
+for primary and secondary prevention of
+atherosclerosis in all patients with calcific AS on
+the basis of standard risk scores.[26]
+» Serial transthoracic echocardiograms
+are recommended every 3 to 5 years in
+asymptomatic patients with mild stenosis, and
+every 1 to 2 years in asymptomatic people with
+moderate stenosis.[26]
+Primary prevention
+There are no effective strategies for the primary prevention of AS; however, it remains to be seen if the
+incidence of AS will decrease with the increased recognition and treatment of cardiovascular disease risk
+factors that appear to contribute to aortic valve pathology.
+Secondary prevention
+Antibiotic prophylaxis for the prevention of infective endocarditis is no longer routinely recommended in
+patients with AS who undergo dental procedures. However, it should be considered in the following high-risk
+groups before dental procedures that involve manipulation of gingival tissue or the periapical region of teeth
+or perforation of the oral mucosa:[26]
+• Patients with prosthetic cardiac valves, including transcatheter-implanted prostheses and homografts
+• Patients with a history of valve repair using prosthetic cardiac material such as annuloplasty rings and
+chords
+• Patients with previous infective endocarditis
+• Patients with unrepaired cyanotic congenital heart disease or repaired congenital heart disease, with
+residual shunts or valvular regurgitation at the site of, or adjacent to the site of, a prosthetic patch or
+device
+• Cardiac transplant recipients with valve regurgitation due to a structurally abnormal valve.
+Patient discussions
+The American College of Cardiology/American Heart Association (ACC/AHA) recommends ensuring that
+patients with prosthetic valves be aware of the need for antibiotics prior to certain medical procedures
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+47
+=== Page 48 ===
+Aortic stenosis Management
+MANAGEMENT
+(e.g., dental visits); the patient should be counseled to seek medical professional advice about the
+appropriateness of prophylaxis if there is any uncertainty.[26]
+Patients should also be made aware that following aortic valve replacement, they still have significant
+valve disease. In addition, other cardiovascular comorbidities frequently exist, and thus appropriate diet
+and exercise regimens should be adopted.
+The return of preoperative symptoms needs to be brought to the attention of a medical professional as
+soon as they are noted, so that appropriate evaluation can be performed.
+If the patient with AS requires intervention, the National Institute for Health and Care Excellence (NICE)
+in the UK recommends discussing the possible benefits and risks of intervention. It is advised that the
+following is included in the discussion:[28]
+• The long and short term benefits to quality of life
+• Prosthetic valve durability
+• The risks associated with the procedures
+• The type of access required for surgery (median sternotomy, minimally invasive surgery, or
+transcatheter [for patients at high surgical risk])
+• The possible need for other cardiac procedures in future.
+In addition, NICE recommends that patients are provided information about:[28]
+• The expected progression and prognosis, including the likely length of the asymptomatic stage
+• Any need for intervention, including the type of intervention
+• The possible effects of other conditions on long term outcomes
+• Rehabilitation and long term outcomes
+• Pregnancy (if appropriate)
+• Palliative care and how to access this (if appropriate).
+48 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 49 ===
+Aortic stenosis Follow up
+Monitoring
+Monitoring
+For asymptomatic patients, close follow-up is imperative. While symptoms generally do not occur unless
+the patient has severe AS, patients with moderate AS need to be questioned thoroughly about symptoms,
+as the patient may often attribute functional decline with progressive AS to other causes such as age. A
+large prospective study of asymptomatic patients with severe AS showed that at 5 years only 20% were
+free of cardiovascular death or aortic valve replacement (AVR).[90] It may be appropriate to perform an
+exercise test in asymptomatic patients with severe AS to assess symptoms and physiologic response to
+exercise. Those who become symptomatic or who do not show an appropriate increase in blood pressure
+should probably be referred for surgery.[26]
+Serial follow-up of asymptomatic patients found to have AS depends on the severity of stenosis.
+The American College of Cardiology/American Heart Association (ACC/AHA) recommend the following
+timeframes for follow-up:[26]
+• Mild stenosis: transthoracic echocardiogram (TTE) every 3 to 5 years
+• Moderate stenosis: TTE every 1 to 2 years
+• Severe stenosis: TTE every 6 to 12 months.
+The European Society of Cardiology and the European Association for Cardio-Thoracic Surgery (ESC/
+EACS) guidelines place an emphasis on the importance of regular follow-up including TTE, the frequency
+of which depends on each individual. Those with severe AS should be followed up every 6 months.
+Younger patients with mild AS and no significant calcification may be followed up every 2-3 years.[46]
+The National Institute for Health and Care Excellence (NICE) in the UK recommends following up as
+detailed below:[28]
+• Mild and moderate stenosis: TTE every 3 to 5 years
+• Severe stenosis: clinical review every 6 to 12 months (which should include TTE) if an intervention
+is suitable but not currently needed. NICE advises basing the frequency of review on the
+echocardiography findings and shared decision making with the patient.
+Following AVR, patients should have a complete physical exam 2 to 4 weeks after hospital discharge,
+with attention to the presence or improvement of preoperative symptoms. A transthoracic echocardiogram
+should be performed as well to assess prosthetic valve function. In the absence of clinical deterioration,
+history and physical exam should be performed at least annually. Any change in clinical status should
+be evaluated with an echocardiogram, and patients with bioprosthetic valves should probably have an
+echocardiogram annually after 10 years even in the absence of symptoms to evaluate valve function.[26]
+While the echocardiographic assessment of transcatheter aortic valve replacement (TAVR) prostheses
+is similar to the assessment of surgically-placed valves, current recommendations call for more frequent
+evaluations in patients with these new devices (yearly).[61] Patients with paravalvular aortic regurgitation
+have a higher risk of mortality and should be followed even more closely.[54]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+49
+=== Page 50 ===
+Aortic stenosis Follow up
+FOLLOW UP
+Complications
+Complications Timeframe Likelihood
+acute heart failure long term high
+Heart failure occurs when the afterload burden created by the AS limits the ability of the left ventricle
+to pump blood to the body. Treatment of heart failure in AS is difficult. Diuretics and careful afterload
+reduction with vasodilators is the best option.
+Beta-blockers and calcium-channel blockers should be used cautiously if at all because of their negative
+inotropic effects on the left ventricle. Therapy for symptomatic AS must address the underlying stenosis
+via surgical valve replacement or balloon valvuloplasty.
+sudden cardiac death in symptomatic patients variable high
+Sudden cardiac death due to ventricular arrhythmia is very rare in asymptomatic patients (1%) but is a
+significant concern in symptomatic patients.[85]
+sudden cardiac death in asymptomatic patients variable low
+Sudden cardiac death due to ventricular arrhythmia is very rare in asymptomatic patients (1%) but is a
+significant concern in symptomatic patients.[85]
+infection of prosthetic valve variable low
+Any prosthetic valve is at risk for infection, and any fever or signs of valve dysfunction should prompt blood
+cultures and evaluation of valve function.
+thrombosis secondary to a mechanical valve variable low
+Mechanical valves are subject to thrombosis and embolization and require lifelong anticoagulation.
+restenosis variable low
+If patients have a return of preoperative symptoms after replacement, restenosis should be considered.
+valve dehiscence variable low
+Suspected when patients develop new signs of heart failure or have a diastolic murmur of aortic
+regurgitation.
+Prognosis
+For patients with mild or moderate stenosis, the aortic valve area decreases on average by 0.1 cm²/year
+and the mean gradient increases by 7 mmHg annually.[84] It is recommended that patients with moderate
+AS have an echocardiogram every 1 to 2 years, and those with mild AS have one every 3 to 5 years.[26]
+50 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 51 ===
+Aortic stenosis Follow up
+It is important to note that the rate of progression is extremely variable and so the recommended follow-up
+periods may vary between individuals.
+The onset of symptoms is a significant milestone and portends a poor prognosis, with an average survival of
+only 2 to 3 years without surgery. Between 8% and 34% of symptomatic patients die suddenly.[85] It is thus
+essential that symptomatic patients be referred for surgical aortic valve replacement.
+Surgical replacement of the aortic valve is extremely effective therapy. Advances in prosthetic-valve design,
+cardiopulmonary bypass, surgical technique, and anesthesia have steadily improved outcomes for aortic
+valve surgery. An analysis of the 2006 American Society of Thoracic Surgery STS database shows that
+during the previous decade, the mortality risk of isolated aortic valve replacement decreased from 3.4% to
+2.6%. For those <70 years at surgery, the mortality risk is 1.3%.[48] Patients who survive surgery have near-
+normal life expectancy, with relative survival at 5, 10, and 15 years of 99%, 85%, and 82%, respectively.[86]
+[87] Nearly all patients have improvement in ejection fraction and heart failure symptoms, with the most
+significant benefit seen in those with more advanced preoperative symptoms.[88] [89] For those who do
+not improve, factors to consider are valve dysfunction, less-than-expected improvement in preoperative left
+ventricle function, valve-prosthesis mismatch, and other comorbid conditions.
+Appropriately selected patients at all levels of surgical risk may be offered surgery or transcatheter aortic
+valve replacement (TAVR), while patients with prohibitive risk (i.e., surgical noncandidates) should be
+referred for TAVR if predicted post-TAVR survival is greater than 12 months.[61] [26] In the PARTNER
+study comparing surgery and TAVR in high-risk patients, mortality and symptom reduction were similar at
+2 and 5 years for each modality.[54] [55] Periprocedural risks varied at 30 days; vascular complications
+and neurologic events such as stroke occurred more frequently after TAVR, while major bleeding and
+new-onset atrial fibrillation more commonly followed surgery.[56][57] Acute kidney injury and new
+pacemaker implantation were complications of both interventions at similar rates.[56] At 2 and 5 years,
+echocardiographic improvements in valve area and mean gradients were similar in both groups, but total
+and paravalvular aortic regurgitation was encountered more frequently after TAVR.[54] [55] [59] In patients
+with prohibitive surgical risk (i.e., surgical noncandidates), the PARTNER trial compared standard therapy,
+including balloon aortic valvuloplasty, with TAVR and found a 20% absolute reduction in mortality at 1 year in
+favor of TAVR.[62] At 3 years, mortality with TAVR was 54.1% compared with 80.9% with standard therapy,
+while at 5 years, mortality was 71.8% and 93.6%, respectively.[63] [64] Heart failure symptoms improved
+between 30 days and 6 months, while at 3 years 29.7% of patients in the TAVR group were alive with
+New York Heart Association Class I/II symptoms, compared with 4.8% of patients in the standard therapy
+group.[62] [63] [65] Patients treated with TAVR also showed significant improvements on assessments of
+health-related quality of life when compared with those receiving standard therapy.[66]
+Many patients with bicuspid aortic valves will require valve replacement at some point in their lives. After
+valve replacement, patients with bicuspid valves have a significant mortality benefit and improvement in
+symptoms. However, they remain at risk for aortic dissection and require serial follow-up for this potential
+complication.
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+51
+=== Page 52 ===
+Aortic stenosis Guidelines
+GUIDELINES
+Diagnostic guidelines
+International
+ACR appropriateness criteria: preprocedural planning for transcatheter aortic
+valve replacement (https://www.acr.org/Clinical-Resources/Clinical-Tools-and-
+Reference/Appropriateness-Criteria)   [29]
+Published by: American College of Radiology Last published: 2023
+Guideline for the management of patients with valvular heart disease (https://
+www.acc.org/guidelines)   [26]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2020
+Recommendations for evaluation of prosthetic valves with two-dimensional
+and Doppler echocardiography (https://www.asecho.org/assessment-of-
+structure-and-function)   [43]
+Published by: American Society of Echocardiography Last published: 2009
+Recommendations on the echocardiographic assessment of aortic
+valve stenosis: a focused update from the European Association of
+Cardiovascular Imaging and the American Society of Echocardiography
+(https://www.asecho.org/assessment-of-structure-and-function)   [44]
+Published by: European Association of Echocardiography; American
+Society of Echocardiography
+Last published: 2017
+Recommendations for the use of echocardiography in new transcatheter
+interventions for valvular heart disease (https://www.asecho.org/technique-
+based)   [45]
+Published by: European Association of Echocardiography; American
+Society of Echocardiography
+Last published: 2011
+Guidelines on the management of valvular heart disease (https://
+www.escardio.org/Guidelines)   [46]
+Published by: European Society of Cardiology; European Association
+for Cardio-Thoracic Surgery
+Last published: 2021
+Heart valve disease presenting in adults: investigation and management
+(https://www.nice.org.uk/guidance/ng208)   [28]
+Published by: National Institute for Health and Care Excellence (UK) Last published: 2021
+52 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 53 ===
+Aortic stenosis Guidelines
+Treatment guidelines
+International
+2020 ACC expert consensus decision pathway on management of conduction
+disturbances in patients undergoing transcatheter aortic valve replacement
+(https://www.jacc.org/guidelines/expert-consensus-documents)   [80]
+Published by: American College of Cardiology Last published: 2020
+Guideline for the management of patients with valvular heart disease (https://
+www.acc.org/guidelines)   [26]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2020
+Canadian Cardiovascular Society position statement for transcatheter aortic
+valve implantation (http://www.ccs.ca/index.php/en/guidelines/guidelines-
+library)   [81]
+Published by: Canadian Cardiovascular Society Last published: 2019
+ACC/AATS/AHA/ASE/EACTS/HVS/SCA/SCAI/SCCT/SCMR/STS 2017 appropriate
+use criteria for the treatment of patients with severe aortic stenosis (http://
+www.onlinejacc.org/collection/appropriate-use-criteria)   [82]
+Published by: American College of Cardiology; American Heart
+Association; American Society of Echocardiography; European
+Association for Cardio-Thoracic Surgery; Heart Valve Society; Society
+of Cardiovascular Anesthesiologists; Society for Cardiovascular
+Angiography and Interventions; Society of Cardiovascular Computed
+Tomography; Society for Cardiovascular Magnetic Resonance; Society of
+Thoracic Surgeons
+Last published: 2017
+Guidelines on the management of valvular heart disease (https://www.j-
+circ.or.jp/english/cj/jcs-guidelines)   [83]
+Published by: Japanese Circulation Society; Japanese Society for
+Cardiovascular Surgery; Japanese Association for Thoracic Surgery;
+Japanese Society for Vascular Surgery; Japanese College of Cardiology;
+Japanese Society of Echocardiography; Japanese Association for
+Cardiological Intervention and Therapeutics; Japanese Society for Heart
+Valve Disease; Japan Minimally Invasive Cardiac Surgery
+Last published: 2020
+Guidelines on the management of valvular heart disease (https://
+www.escardio.org/Guidelines)   [46]
+Published by: European Society of Cardiology; European Association
+for Cardio-Thoracic Surgery
+Last published: 2021
+Heart valve disease presenting in adults: investigation and management
+(https://www.nice.org.uk/guidance/ng208)   [28]
+Published by: National Institute for Health and Care Excellence (UK) Last published: 2021
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+53
+=== Page 54 ===
+Aortic stenosis Guidelines
+GUIDELINES
+International
+Transcatheter aortic valve implantation for aortic stenosis (https://
+www.nice.org.uk/guidance/ipg586)   [47]
+Published by: National Institute for Health and Care Excellence (UK) Last published: 2017
+54 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 55 ===
+Aortic stenosis Online resources
+Online resources
+1. Society of Thoracic Surgeons: risk calculator (http://www.sts.org/quality-research-patient-safety/quality/
+risk-calculator-and-models/risk-calculator)  (external link)
+ONLINE RESOURCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+55
+=== Page 56 ===
+Aortic stenosis References
+REFERENCES
+Key articles
+• Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of
+patients with valvular heart disease: a report of the American College of Cardiology/American Heart
+Association Joint Committee on clinical practice guidelines. Circulation. 2021 Feb 2;143(5):e72-227. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000923)
+• National Institute for Health and Care Excellence. Heart valve disease presenting in adults:
+investigation and management. Nov 2021 [internet publication].  Full text (https://www.nice.org.uk/
+guidance/ng208)
+• Vahanian A, Beyersdorf F, Praz F, et al. 2021 ESC/EACTS guidelines for the management of valvular
+heart disease. Eur Heart J. 2022 Feb 12;43(7):561-632.  Full text (https://academic.oup.com/eurheartj/
+article/43/7/561/6358470)
+References
+1. European Society of Cardiology. Epidemiology of aortic valve stenosis (AS) and of aortic valve
+incompetence (AI): is the prevalence of AS/AI similar in different parts of the world?. Feb 2020
+[internet publication].  Full text (https://www.escardio.org/Journals/E-Journal-of-Cardiology-Practice/
+Volume-18/epidemiology-of-aortic-valve-stenosis-as-and-of-aortic-valve-incompetence-ai)
+2. Osnabrugge RL, Mylotte D, Head SJ, et al. Aortic stenosis in the elderly: disease prevalence and
+number of candidates for transcatheter aortic valve replacement: a meta-analysis and modeling
+study. J Am Coll Cardiol. 2013 Sep 10;62(11):1002-12.  Full text (https://www.sciencedirect.com/
+science/article/pii/S0735109713020792)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23727214?
+tool=bestpractice.bmj.com)
+3. Martin SS, Aday AW, Almarzooq ZI, et al. 2024 heart disease and stroke statistics: a report of US
+and global data from the American Heart Association. Circulation. 2024 Feb 20;149(8):e347-913. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001209)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38264914?tool=bestpractice.bmj.com)
+4. Strange GA, Stewart S, Curzen N, et al. Uncovering the treatable burden of severe aortic stenosis
+in the UK. Open Heart. 2022 Jan;9(1):e001783.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC8739674)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/35082136?tool=bestpractice.bmj.com)
+5. Milin AC, Vorobiof G, Aksoy O, et al. Insights into aortic sclerosis and its relationship with coronary
+artery disease. J Am Heart Assoc. 2014 Sep 5;3(5):e001111.  Full text (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC4323780)
+6. Freeman RV, Otto CM. Spectrum of calcific aortic valve disease: pathogenesis, disease
+progression, and treatment strategies. Circulation. 2005 Jun 21;111(24):3316-26.  Full text
+(https://circ.ahajournals.org/content/111/24/3316.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15967862?tool=bestpractice.bmj.com)
+56 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 57 ===
+Aortic stenosis References
+7. Lewin MB, Otto CM. The bicuspid aortic valve: adverse outcomes from infancy to old age. Circulation.
+2005 Feb 22;111(7):832-4.  Full text (http://circ.ahajournals.org/content/111/7/832.full)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15723989?tool=bestpractice.bmj.com)
+8. Iung B, Baron G, Butchart EG, et al. A prospective survey of patients with valvular heart
+disease in Europe: The Euro Heart Survey on Valvular Heart Disease. Eur Heart J. 2003
+Jul;24(13):1231-43.  Full text (http://eurheartj.oxfordjournals.org/content/24/13/1231.full)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/12831818?tool=bestpractice.bmj.com)
+9. Thanassoulis G, Campbell CY, Owens DS, et al. Genetic associations with valvular
+calcification and aortic stenosis. N Engl J Med. 2013 Feb 7;368(6):503-12.  Full text (https://
+www.doi.org/10.1056/NEJMoa1109034)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23388002?
+tool=bestpractice.bmj.com)
+10. Stewart BF, Siscovick D, Lind BK, et al. Clinical factors associated with calcific aortic valve
+disease. Cardiovascular Health Study. J Am Coll Cardiol. 1997 Mar 1;29(3):630-4. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9060903?tool=bestpractice.bmj.com)
+11. Rattazzi M, Bertacco E, Del Vecchio A, et al. Aortic valve calcification in chronic kidney disease.
+Nephrol Dial Transplant. 2013 Dec;28(12):2968-76.  Full text (https://www.doi.org/10.1093/ndt/gft310)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24097800?tool=bestpractice.bmj.com)
+12. Shroff GR, Bangalore S, Bhave NM, et al. Evaluation and management of aortic stenosis in Chronic
+Kidney Disease: a scientific statement from the American Heart Association. Circulation. 2021 Jun
+22;143(25):e1088-114.  Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000979)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33980041?tool=bestpractice.bmj.com)
+13. O'Brien KD. Pathogenesis of calcific aortic valve disease: a disease process comes of age
+(and a good deal more). Arterioscler Thromb Vasc Biol. 2006 Aug;26(8):1721-8.  Full text
+(http://atvb.ahajournals.org/content/26/8/1721.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16709942?tool=bestpractice.bmj.com)
+14. Eveborn GW, Schirmer H, Heggelund G, et al. The evolving epidemiology of valvular aortic
+stenosis. The Tromsø study. Heart. 2013 Mar;99(6):396-400.  Full text (http://heart.bmj.com/
+content/99/6/396.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22942293?
+tool=bestpractice.bmj.com)
+15. Roberts WC, Ko JM. Valvular heart disease: Frequency by decades of unicuspid, bicuspid, and
+tricuspid aortic valves in adults having isolated aortic valve replacement for aortic stenosis, with
+or without associated aortic regurgitation. Circulation. 2005 Feb 22;111(7):920-5.  Full text (http://
+circ.ahajournals.org/content/111/7/920.full)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15710758?
+tool=bestpractice.bmj.com)
+16. Umana E, Ahmed W, Alpert MA. Valvular and perivalvular abnormalities in end-stage renal disease.
+Am J Med Sci. 2003 Apr;325(4):237-42. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12695729?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+57
+=== Page 58 ===
+Aortic stenosis References
+REFERENCES
+17. Adabag AS, Dykoski R, Ward H, et al. Critical stenosis of aortic and mitral valves after mediastinal
+irradiation. Catheter Cardiovasc Interv. 2004 Oct;63(2):247-50. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15390239?tool=bestpractice.bmj.com)
+18. Rosenhek R, Rader F, Loho N, et al. Valvular heart disease: Statins but not angiotensin-converting
+enzyme inhibitors delay progression of aortic stenosis. Circulation. 2004 Sep 7;110(10):1291-5. 
+Full text (http://circ.ahajournals.org/content/110/10/1291.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/15337704?tool=bestpractice.bmj.com)
+19. Cowell SJ, Newby DE, Prescott RJ, et al. A randomized trial of intensive lipid-lowering therapy in
+calcific aortic stenosis. N Engl J Med. 2005 Jun 9;352(23):2389-97.  Full text (http://www.nejm.org/doi/
+full/10.1056/NEJMoa043876#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15944423?
+tool=bestpractice.bmj.com)
+20. Yan AT, Koh M, Chan KK, et al. Association between cardiovascular risk factors and aortic stenosis:
+the CANHEART aortic stenosis study. J Am Coll Cardiol. 2017 Mar 28;69(12):1523-32.  Full
+text (https://www.sciencedirect.com/science/article/pii/S0735109717303340)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/28335833?tool=bestpractice.bmj.com)
+21. Ozumi K, Tasaki H, Yamashita K, et al. Valvular and supravalvular aortic stenosis in heterozygous
+familial hypercholesterolemia, a case report. J Atheroscler Thromb. 2005;12(5):289-93. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/16205026?tool=bestpractice.bmj.com)
+22. Nazarzadeh M, Pinho-Gomes AC, Smith Byrne K, et al. Systolic blood pressure and risk of valvular
+heart disease: a Mendelian randomization study. JAMA Cardiol. 2019 Aug 1;4(8):788-95.  Full
+text (https://www.doi.org/10.1001/jamacardio.2019.2202)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31290937?tool=bestpractice.bmj.com)
+23. Kontogeorgos S, Thunström E, Lappas G, et al. Cumulative incidence and predictors of acquired
+aortic stenosis in a large population of men followed for up to 43 years. BMC Cardiovasc Disord. 2022
+Feb 13;22(1):43.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8842940)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35152876?tool=bestpractice.bmj.com)
+24. Martinsson A, Li X, Zöller B, et al. Familial aggregation of aortic valvular stenosis: a nationwide
+study of sibling risk. Circ Cardiovasc Genet. 2017 Dec;10(6):e001742.  Full text (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC5734674)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29242201?tool=bestpractice.bmj.com)
+25. Kaltoft M, Langsted A, Nordestgaard BG. Obesity as a causal risk factor for aortic valve stenosis.
+J Am Coll Cardiol. 2020 Jan 21;75(2):163-76.  Full text (https://www.sciencedirect.com/science/
+article/pii/S0735109719384499)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31948645?
+tool=bestpractice.bmj.com)
+26. Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of
+patients with valvular heart disease: a report of the American College of Cardiology/American Heart
+Association Joint Committee on clinical practice guidelines. Circulation. 2021 Feb 2;143(5):e72-227. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000923)
+58 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 59 ===
+Aortic stenosis References
+27. Lombard TJ, Selzer A. Valvular aortic stenosis. A clinical and hemodynamic profile of patients.
+Ann Intern Med. 1987 Feb;106(2):292-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3800187?
+tool=bestpractice.bmj.com)
+28. National Institute for Health and Care Excellence. Heart valve disease presenting in adults:
+investigation and management. Nov 2021 [internet publication].  Full text (https://www.nice.org.uk/
+guidance/ng208)
+29. American College of Radiology. ACR appropriateness criteria: preprocedural planning for transcatheter
+aortic valve replacement. 2023 [internet publication].  Full text (https://acsearch.acr.org/docs/3082594/
+Narrative)
+30. Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients
+with valvular heart disease: executive summary: a report of the American College of Cardiology/
+American Heart Association Joint Committee on clinical practice guidelines. Circulation. 2021 Feb
+2;143(5):e35-71.  Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000932)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33332149?tool=bestpractice.bmj.com)
+31. Balciunaite G, Skorniakov V, Rimkus A, et al. Prevalence and prognostic value of late gadolinium
+enhancement on CMR in aortic stenosis: meta-analysis. Eur Radiol. 2020 Jan;30(1):640-51. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/31407030?tool=bestpractice.bmj.com)
+32. Tarantini G, Tang G, Nai Fovino L, et al. Management of coronary artery disease in patients
+undergoing transcatheter aortic valve implantation. A clinical consensus statement from the
+European Association of Percutaneous Cardiovascular Interventions in collaboration with the ESC
+Working Group on cardiovascular surgery. EuroIntervention. 2023 May 15;19(1):37-52.  Full text
+(https://eurointervention.pcronline.com/article/management-of-coronary-artery-disease-in-patients-
+undergoing-transcatheter-aortic-valve-implantation-a-clinical-consensus-statement-from-the-european-
+association-of-percutaneous-cardiovascular-interventions-in-collaboration-with-the-esc-working-
+group-on-cardiovascular-surgery)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36811935?
+tool=bestpractice.bmj.com)
+33. Ruile P, Blanke P, Krauss T, et al. Pre-procedural assessment of aortic annulus dimensions for
+transcatheter aortic valve replacement: comparison of a non-contrast 3D MRA protocol with
+contrast-enhanced cardiac dual-source CT angiography. Eur Heart J Cardiovasc Imaging. 2016
+Apr;17(4):458-66.  Full text (https://academic.oup.com/ehjcimaging/article/17/4/458/2464803)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26219296?tool=bestpractice.bmj.com)
+34. Chaturvedi A, Hobbs SK, Ling FS, et al. MRI evaluation prior to Transcatheter Aortic
+Valve Implantation (TAVI): when to acquire and how to interpret. Insights Imaging. 2016
+Apr;7(2):245-54.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4805621)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/26911969?tool=bestpractice.bmj.com)
+35. Généreux P, Stone GW, O'Gara PT, et al. Natural history, diagnostic approaches, and therapeutic
+strategies for patients with asymptomatic severe aortic stenosis. J Am Coll Cardiol. 2016 May
+17;67(19):2263-88.  Full text (https://www.sciencedirect.com/science/article/pii/S0735109716010287?
+via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27049682?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+59
+=== Page 60 ===
+Aortic stenosis References
+REFERENCES
+36. Ennezat PV, Maréchaux S, Iung B, et al. Exercise testing and exercise stress echocardiography
+in asymptomatic aortic valve stenosis. Heart. 2009 Jun;95(11):877-84. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18812409?tool=bestpractice.bmj.com)
+37. Picano E, Pibarot P, Lancellotti P, et al. The emerging role of exercise testing and stress
+echocardiography in valvular heart disease. J Am Coll Cardiol. 2009 Dec 8;54(24):2251-60. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/19958961?tool=bestpractice.bmj.com)
+38. Maréchaux S, Hachicha Z, Bellouin A, et al. Usefulness of exercise-stress echocardiography
+for risk stratification of true asymptomatic patients with aortic valve stenosis. Eur Heart J. 2010
+Jun;31(11):1390-7.  Full text (http://eurheartj.oxfordjournals.org/content/31/11/1390.full)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/20308041?tool=bestpractice.bmj.com)
+39. Amato MC, Moffa PJ, Werner KE, et al. Treatment decision in asymptomatic aortic valve stenosis: role
+of exercise testing. Heart. 2001 Oct;86(4):381-6.  Full text (http://heart.bmj.com/content/86/4/381.long) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11559673?tool=bestpractice.bmj.com)
+40. Das P, Rimington H, Chambers J. Exercise testing to stratify risk in aortic stenosis. Eur Heart J. 2005
+Jul;26(13):1309-13.  Full text (http://eurheartj.oxfordjournals.org/content/26/13/1309.long)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15820999?tool=bestpractice.bmj.com)
+41. Loscalzo J. From clinical observation to mechanism--Heyde's syndrome. N Engl J Med.
+2012 Nov 15;367(20):1954-6. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23150964?
+tool=bestpractice.bmj.com)
+42. Nishimura RA, Holmes DR Jr. Clinical practice. Hypertrophic obstructive cardiomyopathy. N Engl
+J Med. 2004 Mar 25;350(13):1320-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15044643?
+tool=bestpractice.bmj.com)
+43. Zoghbi WA, Chambers JB, Dumesnil JG, et al. Recommendations for evaluation of prosthetic valves
+with echocardiography and doppler ultrasound. J Am Soc Echocardiogr. 2009 Sep;22(9):975-1014. 
+Full text (https://onlinejase.com/article/S0894-7317(09)00676-2/fulltext)
+44. Baumgartner H, Hung J, Bermejo J, et al. Recommendations on the echocardiographic assessment of
+aortic valve stenosis: a focused update from the European Association of Cardiovascular Imaging and
+the American Society of Echocardiography. J Am Soc Echocardiogr. 2017 Apr;30(4):372-92.  Full text
+(https://www.asecho.org/guideline/echocardiographic-assessment-of-aortic-valve-stenosis-a-focused-
+update)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28385280?tool=bestpractice.bmj.com)
+45. Zamorano JL, Badano LP, Bruce C, et al. EAE/ASE recommendations for the use of echocardiography
+in new transcatheter interventions for valvular heart disease. Eur Heart J. 2011 Sep;32(17):2189-214. 
+Full text (http://eurheartj.oxfordjournals.org/content/32/17/2189.full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/21885465?tool=bestpractice.bmj.com)
+46. Vahanian A, Beyersdorf F, Praz F, et al. 2021 ESC/EACTS guidelines for the management of valvular
+heart disease. Eur Heart J. 2022 Feb 12;43(7):561-632.  Full text (https://academic.oup.com/eurheartj/
+article/43/7/561/6358470)
+60 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 61 ===
+Aortic stenosis References
+47. National Institute for Health and Care Excellence. Transcatheter aortic valve implantation for aortic
+stenosis. Jul 2017 [internet publication].  Full text (https://www.nice.org.uk/guidance/ipg586)
+48. Brown JM, O'Brien SM, Wu C, et al. Isolated aortic valve replacement in North America comprising
+108,687 patients in 10 years: changes in risks, valve types, and outcomes in the Society of Thoracic
+Surgeons National Database. J Thorac Cardiovasc Surg. 2009 Jan;137(1):82-90. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19154908?tool=bestpractice.bmj.com)
+49. Rahimtoola SH. Choice of prosthetic heart valve for adult patients. J Am Coll Cardiol.
+2003 Mar 19;41(6):893-904. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12651032?
+tool=bestpractice.bmj.com)
+50. Hammermeister K, Sethi GK, Henderson WG, et al. Outcomes 15 years after valve replacement
+with a mechanical versus a bioprosthetic valve: final report of the Veterans Affairs randomized trial. J
+Am Coll Cardiol. 2000 Oct;36(4):1152-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11028464?
+tool=bestpractice.bmj.com)
+51. Lund O, Bland M. Risk-corrected impact of mechanical versus bioprosthetic valves on long-term
+mortality after aortic valve replacement. J Thorac Cardiovasc Surg. 2006 Jul;132(1):20-6. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/16798297?tool=bestpractice.bmj.com)
+52. Stassano P, Di Tommaso L, Monaco M, et al. Aortic valve replacement: a prospective randomized
+evaluation of mechanical versus biological valves in patients ages 55 to 70 years. J Am Coll
+Cardiol. 2009 Nov 10;54(20):1862-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19892237?
+tool=bestpractice.bmj.com)
+53. Kundi H, Strom JB, Valsdottir LR, et al. Trends in isolated surgical aortic valve replacement according
+to hospital-based transcatheter aortic valve replacement volumes. JACC Cardiovasc Interv. 2018 Nov
+12;11(21):2148-56.  Full text (https://www.sciencedirect.com/science/article/pii/S1936879818314377?
+via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30343022?tool=bestpractice.bmj.com)
+54. Kodali SK, Williams MR, Smith CR, et al. Two-year outcomes after transcatheter or surgical aortic-
+valve replacement. N Engl J Med. 2012 May 3;366(18):1686-95. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/22443479?tool=bestpractice.bmj.com)
+55. Mack MJ, Leon MB, Smith CR, et al. 5-year outcomes of transcatheter aortic valve replacement
+or surgical aortic valve replacement for high surgical risk patients with aortic stenosis (PARTNER
+1): a randomised controlled trial. Lancet. 2015 Jun 20;385(9986):2477-84. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25788234?tool=bestpractice.bmj.com)
+56. Smith CR, Leon MB, Mack MJ, et al; PARTNER Trial Investigators. Transcatheter versus surgical
+aortic-valve replacement in high-risk patients. N Engl J Med. 2011 Jun 9;364(23):2187-98. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/21639811?tool=bestpractice.bmj.com)
+57. Généreux P, Cohen DJ, Williams MR, et al. Bleeding complications after surgical aortic valve
+replacement compared with transcatheter aortic valve replacement: insights from the PARTNER I Trial
+(Placement of Aortic Transcatheter Valve). J Am Coll Cardiol. 2014 Mar 25;63(11):1100-9. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/24291283?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+61
+=== Page 62 ===
+Aortic stenosis References
+REFERENCES
+58. Reynolds MR, Magnuson EA, Wang K, et al; PARTNER Trial Investigators. Health-related quality
+of life after transcatheter or surgical aortic valve replacement in high-risk patients with severe
+aortic stenosis: results from the PARTNER (Placement of AoRTic TraNscathetER Valve) trial
+(Cohort A). J Am Coll Cardiol. 2012 Aug 7;60(6):548-58.  Full text (http://content.onlinejacc.org/
+article.aspx?articleID=1270594)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22818074?
+tool=bestpractice.bmj.com)
+59. Hahn RT, Pibarot P, Stewart WJ, et al. Comparison of transcatheter and surgical aortic valve
+replacement in severe aortic stenosis: a longitudinal study of echocardiography parameters in
+cohort A of the PARTNER trial (placement of aortic transcatheter valves). J Am Coll Cardiol.
+2013 Jun 25;61(25):2514-21. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/23623915?
+tool=bestpractice.bmj.com)
+60. Gleason TG, Reardon MJ, Popma JJ, et al. 5-year outcomes of self-expanding transcatheter versus
+surgical aortic valve replacement in high-risk patients. J Am Coll Cardiol. 2018 Dec 4;72(22):2687-96. 
+Full text (https://www.sciencedirect.com/science/article/pii/S0735109718382901?via%3Dihub)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30249462?tool=bestpractice.bmj.com)
+61. Holmes DR Jr, Mack MJ, Kaul S, et al. 2012 ACCF/AATS/SCAI/STS expert consensus document on
+transcatheter aortic valve replacement. J Am Coll Cardiol. 2012 Mar 27;59(13):1200-54.  Full text
+(http://content.onlinejacc.org/article.aspx)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22300974?
+tool=bestpractice.bmj.com)
+62. Leon MB, Smith CR, Mack M, et al. Transcatheter aortic-valve implantation for aortic stenosis in
+patients who cannot undergo surgery. N Engl J Med. 2010 Oct 21;363(17):1597-607.  Full text (http://
+www.nejm.org/doi/full/10.1056/NEJMoa1008232#t=article)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20961243?tool=bestpractice.bmj.com)
+63. Kapadia SR, Tuzcu EM, Makkar RR, et al. Long-term outcomes of inoperable patients with aortic
+stenosis randomly assigned to transcatheter aortic valve replacement or standard therapy. Circulation.
+2014 Oct 21;130(17):1483-92.  Full text (http://circ.ahajournals.org/content/130/17/1483.long)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/25205802?tool=bestpractice.bmj.com)
+64. Kapadia SR, Leon MB, Makkar RR, et al. 5-year outcomes of transcatheter aortic valve replacement
+compared with standard treatment for patients with inoperable aortic stenosis (PARTNER
+1): a randomised controlled trial. Lancet. 2015 Jun 20;385(9986):2485-91. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/25788231?tool=bestpractice.bmj.com)
+65. Makkar RR, Fontana GP, Jilaihawi H, et al. Transcatheter aortic-valve replacement for
+inoperable severe aortic stenosis. N Engl J Med. 2012 May 3;366(18):1696-704. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/22443478?tool=bestpractice.bmj.com)
+66. Reynolds MR, Magnuson EA, Lei Y, et al. Valvular heart disease: Health-related quality of life after
+transcatheter aortic valve replacement in inoperable patients with severe aortic stenosis. Circulation.
+2011 Nov 1;124(18):1964-72.  Full text (http://circ.ahajournals.org/content/124/18/1964.full)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/21969017?tool=bestpractice.bmj.com)
+67. Leon MB, Smith CR, Mack MJ, et al; PARTNER 2 Investigators. Transcatheter or surgical aortic-
+valve replacement in intermediate-risk patients. N Engl J Med. 2016 Apr 28;374(17):1609-20.  Full
+62 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 63 ===
+Aortic stenosis References
+text (http://www.nejm.org/doi/full/10.1056/NEJMoa1514616)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27040324?tool=bestpractice.bmj.com)
+68. Makkar RR, Thourani VH, Mack MJ, et al. Five-year outcomes of transcatheter or surgical
+aortic-valve replacement. N Engl J Med. 2020 Feb 27;382(9):799-809.  Full text (https://
+www.doi.org/10.1056/NEJMoa1910555)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31995682?
+tool=bestpractice.bmj.com)
+69. Reardon MJ, Van Mieghem NM, Popma JJ, et al; SURTAVI Investigators. Surgical or transcatheter
+aortic-valve replacement in intermediate-risk patients. N Engl J Med. 2017 Apr 6;376(14):1321-31.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28304219?tool=bestpractice.bmj.com)
+70. Siemieniuk RA, Agoritsas T, Manja V, et al. Transcatheter versus surgical aortic valve replacement in
+patients with severe aortic stenosis at low and intermediate risk: systematic review and meta-analysis.
+BMJ. 2016 Sep 28;354:i5130.  Full text (http://www.bmj.com/content/354/bmj.i5130.long)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/27683246?tool=bestpractice.bmj.com)
+71. Mack MJ, Leon MB, Thourani VH, et al. Transcatheter aortic-valve replacement with a balloon-
+expandable valve in low-risk patients. N Engl J Med. 2019 May 2;380(18):1695-705.  Full text
+(https://www.nejm.org/doi/full/10.1056/NEJMoa1814052)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30883058?tool=bestpractice.bmj.com)
+72. Popma JJ, Deeb GM, Yakubov SJ, et al. Transcatheter aortic-valve replacement with a self-expanding
+valve in low-risk patients. N Engl J Med. 2019 May 2;380(18):1706-15.  Full text (https://www.nejm.org/
+doi/full/10.1056/NEJMoa1816885)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30883053?
+tool=bestpractice.bmj.com)
+73. Kolkailah AA, Doukky R, Pelletier MP, et al. Transcatheter aortic valve implantation
+versus surgical aortic valve replacement for severe aortic stenosis in people with low
+surgical risk. Cochrane Database Syst Rev. 2019 Dec 20;12:CD013319.  Full text (https://
+www.doi.org/10.1002/14651858.CD013319.pub2)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31860123?tool=bestpractice.bmj.com)
+74. Letac B, Cribier A, Eltchaninoff H, et al. Evaluation of restenosis after balloon dilatation in adult
+aortic stenosis by repeat catheterization. Am Heart J. 1991 Jul;122(1 Pt 1):55-60. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2063763?tool=bestpractice.bmj.com)
+75. Rossebø AB, Pedersen TR, Boman K, et al; SEAS Investigators. Intensive lipid lowering with
+simvastatin and ezetimibe in aortic stenosis. N Engl J Med. 2008 Sep 25;359(13):1343-56. 
+Full text (http://www.nejm.org/doi/full/10.1056/NEJMoa0804602#t=article)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/18765433?tool=bestpractice.bmj.com)
+76. Chan KL, Teo K, Dumesnil JG, et al; ASTRONOMER Investigators. Effect of lipid lowering with
+rosuvastatin on progression of aortic stenosis: results of the aortic stenosis progression observation:
+measuring effects of rosuvastatin (ASTRONOMER) trial. Circulation. 2010 Jan 19;121(2):306-14. 
+Full text (http://circ.ahajournals.org/content/121/2/306.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/20048204?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+63
+=== Page 64 ===
+Aortic stenosis References
+REFERENCES
+77. Schwarz F, Baumann P, Manthey J, et al. The effect of aortic valve replacement on survival.
+Circulation. 1982;66:1105-1110.  Full text (http://circ.ahajournals.org/content/66/5/1105.full.pdf+html)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7127696?tool=bestpractice.bmj.com)
+78. Smith WT 4th, Ferguson TB Jr, Ryan T, et al. Should coronary artery bypass graft surgery patients
+with mild or moderate aortic stenosis undergo concomitant aortic valve replacement? A decision
+analysis approach to the surgical dilemma. J Am Coll Cardiol. 2004;44:1241-1247. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15364326?tool=bestpractice.bmj.com)
+79. Pereira JJ, Balaban K, Lauer MS, et al. Aortic valve replacement in patients with mild or moderate
+aortic stenosis and coronary bypass surgery. Am J Med. 2005;118:735-742. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15989907?tool=bestpractice.bmj.com)
+80. Lilly SM, Deshmukh AJ, Epstein AE, et al. 2020 ACC expert consensus decision pathway on
+management of conduction disturbances in patients undergoing transcatheter aortic valve
+replacements: a report of the American College of Cardiology Solution Set Oversight Committee. J Am
+Coll Cardiol. 2020 Nov 17;76(20):2391-411.  Full text (https://www.doi.org/10.1016/j.jacc.2020.08.050) 
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33190683?tool=bestpractice.bmj.com)
+81. Asgar AW, Ouzounian M, Adams C, et al. 2019 Canadian Cardiovascular Society position statement
+for transcatheter aortic valve implantation. Can J Cardiol. 2019 Nov;35(11):1437-48.  Full text (https://
+www.onlinecjc.ca/article/S0828-282X(19)31158-4/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31679616?tool=bestpractice.bmj.com)
+82. Bonow RO, Brown AS, Gillam LD, et al. ACC/AATS/AHA/ASE/EACTS/HVS/SCA/SCAI/SCCT/
+SCMR/STS 2017 Appropriate use criteria for the treatment of patients with severe aortic
+stenosis: a report of the American College of Cardiology Appropriate Use Criteria Task Force,
+American Association for Thoracic Surgery, American Heart Association, American Society of
+Echocardiography, European Association for Cardio-Thoracic Surgery, Heart Valve Society,
+Society of Cardiovascular Anesthesiologists, Society for Cardiovascular Angiography and
+Interventions, Society of Cardiovascular Computed Tomography, Society for Cardiovascular
+Magnetic Resonance, and Society of Thoracic Surgeons. J Am Coll Cardiol. 2017 Nov
+14;70(20):2566-98.  Full text (http://www.onlinejacc.org/content/early/2017/10/16/j.jacc.2017.09.018?
+_ga=2.117494729.1395754991.1522918131-1893325378.1517756171)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29054308?tool=bestpractice.bmj.com)
+83. Izumi C, Eishi K, Ashihara K, et al. JCS/JSCS/JATS/JSVS 2020 guidelines on the management of
+valvular heart disease. Circ J. 2020 Oct 23;84(11):2037-119.  Full text (https://www.jstage.jst.go.jp/
+article/circj/84/11/84_CJ-20-0135/_article)
+84. Faggiano P, Ghizzoni G, Sorgato A, et al. Rate of progression of valvular aortic stenosis in adults.
+Am J Cardiol. 1992 Jul 15;70(2):229-33. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1626512?
+tool=bestpractice.bmj.com)
+85. Sorgato A, Faggiano P, Aurigemma GP, et al. Ventricular arrhythmias in adult aortic stenosis:
+prevalence, mechanisms, and clinical relevance. Chest. 1998 Feb;113(2):482-91. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/9498969?tool=bestpractice.bmj.com)
+64 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 65 ===
+Aortic stenosis References
+86. Ståhle E, Kvidal P, Nyström SO, et al. Long-term relative survival after primary heart valve
+replacement. Eur J Cardiothorac Surg. 1997 Jan;11(1):81-91. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9030794?tool=bestpractice.bmj.com)
+87. Kvidal P, Bergstrom R, Horte LG, et al. Observed and relative survival after aortic valve replacement. J
+Am Coll Cardiol. 2000 Mar 1;35(3):747-56. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10716479?
+tool=bestpractice.bmj.com)
+88. Vaquette B, Corbineau H, Laurent M, et al. Valve replacement in patients with critical aortic
+stenosis and depressed left ventricular function: predictors of operative risk, left ventricular
+function recovery, and long term outcome. Heart. 2005 Oct;91(10):1324-9.  Full text (http://
+heart.bmj.com/content/91/10/1324.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/16162627?
+tool=bestpractice.bmj.com)
+89. Sharma UC, Barenbrug P, Pokharel S, et al. Systematic review of the outcome of aortic valve
+replacement in patients with aortic stenosis. Ann Thorac Surg. 2004 Jul;78(1):90-5. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15223410?tool=bestpractice.bmj.com)
+90. Pellikka PA, Sarano ME, Nishimura RA, et al. Valvular heart disease: Outcome of 622 adults with
+asymptomatic, hemodynamically significant aortic stenosis during prolonged follow-up. Circulation.
+2005 Jun 21;111(24):3290-5.  Full text (http://circ.ahajournals.org/content/111/24/3290.full)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/15956131?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+65
+=== Page 66 ===
+Aortic stenosis Images
+IMAGES
+Images
+Figure 1: Bicuspid and trileaflet aortic valves with severe calcification following surgical excision
+From the collection of David Liff, MD, Emory University Hospital; used with permission
+Figure 2: The systolic crescendo-decrescendo murmur of aortic stenosis
+From the collection of David Liff, MD, Emory University Hospital; used with permission
+66 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 67 ===
+Aortic stenosis Images
+Figure 3: ECG showing changes associated with left ventricular hypertrophy
+From the collection of Melanie Everitt MD, Heart Failure & Transplantation Program, Primary Children's
+Medical Center, Salt Lake City, UT; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+67
+=== Page 68 ===
+Aortic stenosis Images
+IMAGES
+Figure 4: Transesophageal echocardiogram showing the left ventricle outflow tract (LVOT), the aorta (Ao),
+and nearly immobile leaflets (arrows) of a severely stenotic aortic valve
+From the collection of David Liff, MD, Emory University Hospital; used with permission
+68 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 69 ===
+Aortic stenosis Images
+Figure 5: Balloon valvuloplasty fluoroscopy film that demonstrates valvuloplasty balloon inflated across a
+calcified aortic valve
+From the collection of David Liff, MD, Emory University Hospital; used with permission
+IMAGES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+69
+=== Page 70 ===
+Aortic stenosis Disclaimer
+DISCLAIMER
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+70 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 71 ===
+Aortic stenosis Disclaimer
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Sep 04, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+71
+=== Page 72 ===
+Contributors:
+// Authors:
+Matthew Czarny, MD
+Assistant Professor of Medicine
+Department of Cardiovascular Medicine, Johns Hopkins University School of Medicine, Baltimore, MD
+DISCLOSURES: MC declares their institution receives research funding from Medtronic, Abbott, Edwards
+Lifesciences, and V-Wave Medical.
+Rani Hasan, MD
+Assistant Professor of Medicine
+Department of Cardiovascular Medicine, Johns Hopkins University School of Medicine, Baltimore, MD
+DISCLOSURES: RH declares that he has no competing interests.
+// Acknowledgements:
+Dr Matthew Czarny and Dr Rani Hasan would like to gratefully acknowledge Dr Girish L. Kalra and Dr
+Vasilis Babaliaros, previous contributors to this topic.
+DISCLOSURES: GLK declares that he has no competing interests. VB is a co-investigator in the PARTNER
+trial, and he has served as a consultant for Edwards Lifesciences and Abbott Vascular.
+// Peer Reviewers:
+Peter Block, MD
+Professor of Medicine
+Emory University School of Medicine, Atlanta, GA
+DISCLOSURES: PB declares that he has no competing interests.
+Ghada Mikhail, BSc, MD, FRCP
+Consultant Cardiologist and Honorary Senior Lecturer
+Imperial College Healthcare NHS Trust, Hammersmith Hospital, London, UK
+DISCLOSURES: GM has been supported by Edwards Lifesciences (manufacturer of the Edwards Sapien
+Transcatheter Valve) for attending cardiology conferences. Both Edwards Lifesciences and Medtronic
+(manufacturer of the CoreValve Transcatheter Valve) are contributing to an educational course on the
+transcatheter and surgical treatments of aortic and mitral valve disease. Edwards Lifesciences are
+supporting a research project on transcatheter treatment of aortic valve disease.
+Juan M. Sztajzel, MD
+Consultant
+Cardiology Center, University Hospital Geneva, Geneva, Switzerland
+DISCLOSURES: JMS declares that he has no competing interests.

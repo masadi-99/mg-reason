@@ -1,0 +1,1588 @@
+# Tetralogy of Fallot
+
+=== Page 1 ===
+Tetralogy of Fallot
+Straight to the point of care
+Last updated: Jul 12, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Definition  3
+Theory  4
+Epidemiology  4
+Etiology  4
+Pathophysiology  4
+Classification  6
+Case history  6
+Diagnosis  7
+Approach  7
+History and exam  9
+Risk factors  9
+Tests  11
+Differentials  13
+Criteria  14
+Screening  14
+Management  15
+Approach  15
+Treatment algorithm overview  17
+Treatment algorithm  18
+Emerging  24
+Secondary prevention  24
+Patient discussions  24
+Follow up  25
+Monitoring  25
+Complications  26
+Prognosis  27
+Guidelines  29
+Diagnostic guidelines  29
+Treatment guidelines  29
+References  31
+Images  38
+Disclaimer  39
+=== Page 3 ===
+Tetralogy of Fallot Overview
+Summary
+Tetralogy of Fallot (TOF) is a ventricular septal defect with overriding aorta and right ventricular (RV) outflow
+tract obstruction and resulting RV hypertrophy. The common embryologic cause for this constellation of
+findings is anterior and cephalad deviation of the muscular outlet of the ventricular septum.
+Usually presents in the neonatal period with a murmur, cyanosis, or both.
+Diagnosed by echocardiography.
+Treatment is by surgical repair. This usually consists of complete intracardiac repair typically during the
+neonatal or infant period. Occasionally, an aortopulmonary shunt is used palliatively before complete repair.
+The most common long-term complications of complete repair are progressive pulmonary regurgitation and
+RV failure, atrial arrhythmias, and ventricular arrhythmias.
+Definition
+TOF is a congenital cardiac malformation. The key morphologic abnormality is anterior and cephalad
+deviation of the muscular outlet of the ventricular septum, which causes the 4 classic findings: (1) a
+malalignment ventricular septal defect (VSD), (2) aorta overriding the VSD, (3) right ventricular outflow tract
+obstruction, (4) secondary concentric right ventricular hypertrophy.
+This was classically described in 1888 by Dr. Etienne-Louis Arthur Fallot, a pathologist, who coined the
+term "la maladie bleue" (blue-baby syndrome). The cyanosis associated with this condition is due to right-
+to-left shunting of deoxygenated blood at the level of the VSD. Historically, children with TOF presented
+with cyanosis that was progressive and life-limiting; untreated children with TOF would typically squat down,
+which would lead to increased pulmonary blood flow.[1]
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Tetralogy of Fallot Theory
+THEORY
+Epidemiology
+Congenital heart defects are relatively common overall. During the early 1980s, an epidemiologic study
+designed to estimate the prevalence of congenital heart disease (CHD) in the northeastern US showed the
+prevalence rate of CHD to be 3.7 per 1000 live births. There was a slight, but not statistically significant, male
+predominance and no ethnic difference.[2]
+While it has been suggested that the incidence of CHD may be increasing over time, one meta-analysis of
+the literature suggests that this is largely due to an increasing ability to detect very minor cardiac lesions
+(e.g., trivial ventricular septal defects that will not need intervention).[3] This report suggests that the overall
+incidence of severe forms of CHD has been stable over time at approximately 2.5/1000 to 3/1000 with
+moderate forms representing another 3/1000 live births. Of the severe forms of CHD, TOF is the most
+common cyanotic defect. It represents approximately 4% to 9% of all CHD and 30% of all cyanotic lesions.[2]
+[4] Globally, TOF is estimated to occur in 3 cases per 10,000 live births.[4] In the US, the Centers for Disease
+Control and Prevention estimates that annually, 1 in 2518 babies are born with TOF.[5]
+Etiology
+Little is known about the exact etiology of TOF. There is most likely interplay between genetic and
+environmental factors, but this has not been fully defined. One study of pregnant women with a first-degree
+relative with congenital heart disease (CHD) found 178 per 6640 (2.7%) pregnancies with CHD.[6]
+There is a well-accepted association between certain genetic defects and CHD. Patients with trisomy
+21, 18, or 13 have a higher incidence of TOF than infants without trisomy.[7] A retrospective analysis in
+patients with apparently nonsyndromic TOF found 10 out of 21 patients to have deletions of chromosome
+22q11 (DiGeorge and associated syndromes), suggesting a region on this chromosome may harbor a TOF
+susceptibility gene.[8] In an earlier study comparing patients who had TOF with and without chromosome
+22q11 deletion, every patient with TOF and 22q11 deletion was found to have an additional conotruncal
+anomaly.[9] Alagille syndrome, a syndrome with cardiovascular phenotypes ranging from mild pulmonic
+stenosis to TOF with severe pulmonary obstruction, has been found to be due to mutations in the Jagged1
+gene.[10] Additionally, mutations in Jagged1 have been associated with nonsyndromic forms of TOF.[11] A
+prospective study looking for mutations in NKX2.5 in patients with known TOF found approximately 4% of
+patients with nonsyndromic TOF to have a mutation in NKX2.5.[12]
+Increasing evidence suggests environmental factors may play a significant role in some cases of CHD.[13]
+Maternal diabetes, maternal phenylketonuria, and maternal ingestion of retinoic acids or trimethadione have
+all been associated with an increased risk of CHD.[14] [15] [16] 
+Pathophysiology
+In TOF, the pathophysiology and management are dictated by 3 specific anatomic factors:
+1. Degree of right ventricular outflow tract obstruction
+• Typically occurs at multiple levels, including below the pulmonary valve (subvalvular or infundibular
+stenosis), at the level of the valve (valvular pulmonary stenosis), and above the valve (supravalvular
+stenosis). The degree of pulmonary obstruction determines whether the infant is cyanotic or acyanotic
+by affecting the amount of blood that shunts right to left at the ventricular septal defect (VSD).
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Tetralogy of Fallot Theory
+• TOF with mild pulmonary obstruction is typically not a cyanotic lesion. There is no significant restriction
+to the flow of blood into the pulmonary arteries and therefore the infant is well saturated.
+• TOF and significant pulmonary obstruction result in a cyanotic infant. This is because blood in the
+right ventricle has a higher resistance to overcome in order to enter the pulmonary circulation. Blood is
+shunted from the right ventricle to the aorta through the VSD and into the systemic circulation without
+being oxygenated in the pulmonary circulation.
+2. Pulmonary artery anatomy
+• Pulmonary artery anatomy can dramatically affect the physiology.
+• Pulmonary atresia with VSD (TOF with pulmonary atresia) and absent pulmonary valve syndrome
+(TOF with absent pulmonary valve) are very different physiologically and are considered different
+disease processes from TOF. For that reason, they are not discussed here.
+3. Nonrestrictive, malalignment VSD
+• Anterior malalignment VSD in TOF is nearly always nonrestrictive. With a large, nonrestrictive VSD,
+the pressure in the right ventricle and left ventricle equalizes. In this case, the VSD does not determine
+the degree of shunting. The degree of shunting in TOF is therefore due to the relative resistance to
+flow of the pulmonary versus systemic circulations.
+• Additional VSDs may be present and should be looked for, as these may complicate the postoperative
+course.
+Hypercyanotic spells, or tet spells, are episodes of severe cyanosis associated with hyperpnea. They
+result from an increase in right ventricular outflow tract obstruction causing a decrease in the pulmonary
+blood flow and an increase in right-to-left shunting across the VSD. The exact etiology of hypercyanotic
+spells is unclear, but they are thought to be initiated by increases in the right ventricular infundibular
+contractility. Hypercyanotic spells may be self-limited; however, if sustained, they can result in brain ischemia
+or death.[17]
+Anatomy and pathophysiology of tetralogy of Fallot (TOF): normal heart structure (a) promotes unidirectional
+flow of deoxygenated blood (blue) into the lungs and oxygenated blood (red) into the aorta; in TOF (b)
+pulmonary stenosis and narrowing of the right ventricular outflow tract (RVOT) impedes the flow of deoxygenated
+blood into the lungs, and both the ventricular septal defect (VSD) and overriding aorta (*) promote the flow
+of deoxygenated blood into the systemic circulation, to produce cyanosis (sometimes referred to as “blue
+baby” syndrome), right ventricular hypertrophy (RVH) is also present; (c) a Doppler echocardiogram shows
+mixing of deoxygenated blood from the right ventricle (RV) and oxygenated blood from the left ventricle (LV)
+as blood is pumped out the over-riding aorta (Ao) in a patient with TOF (RA=right atrium, LA=left atrium)
+Multimedia Library of Congenital Heart Disease, Children’s Hospital,
+Boston, MA, editor Robert Geggel, MD; used with permission
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Tetralogy of Fallot Theory
+THEORY
+Classification
+Variants of TOF
+There is no standard classification for TOF, but many experts would use the following classification:
+1. Cyanotic TOF (also known as blue tet): infants with TOF and moderate to severe pulmonary
+obstruction are cyanotic at birth due to right-to-left shunting of deoxygenated blood from the right
+ventricle across the VSD to the body.
+2. Acyanotic TOF (also known as pink tet): infants with TOF and mild pulmonary obstruction are
+commonly acyanotic because there is little or no right-to-left shunting of blood at the ventricular level.
+These patients still undergo complete intracardiac repair.
+3. Pulmonary atresia/VSD: sometimes referred to as TOF with pulmonary atresia and is anatomically and
+physiologically very different. It is often associated with malformation of the central pulmonary arteries.
+4. Absent pulmonary valve syndrome: sometimes referred to as TOF with absent pulmonary valve. It is
+often associated with tracheobronchial compression and malformation.
+Case history
+Case history #1
+A 1-day-old infant in the general care nursery born at full term by uncomplicated spontaneous vaginal
+delivery is noted to have cyanosis of the oral mucosa. The baby otherwise appears comfortable. On
+exam, respiratory rate is 40 and pulse oximetry is 80%. A right ventricular lift is palpated, S1 is normal, S2
+is single, and a harsh 3/6 systolic ejection murmur is heard at the left upper sternal border.
+Case history #2
+A 1-day-old infant in the general care nursery born at full term by uncomplicated spontaneous vaginal
+delivery is noted to have a murmur on exam. The baby otherwise appears well. On exam, respiratory rate
+is 40 and pulse oximetry is 96%. Precordium is normoactive. With auscultation, S1 is normal, S2 is single,
+and a 2/6 systolic ejection murmur is heard at the left upper sternal border.
+Other presentations
+Cyanosis occurs if severe right ventricular outflow tract obstruction forces blood returning to the right
+side of the heart to be shunted right to left across the ventricular septal defect and out to the systemic
+circulation, bypassing the lungs. Hypercyanotic (tet) spells may present as episodic, increasing cyanosis
+in a baby with TOF. The baby is typically crying and breathing deeply and rapidly, but may not be
+in significant respiratory distress. The typical murmur of TOF may disappear during the spell. This
+presentation is potentially life-threatening and requires rapid intervention. Alternatively, a baby may be
+severely cyanotic at birth.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Tetralogy of Fallot Diagnosis
+Approach
+Patients typically present with cyanosis and/or a murmur. Echocardiography is the definitive investigation
+for diagnosis of TOF and should be ordered in any newborn with a suspected diagnosis of congenital heart
+disease.
+History
+Certain genetic syndromes are associated with an increased incidence of TOF, such as DiGeorge and
+Down syndromes. There may be a history of abnormality on fetal echocardiogram that suggests cardiac
+pathology.
+A typical infant presents in the newborn nursery with a murmur. Cyanosis is usually noted. The degree of
+cyanosis may vary and can be subtle, and some clinicians advocate routine screening of all neonates with
+pulse oximetry.[18]
+Some infants may not present at birth but rather may present later with increasing cyanosis, murmur, or
+hypercyanotic (tet) spells. Hypercyanotic spells may present as episodic, increasing cyanosis in a baby
+with TOF. The baby is typically crying and breathing deeply and rapidly, but may not be in significant
+respiratory distress. The typical murmur of TOF may disappear during the spell. This presentation is
+potentially life-threatening and requires rapid intervention.
+TOF with severe pulmonary obstruction is a more severe presentation and may present in a newborn who
+appears severely cyanotic at birth. Infants with severe pulmonary obstruction or a hypercyanotic spell may
+present with severe cyanosis and acidosis due to tissue hypoxia.
+Physical examination
+Can vary significantly depending on the degree of pulmonary obstruction. The infant with mild obstruction
+is typically comfortable, and cyanosis may be difficult to discover on physical exam. With moderate
+obstruction the cyanosis is likely to be apparent on exam and the infant is typically comfortable. With
+severe obstruction the baby may have significant tachypnea and cyanosis.
+The cardiac exam typically finds an increased right ventricular (parasternal) impulse. S1 is normal and
+S2 is single. There is typically a 3/6 harsh systolic ejection murmur, heard best at the left sternal border.
+The murmur on exam represents blood flow across the pulmonary outflow and not the ventricular septal
+defect. The intensity of the murmur depends on the degree of pulmonary stenosis and decreases with
+severe stenosis.
+Investigations
+Transthoracic 2-dimensional and Doppler echocardiography is the preferred technique for defining the
+anatomic diagnosis. In the vast majority of cases no further testing is needed preoperatively. Sedation
+may be judiciously used if the child is not cooperative with the exam.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Tetralogy of Fallot Diagnosis
+DIAGNOSIS
+Anatomy and pathophysiology of tetralogy of Fallot (TOF): normal heart structure (a) promotes unidirectional
+flow of deoxygenated blood (blue) into the lungs and oxygenated blood (red) into the aorta; in TOF (b)
+pulmonary stenosis and narrowing of the right ventricular outflow tract (RVOT) impedes the flow of deoxygenated
+blood into the lungs, and both the ventricular septal defect (VSD) and overriding aorta (*) promote the flow
+of deoxygenated blood into the systemic circulation, to produce cyanosis (sometimes referred to as “blue
+baby” syndrome), right ventricular hypertrophy (RVH) is also present; (c) a Doppler echocardiogram shows
+mixing of deoxygenated blood from the right ventricle (RV) and oxygenated blood from the left ventricle (LV)
+as blood is pumped out the over-riding aorta (Ao) in a patient with TOF (RA=right atrium, LA=left atrium)
+Multimedia Library of Congenital Heart Disease, Children’s Hospital,
+Boston, MA, editor Robert Geggel, MD; used with permission
+Preductal and postductal (right arm and either leg) pulse oximetry should be ordered if there is any
+suspicion of a congenital cardiac malformation.[19] A hyperoxygenation test can be used to determine
+whether hypoxemia is from a pulmonary or a cardiac lesion.
+ECG will often show evidence of right ventricular hypertrophy and may show right axis deviation beyond
+normal limits for age.
+ECG in tetralogy of Fallot showing right ventricular hypertrophy
+From the collection of Dr Jeffrey Gossett; used with permission
+A chest x-ray is classically described as a boot-shaped heart, but most patients do not have this finding.
+The presence of a right aortic arch may be noted in a subset of patients, particularly those with 22q11
+deletion.[9]
+Cardiac catheterization is usually unnecessary in diagnosing TOF and may induce hypercyanotic
+spells.[17] If there is significant concern for coronary artery anomalies that cannot be defined
+echocardiographically, then advanced imaging modalities including cardiac computed tomography
+angiography and magnetic resonance imaging are often used.[20] Anomalies in the distribution or course
+of the coronary arteries may be present in approximately one third of patients with TOF.[21]
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Tetralogy of Fallot Diagnosis
+History and exam
+Key diagnostic factors
+hypercyanotic episodes (common)
+• Hypercyanotic (tet) spells may present as episodic, increasing cyanosis in a baby with TOF.
+• The baby is typically crying and breathing deeply and rapidly, but may not be in significant respiratory
+distress.
+• The typical murmur of TOF may disappear during the spell.
+• This presentation is potentially life-threatening and requires rapid intervention
+• Can occur in both cyanotic and acyanotic infants with TOF.
+harsh systolic ejection murmur (common)
+• Loudest at the left sternal border represents the blood flow across the narrowed right ventricular
+outflow tract.
+cyanosis (common)
+• Usually noted; however, the degree of cyanosis may vary and can be subtle. TOF with severe
+pulmonary obstruction is a more severe presentation and may present in a newborn who appears
+severely cyanotic at birth.
+tachypnea (common)
+• May have significant tachypnea with severe pulmonary obstruction.
+Other diagnostic factors
+shock (uncommon)
+• Infants with severe pulmonary obstruction or a hypercyanotic spell may present with severe cyanosis
+and acidosis due to tissue hypoxia.
+Risk factors
+Weak
+trisomy 21, 18, or 13
+• There is a well-accepted association between certain genetic defects and congenital heart disease.
+Patients with trisomy 21, 18, or 13 have a higher incidence of TOF than infants without trisomy.[7]
+chromosome 22q11 deletions (DiGeorge syndrome)
+• A retrospective analysis in patients with apparently nonsyndromic TOF found 10 out of 21 patients to
+have deletions of chromosome 22q11 (DiGeorge and associated syndromes), suggesting a region on
+this chromosome may harbor a TOF susceptibility gene.[8]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Tetralogy of Fallot Diagnosis
+DIAGNOSIS
+Jagged1 gene mutations (Alagille syndrome)
+• Alagille syndrome, a syndrome with cardiovascular phenotypes ranging from mild pulmonic stenosis
+to TOF with severe pulmonary obstruction, has been found to be due to mutations in the Jagged1
+gene.[10] Additionally, mutations in Jagged1 have been associated with nonsyndromic forms of
+TOF.[11]
+mutation in NKX2.5 gene
+• A prospective study looking for mutations in NKX2.5 in patients with known TOF found approximately
+4% of patients with nonsyndromic TOF to have a mutation in NKX2.5.[12]
+environmental factors
+• Increasing evidence suggests environmental factors, such as maternal diabetes and phenylketonuria
+and maternal ingestion of retinoic acids and trimethadione, may play a significant causative role in
+certain cases of congenital heart disease.[14] [15] [16]
+family history of congenital heart disease
+• Believed to contribute to the recurrence of congenital heart disease in a family, but it cannot be clearly
+explained by mendelian genetics or complete penetrance.[6]
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Tetralogy of Fallot Diagnosis
+Tests
+1st test to order
+Test Result
+pulse oximetry
+• Preductal and postductal (right arm and either leg) pulse oximetry
+should be ordered if there is any suspicion of a congenital cardiac
+malformation.[19]
+• May be normal in TOF with mild pulmonary stenosis. However,
+in TOF with moderate to severe pulmonary stenosis, the baby is
+hypoxemic.
+low oxygen saturation
+echocardiogram
+• Should be ordered in any newborn with a suspected diagnosis
+of congenital heart disease. Echocardiography is the definitive
+investigation for diagnosis of TOF.
+infundibular pulmonic
+stenosis, overriding
+aorta, nonrestrictive
+ventricular septal
+defect, concentric right
+ventricular hypertrophy
+ECG
+• Right ventricular hypertrophy (RVH) may be difficult to interpret in a
+neonate. 
+ECG in tetralogy of Fallot showing right ventricular hypertrophy
+From the collection of Dr Jeffrey Gossett; used with permission
+• In an older child RVH is more likely to be seen.
+RVH with a rightward axis,
+R in V1 and S in V6 above
+age-appropriate normals
+CXR
+• Normal cardiac silhouette does not rule out cyanotic heart disease.
+boot-shaped heart
+hyperoxygenation test
+• Used to determine whether hypoxemia is from a pulmonary or a
+cardiac lesion.
+• PaO2 on room air should be checked, 100% FiO2 given for at least
+10 minutes, and then PaO2 rechecked. If the PaO2 increases by >25
+mmHg and to >100 mmHg, the hypoxemia is likely to be caused by a
+pulmonary problem.
+• In acyanotic patients this test may yield false-negative results.
+no significant increase in
+PaO2
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Tetralogy of Fallot Diagnosis
+DIAGNOSIS
+Other tests to consider
+Test Result
+cardiac CT angiography or MRI
+• Not routinely needed for evaluation in infants. Can be considered
+if definition of the coronary artery anatomy is not possible by
+echocardiography.[20]
+full definition of coronary
+anatomy
+cardiac catheterization
+• Not routinely done for diagnostic evaluation of TOF because
+stimulation of the infundibular muscle may precipitate hypercyanotic
+spells.
+• Occasionally intervention into the right ventricular outflow tract
+(RVOT) may be undertaken prior to complete repair with options
+including RVOT ballooning or stenting.[22]
+pulmonary stenosis
+and ventricular septal
+defects may be seen on
+angiogram; provides
+hemodynamic data
+such as systemic right
+ventricular pressure and
+right-to-left shunt
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Tetralogy of Fallot Diagnosis
+Differentials
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Other cyanotic congenital
+cardiac abnormalities
+• Includes single ventricle
+lesions such as hypoplastic
+left heart syndrome or
+tricuspid atresia. Other
+possibilities include D-
+transposition, pulmonary
+atresia, anomalous
+pulmonary venous
+connection, truncus
+arteriosus, or Ebstein
+anomaly.
+• These may all be difficult
+to differentiate clinically
+from a cyanotic newborn
+with TOF. Most are not
+specifically associated with
+other syndromes, although
+this can vary.
+• No change in PaO2 with
+hyperoxia test.
+• Echocardiogram can define
+anatomy to classify cyanotic
+heart disease.
+• In some cases, a cardiac
+catheterization may be
+needed to further define
+anatomy and physiology.
+Pulmonary stenosis • Usually presents in an
+asymptomatic patient with a
+systolic ejection murmur on
+exam. Difficult to differentiate
+clinically from TOF.[23]
+• Echocardiogram will show
+presence or absence of
+typical anatomy of TOF with
+pulmonary obstruction to
+differentiate from pulmonary
+stenosis alone.
+Ventricular septal defect
+(VSD)
+• At birth, an infant with simple
+VSD is fully saturated with
+regurgitant murmur on exam.
+• Intensity of murmur depends
+on size of VSD and flow
+across the VSD. A small
+VSD has a louder murmur
+because the gradient
+between the right and left
+ventricles is higher. A large
+VSD has a soft murmur
+because pressures are
+equalized between the right
+and left ventricles.
+• As pulmonary vascular
+resistance drops, more
+blood shunts from left to
+right across the VSD and
+may result in pulmonary
+overcirculation and heart
+failure. This is uncommon
+with TOF, as the pulmonary
+obstruction prevents
+overcirculation.
+• Echocardiogram will show
+presence or absence of
+right-sided obstructive lesion
+to determine whether this is
+VSD alone or TOF.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Tetralogy of Fallot Diagnosis
+DIAGNOSIS
+Condition Differentiating signs /
+symptoms
+Differentiating tests
+Double outlet right
+ventricle with normally
+related great vessels and
+pulmonary stenosis
+• Cannot be differentiated from
+TOF on physical exam alone.
+• Echocardiogram will show
+presence or absence of
+subaortic conus and degree
+of aorta override of the VSD
+to differentiate TOF from
+double outlet right ventricle.
+Primary pulmonary
+disease
+• On exam, infant may be
+tachypneic and desaturated,
+potentially requiring
+mechanical ventilation.
+• Cardiovascular exam is
+usually normal.
+• Hyperoxygenation test
+should show increase in
+PaO2 with administration of
+100% FiO2.
+• CXR will show normal
+cardiac silhouette with
+increased lung markings.
+• Echocardiogram will show
+normal intracardiac anatomy.
+Criteria
+Echocardiogram findings of TOF
+Anterior and cephalad deviation of the muscular outlet of the ventricular septum resulting in:
+• Malalignment ventricular septal defect
+• Overriding of the aorta
+• Multilevel right ventricular outflow tract obstruction
+• Right ventricular hypertrophy.
+Screening
+There is an increase in the routine use of neonatal pulse-oximetry of all neonates for cyanotic heart disease.
+This has the potential to identify mildly cyanotic infants and should prompt further investigation of the
+neonate.[24] All children with certain syndromes such as trisomy 21 should be screened for congenital heart
+disease (CHD). A screening fetal echocardiogram may be indicated in a pregnant mother who has had other
+children with CHD or has CHD herself.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Tetralogy of Fallot Management
+Approach
+The definitive treatment for TOF is complete surgical repair. All preoperative patients with TOF need careful
+follow-up with their primary physician and a pediatric cardiologist. Attention to their weight gain is mandatory.
+Progression of cyanosis should be noted. Parents should be counseled to alert their physicians should they
+notice the onset of hypercyanotic spells, as these would be an indication for urgent surgical intervention.
+Management of hypercyanotic (tet) spells
+An infant with TOF and hypercyanotic spells is a medical emergency because a prolonged hypercyanotic
+spell can result in brain ischemia and death.[17]
+Management of a hypercyanotic spell consists of calming the child and maneuvers to increase the
+amount of blood exiting the right ventricle to the pulmonary vasculature instead of to the aorta. Often the
+best place for the infant is in the parent's arms. Initially, the infant should be positioned with the knees to
+the chest, as this will increase venous return to the heart (preload) and systemic afterload.
+Oxygen should be given, but care should be taken not to increase the infant's stimulation. If the infant is
+still profoundly cyanotic, acidosis will result.
+If these measures are not successful, medical therapy includes:
+• Adjunctive supportive measures such as volume repletion, reversal of acidosis, or morphine
+• Beta-blockers to relax the contracted infundibulum and to allow more time for right ventricular filling,
+improving pulmonary blood flow
+• Phenylephrine as a final medical option to increase systemic venous resistance and force more
+blood to the lungs.
+Neonates with severely limited pulmonary blood flow causing profound cyanosis may benefit from
+prostaglandins (e.g., alprostadil) to maintain the patency of the ductus arteriosus. This provides an
+alternative source of pulmonary blood flow while the infant awaits urgent intervention.
+If all medical therapies fail to resolve a spell and the neonate or infant remains severely cyanotic, urgent
+intervention will be needed. Options include catheter-based right ventricular outflow tract ballooning or
+stenting, Blalock-Taussig shunt placement (a small GORE-TEX tube placed from a systemic artery to the
+pulmonary arteries to increase pulmonary blood flow), stenting of a patent ductus arteriosus, immediate
+complete repair, or extracorporeal membrane oxygenation.[22] [27] [28]
+Propranolol has been used in the past in the outpatient setting of an infant with spells to delay surgery.
+An infant with a single spell is considered an indication for urgent surgical repair, but propranolol may be
+used until surgery can be arranged.[29]
+Surgical management
+Over the last 10 to 15 years, there has been a trend toward neonatal repair of both cyanotic and acyanotic
+infants with TOF, but this is often determined by their pulmonary anatomy.[29]
+In acyanotic patients without spells, repair is usually undertaken in the first year of life and has a very low
+morbidity and mortality.[28] [30]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Tetralogy of Fallot Management
+MANAGEMENT
+Patients with TOF with severe pulmonary stenosis may undergo complete neonatal repair at some
+institutions or alternatively may undergo a Blalock-Taussig shunt or stenting of a patent ductus arteriosus
+in the newborn period before complete repair.[27] [28]
+Excellent results with complete repair in the neonatal period have been reported, with one cohort
+reporting a 5-year survival rate of 93% in patients with TOF who underwent complete repair as a
+neonate.[29][31]
+Patients who undergo repair in childhood should be counseled about the possible need for future surgical
+or transcatheter interventions. In particular, if relief of pulmonary obstruction requires a transannular
+patch, there is likely to be a significant amount of postoperative pulmonary regurgitation. There is
+an increasing awareness of the need to monitor patients for progressive dilation of the right ventricle
+secondary to longstanding pulmonary regurgitation, and the need for pulmonary valve replacement in
+this setting. Typically, magnetic resonance imaging measurements are used to quantify the pulmonary
+regurgitation and right ventricular size. One group has suggested that valve replacement before the right
+ventricular diastolic volume reaches 160 mL/m² allows for normalization of right ventricular volumes.[32]
+Another group found that no patient with a right ventricular volume >170 mL/m² had normalization of their
+right ventricular volumes after valve replacement.[33] While there is no consensus on the exact criteria for
+the timing of replacement of the pulmonary valve, one review suggests using the following criteria:[34]
+• Repaired TOF or similar physiology with moderate or severe pulmonary regurgitation (regurgitation
+fraction ≥25% measured by cardiovascular magnetic resonance imaging) and 2 or more of the
+following criteria:
+• Right ventricular end-diastolic volume index ≥160 mL/m² (Z score >5)
+• Right ventricular end-systolic volume index ≥70 mL/m²
+• Left ventricular end-diastolic volume index ≤65 mL/m²
+• Right ventricular ejection fraction ≤45%
+• Right ventricular outflow tract aneurysm
+• Clinical criteria: exercise intolerance, symptoms and signs of heart failure, cardiac
+medications, syncope, or sustained ventricular tachycardia.
+• Other hemodynamically significant lesions such as moderate or severe tricuspid regurgitation,
+residual atrial or ventricular septal defects, and severe aortic regurgitation may trigger referral for
+surgery in patients with moderate or severe pulmonary regurgitation. In the absence of the 6 criteria
+above, pulmonary valve replacement should be considered on a case-by-case basis.
+• Due to a higher risk of adverse clinical outcomes in patients who underwent TOF repair at age ≥3
+years, pulmonary valve replacement may be indicated sooner and in the presence of less severe
+right ventricular dilation and dysfunction.
+Infective endocarditis prophylaxis
+This is recommended preoperatively and should be used for 6 months after repair. Those patients
+who have residual defects at the site or adjacent to the site of a prosthetic patch or prosthetic device
+should continue to receive lifelong infective endocarditis prophylaxis whenever undergoing an invasive
+procedure (e.g., dental procedures, or procedures on the respiratory tract or infected skin, skin structures,
+or musculoskeletal tissue).[35] European guidelines recommend advanced imaging modalities including
+echocardiography, computed tomography (CT), magnetic resonance imaging (MRI), and particularly, PET/
+CT imaging for diagnosing infective endocarditis in patients with Tetralogy of Fallot, due to their increased
+susceptibility to endocarditis postintervention.[36]
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Tetralogy of Fallot Management
+Treatment algorithm overview
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute ( summary )
+hypercyanotic spells
+1st maneuvers to increase systemic venous
+return
+adjunct supportive care
+2nd beta-blocker
+adjunct supportive care
+3rd phenylephrine
+adjunct supportive care
+neonate with profound cyanosis and
+severely limited pulmonary blood
+flow
+1st alprostadil
+adjunct supportive care
+neonate or infant with nonremitting
+severe cyanosis
+1st surgical shunt, transcatheter stent/
+balloon, or immediate complete repair
+adjunct extracorporeal membrane oxygenation
+(ECMO)
+Ongoing ( summary )
+all patients
+1st complete surgical repair
+plus monitoring with possible pulmonary valve
+replacement
+adjunct infective endocarditis prophylaxis
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Tetralogy of Fallot Management
+MANAGEMENT
+Treatment algorithm
+Please note that formulations/routes and doses may differ between drug names and brands, drug
+formularies, or locations. Treatment recommendations are specific to patient groups: see disclaimer
+Acute
+hypercyanotic spells
+1st maneuvers to increase systemic venous
+return
+» Infant should be kept calm and maneuvers
+tried to increase the amount of blood exiting the
+right ventricle through the pulmonary vasculature
+instead of to the aorta.
+» Infant should be held in the parent's arms and
+positioned with the knees to the chest.
+adjunct supportive care
+Treatment recommended for SOME patients in
+selected patient group
+» Supportive medical therapy may include
+volume/blood administration as needed,
+intravenous morphine to calm the child as
+needed, and bicarbonate to reverse acidosis
+as needed. Oxygen should be given, but care
+should be taken not to increase the infant's
+stimulation.
+2nd beta-blocker
+Primary options
+» esmolol: 100-500 micrograms/kg
+intravenous bolus initially, followed by 50-500
+micrograms/kg/min infusion
+Bolus should be readministered before
+maintenance dose is increased.
+OR
+» propranolol hydrochloride: 0.15 to 0.25 mg/
+kg intravenous bolus initially, may repeat in
+15 min; 2-8 mg/kg/day orally given in divided
+doses every 6 hours
+» Thought to help resolve hypercyanotic spells,
+but the mechanism of action is not completely
+clear. It is believed that it helps to decrease the
+infundibular obstruction by decreasing the heart
+rate, prolonging diastolic filling, and decreasing
+contractility.[17]
+» May be initiated in patients with TOF with
+pulmonary stenosis if maneuvers such as knee-
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Tetralogy of Fallot Management
+Acute
+to-chest positioning or fluid bolus have not
+resolved the hypercyanotic spell.
+» Propranolol has been used in the past in
+the outpatient setting of an infant with spells
+to delay surgery. An infant with a single spell
+is considered an indication for urgent surgical
+repair, but propranolol may be used until surgery
+can be arranged.[29]
+adjunct supportive care
+Treatment recommended for SOME patients in
+selected patient group
+» Supportive medical therapy may include
+volume/blood administration as needed,
+intravenous morphine to calm the child as
+needed, and bicarbonate to reverse acidosis
+as needed. Oxygen should be given, but care
+should be taken not to increase the infant's
+stimulation.
+3rd phenylephrine
+Primary options
+» phenylephrine injection: 5-20 micrograms/
+kg intravenous bolus, followed by 0.1 to 0.5
+micrograms/kg/min infusion
+» Used to increase systemic venous resistance
+by direct simulation of peripheral alpha-
+adrenergic receptors.
+» The goal is to increase the systemic vascular
+resistance above the resistance of the
+pulmonary outflow tract so that blood in the
+right ventricle preferentially flows through the
+pulmonary circulation, rather than across the
+ventricular septal defect and into the systemic
+circulation.
+» Used in the intensive care unit setting as
+the last medical option for management
+of hypercyanotic spells. It is initiated when
+positioning and beta-blocker agents have not
+increased pulmonary blood flow.
+adjunct supportive care
+Treatment recommended for SOME patients in
+selected patient group
+» Supportive medical therapy may include
+volume/blood administration as needed,
+intravenous morphine to calm the child as
+needed, and bicarbonate to reverse acidosis
+as needed. Oxygen should be given, but care
+should be taken not to increase the infant's
+stimulation.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Tetralogy of Fallot Management
+MANAGEMENT
+Acute
+neonate with profound cyanosis and
+severely limited pulmonary blood
+flow
+1st alprostadil
+Primary options
+» alprostadil: 0.02 to 0.1 micrograms/kg/min
+intravenously
+» May benefit from alprostadil (prostaglandin
+E1) to maintain the patency of the ductus
+arteriosus. This provides an alternative source
+of pulmonary blood flow while the infant awaits
+urgent intervention.
+» A potential adverse effect is apnea, and
+mechanical ventilation may be required. Monitor
+for apnea.
+adjunct supportive care
+Treatment recommended for SOME patients in
+selected patient group
+» Supportive medical therapy may include
+volume/blood administration as needed,
+intravenous morphine to calm the child as
+needed, and bicarbonate to reverse acidosis
+as needed. Oxygen should be given, but care
+should be taken not to increase the infant's
+stimulation.
+neonate or infant with nonremitting
+severe cyanosis
+1st surgical shunt, transcatheter stent/
+balloon, or immediate complete repair
+» For neonates or infants with TOF and
+severe pulmonary obstruction in whom the
+pulmonary blood flow is significantly restricted,
+an alternative source of pulmonary blood flow
+may be necessary.
+» If all medical therapies fail to resolve a spell
+and the patient remains severely cyanotic,
+urgent intervention will be needed.
+» Options include catheter-based right
+ventricular outflow tract ballooning or stenting,
+stenting of a patent ductus arteriosus, Blalock-
+Taussig shunt placement (a small GORE-
+TEX tube placed from a systemic artery to the
+pulmonary arteries to increase pulmonary blood
+flow), or immediate complete repair.[22] [27] [28]
+adjunct extracorporeal membrane oxygenation
+(ECMO)
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Tetralogy of Fallot Management
+Acute
+Treatment recommended for SOME patients in
+selected patient group
+» Emergent ECMO may be initiated to
+reverse cyanosis and acidosis before surgical
+intervention.
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Tetralogy of Fallot Management
+MANAGEMENT
+Ongoing
+all patients
+1st complete surgical repair
+» Specific treatment guidelines for surgical
+management of TOF do not exist, largely due to
+the complexity of the anatomic diversity among
+patients.
+» The anatomic variations in TOF, as well as its
+association with other cardiovascular anomalies,
+greatly influence the physiologic consequences.
+» Additionally, surgical technique varies by
+surgical program. Thus, the management of
+each patient is determined in consultation with
+cardiology and cardiovascular surgery.
+plus monitoring with possible pulmonary valve
+replacement
+Treatment recommended for ALL patients in
+selected patient group
+» Patients who undergo repair in childhood
+should be counseled about the possible
+need for future surgical or transcatheter
+interventions.There is an increasing awareness
+of the need to monitor patients for progressive
+dilation of the right ventricle secondary to
+longstanding pulmonary regurgitation, and the
+need for pulmonary valve replacement in this
+setting.
+» Typically, magnetic resonance imaging
+measurements are used to quantify the
+pulmonary regurgitation and right ventricular
+size. While there is no consensus on the exact
+criteria for the timing of replacement of the
+pulmonary valve, one review suggests using the
+following criteria:[34]
+» Repaired TOF or similar physiology with
+moderate or severe pulmonary regurgitation
+(regurgitation fraction ≥25% measured by
+cardiovascular magnetic resonance imaging)
+and 2 or more of the following criteria: right
+ventricular end-diastolic volume index ≥160
+mL/m² (Z score >5); right ventricular end-
+systolic volume index ≥70 mL/m²; left ventricular
+end-diastolic volume index ≤65 mL/m²; right
+ventricular ejection fraction ≤45%; right
+ventricular outflow tract aneurysm; or clinical
+criteria (exercise intolerance, symptoms and
+signs of heart failure, cardiac medications,
+syncope, or sustained ventricular tachycardia).
+» Other hemodynamically significant lesions
+such as moderate or severe tricuspid
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Tetralogy of Fallot Management
+Ongoing
+regurgitation, residual atrial or ventricular septal
+defects, and severe aortic regurgitation may
+trigger referral for surgery in patients with
+moderate or severe pulmonary regurgitation. In
+the absence of the 6 criteria above, pulmonary
+valve replacement should be considered on a
+case-by-case basis.
+» Due to a higher risk of adverse clinical
+outcomes in patients who underwent TOF repair
+at age ≥3 years, pulmonary valve replacement
+may be indicated sooner and in the presence
+of less severe right ventricular dilation and
+dysfunction.
+adjunct infective endocarditis prophylaxis
+Treatment recommended for SOME patients in
+selected patient group
+Primary options
+» cephalexin: 50 mg/kg orally as a single
+dose given 60 minutes before procedure,
+maximum 2000 mg/dose
+OR
+» amoxicillin: 50 mg/kg orally as a single dose
+given 60 minutes before procedure, maximum
+2000 mg/dose
+OR
+» ampicillin: 50 mg/kg intravenously/
+intramuscularly as a single dose given 30
+minutes before fore procedure, maximum
+2000 mg/dose
+» Cardiac surgery: directed primarily against
+staphylococci. First-generation cephalosporin
+(e.g., cephalexin) is most commonly used,
+but antibiotic choice depends on susceptibility
+patterns at each hospital.[35]
+» Infective endocarditis prophylaxis before
+dental procedures or for procedures on the
+respiratory tract or infected skin, skin structures,
+or musculoskeletal tissue is required for
+unrepaired cyanotic congenital heart disease
+(CHD), including palliative shunts and repaired
+CHD with residual defects at or adjacent to the
+site of a prosthetic patch or device: directed
+primarily against enterococci. Amoxicillin or
+ampicillin is the preferred agent.[35]
+MANAGEMENT
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Tetralogy of Fallot Management
+MANAGEMENT
+Emerging
+Percutaneous pulmonary valve
+In the complete surgical repair of TOF, the stenotic portion of the right ventricular outflow tract (RVOT) is
+dilated or reconstructed. Repair of the RVOT depends on the anatomy of the pulmonary valve and artery,
+and infants frequently develop progressive pulmonary regurgitation (as in the case with transannular patch
+augmentation or progressive pulmonic obstruction) as they grow. It is not uncommon for TOF patients
+to need pulmonary valve replacement throughout their lives, necessitating multiple bypass surgeries.
+Advancements have been made in the development of a transcatheter valved stent, and outcomes of 58
+patients undergoing percutaneous pulmonary valve implantation in Europe have been reported.[37] In this
+series, there were three major procedural complications and seven minor complications with no deaths.[37]
+Secondary prevention
+Vaccination against respiratory syncytial virus is indicated during the appropriate season.
+Infective endocarditis prophylaxis before dental procedures or for procedures on the respiratory tract or
+infected skin, skin structures, or musculoskeletal tissue is required for unrepaired cyanotic congenital heart
+disease (CHD), including palliative shunts and repaired CHD with residual defects at or adjacent to the site of
+a prosthetic patch or device.[35]
+Educating patients with Tetralogy of Fallot (TOF) about the significance of maintaining oral health is crucial to
+prevent bacteremia and subsequent infective endocarditis.[36]
+Patients with TOF should have preconception counseling. Women with repaired TOF should be evaluated by
+high-risk obstetrics and a congenital cardiologist before pregnancy. The risk of having an offspring with CHD
+increases 10-fold with an affected first-degree relative.[56]
+A screening fetal echocardiogram may be indicated in a pregnant mother who has had other children with
+CHD or has CHD herself. There are no clear guidelines.
+Patient discussions
+Patients should be aware that corrective repair does not mean a cure and further surgical intervention
+may be required.
+Patients need to be informed that having congenital heart disease (CHD) increases the risk of their
+own children having CHD, and that preconception genetic testing and fetal echocardiography may be
+indicated.[54]
+As patients transition from adolescent to adult care, it is important to provide education on self-
+management and to help them build their medical knowledge. For example, ensure that they are
+equipped with the skills needed to make medical appointments and refill prescriptions, and that they
+understand the importance of lifestyle interventions such as weight management and nonsmoking.[55]
+Continuous neurodevelopmental assessments and customized management are essential for children
+with Tetralogy of Fallot, integrating medical treatments with educational support, behavioral therapy, and
+family counseling.[53]
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Tetralogy of Fallot Follow up
+Monitoring
+Monitoring
+Patients with surgically corrected Tetralogy of Fallot (TOF) should be routinely evaluated by a pediatric
+cardiologist. Neurodevelopmental follow-up is routinely indicated.[52] Research shows congenital heart
+defects like TOF lead to specific neurodevelopmental issues across cognitive, behavioral, and social-
+emotional areas. Early intervention and continuous support are crucial to meet these complex needs. It
+is vital to identify these challenges early on and develop tailored care plans for each patient, adapting to
+their changing neurodevelopmental requirements.[53]
+Joint guidelines from the American College of Cardiology and American Heart Association recommend
+that adult patients with repaired TOF should have routine follow-up with a cardiologist who has
+expertise in adults with congenital heart disease (CHD) with recommended visit frequency and testing
+increasing based on the individual patients’ physiologic stage and symptoms. They further advise that
+echocardiographic exams and/or magnetic resonance imaging (MRI) be performed on these patients by
+staff with expertise in adult CHD.[39] Guidelines from the European Society of Cardiology (ESC) similarly
+recommend that adults with TOF be followed up in a specialized adult CHD center.[41]
+Preconception counseling and management during pregnancy is especially important for women with
+repaired TOF.[54]
+Echocardiograms to evaluate right ventricular (RV) function and the progression of pulmonary stenosis
+or regurgitation should be performed every 1 to 5 years. The timing is patient specific, and patients with
+significant progressive RV dilation, pulmonary stenosis or regurgitation, or symptoms may require at least
+yearly scans.
+Cardiac MRI or computed tomography is an additional tool increasingly used to evaluate RV volume and
+function.[38] MRI allows for accurate 3-dimensional measurements of RV volumes and is increasingly
+being used to determine timing of surgical pulmonary valve replacement.[26] Often a multimodality
+approach to imaging tailored to individual patient-specific considerations will need to be considered under
+the guidance of a congenital cardiologist.[26] ESC guidelines recommend performing cardiac MRI at
+regular intervals according to TOF pathology.[41]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Tetralogy of Fallot Follow up
+FOLLOW UP
+Complications
+Complications Timeframe Likelihood
+cyanotic spells short term medium
+Hypercyanotic spells present with dyspnea and severe cyanosis.
+They result from contraction of the infundibular musculature creating increased right ventricular outflow
+tract obstruction and increased shunting of deoxygenated blood from the right ventricle across the
+ventricular septal defect to the systemic circulation.
+Treatment of hypercyanotic spells is targeted toward relaxing the pulmonary obstruction and increasing
+systemic vascular resistance to increase the blood flow through the pulmonary circulation.
+paradoxical emboli short term low
+Preoperatively, patients with TOF have a ventricular septal defect (VSD), which allows communication of
+venous blood in the right heart with the systemic circulation. Normally, a thrombus in the venous circulation
+that embolizes will be trapped in the pulmonary vasculature. However, the VSD provides communication
+such that a thrombus can paradoxically cross the VSD and lodge in an arterial bed, causing ischemia.
+Patients with known communication between the right and left cardiac chambers should have precautions
+taken when using intravenous catheters, as an air bubble in the intravenous tubing can embolize to the
+systemic circulation, causing end-organ ischemia.
+Prophylactic anticoagulation is not commonly given to patients with TOF. However, the possibility of
+venous thrombi should be carefully considered and treated aggressively if identified.
+progressive pulmonary regurgitation and right
+ventricular failure
+long term high
+A single-center study of 100 consecutive adult patients with TOF repaired in childhood who underwent
+cardiac magnetic resonance imaging found poor right ventricular and left ventricular systolic function to be
+independent risk factors for impaired clinical status.[51]
+ventricular arrhythmias long term medium
+While short-term results of surgical repair are good, the long-term results are limited by the development of
+arrhythmias.
+A retrospective analysis of 66 patients undergoing surgical repair of TOF between 1960 and 1993 found
+28% to have no ventricular arrhythmias, 51% to have minor ventricular arrhythmias, 10.5% to have
+nonsustained ventricular tachycardia, and 9% to have sustained ventricular tachycardia or ventricular
+fibrillation.[47]
+Serial ECGs have been performed to monitor the width of the QRS complex as an arrhythmogenic risk
+factor.[48] If the QRS complex is noted to widen, further electrophysiologic evaluation may be necessary.
+Some experts recommend periodic Holter monitors to screen for arrhythmia. Exercise testing is used by
+some clinicians.
+Ventricular arrhythmias may be managed with antiarrhythmic drugs, transcatheter or surgical ablation, and/
+or implantation of an implantable cardioverter-defibrillator.[49]
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Tetralogy of Fallot Follow up
+Complications Timeframe Likelihood
+atrial arrhythmias long term medium
+In the past decade, atrial arrhythmias have been increasingly recognized as a common long-term
+morbidity in repaired TOF. One retrospective study of adults with TOF repaired in childhood found that one
+third of patients had documented atrial arrhythmias, including sinus node dysfunction, atrial fibrillation,
+atrial flutter, and supraventricular tachycardia.[50]
+Atrial arrhythmias are treated with transcatheter ablation or surgical ablation at the time of pulmonary valve
+replacement.[49]
+sudden cardiac death long term low
+Sudden cardiac death from ventricular tachycardia or ventricular fibrillation is the most common cardiac
+cause of death in patients with repaired TOF.[43]
+It is believed to be associated with progressive right ventricular failure.
+Ten years after surgery, the risk of sudden cardiac death increased from 0.06% per year to 0.2% per
+year.[44]
+One retrospective analysis of patients undergoing surgical repair in 1 state in the US between 1958 and
+1996 found that 11 out of 445 patients with repaired TOF died of sudden cardiac death.[45]
+One retrospective study of 793 adult patients who underwent surgical repair of TOF in childhood at 6
+different institutions found moderate to severe pulmonary regurgitation in 100% of patients who died of
+sudden cardiac death.[46]
+congestive heart failure long term low
+Some patients with minimal pulmonary stenosis may have symptoms of heart failure. Furosemide is
+the most commonly used diuretic for symptoms of congestive heart disease. Care should be taken, as
+overdiuresis may precipitate hypercyanotic spells.
+Congestive heart failure is not a commonly recognized long-term complication of surgically repaired TOF.
+One single-center study of 100 adults with TOF surgically repaired in childhood found 48% to be in New
+York Heart Association (NYHA) class I, 40% in class II, and 12% in class III.[51]
+Prognosis
+Historically, the survival for untreated TOF was quite poor. In a report from the 1930s of 1000 patients with
+congenital heart disease, the average life expectancy for TOF was 12 years.[42] Surgical outcomes are
+excellent with survival rates of 100% at 1 month, 93% at 1 year, and 93% at 5 years after complete repair.
+Freedom from reoperation rates were 100% at 1 month, 89% at 1 year, and 58% at 5 years.[29]
+Once the patient has undergone complete surgical repair, the prognosis and any problems that occur may be
+related to the patient's individual anatomy and type of surgical repair, as well as any associated conditions.
+One study of survivors of the first year after surgical repair showed actuarial survival rates of 97% at 10
+years, 94% at 20 years, 89% at 30 years, and 85% at 36 years.[43]
+FOLLOW UP
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Tetralogy of Fallot Follow up
+FOLLOW UP
+Common long-term complications are related to arrhythmias, progressive pulmonary outflow obstruction, and
+progressive pulmonary regurgitation resulting in right ventricular failure.
+Reasons for reoperation are based on progressive pulmonic obstruction and pulmonary regurgitation.
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Tetralogy of Fallot Guidelines
+Diagnostic guidelines
+International
+Recommendations for the adult cardiac sonographer performing
+echocardiography to screen for critical congenital heart disease in the
+newborn (https://www.asecho.org/guidelines-search)   [25]
+Published by: American Society of Echocardiography Last published: 2021
+Recommendations for multimodality assessment of congenital coronary
+anomalies: a guide from the American Society of Echocardiography:
+developed in collaboration with the Society for Cardiovascular Angiography
+and Interventions, Japanese Society of Echocardiography, and Society for
+Cardiovascular Magnetic Resonance (https://www.asecho.org/guidelines-
+search)   [20]
+Published by: American Society of Echocardiography Last published: 2020
+Multimodality imaging guidelines for patients with repaired tetralogy of
+Fallot (https://www.asecho.org/guidelines-search)   [26]
+Published by: American Society of Echocardiography; Society for
+Cardiovascular Magnetic Resonance; Society for Pediatric Radiology
+Last published: 2014
+Treatment guidelines
+International
+ACR Appropriateness Criteria: congenital or acquired heart disease
+(https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/
+Appropriateness-Criteria)   [38]
+Published by: American College of Radiology Last published: 2023
+2018 AHA/ACC guidelines for the management of adults with congenital heart
+disease (https://professional.heart.org/en/guidelines-and-statements)   [39]
+Published by: American College of Cardiology; American Heart
+Association
+Last published: 2018
+Diagnosis and management of noncardiac complications in adults with
+congenital heart disease (https://professional.heart.org/en/guidelines-and-
+statements)   [40]
+Published by: American Heart Association Last published: 2017
+ESC guidelines for the management of adult congenital heart disease
+(previously grown-up congenital heart disease) (https://www.escardio.org/
+Guidelines/Clinical-Practice-Guidelines)   [41]
+Published by: European Society of Cardiology Last published: 2020
+GUIDELINES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Tetralogy of Fallot Guidelines
+GUIDELINES
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Tetralogy of Fallot References
+Key articles
+• Valente AM, Cook S, Festa P, et al. Multimodality imaging guidelines for patients with repaired
+tetralogy of Fallot: a report from the American Society of Echocardiography: developed in collaboration
+with the Society for Cardiovascular Magnetic Resonance and the Society for Pediatric Radiology. J Am
+Soc Echocardiogr. 2014 Feb;27(2):111-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24468055?
+tool=bestpractice.bmj.com)
+• Hirsch JC, Mosca RS, Bove EL. Complete repair of tetralogy of Fallot in the neonate: results in the
+modern era. Ann Surg. 2000 Oct;232(4):508-14.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC1421183)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10998649?tool=bestpractice.bmj.com)
+• Habib G, Lancellotti P, Antunes MJ, et al. 2015 ESC guidelines for the management of infective
+endocarditis. Eur Heart J. 2015 Nov 21;36(44):3075-128.  Full text (https://academic.oup.com/
+eurheartj/article/36/44/3075/2293384)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26320109?
+tool=bestpractice.bmj.com)
+• Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on clinical practice guidelines. Circulation. 2019 Apr 2;139(14):e698-800. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000603)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30586767?tool=bestpractice.bmj.com)
+• Lui GK, Saidi A, Bhatt AB, et al. Diagnosis and management of noncardiac complications
+in adults with congenital heart disease: a scientific statement from the American Heart
+Association. Circulation. 2017 Nov 14;136(20):e348-92.  Full text (https://www.ahajournals.org/
+doi/10.1161/cir.0000000000000535)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28993401?
+tool=bestpractice.bmj.com)
+• Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32860028?tool=bestpractice.bmj.com)
+References
+1. Allen HD, Driscoll DJ, Shaddy RE, et al. Moss and Adams’ heart disease in infants, children, and
+adolescents: including the fetus and young adult. 7th ed. Philadelphia, PA: Lippincott Williams &
+Wilkins; 2007.
+2. Ferencz C, Rubin JD, McCarter RJ, et al. Congenital heart disease: prevalence at livebirth. The
+Baltimore-Washington Infant Study. Am J Epidemiol. 1985 Jan;121(1):31-6. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/3964990?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Tetralogy of Fallot References
+REFERENCES
+3. Hoffman JI, Kaplan S. The incidence of congenital heart disease. J Am Coll Cardiol. 2002 Jun
+19;39(12):1890-900.  Full text (https://www.doi.org/10.1016/s0735-1097(02)01886-7)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/12084585?tool=bestpractice.bmj.com)
+4. Bailliard F, Anderson RH. Tetralogy of Fallot. Orphanet J Rare Dis. 2009 Jan 13;4:2.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2651859)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/19144126?tool=bestpractice.bmj.com)
+5. Centers for Disease Control and Prevention. Congenital heart defects. Facts about tetralogy
+of fallot. Feb 2023 [internet publication].  Full text (https://www.cdc.gov/ncbddd/heartdefects/
+tetralogyoffallot.html)
+6. Gill H, Splitt M, Sharland GK, et al. Patterns of recurrence of congenital heart disease: an
+analysis of 6640 consecutive pregnancies evaluated by detailed fetal echocardiography. J Am
+Coll Cardiol. 2003 Sep 3;42(5):923-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12957444?
+tool=bestpractice.bmj.com)
+7. Ferencz C, Correa-Villasenor A, Loffredo CA, et al. Malformations of the cardiac outflow tract. In:
+Ferencz C, Correa-Villasenor A, Loffredo CA, et al, eds. Genetic and environmental risk factors of
+major cardiovascular malformations: the Baltimore-Washington Infant Study: 1981-1989. Armonk, NY:
+Futura Publishing Co Inc; 1997:59-102.
+8. Kessler-Icekson G, Birk E, Weintraub AY, et al. Association of tetralogy of Fallot with a distinct region
+of del22q11.2. Am J Med Genet. 2002 Feb 1;107(4):294-8. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11840485?tool=bestpractice.bmj.com)
+9. Momma K, Kondo C, Ando M, et al. Tetralogy of Fallot associated with chromosome 22q11 deletion.
+Am J Cardiol. 1995 Sep 15;76(8):618-21. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7677092?
+tool=bestpractice.bmj.com)
+10. Li L, Krantz ID, Deng Y, et al. Alagille syndrome is caused by mutations in human Jagged1, which
+encodes a ligand for Notch1. Nat Genet. 1997 Jul;16(3):243-51. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9207788?tool=bestpractice.bmj.com)
+11. Krantz ID, Smith R, Colliton RP, et al. Jagged1 mutations in patients ascertained with
+isolated congenital heart defects. Am J Med Genet. 1999 May 7;84(1):56-60. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10213047?tool=bestpractice.bmj.com)
+12. Goldmuntz E, Geiger E, Benson DW. NKX2.5 mutations in patients with tetralogy of Fallot.
+Circulation. 2001 Nov 20;104(21):2565-8. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11714651?
+tool=bestpractice.bmj.com)
+13. Vrijheid M, Martinez D, Manzanares S, et al. Ambient air pollution and risk of congenital anomalies: a
+systematic review and meta-analysis. Environ Health Perspect. 2011 May;119(5):598-606. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/21131253?tool=bestpractice.bmj.com)
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Tetralogy of Fallot References
+14. Koch R, Levy HL, Matalon R, et al. The North American Collaborative Study of Maternal
+Phenylketonuria. Status report 1993. Am J Dis Child. 1993 Nov;147(11):1224-30. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/8237918?tool=bestpractice.bmj.com)
+15. Lammer EJ, Chen DT, Hoar RM, et al. Retinoic acid embryopathy. N Engl J Med. 1985 Oct
+3;313(14):837-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/3162101?tool=bestpractice.bmj.com)
+16. Feldman GL, Weaver DD, Lovrien EW. The fetal trimethadione syndrome: report of an additional family
+and further delineation of this syndrome. Am J Dis Child. 1977 Dec;131(12):1389-92. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/412416?tool=bestpractice.bmj.com)
+17. Kothari SS. Mechanism of cyanotic spells in tetralogy of Fallot - the missing link? Int J Cardiol. 1992
+Oct;37(1):1-5. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/1428277?tool=bestpractice.bmj.com)
+18. Reich JD, Miller S, Brogdon B, et al. The use of pulse oximetry to detect congenital heart disease.
+J Pediatr. 2003 Mar;142(3):268-72. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12640374?
+tool=bestpractice.bmj.com)
+19. Rosati E, Chitano G, Dipaola L, et al. Indications and limitations for a neonatal pulse oximetry
+screening of critical congenital heart disease. J Perinat Med. 2005;33(5):455-7. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16238542?tool=bestpractice.bmj.com)
+20. Frommelt P, Lopez L, Dimas VV, et al. Recommendations for multimodality assessment of congenital
+coronary anomalies: a guide from the American Society of Echocardiography: developed in
+collaboration with the Society for Cardiovascular Angiography and Interventions, Japanese Society
+of Echocardiography, and Society for Cardiovascular Magnetic Resonance. J Am Soc Echocardiogr.
+2020 Mar;33(3):259-94.  Full text (https://www.onlinejase.com/article/S0894-7317(19)31083-1/fulltext)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32143778?tool=bestpractice.bmj.com)
+21. Dabizzi R, Teodori G, Barletta GA, et al. Associated coronary and cardiac anomalies in the
+tetralogy of Fallot. An angiographic study. Eur Heart J. 1990 Aug;11(8):692-704. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2397733?tool=bestpractice.bmj.com)
+22. Qureshi AM, Caldarone CA, Wilder TJ. Transcatheter approaches to palliation for tetralogy of
+Fallot. Semin Thorac Cardiovasc Surg Pediatr Card Surg Annu. 2022;25:48-57. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/35835516?tool=bestpractice.bmj.com)
+23. Kambe T, Kato T, Hibi N, et al. Differential diagnosis of pulmonary stenosis by means of intracardiac
+phonocardiography. Jpn Heart J. 1976 Nov;17(6):691-705. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/1011362?tool=bestpractice.bmj.com)
+24. Martin GR, Beekman RH 3rd, Mikula EB, et al. Implementing recommended screening for critical
+congenital heart disease. Pediatrics. 2013 Jul;132(1):e185-92. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/23776113?tool=bestpractice.bmj.com)
+25. Wasserman MA, Shea E, Cassidy C, et al. Recommendations for the adult cardiac sonographer
+performing echocardiography to screen for critical congenital heart disease in the newborn: from
+the American Society of Echocardiography. J Am Soc Echocardiogr. 2021 Mar;34(3):207-22. 
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Tetralogy of Fallot References
+REFERENCES
+Full text (https://www.onlinejase.com/article/S0894-7317(20)30779-3/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33518447?tool=bestpractice.bmj.com)
+26. Valente AM, Cook S, Festa P, et al. Multimodality imaging guidelines for patients with repaired
+tetralogy of Fallot: a report from the American Society of Echocardiography: developed in collaboration
+with the Society for Cardiovascular Magnetic Resonance and the Society for Pediatric Radiology. J Am
+Soc Echocardiogr. 2014 Feb;27(2):111-41. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24468055?
+tool=bestpractice.bmj.com)
+27. Yuan SM, Shinfeld A, Raanani E. The Blalock-Taussig shunt. J Card Surg. 2009 Mar-Apr;24(2):101-8. 
+Full text (http://onlinelibrary.wiley.com/doi/10.1111/j.1540-8191.2008.00758.x/full)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19040408?tool=bestpractice.bmj.com)
+28. Saxena A, Ramakrishnan S, Tandon R, et al; Working Group on Management of Congenital Heart
+Diseases in India. Consensus on timing of intervention for common congenital heart diseases. Indian
+Pediatr. 2008 Feb;45(2):117-26.  Full text (http://www.indianpediatrics.net/feb2008/117.pdf)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/18310790?tool=bestpractice.bmj.com)
+29. Hirsch JC, Mosca RS, Bove EL. Complete repair of tetralogy of Fallot in the neonate: results in the
+modern era. Ann Surg. 2000 Oct;232(4):508-14.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC1421183)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/10998649?tool=bestpractice.bmj.com)
+30. Parry AJ, McElhinney DB, Kung GC, et al. Elective primary repair of acyanotic tetralogy
+of Fallot in early infancy: overall outcome and impact on the pulmonary valve. J Am Coll
+Cardiol. 2000 Dec;36(7):2279-83. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11127473?
+tool=bestpractice.bmj.com)
+31. Knott-Craig CJ, Elkins RC, Lane MM, et al. A 26-year experience with surgical management
+of tetralogy of Fallot: risk analysis for mortality or late reintervention. Ann Thorac Surg. 1998
+Aug;66(2):506-11. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9725393?tool=bestpractice.bmj.com)
+32. Oosterhof T, van Straten A, Vliegen HW, et al. Preoperative thresholds for pulmonary valve
+replacement in patients with corrected tetralogy of Fallot using cardiovascular magnetic resonance.
+Circulation. 2007 Jul 31;116(5):545-51.  Full text (http://circ.ahajournals.org/content/116/5/545.full)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17620511?tool=bestpractice.bmj.com)
+33. Therrien J, Provost Y, Merchant N, et al. Optimal timing for pulmonary valve replacement in
+adults after tetralogy of Fallot repair. Am J Cardiol. 2005 Mar 15;95(6):779-82. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/15757612?tool=bestpractice.bmj.com)
+34. Geva T. Indications and timing of pulmonary valve replacement after tetralogy of Fallot repair. Semin
+Thorac Cardiovasc Surg Pediatr Card Surg Annu. 2006:11-22. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16638542?tool=bestpractice.bmj.com)
+35. Habib G, Lancellotti P, Antunes MJ, et al. 2015 ESC guidelines for the management of infective
+endocarditis. Eur Heart J. 2015 Nov 21;36(44):3075-128.  Full text (https://academic.oup.com/
+eurheartj/article/36/44/3075/2293384)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/26320109?
+tool=bestpractice.bmj.com)
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Tetralogy of Fallot References
+36. Delgado V, Ajmone Marsan N, de Waha S, et al. 2023 ESC guidelines for the management of
+endocarditis. Eur Heart J. 2023 Oct 14;44(39):3948-4042.  Full text (https://academic.oup.com/
+eurheartj/article/44/39/3948/7243107)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/37622656?
+tool=bestpractice.bmj.com)
+37. Khambadkone S, Coats L, Taylor A, et al. Percutaneous pulmonary valve implantation in
+humans: results in 59 consecutive patients. Circulation. 2005 Aug 23;112(8):1189-97.  Full
+text (http://circ.ahajournals.org/content/112/8/1189.full)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/16103239?tool=bestpractice.bmj.com)
+38. American College of Radiology. ACR Appropriateness Criteria® congenital or acquired heart disease.
+2023 [internet publication].  Full text (https://acsearch.acr.org/docs/3102389/Narrative)
+39. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults
+with congenital heart disease: a report of the American College of Cardiology/American Heart
+Association Task Force on clinical practice guidelines. Circulation. 2019 Apr 2;139(14):e698-800. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000000603)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30586767?tool=bestpractice.bmj.com)
+40. Lui GK, Saidi A, Bhatt AB, et al. Diagnosis and management of noncardiac complications
+in adults with congenital heart disease: a scientific statement from the American Heart
+Association. Circulation. 2017 Nov 14;136(20):e348-92.  Full text (https://www.ahajournals.org/
+doi/10.1161/cir.0000000000000535)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/28993401?
+tool=bestpractice.bmj.com)
+41. Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC guidelines for the management
+of adult congenital heart disease. Eur Heart J. 2021 Feb 11;42(6):563-645.  Full text (https://
+academic.oup.com/eurheartj/article/42/6/563/5898606?login=false)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/32860028?tool=bestpractice.bmj.com)
+42. Abbott ME. Atlas of congenital cardiac disease. New York, NY: American Heart Association; 1936.
+43. Nollert G, Fischlein T, Bouterwek S, et al. Long-term survival in patients with repair of tetralogy
+of Fallot: 36-year follow-up of 490 survivors of the first year after surgical repair. J Am Coll
+Cardiol. 1997 Nov 1;30(5):1374-83. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9350942?
+tool=bestpractice.bmj.com)
+44. Nollert G, Däbritz SH, Schmoeckel M, et al. Risk factors for sudden death after repair of tetralogy
+of Fallot. Ann Thorac Surg. 2003 Dec;76(6):1901-5. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/14667608?tool=bestpractice.bmj.com)
+45. Silka M, Hardy BG, Menashe VD, et al. A population-based prospective evaluation of risk of
+sudden cardiac death after operation for common congenital heart defects. J Am Coll Cardiol. 1998
+Jul;32(1):245-51. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/9669277?tool=bestpractice.bmj.com)
+46. Gatzoulis MA, Balaji S, Webber SA, et al. Risk factors for arrhythmia and sudden cardiac death late
+after repair of tetralogy of Fallot: a multicentre study. Lancet. 2000 Sep 16;356(9234):975-81. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/11041398?tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Tetralogy of Fallot References
+REFERENCES
+47. Daliento L, Rizzoli G, Menti L, et al. Accuracy of electrocardiographic and echocardiographic indices
+in predicting life threatening ventricular arrhythmias in patients operated for tetralogy of Fallot. Heart.
+1999 Jun;81(6):650-5.  Full text (https://heart.bmj.com/content/81/6/650.long)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/10336927?tool=bestpractice.bmj.com)
+48. Gatzoulis MA, Till JA, Somerville J, et al. Mechanoelectrical interaction in tetralogy of Fallot: QRS
+prolongation relates to right ventricular size and predicts malignant ventricular arrhythmias and sudden
+death. Circulation. 1995 Jul 15;92(2):231-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7600655?
+tool=bestpractice.bmj.com)
+49. Krieger EV, Zeppenfeld K, DeWitt ES, et al. Arrhythmias in repaired tetralogy of Fallot: a
+scientific statement from the American Heart Association. Circ Arrhythm Electrophysiol. 2022
+Nov;15(11):e000084.  Full text (https://www.ahajournals.org/doi/full/10.1161/HAE.0000000000000084?
+rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36263773?tool=bestpractice.bmj.com)
+50. Roos-Hesselink J, Perlroth MG, McGhie J, et al. Atrial arrhythmias in adults after repair of tetralogy
+of Fallot. Correlations with clinical, exercise, and echocardiographic findings. Circulation. 1995 Apr
+15;91(8):2214-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/7697851?tool=bestpractice.bmj.com)
+51. Geva T, Sandweiss BM, Gauvreau K, et al. Factors associated with impaired clinical status in long-
+term survivors of tetralogy of Fallot repair evaluated by magnetic resonance imaging. J Am Coll
+Cardiol. 2004 Mar 17;43(6):1068-74. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15028368?
+tool=bestpractice.bmj.com)
+52. Lisanti AJ, Uzark KC, Harrison TM, et al. Developmental care for hospitalized infants with complex
+congenital heart disease: a science advisory from the American Heart Association. J Am Heart Assoc.
+2023 Feb 7;12(3):e028489.  Full text (https://www.ahajournals.org/doi/10.1161/JAHA.122.028489?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/36648070?tool=bestpractice.bmj.com)
+53. Sood E, Newburger JW, Anixt JS, et al. Neurodevelopmental outcomes for individuals with congenital
+heart disease: updates in neuroprotection, risk-stratification, evaluation, and management: a scientific
+statement from the American Heart Association. Circulation. 2024 Mar 26;149(13):e997-1022. 
+Full text (https://www.ahajournals.org/doi/10.1161/CIR.0000000000001211)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/38385268?tool=bestpractice.bmj.com)
+54. Canobbio MM, Warnes CA, Aboulhosn J, et al; American Heart Association. Management of
+pregnancy in patients with complex congenital heart disease: a scientific statement for healthcare
+professionals from the American Heart Association. Circulation. 2017 Feb 21;135(8):e50-87.  Full
+text (http://circ.ahajournals.org/content/135/8/e50.long)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/28082385?tool=bestpractice.bmj.com)
+55. John AS, Jackson JL, Moons P, et al. Advances in managing transition to adulthood for adolescents
+with congenital heart disease: a practical approach to transition program design: a scientific statement
+from the American Heart Association. J Am Heart Assoc. 2022 Apr 5;11(7):e025278.  Full text
+(https://www.ahajournals.org/doi/10.1161/JAHA.122.025278)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/35297271?tool=bestpractice.bmj.com)
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Tetralogy of Fallot References
+56. Siu SC, Colman JM. Heart disease and pregnancy. Heart. 2001 Jun;85(6):710-5.  Full text (http://
+heart.bmj.com/content/85/6/710.long)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11359761?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Tetralogy of Fallot Images
+IMAGES
+Images
+Figure 1: Anatomy and pathophysiology of tetralogy of Fallot (TOF): normal heart structure (a) promotes
+unidirectional flow of deoxygenated blood (blue) into the lungs and oxygenated blood (red) into the aorta;
+in TOF (b) pulmonary stenosis and narrowing of the right ventricular outflow tract (RVOT) impedes the flow
+of deoxygenated blood into the lungs, and both the ventricular septal defect (VSD) and overriding aorta
+(*) promote the flow of deoxygenated blood into the systemic circulation, to produce cyanosis (sometimes
+referred to as “blue baby” syndrome), right ventricular hypertrophy (RVH) is also present; (c) a Doppler
+echocardiogram shows mixing of deoxygenated blood from the right ventricle (RV) and oxygenated blood
+from the left ventricle (LV) as blood is pumped out the over-riding aorta (Ao) in a patient with TOF (RA=right
+atrium, LA=left atrium)
+Multimedia Library of Congenital Heart Disease, Children’s Hospital, Boston, MA, editor Robert Geggel, MD;
+used with permission
+Figure 2: ECG in tetralogy of Fallot showing right ventricular hypertrophy
+From the collection of Dr Jeffrey Gossett; used with permission
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Tetralogy of Fallot Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Tetralogy of Fallot Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Jul 12, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version of the topics
+can be found on bestpractice.bmj.com . Use of this content is subject to our disclaimer (.
+Use of this content is subject to our) . © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Contributors:
+// Authors:
+Jeffrey Gossett, MD
+Vice President and System Chief of Pediatric Cardiology
+Professor of Pediatrics, Division of Pediatric Cardiology, Cohen Children’s Medical Center, Northwell Health,
+New Hyde Park, NY
+DISCLOSURES: JG declares that he has no competing interests.
+// Acknowledgements:
+Dr Jeffrey Gossett would like to gratefully acknowledge Dr Anna Kamp, a previous contributor to this topic.
+DISCLOSURES: AK declares that she has no competing interests.
+// Peer Reviewers:
+Adam B. Christopher, MD
+Assistant Professor of Pediatrics
+Director of Cardiac MRI, UPMC Children's Hospital of Pittsburgh, Pittsburgh, PA
+DISCLOSURES: ABC declares that he has no competing interests.
+Ranjit Aiyagari, MD
+Clinical Assistant Professor of Pediatrics
+University of Michigan, Ann Arbor, MI
+DISCLOSURES: RA declares that he has no competing interests.
+Michael Cheung, BSc, MBChB, MD
+Deputy Director
+Department of Cardiology, Royal Children's Hospital, Melbourne, Australia
+DISCLOSURES: MC declares that he has no competing interests.

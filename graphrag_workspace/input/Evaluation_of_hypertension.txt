@@ -1,0 +1,2106 @@
+# Evaluation of hypertension
+
+=== Page 1 ===
+Evaluation of
+hypertension
+Straight to the point of care
+Last updated: Dec 10, 2024
+=== Page 2 ===
+Table of Contents
+Overview  3
+Summary  3
+Theory  6
+Etiology  6
+Emergencies  9
+Urgent considerations  9
+Diagnosis  11
+Approach  11
+Differentials overview  18
+Differentials  20
+Online resources  32
+References  33
+Images  42
+Disclaimer  43
+=== Page 3 ===
+Evaluation of hypertension Overview
+Summary
+Hypertension is a common disorder that affects a large proportion of the community. It is usually
+asymptomatic and is detected on routine exam or after the occurrence of a complication such as a heart
+attack or stroke.[1]
+The 2017 ACC/AHA guidelines for the prevention, detection, evaluation, and management of high blood
+pressure in adults defines hypertension as any systolic blood pressure measurement of ≥130 mmHg or any
+diastolic blood pressure measurement of ≥80 mmHg.[2] ACC/AHA blood pressure categories are defined as
+follows:
+• Elevated blood pressure: systolic blood pressure of 120-129 mmHg and diastolic blood pressure of
+<80 mmHg
+• Stage 1 hypertension: systolic blood pressure of 130-139 mmHg and/or diastolic blood pressure of
+80-89 mmHg
+• Stage 2 hypertension: systolic blood pressure of ≥140 mmHg and/or diastolic blood pressure of ≥90
+mmHg.
+The 2017 ACC/AHA guidelines definition represents a more aggressive approach to diagnosis and treatment
+of hypertension compared with Joint National Committee (JNC) 7 and JNC 8 recommendations, where blood
+pressure in the range of 120-139 mmHg/80-89 mmHg is considered prehypertension and blood pressure
+>140/90 mmHg is considered elevated.[3] [4]
+Publication of the 2017 ACC/AHA guidelines has prompted widespread debate, and there are calls for
+the recommendations to be revisited. Implementing the guidelines would increase the prevalence of
+hypertension by 26.8% in the US. Critics are concerned that labelling more patients as hypertensive
+could increase psychological morbidity, as well as exposing lower-risk patients to the potential harm of
+antihypertensive medications.[5]
+The 2017 ACC/AHA guidelines were mainly based on the results of the SPRINT trial, which investigated
+intensive or standard hypertension treatment in people with a systolic blood pressure of ≥130 mmHg with an
+increased cardiovascular risk (but without diabetes).[6] Listen to our podcast for more on the controversy. 
+[BMJ Best Practice Podcast: hypertension] (https://soundcloud.com/bmjpodcasts/bmj-best-practice-
+hypertension-everything-you-need-to-know-about-the-new-2017-ahaacc-guidelines)
+European guideline blood pressure categories are defined as follows:[7]
+• Elevated blood pressure: office systolic blood pressure 120-139 mmHg or office diastolic blood
+pressure 70-89 mmHg
+• Hypertension: office systolic blood pressure ≥140 mmHg or office diastolic blood pressure ≥90 mmHg.
+For the diagnosis of elevated blood pressure or hypertension to be made, the European guidelines
+recommend confirmation with out-of-office measurements or at least one repeat office measurement at a
+subsequent visit.[7] Isolated systolic hypertension is defined as a systolic blood pressure ≥140 mmHg, with a
+diastolic blood pressure <90 mmHg.[7]
+The UK National Institute for Health and Care Excellence states that a diagnosis of hypertension is confirmed
+in those with:[8]
+• a clinic blood pressure of ≥140/90 mmHg, and
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+3
+=== Page 4 ===
+Evaluation of hypertension Overview
+OVERVIEW
+• daytime ambulatory blood pressure monitoring average or home blood pressure monitoring average of
+≥135/85 mmHg.
+Although different studies have used a variety of cut-off points for the diagnosis of hypertension in the
+community, any blood pressure >120 mmHg systolic is associated with an increased cardiovascular risk.
+The importance of hypertension is its relation to other cardiovascular risk factors and consequent overall
+cardiovascular risk.
+The AHA defines resistant hypertension as:[9]
+• Clinic blood pressure >130/80 mmHg despite the concurrent use of at least 3 antihypertensive agents
+(including an ACE inhibitor or angiotensin receptor antagonist, a long-acting calcium channel blocker,
+and a diuretic) at maximum or maximally tolerated doses.
+• Patients who require 4 or more antihypertensive agents to achieve their target blood pressure are
+also considered to have resistant hypertension. The diagnosis requires the exclusion of white-coat
+hypertension and poor adherence with antihypertensive medication.
+This topic addresses the evaluation of hypertension in adults.
+Epidemiology
+According to a global analysis of trends in hypertension, the number of adults ages 30-79 years with
+hypertension increased from 650 million to 1.28 billion in the period 1990-2019.[10] Based on National
+Health and Nutrition Survey (NHANES) data from 2017-2020, an estimated 122.4 million US adults ages
+≥20 years have hypertension (defined as self-reported use of antihypertensive medication, systolic BP
+≥130 mmHg or diastolic BP ≥80 mmHg).[11] During this period, the prevalence of hypertension was 28.5%
+among those ages 20-44 years, 58.6% among those ages 45-64 years, and 76.5% among those ages ≥65
+years.[11] The prevalence may be similar or higher in Western Europe.[12] [13] 
+In 2010, the estimated global age-standardized prevalence of hypertension in adults ages ≥20 years was
+31.1%; 28.5% in high-income countries and 31.5% in low- and middle-income countries.[14]
+Prevalence by sex has been found to differ with age with prevalence higher in men than in women ages <65
+years, but higher in women than in men ages ≥65 years.[11] [14]
+Hypertension is more prevalent in black people than in white people, starting in childhood, with 76% of black
+men and women developing hypertension by age 55 years, compared with 55% and 40% of white men and
+women, respectively.[15]
+The exact prevalence of hypertension is difficult to assess, as it is usually asymptomatic. Prevalence is
+expected to rise as the "cut-off" value for hypertension is redefined at a lower level.
+Approximately 15% of patients with hypertension have resistant hypertension.[9]
+Complications and hypertension-mediated organ damage
+Studies have shown that treatment of hypertension can reduce the incidence of future cardiovascular and
+cerebrovascular events.[16] [17] The aim of early diagnosis and treatment of hypertension is to lower overall
+cardiovascular risk and prevent cerebrovascular events.
+The effects of chronic hypertension on organ systems are referred to as hypertension-mediated organ
+damage.
+4 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 5 ===
+Evaluation of hypertension Overview
+Left ventricular hypertrophy, cardiovascular disease, cerebrovascular disease, hypertensive retinopathy, and
+nephropathy are the most common manifestations.[18] The presence of left ventricular hypertrophy is a poor
+prognostic sign, and regression of left ventricular hypertrophy improves prognosis.[19] Patients with resistant
+hypertension are at higher risk of experiencing cardiovascular and cerebrovascular events and developing
+chronic kidney disease.[9]
+Cardiovascular risk
+Guidelines on the management of hypertension emphasize the importance of calculating and managing
+the overall cardiovascular risk of a patient, rather than focusing only on blood pressure readings. The ACC
+and AHA have published an online tool to calculate patients’ 10-year and lifetime risk of atherosclerotic
+cardiovascular disease.  [ACC: ASCVD Risk Estimator Plus] (http://tools.acc.org/ASCVD-Risk-Estimator-
+Plus/#!/calculate/estimate)
+For individuals ages 40-70 years, each increment of 20 mmHg in systolic blood pressure or 10 mmHg in
+diastolic blood pressure across the entire blood pressure range from 115/75 to 185/115 mmHg doubles
+the risk of cardiovascular disease.[20] The European Society for Cardiology has proposed that sex-specific
+thresholds may be appropriate as lower blood pressure levels are associated with an increased risk of
+cardiovascular disease in women.[21] Treating associated cardiovascular risk factors such as obesity,
+diabetes, hypercholesterolemia, and smoking are as important as managing hypertension in lowering overall
+cardiovascular risk.
+OVERVIEW
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+5
+=== Page 6 ===
+Evaluation of hypertension Theory
+THEORY
+Etiology
+Primary hypertension
+This is the most common situation, when no underlying cause can be found to account for elevated blood
+pressure. It is also referred to as essential hypertension. A genetic basis has been suggested.[22] Lifestyle
+influences such as obesity, sedentary lifestyle, excess alcohol intake, and high sodium intake are all thought
+to promote the development of essential hypertension.[20] [23] [24] [25] [26]
+Secondary hypertension
+In a minority of cases, an underlying, often reversible cause can be found. This may be suspected in a
+younger patient (<40 years of age), when blood pressure is resistant to first-line medication, or if previously
+well-controlled hypertension suddenly becomes difficult to manage without any change in medication
+adherence.
+Vascular
+• One of the most common secondary causes of hypertension is renal artery stenosis. This may be
+entirely asymptomatic but, if hypertension is difficult to control and the patient is young, renal artery
+stenosis should be excluded. Stenosis is usually due to fibromuscular dysplasia or atherosclerosis, but
+other causes include extrinsic compression of the artery by an adjacent tumor or a proximal aneurysm
+of the renal artery.
+• Coarctation of the aorta is a congenital narrowing of the aorta. When presenting in adults with
+hypertension, this narrowing is usually distal to the ligamentum arteriosum, although coarctation can
+occur before or at the site of the ligamentous insertion. There is usually hypertension in the upper
+limbs but weak or absent pulses in the lower limbs. This combination of signs will raise suspicion of a
+coarctation on clinical exam.
+• Preeclampsia is a syndrome of hypertension with proteinuria in pregnant women. Its exact cause is
+unknown, but the placenta is thought to release factors, perhaps in response to hypoxia, that affect
+the vascular endothelium in susceptible women. It can also occur up to 2 months after birth. Women
+with preexisting hypertension, diabetes, or autoimmune disease are thought to be at greater risk of
+developing preeclampsia.
+Renal
+• Chronic kidney disease: a decrease in the glomerular filtration rate will stimulate the kidneys to up-
+regulate production of renin to raise the blood pressure and renal perfusion. Fluid overload will also
+contribute as the kidneys fail to excrete volumes required for homeostasis. Both of these mechanisms
+can lead to hypertension.
+• Nephrotic syndrome: a syndrome of proteinuria, hypoalbuminemia, and edema caused by damage to
+the filtering capability of the renal glomeruli. Hypertension in this setting is not common, but can occur
+due to salt and water retention and fluid overload. ACE inhibitors are the first-choice agent for blood
+pressure control in nephrotic syndrome, as they may also reduce proteinuria.
+• Glomerulonephritis: a condition characterized by inflammation of the glomeruli. Hypertension is a main
+feature of this syndrome, via mechanisms similar to those in chronic renal failure.
+• Obstructive uropathy: this can produce hydronephrosis, and the back-pressure on the kidneys can
+result in renal failure and elevated blood pressure through similar mechanisms.
+6 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 7 ===
+Evaluation of hypertension Theory
+• Polycystic kidneys: hypertension is a common presenting symptom, and it is often apparent before
+renal function abnormalities. Hypertension with polycystic kidney disease can present at a young age
+(20 to 34 years) and is associated with a high incidence of left ventricular hypertrophy.
+Endocrine
+• Pheochromocytoma: this is a neuroendocrine tumor of the adrenal glands. Hypertension results
+from excessive secretion of epinephrine and norepinephrine. It can also occur as part of a multiple
+endocrine neoplasia syndrome. Patients may present with malignant hypertension or hypertension that
+is resistant to usual pharmacologic therapy.[27]
+• Hyperaldosteronism: excess production of aldosterone by the adrenal glands results in sodium and
+water retention and potassium excretion. The excess production of aldosterone is usually due to a
+solitary adrenal adenoma (Conn syndrome), but hyperaldosteronism and consequent hypertension
+can also be the result of adrenal hyperplasia. Despite the fact that primary hyperaldosteronism is the
+most common cause for secondary hypertension, it is a diagnosis that is frequently missed.[28]
+• Cushing syndrome: excess production of cortisol by a pituitary or adrenal tumor, or the use of
+exogenous corticosteroids, can result in Cushing syndrome. It can be adrenocorticotropic hormone-
+dependent or -independent. Hypertension results as cortisol enhances the vasoconstrictor effect of
+catecholamines.
+• Hyperthyroidism: may be a secondary cause of hypertension in approximately 1% to 3% of
+hypertensive patients; data are sparse.[29] [30] Excess thyroxine exacerbates the effect of the
+sympathetic nervous system. It thereby increases vascular resistance and cardiac output. This can
+lead to an isolated systolic hypertension. Hypertension should respond to treatment of the underlying
+cause.
+• Hypothyroidism: may be a secondary cause of hypertension in approximately 1% to 3% of
+hypertensive patients; data are sparse.[29][30] [31] Low levels of circulating thyroid hormone may
+result in mild hypertension as the heart rate is slowed and there is an increase in peripheral vascular
+resistance to compensate.[32] [33] [34] Hypothyroidism can also cause elevation of cholesterol and
+lipid levels in the blood, thus increasing overall cardiovascular risk if left untreated.
+• Hyperparathyroidism: hypertension is often noted in patients with hyperparathyroidism, but a causative
+relationship has not been proven and the mechanism is unclear.
+Sleep disorders
+• Patients with obstructive sleep apnea/hypopnea syndrome, or obesity hypoventilation syndrome, are
+often obese, with an increased risk for hypertension.[35] [36] [37] [38] They also have an increased
+risk of myocardial infarction and stroke. The mechanism is unclear but may involve oxidative stress
+secondary to hypoxia and sympathetic autonomic activation. Such patients often have a number of
+cardiovascular risk factors that need to be addressed alongside treatment of their hypertension and
+sleep apnea/hypopnea and obesity-related conditions.
+Toxic causes
+• Chronic alcohol excess: the relationship between alcohol, hypertension, and overall cardiovascular
+risk is complex and a J-shaped relationship has been suggested, with those who drink a small amount
+of alcohol having a lower risk than those who abstain completely. However, in various studies, people
+who misuse alcohol demonstrate a marked decrease in blood pressure readings when subject to
+alcohol abstinence (after an initial increase during the withdrawal phase). The mechanisms are
+unclear.[39]
+THEORY
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+7
+=== Page 8 ===
+Evaluation of hypertension Theory
+THEORY
+• Illicit drug use such as cocaine and methamphetamine misuse can lead to hypertension due to
+sympathetic activation. The potential for reduced compliance with antihypertensive therapy in this
+patient population may result in persistent high blood pressure.
+Medications
+• In a nationally representative survey study in the US, 18% of adults with hypertension reported taking
+medications that may cause elevated blood pressure, most commonly antidepressants, prescription
+nonsteroidal anti-inflammatory drugs (NSAIDs), steroids and estrogens.[40]
+• Use of oral contraceptives and long-term use of NSAIDs have both been implicated in the development
+of hypertension: the former due to the effects of progesterone on small blood vessels; NSAIDs through
+effects on the kidney and fluid retention in susceptible individuals. Hypertension will usually respond to
+discontinuation of the drugs.
+• Hypertension is a common adverse effect of glucocorticoids, cyclosporine, and atypical antipsychotics.
+• Up to 80% of patients treated with vascular endothelial growth factor receptor tyrosine kinase inhibitors
+for metastatic solid organ malignancy develop hypertension.[41]
+Pseudohypertension
+• "White-coat hypertension" is an apparent elevation of blood pressure when readings are taken in
+a clinical environment. The patient may have their own blood pressure monitor at home and report
+normal readings. This apparent elevation is usually ascribed to anxiety or stress at having their blood
+pressure measured. It may subside with repeat measurements over time, or persist in the clinical
+environment. One way to distinguish true hypertension from falsely elevated readings is to record
+blood pressure over a 24-hour period or arrange measurements at home. This will avoid unnecessary
+treatment, although overall cardiovascular risk must still be evaluated. These patients need close
+follow-up, as it has been shown that untreated white-coat hypertension is associated with an increased
+cardiovascular risk.[42]
+Resistant hypertension
+Resistant hypertension (RH) is defined as above-goal elevated blood pressure despite the concurrent use of
+three antihypertensive drug classes, commonly including a long-acting calcium channel blocker, a blocker of
+the renin-angiotensin system (angiotensin-converting enzyme inhibitor or angiotensin receptor blocker), and
+a diuretic.[9]
+Consider causes of secondary hypertension in patients with RH.
+Consider nonadherence and white-coat hypertension as causes of apparent treatment-resistant
+hypertension. Estimates of nonadherence to hypertension medication range from 7% to 60%.[9] The
+American Heart Association recommends using the following question to assess adherence: “When taking
+multiple medications, it is common to miss doses throughout the week. How many times do you miss
+taking your blood pressure medication in a week?”[9] White-coat hypertension can be excluded by 24-hour
+ambulatory blood pressure monitoring or home blood pressure measurements. 
+Poor blood pressure measurement technique can give falsely elevated blood pressure readings.
+8 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 9 ===
+Evaluation of hypertension Emergencies
+Urgent considerations
+(See  Differentials  for more details)
+Severe elevations in blood pressure are classified as either emergencies or urgencies.[43] In hypertensive
+emergencies there is severe hypertension (>180/120 mmHg) with evidence of new or worsening end
+organ damage.[2] This is an immediate threat to the cardiovascular system and the patient. In hypertensive
+urgencies, there is severe hypertension but the patient is otherwise stable with no evidence of acute or
+impending change in end organ damage or dysfunction.[2]
+True hypertensive emergencies include hypertensive encephalopathy, hypertensive left ventricular failure,
+and acute aortic dissection. The management of these conditions includes immediate treatment in an
+intensive care setting with controlled gradual reduction in blood pressure. Initial laboratory tests should
+include a full blood profile and urine analysis to search for an underlying cause. Tests such as cardiac
+enzymes, thyroid function tests, urinary catecholamines, and vanillylmandelic acid may also be required.
+Elevations in blood urea nitrogen and creatinine, elevated sodium and phosphate levels, high or low
+potassium levels (particularly in hyperaldosteronism, as a result of renal potassium wasting), and acidosis
+are some of the common findings.
+Imaging studies such as a chest x-ray and renal ultrasound scan can also help rule out underlying etiology.
+Computerized tomography of the head to assess for intracranial hemorrhage or infarction or space-occupying
+lesions may also be indicated. A 12-lead ECG is useful to assess for cardiac ischemia or infarct, presence
+of left ventricular hypertrophy, and evidence of electrolyte disturbance or effects of drug overdose. If
+left untreated, these conditions are associated with a high mortality and morbidity. Fortunately, with the
+widespread use of antihypertensive agents, they are less commonly seen overall.[43] [44] [45]
+Specific hypertensive emergencies
+Hypertensive encephalopathy
+• This is a symptom complex of severe hypertension with headache, vomiting, visual disturbance,
+mental status changes, seizure, and papilledema. Cardiac symptoms such as angina, myocardial
+infarction, and pulmonary edema may occasionally be the main presenting symptoms.
+Hypertensive left ventricular failure
+• Symptoms are those of decompensated cardiac failure with shortness of breath, pulmonary edema,
+lethargy, paroxysmal nocturnal dyspnea, and orthopnea. A cough productive of frothy pink sputum may
+be reported. Left heart failure can lead to biventricular failure, and there may be signs of peripheral
+edema and hepatomegaly. An echocardiogram will usually be indicated, and imaging of the coronary
+arteries may be helpful as reversible cardiac ischemia may improve symptoms and prognosis.
+Acute aortic dissection
+• Typically presents with acute, severe chest pain with "ripping" or "tearing" characteristics. It may
+radiate to the back or jaw. Syncope, altered cognition, and anxiety are common neurologic symptoms.
+An interarm blood pressure difference of >20 mmHg is suggestive but not diagnostic of an acute aortic
+dissection. Treatment will depend on the portion of the aorta that is affected and may include surgical
+repair, endovascular stenting, or medical therapy alone. All patients require close monitoring and
+intensive treatment of blood pressure and pulse, usually in a high-dependency or intensive care unit
+with appropriate specialist input.
+EMERGENCIES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+9
+=== Page 10 ===
+Evaluation of hypertension Emergencies
+EMERGENCIES
+See Hypertensive Emergencies .
+Hypertensive urgencies
+Malignant or accelerated hypertension
+• Malignant hypertension is associated with potentially irreversible hypertension-mediated organ
+damage that occurs over days or weeks, rather than minutes, and is therefore classified as an
+urgency. It is characterized by very high blood pressure in association with bilateral retinal changes,
+including exudates and hemorrhages, with or without papilledema. The most common symptoms
+include headaches (often occipital), visual disturbances, chest pain, dyspnea, and neurologic deficits.
+Consequences include cerebral infarction or hemorrhage, transient blindness or paralyses, seizures,
+stupor, or coma. Malignant hypertension often has a renal cause, and proteinuria, microscopic
+hematuria, red blood cell, and hyaline casts in urine are typical. See Hypertensive Emergencies .
+Asymptomatic high blood pressure
+• This is a common occurrence, where an asymptomatic patient (either known to have hypertension
+on treatment or previously not known to have hypertension), is found to have very high readings in
+the "accelerated hypertension" range. If there are any signs of retinal involvement, they should be
+managed as per "malignant hypertension" or "accelerated hypertension" guidelines. However, if there
+is no hypertension-mediated organ involvement, they should be evaluated for the cause of the high
+blood pressure.
+• If a patient is already on antihypertensive medications, care should be taken to check compliance
+or worsening renal function. If the increase in blood pressure has occurred over time, it could simply
+reflect the need to up-titrate drug dosage, as the current dosage may not be sufficient. A history
+of illicit drug use should also be sought, as this can cause a sudden increase in blood pressure.
+Screening for a secondary cause is also important.
+• If the patient is drug-naive, then they should be managed as per any individual with newly diagnosed
+hypertension, with screening for secondary causes, end organ damage, and cardiovascular risk.
+Preeclampsia
+• Preeclampsia is new-onset persistent hypertension, with either proteinuria or evidence of systemic
+involvement, that occurs in pregnant women after 20 weeks' gestation. Women with preeclampsia
+require specialist obstetric care. The details of diagnosis and management are beyond the scope of
+this topic. See Preeclampsia . 
+10 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 11 ===
+Evaluation of hypertension Diagnosis
+Approach
+Hypertension is usually asymptomatic, but patients may present with headaches, nosebleeds, visual
+symptoms, or neurologic symptoms. The main aims of history-taking are to identify symptoms suggestive
+of a secondary cause, to establish concomitant risk factors for cardiovascular disease, and to seek any
+symptoms suggestive of hypertension-mediated organ damage.[3] [7][8]
+Often there are no physical signs. However, a full exam for any signs of an underlying condition or
+hypertension-mediated organ damage is recommended. This should include height, weight, waist
+circumference, palpation and auscultation of the heart and carotid arteries, palpation of peripheral pulses,
+neurologic examination, and fundoscopy. An absence of symptoms or end organ damage with a history of
+normal blood pressure readings outside the clinical environment may occur with pseudohypertension.
+Baseline screening tests are useful in all patients to look for complications of hypertension. Specific tests
+are only recommended if the clinical suspicion of an underlying secondary cause is high, as the majority of
+patients will have essential (primary) hypertension.
+Blood pressure measurement
+There are various types of blood pressure measurement techniques, each with their own benefits and
+limitations.[46]
+Clinic-based blood pressure measurement
+Before a diagnosis of hypertension can be confirmed, it is essential that the blood pressure is checked
+correctly, using a clinically validated and accurate device.[3] [7][8] The patient should sit quietly for at least
+5 minutes with the arm exposed and supported at the level of the heart, and the back resting against a
+chair. Ideally they should not have consumed caffeine or smoked tobacco within 30 minutes before testing.
+Canadian guidelines recommend electronic (oscillometric) upper arm devices instead of using auscultation to
+measure blood pressure in the office setting.[47]
+If an automatic machine is used, it needs to be correctly calibrated, and calibration should be checked at
+least every 6 months.
+The correct cuff size should be used; the US guidance recommends that the bladder encircles 80% of the
+arm, while the European guidance recommends that the bladder length should be 75% to 100% and the
+width 35% to 50% of the arm circumference.[2] [7] It should be noted if a larger- or smaller-than-normal cuff
+size is used.[2] The cuff should be positioned at the level of the heart. The patient’s back and arm should be
+supported because muscle contractions can elevate blood pressure readings.
+When using auscultation, the bell of the stethoscope should be used. The cuff should be inflated to at least
+20 mmHg above the pressure at which the radial pulse disappears, and should be deflated at a rate of
+approximately 3 mmHg/second in order to accurately identify the point at which Korotkoff sounds can first
+be heard. Diastolic blood pressure in adults is measured as the point at which Korotkoff sounds disappear
+(Phase V).
+Blood pressure should be checked in both arms, and the arm with the higher reading should be used. A
+consistent difference of >15 mmHg in systolic blood pressure between arms is associated with peripheral
+vascular disease and increased cardiovascular and all-cause mortality.[48] The US guidelines recommend
+at least two blood pressure readings taken 1-2 minutes apart.[2] European guidance recommends three
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+11
+=== Page 12 ===
+Evaluation of hypertension Diagnosis
+DIAGNOSIS
+readings, with additional measurements taken if the readings differ by >10 mmHg.[7] The blood pressure
+recorded should be the average of at least two readings.[2] [7]
+The patient’s pulse should be palpated to exclude arrhythmia. The European Society of Cardiology (ESC)
+recommends that patients with atrial fibrillation should have multiple manual auscultatory blood pressure
+measurements (as few automated devices have been calibrated for use in this population). The ESC also
+recommends measuring blood pressure 1 minute and 3 minutes after standing from a seated/lying position to
+exclude orthostatic hypotension, (defined as a blood pressure drop of ≥20/10 mmHg 1 and/or 3 minutes after
+standing following a 5 minute seated or lying position).[7]
+Automated office blood pressure (AOBP) is intended to more accurately measure blood pressure.[49] [50]
+Multiple measurements are taken while the patient is alone in a quiet room, sitting with legs uncrossed, back
+supported, and arm supported at heart level. Depending on the device used, 3 to 6 measurements are taken
+over a short time period and the mean blood pressure is calculated.[51] When using AOBP, hypertension is
+defined as ≥135/85 mmHg.
+Out-of-office blood pressure measurement
+Before therapy is initiated, 24-hour ambulatory blood pressure monitoring (ABPM) or regular home
+monitoring is recommended to document true hypertension outside the office setting.[7][52] [53] [54] [55]
+ One meta-analysis comparing clinic-based with home-based ABPM found that neither clinic- nor home-
+based measurements had sufficient sensitivity and specificity to be used as a single diagnostic test, and that
+doing so may lead to substantial over-diagnosis.[56]
+ABPM has many advantages in that it helps to diagnose "white-coat hypertension" and masked
+hypertension, recognizes episodes of symptomatic hypotension, and identifies dipping patterns and early
+morning surges in blood pressure. Masked hypertension is defined as a normal blood pressure in the clinic or
+office (<130/90 mmHg), but an elevated blood pressure out of the clinic (ambulatory daytime blood pressure
+or home blood pressure >135/85 mmHg). There is no universal agreement on definitions of hypertension
+measured by out-of-office blood pressure monitoring, but European guidelines suggest a cutoff of 135/85
+mmHg for daytime ABPM or home blood pressure.[7] The US American College of Cardiology (ACC) and
+American Heart Association (AHA) guidelines report estimates for corresponding home, daytime, night-
+time, and 24-hour ambulatory levels of BP e.g., an office blood pressure measurement of 130/80 mmHg
+corresponds to a home blood pressure of 130/80 mmHg, a daytime ABPM of 130/80 mmHg, a night-time
+ABPM of 110/65 mmHg, and a 24-hour ABPM of 125/75 mmHg.[2]
+The US Preventive Services Task Force recommends ABPM as the preferred method of out-of-office blood
+pressure measurement, followed by home blood pressure monitoring.[57]
+Home blood pressure readings should be recorded using a validated monitor when the patient is seated, with
+their back and arm supported, after 5 minutes’ rest. Two readings should be recorded, 1-2 minutes apart, in
+the morning (before taking medication) and again in the evening. Measurements should be taken for at least
+3 days, ideally 7. The home blood pressure reading is the average of all of the measurements.[7]
+Screening for hypertension
+As most people with hypertension are asymptomatic, regular blood pressure measurements are
+recommended to detect the condition. The ACC/AHA recommend yearly measurements following an initial
+blood pressure evaluation. Adults with an elevated blood pressure should have a repeat evaluation in 3-6
+months.[2]
+12 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 13 ===
+Evaluation of hypertension Diagnosis
+The European Society of Cardiology recommends that opportunistic screening for elevated blood pressure
+and hypertension should be considered at least every 3 years for adults <40 years, and at least once a year
+for adults ≥40 years.[7] For those with elevated blood pressure who do not meet the criteria for treatment, the
+European Society of Cardiology recommends a repeat risk assessment and blood pressure measurement
+within 1 year.[7]
+Concomitant cardiovascular risk factors
+Establishing concomitant cardiovascular risk factors is essential to define overall cardiovascular risk.
+• Smoking: enquiries should include type of cigarette or tobacco, quantity, and duration of habit. Patients
+have a tendency to under-report, and nonsmokers may be exposed to passive cigarette smoking in the
+home if a partner is a heavy smoker.
+• Diabetes mellitus: this is a strong risk factor for cardiovascular disease. The target blood pressure for a
+diabetic hypertensive patient is 130/80 mmHg.
+• Known ischemic heart disease or previous myocardial infarction.
+• Previous stroke or transient ischemic attack.
+• Elevation of cholesterol or triglycerides: patients may be unaware of such elevation if they have never
+been tested.
+• Family history of hypertension, cardiovascular disease, cerebrovascular disease, or renal disease.
+Identification of a secondary cause
+Although in the majority of patients hypertension is primary/essential, there are certain features that may lead
+to a suspicion of an underlying cause (secondary hypertension):
+• Young patient (<40 years)
+• Rapid onset of hypertension
+• Sudden change in blood pressure readings when previously well controlled on a particular therapy
+• Resistant hypertension that is unresponsive to pharmacologic therapies.
+If a secondary cause is suspected, then the presence of specific symptoms may suggest a particular cause
+and guide further investigations:
+• Flash pulmonary edema or widespread atherosclerosis may indicate renal artery stenosis
+• Cold legs may indicate poor distal perfusion secondary to aortic coarctation
+• Swelling and hypertension in a pregnant patient should raise suspicion of preeclampsia
+• Edema and reports of foamy urine in a nonpregnant patient may represent nephrotic syndrome
+• A history of renal impairment, prostatic enlargement, previous urethral instrumentation, or renal calculi
+is consistent with obstructive uropathy or chronic kidney disease
+• A family history of polycystic kidney disease, intracranial aneurysms, or subarachnoid hemorrhage in a
+young patient (age 20-34 years) with hypertension is strongly suggestive of polycystic kidney disease
+• Endocrine causes may present with numerous nonspecific symptoms, but pheochromocytoma usually
+has episodic symptoms consistent with a hyperadrenergic state, such as panic attacks, sweating,
+palpitations, and abdominal cramps
+• Symptoms of low potassium, such as headaches, nocturia, and paresthesiae, may indicate
+hyperaldosteronism, although the majority of patients with this condition are normokalemic
+• Typical symptoms of Cushing syndrome are depression, weight gain, hirsutism, easy bruising, and low
+libido
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+13
+=== Page 14 ===
+Evaluation of hypertension Diagnosis
+DIAGNOSIS
+• Heat intolerance, sweating, palpitations, and weight loss may indicate an excess of thyroxine, while
+lethargy, constipation, weight gain, and depression are common findings with low circulating thyroxine
+levels
+• Symptoms of bone pain, paresthesiae, and myalgia may suggest hyperparathyroidism
+• Excessive daytime sleepiness in an obese patient, who may also complain of erectile dysfunction
+and restless sleep, may be a symptom of obstructive sleep apnea/hypopnea syndrome, or obesity
+hypoventilation syndrome. Partners are likely to give a history of loud snoring
+• Toxic causes include use of oral contraceptives, nonsteroidal anti-inflammatory drugs, or chronic
+alcohol excess.
+Physical findings suggestive of a secondary cause include the following:
+• Renal bruits may be audible with renal artery stenosis
+• Enlarged kidneys may be palpated in polycystic kidney disease. There may be accompanying
+hepatomegaly or a hernia
+• Arteriovenous fistulae may be present in a patient with end-stage kidney disease
+• Flank tenderness or prostatic enlargement on rectal exam may suggest a cause of obstructive
+uropathy
+• Facial edema or limb edema in a pregnant patient warrants urinary collection for proteinuria as
+suggestive of preeclampsia
+• Edema in a nonpregnant patient might be due to nephrotic syndrome
+• Radiofemoral delay and a disparity in blood pressure readings between the arms may be
+demonstrated with coarctation of the aorta, along with systolic or continuous cardiac murmurs. Distal
+pulses may be weak or impalpable
+• Cushing syndrome has well defined features, typically described as a moon face, thin arms and legs,
+truncal obesity, striae, and skin thinning
+• Isolated eyelid edema with dry skin and a thick tongue may suggest hypothyroidism, while
+exophthalmos, proptosis, and lid lag suggest hyperthyroidism due to Graves disease
+• The deposition of calcium just inside the iris, or palpation of jaw tumors, raises the possibility of
+hyperparathyroidism
+• Obesity predisposes to obesity hypoventilation syndrome. Obesity, maxillomandibular abnormalities,
+and macroglossia predispose to obstructive sleep apnea/hypopnea syndrome
+• Chronic alcohol excess can result in a myriad of signs, such as jaundice, hepatomegaly, spider nevi,
+ascites, and general neglect of appearance.
+Hypertension-mediated organ damage
+Cardiovascular disease
+• Symptoms of cardiac failure include shortness of breath, ankle edema, paroxysmal nocturnal dyspnea,
+orthopnea. Angina may also be reported. Exam may reveal cardiac murmurs, thrills, or heaves.
+• Left ventricular hypertrophy diagnosed either by echocardiography or by electrocardiogram is well
+documented. It has prognostic utility in patients with hypertension.[58]
+Cerebrovascular disease
+• Any history of symptoms suggestive of transient ischemic attack or stroke should be obtained. These
+may include speech difficulties, visual disturbance, or transient focal neurology.
+14 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 15 ===
+Evaluation of hypertension Diagnosis
+• Carotid bruits may indicate carotid artery stenosis and warrant further duplex imaging to determine
+blood flow and degree of stenosis.
+• There may be residual functional loss after a stroke.
+Renal failure
+• May be asymptomatic, but urinary symptoms such as decreased or increased frequency of urination,
+pruritus, lethargy, and weight loss may suggest renal damage.
+Retinopathy
+• This is often asymptomatic, but may present with visual loss or headaches.
+• Hypertensive retinopathy on fundoscopy is characterized by:
+• Arteriolar narrowing (graded 1-4, depending on the degree of narrowing)
+• Arteriolar venous nipping (constriction of veins at crossing points)
+• "Cotton wool spots" on the retina (due to ischemic changes)
+• Flame hemorrhages or papilledema.
+•
+Hypertensive retinopathy
+From the collection of Sunil Nadar, MBBS, FRCP,
+FESC, FACC and Gregory Lip, MD, FRCP, FESC, FACC
+Initial investigations
+Baseline screening tests are useful in all patients to look for complications of hypertension.
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+15
+=== Page 16 ===
+Evaluation of hypertension Diagnosis
+DIAGNOSIS
+• An ECG can be easily performed and is useful to seek signs of previous myocardial infarction or left
+ventricular hypertrophy (a key prognostic factor). Echocardiography may be reserved for patients with
+clinical suspicion of cardiac failure or left ventricular hypertrophy.
+• A chest x-ray is helpful to look for evidence of cardiomegaly, widening of the left subclavian border,
+and a double bulge at the site of the aortic knuckle. This may be seen in coarctation of the aorta, along
+with notching of the ribs due to large collateral circulation.
+• Initial blood tests should include BUN, electrolytes, and creatinine, with random blood sugar and
+serum cholesterol (as part of overall cardiovascular risk assessment). If diabetes is suspected, a
+fasting blood sugar test is required. Potassium levels may be low in hyperaldosteronism, but are
+usually normal.
+• A urine dip test is performed to look for glycosuria and proteinuria, and the presence of casts may help
+determine an underlying renal cause, such as glomerulonephritis or nephrotic syndrome.
+Subsequent investigations
+Specific tests are only recommended if the clinical suspicion of an underlying secondary cause is high, as
+the majority of patients will have essential hypertension. These include:
+Blood tests
+• Plasma renin and aldosterone levels if hyperaldosteronism is suspected. Adrenal vein sampling to
+compare the ratio of renin to aldosterone in each kidney. A ratio >2 suggests an aldosterone-secreting
+tumor.[60] [61]
+• Plasma renin activity is elevated in most patients with renal artery stenosis and is a good screening
+test.[62] A renal angiogram is the most specific and sensitive test.[63]
+• Late-night salivary cortisol will be elevated in Cushing disease, and this can be confirmed with the
+overnight dexamethasone suppression test.[64]
+• Liver function tests may be a useful screening tool if chronic alcohol excess and liver dysfunction are
+suspected.
+• Thyroid function tests, if clinical history leads to suspicion of hyper- or hypothyroidism.[7]
+• Serum calcium levels can be measured if hyperparathyroidism is a possibility.
+Urine tests
+• 24-hour urine collection to measure: catecholamines to exclude a pheochromocytoma; protein levels
+in suspected preeclampsia or nephrotic syndrome. However, in the case of preeclampsia and nephritic
+syndrome, a spot urine creatinine ratio can offer comparable results.
+Imaging
+• Ultrasound of kidneys and adrenal glands: a unilateral small kidney would be suspicious of chronic
+pyelonephritis or renal artery stenosis (causing renal atresia). Bilateral shrunken kidneys are
+consistent with chronic renal failure. Hydronephrosis may confirm an obstructive cause. This could be
+followed by a computed tomography (CT) pyelogram if renal calculi are strongly suspected. Polycystic
+kidneys are easily visualized on abdominal ultrasound.
+• CT of adrenals: this can be used to localize a pheochromocytoma if urinary catecholamines are
+suggestive of the diagnosis.
+• Magnetic resonance imaging (MRI): can be used to investigate renal artery stenosis if a renal
+angiogram is contraindicated. It can identify and characterize an aortic coarctation, and be used
+16 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 17 ===
+Evaluation of hypertension Diagnosis
+to plan further treatment.[65] MRI is also useful for imaging the adrenals to localize a tumor in
+hyperaldosteronism or pheochromocytoma.
+Biopsy
+• Renal biopsy: this is a definitive test to elicit the underlying cause of nephrotic syndrome.
+Special tests for suspected obstructive sleep apnea/hypopnea syndrome (OSAHS)
+• For the screening of obstructive sleep apnea, the UK National Institute for Health and Care Excellence
+suggests considering the STOP-Bang Model.[36] This consists of a questionnaire asking about loud
+snoring, witnessed apneas, excessive daytime sleepiness, and hypertension combined with body
+mass index, age, neck circumference thresholds, plus sex.
+• The patient's level of daytime fatigue can be assessed using the Epworth Sleepiness Scale.[36] [66]
+[67] However, the American Heart Association recommend against its use as a screening tool, due to
+its low sensitivity (42%).[38]
+• Polysomnography is currently the definitive test. It includes electroencephalogram, electro-
+oculographic recording, air flow assessment, electromyogram, capnography, esophageal manometry,
+ECG, and pulse oximetry.[36]
+See Obstructive sleep apnea in adults .
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+17
+=== Page 18 ===
+Evaluation of hypertension Diagnosis
+DIAGNOSIS
+Differentials overview
+Common
+Essential hypertension
+Renal artery stenosis
+Chronic kidney disease
+Obstructive uropathy
+Obstructive sleep apnea/hypopnea syndrome
+Obesity hypoventilation syndrome
+Uncommon
+Coarctation of aorta
+Preeclampsia
+Glomerulonephritis
+Nephrotic syndrome
+Polycystic kidney disease
+Pheochromocytoma
+Hyperaldosteronism
+Cushing disease/syndrome
+Hyperthyroidism
+Hypothyroidism
+Hyperparathyroidism
+Chronic alcohol excess
+Medication
+Illicit drug use
+18 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 19 ===
+Evaluation of hypertension Diagnosis
+Uncommon
+"White-coat hypertension"
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+19
+=== Page 20 ===
+Evaluation of hypertension Diagnosis
+DIAGNOSIS
+Differentials
+Common
+◊ Essential hypertension
+History Exam 1st Test Other tests
+often asymptomatic;
+headaches, visual
+disturbance,
+nosebleeds, or
+neurologic symptoms
+possible
+may have signs of
+end organ damage;
+heave due to left
+ventricular hypertrophy,
+retinopathy, functional
+deficit following stroke;
+lack of signs to suggest
+a secondary cause
+»ECG: normal,
+evidence of previous
+MI or left axis deviation
+with left ventricular
+hypertrophy
+»BUN/creatinine:
+normal, or elevated with
+renal impairment
+»serum cholesterol:
+variable
+»random blood
+glucose: >8 mmol/L
+on nonfasting sample
+suggestive of comorbid
+diabetes and fasting
+blood sugar advised
+»urinalysis: may be
+normal
+Performed to check for
+glycosuria, proteinuria,
+and casts.
+◊ Renal artery stenosis
+History Exam 1st Test Other tests
+often asymptomatic;
+headaches, visual
+disturbance,
+nosebleeds, or
+neurologic symptoms
+possible; difficult-to-
+treat hypertension;
+peripheral vascular
+disease; may present
+with flash pulmonary
+edema
+bruit over the abdomen »plasma renin
+activity: elevated
+»renal angiogram:
+narrowing of renal
+artery
+»renal MRI: narrowing
+of renal artery
+20 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 21 ===
+Evaluation of hypertension Diagnosis
+Common
+◊ Chronic kidney disease
+History Exam 1st Test Other tests
+known renal
+impairment; usually
+asymptomatic;
+may present with
+headaches, visual
+disturbances,
+neurologic deficits (e.g.,
+transient ischemic
+attack or stroke),
+or nose bleeds,
+fatigue, nausea,
+anorexia; difficult-to-
+treat hypertension
+suggests possible renal
+cause[68]
+features of chronic
+renal failure: edema,
+arteriovenous fistulae,
+pale conjunctiva
+secondary to anemia
+»urinalysis:
+albuminuria, casts in
+the urine
+»BUN/creatinine:
+elevated creatinine and
+BUN
+»renal ultrasound:
+small kidneys
+◊ Obstructive uropathy
+History Exam 1st Test Other tests
+variable depending
+on cause; may report
+previous urethral
+instrumentation,
+flank pain with
+nephrolithiasis,
+hesitancy, frequency,
+and poor stream with
+prostatic enlargement
+variable; enlarged
+prostate on rectal
+exam, flank tenderness
+with renal calculi
+»renal ultrasound:
+may show
+hydronephrosis or small
+kidneys with resultant
+chronic renal failure
+»BUN/creatinine:
+elevated creatinine
+»noncontrast
+CT pyelogram:
+demonstrates renal
+calculi if present
+◊ Obstructive sleep apnea/hypopnea syndrome
+History Exam 1st Test Other tests
+sleeping for long
+periods of time, loud
+snoring, excessive
+daytime sleepiness,
+restless sleep, erectile
+dysfunction, morning
+headaches, GERD, and
+weight gain. Total score
+of ≥11 on Epworth
+sleepiness scale
+supports the diagnosis.
+maxillomandibular
+abnormalities,
+macroglossia
+»polysomnography:
+apnea/hypopnea index
+(AHI) ≥15 episodes/
+hour or AHI ≥5 events/
+hour with symptoms
+Polysomnography is the
+definitive test.[69]
+General parameters
+measured include
+electroencephalogram,
+electro-oculographic
+recording, air
+»fiberoptic
+endoscopy: may see
+nasal polyps or tumors,
+or hypertrophic lingual
+tonsils
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+21
+=== Page 22 ===
+Evaluation of hypertension Diagnosis
+DIAGNOSIS
+Common
+◊ Obstructive sleep apnea/hypopnea syndrome
+History Exam 1st Test Other tests
+flow assessment,
+electromyogram,
+capnography,
+esophageal
+manometry, ECG,
+pulse oximetry,
+respiratory effort
+signals, synchronized
+polysomnography
+video, and body
+position.[70]
+Polysomnography may
+be a full night study or a
+split study.
+»portable
+multichannel sleep
+tests: Respiratory
+Event Index (REI) of
+≥15 episodes/hour or
+REI ≥5 with symptoms
+Used for patients with
+higher probability
+of OSA and without
+complex comorbidities
+(e.g., cardiopulmonary
+disease, chronic
+opioid therapy, or
+neuromuscular
+disease).
+Portable tests
+typically include a
+smaller selection of
+channels than the
+polysomnogram (nasal
+pressure, oximetry,
+thoracoabdominal
+effort sensors, heart
+rate), but usually do not
+measure sleep.
+22 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 23 ===
+Evaluation of hypertension Diagnosis
+Common
+◊ Obstructive sleep apnea/hypopnea syndrome
+History Exam 1st Test Other tests
+Portable tests may
+underestimate the REI
+as obstructions are
+measured for recording
+time, not sleep time.
+◊ Obesity hypoventilation syndrome
+History Exam 1st Test Other tests
+obesity (BMI ≥30 kg/
+m²), dyspnea, nocturia,
+lower extremity edema,
+excessive daytime
+sleepiness, fatigue,
+loud disruptive snoring,
+witnessed apneas,
+waking headaches,
+unexplained
+polycythemia
+mild hypoxemia
+awake, with significant
+hypoxemia when
+asleep, awake daytime
+hypercapnia
+»serum bicarbonate:
+>24 mEq/L (>24 mmol/
+L)
+May be used to
+screen for the
+presence of alveolar
+hypoventilation, but
+does not confirm the
+diagnosis.
+Guidelines recommend
+serum bicarbonate
+levels for patients
+with low to moderate
+probability of having
+OHS (<20%) to decide
+when to measure
+PaCO₂.[71]
+»Arterial blood gas:
+PaCO₂ >45 mmHg
+Awake resting PaCO₂
+>45 mmHg at sea
+level (awake daytime
+hypercapnia), in the
+presence of obesity
+(BMI ≥30 kg/m²) and
+sleep disordered
+breathing defines
+OHS (after excluding
+other causes of
+hypoventilation).[71]
+»polysomnography:
+demonstrates
+hypoventilation,
+particularly during REM
+sleep
+Identifies associated
+obstructive sleep
+apnea in patients
+with OHS.[72] In
+addition, it may identify
+patients with OHS
+prior to developing
+awake elevations in
+PaCO₂.[73]
+General parameters
+measured include
+electroencephalogram,
+electro-oculographic
+recording, air
+flow assessment,
+electromyogram,
+capnography,
+esophageal
+manometry, ECG,
+pulse oximetry,
+respiratory effort
+signals, synchronized
+polysomnography
+video, and body
+position.[70]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+23
+=== Page 24 ===
+Evaluation of hypertension Diagnosis
+DIAGNOSIS
+Common
+◊ Obesity hypoventilation syndrome
+History Exam 1st Test Other tests
+Measure first in patients
+strongly suspected of
+having OHS to confirm
+the diagnosis.[37] 
+Uncommon
+Coarctation of aorta
+History Exam 1st Test Other tests
+often asymptomatic;
+headaches, visual
+disturbance,
+nosebleeds, or
+neurologic symptoms
+possible; cold legs,
+sweating
+disparity in the blood
+pressure readings
+between both arms
+(left arm typically 20
+mmHg lower than the
+right arm), radiofemoral
+delay, systolic or
+continuous murmurs
+over lateral chest wall,
+absence of pedal
+pulses
+»ECG: left ventricular
+hypertrophy
+»echocardiogram:
+left ventricular
+hypertrophy ± bicuspid
+aortic valve
+There is a 70%
+association between
+aortic coarctation and a
+bicuspid aortic valve.
+»chest x-ray: widening
+of left subclavian
+border, double bulge
+above and below the
+usual site of the aortic
+knuckle, rib notching
+due to collaterals
+»MRI scan of
+aorta: coarctation is
+clearly defined and
+used to plan further
+management
+Preeclampsia
+History Exam 1st Test Other tests
+pregnant woman,
+>20 weeks' gestation,
+usually >32 weeks,
+can be asymptomatic,
+may have facial or limb
+swelling, may have
+epigastric pain that
+radiates to the back
+newly elevated blood
+pressure >140/90
+mmHg on 2 readings 6
+hours apart, may have
+facial or limb pitting
+edema
+»urinalysis/24-hour
+urine collection:
+positive reagent strip
+test; urinary excretion
+of ≥300 mg of protein
+in 24 hours; or urine
+protein:creatinine
+ratio ≥30 mg/mmol;
+albumin:creatinine ratio
+of ≥8 mg/mmol; may be
+normal
+»fetal ultrasound:
+variable depending on
+severity; fetal biometry
+may reveal fetal growth
+restriction
+»coagulation screen:
+typically normal
+Usually normal
+in a woman with
+preeclampsia. May
+24 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 25 ===
+Evaluation of hypertension Diagnosis
+Uncommon
+Preeclampsia
+History Exam 1st Test Other tests
+The presence of
+proteinuria is no
+longer mandatory
+in the diagnosis
+of preeclampsia;
+systemic involvement
+or fetal growth
+restriction together
+with hypertension
+are enough to fulfil
+the diagnosis, even
+in the absence of
+proteinuria.[74] [75]
+»placental growth
+factor: low
+If available,
+measurement of
+maternal placental
+growth factor (between
+20 weeks and 36
+weeks and 6 days of
+pregnancy) may reduce
+time to diagnosis of
+preeclampsia, with
+consequent reduction
+in incidence of severe
+maternal adverse
+outcomes.[76] [77] [78]
+be abnormal with
+advanced disease
+affecting the liver, or
+in association with
+abruption.
+◊ Glomerulonephritis
+History Exam 1st Test Other tests
+nausea, malaise,
+weight loss, fever,
+features of underlying
+etiology (e.g.,
+arthralgia)
+edema with nephrotic
+features, hypervolemia,
+signs of underlying
+etiology; skin rash
+»urinalysis:
+dysmorphic red blood
+cells, subnephrotic
+proteinuria, and active
+sediment
+»24-hour urine
+collection: proteinuria
+is generally <3.5 g/day
+»renal biopsy:
+characteristic
+findings on light and
+immunofluorescence
+microscopy
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+25
+=== Page 26 ===
+Evaluation of hypertension Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Nephrotic syndrome
+History Exam 1st Test Other tests
+swelling of the legs,
+hands, face; foamy
+urine
+hypoalbuminemia,
+xanthelasma, edema
+»spot urinary
+albumin to
+creatinine ratio: >3.5
+This corresponds to a
+24-hour urine collection
+of 3.5 g of protein.[79]
+»urinary microscopy:
+cellular casts
+»renal biopsy:
+variable
+Used to establish
+underlying cause.
+◊ Polycystic kidney disease
+History Exam 1st Test Other tests
+hematuria, headaches,
+abdominal pain,
+elevated blood pressure
+often presenting feature
+in young patients (20 to
+34 years); family history
+of polycystic kidneys, or
+intracranial aneurysm,
+or subarachnoid
+hemorrhage
+palpable kidneys;
+hepatomegaly,
+inguinal, incisional, and
+paraumbilical hernias
+are not uncommon
+»renal ultrasound:
+30 years of age: at
+least 2 unilateral or
+bilateral cysts; 30-59
+years of age: 2 cysts in
+each kidney; >60 years
+of age: 4 cysts in each
+kidney
+»urinalysis:
+proteinuria, increased
+urinary albumin
+excretion, and
+hematuria are common
+Increased urinary
+albumin excretion
+indicates higher risk
+of progression to
+chronic kidney disease
+and correlates with a
+higher incidence of left
+ventricular hypertrophy.
+Pheochromocytoma
+History Exam 1st Test Other tests
+usually asymptomatic;
+may present with
+headaches, visual
+disturbances,
+neurologic deficits (e.g.,
+no specific
+findings, features of
+hypertension-mediated
+organ damage possible
+»urinary
+catecholamines,
+vanillylmandelic
+acid, and
+metanephrins: levels
+»CT or MRI of
+adrenals: localization
+of lesion if presence
+suggested by initial
+tests
+26 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 27 ===
+Evaluation of hypertension Diagnosis
+Uncommon
+Pheochromocytoma
+History Exam 1st Test Other tests
+transient ischemic
+attack or stroke), or
+nose bleeds, symptoms
+of the hyperadrenergic
+state: palpitations,
+panic attacks, cold
+clammy skin, pallor,
+abdominal cramps[80]
+twice the laboratory
+reference range are
+suggestive
+»plasma
+metanephrins: levels
+twice the laboratory
+reference range are
+suggestive
+Very sensitive, but less
+specific than urinary
+levels.[81]
+◊ Hyperaldosteronism
+History Exam 1st Test Other tests
+usually asymptomatic
+(patients are typically
+normokalemic); if
+serum potassium
+is low: headaches,
+tiredness, nocturia,
+paresthesiae, muscle
+cramps, palpitations
+no specific
+findings, features of
+hypertension-mediated
+organ damage possible
+»plasma potassium:
+normal; low, <3.0 mmol/
+L in 20% of patients
+Potassium can be
+falsely low with the use
+of diuretics.[60]
+»plasma renin
+activity: decreased
+The test has to be
+strictly standardized
+and done under
+specific conditions.
+Measurement should
+be done at 8 a.m. and
+the patient should have
+been strictly recumbent
+or upright for at least 2
+hours. The blood must
+be transported rapidly
+at room temperature
+to the laboratory. If
+the samples are to be
+stored for batch testing,
+they should be rapidly
+centrifuged and frozen,
+»CT or MRI of
+adrenals: localization
+of adenoma/tumor
+»adrenal vein
+sampling: aldosterone
+to cortisol ratio
+>2 between sides
+suggestive of
+aldosterone-secreting
+tumor
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+27
+=== Page 28 ===
+Evaluation of hypertension Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Hyperaldosteronism
+History Exam 1st Test Other tests
+to prevent degradation
+of the molecule.[82]
+◊ Cushing disease/syndrome
+History Exam 1st Test Other tests
+psychiatric symptoms,
+weight gain, hirsutism,
+easy bruisability,
+decreased libido
+supraclavicular fullness
+due to fat deposition,
+facial plethora,
+violaceous striae
+»late-night salivary
+cortisol: elevated
+»1 mg overnight
+dexamethasone
+suppression test:
+>1.8 microgram/dL
+Patient given 1 mg at
+11 p.m. and cortisol
+measured at 8 a.m.
+the next morning.
+Results affected by
+medications known to
+alter dexamethasone
+metabolism, such
+as phenytoin,
+carbamazepine, and
+rifampicin.
+»24-hour urinary
+free cortisol: >50
+micrograms/24 hours
+◊ Hyperthyroidism
+History Exam 1st Test Other tests
+heat intolerance,
+sweating, weight loss,
+palpitations, tremor
+tachycardia, proptosis,
+exophthalmos, cardiac
+flow murmur
+»thyroid-stimulating
+hormone: suppressed
+Initial screening
+test. A lower-than-
+normal value suggests
+hyperthyroidism. Any
+level <0.1 mIU/L may
+be associated with
+symptoms; however,
+clinically hyperthyroid
+28 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 29 ===
+Evaluation of hypertension Diagnosis
+Uncommon
+◊ Hyperthyroidism
+History Exam 1st Test Other tests
+patients will have
+undetectable levels
+≤0.02 mIU/L on highly
+sensitive assays.
+»serum free T4:
+elevated above normal
+range
+»serum free or total
+T3: elevated above
+normal range
+◊ Hypothyroidism
+History Exam 1st Test Other tests
+weight gain,
+lethargy, depression,
+constipation
+dry skin, bradycardia,
+thick tongue, eyelid
+edema
+»serum thyroid-
+stimulating
+hormone: elevated
+above normal range
+»free serum T4: below
+normal range
+◊ Hyperparathyroidism
+History Exam 1st Test Other tests
+fatigue, anxiety,
+depression, bone pain,
+paresthesiae, myalgia
+band keratopathy
+(deposition of calcium
+just inside the iris
+on eye exam), fibro-
+osseous jaw tumors on
+palpation (uncommon)
+»serum calcium:
+elevated
+If high-normal and high
+suspicion, should be
+rechecked on separate
+day after fasting.
+Diagnosis only requires
+elevated serum calcium
+and intact serum PTH
+levels. Fasting and
+avoidance of venous
+stasis in blood draw will
+aid in accuracy.
+»serum PTH levels:
+normal or elevated
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+29
+=== Page 30 ===
+Evaluation of hypertension Diagnosis
+DIAGNOSIS
+Uncommon
+◊ Chronic alcohol excess
+History Exam 1st Test Other tests
+central nervous
+system excitability on
+withdrawal of alcohol,
+dependency behavior,
+tolerance; social,
+economic, or legal
+problems
+jaundice,
+hepatomegaly,
+evidence of cirrhosis;
+spider nevi, ascites
+»diagnostic
+interview: Structured
+Clinical Interview
+for DSM (SCID) can
+be administered by
+nonclinicians and can
+replace a psychiatric
+interview; at least 2 of
+the 11 DSM-5 criteria
+for alcohol use disorder
+must be present
+»gamma glutamyl
+transferase, alanine
+aminotransferase,
+and aspartate
+aminotransferase:
+elevated
+◊ Medication
+History Exam 1st Test Other tests
+chronic use of
+nonsteroidal anti-
+inflammatory drugs
+or current use of
+oral contraceptives,
+glucocorticoids,
+cyclosporine, atypical
+antipsychotics, or
+vascular endothelial
+growth factor receptor
+tyrosine kinase
+inhibitors
+no specific exam
+findings
+»trial
+discontinuation of
+medication: elevated
+blood pressure resolves
+If oral contraceptive
+is discontinued,
+alternative
+contraceptive options
+should be discussed.
+Illicit drug use
+History Exam 1st Test Other tests
+history of use of
+vasoactive illicit
+drug (e.g., cocaine,
+methamphetamine)
+and/or noncompliance
+with prescribed
+medications;
+nervousness,
+restlessness,
+constricted or dilated
+pupils, cold extremities,
+tachycardia;
+nervousness,
+restlessness,
+tremors, anxiety,
+and irritability; rise in
+body temperature/
+hyperthermia;
+»urinary toxicology:
+positive for illicit drug
+(e.g., cocaine or
+methamphetamine)
+Usually available by
+contacting the local
+poisons unit.
+30 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 31 ===
+Evaluation of hypertension Diagnosis
+Uncommon
+Illicit drug use
+History Exam 1st Test Other tests
+tremors, anxiety,
+irritability; hostility and
+exaggerated strength;
+headache; abdominal
+pains; hallucinations,
+convulsions, delirium,
+unconsciousness,
+seizures
+enhanced reflexes;
+irregular respiration
+»serum toxicology:
+positive for illicit drug
+(e.g., cocaine or
+methamphetamine)
+Usually available by
+contacting the local
+poisons unit.
+◊ "White-coat hypertension"
+History Exam 1st Test Other tests
+asymptomatic, elevated
+blood pressure
+readings in clinic
+but normal readings
+at home or outside
+hospital environment
+no evidence of end
+organ damage as
+hypertension is not
+sustained outside
+clinical environment
+»24-hour blood
+pressure
+monitoring: normal
+"White-coat
+hypertension" is
+recognized as a rise in
+blood pressure when
+measured in the clinical
+environment while
+remaining normal at
+other times. Usually
+due to anxiety.
+These patients need
+close follow-up, as
+it has been shown
+that untreated white-
+coat hypertension
+is associated
+with an increased
+cardiovascular risk.[42]
+DIAGNOSIS
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+31
+=== Page 32 ===
+Evaluation of hypertension Online resources
+ONLINE RESOURCES
+Online resources
+1. BMJ Best Practice Podcast: hypertension (external link) (https://soundcloud.com/bmjpodcasts/bmj-
+best-practice-hypertension-everything-you-need-to-know-about-the-new-2017-ahaacc-guidelines)
+2. ACC: ASCVD Risk Estimator Plus (external link) (http://tools.acc.org/ASCVD-Risk-Estimator-Plus/#!/
+calculate/estimate)
+32 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 33 ===
+Evaluation of hypertension References
+Key articles
+• Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/
+ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood
+pressure in adults. J Am Coll Cardiol. 2018 May 15;71(19):e127-248. Abstract
+• James PA, Oparil S, Carter BL, et al. 2014 evidence-based guideline for the management of high
+blood pressure in adults: report from the panel members appointed to the Eighth Joint National
+Committee (JNC 8). JAMA. 2014 Feb 5;311(5):507-20.  Full text (http://jama.jamanetwork.com/
+article.aspx?articleid=1791497)   Abstract
+• McEvoy JW, McCarthy CP, Bruno RM, et al. 2024 ESC guidelines for the management of elevated
+blood pressure and hypertension. Eur Heart J. 2024 Oct 7;45(38):3912-4018.  Full text (https://
+academic.oup.com/eurheartj/article/45/38/3912/7741010)
+• National Institute for Health and Care Excellence. Hypertension in adults: diagnosis and management.
+Nov 2023 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng136)
+• Waguespack DR, Dwyer JP. Assessment of blood pressure: techniques and implications from clinical
+trials. Adv Chronic Kidney Dis. 2019 Mar;26(2):87-91. Abstract
+References
+1. Lip GY. Hypertension, platelets, and the endothelium: the "thrombotic paradox" of hypertension
+(or "Birmingham paradox") revisited. Hypertension. 2003 Feb;41(2):199-200.  Full text (http://
+hyper.ahajournals.org/cgi/content/full/41/2/199)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/12574081?tool=bestpractice.bmj.com)
+2. Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/
+ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high
+blood pressure in adults. J Am Coll Cardiol. 2018 May 15;71(19):e127-248. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/29146535?tool=bestpractice.bmj.com)
+3. Chobanian AV, Bakris GL, Black HR, et al. The seventh report of the Joint National Committee
+on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure: the JNC 7 report.
+JAMA. 2003 May 21;289(19):2560-72. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12748199?
+tool=bestpractice.bmj.com)
+4. James PA, Oparil S, Carter BL, et al. 2014 evidence-based guideline for the management of high
+blood pressure in adults: report from the panel members appointed to the Eighth Joint National
+Committee (JNC 8). JAMA. 2014 Feb 5;311(5):507-20.  Full text (http://jama.jamanetwork.com/
+article.aspx?articleid=1791497)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/24352797?
+tool=bestpractice.bmj.com)
+5. Khera R, Lu Y, Lu J, et al. Impact of 2017 ACC/AHA guidelines on prevalence of hypertension and
+eligibility for antihypertensive treatment in United States and China: nationally representative cross
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+33
+=== Page 34 ===
+Evaluation of hypertension References
+REFERENCES
+sectional study. BMJ. 2018 Jul 11;362:k2357.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC6039831)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29997129?tool=bestpractice.bmj.com)
+6. SPRINT Research Group; Wright JT Jr, Williamson JD, Whelton PK, et al. A randomized trial of
+intensive versus standard blood-pressure control. N Engl J Med. 2015 Nov 26;373(22):2103-16.  Full
+text (https://www.nejm.org/doi/10.1056/NEJMoa1511939)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26551272?tool=bestpractice.bmj.com)
+7. McEvoy JW, McCarthy CP, Bruno RM, et al. 2024 ESC guidelines for the management of elevated
+blood pressure and hypertension. Eur Heart J. 2024 Oct 7;45(38):3912-4018.  Full text (https://
+academic.oup.com/eurheartj/article/45/38/3912/7741010)
+8. National Institute for Health and Care Excellence. Hypertension in adults: diagnosis and management.
+Nov 2023 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng136)
+9. Carey RM, Calhoun DA, Bakris GL, et al. Resistant hypertension: detection, evaluation, and
+management: a scientific statement from the American Heart Association. Hypertension. 2018
+Nov;72(5):e53-90.  Full text (https://www.ahajournals.org/doi/full/10.1161/HYP.0000000000000084)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30354828?tool=bestpractice.bmj.com)
+10. NCD Risk Factor Collaboration (NCD-RisC). Worldwide trends in hypertension prevalence and
+progress in treatment and control from 1990 to 2019: a pooled analysis of 1201 population-
+representative studies with 104 million participants. Lancet. 2021 Sep 11;398(10304):957-80.  Full text
+(https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01330-1/fulltext)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34450083?tool=bestpractice.bmj.com)
+11. Martin SS, Aday AW, Almarzooq ZI, et al. 2024 heart disease and stroke statistics: a report of US and
+global data from the American Heart Association. 2024 Feb 20;149(8):e347-913.  Full text (https://
+www.ahajournals.org/doi/full/10.1161/CIR.0000000000001209)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/38264914?tool=bestpractice.bmj.com)
+12. Falaschetti E, Mindell J, Knott C, et al. Hypertension management in England: a serial cross-
+sectional study from 1994 to 2011. Lancet. 2014 May 31;383(9932):1912-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/24881995?tool=bestpractice.bmj.com)
+13. Lacruz ME, Kluttig A, Hartwig S, et al. Prevalence and incidence of hypertension in the general adult
+population: results of the CARLA-cohort study. Medicine (Baltimore). 2015 Jun;94(22):e952.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4616348)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/26039136?tool=bestpractice.bmj.com)
+14. Mills KT, Bundy JD, Kelly TN, et al. Global disparities of hypertension prevalence and control:
+a systematic analysis of population-based studies from 90 countries. Circulation. 2016 Aug
+9;134(6):441-50.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4979614)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/27502908?tool=bestpractice.bmj.com)
+15. Thomas SJ, Booth JN 3rd, Dai C, et al. Cumulative incidence of hypertension by 55 years of
+age in blacks and whites: the CARDIA study. J Am Heart Assoc. 2018 Jul 11;7(14).  Full text
+34 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 35 ===
+Evaluation of hypertension References
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064834)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/29997132?tool=bestpractice.bmj.com)
+16. Ogden LG, He J, Lydick E, et al. Long-term absolute benefit of lowering blood pressure in hypertensive
+patients according to the JNC VI risk stratification. Hypertension. 2000 Feb;35(2):539-43.  Full
+text (http://hyper.ahajournals.org/cgi/content/full/35/2/539)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10679494?tool=bestpractice.bmj.com)
+17. D'Anci KE, Tipton K, Hedden-Gross A, et al. Effect of intensive blood pressure lowering on
+cardiovascular outcomes: a systematic review prepared for the 2020 U.S. Department of Veterans
+Affairs/U.S. Department of Defense Guidelines. Ann Intern Med. 2020 Dec 1;173(11):895-903.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32866419?tool=bestpractice.bmj.com)
+18. Nadar SK, Tayebjee MH, Meserelli F, et al. Target organ damage in hypertension: pathophysiology
+and implications for drug therapy. Curr Pharm Des. 2006;12(13):1581-92. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16729871?tool=bestpractice.bmj.com)
+19. Lewington S, Clarke R, Qizilbash N, et al. Age-specific relevance of usual blood pressure to vascular
+mortality: a meta-analysis of individual data for one million adults in 61 prospective studies. Lancet.
+2002 Dec 14;360(9349):1903-13. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/12493255?
+tool=bestpractice.bmj.com)
+20. Blair SN, Goodyear NN, Gibbons LW, et al. Physical fitness and incidence of hypertension in
+healthy normotensive men and women. JAMA. 1984 Jul 27;252(4):487-90. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/6737638?tool=bestpractice.bmj.com)
+21. Gerdts E, Sudano I, Brouwers S, et al. Sex differences in arterial hypertension. Eur Heart J. 2022
+Dec 7;43(46):4777-88.  Full text (https://academic.oup.com/eurheartj/article/43/46/4777/6711154?
+login=false)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/36136303?tool=bestpractice.bmj.com)
+22. Wei LK, Au A, Teh LK, et al. Recent advances in the genetics of hypertension. Adv Exp
+Med Biol. 2017;956:561-81. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27957710?
+tool=bestpractice.bmj.com)
+23. Appel LJ, Moore TJ, Obarzanek E, et al. A clinical trial of the effects of dietary patterns on blood
+pressure. DASH Collaborative Research Group. N Eng J Med. 1997 Apr 17;336(16):1117-24.  Full text
+(https://www.nejm.org/doi/10.1056/NEJM199704173361601)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/9099655?tool=bestpractice.bmj.com)
+24. Chobanian AV, Hill M. National Heart, Lung, and Blood Institute workshop on sodium and blood
+pressure. A critical review of current scientific evidence. Hypertension. 2000 Apr;35(4):858-63.  Full
+text (http://hyper.ahajournals.org/cgi/content/full/35/4/858)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/10775551?tool=bestpractice.bmj.com)
+25. Rust P, Ekmekcioglu C. Impact of salt intake on the pathogenesis and treatment of hypertension.
+Adv Exp Med Biol. 2017;956:61-84. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27757935?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+35
+=== Page 36 ===
+Evaluation of hypertension References
+REFERENCES
+26. Powell-Wiley TM, Poirier P, Burke LE, et al. Obesity and cardiovascular disease: a scientific
+statement from the American Heart Association. Circulation. 2021 May 25;143(21):e984-1010. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000973?rfr_dat=cr_pub
+++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33882682?tool=bestpractice.bmj.com)
+27. Bravo EL, Gifford RW Jr. Current concepts. Pheochromocytoma: diagnosis, localization and
+management. N Engl J Med. 1984 Nov 15;311(20):1298-303. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/6149463?tool=bestpractice.bmj.com)
+28. Carey RM. Diagnosing and managing primary aldosteronism in hypertensive patients: a case-
+based approach. Curr Cardiol Rep. 2016 Oct;18(10):97. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/27566330?tool=bestpractice.bmj.com)
+29. Rivas AM, Pena C, Kopel J, et al. Hypertension and hyperthyroidism: association and pathogenesis.
+Am J Med Sci. 2021 Jan;361(1):3-7. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/33012487?
+tool=bestpractice.bmj.com)
+30. Young WF, Calhoun DA, Lenders JWM, et al. Screening for endocrine hypertension: an endocrine
+society scientific statement. Endocrine Reviews. 2017 Apr 1; 38 (2): 103-22.  Full text (https://
+academic.oup.com/edrv/article/38/2/103/3104343)
+31. Streeten DH, Anderson GH Jr, Howland T, et al. Effects of thyroid function on blood pressure.
+Recognition of hypothyroid hypertension. Hypertension. 1988 Jan;11(1):78-83.  Full text (https://
+www.ahajournals.org/doi/10.1161/01.hyp.11.1.78)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/3338842?tool=bestpractice.bmj.com)
+32. Hofstetter L, Messerli FH. Hypothyroidism and hypertension: fact or myth? Lancet. 2018
+Jan 6;391(10115):29-30.  Full text (https://www.thelancet.com/journals/lancet/article/
+PIIS0140-6736(17)33320-2/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29323654?
+tool=bestpractice.bmj.com)
+33. Stabouli S, Papakatsika S, Kotsis V. Hypothyroidism and hypertension. Expert Rev Cardiovasc
+Ther. 2010 Nov;8(11):1559-65. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21090931?
+tool=bestpractice.bmj.com)
+34. Berta E, Lengyel I, Halmi S, et al. Hypertension in thyroid disorders. Front Endocrinol (Lausanne).
+2019 Jul 17;10:482.  Full text (https://doi.org/10.3389/fendo.2019.00482)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31379748?tool=bestpractice.bmj.com)
+35. Meng F, Ma J, Wang W, et al. Obstructive sleep apnea syndrome is a risk factor of hypertension.
+Minerva Med. 2016 Oct;107(5):294-9. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/27163297?
+tool=bestpractice.bmj.com)
+36. National Institute for Health and Care Excellence. Obstructive sleep apnoea/hypopnoea syndrome and
+obesity hypoventilation syndrome in over 16s. NICE guideline NG202. Aug 2021 [internet publication]. 
+Full text (https://www.nice.org.uk/guidance/ng202)
+36 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 37 ===
+Evaluation of hypertension References
+37. Mokhlesi B, Masa JF, Brozek JL, et al. Evaluation and Management of Obesity Hypoventilation
+Syndrome. An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care
+Med. 2019 Aug 1;200(3):e6-e24.  Full text (https://www.doi.org/10.1164/rccm.201905-1071ST)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31368798?tool=bestpractice.bmj.com)
+38. Yeghiazarians Y, Jneid H, Tietjens JR, et al. Obstructive sleep apnea and cardiovascular disease:
+a scientific tatement from the American Heart Association. Circulation. 2021 Jul 20;144(3):e56-67. 
+Full text (https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000988?rfr_dat=cr_pub
+++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/34148375?tool=bestpractice.bmj.com)
+39. Tomson J, Lip GY. Alcohol and hypertension; an old relationship revisited. Alcohol Alcohol. 2006
+Jan-Feb;41(1):3-4.  Full text (http://alcalc.oxfordjournals.org/cgi/content/full/41/1/3)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/16239351?tool=bestpractice.bmj.com)
+40. Vitarello JA, Fitzgerald CJ, Cluett JL, et al. Prevalence of medications that may raise blood pressure
+among adults with hypertension in the United States. JAMA Intern Med. 2022 Jan 1;182(1):90-3.  Full
+text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8609458)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34807229?tool=bestpractice.bmj.com)
+41. Dobbin SJH, Cameron AC, Petrie MC, et al. Toxicity of cancer therapy: what the cardiologist needs
+to know about angiogenesis inhibitors. Heart. 2018 Dec;104(24):1995-2002. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30228246?tool=bestpractice.bmj.com)
+42. Cohen JB, Lotito MJ, Trivedi UK, et al. Cardiovascular events and mortality in white coat hypertension:
+a systematic review and meta-analysis. Ann Intern Med. 2019 Jun 18;170(12):853-62.  Full text
+(https://www.doi.org/10.7326/M19-0223)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/31181575?
+tool=bestpractice.bmj.com)
+43. Elliot WJ. Clinical features and management of selected hypertensive emergencies. J Clin Hypertens
+(Greenwich). 2004 Oct;6(10):587-92. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15470289?
+tool=bestpractice.bmj.com)
+44. Lip GY, Beevers M, Beevers G. The failure of malignant hypertension to decline: a survey of 24 years'
+experience in a multiracial population in England. J Hypertens. 1994 Nov;12(11):1297-305. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/7868878?tool=bestpractice.bmj.com)
+45. van den Born BJ, Koopmans RP, Groeneveld JO, et al. Ethnic disparities in the incidence, presentation
+and complications of malignant hypertension. J Hypertens. 2006 Nov;24(11):2299-304. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/17053554?tool=bestpractice.bmj.com)
+46. Waguespack DR, Dwyer JP. Assessment of blood pressure: techniques and implications from
+clinical trials. Adv Chronic Kidney Dis. 2019 Mar;26(2):87-91. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/31023452?tool=bestpractice.bmj.com)
+47. Gelfer M, Dawes M, Kaczorowski J, et al. Diagnosing hypertension: evidence supporting the 2015
+recommendations of the Canadian Hypertension Education Program. Can Fam Physician. 2015
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+37
+=== Page 38 ===
+Evaluation of hypertension References
+REFERENCES
+Nov;61(11):957-61.  Full text (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4642903)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/26564654?tool=bestpractice.bmj.com)
+48. Clark CE, Taylor RS, Shore AC, et al. Association of a difference in systolic blood pressure
+between arms with vascular disease and mortality: a systematic review and meta-analysis. Lancet.
+2012 Mar 10;379(9819):905-14. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/22293369?
+tool=bestpractice.bmj.com)
+49. Roerecke M, Kaczorowski J, Myers MG. Comparing automated office blood pressure readings with
+other methods of blood pressure measurement for identifying patients with possible hypertension:
+a systematic review and meta-analysis. JAMA Intern Med. 2019 Mar 1;179(3):351-62.  Full text
+(https://www.doi.org/10.1001/jamainternmed.2018.6551)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30715088?tool=bestpractice.bmj.com)
+50. Boonyasai RT, McCannon EL, Landavaso JE. Automated office-based blood pressure measurement:
+an overview and guidance for implementation in primary care. Curr Hypertens Rep. 2019
+Apr 4;21(4):29.  Full text (https://www.doi.org/10.1007/s11906-019-0936-9)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/30949872?tool=bestpractice.bmj.com)
+51. Cloutier L, Daskalopoulou SS, Padwal RS, et al. A new algorithm for the diagnosis of hypertension
+in Canada. Can J Cardiol. 2015 May;31(5):620-30.  Full text (https://www.sciencedirect.com/
+science/article/pii/S0828282X15001282?via%3Dihub)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/25828374?tool=bestpractice.bmj.com)
+52. Stergiou GS, Bliziotis IA. Home blood pressure monitoring in the diagnosis and treatment of
+hypertension: a systematic review. Am J Hypertens. 2011 Feb;24(2):123-34. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/20940712?tool=bestpractice.bmj.com)
+53. Parati G, Stergiou GS, Asmar R, et al; ESH Working Group on Blood Pressure Monitoring.
+European Society of Hypertension practice guidelines for home blood pressure monitoring. J Hum
+Hypertens. 2010 Dec;24(12):779-85. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/20520631?
+tool=bestpractice.bmj.com)
+54. Agarwal R, Bills JE, Hecht TJ, et al. Role of home blood pressure monitoring in overcoming
+therapeutic inertia and improving hypertension control: a systematic review and meta-analysis.
+Hypertension. 2011 Jan;57(1):29-38. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21115879?
+tool=bestpractice.bmj.com)
+55. Stergiou GS, Palatini P, Parati G, et al. 2021 European Society of Hypertension
+practice guidelines for office and out-of-office blood pressure measurement. J
+Hypertens. 2021 Jul 1;39(7):1293-302.  Full text (https://journals.lww.com/jhypertension/
+fulltext/2021/07000/2021_european_society_of_hypertension_practice.5.aspx)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/33710173?tool=bestpractice.bmj.com)
+56. Hodgkinson J, Mant J, Martin U, et al. Relative effectiveness of clinic and home blood pressure
+monitoring compared with ambulatory blood pressure monitoring in diagnosis of hypertension:
+systematic review. BMJ. 2011 Jun 24;342:d3621.  Full text (http://www.bmj.com/content/342/
+38 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 39 ===
+Evaluation of hypertension References
+bmj.d3621?view=long&pmid=21705406)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/21705406?
+tool=bestpractice.bmj.com)
+57. U.S. Preventive Services Task Force. Hypertension in adults: screening. April 2021 [internet
+publication].  Full text (https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/
+hypertension-in-adults-screening)
+58. Cuspidi C, Vaccarella A, Negri F, et al. Resistant hypertension and left ventricular hypertrophy: an
+overview. J Am Soc Hypertens. 2010 Nov-Dec;4(6):319-24. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/21130978?tool=bestpractice.bmj.com)
+59. Simundic AM, Bölenius K, Cadamuro J, et al. Joint EFLM-COLABIOCLI recommendation for venous
+blood sampling. Clin Chem Lab Med. 2018;56(12):2015-38. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/30004902?tool=bestpractice.bmj.com)
+60. Nadar S, Lip GY, Beevers DG. Primary hyperaldosteronism. Ann Clin Biochem. 2003 Sep;40(pt
+5):439-52. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14503982?tool=bestpractice.bmj.com)
+61. Rossi GP, Sacchetto A, Chiesura-Corona M, et al. Identification of the etiology of primary
+aldosteronism with adrenal vein sampling in patients with equivocal computed tomography
+and magnetic resonance findings: results in 104 consecutive cases. J Clin Endocrinol
+Metab. 2001 Mar;86(3):1083-90. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/11238490?
+tool=bestpractice.bmj.com)
+62. Textor SC. Renovascular hypertension in 2007: where are we now? Curr Cardiol Rep. 2007
+Nov;9(6):453-61. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/17999870?tool=bestpractice.bmj.com)
+63. Working Group on Renovascular Hypertension. Detection, evaluation, and treatment of
+renovascular hypertension. Final report. Arch Intern Med. 1987 May;147(5):820-9. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/2953317?tool=bestpractice.bmj.com)
+64. Fleseriu M, Auchus R, Bancos I, et al. Consensus on diagnosis and management of Cushing's
+disease: a guideline update. Lancet Diabetes Endocrinol. 2021 Dec;9(12):847-75.  Full text
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743006)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/34687601?tool=bestpractice.bmj.com)
+65. Brueck M, Janka R, Daniel WG. Coarctation of the aorta. Circulation. 2001 Feb 13;103(6):E27.  Full
+text (http://circ.ahajournals.org/cgi/content/full/103/6/e27)   Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/11171804?tool=bestpractice.bmj.com)
+66. Nguyen AT, Baltzan MA, Small D, et al. Clinical reproducibility of the Epworth Sleepiness Scale. J Clin
+Sleep Med. 2006 Apr 15;2(2):170-4.  Full text (https://pubmed.ncbi.nlm.nih.gov/17557491)   Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/17557491?tool=bestpractice.bmj.com)
+67. Rosenthal LD, Dolan DC. The Epworth sleepiness scale in the identification of obstructive
+sleep apnea. J Nerv Ment Dis. 2008 May;196(5):429-31.  Full text (https://www.doi.org/10.1097/
+NMD.0b013e31816ff3bf)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/18477888?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+39
+=== Page 40 ===
+Evaluation of hypertension References
+REFERENCES
+68. Sarafidis PA, Bakris GL. Resistant hypertension: an overview of evaluation and treatment. J Am Coll
+Cardiol. 2008 Nov 25;52(22):1749-57. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/19022154?
+tool=bestpractice.bmj.com)
+69. Gibson GJ. Obstructive sleep apnoea syndrome: underestimated and undertreated. Br Med Bull.
+2005 Mar 29:72:49-65.  Full text (https://academic.oup.com/bmb/article/72/1/49/272854?login=false)  
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/15798032?tool=bestpractice.bmj.com)
+70. American Academy of Sleep Medicine. The AASM manual for the scoring of sleep and associated
+events. Feb 2023 [internet publication].  Full text (https://aasm.org/clinical-resources/scoring-manual)
+71. Erratum: evaluation and management of obesity hypoventilation syndrome. An official
+American Thoracic Society clinical practice guideline. Am J Respir Crit Care Med. 2019 Nov
+15;200(10):1326.  Full text (https://www.atsjournals.org/doi/10.1164/rccm.v200erratum7?
+url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)   Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/31729906?tool=bestpractice.bmj.com)
+72. Mokhlesi B, Tulaimat A, Faibussowitsch I, et al. Obesity hypoventilation syndrome: prevalence and
+predictors in patients with obstructive sleep apnea. Sleep Breath. 2007 Jun;11(2):117-24. Abstract
+(http://www.ncbi.nlm.nih.gov/pubmed/17187265?tool=bestpractice.bmj.com)
+73. Sivam S, Yee B, Wong K, et al. Obesity hypoventilation syndrome: early detection of nocturnal-only
+hypercapnia in an obese population. J Clin Sleep Med. 2018 Sep 15;14(9):1477-84.  Full text (https://
+jcsm.aasm.org/doi/10.5664/jcsm.7318)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30176974?
+tool=bestpractice.bmj.com)
+74. Gestational hypertension and preeclampsia: ACOG practice bulletin, number 222. Obstet
+Gynecol. 2020 Jun;135(6):e237-60. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/32443079?
+tool=bestpractice.bmj.com)
+75. Brown MA, Magee LA, Kenny LC, et al. The hypertensive disorders of pregnancy: ISSHP
+classification, diagnosis & management recommendations for international practice. Pregnancy
+Hypertens. 2018 Jul;13:291-310. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/29803330?
+tool=bestpractice.bmj.com)
+76. National Institute for Health and Care Excellence. PLGF-based testing to help diagnose suspected
+preterm pre-eclampsia. Jul 2022 [internet publication].  Full text (https://www.nice.org.uk/guidance/
+dg49)
+77. Duhig KE, Myers J, Seed PT, et al. Placental growth factor testing to assess women with suspected
+pre-eclampsia: a multicentre, pragmatic, stepped-wedge cluster-randomised controlled trial. Lancet.
+2019 May 4;393(10183):1807-18.  Full text (https://www.thelancet.com/journals/lancet/article/
+PIIS0140-6736(18)33212-4/fulltext)   Abstract (http://www.ncbi.nlm.nih.gov/pubmed/30948284?
+tool=bestpractice.bmj.com)
+78. National Institute for Health and Care Excellence. Hypertension in pregnancy: diagnosis and
+management. Apr 2023 [internet publication].  Full text (https://www.nice.org.uk/guidance/ng133)
+40 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 41 ===
+Evaluation of hypertension References
+79. Radbill B, Murphy B, LeRoith D. Rationale and strategies for early detection and management
+of diabetic kidney disease. Mayo Clin Proc. 2008 Dec;83(12):1373-81. Abstract (http://
+www.ncbi.nlm.nih.gov/pubmed/19046557?tool=bestpractice.bmj.com)
+80. Adler JT, Meyer-Rochow GY, Chen H, et al. Pheochromocytoma: current approaches and
+future directions. Oncologist. 2008 Jul;13(7):779-93. Abstract (http://www.ncbi.nlm.nih.gov/
+pubmed/18617683?tool=bestpractice.bmj.com)
+81. Kudva YC, Sawka AM, Young WF Jr. Clinical review 164. The laboratory diagnosis of adrenal
+pheochromocytoma: the Mayo Clinic experience. J Clin Endocrinol Metab. 2003 Oct;88(10):4533-9.
+Abstract (http://www.ncbi.nlm.nih.gov/pubmed/14557417?tool=bestpractice.bmj.com)
+82. Laragh JH. Renin profiling for diagnosis, risk assessment, and treatment of hypertension.
+Kidney Int. 1993 Nov;44(5):1163-75. Abstract (http://www.ncbi.nlm.nih.gov/pubmed/8264150?
+tool=bestpractice.bmj.com)
+REFERENCES
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+41
+=== Page 42 ===
+Evaluation of hypertension Images
+IMAGES
+Images
+Figure 1: Hypertensive retinopathy
+From the collection of Sunil Nadar, MBBS, FRCP, FESC, FACC and Gregory Lip, MD, FRCP, FESC, FACC
+42 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 43 ===
+Evaluation of hypertension Disclaimer
+Disclaimer
+BMJ Best Practice is intended for licensed medical professionals. BMJ Publishing Group Ltd (BMJ) does not
+advocate or endorse the use of any drug or therapy contained within this publication nor does it diagnose
+patients. As a medical professional you retain full responsibility for the care and treatment of your patients
+and you should use your own clinical judgement and expertise when using this product.
+This content is not intended to cover all possible diagnosis methods, treatments, follow up, drugs and any
+contraindications or side effects. In addition, since such standards and practices in medicine change as
+new data become available, you should consult a variety of sources. We strongly recommend that you
+independently verify specified diagnosis, treatments and follow-up and ensure it is appropriate for your
+patient within your region. In addition, with respect to prescription medication, you are advised to check the
+product information sheet accompanying each drug to verify conditions of use and identify any changes in
+dosage schedule or contraindications, particularly if the drug to be administered is new, infrequently used, or
+has a narrow therapeutic range. You must always check that drugs referenced are licensed for the specified
+use and at the specified doses in your region.
+Information included in BMJ Best Practice is provided on an “as is” basis without any representations,
+conditions or warranties that it is accurate and up to date. BMJ and its licensors and licensees assume no
+responsibility for any aspect of treatment administered to any patients with the aid of this information. To
+the fullest extent permitted by law, BMJ and its licensors and licensees shall not incur any liability, including
+without limitation, liability for damages, arising from the content. All conditions, warranties and other terms
+which might otherwise be implied by the law including, without limitation, the warranties of satisfactory
+quality, fitness for a particular purpose, use of reasonable care and skill and non-infringement of proprietary
+rights are excluded.
+Where BMJ Best Practice has been translated into a language other than English, BMJ does not warrant the
+accuracy and reliability of the translations or the content provided by third parties (including but not limited to
+local regulations, clinical guidelines, terminology, drug names and drug dosages). BMJ is not responsible for
+any errors and omissions arising from translation and adaptation or otherwise.Where BMJ Best Practice lists
+drug names, it does so by recommended International Nonproprietary Names (rINNs) only. It is possible that
+certain drug formularies might refer to the same drugs using different names.
+Please note that recommended formulations and doses may differ between drug databases drug names and
+brands, drug formularies, or locations. A local drug formulary should always be consulted for full prescribing
+information.
+Treatment recommendations in BMJ Best Practice are specific to patient groups. Care is advised when
+selecting the integrated drug formulary as some treatment recommendations are for adults only, and external
+links to a paediatric formulary do not necessarily advocate use in children (and vice-versa). Always check
+that you have selected the correct drug formulary for your patient.
+Where your version of BMJ Best Practice does not integrate with a local drug formulary, you should consult
+a local pharmaceutical database for comprehensive drug information including contraindications, drug
+interactions, and alternative dosing before prescribing.
+Interpretation of numbers
+Regardless of the language in which the content is displayed, numerals are displayed according to the
+original English-language numerical separator standard. For example 4 digit numbers shall not include a
+comma nor a decimal point; numbers of 5 or more digits shall include commas; and numbers stated to be
+less than 1 shall be depicted using decimal points. See Figure 1 below for an explanatory table.
+BMJ accepts no responsibility for misinterpretation of numbers which comply with this stated numerical
+separator standard.
+This approach is in line with the guidance of the International Bureau of Weights and Measures Service.
+Figure 1 – BMJ Best Practice Numeral Style
+DISCLAIMER
+This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+43
+=== Page 44 ===
+Evaluation of hypertension Disclaimer
+DISCLAIMER
+5-digit numerals: 10,000
+4-digit numerals: 1000
+numerals < 1: 0.25
+Our full website and application terms and conditions can be found here: Website Terms and Conditions.
+Contact us
++ 44 (0) 207 111 1105
+support@bmj.com
+BMJ
+BMA House
+Tavistock Square
+London
+WC1H 9JR
+UK
+44 This PDF of the BMJ Best Practice topic is based on the web version that was last updated: Dec 10, 2024.
+BMJ Best Practice topics are regularly updated and the most recent version
+of the topics can be found on bestpractice.bmj.com . Use of this content is
+subject to our disclaimer. © BMJ Publishing Group Ltd 2025. All rights reserved.
+=== Page 45 ===
+Contributors:
+// Authors:
+Sunil Nadar, MD, FRCP, CCT, FESC, FACC
+Consultant Cardiologist
+Dudley Group of hospitals NHS trust, Dudley, UK
+DISCLOSURES: SN is an author of a number of references cited in this topic.
+Gregory Y.H. Lip, MD, FRCP, DFM, FACC, FESC, FEHRA
+Price-Evans Professor of Cardiovascular Medicine
+University of Liverpool, Senior Investigator, National Institute for Health Research, UK, Distinguished
+Professor, Faculty of Medicine, Aalborg University, Denmark, Adjunct Professor, Yonsei University, Seoul,
+South Korea
+DISCLOSURES: GYHL is a consultant and speaker for BMS/Pfizer, Boehringer Ingelheim, Daiichi-Sankyo,
+and Anthos. No fees are received personally. GYHL is an author of a number of references cited in this
+topic.
+// Peer Reviewers:
+Rod Jackson, MD, PhD
+Professor of Epidemiology
+Head of the Section of Epidemiology & Biostatistics, School of Population Health, University of Auckland,
+Auckland, New Zealand
+DISCLOSURES: RJ declares that he has no competing interests.
+Alan Wilkinson, MD, FRCP
+Professor of Medicine
+David Geffen School of Medicine at UCLA, Los Angeles, CA
+DISCLOSURES: AW declares that he has no competing interests. Unfortunately we have since been made
+aware that Professor Wilkinson is deceased.
+Michael Schachter, MB, BSc, FRCP
+Department of Clinical Pharmacology
+St Mary’s Hospital, Imperial College, London, UK
+DISCLOSURES: MS declares that he has no competing interests.
