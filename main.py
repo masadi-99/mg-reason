@@ -672,6 +672,102 @@ def run_adaptive_rag_eval(k_guidelines: int = 3,
         print(f"❌ Error in adaptive RAG evaluation: {e}")
         print("Make sure LangChain RAG index is built and available.")
 
+def run_stepwise_guideline_rag_eval(k_steps: int = 3, 
+                                   k_retrieval_per_step: int = 2,
+                                   sample_size: Optional[int] = 3,
+                                   prompt_types: List[str] = ["direct"],
+                                   specialty_filter: Optional[str] = "Cardiology",
+                                   split: str = "test",
+                                   concurrent: bool = False,
+                                   max_concurrent: int = 10,
+                                   requests_per_minute: int = 100):
+    """Run step-by-step guideline RAG evaluation test."""
+    print(f"\n🧪 Running Step-by-Step Guideline RAG Evaluation Test")
+    print("-" * 60)
+    print(f"Reasoning steps per question: {k_steps}")
+    print(f"Retrievals per step: {k_retrieval_per_step}")
+    print(f"Sample size: {sample_size}")
+    print(f"Prompt types: {prompt_types}")
+    print(f"Specialty filter: {specialty_filter}")
+    print(f"Split: {split}")
+    print(f"Concurrent processing: {concurrent}")
+    if concurrent:
+        print(f"Max concurrent requests: {max_concurrent}")
+        print(f"Requests per minute: {requests_per_minute}")
+    
+    try:
+        from adaptive_rag_evaluator import AdaptiveRAGEvaluator
+        
+        # Initialize step-by-step guideline RAG evaluator
+        evaluator = AdaptiveRAGEvaluator(
+            model_name="gpt-4o-mini",
+            k_guidelines=k_steps,  # Use k_steps for reasoning steps
+            k_retrieval_per_guideline=k_retrieval_per_step,
+            max_concurrent=max_concurrent,
+            requests_per_minute=requests_per_minute
+        )
+        
+        print(f"\n🚀 Starting Step-by-Step Guideline RAG evaluation...")
+        
+        # For now, use the sync version (we can add concurrent support later)
+        all_results = []
+        
+        # Get data
+        data = evaluator.data_loader.get_split(split, sample_size, specialty_filter)
+        # Sort by question text for consistent ordering across runs
+        data = sorted(data, key=lambda x: x['Question'])
+        
+        for prompt_type in prompt_types:
+            print(f"\n🧪 Evaluating with {prompt_type} + step-by-step guideline RAG...")
+            
+            prompt_results = []
+            for i, sample in enumerate(data):
+                print(f"\n📋 Sample {i+1}/{len(data)}")
+                try:
+                    result = evaluator.evaluate_sample_stepwise_guideline(sample, prompt_type)
+                    prompt_results.append(result)
+                    all_results.append(result)
+                except Exception as e:
+                    print(f"❌ Error processing sample {i+1}: {e}")
+                    continue
+            
+            # Calculate accuracy for this prompt type
+            correct_count = sum(1 for r in prompt_results if r['is_correct'])
+            accuracy = correct_count / len(prompt_results) if prompt_results else 0
+            print(f"\n📊 {prompt_type} + step-by-step guideline RAG accuracy: {accuracy:.3f} ({correct_count}/{len(prompt_results)})")
+        
+        # Calculate overall metrics
+        correct_count = sum(1 for r in all_results if r['is_correct'])
+        overall_accuracy = correct_count / len(all_results) if all_results else 0
+        avg_time = sum(r['total_response_time'] for r in all_results) / len(all_results) if all_results else 0
+        avg_api_calls = sum(r['total_api_calls_for_sample'] for r in all_results) / len(all_results) if all_results else 0
+        
+        print(f"\n✅ Step-by-Step Guideline RAG evaluation completed!")
+        print(f"Overall accuracy: {overall_accuracy:.3f}")
+        print(f"Average time per sample: {avg_time:.1f}s")
+        print(f"Average API calls per sample: {avg_api_calls:.1f}")
+        
+        if all_results:
+            print(f"\n⏱️  Stage Timing Breakdown:")
+            avg_stage1 = sum(r['stage1_time'] for r in all_results) / len(all_results)
+            avg_stage2 = sum(r['stage2_time'] for r in all_results) / len(all_results)
+            avg_stage3 = sum(r['stage3_time'] for r in all_results) / len(all_results)
+            print(f"  Stage 1 (Step-by-step Reasoning): {avg_stage1:.2f}s")
+            print(f"  Stage 2 (Real Guideline Retrieval): {avg_stage2:.2f}s")
+            print(f"  Stage 3 (Refined Answer): {avg_stage3:.2f}s")
+        
+        return {
+            'detailed_results': all_results,
+            'overall_accuracy': overall_accuracy,
+            'avg_time_per_sample': avg_time,
+            'avg_api_calls_per_sample': avg_api_calls
+        }
+        
+    except Exception as e:
+        print(f"❌ Error in step-by-step guideline RAG evaluation: {e}")
+        print("Make sure LangChain RAG index is built and available.")
+        return None
+
 def main():
     """Main function with command-line interface."""
     parser = argparse.ArgumentParser(
@@ -771,6 +867,28 @@ Examples:
                          help="Search type for GraphRAG ('global' or 'local').")
     rag_group.add_argument("--graphrag-community-level", type=int, default=2,
                          help="Community level for GraphRAG local search.")
+    
+    # Add step-by-step guideline RAG arguments
+    parser.add_argument("--stepwise-guideline-rag-eval", type=int, metavar="K",
+                       help="Run step-by-step guideline RAG evaluation with K reasoning steps")
+    parser.add_argument("--stepwise-guideline-retrieval-per-step", type=int, default=2,
+                       help="Number of document retrievals per reasoning step (default: 2)")
+    parser.add_argument("--stepwise-guideline-samples", type=int, default=3,
+                       help="Number of samples for step-by-step guideline RAG test (default: 3)")
+    parser.add_argument("--stepwise-guideline-prompts", nargs='+', default=['direct'],
+                       choices=PromptTemplates.get_available_types(),
+                       help="Prompt types for step-by-step guideline RAG (default: direct)")
+    parser.add_argument("--stepwise-guideline-specialty", type=str, default="Cardiology",
+                       help="Medical specialty filter for step-by-step guideline RAG (default: Cardiology)")
+    parser.add_argument("--stepwise-guideline-split", type=str, default="test",
+                       choices=['train', 'validation', 'test', 'test_filtered_6'],
+                       help="Dataset split for step-by-step guideline RAG (default: test)")
+    parser.add_argument("--stepwise-guideline-concurrent", action="store_true",
+                       help="Use concurrent processing for step-by-step guideline RAG")
+    parser.add_argument("--stepwise-guideline-max-concurrent", type=int, default=10,
+                       help="Max concurrent requests for step-by-step guideline RAG (default: 10)")
+    parser.add_argument("--stepwise-guideline-requests-per-minute", type=int, default=100,
+                       help="Requests per minute limit for step-by-step guideline RAG (default: 100)")
     
     args = parser.parse_args()
     
@@ -877,6 +995,19 @@ Examples:
             concurrent=args.concurrent,
             max_concurrent=args.max_concurrent,
             requests_per_minute=args.requests_per_minute
+        )
+    
+    elif args.stepwise_guideline_rag_eval is not None:
+        run_stepwise_guideline_rag_eval(
+            k_steps=args.stepwise_guideline_rag_eval,
+            k_retrieval_per_step=args.stepwise_guideline_retrieval_per_step,
+            sample_size=args.stepwise_guideline_samples,
+            prompt_types=args.stepwise_guideline_prompts,
+            specialty_filter=args.stepwise_guideline_specialty,
+            split=args.stepwise_guideline_split,
+            concurrent=args.stepwise_guideline_concurrent,
+            max_concurrent=args.stepwise_guideline_max_concurrent,
+            requests_per_minute=args.stepwise_guideline_requests_per_minute
         )
     
     else:

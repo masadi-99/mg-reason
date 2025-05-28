@@ -104,6 +104,38 @@ Options:
 
 Please generate the {k} most relevant hypothetical guideline excerpts needed to correctly answer this question.
 """
+        
+        # Create step-by-step guideline reasoning prompt
+        self.stepwise_guideline_prompt_template = """You are a medical expert solving a clinical question step by step. For each reasoning step, you must cite a specific medical guideline excerpt that supports that step.
+
+Break down your reasoning into exactly {k} logical steps. For each step:
+1. State the reasoning step clearly
+2. Provide a realistic-sounding medical guideline excerpt that supports this reasoning step
+
+Format your response using the following structure:
+
+<step_1>
+<reasoning>Your first reasoning step</reasoning>
+<guideline>Realistic excerpt from a medical guideline that supports this reasoning step</guideline>
+</step_1>
+
+<step_2>
+<reasoning>Your second reasoning step</reasoning>
+<guideline>Realistic excerpt from a medical guideline that supports this reasoning step</guideline>
+</step_2>
+
+<step_3>
+<reasoning>Your third reasoning step</reasoning>
+<guideline>Realistic excerpt from a medical guideline that supports this reasoning step</guideline>
+</step_3>
+
+Question: {question}
+
+Options:
+{options}
+
+Please provide {k} reasoning steps with supporting medical guideline excerpts to solve this clinical question systematically.
+"""
     
     def _set_deterministic_seeds(self):
         """Set all random seeds for reproducible results."""
@@ -239,6 +271,55 @@ Please generate the {k} most relevant hypothetical guideline excerpts needed to 
         
         return guidelines
     
+    def _extract_reasoning_steps(self, response: str) -> List[Dict]:
+        """Extract reasoning steps and associated guidelines from the LLM response."""
+        steps = []
+        
+        # Look for step tags
+        for i in range(1, self.k_guidelines + 1):
+            step_pattern = f'<step_{i}>(.*?)</step_{i}>'
+            step_match = re.search(step_pattern, response, re.DOTALL | re.IGNORECASE)
+            
+            if step_match:
+                step_content = step_match.group(1).strip()
+                
+                # Extract reasoning and guideline from step content
+                reasoning_match = re.search(r'<reasoning>(.*?)</reasoning>', step_content, re.DOTALL | re.IGNORECASE)
+                guideline_match = re.search(r'<guideline>(.*?)</guideline>', step_content, re.DOTALL | re.IGNORECASE)
+                
+                reasoning = reasoning_match.group(1).strip() if reasoning_match else f"Could not extract reasoning for step {i}"
+                guideline = guideline_match.group(1).strip() if guideline_match else f"Could not extract guideline for step {i}"
+                
+                steps.append({
+                    'step_number': i,
+                    'reasoning': reasoning,
+                    'hypothetical_guideline': guideline
+                })
+            else:
+                steps.append({
+                    'step_number': i,
+                    'reasoning': f"Could not extract reasoning for step {i}",
+                    'hypothetical_guideline': f"Could not extract guideline for step {i}"
+                })
+        
+        return steps
+
+    def _retrieve_for_reasoning_step(self, reasoning: str, guideline: str, original_question: str) -> str:
+        """Retrieve relevant documents for a specific reasoning step and its guideline."""
+        # Create a search query combining reasoning step, hypothetical guideline, and original question
+        search_query = f"{reasoning} {guideline} {original_question}"
+        
+        try:
+            # Use the RAG evaluator to retrieve documents
+            retrieved_context = self.rag_evaluator.retrieve_context(
+                search_query, 
+                k=self.k_retrieval_per_guideline
+            )
+            return retrieved_context
+        except Exception as e:
+            print(f"    Error retrieving for reasoning step: {e}")
+            return f"Error retrieving information for this reasoning step: {str(e)}"
+
     def _retrieve_unique_contexts_for_guidelines(self, guidelines: List[str], original_question: str) -> List[Dict]:
         """Retrieve unique document contexts for each guideline, ensuring no duplicates."""
         if not hasattr(self.rag_evaluator, 'vector_store') or not self.rag_evaluator.vector_store:
@@ -794,6 +875,287 @@ Please generate the {k} most relevant hypothetical guideline excerpts needed to 
         print(f"  Detailed: {detailed_file}")
         print(f"  Summary: {summary_file}")
         print(f"  CSV: {csv_file}")
+
+    def _retrieve_unique_contexts_for_reasoning_steps(self, reasoning_steps: List[Dict], original_question: str) -> List[Dict]:
+        """Retrieve unique document contexts for each reasoning step, ensuring no duplicates."""
+        if not hasattr(self.rag_evaluator, 'vector_store') or not self.rag_evaluator.vector_store:
+            print("Warning: Vector store not available for unique retrieval, using fallback method")
+            # Fallback to original method
+            step_retrievals = []
+            for step in reasoning_steps:
+                retrieval = self._retrieve_for_reasoning_step(
+                    step['reasoning'], 
+                    step['hypothetical_guideline'], 
+                    original_question
+                )
+                step_retrievals.append({
+                    **step,
+                    'retrieved_context': retrieval
+                })
+            return step_retrievals
+        
+        # Get all candidate documents for all reasoning steps
+        all_candidates = []
+        step_queries = []
+        
+        for step in reasoning_steps:
+            search_query = f"{step['reasoning']} {step['hypothetical_guideline']} {original_question}"
+            step_queries.append(search_query)
+            
+            # Get more candidates than needed to allow for unique selection
+            retriever = self.rag_evaluator.vector_store.as_retriever(
+                search_kwargs={"k": self.k_retrieval_per_guideline * len(reasoning_steps) * 2}
+            )
+            documents = retriever.get_relevant_documents(search_query)
+            
+            # Sort deterministically by content hash for reproducible results
+            documents = sorted(documents, key=lambda doc: hash(doc.page_content))
+            
+            all_candidates.append(documents)
+        
+        # Select unique documents for each reasoning step
+        used_document_hashes = set()
+        step_retrievals = []
+        
+        for i, (step, candidates) in enumerate(zip(reasoning_steps, all_candidates)):
+            selected_docs = []
+            
+            # Find the first k_retrieval_per_guideline unique documents for this step
+            for doc in candidates:
+                doc_hash = hash(doc.page_content)
+                if doc_hash not in used_document_hashes and len(selected_docs) < self.k_retrieval_per_guideline:
+                    selected_docs.append(doc)
+                    used_document_hashes.add(doc_hash)
+            
+            # Format the retrieved context
+            if selected_docs:
+                context_parts = []
+                for doc in selected_docs:
+                    source_info = doc.metadata.get('source', 'Unknown source')
+                    page_info = doc.metadata.get('page', 'N/A')
+                    context_parts.append(f"Source: {source_info} (Page: {page_info})\n{doc.page_content}")
+                retrieved_context = "\n\n---\n\n".join(context_parts)
+            else:
+                retrieved_context = f"No unique context found for reasoning step {step['step_number']}"
+            
+            step_retrievals.append({
+                **step,
+                'retrieved_context': retrieved_context
+            })
+        
+        return step_retrievals
+
+    async def evaluate_sample_stepwise_guideline_async(self, 
+                                                      sample: Dict, 
+                                                      prompt_type: str = "direct") -> Dict:
+        """Evaluate a single sample using step-by-step guideline RAG approach (async version)."""
+        question = sample['Question']
+        options = sample['Options']
+        correct_answer = self.data_loader.get_correct_answer(sample)
+        correct_choice = self.data_loader.get_answer_choice(sample)
+        
+        # Stage 1: Get step-by-step reasoning with hypothetical guidelines from LLM
+        options_text = "\n".join([f"{chr(65+i)}. {opt}" for i, opt in enumerate(options)])
+        stepwise_prompt = self.stepwise_guideline_prompt_template.format(
+            k=self.k_guidelines,
+            question=question,
+            options=options_text
+        )
+        
+        stage1_start = time.time()
+        stepwise_response = await self._make_api_call_async(stepwise_prompt)
+        stage1_time = time.time() - stage1_start
+        
+        # Extract reasoning steps and hypothetical guidelines
+        reasoning_steps = self._extract_reasoning_steps(stepwise_response)
+        
+        # Stage 2: Retrieve real information for each reasoning step
+        stage2_start = time.time()
+        step_retrievals = self._retrieve_unique_contexts_for_reasoning_steps(reasoning_steps, question)
+        stage2_time = time.time() - stage2_start
+        
+        # Stage 3: Refine reasoning with real guidelines and provide final answer
+        # Combine reasoning steps with real retrieved contexts
+        refined_context = "\n\n" + "="*50 + "\n\n".join([
+            f"REASONING STEP {item['step_number']}:\n{item['reasoning']}\n\nREAL MEDICAL GUIDELINE CONTEXT:\n{item['retrieved_context']}"
+            for item in step_retrievals
+        ])
+        
+        # Create refinement prompt
+        refinement_prompt = f"""You are a medical expert. You previously reasoned through this clinical question step by step, but now you have access to real medical guideline excerpts for each reasoning step.
+
+Please refine your reasoning based on the real medical guidelines provided and give your final answer.
+
+Original Question: {question}
+
+Options:
+{options_text}
+
+Your Previous Reasoning Steps with Real Medical Guidelines:
+{refined_context}
+
+Based on the real medical guidelines provided above, please refine your step-by-step reasoning and provide your final answer.
+
+Please provide your answer in the following format:
+<answer>X</answer>
+
+Where X is the letter (A, B, C, D, etc.) of the correct option."""
+        
+        stage3_start = time.time()
+        final_response = await self._make_api_call_async(refinement_prompt)
+        stage3_time = time.time() - stage3_start
+        
+        # Extract predicted answer
+        predicted_choice = self._extract_answer(final_response)
+        is_correct = predicted_choice == correct_choice
+        
+        total_time = stage1_time + stage2_time + stage3_time
+        
+        return {
+            'question': question,
+            'options': options,
+            'correct_answer': correct_answer,
+            'correct_choice': correct_choice,
+            'prompt_type': f"stepwise_guideline_rag_{prompt_type}",
+            'predicted_choice': predicted_choice,
+            'is_correct': is_correct,
+            'specialty': self.data_loader.get_sample_specialty(sample),
+            
+            # Step-by-step Guideline RAG specific fields
+            'stepwise_guideline_rag_used': True,
+            'k_guidelines': self.k_guidelines,
+            'k_retrieval_per_guideline': self.k_retrieval_per_guideline,
+            
+            # Stage 1: Step-by-step reasoning with hypothetical guidelines
+            'stage1_stepwise_prompt': stepwise_prompt,
+            'stage1_stepwise_response': stepwise_response,
+            'stage1_reasoning_steps': reasoning_steps,
+            'stage1_time': stage1_time,
+            
+            # Stage 2: Real information retrieval
+            'stage2_step_retrievals': step_retrievals,
+            'stage2_time': stage2_time,
+            
+            # Stage 3: Refined reasoning with real guidelines
+            'stage3_refinement_prompt': refinement_prompt,
+            'stage3_final_response': final_response,
+            'stage3_time': stage3_time,
+            
+            # Overall metrics
+            'total_response_time': total_time,
+            'total_api_calls_for_sample': 2,  # 1 for initial reasoning + 1 for refinement
+        }
+
+    def evaluate_sample_stepwise_guideline(self, 
+                                          sample: Dict, 
+                                          prompt_type: str = "direct") -> Dict:
+        """Evaluate a single sample using step-by-step guideline RAG approach (sync version)."""
+        question = sample['Question']
+        options = sample['Options']
+        correct_answer = self.data_loader.get_correct_answer(sample)
+        correct_choice = self.data_loader.get_answer_choice(sample)
+        
+        print(f"\n🧠 Stage 1: Generating step-by-step reasoning with hypothetical guidelines...")
+        
+        # Stage 1: Get step-by-step reasoning with hypothetical guidelines from LLM
+        options_text = "\n".join([f"{chr(65+i)}. {opt}" for i, opt in enumerate(options)])
+        stepwise_prompt = self.stepwise_guideline_prompt_template.format(
+            k=self.k_guidelines,
+            question=question,
+            options=options_text
+        )
+        
+        stage1_start = time.time()
+        stepwise_response = self._make_api_call(stepwise_prompt)
+        stage1_time = time.time() - stage1_start
+        
+        # Extract reasoning steps and hypothetical guidelines
+        reasoning_steps = self._extract_reasoning_steps(stepwise_response)
+        print(f"  ✅ Generated {len(reasoning_steps)} reasoning steps in {stage1_time:.2f}s")
+        
+        # Stage 2: Retrieve real information for each reasoning step
+        print(f"\n📚 Stage 2: Retrieving real medical guidelines for each reasoning step...")
+        stage2_start = time.time()
+        step_retrievals = self._retrieve_unique_contexts_for_reasoning_steps(reasoning_steps, question)
+        stage2_time = time.time() - stage2_start
+        print(f"  ✅ Retrieved real guidelines for all steps in {stage2_time:.2f}s")
+        
+        # Stage 3: Refine reasoning with real guidelines and provide final answer
+        print(f"\n🔬 Stage 3: Refining reasoning with real medical guidelines...")
+        
+        # Combine reasoning steps with real retrieved contexts
+        refined_context = "\n\n" + "="*50 + "\n\n".join([
+            f"REASONING STEP {item['step_number']}:\n{item['reasoning']}\n\nREAL MEDICAL GUIDELINE CONTEXT:\n{item['retrieved_context']}"
+            for item in step_retrievals
+        ])
+        
+        # Create refinement prompt
+        refinement_prompt = f"""You are a medical expert. You previously reasoned through this clinical question step by step, but now you have access to real medical guideline excerpts for each reasoning step.
+
+Please refine your reasoning based on the real medical guidelines provided and give your final answer.
+
+Original Question: {question}
+
+Options:
+{options_text}
+
+Your Previous Reasoning Steps with Real Medical Guidelines:
+{refined_context}
+
+Based on the real medical guidelines provided above, please refine your step-by-step reasoning and provide your final answer.
+
+Please provide your answer in the following format:
+<answer>X</answer>
+
+Where X is the letter (A, B, C, D, etc.) of the correct option."""
+        
+        stage3_start = time.time()
+        final_response = self._make_api_call(refinement_prompt)
+        stage3_time = time.time() - stage3_start
+        
+        # Extract predicted answer
+        predicted_choice = self._extract_answer(final_response)
+        is_correct = predicted_choice == correct_choice
+        
+        total_time = stage1_time + stage2_time + stage3_time
+        
+        print(f"  ✅ Final answer: {predicted_choice} ({'✓' if is_correct else '✗'}) in {stage3_time:.2f}s")
+        print(f"  🕒 Total time: {total_time:.2f}s")
+        
+        return {
+            'question': question,
+            'options': options,
+            'correct_answer': correct_answer,
+            'correct_choice': correct_choice,
+            'prompt_type': f"stepwise_guideline_rag_{prompt_type}",
+            'predicted_choice': predicted_choice,
+            'is_correct': is_correct,
+            'specialty': self.data_loader.get_sample_specialty(sample),
+            
+            # Step-by-step Guideline RAG specific fields
+            'stepwise_guideline_rag_used': True,
+            'k_guidelines': self.k_guidelines,
+            'k_retrieval_per_guideline': self.k_retrieval_per_guideline,
+            
+            # Stage 1: Step-by-step reasoning with hypothetical guidelines
+            'stage1_stepwise_prompt': stepwise_prompt,
+            'stage1_stepwise_response': stepwise_response,
+            'stage1_reasoning_steps': reasoning_steps,
+            'stage1_time': stage1_time,
+            
+            # Stage 2: Real information retrieval
+            'stage2_step_retrievals': step_retrievals,
+            'stage2_time': stage2_time,
+            
+            # Stage 3: Refined reasoning with real guidelines
+            'stage3_refinement_prompt': refinement_prompt,
+            'stage3_final_response': final_response,
+            'stage3_time': stage3_time,
+            
+            # Overall metrics
+            'total_response_time': total_time,
+            'total_api_calls_for_sample': 2,  # 1 for initial reasoning + 1 for refinement
+        }
 
 # Example usage
 if __name__ == "__main__":
