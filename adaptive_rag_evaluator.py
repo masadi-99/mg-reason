@@ -1,0 +1,479 @@
+#!/usr/bin/env python3
+"""
+Adaptive RAG Evaluator - Two-stage RAG approach.
+
+Stage 1: Ask LLM to identify k medical guidelines/knowledge areas needed to answer the question
+Stage 2: Retrieve specific information for each guideline using LangChain RAG
+Stage 3: Answer the question using the targeted retrievals with various reasoning modes
+"""
+
+import openai
+import json
+import time
+import re
+from typing import Dict, List, Optional, Tuple
+from tqdm import tqdm
+import pandas as pd
+from datetime import datetime
+from pathlib import Path
+
+from config import OPENAI_API_KEY, OPENAI_MODELS
+from data_loader import MedQADataLoader
+from reasoning_prompts import PromptTemplates
+from rag_langchain import LangChainRAGEvaluator
+
+class AdaptiveRAGEvaluator:
+    """Two-stage adaptive RAG evaluator for medical reasoning tasks."""
+    
+    def __init__(self, 
+                 model_name: str = "gpt-4o-mini",
+                 k_guidelines: int = 3,
+                 k_retrieval_per_guideline: int = 2):
+        """Initialize the adaptive RAG evaluator.
+        
+        Args:
+            model_name: OpenAI model to use
+            k_guidelines: Number of medical guidelines to identify in stage 1
+            k_retrieval_per_guideline: Number of documents to retrieve per guideline
+        """
+        if model_name not in OPENAI_MODELS:
+            raise ValueError(f"Model {model_name} not supported. Available models: {list(OPENAI_MODELS.keys())}")
+        
+        self.model_name = model_name
+        self.model_config = OPENAI_MODELS[model_name]
+        self.k_guidelines = k_guidelines
+        self.k_retrieval_per_guideline = k_retrieval_per_guideline
+        
+        # Initialize OpenAI client
+        self.client = openai.OpenAI(api_key=OPENAI_API_KEY)
+        
+        # Initialize data loader
+        self.data_loader = MedQADataLoader()
+        
+        # Initialize LangChain RAG evaluator
+        self.rag_evaluator = LangChainRAGEvaluator()
+        
+        # Track API usage
+        self.api_calls = 0
+        self.total_tokens = 0
+        
+        # Create guideline identification prompt
+        self.guideline_prompt_template = """You are a medical expert. Given the following multiple-choice question, identify {k} specific medical guidelines, knowledge areas, or clinical concepts that would be essential to answer this question correctly.
+
+For each guideline, provide a brief paragraph (2-3 sentences) describing what specific medical knowledge is needed. Format your response using the following tags:
+
+<guideline_1>
+[Brief paragraph describing the first essential medical guideline/knowledge area]
+</guideline_1>
+
+<guideline_2>
+[Brief paragraph describing the second essential medical guideline/knowledge area]
+</guideline_2>
+
+<guideline_3>
+[Brief paragraph describing the third essential medical guideline/knowledge area]
+</guideline_3>
+
+Question: {question}
+
+Options:
+{options}
+
+Please identify the {k} most important medical guidelines/knowledge areas needed to answer this question."""
+    
+    def _make_api_call(self, prompt: str, max_retries: int = 3) -> str:
+        """Make an API call to OpenAI with retries."""
+        for attempt in range(max_retries):
+            try:
+                response = self.client.chat.completions.create(
+                    model=self.model_name,
+                    messages=[
+                        {"role": "user", "content": prompt}
+                    ],
+                    max_tokens=self.model_config["max_tokens"],
+                    temperature=self.model_config["temperature"],
+                    top_p=self.model_config["top_p"],
+                    frequency_penalty=self.model_config.get("frequency_penalty", 0.0),
+                    presence_penalty=self.model_config.get("presence_penalty", 0.0),
+                    seed=self.model_config.get("seed", 42)
+                )
+                
+                self.api_calls += 1
+                if hasattr(response, 'usage') and response.usage:
+                    self.total_tokens += response.usage.total_tokens
+                
+                return response.choices[0].message.content.strip()
+                
+            except openai.RateLimitError:
+                wait_time = 2 ** attempt
+                print(f"Rate limit exceeded. Waiting {wait_time} seconds...")
+                time.sleep(wait_time)
+            except openai.APIError as e:
+                print(f"API error on attempt {attempt + 1}: {e}")
+                if attempt == max_retries - 1:
+                    raise
+                time.sleep(2 ** attempt)
+            except Exception as e:
+                print(f"Unexpected error: {e}")
+                if attempt == max_retries - 1:
+                    raise
+                time.sleep(1)
+        
+        raise Exception(f"Failed to get response after {max_retries} attempts")
+    
+    def _extract_guidelines(self, response: str) -> List[str]:
+        """Extract guidelines from the LLM response using regex."""
+        guidelines = []
+        
+        # Look for guideline tags
+        for i in range(1, self.k_guidelines + 1):
+            pattern = f'<guideline_{i}>(.*?)</guideline_{i}>'
+            match = re.search(pattern, response, re.DOTALL | re.IGNORECASE)
+            if match:
+                guideline_text = match.group(1).strip()
+                guidelines.append(guideline_text)
+            else:
+                # Fallback: look for any guideline tag
+                fallback_pattern = f'<guideline_{i}>(.*?)(?=<guideline_|$)'
+                fallback_match = re.search(fallback_pattern, response, re.DOTALL | re.IGNORECASE)
+                if fallback_match:
+                    guideline_text = fallback_match.group(1).strip()
+                    # Remove any closing tags
+                    guideline_text = re.sub(r'</guideline_\d+>', '', guideline_text).strip()
+                    guidelines.append(guideline_text)
+                else:
+                    guidelines.append(f"Guideline {i}: Could not extract from response")
+        
+        return guidelines
+    
+    def _retrieve_for_guideline(self, guideline: str, original_question: str) -> str:
+        """Retrieve relevant documents for a specific guideline."""
+        # Create a search query that combines the guideline with the original question
+        search_query = f"{guideline} {original_question}"
+        
+        print(f"    Retrieving for guideline: {guideline[:100]}...")
+        
+        try:
+            # Use the RAG evaluator to retrieve documents
+            retrieved_context = self.rag_evaluator.retrieve_context(
+                search_query, 
+                k=self.k_retrieval_per_guideline
+            )
+            return retrieved_context
+        except Exception as e:
+            print(f"    Error retrieving for guideline: {e}")
+            return f"Error retrieving information for this guideline: {str(e)}"
+    
+    def _extract_answer(self, response: str) -> str:
+        """Extract the answer choice from the <answer> tag in model response."""
+        response = response.strip()
+        
+        # Primary method: Look for <answer>X</answer> tag
+        answer_match = re.search(r'<answer>\s*([A-Z])\s*</answer>', response, re.IGNORECASE)
+        if answer_match:
+            return answer_match.group(1).upper()
+        
+        # Fallback: Look for answer tag without closing tag
+        answer_match = re.search(r'<answer>\s*([A-Z])', response, re.IGNORECASE)
+        if answer_match:
+            return answer_match.group(1).upper()
+        
+        # Secondary fallback: Legacy patterns
+        legacy_patterns = [
+            r'(?:Therefore|Thus|Hence),?\s+(?:the\s+)?correct\s+answer\s+is\s+([A-Z])\.',
+            r'(?:Answer|answer):\s*([A-Z])\b',
+            r'(?:Thus|Therefore|Hence),?\s*(?:the\s+)?(?:answer\s+is\s+)?\*?\*?([A-Z])\b',
+        ]
+        
+        for pattern in legacy_patterns:
+            match = re.search(pattern, response, re.IGNORECASE)
+            if match:
+                return match.group(1).upper()
+        
+        # Last resort: look for the last capital letter in valid range
+        letters = re.findall(r'\b([A-E])\b', response)
+        if letters:
+            return letters[-1].upper()
+        
+        return "UNKNOWN"
+    
+    def evaluate_sample_adaptive(self, 
+                                sample: Dict, 
+                                prompt_type: str = "direct") -> Dict:
+        """Evaluate a single sample using adaptive RAG approach."""
+        question = sample['Question']
+        options = sample['Options']
+        correct_answer = self.data_loader.get_correct_answer(sample)
+        correct_choice = self.data_loader.get_answer_choice(sample)
+        
+        print(f"\n🔍 Stage 1: Identifying medical guidelines needed...")
+        
+        # Stage 1: Get medical guidelines from LLM
+        options_text = "\n".join([f"{chr(65+i)}. {opt}" for i, opt in enumerate(options)])
+        guideline_prompt = self.guideline_prompt_template.format(
+            k=self.k_guidelines,
+            question=question,
+            options=options_text
+        )
+        
+        stage1_start = time.time()
+        guideline_response = self._make_api_call(guideline_prompt)
+        stage1_time = time.time() - stage1_start
+        
+        # Extract guidelines
+        guidelines = self._extract_guidelines(guideline_response)
+        print(f"  ✅ Identified {len(guidelines)} guidelines in {stage1_time:.2f}s")
+        
+        # Stage 2: Retrieve information for each guideline
+        print(f"\n📚 Stage 2: Retrieving information for each guideline...")
+        stage2_start = time.time()
+        
+        guideline_retrievals = []
+        for i, guideline in enumerate(guidelines, 1):
+            print(f"  Guideline {i}/{len(guidelines)}")
+            retrieval = self._retrieve_for_guideline(guideline, question)
+            guideline_retrievals.append({
+                'guideline': guideline,
+                'retrieved_context': retrieval
+            })
+        
+        stage2_time = time.time() - stage2_start
+        print(f"  ✅ Retrieved information for all guidelines in {stage2_time:.2f}s")
+        
+        # Stage 3: Answer the question using retrieved information
+        print(f"\n🧠 Stage 3: Answering question with targeted retrievals...")
+        
+        # Combine all retrieved contexts
+        combined_context = "\n\n" + "="*50 + "\n\n".join([
+            f"GUIDELINE {i+1}: {item['guideline']}\n\nRETRIEVED INFORMATION:\n{item['retrieved_context']}"
+            for i, item in enumerate(guideline_retrievals)
+        ])
+        
+        # Use the appropriate RAG prompt type
+        rag_prompt_type = f"{prompt_type}_rag" if "_rag" not in prompt_type else prompt_type
+        
+        try:
+            final_prompt = PromptTemplates.get_prompt(rag_prompt_type, question, options, context=combined_context)
+        except ValueError:
+            # Fallback to basic RAG prompt if specific type not found
+            final_prompt = PromptTemplates.get_prompt("direct_rag", question, options, context=combined_context)
+            rag_prompt_type = "direct_rag"
+        
+        stage3_start = time.time()
+        final_response = self._make_api_call(final_prompt)
+        stage3_time = time.time() - stage3_start
+        
+        # Extract predicted answer
+        predicted_choice = self._extract_answer(final_response)
+        is_correct = predicted_choice == correct_choice
+        
+        total_time = stage1_time + stage2_time + stage3_time
+        
+        print(f"  ✅ Final answer: {predicted_choice} ({'✓' if is_correct else '✗'}) in {stage3_time:.2f}s")
+        print(f"  🕒 Total time: {total_time:.2f}s")
+        
+        return {
+            'question': question,
+            'options': options,
+            'correct_answer': correct_answer,
+            'correct_choice': correct_choice,
+            'prompt_type': f"adaptive_rag_{prompt_type}",
+            'predicted_choice': predicted_choice,
+            'is_correct': is_correct,
+            'specialty': self.data_loader.get_sample_specialty(sample),
+            
+            # Adaptive RAG specific fields
+            'adaptive_rag_used': True,
+            'k_guidelines': self.k_guidelines,
+            'k_retrieval_per_guideline': self.k_retrieval_per_guideline,
+            
+            # Stage 1: Guideline identification
+            'stage1_guideline_prompt': guideline_prompt,
+            'stage1_guideline_response': guideline_response,
+            'stage1_identified_guidelines': guidelines,
+            'stage1_time': stage1_time,
+            
+            # Stage 2: Information retrieval
+            'stage2_guideline_retrievals': guideline_retrievals,
+            'stage2_time': stage2_time,
+            
+            # Stage 3: Final answering
+            'stage3_final_prompt': final_prompt,
+            'stage3_final_response': final_response,
+            'stage3_time': stage3_time,
+            
+            # Overall metrics
+            'total_response_time': total_time,
+            'total_api_calls_for_sample': 1 + len(guidelines),  # 1 for guidelines + 1 for final answer
+        }
+    
+    def evaluate_dataset_adaptive(self, 
+                                 split: str = "test", 
+                                 prompt_types: List[str] = ["direct"],
+                                 sample_size: Optional[int] = None,
+                                 specialty_filter: Optional[str] = None,
+                                 save_results: bool = True) -> Dict:
+        """Evaluate the model on a dataset split using adaptive RAG."""
+        
+        print(f"🚀 Starting ADAPTIVE RAG evaluation on {split} split")
+        print("=" * 60)
+        print(f"Model: {self.model_name}")
+        print(f"Prompt types: {prompt_types}")
+        print(f"Guidelines per question: {self.k_guidelines}")
+        print(f"Retrievals per guideline: {self.k_retrieval_per_guideline}")
+        
+        # Get data
+        data = self.data_loader.get_split(split, sample_size, specialty_filter)
+        data = sorted(data, key=lambda x: x['Question'])  # Ensure consistent order
+        print(f"Evaluating on {len(data)} samples")
+        
+        all_results = []
+        
+        for prompt_type in prompt_types:
+            print(f"\n🧪 Evaluating with {prompt_type} + adaptive RAG...")
+            
+            prompt_results = []
+            for i, sample in enumerate(tqdm(data, desc=f"Adaptive RAG ({prompt_type})")):
+                try:
+                    print(f"\n📋 Sample {i+1}/{len(data)}")
+                    result = self.evaluate_sample_adaptive(sample, prompt_type)
+                    prompt_results.append(result)
+                    all_results.append(result)
+                except Exception as e:
+                    print(f"❌ Error processing sample {i+1}: {e}")
+                    continue
+            
+            # Calculate accuracy for this prompt type
+            correct_count = sum(1 for r in prompt_results if r['is_correct'])
+            accuracy = correct_count / len(prompt_results) if prompt_results else 0
+            print(f"\n📊 {prompt_type} + adaptive RAG accuracy: {accuracy:.3f} ({correct_count}/{len(prompt_results)})")
+        
+        # Generate comprehensive results
+        results_summary = self._generate_results_summary(all_results, split)
+        
+        if save_results:
+            self._save_results(all_results, results_summary, split)
+        
+        return {
+            'detailed_results': all_results,
+            'summary': results_summary,
+            'api_usage': {
+                'total_calls': self.api_calls,
+                'total_tokens': self.total_tokens,
+                'adaptive_rag_processing': True
+            }
+        }
+    
+    def _generate_results_summary(self, results: List[Dict], split: str) -> Dict:
+        """Generate comprehensive results summary."""
+        df = pd.DataFrame(results)
+        
+        summary = {
+            'evaluation_info': {
+                'model': self.model_name,
+                'split': split,
+                'total_samples': len(results),
+                'timestamp': datetime.now().isoformat(),
+                'adaptive_rag_processing': True,
+                'k_guidelines': self.k_guidelines,
+                'k_retrieval_per_guideline': self.k_retrieval_per_guideline
+            },
+            'overall_performance': {},
+            'performance_by_prompt': {},
+            'performance_by_specialty': {},
+            'adaptive_rag_metrics': {},
+            'error_analysis': {}
+        }
+        
+        # Overall performance
+        overall_accuracy = float(df['is_correct'].mean())
+        summary['overall_performance']['accuracy'] = overall_accuracy
+        summary['overall_performance']['correct_count'] = int(df['is_correct'].sum())
+        summary['overall_performance']['total_count'] = len(df)
+        summary['overall_performance']['avg_total_time'] = float(df['total_response_time'].mean())
+        
+        # Performance by prompt type
+        for prompt_type in df['prompt_type'].unique():
+            prompt_df = df[df['prompt_type'] == prompt_type]
+            summary['performance_by_prompt'][prompt_type] = {
+                'accuracy': float(prompt_df['is_correct'].mean()),
+                'correct_count': int(prompt_df['is_correct'].sum()),
+                'total_count': len(prompt_df),
+                'avg_total_time': float(prompt_df['total_response_time'].mean())
+            }
+        
+        # Performance by specialty
+        for specialty in df['specialty'].unique():
+            specialty_df = df[df['specialty'] == specialty]
+            summary['performance_by_specialty'][specialty] = {
+                'accuracy': float(specialty_df['is_correct'].mean()),
+                'correct_count': int(specialty_df['is_correct'].sum()),
+                'total_count': len(specialty_df)
+            }
+        
+        # Adaptive RAG specific metrics
+        summary['adaptive_rag_metrics'] = {
+            'avg_stage1_time': float(df['stage1_time'].mean()),
+            'avg_stage2_time': float(df['stage2_time'].mean()),
+            'avg_stage3_time': float(df['stage3_time'].mean()),
+            'avg_total_time': float(df['total_response_time'].mean()),
+            'avg_api_calls_per_sample': float(df['total_api_calls_for_sample'].mean())
+        }
+        
+        # Error analysis
+        incorrect_df = df[~df['is_correct']]
+        summary['error_analysis']['total_errors'] = len(incorrect_df)
+        summary['error_analysis']['unknown_answers'] = int((df['predicted_choice'] == 'UNKNOWN').sum())
+        
+        return summary
+    
+    def _save_results(self, results: List[Dict], summary: Dict, split: str) -> None:
+        """Save results to files."""
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        
+        # Create results directory if it doesn't exist
+        import os
+        os.makedirs("results", exist_ok=True)
+        
+        # Save detailed results
+        detailed_file = f"results/{self.model_name}_{split}_{timestamp}_adaptive_rag_detailed.json"
+        with open(detailed_file, 'w') as f:
+            json.dump(results, f, indent=2)
+        
+        # Save summary
+        summary_file = f"results/{self.model_name}_{split}_{timestamp}_adaptive_rag_summary.json"
+        with open(summary_file, 'w') as f:
+            json.dump(summary, f, indent=2)
+        
+        # Save CSV for easy analysis
+        csv_file = f"results/{self.model_name}_{split}_{timestamp}_adaptive_rag.csv"
+        pd.DataFrame(results).to_csv(csv_file, index=False)
+        
+        print(f"\n📁 Results saved:")
+        print(f"  Detailed: {detailed_file}")
+        print(f"  Summary: {summary_file}")
+        print(f"  CSV: {csv_file}")
+
+# Example usage
+if __name__ == "__main__":
+    # Initialize adaptive RAG evaluator
+    evaluator = AdaptiveRAGEvaluator(
+        model_name="gpt-4o-mini",
+        k_guidelines=3,
+        k_retrieval_per_guideline=2
+    )
+    
+    # Run adaptive RAG evaluation
+    print("Running adaptive RAG evaluation test...")
+    results = evaluator.evaluate_dataset_adaptive(
+        split="test",
+        prompt_types=["direct", "chain_of_thought"],
+        sample_size=3,  # Small sample for testing
+        specialty_filter="Cardiology",
+        save_results=True
+    )
+    
+    print(f"\n🎉 Adaptive RAG evaluation completed!")
+    print(f"Overall accuracy: {results['summary']['overall_performance']['accuracy']:.3f}")
+    print(f"API calls made: {results['api_usage']['total_calls']}")
+    print(f"Average time per sample: {results['summary']['adaptive_rag_metrics']['avg_total_time']:.1f}s") 

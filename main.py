@@ -14,6 +14,7 @@ from bmj_pdf_downloader import BMJPDFDownloader
 from concurrent_evaluator import ConcurrentOpenAIEvaluator
 from rag_langchain import LangChainRAGEvaluator
 from rag_graphrag import GraphRAGEvaluator
+from adaptive_rag_evaluator import AdaptiveRAGEvaluator
 
 def print_banner():
     """Print a welcome banner."""
@@ -560,33 +561,89 @@ def run_rag_graphrag_build():
     print(f"   Index stats: {stats}")
 
 def run_rag_graphrag_eval(method: str = "global", sample_size: Optional[int] = 5):
-    """Evaluate GraphRAG on sample cardiology questions using specified method."""
-    print(f"\n🧪 Evaluating GraphRAG ({method} search)...")
-    print("-" * 40)
+    """Run a quick GraphRAG evaluation test."""
+    print(f"\n🧪 Running GraphRAG Evaluation Test ({method} method)")
+    print("-" * 50)
     
-    graphrag = GraphRAGEvaluator()
-    stats = graphrag.get_index_stats()
-    if not stats.get("indexing_complete", False):
-        print("❌ No existing GraphRAG index found. Please build the index first using 'rag-graphrag-build'.")
-        return
+    try:
+        # Initialize GraphRAG evaluator
+        evaluator = GraphRAGEvaluator()
+        
+        # Test query
+        test_question = "What are the main treatments for heart failure with reduced ejection fraction?"
+        print(f"Test question: {test_question}")
+        
+        # Query GraphRAG
+        result = evaluator.query_global(test_question) if method == "global" else evaluator.query_local(test_question)
+        print(f"\nGraphRAG Response ({method}):")
+        print(result)
+        
+        # Run evaluation on small sample
+        print(f"\n📊 Running evaluation on {sample_size} samples...")
+        from model_evaluator import OpenAIEvaluator
+        
+        eval_instance = OpenAIEvaluator("gpt-4o-mini", graphrag_evaluator=evaluator)
+        results = eval_instance.evaluate_dataset(
+            split="test",
+            prompt_types=["direct"],
+            sample_size=sample_size,
+            specialty_filter="Cardiology",
+            save_results=True,
+            rag_mode="graphrag",
+            rag_params={"graphrag_search_type": method, "k_retrieval": 3}
+        )
+        
+        print(f"✅ GraphRAG evaluation completed!")
+        print(f"Accuracy: {results['summary']['overall_performance']['accuracy']:.3f}")
+        
+    except Exception as e:
+        print(f"❌ Error in GraphRAG evaluation: {e}")
+        print("Make sure GraphRAG workspace is set up and indexed.")
 
-    # Sample questions
-    test_questions = [
-        "What are the main symptoms of myocardial infarction?",
-        "How is atrial fibrillation diagnosed and treated?",
-        "What are the risk factors for coronary artery disease?",
-        "Explain the pathophysiology of heart failure with reduced ejection fraction.",
-        "What are the contraindications for beta-blockers in cardiology?"
-    ][:sample_size]
+def run_adaptive_rag_eval(k_guidelines: int = 3, 
+                         k_retrieval_per_guideline: int = 2,
+                         sample_size: Optional[int] = 3,
+                         prompt_types: List[str] = ["direct"]):
+    """Run adaptive RAG evaluation test."""
+    print(f"\n🧪 Running Adaptive RAG Evaluation Test")
+    print("-" * 50)
+    print(f"Guidelines per question: {k_guidelines}")
+    print(f"Retrievals per guideline: {k_retrieval_per_guideline}")
+    print(f"Sample size: {sample_size}")
+    print(f"Prompt types: {prompt_types}")
     
-    results = graphrag.evaluate_on_dataset(test_questions, use_global=(method == "global"))
-    
-    # Print summary of results
-    print(f"\n📈 GraphRAG ({method}) Evaluation Summary:")
-    for res in results:
-        print(f"  ❓ Question: {res['question']}")
-        print(f"  💡 Answer: {res['answer'][:150]}...")
-        print(f"  ⏱️ Time: {res['query_time']:.2f}s\n")
+    try:
+        # Initialize adaptive RAG evaluator
+        evaluator = AdaptiveRAGEvaluator(
+            model_name="gpt-4o-mini",
+            k_guidelines=k_guidelines,
+            k_retrieval_per_guideline=k_retrieval_per_guideline
+        )
+        
+        # Run evaluation
+        results = evaluator.evaluate_dataset_adaptive(
+            split="test",
+            prompt_types=prompt_types,
+            sample_size=sample_size,
+            specialty_filter="Cardiology",
+            save_results=True
+        )
+        
+        print(f"\n✅ Adaptive RAG evaluation completed!")
+        print(f"Overall accuracy: {results['summary']['overall_performance']['accuracy']:.3f}")
+        print(f"Average time per sample: {results['summary']['adaptive_rag_metrics']['avg_total_time']:.1f}s")
+        print(f"Average API calls per sample: {results['summary']['adaptive_rag_metrics']['avg_api_calls_per_sample']:.1f}")
+        
+        # Show stage breakdown
+        metrics = results['summary']['adaptive_rag_metrics']
+        print(f"\n⏱️  Stage Timing Breakdown:")
+        print(f"  Stage 1 (Guideline ID): {metrics['avg_stage1_time']:.2f}s")
+        print(f"  Stage 2 (Retrieval): {metrics['avg_stage2_time']:.2f}s") 
+        print(f"  Stage 3 (Final Answer): {metrics['avg_stage3_time']:.2f}s")
+        
+    except Exception as e:
+        print(f"❌ Error in adaptive RAG evaluation: {e}")
+        print("Make sure LangChain RAG index is built and available.")
 
 def main():
     """Main function with command-line interface."""
@@ -601,6 +658,12 @@ Examples:
   python main.py --eval --cardiology          # Evaluate cardiology questions
   python main.py --download                   # Download BMJ PDFs
   python main.py --interactive                # Interactive mode
+  
+  # RAG Examples:
+  python main.py --rag-langchain-build        # Build LangChain RAG index
+  python main.py --rag-langchain-eval 10      # Test LangChain RAG on 10 samples
+  python main.py --adaptive-rag-eval 3        # Run adaptive RAG with 3 guidelines
+  python main.py --eval --rag-mode langchain  # Evaluate with LangChain RAG
         """
     )
     
@@ -652,6 +715,7 @@ Examples:
     parser.add_argument("--rag-graphrag-build", action="store_true", help="Build GraphRAG index")
     parser.add_argument("--rag-graphrag-eval-global", nargs='?', const=5, type=int, metavar='N', help="Evaluate GraphRAG with global search (optional N samples)")
     parser.add_argument("--rag-graphrag-eval-local", nargs='?', const=5, type=int, metavar='N', help="Evaluate GraphRAG with local search (optional N samples)")
+    parser.add_argument("--adaptive-rag-eval", nargs='?', const=3, type=int, metavar='K', help="Run adaptive RAG evaluation (optional K guidelines, default 3)")
     
     # Add RAG related arguments
     rag_group = parser.add_argument_group('RAG Settings', "Options for Retrieval Augmented Generation")
@@ -738,6 +802,9 @@ Examples:
         run_rag_graphrag_eval(method="global", sample_size=args.rag_graphrag_eval_global)
     elif args.rag_graphrag_eval_local is not None:
         run_rag_graphrag_eval(method="local", sample_size=args.rag_graphrag_eval_local)
+    
+    elif args.adaptive_rag_eval is not None:
+        run_adaptive_rag_eval(k_guidelines=args.adaptive_rag_eval)
     
     else:
         print("No action specified. Use --help for usage information.")
