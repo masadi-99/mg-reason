@@ -40,7 +40,15 @@ class LangChainRAGEvaluator:
         self.k_retrieval = k_retrieval # Store k for retrieval
         
         self.embeddings = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
-        self.llm = ChatOpenAI(model_name=self.model_name, temperature=0, api_key=OPENAI_API_KEY)
+        self.llm = ChatOpenAI(
+            model_name=self.model_name, 
+            temperature=0, 
+            api_key=OPENAI_API_KEY,
+            top_p=1.0,
+            frequency_penalty=0.0,
+            presence_penalty=0.0,
+            seed=42
+        )
         
         self.vector_store = None
         self.qa_chain = None
@@ -209,7 +217,7 @@ class LangChainRAGEvaluator:
             if not self.vector_store: # If after all attempts, still no vector store
                 raise ValueError("Vector store could not be initialized. Cannot retrieve context.")
 
-        print(f"\n�� Retrieving context for LangChain RAG: {question}")
+        print(f"\n Retrieving context for LangChain RAG: {question}")
         start_time = time.time()
         
         num_to_retrieve = k if k is not None else self.k_retrieval

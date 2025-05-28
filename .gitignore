@@ -79,4 +79,15 @@ Thumbs.db
 evaluations/
 experiments/
 models/
-checkpoints/ 
+checkpoints/
+
+# RAG Indexes and large generated files
+rag_index_langchain/
+graphrag_workspace/cache/
+graphrag_workspace/output/
+graphrag_workspace/input/
+graphrag_workspace/input_small/
+
+# Other temporary files
+test_output*.txt
+test_rag_output*.txt 

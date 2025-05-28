@@ -82,7 +82,10 @@ class OpenAIBatchEvaluator:
                 ],
                 "max_tokens": self.model_config["max_tokens"],
                 "temperature": self.model_config["temperature"],
-                "top_p": self.model_config["top_p"]
+                "top_p": self.model_config["top_p"],
+                "frequency_penalty": self.model_config.get("frequency_penalty", 0.0),
+                "presence_penalty": self.model_config.get("presence_penalty", 0.0),
+                "seed": self.model_config.get("seed", 42)
             }
         }
     
